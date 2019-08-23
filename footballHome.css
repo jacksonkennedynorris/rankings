@@ -26,3 +26,12 @@ body{
   width: 46px;
   margin-top:1%;
 }
+a:link{
+  color:#313940;
+}
+a:visited{
+  color:#313940;
+}
+a:hover{
+  color:#55656A;
+}
