@@ -1,39 +1,63 @@
+body{
+  padding-left:5%;
+  padding-right:5%;
+}
 .websiteTitle{
-  color: #343132;
+  color: #313940;
   float:left;
   width:70%;
   font-size:40px;
   padding-right:5%;
   margin-top:1%;
+  margin-bottom:.5%;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 .topOfSite{
   margin-top:1%;
   margin-bottom:0%;
-  margin-right:5%;
-  margin-left:2%;
+  /*margin-right:5%;
+  margin-left:2%;*/
   width:95%;
   float:left;
   border-bottom: 2px solid;
-  border-color: #343132;
+  border-color: #313940;
 }
 h2{
-  color: #343132;
+  color: #313940;
   clear:left;
   padding-top:3%;
 }
 body {
-  background-color: #DBC3A7;
+  background-color: #F4F7F6;
 }
 .twitterBird{
   float:right;
   width: 46px;
   margin-top:1%;
 }
+div.footballImage{
+  float:left;
+  clear:left;
+}
 .footballPic{
   display: block;
   width:50%;
   padding:5%;
+  padding-bottom:0%;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+
+}
+#footballimagecaption{
+  display:block;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  font-size:14px;
+}
+div.headersWithLinks{
+  float:left;
+  clear:right;
+
 }

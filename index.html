@@ -5,6 +5,7 @@
     <title>Heath Aggregate Rankings!</title>
     <link rel='stylesheet' href='rankingsStyleSheet.css'>
     <script type="text/javascript" src="d3.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:700&display=swap" rel="stylesheet">
   </head>
   <body>
     <header class ='topOfSite'>
@@ -15,10 +16,15 @@
         <img class = 'twitterBird' src="twitter_bird_logo_.png">
       </a>
     </header>
-    <img class='footballPic' src="footballimage.jpeg">
-    <h2 class= 'footballHeader'>Football</h2>
-    <h2 class = 'aboutHeader'>About</h2>
-    <h2 'methodologyHeader'>Methodology</h2>
+    <div class="headersWithLinks">
+      <h2 class= 'footballHeader'>Football</h2>
+      <h2 class = 'aboutHeader'>About</h2>
+      <h2 class ='methodologyHeader'>Methodology</h2>
+    </div>
+    <div class="footballImage">
+      <img class='footballPic' src="footballimage.jpeg">
+      <p class='caption' id='footballimagecaption'>Photo: David R. Lutman, Special to The Courier-Journal</p>
+  </div>
     <br>
     <br>
     <script src='rankings.js'></script>
