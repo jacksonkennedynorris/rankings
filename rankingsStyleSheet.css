@@ -10,9 +10,11 @@
   margin-top:1%;
   margin-bottom:0%;
   margin-right:5%;
+  margin-left:2%;
   width:95%;
   float:left;
   border-bottom: 2px solid;
+  border-color: #343132;
 }
 h2{
   color: #343132;
@@ -26,4 +28,12 @@ body {
   float:right;
   width: 46px;
   margin-top:1%;
+}
+.footballPic{
+  display: block;
+  width:50%;
+  padding:5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
