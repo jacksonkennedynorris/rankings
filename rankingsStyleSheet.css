@@ -1,3 +1,4 @@
+/* Starts the Header */
 body{
   padding-left:3%;
   padding-right:3%;
@@ -21,17 +22,17 @@ body{
   border-bottom: 2px solid;
   border-color: #313940;
 }
+.twitterBird{
+  float:right;
+  width: 46px;
+  margin-top:1%;
+}
+/* Ends the header */
 ul{
   color: #313940;
   clear:left;
   padding-top:3%;
   margin-left:5%;
-
-}
-.twitterBird{
-  float:right;
-  width: 46px;
-  margin-top:1%;
 }
 div.footballImage{
   float:left;

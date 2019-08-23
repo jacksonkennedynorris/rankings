@@ -1,0 +1,28 @@
+body{
+  padding-left:3%;
+  padding-right:3%;
+  background-color: #F4F7F6;
+}
+.websiteTitle{
+  color: #313940;
+  float:left;
+  width:70%;
+  font-size:40px;
+  padding-right:5%;
+  margin-top:1%;
+  margin-bottom:.5%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.topOfSite{
+  margin-top:1%;
+  margin-bottom:0%;
+  width:95%;
+  float:left;
+  border-bottom: 2px solid;
+  border-color: #313940;
+}
+.twitterBird{
+  float:right;
+  width: 46px;
+  margin-top:1%;
+}
