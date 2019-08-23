@@ -1,9 +1,29 @@
-h1{
+.websiteTitle{
   color: #343132;
+  float:left;
+  width:70%;
+  font-size:40px;
+  padding-right:5%;
+  margin-top:1%;
+}
+.topOfSite{
+  margin-top:1%;
+  margin-bottom:0%;
+  margin-right:5%;
+  width:95%;
+  float:left;
+  border-bottom: 2px solid;
 }
 h2{
   color: #343132;
+  clear:left;
+  padding-top:3%;
 }
 body {
   background-color: #DBC3A7;
+}
+.twitterBird{
+  float:right;
+  width: 46px;
+  margin-top:1%;
 }
