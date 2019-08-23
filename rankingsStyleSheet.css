@@ -36,6 +36,19 @@ a:visited{
 a:hover{
   color:#55656A;
 }
+li{
+  display:inline;
+  float:left;
+  padding-right:3%;
+  padding-top:1%;
+}
+.headersWithLinks{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:22px;
+  list-style: none;
+  margin-left:2%;
+  padding:0;
+}
 /* Ends the header */
 ul{
   color: #313940;
@@ -62,18 +75,4 @@ div.footballImage{
   margin-right:auto;
   text-align:center;
   font-size:14px;
-}
-.headersWithLinks{
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size:22px;
-  list-style: none;
-  margin-left:2%;
-  padding:0;
-}
-
-li{
-  display:inline;
-  float:left;
-  padding-right:3%;
-  padding-top:1%;
 }
