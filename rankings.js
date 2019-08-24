@@ -23,8 +23,7 @@ plot.append('text')
 .attr('x',20)
 .attr('y',20)
 .attr('fill','white')
-.text(function(data){return data.AverName 
-})
+//.text(function(data){return data.AverName })
 
 
 }

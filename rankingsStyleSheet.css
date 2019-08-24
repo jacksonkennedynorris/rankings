@@ -18,3 +18,8 @@ div.footballImage{
   text-align:center;
   font-size:14px;
 }
+.timer{
+  clear: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:24px;
+}
