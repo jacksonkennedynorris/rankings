@@ -1,5 +1,6 @@
 var tableData = d3.csv('finalTable.csv')
 
+
 tableData.then(function(data){
   useData(data)
 },
@@ -25,7 +26,7 @@ plot.selectAll('text')
 .data(data)
 .enter()
 .append('text')
-.text(function(d,i){return d.rank + '. ' + d.AverName + ' ' + d.Aver})
+.text(function(d,i){return d.Rank + '. '  + d.Name_Of_Team + ' ' + d.Region_Of_Team + 'A ' + d.Rating + ' ' + d.In_State_Record + ' ' + d.Total_Record})
 .attr('font-size',12)
 .attr('x',20)
 .attr('y',function(d,i){return 20 + 13*i})
