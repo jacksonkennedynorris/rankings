@@ -21,8 +21,7 @@ console.log(data)
 var plot = svg.append('g')
 .attr('width',width)
 .attr('height',height)
-Rank,Class,Name of Team,Rating,In-State Record,Total Record,
-Rank,Region_Of_Team,Name_Of_Team,Rating,In_State_Record,Total_Record
+
 plot.selectAll('text')
 .data(data)
 .enter()
