@@ -10,8 +10,8 @@ function(err){
 
 
 var useData = function(data){
-  width = 400;
-  height = 3000;
+  width = 500;
+  height = 4500;
 
 console.log(data)
   var svg = d3.select('svg')
