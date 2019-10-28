@@ -1,4 +1,4 @@
-var tableData = d3.csv('finalTable.csv')
+var tableData = d3.csv('genFile.csv')
 
 
 tableData.then(function(data){
