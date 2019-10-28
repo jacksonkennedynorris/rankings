@@ -21,12 +21,13 @@ console.log(data)
 var plot = svg.append('g')
 .attr('width',width)
 .attr('height',height)
-
+Rank,Class,Name of Team,Rating,In-State Record,Total Record,
+Rank,Region_Of_Team,Name_Of_Team,Rating,In_State_Record,Total_Record
 plot.selectAll('text')
 .data(data)
 .enter()
 .append('text')
-.text(function(d,i){return d.Rank + '. '  + d.Name_Of_Team + ' ' + d.Region_Of_Team + 'A ' + d.Rating + ' ' + d.In_State_Record + ' ' + d.Total_Record})
+.text(function(d,i){return d.Rank + '. '  + d.Class + ' ' + d.Name + 'A ' + d.Rating + ' ' + d.InState + ' ' + d.Total})
 .attr('font-size',12)
 .attr('x',20)
 .attr('y',function(d,i){return 20 + 13*i})
