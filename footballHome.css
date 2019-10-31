@@ -1,3 +1,6 @@
 .footballHeader{
   font-weight: bold;
 }
+.totalTable{
+  clear: left;
+}
