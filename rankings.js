@@ -12,7 +12,7 @@ var useData = function(data){
 
   var myTab = d3.select('table.totalTable')
 
-  var tableNames = ["Ranking","Class","School","Rating","In-State Record","Total Record"];
+  var tableNames = ["Ranking","School","Rating","In-State Record","Total Record"];
 
   var header = myTab.append('thead')
     .selectAll('th')
@@ -28,14 +28,15 @@ var useData = function(data){
     .append('tr')
     row.append('td')
     .text(function(d,i){return d.Rank})
+/*    row.append('td')
+    .text(function(d,i){return d.Class})*/
     row.append('td')
-    .text(function(d,i){return d.Class})
-    row.append('td')
-    .text(function(d,i){return d.Name})
+    .text(function(d,i){return d.Name + " (" + d.Class + "A)"})
     row.append('td')
     .text(function(d,i){return d.Rating})
     row.append('td')
     .text(function(d,i){return d.InState})
     row.append('td')
     .text(function(d,i){return d.Total})
+
 }
