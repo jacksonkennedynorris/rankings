@@ -1,15 +1,16 @@
 .footballHeader{
   font-weight: bold;
 }
-table, th, td {
-  
+table, td {
+  text-align: left;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 th{
   text-align: center;
-  padding: 20px;
-}
-td{
-  text-align: center;
-  padding: 5px;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: #55656A; 
 }
