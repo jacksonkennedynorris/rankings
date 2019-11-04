@@ -1,6 +1,15 @@
 .footballHeader{
   font-weight: bold;
 }
-.totalTable{
-  clear: left;
+table, th, td {
+  
+}
+
+th{
+  text-align: center;
+  padding: 20px;
+}
+td{
+  text-align: center;
+  padding: 5px;
 }
