@@ -2,7 +2,7 @@
 body{
   padding-left:3%;
   padding-right:3%;
-  background-color: #F4F7F6;
+  background-color: #F5F8F7;
 }
 .websiteTitle{
   color: #313940;
@@ -20,7 +20,7 @@ body{
   width:95%;
   float:left;
   border-bottom: 3px solid;
-  border-color: #313940;
+  border-color: #434245;
 }
 .twitterBird{
   float:right;
@@ -28,13 +28,13 @@ body{
   margin-top:1%;
 }
 a:link{
-  color:#313940;
+  color:#84847C;
 }
 a:visited{
-  color:#313940;
+  color:#84847C;
 }
 a:hover{
-  color:#55656A;
+  color:#84847C;
 }
 li{
   display:inline;
@@ -52,7 +52,7 @@ li{
 
 }
 ul{
-  color: #313940;
+  color: #434245;
   clear:left;
   padding-top:3%;
   margin-left:5%;
