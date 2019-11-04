@@ -12,7 +12,7 @@ var useData = function(data){
 
   var myTab = d3.select('table.totalTable')
 
-  var tableNames = ["Ranking","Class","School","Rating","In-State Record","Out-of-State Record"];
+  var tableNames = ["Ranking","Class","School","Rating","In-State Record","Total Record"];
 
   var header = myTab.append('thead')
     .selectAll('th')
