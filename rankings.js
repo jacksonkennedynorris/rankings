@@ -21,6 +21,8 @@ var useData = function(data){
     .append('th')
     .text(function(d){return d;})
 
+
+
   var tableBody = myTab.append('tbody')
   var row = tableBody.selectAll('tr')
     .data(data)
@@ -38,5 +40,5 @@ var useData = function(data){
     .text(function(d,i){return d.InState})
     row.append('td')
     .text(function(d,i){return d.Total})
-
+    
 }
