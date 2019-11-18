@@ -30,8 +30,6 @@ var useData = function(data){
     .append('tr')
     row.append('td')
     .text(function(d,i){return d.Rank})
-/*    row.append('td')
-    .text(function(d,i){return d.Class})*/
     row.append('td')
     .text(function(d,i){return d.Name + " (" + d.Class + "A)"})
     row.append('td')
@@ -40,5 +38,5 @@ var useData = function(data){
     .text(function(d,i){return d.InState})
     row.append('td')
     .text(function(d,i){return d.Total})
-    
+
 }
