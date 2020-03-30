@@ -1,0 +1,23 @@
+.bbasketballHeader{
+  font-weight: bold;
+}
+table, td {
+  text-align: left;
+  padding: 10px;
+  border: 1px solid #313940;
+  border-radius: 5px;
+}
+
+th{
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #313940;
+  background-color: #F5F8F7;
+
+}
+td:hover{
+  background-color: #DDDDDD;
+}
+th:hover{
+  background-color: #DDDDDD;
+}
