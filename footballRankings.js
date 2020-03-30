@@ -1,4 +1,4 @@
-var tableData = d3.csv('genFile.csv')
+var tableData = d3.csv('football/2019table.csv')
   tableData.then(function(data){useData(data)},
   function(err){console.log(err)});
 
@@ -29,14 +29,30 @@ var useData = function(data){
     .enter()
     .append('tr')
     row.append('td')
-    .text(function(d,i){return d.Rank})
+    .text(function(d,i){return i+1})
     row.append('td')
-    .text(function(d,i){return d.Name + " (" + d.Class + "A)"})
+    .text(function(d,i){
+      if(d.Region == "NaN")
+      {
+        return d.Name + " (N/A)"
+      }
+      else if (d.Name == "Trinity (Louisville)") {
+        return "Trinity (" + d.Region + "A)"
+      }
+      else if (d.Name == "Holy Cross (Louisville)"){
+        return "Holy Cross - Louisville (" + d.Region + "A)"
+      }
+      else if (d.Name == "Holy Cross (Covington)"){
+        return "Holy Cross - Covington (" + d.Region + "A)"
+      }
+      else {
+        return d.Name + " (" + d.Region + "A)"}
+      })
     row.append('td')
     .text(function(d,i){return d.Rating})
     row.append('td')
-    .text(function(d,i){return d.InState})
+    .text(function(d,i){return d.In_State_Record})
     row.append('td')
-    .text(function(d,i){return d.Total})
-
+    .text(function(d,i){return d.Record})
+    console.log(data)
 }
