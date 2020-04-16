@@ -12,7 +12,7 @@ var useData = function(data){
 
   var myTab = d3.select('table.totalTable')
 
-  var tableNames = ["Ranking","School","Rating","In-State Record","Total Record"];
+  var tableNames = ["Ranking","School","Region","Rating","Record"];
 
   var header = myTab.append('thead')
     .selectAll('th')
@@ -32,24 +32,30 @@ var useData = function(data){
     .text(function(d,i){return i+1})
     row.append('td')
     .text(function(d,i){
-      if(d.Region == 1)
+      return d.Name})
+    row.append('td')
+    .text(function(d,i){
+      if (d.Region == 1)
       {
-        return d.Name + " (" + d.Region + "st Region)"
+        return d.Region + "st"
       }
-      else if (d.Region == 2) {
-        return d.Name + " (" + d.Region + "nd Region)"
+      else if (d.Region == 2)
+      {
+        return d.Region + "nd"
       }
-      else if (d.Region == 3) {
-        return d.Name + " (" + d.Region + "rd Region)"
+      else if (d.Region == 3)
+      {
+        return d.Region + "rd"
       }
-      else{
-        return d.Name + " (" + d.Region + "th Region)"}
-      })
+      else
+      {
+        return d.Region + "th"
+      }
+    })
     row.append('td')
     .text(function(d,i){return d.Rating})
     row.append('td')
-    .text(function(d,i){return d.In_State_Record})
-    row.append('td')
+
     .text(function(d,i){return d.Record})
     console.log(data)
 }
