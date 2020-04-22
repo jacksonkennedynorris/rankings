@@ -4,15 +4,11 @@ var tableData = d3.csv("BBasketball/2020table.csv")
 
 var useData = function(data){
     width = 500;
-    height = 1000;
-
-    var svg = d3.select('svg')
-    .attr('width',width)
-    .attr('height',height)
+    height = 700;
 
   var myTab = d3.select('table.totalTable')
 
-  var tableNames = ["Ranking","School","Region","Rating","Record"];
+  var tableNames = ["Ranking","School","Region","District","Rating","Record"];
 
   var header = myTab.append('thead')
     .selectAll('th')
@@ -20,9 +16,6 @@ var useData = function(data){
     .enter()
     .append('th')
     .text(function(d){return d;})
-
-
-
   var tableBody = myTab.append('tbody')
   var row = tableBody.selectAll('tr')
     .data(data)
@@ -53,9 +46,31 @@ var useData = function(data){
       }
     })
     row.append('td')
+    .text(function(d,i){
+      if (d.District == 1)
+      {
+        return d.District + "st"
+      }
+      else if (d.District == 2)
+      {
+        return d.District + "nd"
+      }
+      else if (d.District == 3)
+      {
+        return d.District + "rd"
+      }
+      else
+      {
+        return d.District + "th"
+      }
+    })
+    row.append('td')
     .text(function(d,i){return d.Rating})
     row.append('td')
 
     .text(function(d,i){return d.Record})
     console.log(data)
+
+    var firstRegion = d3.select("firstRButt")
+
 }
