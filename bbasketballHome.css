@@ -21,3 +21,6 @@ td:hover{
 th:hover{
   background-color: #DDDDDD;
 }
+td["background-color: rgb(200, 101, 39)")]:hover;{
+  background-color: black;
+}
