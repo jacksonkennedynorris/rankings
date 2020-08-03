@@ -1,0 +1,29 @@
+function mainNew
+clear all
+close all
+sport = "Boys' Basketball";
+for year = 2020
+[data,Games,Teams] = loadingMatrices(year);
+[Games,Teams] = modifyData(Games,Teams,data);
+[Games,PD,Teams,GameMat] = createGameMat(Games,Teams);
+
+
+disp("DONE")
+
+
+
+data = createSmallMat(data);
+data1 = removeTeamsNoGames(data);
+data2 = calculateRecord(data1);
+data3 = removeForfeits(data2);
+data4 = removeTeamsNoGamesAgain(data3);
+
+
+dataFinal = calcs(data4);
+%% Print to File (uncomment when using)
+print2FileFunctionCurrent(dataFinal);
+%% Normalize Ratings 
+[averageRating] = normalize_ratings(sport, year);
+writeFinalTable(averageRating,dataFinal)
+disp(strcat("Done with Matlab for Year: ", num2str(year)))
+end
