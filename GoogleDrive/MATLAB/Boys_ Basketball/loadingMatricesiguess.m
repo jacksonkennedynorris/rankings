@@ -19,7 +19,7 @@ District = TeamTable.District;
 if nargin == 1
     start = 1; %This is the season total if there is no argument
     finish = intmax;
-    saveFinal = true;
+    %saveFinal = true;
 elseif nargin == 2
     mat = varargin{1};  %This is the matrix we plug as an argument
     start = mat(1);

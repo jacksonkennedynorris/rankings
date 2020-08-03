@@ -8,6 +8,7 @@ for year = 2020
 [Games,Teams] = calcs(Games,Teams,year);
 %% Normalize Ratings
 [averageRating] = normalize_ratings(sport, year);
+saveFinal = false;
 if saveFinal
     writeFinalTable(Games,Teams,averageRating,year)
 end
