@@ -1,0 +1,1398 @@
+1998/9 Kentucky High School Girls Basketball
+<html>
+<head>
+<title>1998/9 Kentucky High School Girls Basketball</title>
+<meta content="0" http-equiv="Expires"/>
+<meta content="60" http-equiv="refresh"/>
+<meta content="app-id=418722085" name="apple-itunes-app"/>
+<meta content="width=device-width, target-densitydpi=device-dpi, user-scalable=yes" name="viewport">
+<style type="text/css">
+BODY, TABLE, TD, P {font-family:verdana, arial, sans-serif;}
+body {background:#f0f0f0; margin:0; padding:0;}
+form {margin:2px;}
+select      {font-size: 10pt;
+             color:black;}
+A:link      { color: #005aca; text-decoration:none;}
+A:visited   { color: #005aca; }
+A:active    { color: #3378a0; }
+A:hover     { color: #44a2d9;}
+b {color:#103e72;}
+
+table, tbody, td, tr {margin:0; padding:0;}
+#stat_cntl  {margin:6px 0 0 0; padding:0;}
+
+div.pdf_link,
+div.schedule_nav	{font-size:12px;
+		 padding:5px;
+		 text-align:center;}
+#roster_div		{display:none;}
+#main		{width:90%; max-width:1200px; margin:12px 0px; padding:10px 12px; background:#fff; border:1px solid #d3d3d3; box-shadow: 0px 0px 3px #d5d5d5; border-radius:4px;}
+.roster_table	{font-size:8pt;
+			 border-collapse:collapse;
+			 border:solid black 1px;}
+.roster_table TD	{padding:0 5px;
+			 white-space:nowrap;}
+.date_table	{font-size:9pt;
+		 border-collapse: collapse;
+		 border:solid #ddd 0px;
+		 width:100%;
+		}
+.date_table	caption div {text-align:left; padding:2px; margin:2px 0 3px 0; font-size:10px; font-style: italic; text-indent:11px;}
+.date_table	caption div {background: url("/graphics/sort.gif") no-repeat left center;}
+.date_table td {border-collapse: collapse; border:none; padding:1px; border-bottom:1px solid #ddd;}
+.date_table td:nth-child(2) {background:#d1e8f8; box-shadow:inset 0px 0px 0px 1px #fff;}
+.date_table td:nth-child(4) {background:#e4e4e4; box-shadow:inset 0px 0px 0px 1px #fff;}
+			   
+.date_table tr:nth-child(even) {background:#f4f4f4;}
+.date_table tr:nth-child(odd) {background:#fff;}
+
+.date_table_date{background: #066bb2;
+                border-radius:7px 7px 0px 0px;
+                 color:white;
+                 font-weight:bold;
+                 font-size:9pt;
+                 padding:2px 8px!important;
+                 vertical-align:middle;
+				 border:1px solid #fff!important;
+                }
+.team_hilite	{font-weight:bold;}
+.bracket_table	{font-family:arial;
+			 font-size:8pt;}
+.nobr {white-space:nowrap}
+
+.team_header  {font-size:10pt;}
+.team_header a {font-size:7pt; color:#fff!important; background:#3b8dbd; padding:3px 6px; margin:1px 0px; margin-left:-4px;border-radius:4px; border:0px solid #1c6da0;line-height:200%;}
+.team_header a b {color:#fff!important;}
+.team_header a:hover {background:#4ea4da;}
+
+.winner_team  {white-space:nowrap;
+               width:10%;}
+.winner_team a {color:#0049a4;}
+.loser_team   {
+               padding-left:1em;
+               width:10%;}
+.date_comments   {padding-left:1em;
+                  font-size:8pt;}
+.winner_score {text-align:right;
+               width:25px;}
+.loser_score  {text-align:right;
+               width:25px;}
+.team_score_table	{border-collapse:collapse;
+			 font-size:10pt;
+			   border:solid #ccc 0px;}
+.team_score_comments {font-size:8pt;}
+.team_score_table tr	{vertical-align:top;}
+.team_score_table td	{ padding:0px 4px;}
+.team_score_table tr:nth-child(even) {background:#f4f4f4;}
+.team_score_table tr.sched:nth-child(odd)	{background: #fff;}
+.team_score_table caption,
+.date_table caption       {font-family:verdana,arial,helvetica;
+                           font-size:8pt;}
+.team_score_comments {font-size:8pt;}
+
+.copyright {font-family: verdana,arial,helvetica;
+            font-size:7pt;
+            color:#808080;
+            margin-left:20px;
+            margin-right:20px;
+			padding-top:25px;
+            text-align:center;
+           }
+.ytd_stats {text-align:right; font-size:10pt;}
+.ytd_stats th{border-right: solid black 1px;}
+.ytd_stats {border: solid black 1px;
+            padding: 1px;}
+.player_stats {text-align:center; font-size:10pt;}
+.player_stats th{border-bottom: solid black 1px; border-left: solid black 1px;}
+.player_stats td{border-left: solid black 1px;}
+.ytd_stats caption,
+.player_stats caption,
+.notes caption{font-weight:bold;
+               font-size:10pt;
+               background-color:lightgreen; 
+               border: solid black 1px;}
+.player_stats_subtitle {font-weight:normal;}
+.player_stats,
+.notes     {border: solid black 1px;
+            font-size:10pt;
+            padding: 1px;
+            margin-top:15px;}
+.win_loss_table {font-size:10pt;
+                 border: #ccc solid 1px;
+                 margin-top:25px;
+		 background: #f4f4f4;}
+.win_loss_title {font-size:14pt;}
+.win_loss_table {padding:2px 4px; border-radius:3px; color:#333}
+.win_loss_table th {border-bottom:#aaa solid 1px;}
+.win_loss_header th {padding-left:10px;padding-right:10px;}
+.win_loss_school {text-align:right;
+                  border-right:#aaa solid 1px;}
+.win_loss_table tr:not(.win_loss_title,.win_loss_header):nth-child(even)	{background: #d0d0d0;}
+.win_loss_table caption	{font-size:smaller;
+			 font-style:italic;
+			 caption-side:bottom;
+			 line-height:100%;
+			}
+.caveat        {font-family:verdana,arial,helvetia;
+                font-size:8pt;
+               }
+.latest_stats_table {font-size:10pt;
+                     border:#ddd solid 1px; margin:1px;
+                     margin-bottom:5px; padding:2px; background:#fafafa; border-radius:3px;
+                     width:600;}
+.latest_stats_table ul{font-size:8pt;
+                       white-space:nowrap;
+                       margin-bottom:0px;}
+.latest_stats_table caption {}                             
+.title,
+.subtitle  {text-align:center;
+           font-size:13px;
+           font-weight:bold;
+	   clear:both;
+           color:#103e72; margin:0; margin-top:-1px; padding:1px; box-sizing: border-box; border-radius:0px 3px 3px 3px;}
+caption.subtitle  {text-align:center; color:#fff; background:#103e72;}
+.title	{color: navy;
+             font-weight: bold;}
+.category_list {font-size:8pt;}
+select	{font-size:11px; color:#444; padding:2px; border-radius:3px;
+		 width:190px; cursor:pointer;}
+.nav_bar	{border:solid #ccc 1px;
+		 padding:3px;
+		 width:68.5%; 
+		 background:#eee;
+		 border-radius:3px;
+		 float:left; 
+		background: rgb(240,240,240); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(240,240,240,1) 0%, rgba(226,226,226,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(240,240,240,1) 0%,rgba(226,226,226,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(240,240,240,1) 0%,rgba(226,226,226,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#e2e2e2',GradientType=0 ); /* IE6-9 */
+		 }
+
+.nav_bar td	{padding:3px;}
+
+.motd		{font-size:8pt;
+	        box-sizing: border-box; padding:6px;
+		    background:#f5f6f6; float:left; clear:right; width:29%; height:153px; margin-left:10px; }	
+
+.motd a	img{padding:5px 0 20px 20px; margin:0 auto; clear:both; display:block;}
+
+#privacy	{text-decoration:underline;
+		 padding-top:1em;}
+.overlay	{display:none;
+		 position:absolute;
+		 z-index:2;
+		 cursor:default;
+		 height:auto;
+		 width:250px;
+		 border:solid black 1px;
+		 background:#EEEEEE;
+		 font-size:8pt;
+		 padding:10px;
+		}
+
+#cookie-bar {background:#111111; height:auto; font-size: 10px; color:#eeeeee; text-align:center; padding:3px 0; z-index:10000;}
+#cookie-bar {background:white; height:auto; font-size: 10px; color:black; text-align:center; padding:0; z-index:10000;}
+#cookie-bar.fixed {position:fixed; top:0; left:0; width:100%}
+#cookie-bar.fixed.bottom {bottom:0; top:auto;}
+#cookie-bar p {margin:0px 1px 0px 0px; padding:3px;border:solid black 1px;}
+#cookie-bar a {color:#ffffff; display:inline-block; border-radius:3px; text-decoration:none; padding:0 6px; margin-left:8px;}
+#cookie-bar .cb-enable {background:#007700;}
+#cookie-bar .cb-enable:hover {background:#009900;}
+#cookie-bar .cb-disable {background:#990000;}
+#cookie-bar .cb-disable:hover {background:#bb0000;}
+#cookie-bar .cb-policy {background:#0033bb;}
+#cookie-bar .cb-policy:hover {background:#0055dd;}
+
+table#top_ad  {width:100%; padding:2px 25px 3px 25px; background:#3b8dbd; border-bottom:1px solid #f9f9f9; box-sizing: border-box; overflow:auto;}	
+table#top_ad caption	{caption-side: top; font-size:8pt; font-style:italic; color:#fff; padding:2px; background:#103e72; border-bottom:1px solid #439fd5;}
+table#top_ad tr td:nth-child(1) img {width:114px; margin:0 auto; text-align:center;  display: block;}
+table#prod_table tr td:nth-child(1) img {width:auto;}
+
+#roster_link {padding-bottom:5px;}
+.headline	{text-align:center;}
+/*
+@media screen and (max-width: 600px) {
+    div#motd,
+    table#top_ad,
+    td#left_ad	{display: none;}
+    table#nav_bar	{margin:0;}
+	
+	table#top_ad  { padding:5px 20px;}	
+	#main		{width:99%;}
+}
+*/
+@media screen and (max-width: 750px) {
+    div#motd,
+    table#top_ad > tbody > tr > td:nth-child(1)	{display:none;}
+}
+td.winner_team,
+td.loser_team          {max-width:250px;
+                        white-space:nowrap;
+                        overflow:hidden;
+                        text-overflow:ellipsis;
+                       }
+
+</style>
+<script src="/output/js.js" type="text/javascript"></script>
+<script src="/output/jquery.cookiebar.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $(function(){
+    wwidth=document.body.offsetWidth;
+    nwidth=wwidth-150;
+    nwidth=Math.min(nwidth,1000);
+    nwidth=Math.max(nwidth,750);
+//alert(wwidth+" "+nwidth);
+    $("#main").css('width',nwidth);
+      
+  });
+</script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-4394351987806189",
+          enable_page_level_ads: true
+     });
+</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-123648260-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123648260-1');
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-123648260-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</meta></head>
+<body bgcolor="#FFFFFF">
+<center><table border="0" cellpadding="0" cellspacing="0" id="top_ad" valign="top">
+<tr>
+<td height="60" style="padding-right:20px;">
+<p><a href="http://www.khsaa.org/" target="_blank"><img align="bottom" border="0" height="60" src="/graphics/khsaa.gif" width="140"/></a>
+</p></td>
+<td align="center" height="60" id="test_ad" valign="top" width="470"></td>
+</tr>
+<caption>1 Website. 23 Years. 42,917 Teams. 504,354 Games. 23,703,805 Points Scored.</caption>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="main" valign="top">
+<tr>
+<td colspan="2">
+<center><!--start_logo--><!--end_logo--></center>
+</td>
+</tr>
+<tr>
+<td class="headline" colspan="2" height="25" valign="top">
+<div style="text-align:center;">The suspension of spring sports has been extended until at least May 1 and is being evaluated on a continual basis.
+  Schools will update their schedules as they have more information. Those changes will be immediately and automcatically updated here. 
+         <div>See <a href="https://khsaa.org">KHSAA.ORG</a> for latest status updates.</div>
+</div>
+<font size="+2"><b> <!--start_headline-->1998/9 Kentucky High School Girls Basketball<!--end_headline--></b></font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><img align="bottom" border="0" height="10" src="/scoreboard_graphics/spacer.gif" valign="TOP" width="1"/>
+</p></td>
+</tr>
+<tr valign="top">
+<td align="center"><!--start_data--><table bgcolor="pink" class="nav_bar">
+<tr><td align="right"><form action="/scoreboard/khsaa/kygbk8">
+<select class="scoreboard_list date_list" id="sel_date_gbk8" name="id" onchange="submit();">
+<option value="">(select date)
+<option value="1998-11-16">Mon., November 16, '98
+<option value="1998-11-17">Tue., November 17, '98
+<option value="1998-11-19">Thu., November 19, '98
+<option value="1998-11-20">Fri., November 20, '98
+<option value="1998-11-21">Sat., November 21, '98
+<option value="1998-11-23">Mon., November 23, '98
+<option value="1998-11-24">Tue., November 24, '98
+<option value="1998-11-27">Fri., November 27, '98
+<option value="1998-11-28">Sat., November 28, '98
+<option value="1998-11-30">Mon., November 30, '98
+<option value="1998-12-01">Tue., December 1, '98
+<option value="1998-12-02">Wed., December 2, '98
+<option value="1998-12-03">Thu., December 3, '98
+<option value="1998-12-04">Fri., December 4, '98
+<option value="1998-12-05">Sat., December 5, '98
+<option value="1998-12-07">Mon., December 7, '98
+<option value="1998-12-08">Tue., December 8, '98
+<option value="1998-12-09">Wed., December 9, '98
+<option value="1998-12-10">Thu., December 10, '98
+<option value="1998-12-11">Fri., December 11, '98
+<option value="1998-12-12">Sat., December 12, '98
+<option value="1998-12-13">Sun., December 13, '98
+<option value="1998-12-14">Mon., December 14, '98
+<option value="1998-12-15">Tue., December 15, '98
+<option value="1998-12-16">Wed., December 16, '98
+<option value="1998-12-17">Thu., December 17, '98
+<option value="1998-12-18">Fri., December 18, '98
+<option value="1998-12-19">Sat., December 19, '98
+<option value="1998-12-20">Sun., December 20, '98
+<option value="1998-12-21">Mon., December 21, '98
+<option value="1998-12-22">Tue., December 22, '98
+<option value="1998-12-23">Wed., December 23, '98
+<option value="1998-12-26">Sat., December 26, '98
+<option value="1998-12-27">Sun., December 27, '98
+<option value="1998-12-28">Mon., December 28, '98
+<option value="1998-12-29">Tue., December 29, '98
+<option value="1998-12-30">Wed., December 30, '98
+<option value="1998-12-31">Thu., December 31, '98
+<option value="1999-01-01">Fri., January 1, '99
+<option value="1999-01-02">Sat., January 2, '99
+<option value="1999-01-04">Mon., January 4, '99
+<option value="1999-01-05">Tue., January 5, '99
+<option value="1999-01-06">Wed., January 6, '99
+<option value="1999-01-07">Thu., January 7, '99
+<option value="1999-01-08">Fri., January 8, '99
+<option selected="" value="1999-01-09">Sat., January 9, '99
+<option value="1999-01-11">Mon., January 11, '99
+<option value="1999-01-12">Tue., January 12, '99
+<option value="1999-01-13">Wed., January 13, '99
+<option value="1999-01-14">Thu., January 14, '99
+<option value="1999-01-15">Fri., January 15, '99
+<option value="1999-01-16">Sat., January 16, '99
+<option value="1999-01-17">Sun., January 17, '99
+<option value="1999-01-18">Mon., January 18, '99
+<option value="1999-01-19">Tue., January 19, '99
+<option value="1999-01-20">Wed., January 20, '99
+<option value="1999-01-21">Thu., January 21, '99
+<option value="1999-01-22">Fri., January 22, '99
+<option value="1999-01-23">Sat., January 23, '99
+<option value="1999-01-25">Mon., January 25, '99
+<option value="1999-01-26">Tue., January 26, '99
+<option value="1999-01-27">Wed., January 27, '99
+<option value="1999-01-28">Thu., January 28, '99
+<option value="1999-01-29">Fri., January 29, '99
+<option value="1999-01-30">Sat., January 30, '99
+<option value="1999-01-31">Sun., January 31, '99
+<option value="1999-02-01">Mon., February 1, '99
+<option value="1999-02-02">Tue., February 2, '99
+<option value="1999-02-03">Wed., February 3, '99
+<option value="1999-02-04">Thu., February 4, '99
+<option value="1999-02-05">Fri., February 5, '99
+<option value="1999-02-06">Sat., February 6, '99
+<option value="1999-02-07">Sun., February 7, '99
+<option value="1999-02-08">Mon., February 8, '99
+<option value="1999-02-09">Tue., February 9, '99
+<option value="1999-02-10">Wed., February 10, '99
+<option value="1999-02-11">Thu., February 11, '99
+<option value="1999-02-12">Fri., February 12, '99
+<option value="1999-02-13">Sat., February 13, '99
+<option value="1999-02-14">Sun., February 14, '99
+<option value="1999-02-15">Mon., February 15, '99
+<option value="1999-02-16">Tue., February 16, '99
+<option value="1999-02-17">Wed., February 17, '99
+<option value="1999-02-18">Thu., February 18, '99
+<option value="1999-02-19">Fri., February 19, '99
+<option value="1999-02-20">Sat., February 20, '99
+<option value="1999-02-22">Mon., February 22, '99
+<option value="1999-02-23">Tue., February 23, '99
+<option value="1999-02-24">Wed., February 24, '99
+<option value="1999-02-25">Thu., February 25, '99
+<option value="1999-02-26">Fri., February 26, '99
+<option value="1999-02-27">Sat., February 27, '99
+<option value="1999-03-01">Mon., March 1, '99
+<option value="1999-03-02">Tue., March 2, '99
+<option value="1999-03-03">Wed., March 3, '99
+<option value="1999-03-04">Thu., March 4, '99
+<option value="1999-03-05">Fri., March 5, '99
+<option value="1999-03-06">Sat., March 6, '99
+<option value="1999-03-08">Mon., March 8, '99
+<option value="1999-03-09">Tue., March 9, '99
+<option value="1999-03-17">Wed., March 17, '99
+<option value="1999-03-18">Thu., March 18, '99
+<option value="1999-03-19">Fri., March 19, '99
+<option value="1999-03-20">Sat., March 20, '99
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td><td rowspan="4"><table border="0" cellpadding="0">
+<caption align="top" class="subtitle">This Season's Sports:</caption>
+<tr><td><ul class="category_list" style="text-align:left;margin-bottom:0px;">
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyfb19">2019 KY Football</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kybsc19">2019 KY Boys Soccer</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kygsc19">2019 KY Girls Soccer</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyvb19">2019 KY Volleyball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kybbk19">2019/20 KY Boys Basketball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kygbk19">2019/20 KY Girls Basketball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyba20">2020 KY Baseball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyfp20">2020 KY Fast Pitch Softball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyfh19">2019 KY Field Hockey</a>
+</li></li></li></li></li></li></li></li></li></ul></td></tr></table>
+</td></tr>
+<tr><td align="right"><form action="/scoreboard/khsaa/kygbk8/">
+<select class="scoreboard_list team_list" id="sel_gbk8" name="id" onchange="submit();">
+<option value="">(select school)
+<option value="4724">Adair County
+<option value="4725">Allen Central
+<option value="4726">Allen County-Scottsville
+<option value="4727">Anderson County
+<option value="4728">Apollo
+<option value="4921">Ashland Blazer
+<option value="4729">Assumption
+<option value="4730">Atherton
+<option value="4731">Augusta
+<option value="4732">Ballard
+<option value="4733">Ballard Memorial
+<option value="4734">Barbourville
+<option value="4735">Bardstown
+<option value="4736">Barren County
+<option value="4737">Bath County
+<option value="4738">Beechwood
+<option value="4739">Belfry
+<option value="4740">Bell County
+<option value="4741">Bellevue
+<option value="4742">Berea
+<option value="4743">Beth Haven
+<option value="4744">Bethlehem
+<option value="4745">Betsy Layne
+<option value="4746">Bishop Brossart
+<option value="4747">Boone County
+<option value="4748">Bourbon County
+<option value="4749">Bowling Green
+<option value="4750">Boyd County
+<option value="4751">Boyle County
+<option value="4752">Bracken County
+<option value="4753">Breathitt County
+<option value="4754">Breckinridge County
+<option value="4755">Brown
+<option value="4756">Bryan Station
+<option value="4757">Buckhorn
+<option value="4758">Bullitt Central
+<option value="4759">Bullitt East
+<option value="4760">Burgin
+<option value="4761">Butler
+<option value="4762">Butler County
+<option value="4763">Caldwell County
+<option value="4764">Calloway County
+<option value="4765">Campbell County
+<option value="4766">Campbellsville
+<option value="4767">Carlisle County
+<option value="4768">Carroll County
+<option value="4769">Casey County
+<option value="4770">Caverna
+<option value="4771">Cawood
+<option value="4772">Central
+<option value="4773">Central Hardin
+<option value="4774">Christian Academy-Louisville
+<option value="4775">Christian County
+<option value="4776">Christian Fellowship
+<option value="4777">Clay County
+<option value="4778">Clinton County
+<option value="4779">Conner
+<option value="4780">Corbin
+<option value="4781">Cordia
+<option value="4782">Covington Latin
+<option value="4783">Crittenden County
+<option value="4784">Cumberland
+<option value="4785">Cumberland County
+<option value="4786">Danville
+<option value="4787">Daviess County
+<option value="4788">Dawson Springs
+<option value="4789">Dayton
+<option value="4790">Deming
+<option value="4791">Dixie Heights
+<option value="4792">Doss
+<option value="5026">DuPont Manual
+<option value="4793">East Carter
+<option value="4794">East Jessamine
+<option value="4795">Eastern
+<option value="4796">Edmonson County
+<option value="4797">Elizabethtown
+<option value="4798">Elkhorn City
+<option value="4799">Elliott County
+<option value="4800">Eminence
+<option value="4801">Estill County
+<option value="4802">Evangel Christian
+<option value="4803">Evarts
+<option value="4804">Fairdale
+<option value="4805">Fairview
+<option value="4806">Feds Creek
+<option value="4807">Fern Creek
+<option value="4808">Fleming County
+<option value="4809">Fleming-Neon
+<option value="4810">Fort Campbell
+<option value="4811">Fort Knox
+<option value="4812">Frankfort
+<option value="4813">Franklin County
+<option value="4814">Franklin-Simpson
+<option value="4815">Frederick Fraize
+<option value="4816">Fulton City
+<option value="4817">Fulton County
+<option value="4818">Gallatin County
+<option value="4819">Garrard County
+<option value="4820">George Rogers Clark
+<option value="4821">Glasgow
+<option value="4822">Grant County
+<option value="4823">Graves County
+<option value="4824">Grayson County
+<option value="4825">Green County
+<option value="4826">Greenup County
+<option value="4827">Greenwood
+<option value="4828">Hancock County
+<option value="4829">Harlan
+<option value="4830">Harrison County
+<option value="4831">Harrodsburg
+<option value="4832">Hart County
+<option value="4833">Hazard
+<option value="4834">Heath
+<option value="4835">Henderson County
+<option value="4836">Henry Clay
+<option value="4837">Henry County
+<option value="4838">Heritage Academy
+<option value="4839">Hickman County
+<option value="4840">Highlands
+<option value="4842">Holmes
+<option value="4843">Holy Cross (Covington)
+<option value="4844">Holy Cross (Louisville)
+<option value="4845">Holy Rosary
+<option value="4846">Hopkins County Central
+<option value="4847">Hopkinsville
+<option value="4848">Iroquois
+<option value="4849">Jackson City
+<option value="4850">Jackson County
+<option value="4851">Jeffersontown
+<option value="4852">Jenkins
+<option value="4853">Johnson Central
+<option value="4854">June Buchanan
+<option value="4855">Kentucky Country Day
+<option value="4856">Kentucky School f/t Deaf
+<option value="4857">Knott County Central
+<option value="4858">Knox Central
+<option value="4860">Lafayette
+<option value="4859">LaRue County
+<option value="4861">Lawrence County
+<option value="4862">Lee County
+<option value="4863">Leslie County
+<option value="4864">Letcher
+<option value="4865">Lewis County
+<option value="4866">Lexington Catholic
+<option value="4867">Lexington Christian
+<option value="4868">Lincoln County
+<option value="4869">Livingston Central
+<option value="4870">Lloyd Memorial
+<option value="4871">Logan County
+<option value="4872">Lone Oak
+<option value="4873">Louisville Collegiate
+<option value="4874">Ludlow
+<option value="4875">Lynn Camp
+<option value="4876">Lyon County
+<option value="4877">Madison Central
+<option value="4878">Madison Southern
+<option value="4879">Madisonville-North Hopkins
+<option value="4880">Magoffin County
+<option value="4881">Male
+<option value="4882">Marion County
+<option value="4883">Marshall County
+<option value="4884">Mason County
+<option value="4885">Mayfield
+<option value="5027">McCreary Central
+<option value="4886">McLean County
+<option value="4887">Meade County
+<option value="4888">Menifee County
+<option value="4889">Mercer County
+<option value="4890">Mercy
+<option value="4891">Metcalfe County
+<option value="4892">Middlesboro
+<option value="4893">Millard
+<option value="4894">Model
+<option value="4895">Monroe County
+<option value="4896">Montgomery County
+<option value="4897">Monticello
+<option value="4898">Moore
+<option value="4899">Morgan County
+<option value="4900">Muhlenberg North
+<option value="4901">Muhlenberg South
+<option value="4902">Murray
+<option value="4903">Nelson County
+<option value="4904">Newport
+<option value="4905">Newport Central Catholic
+<option value="4906">Nicholas County
+<option value="4907">North Bullitt
+<option value="4908">North Hardin
+<option value="4909">North Laurel
+<option value="4910">Notre Dame
+<option value="4911">Ohio County
+<option value="4912">Oldham County
+<option value="4913">Oneida Baptist Institute
+<option value="4914">Owen County
+<option value="4915">Owensboro
+<option value="4916">Owensboro Catholic
+<option value="4917">Owsley County
+<option value="4918">Paducah Tilghman
+<option value="4919">Paintsville
+<option value="4920">Paris
+<option value="4922">Paul Laurence Dunbar
+<option value="4923">Pendleton County
+<option value="4924">Perry County Central
+<option value="4925">Phelps
+<option value="4926">Piarist School
+<option value="4927">Pike County Central
+<option value="4928">Pikeville
+<option value="4929">Pineville
+<option value="4930">Pleasure Ridge Park
+<option value="4932">Powell County
+<option value="4933">Presentation
+<option value="4934">Prestonsburg
+<option value="4935">Providence
+<option value="4936">Pulaski County
+<option value="4938">Raceland
+<option value="4939">Red Bird
+<option value="4940">Reidland
+<option value="4941">Riverside Christian
+<option value="4942">Rockcastle County
+<option value="4943">Rose Hill Christian
+<option value="4944">Rowan County
+<option value="4945">Russell
+<option value="4946">Russell County
+<option value="4947">Russellville
+<option value="4948">Ryle
+<option value="4949">Sacred Heart
+<option value="4950">Sayre
+<option value="4951">Scott
+<option value="4952">Scott County
+<option value="4953">Seneca
+<option value="4954">Shawnee
+<option value="4955">Shelby County
+<option value="4956">Shelby Valley
+<option value="4957">Sheldon Clark
+<option value="4958">Silver Grove
+<option value="4959">Simon Kenton
+<option value="4960">Somerset
+<option value="4961">South Floyd
+<option value="4962">South Laurel
+<option value="4963">South Oldham
+<option value="4964">Southern
+<option value="4937">Southwestern
+<option value="4965">Spencer County
+<option value="4966">St. Francis
+<option value="4967">St. Henry
+<option value="4968">St. Mary
+<option value="4969">St. Patrick
+<option value="4970">Tates Creek
+<option value="4971">Taylor County
+<option value="4972">Todd County Central
+<option value="4973">Trigg County
+<option value="4974">Trimble County
+<option value="4975">Trinity (Whitesville)
+<option value="4976">Union County
+<option value="4977">Valley
+<option value="4978">Villa Madonna
+<option value="4979">Waggener
+<option value="4980">Walden
+<option value="4981">Walton-Verona
+<option value="4982">Warren Central
+<option value="4983">Warren East
+<option value="4984">Washington County
+<option value="4985">Wayne County
+<option value="4986">Webster County
+<option value="4987">West Carter
+<option value="4988">West Jessamine
+<option value="4990">Western
+<option value="4989">Western Hills
+<option value="4841">Whitefield Academy
+<option value="4991">Whitesburg
+<option value="4992">Whitley County
+<option value="4993">Williamsburg
+<option value="4994">Williamstown
+<option value="4995">Wolfe County
+<option value="4996">Woodford County
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td></tr>
+<tr><td align="right"><form action="/scoreboard/khsaa/">
+<select class="scoreboard_list" id="sel_event_gbk8" name="event" onchange="submit();">
+<option value="">(select another scoreboard)
+<option value="kyba8">1998 KY Baseball
+<option value="kyba9">1999 KY Baseball
+<option value="kyba0">2000 KY Baseball
+<option value="kyba1">2001 KY Baseball
+<option value="kyba2">2002 KY Baseball
+<option value="kyba3">2003 KY Baseball
+<option value="kyba4">2004 KY Baseball
+<option value="kyba5">2005 KY Baseball
+<option value="kyba6">2006 KY Baseball
+<option value="kyba7">2007 KY Baseball
+<option value="kyba08">2008 KY Baseball
+<option value="kyba09">2009 KY Baseball
+<option value="kyba10">2010 KY Baseball
+<option value="kyba11">2011 KY Baseball
+<option value="kyba12">2012 KY Baseball
+<option value="kyba13">2013 KY Baseball
+<option value="kyba14">2014 KY Baseball
+<option value="kyba15">2015 KY Baseball
+<option value="kyba16">2016 KY Baseball
+<option value="kyba17">2017 KY Baseball
+<option value="kyba18">2018 KY Baseball
+<option value="kyba19">2019 KY Baseball
+<option value="kyba20">2020 KY Baseball
+<option value="kyba21">2021 KY Baseball
+<option value="kybbk7">1997/8 KY Boys Basketball
+<option value="kybbk8">1998/9 KY Boys Basketball
+<option value="kybbk9">1999/2000 KY Boys Basketball
+<option value="kybbk0">2000/1 KY Boys Basketball
+<option value="kybbk1">2001/2 KY Boys Basketball
+<option value="kybbk2">2002/3 KY Boys Basketball
+<option value="kybbk3">2003/4 KY Boys Basketball
+<option value="kybbk4">2004/5 KY Boys Basketball
+<option value="kybbk5">2005/6 KY Boys Basketball
+<option value="kybbk6">2006/7 KY Boys Basketball
+<option value="kybbk07">2007/8 KY Boys Basketball
+<option value="kybbk08">2008/9 KY Boys Basketball
+<option value="kybbk09">2009/10 KY Boys Basketball
+<option value="kybbk10">2010/11 KY Boys Basketball
+<option value="kybbk11">2011/12 KY Boys Basketball
+<option value="kybbk12">2012/13 KY Boys Basketball
+<option value="kybbk13">2013/14 KY Boys Basketball
+<option value="kybbk14">2014/15 KY Boys Basketball
+<option value="kybbk15">2015/16 KY Boys Basketball
+<option value="kybbk16">2016/17 KY Boys Basketball
+<option value="kybbk17">2017/18 KY Boys Basketball
+<option value="kybbk18">2018/19 KY Boys Basketball
+<option value="kybbk19">2019/20 KY Boys Basketball
+<option value="kybbk20">2020/21 KY Boys Basketball
+<option value="kybsc0">2000 KY Boys Soccer
+<option value="kybsc1">2001 KY Boys Soccer
+<option value="kybsc2">2002 KY Boys Soccer
+<option value="kybsc3">2003 KY Boys Soccer
+<option value="kybsc4">2004 KY Boys Soccer
+<option value="kybsc5">2005 KY Boys Soccer
+<option value="kybsc6">2006 KY Boys Soccer
+<option value="kybsc07">2007 KY Boys Soccer
+<option value="kybsc08">2008 KY Boys Soccer
+<option value="kybsc09">2009 KY Boys Soccer
+<option value="kybsc10">2010 KY Boys Soccer
+<option value="kybsc11">2011 KY Boys Soccer
+<option value="kybsc12">2012 KY Boys Soccer
+<option value="kybsc13">2013 KY Boys Soccer
+<option value="kybsc14">2014 KY Boys Soccer
+<option value="kybsc15">2015 KY Boys Soccer
+<option value="kybsc16">2016 KY Boys Soccer
+<option value="kybsc17">2017 KY Boys Soccer
+<option value="kybsc18">2018 KY Boys Soccer
+<option value="kybsc19">2019 KY Boys Soccer
+<option value="kybsc20">2020 KY Boys Soccer
+<option value="kyfb">1998 KY Football
+<option value="kyfb9">1999 KY Football
+<option value="kyfb0">2000 KY Football
+<option value="kyfb1">2001 KY Football
+<option value="kyfb2">2002 KY Football
+<option value="kyfb3">2003 KY Football
+<option value="kyfb4">2004 KY Football
+<option value="kyfb5">2005 KY Football
+<option value="kyfb6">2006 KY Football
+<option value="kyfb07">2007 KY Football
+<option value="kyfb08">2008 KY Football
+<option value="kyfb09">2009 KY Football
+<option value="kyfb10">2010 KY Football
+<option value="kyfb11">2011 KY Football
+<option value="kyfb12">2012 KY Football
+<option value="kyfb13">2013 KY Football
+<option value="kyfb14">2014 KY Football
+<option value="kyfb15">2015 KY Football
+<option value="kyfb16">2016 KY Football
+<option value="kyfb17">2017 KY Football
+<option value="kyfb18">2018 KY Football
+<option value="kyfb19">2019 KY Football
+<option value="kyfb20">2020 KY Football
+<option value="kyfh15">2015 KY Field Hockey
+<option value="kyfh16">2016 KY Field Hockey
+<option value="kyfh17">2017 KY Field Hockey
+<option value="kyfh18">2018 KY Field Hockey
+<option value="kyfh19">2019 KY Field Hockey
+<option value="kyfh20">2020 KY Field Hockey
+<option value="kyfp8">1998 KY Fast Pitch Softball
+<option value="kyfp9">1999 KY Fast Pitch Softball
+<option value="kyfp0">2000 KY Fast Pitch Softball
+<option value="kyfp1">2001 KY Fast Pitch Softball
+<option value="kyfp2">2002 KY Fast Pitch Softball
+<option value="kyfp3">2003 KY Fast Pitch Softball
+<option value="kyfp4">2004 KY Fast Pitch Softball
+<option value="kyfp5">2005 KY Fast Pitch Softball
+<option value="kyfp6">2006 KY Fast Pitch Softball
+<option value="kyfp7">2007 KY Fast Pitch Softball
+<option value="kyfp08">2008 KY Fast Pitch Softball
+<option value="kyfp09">2009 KY Fast Pitch Softball
+<option value="kyfp10">2010 KY Fast Pitch Softball
+<option value="kyfp11">2011 KY Fast Pitch Softball
+<option value="kyfp12">2012 KY Fast Pitch Softball
+<option value="kyfp13">2013 KY Fast Pitch Softball
+<option value="kyfp14">2014 KY Fast Pitch Softball
+<option value="kyfp15">2015 KY Fast Pitch Softball
+<option value="kyfp16">2016 KY Fast Pitch Softball
+<option value="kyfp17">2017 KY Fast Pitch Softball
+<option value="kyfp18">2018 KY Fast Pitch Softball
+<option value="kyfp19">2019 KY Fast Pitch Softball
+<option value="kyfp20">2020 KY Fast Pitch Softball
+<option value="kyfp21">2021 KY Fast Pitch Softball
+<option value="kygbk7">1997/8 KY Girls Basketball
+<option selected="" value="kygbk8">1998/9 KY Girls Basketball
+<option value="kygbk9">1999/2000 KY Girls Basketball
+<option value="kygbk0">2000/1 KY Girls Basketball
+<option value="kygbk1">2001/2 KY Girls Basketball
+<option value="kygbk2">2002/3 KY Girls Basketball
+<option value="kygbk3">2003/4 KY Girls Basketball
+<option value="kygbk4">2004/5 KY Girls Basketball
+<option value="kygbk5">2005/6 KY Girls Basketball
+<option value="kygbk6">2006/7 KY Girls Basketball
+<option value="kygbk07">2007/8 KY Girls Basketball
+<option value="kygbk08">2008/9 KY Girls Basketball
+<option value="kygbk09">2009/10 KY Girls Basketball
+<option value="kygbk10">2010/11 KY Girls Basketball
+<option value="kygbk11">2011/12 KY Girls Basketball
+<option value="kygbk12">2012/13 KY Girls Basketball
+<option value="kygbk13">2013/14 KY Girls Basketball
+<option value="kygbk14">2014/15 KY Girls Basketball
+<option value="kygbk15">2015/16 KY Girls Basketball
+<option value="kygbk16">2016/17 KY Girls Basketball
+<option value="kygbk17">2017/18 KY Girls Basketball
+<option value="kygbk18">2018/19 KY Girls Basketball
+<option value="kygbk19">2019/20 KY Girls Basketball
+<option value="kygbk20">2020/21 KY Girls Basketball
+<option value="kygsc0">2000 KY Girls Soccer
+<option value="kygsc1">2001 KY Girls Soccer
+<option value="kygsc2">2002 KY Girls Soccer
+<option value="kygsc3">2003 KY Girls Soccer
+<option value="kygsc4">2004 KY Girls Soccer
+<option value="kygsc5">2005 KY Girls Soccer
+<option value="kygsc6">2006 KY Girls Soccer
+<option value="kygsc07">2007 KY Girls Soccer
+<option value="kygsc08">2008 KY Girls Soccer
+<option value="kygsc09">2009 KY Girls Soccer
+<option value="kygsc10">2010 KY Girls Soccer
+<option value="kygsc11">2011 KY Girls Soccer
+<option value="kygsc12">2012 KY Girls Soccer
+<option value="kygsc13">2013 KY Girls Soccer
+<option value="kygsc14">2014 KY Girls Soccer
+<option value="kygsc15">2015 KY Girls Soccer
+<option value="kygsc16">2016 KY Girls Soccer
+<option value="kygsc17">2017 KY Girls Soccer
+<option value="kygsc18">2018 KY Girls Soccer
+<option value="kygsc19">2019 KY Girls Soccer
+<option value="kygsc20">2020 KY Girls Soccer
+<option value="kyvb0">2000 KY Volleyball
+<option value="kyvb1">2001 KY Volleyball
+<option value="kyvb2">2002 KY Volleyball
+<option value="kyvb3">2003 KY Volleyball
+<option value="kyvb4">2004 KY Volleyball
+<option value="kyvb5">2005 KY Volleyball
+<option value="kyvb6">2006 KY Volleyball
+<option value="kyvb07">2007 KY Volleyball
+<option value="kyvb08">2008 KY Volleyball
+<option value="kyvb09">2009 KY Volleyball
+<option value="kyvb10">2010 KY Volleyball
+<option value="kyvb11">2011 KY Volleyball
+<option value="kyvb12">2012 KY Volleyball
+<option value="kyvb13">2013 KY Volleyball
+<option value="kyvb14">2014 KY Volleyball
+<option value="kyvb15">2015 KY Volleyball
+<option value="kyvb16">2016 KY Volleyball
+<option value="kyvb17">2017 KY Volleyball
+<option value="kyvb18">2018 KY Volleyball
+<option value="kyvb19">2019 KY Volleyball
+<option value="kyvb20">2020 KY Volleyball
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td></tr>
+</table>
+<div class="motd nav_bar" id="motd">
+Have a score we don't have? Call it in to <span style="white-space:nowrap;">1-800-453-6882!</span>
+<hr width="75%"/>
+<a href="http://itunes.apple.com/us/app/khsaa-riherds-com-high-school/id418722085?mt=8&amp;ls=1"><img alt="Link to App" border="0" height="40" src="/graphics/download.png" style="margin-right:50px;float:right;" width="135"/></a>
+Version <span style="white-space:nowrap;">14.7</span> of iPhone/iPad Scoreboard released <span style="white-space:nowrap;">February 14</span><br/>
+</div>
+<div class="overlay" id="motd_overlay"></div>
+<script type="text/javascript">
+  $(function(){
+//  var ws=new WebSocket('wss://ws.4ank.com:443/');
+    if(navigator.userAgent.search(/iphone/i)>1){$('#iphone_message').show();}
+    $('.ad_click').click(function(){
+      $.get('/adclick.php?href='+$(this).attr('href')+"&cd="+document.cookie);
+      return true;
+    });
+    $("#motd").css('cursor','help').click(function(e){ 
+      evt=e;
+      $("#motd_overlay").load("/motd_overlay.php",function(evt){
+        $("#motd_overlay").helpbox(e);
+      });
+    });
+    $.cookieBar({
+      acceptOnScroll: 100,
+      expireDays: 7,
+      fixed: true,
+      bottom: true,
+      policyButton: true,
+      policyText: 'See Details',
+      policyURL: 'http://www.google.com/intl/en/policies/privacy/partners/',
+      message: 'We use cookies to personalize ads and to analyze our traffic. We also share information about your use of our site with our advertising and analytics partners.  <br>If you do not agree, please leave now. By continuing on this site you accept our use of cookies.',
+    });
+//    $("#score-ticker").startTicker('x');
+//   if(typeof(window['thisteam'])!='undefined'){$(".team_list").val(thisteam);}
+//   if(typeof(window['thiswk'])!='undefined'){$(".date_list").val('wk'+thiswk);}
+  });
+</script>
+<style type="text/css">
+.ticker	{font-family:verdana;
+	 font-size:8pt;
+	}
+div.section{
+	width:782;
+        width:90%;
+	padding:0px;
+	margin: 0;
+	position:relative;
+	clear:both;
+        text-align:center;
+}
+div.section li{
+		float:left;
+	}
+div.pane{
+		overflow:hidden;
+		clear:left;
+		margin: 0;
+		position:relative;
+		width:750px;
+width:600px;
+		height:22px;
+	}
+ul.elements{
+	background-color:#5B739C;
+	background-color:white;
+	padding:0;
+	margin:0;
+	list-style:none;
+width:30000px;
+}
+	ul.elements li{
+		height:22px;
+		width:750px;
+width:600px;
+		text-align:left;
+		padding:2px;
+		position:relative;
+		background-color:#DDD;
+		background-color:white;
+	margin:0;
+	list-style:none;
+	}
+</style>
+<table id="score_scroller_table" style="display:none;width:100%">
+<tr class="ticker" id="score_scroller">
+<td style="white-space:nowrap;">Just in--&gt;</td>
+<td>
+<div class="section">
+<div class="pane" id="score-ticker"></div>
+</div>
+</td>
+</tr>
+</table>
+<div class="subtitle">Scores and Schedules for  January 9, 1999</div>
+<table border="1" cellpadding="0" cellspacing="0" class="date_table" id="winner_sort" style="display:block;">
+<caption align="top"><div onclick="document.getElementById('winner_sort').style.display='none';document.getElementById('location_sort').style.display='block';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Match Location</div><a href="/scoreboard/khsaa/kygbk8">Return to latest scores for 1998/9 KY Girls Basketball</a>
+</caption>
+<tr><td class="date_table_date" colspan="5">Saturday, January 9, 1999</td></tr> <tr class="game_data" valign="top">
+<td class="winner_team team_4724"><a href="/scoreboard/khsaa/kygbk8/4724">Adair County</a></td>
+<td class="winner_score">66</td>
+<td class="loser_team team_4891">vs. <a href="/scoreboard/khsaa/kygbk8/4891">Metcalfe County</a> </td>
+<td class="loser_score">49</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4742"><a href="/scoreboard/khsaa/kygbk8/4742">Berea</a></td>
+<td class="winner_score">65</td>
+<td class="loser_team team_4937">vs.<a href="/scoreboard/khsaa/kygbk8/4937">Southwestern</a> <br/>(at Pulaski Southwestern)</td>
+<td class="loser_score">48</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4756"><a href="/scoreboard/khsaa/kygbk8/4756">Bryan Station</a></td>
+<td class="winner_score">68</td>
+<td class="loser_team team_4877">at <a href="/scoreboard/khsaa/kygbk8/4877">Madison Central</a> </td>
+<td class="loser_score">34</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4774"><a href="/scoreboard/khsaa/kygbk8/4774">Christian Academy-Louisville</a></td>
+<td class="winner_score">73</td>
+<td class="loser_team team_4802">at <a href="/scoreboard/khsaa/kygbk8/4802">Evangel Christian</a> </td>
+<td class="loser_score">38</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4856"><a href="/scoreboard/khsaa/kygbk8/4856">Kentucky School f/t Deaf</a></td>
+<td class="winner_score">43</td>
+<td class="loser_team team_5045">vs. School f/t Deaf, IL </td>
+<td class="loser_score">35</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4863"><a href="/scoreboard/khsaa/kygbk8/4863">Leslie County</a></td>
+<td class="winner_score">74</td>
+<td class="loser_team team_4833">at <a href="/scoreboard/khsaa/kygbk8/4833">Hazard</a> </td>
+<td class="loser_score">50</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4867"><a href="/scoreboard/khsaa/kygbk8/4867">Lexington Christian</a></td>
+<td class="winner_score">37</td>
+<td class="loser_team team_4950">vs.<a href="/scoreboard/khsaa/kygbk8/4950">Sayre</a> <br/>(at Lexington Christian Academy)</td>
+<td class="loser_score">35</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4868"><a href="/scoreboard/khsaa/kygbk8/4868">Lincoln County</a></td>
+<td class="winner_score">52</td>
+<td class="loser_team team_4769">vs. <a href="/scoreboard/khsaa/kygbk8/4769">Casey County</a> </td>
+<td class="loser_score">49</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4908"><a href="/scoreboard/khsaa/kygbk8/4908">North Hardin</a></td>
+<td class="winner_score">64</td>
+<td class="loser_team team_4797">vs. <a href="/scoreboard/khsaa/kygbk8/4797">Elizabethtown</a> </td>
+<td class="loser_score">45</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4437">Pickett County, TN</td>
+<td class="winner_score">73</td>
+<td class="loser_team team_4778">vs. <a href="/scoreboard/khsaa/kygbk8/4778">Clinton County</a> </td>
+<td class="loser_score">63</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4932"><a href="/scoreboard/khsaa/kygbk8/4932">Powell County</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_4894">at <a href="/scoreboard/khsaa/kygbk8/4894">Model</a> </td>
+<td class="loser_score">39</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4952"><a href="/scoreboard/khsaa/kygbk8/4952">Scott County</a></td>
+<td class="winner_score">51</td>
+<td class="loser_team team_4860">vs. <a href="/scoreboard/khsaa/kygbk8/4860">Lafayette</a> </td>
+<td class="loser_score">43</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4955"><a href="/scoreboard/khsaa/kygbk8/4955">Shelby County</a></td>
+<td class="winner_score">67</td>
+<td class="loser_team team_4727">vs. <a href="/scoreboard/khsaa/kygbk8/4727">Anderson County</a> </td>
+<td class="loser_score">35</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4957"><a href="/scoreboard/khsaa/kygbk8/4957">Sheldon Clark</a></td>
+<td class="winner_score">84</td>
+<td class="loser_team team_4956">vs. <a href="/scoreboard/khsaa/kygbk8/4956">Shelby Valley</a> </td>
+<td class="loser_score">48</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4966"><a href="/scoreboard/khsaa/kygbk8/4966">St. Francis</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_4848">at <a href="/scoreboard/khsaa/kygbk8/4848">Iroquois</a> </td>
+<td class="loser_score">15</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4983"><a href="/scoreboard/khsaa/kygbk8/4983">Warren East</a></td>
+<td class="winner_score">82</td>
+<td class="loser_team team_4796">at <a href="/scoreboard/khsaa/kygbk8/4796">Edmonson County</a> </td>
+<td class="loser_score">49</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4996"><a href="/scoreboard/khsaa/kygbk8/4996">Woodford County</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_4812">vs. <a href="/scoreboard/khsaa/kygbk8/4812">Frankfort</a> </td>
+<td class="loser_score">46</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4799"><a href="/scoreboard/khsaa/kygbk8/4799">Elliott County</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4731">at <a href="/scoreboard/khsaa/kygbk8/4731">Augusta</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4938"><a href="/scoreboard/khsaa/kygbk8/4938">Raceland</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4737">at <a href="/scoreboard/khsaa/kygbk8/4737">Bath County</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4841"><a href="/scoreboard/khsaa/kygbk8/4841">Whitefield Academy</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4743">at <a href="/scoreboard/khsaa/kygbk8/4743">Beth Haven</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4923"><a href="/scoreboard/khsaa/kygbk8/4923">Pendleton County</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4801">at <a href="/scoreboard/khsaa/kygbk8/4801">Estill County</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4922"><a href="/scoreboard/khsaa/kygbk8/4922">Paul Laurence Dunbar</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4820">at <a href="/scoreboard/khsaa/kygbk8/4820">George Rogers Clark</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4725"><a href="/scoreboard/khsaa/kygbk8/4725">Allen Central</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4857">at <a href="/scoreboard/khsaa/kygbk8/4857">Knott County Central</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4874"><a href="/scoreboard/khsaa/kygbk8/4874">Ludlow</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4870">at <a href="/scoreboard/khsaa/kygbk8/4870">Lloyd Memorial</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+</table>
+<table border="1" cellpadding="0" cellspacing="0" class="date_table" id="location_sort" style="display:none;">
+<caption align="top"><div onclick="document.getElementById('winner_sort').style.display='block';document.getElementById('location_sort').style.display='none';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Winner</div><a href="/scoreboard/khsaa/kygbk8">Return to latest scores for 1998/9 KY Girls Basketball</a>
+</caption>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4724"><a href="/scoreboard/khsaa/kygbk8/4724">Adair County</a></td>
+<td class="winner_score">66</td>
+<td class="loser_team team_4891">vs. <a href="/scoreboard/khsaa/kygbk8/4891">Metcalfe County</a> </td>
+<td class="loser_score">49</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4799"><a href="/scoreboard/khsaa/kygbk8/4799">Elliott County</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4731">at <a href="/scoreboard/khsaa/kygbk8/4731">Augusta</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4938"><a href="/scoreboard/khsaa/kygbk8/4938">Raceland</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4737">at <a href="/scoreboard/khsaa/kygbk8/4737">Bath County</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4841"><a href="/scoreboard/khsaa/kygbk8/4841">Whitefield Academy</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4743">at <a href="/scoreboard/khsaa/kygbk8/4743">Beth Haven</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4983"><a href="/scoreboard/khsaa/kygbk8/4983">Warren East</a></td>
+<td class="winner_score">82</td>
+<td class="loser_team team_4796">at <a href="/scoreboard/khsaa/kygbk8/4796">Edmonson County</a> </td>
+<td class="loser_score">49</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4923"><a href="/scoreboard/khsaa/kygbk8/4923">Pendleton County</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4801">at <a href="/scoreboard/khsaa/kygbk8/4801">Estill County</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4774"><a href="/scoreboard/khsaa/kygbk8/4774">Christian Academy-Louisville</a></td>
+<td class="winner_score">73</td>
+<td class="loser_team team_4802">at <a href="/scoreboard/khsaa/kygbk8/4802">Evangel Christian</a> </td>
+<td class="loser_score">38</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4922"><a href="/scoreboard/khsaa/kygbk8/4922">Paul Laurence Dunbar</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4820">at <a href="/scoreboard/khsaa/kygbk8/4820">George Rogers Clark</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4863"><a href="/scoreboard/khsaa/kygbk8/4863">Leslie County</a></td>
+<td class="winner_score">74</td>
+<td class="loser_team team_4833">at <a href="/scoreboard/khsaa/kygbk8/4833">Hazard</a> </td>
+<td class="loser_score">50</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4966"><a href="/scoreboard/khsaa/kygbk8/4966">St. Francis</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_4848">at <a href="/scoreboard/khsaa/kygbk8/4848">Iroquois</a> </td>
+<td class="loser_score">15</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4856"><a href="/scoreboard/khsaa/kygbk8/4856">Kentucky School f/t Deaf</a></td>
+<td class="winner_score">43</td>
+<td class="loser_team team_5045">vs. School f/t Deaf, IL </td>
+<td class="loser_score">35</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4725"><a href="/scoreboard/khsaa/kygbk8/4725">Allen Central</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4857">at <a href="/scoreboard/khsaa/kygbk8/4857">Knott County Central</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4867"><a href="/scoreboard/khsaa/kygbk8/4867">Lexington Christian</a></td>
+<td class="winner_score">37</td>
+<td class="loser_team team_4950">vs.<a href="/scoreboard/khsaa/kygbk8/4950">Sayre</a> <br/>(at Lexington Christian Academy)</td>
+<td class="loser_score">35</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4868"><a href="/scoreboard/khsaa/kygbk8/4868">Lincoln County</a></td>
+<td class="winner_score">52</td>
+<td class="loser_team team_4769">vs. <a href="/scoreboard/khsaa/kygbk8/4769">Casey County</a> </td>
+<td class="loser_score">49</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4874"><a href="/scoreboard/khsaa/kygbk8/4874">Ludlow</a></td>
+<td class="winner_score">-</td>
+<td class="loser_team team_4870">at <a href="/scoreboard/khsaa/kygbk8/4870">Lloyd Memorial</a> </td>
+<td class="loser_score">-</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4756"><a href="/scoreboard/khsaa/kygbk8/4756">Bryan Station</a></td>
+<td class="winner_score">68</td>
+<td class="loser_team team_4877">at <a href="/scoreboard/khsaa/kygbk8/4877">Madison Central</a> </td>
+<td class="loser_score">34</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4932"><a href="/scoreboard/khsaa/kygbk8/4932">Powell County</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_4894">at <a href="/scoreboard/khsaa/kygbk8/4894">Model</a> </td>
+<td class="loser_score">39</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4908"><a href="/scoreboard/khsaa/kygbk8/4908">North Hardin</a></td>
+<td class="winner_score">64</td>
+<td class="loser_team team_4797">vs. <a href="/scoreboard/khsaa/kygbk8/4797">Elizabethtown</a> </td>
+<td class="loser_score">45</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4437">Pickett County, TN</td>
+<td class="winner_score">73</td>
+<td class="loser_team team_4778">vs. <a href="/scoreboard/khsaa/kygbk8/4778">Clinton County</a> </td>
+<td class="loser_score">63</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4742"><a href="/scoreboard/khsaa/kygbk8/4742">Berea</a></td>
+<td class="winner_score">65</td>
+<td class="loser_team team_4937">vs.<a href="/scoreboard/khsaa/kygbk8/4937">Southwestern</a> <br/>(at Pulaski Southwestern)</td>
+<td class="loser_score">48</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4952"><a href="/scoreboard/khsaa/kygbk8/4952">Scott County</a></td>
+<td class="winner_score">51</td>
+<td class="loser_team team_4860">vs. <a href="/scoreboard/khsaa/kygbk8/4860">Lafayette</a> </td>
+<td class="loser_score">43</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4955"><a href="/scoreboard/khsaa/kygbk8/4955">Shelby County</a></td>
+<td class="winner_score">67</td>
+<td class="loser_team team_4727">vs. <a href="/scoreboard/khsaa/kygbk8/4727">Anderson County</a> </td>
+<td class="loser_score">35</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4957"><a href="/scoreboard/khsaa/kygbk8/4957">Sheldon Clark</a></td>
+<td class="winner_score">84</td>
+<td class="loser_team team_4956">vs. <a href="/scoreboard/khsaa/kygbk8/4956">Shelby Valley</a> </td>
+<td class="loser_score">48</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_4996"><a href="/scoreboard/khsaa/kygbk8/4996">Woodford County</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_4812">vs. <a href="/scoreboard/khsaa/kygbk8/4812">Frankfort</a> </td>
+<td class="loser_score">46</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+</tr>
+</table>
+<div class="copyright">
+All content © 1997-2020 <a href="https://riherds.com">Riherds.com</a> in partnership with the
+<a href="http://khsaa.org">Kentucky High School Athletic Association</a>. All rights reserved.
+<br/>
+Schedule and score data are believed to be correct but no guaranties are made. 
+Schedules are subject to change without notice.
+We advise you to check with schools before making
+travel plans.<p>
+<!--<div id=privacy>Click here for details of our privacy policy.<p><p><p></div>-->
+</p></div>
+<div class="overlay" id="privacy_overlay"></div>
+<script type="text/javascript">
+  $(function(){
+    $("#privacy").css('cursor','help').click(function(e){ 
+      evt=e;
+      $("#privacy_overlay").load("/output/privacy_notice.txt",function(evt){
+        $("#privacy_overlay").helpbox(e);
+      });
+    });
+  })
+
+</script>
+<!--192168195248--><!--title=1998/9 Kentucky High School Girls Basketball--><!--end_data--><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4394351987806189";
+google_ad_slot = "4040390911";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+</td>
+<td align="center" id="left_ad" style="padding-left:20px;">
+<script>khsaa_banner()</script><br/>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4394351987806189";
+google_ad_slot = "9947323716";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4394351987806189";
+google_ad_slot = "9947323716";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script></td>
+</tr>
+</table>
+</center>
+</body>
+</html>

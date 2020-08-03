@@ -1,0 +1,1185 @@
+<html>
+<head>
+<title>2012/13 Kentucky High School Girls Basketball</title>
+<meta content="0" http-equiv="Expires"/>
+<meta content="60" http-equiv="refresh"/>
+<meta content="app-id=418722085" name="apple-itunes-app"/>
+<meta content="width=device-width, target-densitydpi=device-dpi, user-scalable=yes" name="viewport">
+<style type="text/css">
+BODY, TABLE, TD, P {font-family:verdana, arial, sans-serif;}
+body {background:#f0f0f0; margin:0; padding:0;}
+form {margin:2px;}
+select      {font-size: 10pt;
+             color:black;}
+A:link      { color: #005aca; text-decoration:none;}
+A:visited   { color: #005aca; }
+A:active    { color: #3378a0; }
+A:hover     { color: #44a2d9;}
+b {color:#103e72;}
+
+table, tbody, td, tr {margin:0; padding:0;}
+#stat_cntl  {margin:6px 0 0 0; padding:0;}
+
+div.pdf_link,
+div.schedule_nav	{font-size:12px;
+		 padding:5px;
+		 text-align:center;}
+#roster_div		{display:none;}
+#main		{width:90%; max-width:1200px; margin:12px 0px; padding:10px 12px; background:#fff; border:1px solid #d3d3d3; box-shadow: 0px 0px 3px #d5d5d5; border-radius:4px;}
+.roster_table	{font-size:8pt;
+			 border-collapse:collapse;
+			 border:solid black 1px;}
+.roster_table TD	{padding:0 5px;
+			 white-space:nowrap;}
+.date_table	{font-size:9pt;
+		 border-collapse: collapse;
+		 border:solid #ddd 0px;
+		 width:100%;
+		}
+.date_table	caption div {text-align:left; padding:2px; margin:2px 0 3px 0; font-size:10px; font-style: italic; text-indent:11px;}
+.date_table	caption div {background: url("/graphics/sort.gif") no-repeat left center;}
+.date_table td {border-collapse: collapse; border:none; padding:1px; border-bottom:1px solid #ddd;}
+.date_table td:nth-child(2) {background:#d1e8f8; box-shadow:inset 0px 0px 0px 1px #fff;}
+.date_table td:nth-child(4) {background:#e4e4e4; box-shadow:inset 0px 0px 0px 1px #fff;}
+			   
+.date_table tr:nth-child(even) {background:#f4f4f4;}
+.date_table tr:nth-child(odd) {background:#fff;}
+
+.date_table_date{background: #066bb2;
+                border-radius:7px 7px 0px 0px;
+                 color:white;
+                 font-weight:bold;
+                 font-size:9pt;
+                 padding:2px 8px!important;
+                 vertical-align:middle;
+				 border:1px solid #fff!important;
+                }
+.team_hilite	{font-weight:bold;}
+.bracket_table	{font-family:arial;
+			 font-size:8pt;}
+.nobr {white-space:nowrap}
+
+.team_header  {font-size:10pt;}
+.team_header a {font-size:7pt; color:#fff!important; background:#3b8dbd; padding:3px 6px; margin:1px 0px; margin-left:-4px;border-radius:4px; border:0px solid #1c6da0;line-height:200%;}
+.team_header a b {color:#fff!important;}
+.team_header a:hover {background:#4ea4da;}
+
+.winner_team  {white-space:nowrap;
+               width:10%;}
+.winner_team a {color:#0049a4;}
+.loser_team   {
+               padding-left:1em;
+               width:10%;}
+.date_comments   {padding-left:1em;
+                  font-size:8pt;}
+.winner_score {text-align:right;
+               width:25px;}
+.loser_score  {text-align:right;
+               width:25px;}
+.team_score_table	{border-collapse:collapse;
+			 font-size:10pt;
+			   border:solid #ccc 0px;}
+.team_score_comments {font-size:8pt;}
+.team_score_table tr	{vertical-align:top;}
+.team_score_table td	{ padding:0px 4px;}
+.team_score_table tr:nth-child(even) {background:#f4f4f4;}
+.team_score_table tr.sched:nth-child(odd)	{background: #fff;}
+.team_score_table caption,
+.date_table caption       {font-family:verdana,arial,helvetica;
+                           font-size:8pt;}
+.team_score_comments {font-size:8pt;}
+
+.copyright {font-family: verdana,arial,helvetica;
+            font-size:7pt;
+            color:#808080;
+            margin-left:20px;
+            margin-right:20px;
+			padding-top:25px;
+            text-align:center;
+           }
+.ytd_stats {text-align:right; font-size:10pt;}
+.ytd_stats th{border-right: solid black 1px;}
+.ytd_stats {border: solid black 1px;
+            padding: 1px;}
+.player_stats {text-align:center; font-size:10pt;}
+.player_stats th{border-bottom: solid black 1px; border-left: solid black 1px;}
+.player_stats td{border-left: solid black 1px;}
+.ytd_stats caption,
+.player_stats caption,
+.notes caption{font-weight:bold;
+               font-size:10pt;
+               background-color:lightgreen; 
+               border: solid black 1px;}
+.player_stats_subtitle {font-weight:normal;}
+.player_stats,
+.notes     {border: solid black 1px;
+            font-size:10pt;
+            padding: 1px;
+            margin-top:15px;}
+.win_loss_table {font-size:10pt;
+                 border: #ccc solid 1px;
+                 margin-top:25px;
+		 background: #f4f4f4;}
+.win_loss_title {font-size:14pt;}
+.win_loss_table {padding:2px 4px; border-radius:3px; color:#333}
+.win_loss_table th {border-bottom:#aaa solid 1px;}
+.win_loss_header th {padding-left:10px;padding-right:10px;}
+.win_loss_school {text-align:right;
+                  border-right:#aaa solid 1px;}
+.win_loss_table tr:not(.win_loss_title,.win_loss_header):nth-child(even)	{background: #d0d0d0;}
+.win_loss_table caption	{font-size:smaller;
+			 font-style:italic;
+			 caption-side:bottom;
+			 line-height:100%;
+			}
+.caveat        {font-family:verdana,arial,helvetia;
+                font-size:8pt;
+               }
+.latest_stats_table {font-size:10pt;
+                     border:#ddd solid 1px; margin:1px;
+                     margin-bottom:5px; padding:2px; background:#fafafa; border-radius:3px;
+                     width:600;}
+.latest_stats_table ul{font-size:8pt;
+                       white-space:nowrap;
+                       margin-bottom:0px;}
+.latest_stats_table caption {}                             
+.title,
+.subtitle  {text-align:center;
+           font-size:13px;
+           font-weight:bold;
+	   clear:both;
+           color:#103e72; margin:0; margin-top:-1px; padding:1px; box-sizing: border-box; border-radius:0px 3px 3px 3px;}
+caption.subtitle  {text-align:center; color:#fff; background:#103e72;}
+.title	{color: navy;
+             font-weight: bold;}
+.category_list {font-size:8pt;}
+select	{font-size:11px; color:#444; padding:2px; border-radius:3px;
+		 width:190px; cursor:pointer;}
+.nav_bar	{border:solid #ccc 1px;
+		 padding:3px;
+		 width:68.5%; 
+		 background:#eee;
+		 border-radius:3px;
+		 float:left; 
+		background: rgb(240,240,240); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(240,240,240,1) 0%, rgba(226,226,226,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(240,240,240,1) 0%,rgba(226,226,226,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(240,240,240,1) 0%,rgba(226,226,226,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#e2e2e2',GradientType=0 ); /* IE6-9 */
+		 }
+
+.nav_bar td	{padding:3px;}
+
+.motd		{font-size:8pt;
+	        box-sizing: border-box; padding:6px;
+		    background:#f5f6f6; float:left; clear:right; width:29%; height:153px; margin-left:10px; }	
+
+.motd a	img{padding:5px 0 20px 20px; margin:0 auto; clear:both; display:block;}
+
+#privacy	{text-decoration:underline;
+		 padding-top:1em;}
+.overlay	{display:none;
+		 position:absolute;
+		 z-index:2;
+		 cursor:default;
+		 height:auto;
+		 width:250px;
+		 border:solid black 1px;
+		 background:#EEEEEE;
+		 font-size:8pt;
+		 padding:10px;
+		}
+
+#cookie-bar {background:#111111; height:auto; font-size: 10px; color:#eeeeee; text-align:center; padding:3px 0; z-index:10000;}
+#cookie-bar {background:white; height:auto; font-size: 10px; color:black; text-align:center; padding:0; z-index:10000;}
+#cookie-bar.fixed {position:fixed; top:0; left:0; width:100%}
+#cookie-bar.fixed.bottom {bottom:0; top:auto;}
+#cookie-bar p {margin:0px 1px 0px 0px; padding:3px;border:solid black 1px;}
+#cookie-bar a {color:#ffffff; display:inline-block; border-radius:3px; text-decoration:none; padding:0 6px; margin-left:8px;}
+#cookie-bar .cb-enable {background:#007700;}
+#cookie-bar .cb-enable:hover {background:#009900;}
+#cookie-bar .cb-disable {background:#990000;}
+#cookie-bar .cb-disable:hover {background:#bb0000;}
+#cookie-bar .cb-policy {background:#0033bb;}
+#cookie-bar .cb-policy:hover {background:#0055dd;}
+
+table#top_ad  {width:100%; padding:2px 25px 3px 25px; background:#3b8dbd; border-bottom:1px solid #f9f9f9; box-sizing: border-box; overflow:auto;}	
+table#top_ad caption	{caption-side: top; font-size:8pt; font-style:italic; color:#fff; padding:2px; background:#103e72; border-bottom:1px solid #439fd5;}
+table#top_ad tr td:nth-child(1) img {width:114px; margin:0 auto; text-align:center;  display: block;}
+table#prod_table tr td:nth-child(1) img {width:auto;}
+
+#roster_link {padding-bottom:5px;}
+.headline	{text-align:center;}
+/*
+@media screen and (max-width: 600px) {
+    div#motd,
+    table#top_ad,
+    td#left_ad	{display: none;}
+    table#nav_bar	{margin:0;}
+	
+	table#top_ad  { padding:5px 20px;}	
+	#main		{width:99%;}
+}
+*/
+@media screen and (max-width: 750px) {
+    div#motd,
+    table#top_ad > tbody > tr > td:nth-child(1)	{display:none;}
+}
+td.winner_team,
+td.loser_team          {max-width:250px;
+                        white-space:nowrap;
+                        overflow:hidden;
+                        text-overflow:ellipsis;
+                       }
+
+</style>
+<script src="/output/js.js" type="text/javascript"></script>
+<script src="/output/jquery.cookiebar.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $(function(){
+    wwidth=document.body.offsetWidth;
+    nwidth=wwidth-150;
+    nwidth=Math.min(nwidth,1000);
+    nwidth=Math.max(nwidth,750);
+//alert(wwidth+" "+nwidth);
+    $("#main").css('width',nwidth);
+      
+  });
+</script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-4394351987806189",
+          enable_page_level_ads: true
+     });
+</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-123648260-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123648260-1');
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-123648260-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</meta></head>
+<body bgcolor="#FFFFFF">
+<center><table border="0" cellpadding="0" cellspacing="0" id="top_ad" valign="top">
+<tr>
+<td height="60" style="padding-right:20px;">
+<p><a href="http://www.khsaa.org/" target="_blank"><img align="bottom" border="0" height="60" src="/graphics/khsaa.gif" width="140"/></a>
+</p></td>
+<td align="center" height="60" id="test_ad" valign="top" width="470"></td>
+</tr>
+<caption>1 Website. 21 Years. 40,492 Teams. 482,674 Games. 22,638,766 Points Scored.</caption>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="main" valign="top">
+<tr>
+<td colspan="2">
+<center><!--start_logo--><!--end_logo--></center>
+</td>
+</tr>
+<tr>
+<td class="headline" colspan="2" height="25" valign="top">
+<font size="+2"><b> <!--start_headline-->2012/13 Kentucky High School Girls Basketball<!--end_headline--></b></font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><img align="bottom" border="0" height="10" src="/scoreboard_graphics/spacer.gif" valign="TOP" width="1"/>
+</p></td>
+</tr>
+<tr valign="top">
+<td align="center"><!--start_data--><table bgcolor="pink" class="nav_bar">
+<tr><td align="right"><form action="/scoreboard/khsaa/kygbk12">
+<select class="scoreboard_list date_list" id="sel_date_gbk12" name="id" onchange="submit();">
+<option value="">(select date)
+<option value="">Latest Scores &amp; Schedules
+<option value="wk2237">Week ending November 24, 2012
+<option value="wk2238">Week ending December 1, 2012
+<option value="wk2239">Week ending December 8, 2012
+<option value="wk2240">Week ending December 15, 2012
+<option value="wk2241">Week ending December 22, 2012
+<option value="wk2242">Week ending December 29, 2012
+<option value="wk2243">Week ending January 5, 2013
+<option value="wk2244">Week ending January 12, 2013
+<option value="wk2245">Week ending January 19, 2013
+<option value="wk2246">Week ending January 26, 2013
+<option value="wk2247">Week ending February 2, 2013
+<option value="wk2248">Week ending February 9, 2013
+<option value="wk2249">Week ending February 16, 2013
+<option value="wk2250">Week ending February 23, 2013
+<option value="wk2251">Week ending March 2, 2013
+<option value="wk2252">Week ending March 9, 2013
+<option value="wk2253">Week ending March 16, 2013
+<option value="wk2254">Week ending March 23, 2013
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td><td rowspan="4"><table border="0" cellpadding="0">
+<caption align="top" class="subtitle">This Season's Sports:</caption>
+<tr><td><ul class="category_list" style="text-align:left;margin-bottom:0px;">
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyfb19">2019 KY Football</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kybsc19">2019 KY Boys Soccer</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kygsc19">2019 KY Girls Soccer</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyvb19">2019 KY Volleyball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kybbk19">2019/20 KY Boys Basketball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kygbk19">2019/20 KY Girls Basketball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyba20">2020 KY Baseball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyfp20">2020 KY Fast Pitch Softball</a>
+<li style="line-height:120%;white-space:nowrap;"><a href="/scoreboard/khsaa/kyfh19">2019 KY Field Hockey</a>
+</li></li></li></li></li></li></li></li></li></ul></td></tr></table>
+</td></tr>
+<tr><td align="right"><form action="/scoreboard/khsaa/kygbk12/">
+<select class="scoreboard_list team_list" id="sel_gbk12" name="id" onchange="submit();">
+<option value="">(select school)
+<option value="38493">Adair County
+<option value="38494">Allen Central
+<option value="38495">Allen County-Scottsville
+<option value="38496">Anderson County
+<option value="38497">Apollo
+<option value="38678">Ashland Blazer
+<option value="38498">Assumption
+<option value="38499">Atherton
+<option value="38500">Augusta
+<option value="38501">Ballard
+<option value="38502">Ballard Memorial
+<option value="38503">Barbourville
+<option value="38504">Bardstown
+<option value="38505">Barren County
+<option value="38506">Bath County
+<option value="38507">Beechwood
+<option value="38508">Belfry
+<option value="38509">Bell County
+<option value="38510">Bellevue
+<option value="38511">Berea
+<option value="38512">Beth Haven
+<option value="38513">Bethlehem
+<option value="38514">Betsy Layne
+<option value="38515">Bishop Brossart
+<option value="38516">Boone County
+<option value="38517">Bourbon County
+<option value="38518">Bowling Green
+<option value="38519">Boyd County
+<option value="38520">Boyle County
+<option value="38521">Bracken County
+<option value="38522">Breathitt County
+<option value="38523">Breckinridge County
+<option value="38524">Brown
+<option value="38525">Bryan Station
+<option value="38526">Buckhorn
+<option value="38527">Bullitt Central
+<option value="38528">Bullitt East
+<option value="38529">Burgin
+<option value="38530">Butler
+<option value="38531">Butler County
+<option value="38532">Caldwell County
+<option value="38533">Calloway County
+<option value="38753">Calvary Christian
+<option value="38534">Campbell County
+<option value="38535">Campbellsville
+<option value="38536">Carlisle County
+<option value="38537">Carroll County
+<option value="38538">Casey County
+<option value="38539">Caverna
+<option value="38540">Central
+<option value="38541">Central Hardin
+<option value="38542">Christian Academy-Louisville
+<option value="38543">Christian County
+<option value="38544">Christian Fellowship
+<option value="38545">Clay County
+<option value="38546">Clinton County
+<option value="38762">Collins
+<option value="38755">Community Christian (Paducah)
+<option value="38547">Conner
+<option value="38760">Cooper
+<option value="38548">Corbin
+<option value="38549">Cordia
+<option value="38550">Covington Latin
+<option value="38551">Crittenden County
+<option value="38552">Cumberland County
+<option value="38553">Danville
+<option value="38554">Daviess County
+<option value="38555">Dawson Springs
+<option value="38556">Dayton
+<option value="38558">Dixie Heights
+<option value="38559">Doss
+<option value="38560">DuPont Manual
+<option value="38561">East Carter
+<option value="38562">East Jessamine
+<option value="38756">East Ridge
+<option value="38563">Eastern
+<option value="38564">Edmonson County
+<option value="38565">Elizabethtown
+<option value="38566">Elliott County
+<option value="38567">Eminence
+<option value="38568">Estill County
+<option value="39439">Evangel Christian
+<option value="38569">Fairdale
+<option value="38570">Fairview
+<option value="38571">Fern Creek
+<option value="38572">Fleming County
+<option value="38573">Fort Campbell
+<option value="38574">Fort Knox
+<option value="38575">Frankfort
+<option value="38576">Franklin County
+<option value="38577">Franklin-Simpson
+<option value="38578">Frederick Fraize
+<option value="38579">Fulton City
+<option value="38580">Fulton County
+<option value="38581">Gallatin County
+<option value="38582">Garrard County
+<option value="38583">George Rogers Clark
+<option value="38584">Glasgow
+<option value="38585">Grant County
+<option value="38586">Graves County
+<option value="38587">Grayson County
+<option value="38588">Green County
+<option value="38589">Greenup County
+<option value="38590">Greenwood
+<option value="38591">Hancock County
+<option value="38592">Harlan
+<option value="38759">Harlan County
+<option value="38593">Harrison County
+<option value="38594">Hart County
+<option value="38595">Hazard
+<option value="38596">Heath
+<option value="38597">Henderson County
+<option value="38598">Henry Clay
+<option value="38599">Henry County
+<option value="38600">Heritage Academy
+<option value="38601">Hickman County
+<option value="38602">Highlands
+<option value="38604">Holmes
+<option value="38605">Holy Cross (Covington)
+<option value="38606">Holy Cross (Louisville)
+<option value="38607">Hopkins County Central
+<option value="38608">Hopkinsville
+<option value="38609">Iroquois
+<option value="38610">Jackson City
+<option value="38611">Jackson County
+<option value="38612">Jeffersontown
+<option value="38613">Jenkins
+<option value="38754">John Hardin
+<option value="38614">Johnson Central
+<option value="38615">June Buchanan
+<option value="38616">Kentucky Country Day
+<option value="38617">Kentucky School f/t Deaf
+<option value="38618">Knott County Central
+<option value="38619">Knox Central
+<option value="38620">Lafayette
+<option value="38621">LaRue County
+<option value="38622">Lawrence County
+<option value="38623">Lee County
+<option value="38624">Leslie County
+<option value="38758">Letcher County Central
+<option value="38625">Lewis County
+<option value="38626">Lexington Catholic
+<option value="38627">Lexington Christian
+<option value="38628">Lincoln County
+<option value="38629">Livingston Central
+<option value="38630">Lloyd Memorial
+<option value="38631">Logan County
+<option value="38632">Lone Oak
+<option value="38633">Louisville Collegiate
+<option value="38634">Ludlow
+<option value="38635">Lynn Camp
+<option value="38636">Lyon County
+<option value="38637">Madison Central
+<option value="38638">Madison Southern
+<option value="38639">Madisonville-North Hopkins
+<option value="38640">Magoffin County
+<option value="38641">Male
+<option value="38642">Marion County
+<option value="38643">Marshall County
+<option value="38644">Mason County
+<option value="38645">Mayfield
+<option value="38646">McCreary Central
+<option value="38647">McLean County
+<option value="38648">Meade County
+<option value="38649">Menifee County
+<option value="38650">Mercer County
+<option value="38752">Mercy
+<option value="38651">Metcalfe County
+<option value="38652">Middlesboro
+<option value="38653">Model
+<option value="38654">Monroe County
+<option value="38655">Montgomery County
+<option value="38656">Monticello
+<option value="38657">Moore
+<option value="38658">Morgan County
+<option value="38761">Muhlenberg County
+<option value="38659">Murray
+<option value="38660">Nelson County
+<option value="38661">Newport
+<option value="38662">Newport Central Catholic
+<option value="38663">Nicholas County
+<option value="38664">North Bullitt
+<option value="38665">North Hardin
+<option value="38666">North Laurel
+<option value="38757">North Oldham
+<option value="38667">Notre Dame
+<option value="38668">Ohio County
+<option value="38669">Oldham County
+<option value="38670">Oneida Baptist Institute
+<option value="38671">Owen County
+<option value="38672">Owensboro
+<option value="38673">Owensboro Catholic
+<option value="38674">Owsley County
+<option value="38675">Paducah Tilghman
+<option value="38676">Paintsville
+<option value="38677">Paris
+<option value="38679">Paul Laurence Dunbar
+<option value="38680">Pendleton County
+<option value="38681">Perry County Central
+<option value="38682">Phelps
+<option value="38683">Piarist School
+<option value="38684">Pike County Central
+<option value="38685">Pikeville
+<option value="38686">Pineville
+<option value="38687">Pleasure Ridge Park
+<option value="38688">Portland Christian
+<option value="38689">Powell County
+<option value="38690">Presentation
+<option value="38691">Prestonsburg
+<option value="38692">Pulaski County
+<option value="38694">Raceland
+<option value="38695">Red Bird
+<option value="38696">Reidland
+<option value="38697">Riverside Christian
+<option value="38557">Robertson County
+<option value="38698">Rockcastle County
+<option value="38699">Rose Hill Christian
+<option value="38700">Rowan County
+<option value="38701">Russell
+<option value="38702">Russell County
+<option value="38703">Russellville
+<option value="38704">Ryle
+<option value="38705">Sacred Heart
+<option value="38706">Sayre
+<option value="38707">Scott
+<option value="38708">Scott County
+<option value="38709">Seneca
+<option value="38710">Shawnee
+<option value="38711">Shelby County
+<option value="38712">Shelby Valley
+<option value="38713">Sheldon Clark
+<option value="38714">Silver Grove
+<option value="38715">Simon Kenton
+<option value="38716">Somerset
+<option value="38717">South Floyd
+<option value="38718">South Laurel
+<option value="38719">South Oldham
+<option value="38763">South Warren
+<option value="38720">Southern
+<option value="38693">Southwestern
+<option value="38721">Spencer County
+<option value="38722">St. Francis
+<option value="38723">St. Henry
+<option value="38724">St. Mary
+<option value="38725">St. Patrick
+<option value="38726">Tates Creek
+<option value="38727">Taylor County
+<option value="39364">Thomas Nelson
+<option value="38728">Todd County Central
+<option value="38729">Trigg County
+<option value="38730">Trimble County
+<option value="38731">Trinity (Whitesville)
+<option value="38732">Union County
+<option value="38733">University Heights
+<option value="38734">Valley
+<option value="38735">Villa Madonna
+<option value="38736">Waggener
+<option value="38737">Walton-Verona
+<option value="38738">Warren Central
+<option value="38739">Warren East
+<option value="38740">Washington County
+<option value="38741">Wayne County
+<option value="38742">Webster County
+<option value="38743">West Carter
+<option value="38744">West Jessamine
+<option value="38746">Western
+<option value="38745">Western Hills
+<option value="38603">Whitefield Academy
+<option value="38747">Whitley County
+<option value="38748">Williamsburg
+<option value="38749">Williamstown
+<option value="38750">Wolfe County
+<option value="38751">Woodford County
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td></tr>
+<tr><td align="right"><form action="/scoreboard/khsaa/kygbk12">
+<select class="scoreboard_list" id="sel_tourn_gbk12" name="id" onchange="submit();">
+<option value="">(select tournament)
+<option value="tournament_120200">2013 Houchens Industries/KHSAA Girls Sweet Sixteen® Basketball Tournament
+<option value="tournament_120101">2013 1st Region Girls Basketball Tournament
+<option value="tournament_120102">2013 2nd Region Girls Basketball Tournament
+<option value="tournament_120103">2013 3rd Region Girls Basketball Tournament
+<option value="tournament_120104">2013 4th Region Girls Basketball Tournament
+<option value="tournament_120105">2013 5th Region Girls Basketball Tournament
+<option value="tournament_120106">2013 6th Region Girls Basketball Tournament
+<option value="tournament_120107">2013 7th Region Girls Basketball Tournament
+<option value="tournament_120108">2013 8th Region Girls Basketball Tournament
+<option value="tournament_120109">2013 9th Region Girls Basketball Tournament
+<option value="tournament_120110">2013 10th Region Girls Basketball Tournament
+<option value="tournament_120111">2013 11th Region Girls Basketball Tournament
+<option value="tournament_120112">2013 12th Region Girls Basketball Tournament
+<option value="tournament_120113">2013 13th Region Girls Basketball Tournament
+<option value="tournament_120114">2013 14th Region Girls Basketball Tournament
+<option value="tournament_120115">2013 15th Region Girls Basketball Tournament
+<option value="tournament_120116">2013 16th Region Girls Basketball Tournament
+<option value="tournament_120001">2013 1st District Girls Basketball Tournament
+<option value="tournament_120002">2013 2nd District Girls Basketball Tournament
+<option value="tournament_120003">2013 3rd District Girls Basketball Tournament
+<option value="tournament_120004">2013 4th District Girls Basketball Tournament
+<option value="tournament_120005">2013 5th District Girls Basketball Tournament
+<option value="tournament_120006">2013 6th District Girls Basketball Tournament
+<option value="tournament_120007">2013 7th District Girls Basketball Tournament
+<option value="tournament_120008">2013 8th District Girls Basketball Tournament
+<option value="tournament_120009">2013 9th District Girls Basketball Tournament
+<option value="tournament_120010">2013 10th District Girls Basketball Tournament
+<option value="tournament_120011">2013 11th District Girls Basketball Tournament
+<option value="tournament_120012">2013 12th District Girls Basketball Tournament
+<option value="tournament_120013">2013 13th District Girls Basketball Tournament
+<option value="tournament_120014">2013 14th District Girls Basketball Tournament
+<option value="tournament_120015">2013 15th District Girls Basketball Tournament
+<option value="tournament_120016">2013 16th District Girls Basketball Tournament
+<option value="tournament_120017">2013 17th District Girls Basketball Tournament
+<option value="tournament_120018">2013 18th District Girls Basketball Tournament
+<option value="tournament_120019">2013 19th District Girls Basketball Tournament
+<option value="tournament_120020">2013 20th District Girls Basketball Tournament
+<option value="tournament_120021">2013 21st District Girls Basketball Tournament
+<option value="tournament_120022">2013 22nd District Girls Basketball Tournament
+<option value="tournament_120023">2013 23rd District Girls Basketball Tournament
+<option value="tournament_120024">2013 24th District Girls Basketball Tournament
+<option value="tournament_120025">2013 25th District Girls Basketball Tournament
+<option value="tournament_120026">2013 26th District Girls Basketball Tournament
+<option value="tournament_120027">2013 27th District Girls Basketball Tournament
+<option value="tournament_120028">2013 28th District Girls Basketball Tournament
+<option value="tournament_120029">2013 29th District Girls Basketball Tournament
+<option value="tournament_120030">2013 30th District Girls Basketball Tournament
+<option value="tournament_120031">2013 31st District Girls Basketball Tournament
+<option value="tournament_120032">2013 32nd District Girls Basketball Tournament
+<option value="tournament_120033">2013 33rd District Girls Basketball Tournament
+<option value="tournament_120034">2013 34th District Girls Basketball Tournament
+<option value="tournament_120035">2013 35th District Girls Basketball Tournament
+<option value="tournament_120036">2013 36th District Girls Basketball Tournament
+<option value="tournament_120037">2013 37th District Girls Basketball Tournament
+<option value="tournament_120038">2013 38th District Girls Basketball Tournament
+<option value="tournament_120039">2013 39th District Girls Basketball Tournament
+<option value="tournament_120040">2013 40th District Girls Basketball Tournament
+<option value="tournament_120041">2013 41st District Girls Basketball Tournament
+<option value="tournament_120042">2013 42nd District Girls Basketball Tournament
+<option value="tournament_120043">2013 43rd District Girls Basketball Tournament
+<option value="tournament_120044">2013 44th District Girls Basketball Tournament
+<option value="tournament_120045">2013 45th District Girls Basketball Tournament
+<option value="tournament_120046">2013 46th District Girls Basketball Tournament
+<option value="tournament_120047">2013 47th District Girls Basketball Tournament
+<option value="tournament_120048">2013 48th District Girls Basketball Tournament
+<option value="tournament_120049">2013 49th District Girls Basketball Tournament
+<option value="tournament_120050">2013 50th District Girls Basketball Tournament
+<option value="tournament_120051">2013 51st District Girls Basketball Tournament
+<option value="tournament_120052">2013 52nd District Girls Basketball Tournament
+<option value="tournament_120053">2013 53rd District Girls Basketball Tournament
+<option value="tournament_120054">2013 54th District Girls Basketball Tournament
+<option value="tournament_120055">2013 55th District Girls Basketball Tournament
+<option value="tournament_120056">2013 56th District Girls Basketball Tournament
+<option value="tournament_120057">2013 57th District Girls Basketball Tournament
+<option value="tournament_120058">2013 58th District Girls Basketball Tournament
+<option value="tournament_120059">2013 59th District Girls Basketball Tournament
+<option value="tournament_120060">2013 60th District Girls Basketball Tournament
+<option value="tournament_120061">2013 61st District Girls Basketball Tournament
+<option value="tournament_120062">2013 62nd District Girls Basketball Tournament
+<option value="tournament_120063">2013 63rd District Girls Basketball Tournament
+<option value="tournament_120064">2013 64th District Girls Basketball Tournament
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td></tr>
+<tr><td align="right"><form action="/scoreboard/khsaa/">
+<select class="scoreboard_list" id="sel_event_gbk12" name="event" onchange="submit();">
+<option value="">(select another scoreboard)
+<option value="kyba8">1998 KY Baseball
+<option value="kyba9">1999 KY Baseball
+<option value="kyba0">2000 KY Baseball
+<option value="kyba1">2001 KY Baseball
+<option value="kyba2">2002 KY Baseball
+<option value="kyba3">2003 KY Baseball
+<option value="kyba4">2004 KY Baseball
+<option value="kyba5">2005 KY Baseball
+<option value="kyba6">2006 KY Baseball
+<option value="kyba7">2007 KY Baseball
+<option value="kyba08">2008 KY Baseball
+<option value="kyba09">2009 KY Baseball
+<option value="kyba10">2010 KY Baseball
+<option value="kyba11">2011 KY Baseball
+<option value="kyba12">2012 KY Baseball
+<option value="kyba13">2013 KY Baseball
+<option value="kyba14">2014 KY Baseball
+<option value="kyba15">2015 KY Baseball
+<option value="kyba16">2016 KY Baseball
+<option value="kyba17">2017 KY Baseball
+<option value="kyba18">2018 KY Baseball
+<option value="kyba19">2019 KY Baseball
+<option value="kyba20">2020 KY Baseball
+<option value="kybbk7">1997/8 KY Boys Basketball
+<option value="kybbk8">1998/9 KY Boys Basketball
+<option value="kybbk9">1999/2000 KY Boys Basketball
+<option value="kybbk0">2000/1 KY Boys Basketball
+<option value="kybbk1">2001/2 KY Boys Basketball
+<option value="kybbk2">2002/3 KY Boys Basketball
+<option value="kybbk3">2003/4 KY Boys Basketball
+<option value="kybbk4">2004/5 KY Boys Basketball
+<option value="kybbk5">2005/6 KY Boys Basketball
+<option value="kybbk6">2006/7 KY Boys Basketball
+<option value="kybbk07">2007/8 KY Boys Basketball
+<option value="kybbk08">2008/9 KY Boys Basketball
+<option value="kybbk09">2009/10 KY Boys Basketball
+<option value="kybbk10">2010/11 KY Boys Basketball
+<option value="kybbk11">2011/12 KY Boys Basketball
+<option value="kybbk12">2012/13 KY Boys Basketball
+<option value="kybbk13">2013/14 KY Boys Basketball
+<option value="kybbk14">2014/15 KY Boys Basketball
+<option value="kybbk15">2015/16 KY Boys Basketball
+<option value="kybbk16">2016/17 KY Boys Basketball
+<option value="kybbk17">2017/18 KY Boys Basketball
+<option value="kybbk18">2018/19 KY Boys Basketball
+<option value="kybbk19">2019/20 KY Boys Basketball
+<option value="kybsc0">2000 KY Boys Soccer
+<option value="kybsc1">2001 KY Boys Soccer
+<option value="kybsc2">2002 KY Boys Soccer
+<option value="kybsc3">2003 KY Boys Soccer
+<option value="kybsc4">2004 KY Boys Soccer
+<option value="kybsc5">2005 KY Boys Soccer
+<option value="kybsc6">2006 KY Boys Soccer
+<option value="kybsc07">2007 KY Boys Soccer
+<option value="kybsc08">2008 KY Boys Soccer
+<option value="kybsc09">2009 KY Boys Soccer
+<option value="kybsc10">2010 KY Boys Soccer
+<option value="kybsc11">2011 KY Boys Soccer
+<option value="kybsc12">2012 KY Boys Soccer
+<option value="kybsc13">2013 KY Boys Soccer
+<option value="kybsc14">2014 KY Boys Soccer
+<option value="kybsc15">2015 KY Boys Soccer
+<option value="kybsc16">2016 KY Boys Soccer
+<option value="kybsc17">2017 KY Boys Soccer
+<option value="kybsc18">2018 KY Boys Soccer
+<option value="kybsc19">2019 KY Boys Soccer
+<option value="kyfb">1998 KY Football
+<option value="kyfb9">1999 KY Football
+<option value="kyfb0">2000 KY Football
+<option value="kyfb1">2001 KY Football
+<option value="kyfb2">2002 KY Football
+<option value="kyfb3">2003 KY Football
+<option value="kyfb4">2004 KY Football
+<option value="kyfb5">2005 KY Football
+<option value="kyfb6">2006 KY Football
+<option value="kyfb07">2007 KY Football
+<option value="kyfb08">2008 KY Football
+<option value="kyfb09">2009 KY Football
+<option value="kyfb10">2010 KY Football
+<option value="kyfb11">2011 KY Football
+<option value="kyfb12">2012 KY Football
+<option value="kyfb13">2013 KY Football
+<option value="kyfb14">2014 KY Football
+<option value="kyfb15">2015 KY Football
+<option value="kyfb16">2016 KY Football
+<option value="kyfb17">2017 KY Football
+<option value="kyfb18">2018 KY Football
+<option value="kyfb19">2019 KY Football
+<option value="kyfh15">2015 KY Field Hockey
+<option value="kyfh16">2016 KY Field Hockey
+<option value="kyfh17">2017 KY Field Hockey
+<option value="kyfh18">2018 KY Field Hockey
+<option value="kyfh19">2019 KY Field Hockey
+<option value="kyfp8">1998 KY Fast Pitch Softball
+<option value="kyfp9">1999 KY Fast Pitch Softball
+<option value="kyfp0">2000 KY Fast Pitch Softball
+<option value="kyfp1">2001 KY Fast Pitch Softball
+<option value="kyfp2">2002 KY Fast Pitch Softball
+<option value="kyfp3">2003 KY Fast Pitch Softball
+<option value="kyfp4">2004 KY Fast Pitch Softball
+<option value="kyfp5">2005 KY Fast Pitch Softball
+<option value="kyfp6">2006 KY Fast Pitch Softball
+<option value="kyfp7">2007 KY Fast Pitch Softball
+<option value="kyfp08">2008 KY Fast Pitch Softball
+<option value="kyfp09">2009 KY Fast Pitch Softball
+<option value="kyfp10">2010 KY Fast Pitch Softball
+<option value="kyfp11">2011 KY Fast Pitch Softball
+<option value="kyfp12">2012 KY Fast Pitch Softball
+<option value="kyfp13">2013 KY Fast Pitch Softball
+<option value="kyfp14">2014 KY Fast Pitch Softball
+<option value="kyfp15">2015 KY Fast Pitch Softball
+<option value="kyfp16">2016 KY Fast Pitch Softball
+<option value="kyfp17">2017 KY Fast Pitch Softball
+<option value="kyfp18">2018 KY Fast Pitch Softball
+<option value="kyfp19">2019 KY Fast Pitch Softball
+<option value="kyfp20">2020 KY Fast Pitch Softball
+<option value="kygbk7">1997/8 KY Girls Basketball
+<option value="kygbk8">1998/9 KY Girls Basketball
+<option value="kygbk9">1999/2000 KY Girls Basketball
+<option value="kygbk0">2000/1 KY Girls Basketball
+<option value="kygbk1">2001/2 KY Girls Basketball
+<option value="kygbk2">2002/3 KY Girls Basketball
+<option value="kygbk3">2003/4 KY Girls Basketball
+<option value="kygbk4">2004/5 KY Girls Basketball
+<option value="kygbk5">2005/6 KY Girls Basketball
+<option value="kygbk6">2006/7 KY Girls Basketball
+<option value="kygbk07">2007/8 KY Girls Basketball
+<option value="kygbk08">2008/9 KY Girls Basketball
+<option value="kygbk09">2009/10 KY Girls Basketball
+<option value="kygbk10">2010/11 KY Girls Basketball
+<option value="kygbk11">2011/12 KY Girls Basketball
+<option value="kygbk12">2012/13 KY Girls Basketball
+<option value="kygbk13">2013/14 KY Girls Basketball
+<option value="kygbk14">2014/15 KY Girls Basketball
+<option value="kygbk15">2015/16 KY Girls Basketball
+<option value="kygbk16">2016/17 KY Girls Basketball
+<option value="kygbk17">2017/18 KY Girls Basketball
+<option value="kygbk18">2018/19 KY Girls Basketball
+<option value="kygbk19">2019/20 KY Girls Basketball
+<option value="kygsc0">2000 KY Girls Soccer
+<option value="kygsc1">2001 KY Girls Soccer
+<option value="kygsc2">2002 KY Girls Soccer
+<option value="kygsc3">2003 KY Girls Soccer
+<option value="kygsc4">2004 KY Girls Soccer
+<option value="kygsc5">2005 KY Girls Soccer
+<option value="kygsc6">2006 KY Girls Soccer
+<option value="kygsc07">2007 KY Girls Soccer
+<option value="kygsc08">2008 KY Girls Soccer
+<option value="kygsc09">2009 KY Girls Soccer
+<option value="kygsc10">2010 KY Girls Soccer
+<option value="kygsc11">2011 KY Girls Soccer
+<option value="kygsc12">2012 KY Girls Soccer
+<option value="kygsc13">2013 KY Girls Soccer
+<option value="kygsc14">2014 KY Girls Soccer
+<option value="kygsc15">2015 KY Girls Soccer
+<option value="kygsc16">2016 KY Girls Soccer
+<option value="kygsc17">2017 KY Girls Soccer
+<option value="kygsc18">2018 KY Girls Soccer
+<option value="kygsc19">2019 KY Girls Soccer
+<option value="kyvb0">2000 KY Volleyball
+<option value="kyvb1">2001 KY Volleyball
+<option value="kyvb2">2002 KY Volleyball
+<option value="kyvb3">2003 KY Volleyball
+<option value="kyvb4">2004 KY Volleyball
+<option value="kyvb5">2005 KY Volleyball
+<option value="kyvb6">2006 KY Volleyball
+<option value="kyvb07">2007 KY Volleyball
+<option value="kyvb08">2008 KY Volleyball
+<option value="kyvb09">2009 KY Volleyball
+<option value="kyvb10">2010 KY Volleyball
+<option value="kyvb11">2011 KY Volleyball
+<option value="kyvb12">2012 KY Volleyball
+<option value="kyvb13">2013 KY Volleyball
+<option value="kyvb14">2014 KY Volleyball
+<option value="kyvb15">2015 KY Volleyball
+<option value="kyvb16">2016 KY Volleyball
+<option value="kyvb17">2017 KY Volleyball
+<option value="kyvb18">2018 KY Volleyball
+<option value="kyvb19">2019 KY Volleyball
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</form>
+</td></tr>
+</table>
+<div class="motd nav_bar" id="motd">
+Have a score we don't have? Call it in to <span style="white-space:nowrap;">1-800-453-6882!</span>
+<hr width="75%"/>
+<a href="http://itunes.apple.com/us/app/khsaa-riherds-com-high-school/id418722085?mt=8&amp;ls=1"><img alt="Link to App" border="0" height="40" src="/graphics/download.png" style="margin-right:50px;float:right;" width="135"/></a>
+Version <span style="white-space:nowrap;">14.1</span> of iPhone/iPad Scoreboard released <span style="white-space:nowrap;">June 25</span><br/>
+</div>
+<div class="overlay" id="motd_overlay"></div>
+<script type="text/javascript">
+  $(function(){
+//  var ws=new WebSocket('wss://ws.4ank.com:443/');
+    if(navigator.userAgent.search(/iphone/i)>1){$('#iphone_message').show();}
+    $('.ad_click').click(function(){
+      $.get('/adclick.php?href='+$(this).attr('href')+"&cd="+document.cookie);
+      return true;
+    });
+    $("#motd").css('cursor','help').click(function(e){ 
+      evt=e;
+      $("#motd_overlay").load("/motd_overlay.php",function(evt){
+        $("#motd_overlay").helpbox(e);
+      });
+    });
+    $.cookieBar({
+      acceptOnScroll: 100,
+      expireDays: 7,
+      fixed: true,
+      bottom: true,
+      policyButton: true,
+      policyText: 'See Details',
+      policyURL: 'http://www.google.com/intl/en/policies/privacy/partners/',
+      message: 'We use cookies to personalize ads and to analyze our traffic. We also share information about your use of our site with our advertising and analytics partners.  <br>If you do not agree, please leave now. By continuing on this site you accept our use of cookies.',
+    });
+//    $("#score-ticker").startTicker('x');
+//   if(typeof(window['thisteam'])!='undefined'){$(".team_list").val(thisteam);}
+//   if(typeof(window['thiswk'])!='undefined'){$(".date_list").val('wk'+thiswk);}
+  });
+</script>
+<style type="text/css">
+.ticker	{font-family:verdana;
+	 font-size:8pt;
+	}
+div.section{
+	width:782;
+        width:90%;
+	padding:0px;
+	margin: 0;
+	position:relative;
+	clear:both;
+        text-align:center;
+}
+div.section li{
+		float:left;
+	}
+div.pane{
+		overflow:hidden;
+		clear:left;
+		margin: 0;
+		position:relative;
+		width:750px;
+width:600px;
+		height:22px;
+	}
+ul.elements{
+	background-color:#5B739C;
+	background-color:white;
+	padding:0;
+	margin:0;
+	list-style:none;
+width:30000px;
+}
+	ul.elements li{
+		height:22px;
+		width:750px;
+width:600px;
+		text-align:left;
+		padding:2px;
+		position:relative;
+		background-color:#DDD;
+		background-color:white;
+	margin:0;
+	list-style:none;
+	}
+</style>
+<table id="score_scroller_table" style="display:none;width:100%">
+<tr class="ticker" id="score_scroller">
+<td style="white-space:nowrap;">Just in--&gt;</td>
+<td>
+<div class="section">
+<div class="pane" id="score-ticker"></div>
+</div>
+</td>
+</tr>
+</table>
+<div class="subtitle">2013 26th District Girls Basketball Tournament<div><a href="/scoreboard/khsaa/kygbk12">Return to latest scores for 2012/13 KY Girls Basketball</a>
+<table border="0" cellpadding="0" cellspacing="0" class="bracket_table">
+<caption align="bottom"><b>Other Tournament Brackets:</b><ul style="margin-top:0;white-space:nowrap"><li><a href="/scoreboard/khsaa/kygbk18/tournament_171026">2019 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk17/tournament_162026">2018 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk16/tournament_153026">2017 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk15/tournament_144026">2016 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk14/tournament_136026">2015 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk13/tournament_128026">2014 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk11/tournament_112026">2012 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk10/tournament_104026">2011 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk09/tournament_96026">2010 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk08/tournament_88026">2009 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk07/tournament_80026">2008 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk6/tournament_72026">2007 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk5/tournament_64026">2006 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk4/tournament_56026">2005 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk3/tournament_48026">2004 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk2/tournament_40026">2003 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk1/tournament_32026">2002 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk0/tournament_24026">2001 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk9/tournament_16026">2000 26th District Girls Basketball Tournament</a>
+<li><a href="/scoreboard/khsaa/kygbk8/tournament_10026">1999 26th District Girls Basketball Tournament</a>
+</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul></caption>
+<tr valign="bottom"><td nowrap=""><font face="arial,helvetica">  <b><a href="/scoreboard/khsaa/kygbk12/38498">Assumption</a></b> <font size="-2"></font></font></td>
+<td align="right"><font face="arial,helvetica">  <b>76</b> </font></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td bgcolor="#000000" colspan="2" height="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td align="right"><font face="arial,helvetica"><small>  <b></b><br/>Feb 19 6:00 PM<br/>at Male <br/> </small></font></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td nowrap=""><font face="arial,helvetica">  <b><a href="/scoreboard/khsaa/kygbk12/38498">Assumption</a></b> <font size="-2"></font></font></td>
+<td align="right"><font face="arial,helvetica">  <b>51</b> </font></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" colspan="2" height="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td nowrap=""><font face="arial,helvetica">  <a href="/scoreboard/khsaa/kygbk12/38524">Brown</a> <font size="-2"></font></font></td>
+<td align="right"><font face="arial,helvetica">  13 </font></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td bgcolor="#000000" colspan="2" height="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td></td>
+<td></td>
+<td></td>
+<td align="right"><font face="arial,helvetica"><small>  <b></b><br/>Feb 21 7:00 PM<br/>at Male<br/><i><b>Championship</b></i> <br/> </small></font></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td nowrap=""><font face="arial,helvetica">  <b><a href="/scoreboard/khsaa/kygbk12/38498">Assumption</a></b></font></td>
+</tr>
+<tr valign="bottom"><td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td nowrap=""><font face="arial,helvetica">  <b><a href="/scoreboard/khsaa/kygbk12/38641">Male</a></b> <font size="-2"></font></font></td>
+<td align="right"><font face="arial,helvetica">  <b>47</b> </font></td>
+<td></td>
+<td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td bgcolor="#000000" colspan="2" height="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td align="right"><font face="arial,helvetica"><small>  <b></b><br/>Feb 19 7:30 PM<br/>at Male <br/> </small></font></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td nowrap=""><font face="arial,helvetica">  <a href="/scoreboard/khsaa/kygbk12/38641">Male</a> <font size="-2"></font></font></td>
+<td align="right"><font face="arial,helvetica">  29 </font></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td></td>
+<td></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" colspan="2" height="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td nowrap=""><font face="arial,helvetica">  <a href="/scoreboard/khsaa/kygbk12/38633">Louisville Collegiate</a> <font size="-2"></font></font></td>
+<td align="right"><font face="arial,helvetica">  44 </font></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td bgcolor="#000000" colspan="2" height="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td bgcolor="#000000" width="1"><img border="0" height="1" src="/scoreboard_graphics/bdot.gif" width="1"/></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr valign="bottom"><td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><div class="copyright">
+All content © 1997-2019 <a href="https://riherds.com">Riherds.com</a> in partnership with the
+<a href="http://khsaa.org">Kentucky High School Athletic Association</a>. All rights reserved.
+<br/>
+Schedule and score data are believed to be correct but no guaranties are made. 
+Schedules are subject to change without notice.
+We advise you to check with schools before making
+travel plans.<p>
+<!--<div id=privacy>Click here for details of our privacy policy.<p><p><p></div>-->
+</p></div>
+<div class="overlay" id="privacy_overlay"></div>
+<script type="text/javascript">
+  $(function(){
+    $("#privacy").css('cursor','help').click(function(e){ 
+      evt=e;
+      $("#privacy_overlay").load("/output/privacy_notice.txt",function(evt){
+        $("#privacy_overlay").helpbox(e);
+      });
+    });
+  })
+
+</script>
+<!--title=2012/13 Kentucky High School Girls Basketball--><!--end_data--><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4394351987806189";
+google_ad_slot = "4040390911";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+</div></div></td>
+<td align="center" id="left_ad" style="padding-left:20px;">
+<script>khsaa_banner()</script><br/>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4394351987806189";
+google_ad_slot = "9947323716";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4394351987806189";
+google_ad_slot = "9947323716";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script></td>
+</tr>
+</table>
+</center>
+</body>
+</html>

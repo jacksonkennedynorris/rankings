@@ -1,0 +1,18 @@
+function data= calcs(Games,Teams)
+%% Create game matrix and store it in data
+[data,Games,Teams] = createGameMat(Games,Teams);
+%% Do Calculations
+Massey = masseyRating(data);
+Colley = colleyRating(data,1/2);
+initElo = initialElo(Teams);
+Elo = eloRating(data,initElo);
+%% Store in Teams
+for i = 1:length(Teams) 
+    Teams(i).Massey = Massey(i);
+    Teams(i).Colley = Colley(i); 
+    Teams(i).Elo = Elo(i);
+end
+[totalTable,IMass,IColl,IElo] = createTable([Teams.Name],Massey,Colley,Elo);
+data.IMass = IMass; 
+data.IColl = IColl; 
+data.IElo = IElo; 
