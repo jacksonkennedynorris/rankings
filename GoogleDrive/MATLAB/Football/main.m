@@ -1,28 +1,8 @@
-function main()
-year = '2019';
-sport = 'Football';
-%% Get all matrices
-data = loadingMatrices(year,sport);
-data1 = removeTeamsNoGames(data);
-data2 = calculateRecord(data1);   
-data3 = removeForfeits(data2);
-data4 = createSmallMat(data3);
-initElo = initialElo(data4);
-%% Ratings!!
-dataFinal = calcs(data4,initElo);
-%% Generate and print tables
-[~,~,~,~,~,~,~,dataFinal] = sortByRegion(dataFinal);
-%% Work on Cross Region
-[myCell,crossRegion] = inAndOutRegion(dataFinal);
-[eloAdjustments] = logisticFunction(myCell,crossRegion);
-%% Print to File (uncomment when using)
-%print2FileFunctionCurrent(dataFinal)
-%% Normalize Ratings 
-[~,~,~,averageRating] = normalize_ratings(2019);
-averageRating = round(averageRating,2); 
-[one,two,three,four,five,six,total] = sortIntoAggregate(dataFinal,averageRating,year);%,Name,Region,Average,year,inState,outState);
-myCell = {one,two,three,four,five,six,total}; %Create a cell of all the matrices 
-for elem = 1:7  %7 is if we are printing the total 
-    writeToFile(myCell{elem},sport,year,elem)
+function main
+clear all 
+close all 
+sport = "Football"; 
+for year = 2019 
+    [Games,Teams,saveFinal] = loadingMatrices(year); 
+
 end
-disp("Done with Matlab!")
