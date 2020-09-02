@@ -1,0 +1,12 @@
+function [colley_test,matchingHFA] = colley_wrapper(years)
+
+colley_test=[];
+matchingHFA=[];
+
+for mainHFA = 0:0.002:0.0.2
+    for ratingHFA = 0.05:0.02:0.2
+        matchingHFA=[matchingHFA; mainHFA ratingHFA];
+        colley_test=[colley_test;main_test(years,mainHFA,ratingHFA)];
+    end
+end
+    
