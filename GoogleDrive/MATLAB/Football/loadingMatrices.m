@@ -1,6 +1,9 @@
 function [Games, Teams, saveFinal] = loadingMatrices(year) 
-
-cd(strcat('../..\HS Sports Data\Football\',num2str(year)))
+if ismac 
+    cd(strcat('../../HS Sports Data/Football/',num2str(year)))
+elseif ispc
+    cd(strcat('../..\HS Sports Data\Football\',num2str(year)))
+end
 summariesFolder = dir("game_summaries"); % Get all file names for summaries
 cd("game_summaries")
 names = []; 
@@ -87,7 +90,11 @@ for i = 1:length(Name)
     tStruct.inStateRecord = "";
     Teams = [Teams; tStruct];
 end
-cd('../../..\MATLAB\Football');
+if ismac
+    cd('../../../MATLAB/Football');
+elseif ispc
+    cd('../../..\MATLAB\Football');
+end
 for game = 1:length(Games) 
     winner = Games(game).winID;
     loser = Games(game).loseID;
