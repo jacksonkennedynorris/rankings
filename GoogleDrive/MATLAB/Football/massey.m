@@ -1,11 +1,12 @@
 function Massey = massey(Games,Teams)
+%HI DR. HEATH
 %% Massey's Equation
 % Mr = p 
         %Mii represents the number of games played by team i 
         %Mij (i~=j) represents the -number of games team i played against team j. 
     %p is the point-differential column vector 
     %r is the ratings  
-Games
+
 nTeams = length(Teams);
 M = zeros(nTeams,nTeams); %Initialize M with zeros
 pd = zeros(nTeams,1);  
