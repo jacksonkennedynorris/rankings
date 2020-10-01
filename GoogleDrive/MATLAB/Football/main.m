@@ -7,3 +7,4 @@ for year = 2019
     [Games,Teams] = removeTeamsNoGames(Games,Teams);    
     [Games,Teams] = calcs(Games,Teams,year);
 end
+%% Test case
