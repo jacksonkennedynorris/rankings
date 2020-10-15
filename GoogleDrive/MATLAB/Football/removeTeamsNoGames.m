@@ -20,4 +20,3 @@ for i = fliplr(find([Teams.GamesPlayed]==0)) %Have to iterate backwards
 end
 
 % Teams = rmfield(Teams,'GamesPlayed');
-disp("DONE")
