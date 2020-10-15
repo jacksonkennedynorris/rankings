@@ -1,5 +1,7 @@
 function [Games,Teams] = calcs(Games,Teams,year)
 
+# crossing my fingers... comment by Heath
+
 Massey = massey(Games,Teams);
 Colley = colley(Games,Teams,0);
 
