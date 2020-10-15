@@ -24,7 +24,7 @@ save('eloRating.txt','Elo','-ascii')
 save('colleyRating.txt','Colley','-ascii')
 save('masseyRating.txt','Massey','-ascii')
 
-%% Shelby's comment
-
+%% Shelbys comment
+%% Jacksons comment
 
 cd ../..
