@@ -2,6 +2,12 @@ function [Games,Teams] = calcs(Games,Teams,year)
 
 Massey = massey(Games,Teams);
 Colley = colley(Games,Teams,0);
+
+initialElo = [];
+for i = 1:length(Teams)
+    initialElo(i) = 1500;
+end
+
 Elo = elo(Games,Teams);
 
 if ~exist(num2str(year), 'dir')
