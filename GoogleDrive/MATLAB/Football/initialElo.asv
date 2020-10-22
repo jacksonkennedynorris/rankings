@@ -1,0 +1,12 @@
+function initElo = initialElo(Games, Teams, year) 
+
+if year == 1998 
+    initElo = 1500*ones(1,length(Teams));
+else
+    load(,num2str(year-1), ) 
+end
+year
+
+
+
+disp("DONE") 

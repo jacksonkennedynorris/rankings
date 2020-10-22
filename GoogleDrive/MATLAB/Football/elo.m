@@ -1,11 +1,10 @@
-function Elo = elo(Games,Teams,initElo,k,s,HFA)
+function Elo = elo(Games,Teams,year,k,s,HFA)
 %% Initialize our parameters
 k=35; %ANALYZE THIS NUMBER
 s=220; %this represents a 400 point advantage 
 HFA = 11;
 %400 point advantage means team A is 10x better than team B
-initElo = 1500*ones(1,length(Teams));
-R = initElo;
+R = initialElo(Games,Teams,year);
 %%%% TAKE OUT LATER
 % probs of winner 
 %probs = zeros(length(Game)-600,1);

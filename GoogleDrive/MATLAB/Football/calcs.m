@@ -1,16 +1,8 @@
 function [Games,Teams] = calcs(Games,Teams,year)
 
-# crossing my fingers... comment by Heath
-%% YES!!
 Massey = massey(Games,Teams);
 Colley = colley(Games,Teams,0);
-
-initialElo = [];
-for i = 1:length(Teams)
-    initialElo(i) = 1500;
-end
-
-Elo = elo(Games,Teams);
+Elo = elo(Games,Teams,year);
 
 if ~exist(num2str(year), 'dir')
    mkdir(num2str(year))
@@ -26,8 +18,4 @@ save('eloRating.txt','Elo','-ascii')
 save('colleyRating.txt','Colley','-ascii')
 save('masseyRating.txt','Massey','-ascii')
 
-%% Shelbys comment
-%% Jacksons comment
-%% Shelby comment 2
-%% Jackson's new comment
 cd ../..

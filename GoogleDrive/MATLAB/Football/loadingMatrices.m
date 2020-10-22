@@ -24,6 +24,7 @@ for elem = 1:length(teamTagsFolder)
         teams = readtable(t);
     end
 end
+
 %% Work with the crazy team tag files  (Why can't we write one file that is clean ughhhh)  
 if width(teams) == 12 %prior to 2006 
     teams.Properties.VariableNames = {'TeamName','Region','E1','E2','E3','E4','E5','E6','E7','E8','E9','E10'};
@@ -40,7 +41,7 @@ elseif width(teams) == 4
 end
 
 Name = teams.TeamName;
-Region = teams.Region;   
+Region = teams.Region; 
 %% Create Games and Teams 
 Games = [];
 summaries(:,1) = summaries(:,1) + 1;
@@ -157,20 +158,5 @@ for game = length(Games):-1:1
     end
 end
 Games = rmfield(Games,"Forfeit");
-% for i = fliplr(find([Teams.GamesPlayed]==0)) %Have to iterate backwards
-%     j = i;
-%     Teams(i) = [];
-%     while j<length(Teams)
-%         j = j+1;
-%         Teams(j).teamID = Teams(j).teamID - 1;
-%     end
-%     for game = 1:length(Games)
-%         if Games(game).winID>j
-%             Games(game).winID = Games(game).winID - 1;
-%         end
-%         if Games(game).loseID>i
-%             Games(game).loseID = Games(game).loseID - 1;
-%         end
-%     end   
-% end
+
 saveFinal = false; 
