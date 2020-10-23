@@ -1,8 +1,8 @@
-function [percentCorrectColley] = get_colleyHFA(year)
+function [percentCorrectColley] = get_colleyHFA(year,sport,numofDays)
 %Test the ratings
 %% Accumulators
 
-numofDays = 92; %rather than the day 
+numofDays = 92; %rather than the day
 sport = "Boy's Basketball";
 
 %Values added to a win or loss later in this code
@@ -19,7 +19,7 @@ Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 %% Load matrices for old days and days+1
     [Games,Teams,~] = loadingMatrices(year,day);
     Games,Teams
-    [Games,Teams]= modifyData(Games,Teams);  
+    [Games,Teams]= modifyData(Games,Teams);
     Games,Teams
     [NewGames,NewTeams,~] = loadingMatrices(year,day+1,day+1);
     NewGames,NewTeams
@@ -33,21 +33,21 @@ Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 
         %% Determine result of game
                  for elem = 1:size(NewGames,1)
-                     
+
                     if Games(elem).winID==0||Games(elem).loseID==0
-                        continue 
+                        continue
                     end
-                     
+
                      NewLoc = NewGames(elem).Loc;
 
-                    %Actual result of game 
+                    %Actual result of game
                     actual_winner=NewGames(elem).winID;
                     actual_loser=NewGames(elem).loseID
 
                     % Get Colley ratings
                     collWin=colleyRatings(actual_winner)
                     collLos=colleyRatings(actual_loser)
-                    %% HFA and add to accumulators   
+                    %% HFA and add to accumulators
                     if NewLoc==1
                         collWin=collWin+HFA;
                     elseif NewLoc==0
@@ -64,11 +64,10 @@ Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
                 end
             end
         end
- end 
-        
-        
+ end
+
+
 
 %% Calculate percentages!
- 
-percentCorrectColley= (Coll_correct_pred./Colltotal).*100
 
+percentCorrectColley= (Coll_correct_pred./Colltotal).*100
