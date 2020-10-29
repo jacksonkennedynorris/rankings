@@ -41,7 +41,14 @@ elseif width(teams) == 4
 end
 
 Name = teams.TeamName;
-Region = teams.Region; 
+Region = teams.Region;
+cd ../..
+cd('Teams') 
+
+my_t = table(Name, Region);
+writetable(my_t,strcat(num2str(year),"Team_Tags"));
+cd .. 
+cd('Team Tags')
 %% Create Games and Teams 
 Games = [];
 summaries(:,1) = summaries(:,1) + 1;

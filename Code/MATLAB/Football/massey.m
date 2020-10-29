@@ -1,4 +1,4 @@
-function Massey = massey(Games,Teams)
+function Massey = massey(Games,Teams,hfa)
 %HI DR. HEATH
 %% Massey's Equation
 % Mr = p 

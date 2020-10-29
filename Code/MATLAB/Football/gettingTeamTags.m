@@ -12,7 +12,8 @@ end
 cd("TeamTags")
 x = readtable(stringArray(1,:))
 size(x)
-x(1, 3)
+x{1, 1}{1}
+isempty(x{1, 2}{1})
 cd ..
 
 

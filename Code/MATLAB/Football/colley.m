@@ -1,4 +1,4 @@
-function Colley = colley(Games,Teams,HFA_Inside)
+function Colley = colley(Games,Teams,HFA_Inside,HFA_Outside)
 %% Colley's Equation
 %Cr = b
     %The colley system uses the equation Cr = b. Using the Massey example, 
