@@ -25,7 +25,7 @@ masstotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
     [NewGames,NewTeams,~] = loadingMatrices(year,day+1,day+1);
     NewGames,NewTeams
     i=0;
-        for HFA = HFA_values %which nested functoin do i get rid of 
+        for HFA = HFA_values %which nested function do i get rid of 
             i=i+1;
             j=0;
             for HFA_Inside = HFA_InsideRatingFunction

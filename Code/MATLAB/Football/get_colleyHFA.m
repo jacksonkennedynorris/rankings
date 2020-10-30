@@ -1,4 +1,4 @@
-function [percentCorrectColley] = get_colleyHFA(year,sport,numofDays)
+function [percentCorrectColley] = get_colleyHFA(year)
 %Test the ratings
 %% Accumulators
 
@@ -16,6 +16,10 @@ Coll_correct_pred=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 
 %% Loop through each year to determine if ratings are inline with predictions
+%Use struct to split new games and old games
+[Games, Teams, saveFinal] = loadingMatrices(year);
+oldGames=Games(1:800);
+NewGames=Games(801:length(Games));
 
 i=0;
 for HFA = HFA_values
@@ -23,12 +27,12 @@ for HFA = HFA_values
     j=0;
     for HFA_Inside = HFA_InsideRatingFunction
         j=j+1;
-        colleyRatings = colleyRating(Games,Teams,HFA_Inside);
+        colleyRatings = colleyRating(oldGames,Teams,HFA_Inside);
 
 %% Determine result of game
-         for elem = 1:size(NewGames,1)
+         for elem = 1:length(NewGames)
 
-            if Games(elem).winID==0||Games(elem).loseID==0
+            if NewGames(elem).winID==0||NewGames(elem).loseID==0
                 continue
             end
 
@@ -36,11 +40,11 @@ for HFA = HFA_values
 
             %Actual result of game
             actual_winner=NewGames(elem).winID;
-            actual_loser=NewGames(elem).loseID
+            actual_loser=NewGames(elem).loseID;
 
             % Get Colley ratings
-            collWin=colleyRatings(actual_winner)
-            collLos=colleyRatings(actual_loser)
+            collWin=colleyRatings(actual_winner);
+            collLos=colleyRatings(actual_loser);
             %% HFA and add to accumulators
             if NewLoc==1 %1 is home 
                 collWin=collWin+HFA;
