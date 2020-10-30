@@ -16,7 +16,7 @@ Coll_correct_pred=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 
 %% Loop through each year to determine if ratings are inline with predictions
- for day=35:numofDays-1
+ for day=35:numofDays-1 %
 %% Load matrices for old days and days+1
     [Games,Teams,~] = loadingMatrices(year,day);
     Games,Teams
@@ -49,7 +49,7 @@ Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
                     collWin=colleyRatings(actual_winner)
                     collLos=colleyRatings(actual_loser)
                     %% HFA and add to accumulators
-                    if NewLoc==1
+                    if NewLoc==1 %1 is home 
                         collWin=collWin+HFA;
                     elseif NewLoc==0
                         collWin=collWin-HFA;
