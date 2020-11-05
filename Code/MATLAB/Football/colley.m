@@ -23,18 +23,19 @@ b = ones(nTeams,1);
 %Change this to mess with Colley point differentials
 differential = 1/2;
 %Calculate home and away differentials
-h_differential = differential - HFA_Inside;
-a_differential = differential + HFA_Inside;
+h_differential = differential - HFA_Inside
+a_differential = differential + HFA_Inside
 for game = 1:length(Games)
     i = Games(game).winID; %i is the winner
     j = Games(game).loseID; %j is the loser
     
     pd = Games(game).PD;
+    loc = Games(game).Loc;
  
     if i==0 || j==0  %Remove out of state games
         continue 
     end
-    loc = 2;
+    
     %%Change Diagonal Matrix%%
     M(i,i) = M(i,i) + 1; %Add one to the diagonal entries
     M(j,j) = M(j,j) + 1;
@@ -60,6 +61,7 @@ for game = 1:length(Games)
     b(i) = b(i) + i_change;
     b(j) = b(j) - j_change;
 end
+b
 C = 2*eye(nTeams) + M;
 r = inv(C)*b;
 Colley = r;
