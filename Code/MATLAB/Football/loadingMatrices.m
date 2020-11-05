@@ -15,9 +15,13 @@ for elem = 1:length(summariesFolder)
         names = [names; s]; 
     end
 end
-pwd
-cd("../../../..\MATLAB\Football")
-pwd
+    
+if ispc
+    cd("../../../..\MATLAB\Football")
+end
+if ismac
+    cd("../../../../MATLAB/Football")
+end
 teamTagsFolder = dir("Teams");
 cd('Teams');
 for elem = 1:length(teamTagsFolder) 
