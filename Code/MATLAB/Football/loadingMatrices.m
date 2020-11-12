@@ -15,9 +15,9 @@ for elem = 1:length(summariesFolder)
         names = [names; s]; 
     end
 end
-pwd
+
 cd("../../../..\MATLAB\Football")
-pwd
+
 teamTagsFolder = dir("Teams");
 cd('Teams');
 for elem = 1:length(teamTagsFolder) 
@@ -27,33 +27,10 @@ for elem = 1:length(teamTagsFolder)
     end
 end
 teams.Properties.VariableNames = {'TeamName','Region'};
-% %% Work with the crazy team tag files  (Why can't we write one file that is clean ughhhh)  
-% if width(teams) == 12 %prior to 2006 
-%     teams.Properties.VariableNames = {'TeamName','Region','E1','E2','E3','E4','E5','E6','E7','E8','E9','E10'};
-% elseif width(teams) == 3 % 2006 or 2019
-%    if teams{1,2}< 100 %2006
-%        teams.Properties.VariableNames = {'TeamName','Region','District'};
-%    else %2019
-%        teams.Properties.VariableNames = {'TeamName','ID','Region'};
-%    end
-% elseif width(teams) == 2 %2008 to 2018
-%     teams.Properties.VariableNames = {'TeamName','Region'};
-% elseif width(teams) == 4
-%     teams.Properties.VariableNames = {'TeamName','ID','Region','District'};
-% end
+
 
 Name = teams.TeamName;
 Region = teams.Region;
-% cd ..
-% cd ..
-% cd ..
-% cd MATLAB 
-% cd Football
-% cd Teams
-% 
-% my_t = table(Name, Region);
-% writetable(my_t,strcat(num2str(year),"_teams"));
-% cd .. 
 
 %% Create Games and Teams 
 Games = [];
