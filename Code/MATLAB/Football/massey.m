@@ -31,7 +31,7 @@ for game = 1:length(Games)
     M(i,j) = M(i,j) - 1; %Subtract one off the diagonal
     M(j,i) = M(j,i) - 1; 
     %%Change Point Differential Matrix
-    pd(i) = pd(i) + point_differential;
+    pd(i) = pd(i) + point_differential; %adjust point diff by location
     pd(j) = pd(j) - point_differential;
     
     %Calculate points for and against

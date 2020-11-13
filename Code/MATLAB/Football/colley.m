@@ -23,8 +23,8 @@ b = ones(nTeams,1);
 %Change this to mess with Colley point differentials
 differential = 1/2;
 %Calculate home and away differentials
-h_differential = differential - HFA_Inside
-a_differential = differential + HFA_Inside
+h_differential = differential - HFA_Inside;
+a_differential = differential + HFA_Inside;
 for game = 1:length(Games)
     i = Games(game).winID; %i is the winner
     j = Games(game).loseID; %j is the loser
@@ -61,7 +61,6 @@ for game = 1:length(Games)
     b(i) = b(i) + i_change;
     b(j) = b(j) - j_change;
 end
-b
 C = 2*eye(nTeams) + M;
 r = inv(C)*b;
 Colley = r;
