@@ -61,6 +61,7 @@ for game = 1:length(Games)
     b(i) = b(i) + i_change;
     b(j) = b(j) - j_change;
 end
+
 C = 2*eye(nTeams) + M;
 r = inv(C)*b;
 Colley = r;
