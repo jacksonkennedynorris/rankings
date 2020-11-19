@@ -17,10 +17,6 @@ for game = 1:length(Games)
         continue 
     end
     
-    %Find points of winner and loser
-    points_winner = Games(game).winScore; 
-    points_loser = Games(game).loseScore;
-    
     point_differential = Games(game).PD;
     loc = Games(game).Loc;
     
@@ -39,4 +35,6 @@ for game = 1:length(Games)
 end
 
 % Calculate Massey ratings
-Massey = inv(M'*M)*M'*pd; 
+M = [M; ones(1,nTeams)];
+pd = [pd; 0];
+Massey = inv(M'*M)*M'*pd;
