@@ -18,12 +18,16 @@ Colltotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
 %% Loop through each year to determine if ratings are inline with predictions
  for day=35:numofDays-1 %
 %% Load matrices for old days and days+1
-    [Games,Teams,~] = loadingMatrices(year,day);
-    Games,Teams
-    [Games,Teams]= modifyData(Games,Teams);
-    Games,Teams
-    [NewGames,NewTeams,~] = loadingMatrices(year,day+1,day+1);
-    NewGames,NewTeams
+%     [Games,Teams,~] = loadingMatrices(year,day);
+%     Games,Teams
+%     [Games,Teams]= modifyData(Games,Teams);
+%     Games,Teams
+%     [NewGames,NewTeams,~] = loadingMatrices(year,day+1,day+1);
+%     NewGames,NewTeams
+[Games, Teams, saveFinal] = loadingMatrices(year);
+oldGames=Games(1:800);
+NewGames=Games(801:length(Games));
+
     i=0;
         for HFA = HFA_values
             i=i+1;
