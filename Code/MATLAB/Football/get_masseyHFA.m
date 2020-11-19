@@ -13,8 +13,8 @@ sport = "Football";
 HFA_InsideRatingFunction = 1.8:0.05:2.2; %0.03:0.01:0.1;
 
 %Create empty vectors for loop
-Mass_correct_pred=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
-Masstotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
+Mass_correct_pred=zeros(length(HFA_InsideRatingFunction));
+Masstotal=zeros(length(HFA_InsideRatingFunction));
 
 %% Loop through each year to determine if ratings are inline with predictions
 %Use struct to split new games and old games
@@ -23,9 +23,9 @@ oldGames=Games(1:800);
 NewGames=Games(801:length(Games));
 
 j=0;
-for HFA_Inside = HFA_InsideRatingFunction %rows
+for HFA = HFA_InsideRatingFunction %rows
     j=j+1;
-    masseyRatings = massey(oldGames,Teams,HFA_Inside);
+    masseyRatings = massey(oldGames,Teams,HFA);
 
 %% Determine result of game
      for elem = 1:length(NewGames)

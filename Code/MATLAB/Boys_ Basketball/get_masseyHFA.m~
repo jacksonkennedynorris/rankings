@@ -28,44 +28,44 @@ masstotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
         for HFA = HFA_values %which nested function do i get rid of, outside one  
             i=i+1;
             j=0;
-            for HFA_Inside = HFA_InsideRatingFunction
-                j=j+1;
-                masseyRatings = masseyRating(Games,Teams,HFA_Inside);
+        for HFA_Inside = HFA_InsideRatingFunction
+            j=j+1;
+            masseyRatings = masseyRating(Games,Teams,HFA_Inside);
 
-        %% Determine result of game
-                 for elem = 1:size(NewGames,1)
+    %% Determine result of game
+             for elem = 1:size(NewGames,1)
 
-                    if Games(elem).winID==0||Games(elem).loseID==0
-                        continue
-                    end
-
-                     NewLoc = NewGames(elem).Loc;
-
-                    %Actual result of game
-                    actual_winner=NewGames(elem).winID;
-                    actual_loser=NewGames(elem).loseID
-
-                    % Get Colley ratings
-                    massWin=masseyRatings(actual_winner)
-                    massLos=masseyRatings(actual_loser)
-                    %% HFA and add to accumulators
-                    if NewLoc==1
-                        massWin=massWin+HFA;
-                    elseif NewLoc==0
-                        massWin=massWin-HFA;
-                    end
-
-                    if massWin>massLos
-                        mass_correct_pred(i,j)=mass_correct_pred(i,j)+1;
-                        masstotal(i,j)=masstotal(i,j)+1;
-                    else
-                        masstotal(i,j)=masstotal(i,j)+1;
-                    end
-
+                if Games(elem).winID==0||Games(elem).loseID==0
+                    continue
                 end
+
+                 NewLoc = NewGames(elem).Loc;
+
+                %Actual result of game
+                actual_winner=NewGames(elem).winID;
+                actual_loser=NewGames(elem).loseID
+
+                % Get Colley ratings
+                massWin=masseyRatings(actual_winner)
+                massLos=masseyRatings(actual_loser)
+                %% HFA and add to accumulators
+                if NewLoc==1
+                    massWin=massWin+HFA;
+                elseif NewLoc==0
+                    massWin=massWin-HFA;
+                end
+
+                if massWin>massLos
+                    mass_correct_pred(i,j)=mass_correct_pred(i,j)+1;
+                    masstotal(i,j)=masstotal(i,j)+1;
+                else
+                    masstotal(i,j)=masstotal(i,j)+1;
+                end
+
             end
         end
- end
+    end
+end
 
 
 

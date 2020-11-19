@@ -1,9 +1,9 @@
-function [percentCorrectColley] = get_colleyHFA(year)
+function [percentCorrectColley] = get_colleyHFA(year,sport)
 %Test the ratings
 %% Accumulators
 
 %numofDays = 92; %rather than the day
-sport = "Football";
+cd(sport);
 %code to open up file for sport?
 
 
@@ -69,3 +69,5 @@ end
 %% Calculate percentages!
 
 percentCorrectColley= (Coll_correct_pred./Colltotal).*100
+
+cd ..
