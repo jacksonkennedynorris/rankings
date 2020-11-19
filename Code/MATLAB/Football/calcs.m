@@ -1,6 +1,6 @@
 function [Games,Teams] = calcs(Games,Teams,year)
 
-Massey = massey(Games,Teams);
+Massey = massey(Games,Teams,2.3);
 Colley = colley(Games,Teams,0);
 Elo = elo(Games,Teams,year);
  
