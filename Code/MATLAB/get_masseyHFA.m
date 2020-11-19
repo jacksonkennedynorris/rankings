@@ -1,15 +1,11 @@
-function[percentCorrectMassey]=get_masseyHFA(year)
+function[percentCorrectMassey]=get_masseyHFA(year,sport)
 
 %Test the ratings
 %% Accumulators
 
-%numofDays = 92; %rather than the day
-sport = "Football";
-%code to open up file for sport?
+cd(sport);
 
 %Values added to a win or loss later in this code
-%HFA_values = 0.002:0.001:0.02; %0.02:0.002:0.05;
-%Used inside the colley function
 HFA_InsideRatingFunction = 2.1:0.05:2.5; %0.03:0.01:0.1;
 
 %Create empty vectors for loop
@@ -66,3 +62,5 @@ end
 %% Calculate percentages!
 
 percentCorrectMassey= (Mass_correct_pred./Masstotal).*100;
+
+cd .. 
