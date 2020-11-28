@@ -4,7 +4,7 @@ Massey = massey(Games,Teams);
 Colley = colley(Games,Teams,0);
 Elo = elo(Games,Teams,year);
  
-cd('Ratings') 
+
 
 if ~exist(num2str(year), 'dir')
    mkdir(num2str(year))
@@ -13,8 +13,13 @@ else
    cd(num2str(year))
 end
 
-save('eloRating.txt','Elo','-ascii')
-save('colleyRating.txt','Colley','-ascii')
-save('masseyRating.txt','Massey','-ascii')
+Names = [Teams.Name]';
+massey_table = table(Names, Massey); 
+colley_table = table(Names, Colley); 
+elo_table = table(Names, Elo);
+
+writetable(massey_table, "masseyRating.txt");
+writetable(colley_table, "colleyRating.txt"); 
+writetable(elo_table, "eloRating.txt"); 
 
 cd ../..

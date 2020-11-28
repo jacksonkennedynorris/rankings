@@ -3,23 +3,30 @@ function initElo = initialElo(Games, Teams, year)
 if year == 1998 
     initElo = 1500*ones(1,length(Teams));
 else
-    cd Teams 
-        lastName = readtable(strcat(num2str(year-1),'_teams.txt'));
-        thisName = readtable(strcat(num2str(year),'_teams.txt'));
-        [~, index] = ismember(thisName.Name,lastName.Name);
-        index
-    cd ..
-    for i = 1:length(index)
-        if index(i) == 0 %% Initialize at 1500 
-            i
+    cd Ratings 
+    cd(num2str(year-1)) 
+      % Get the Names from last year
+        last_table = readtable('eloRating.txt');
+        last_name = last_table{:,1};
+    cd .. 
+    cd(num2str(year))
+        this_table = readtable('eloRating.txt'); 
+        this_name = this_table{:,1};
+        initElo = zeros(length(this_name),1); 
+        for team_num = 1:length(this_name) 
+            if ismember(this_name{team_num},last_name) % Team played last year
+              % Get the elo for last year
+                cd ..
+                %region = get_region_from_team_name(year, this_name{team_num});
+                last_years_elo = this_table{team_num,2}; 
+              % Bring back towards 1500
+                initElo(team_num) = (1/3)*(1500 + 2*last_years_elo);               
+            else
+                initElo(team_num) = 1500; 
+            end
         end
-    end
-    if ismac 
-      Elo = load(strcat('Ratings/',num2str(year-1),'/elorating.txt'));       
-    end
-    if ispc
-        Elo = load(strcat('Ratings\',num2str(year-1),'\elorating.txt'));
-    end
-    initElo = (1/3)*(1500 + 2*Elo);
+    cd ..
+    cd ..
+    initElo = initElo'; % Have to transpose this vector
 end
 
