@@ -1,20 +1,16 @@
-function[percentCorrectMassey]=get_masseyHFA(year,sport,numOfDays);
+function[percentCorrectMassey]=get_masseyHFA(year,sport)
 
 %Test the ratings
 %% Accumulators
 
-%numofDays = 92; %rather than the day
-sport = "Football";
-%code to open up file for sport?
+cd(sport);
 
 %Values added to a win or loss later in this code
-%HFA_values = 0.002:0.001:0.02; %0.02:0.002:0.05;
-%Used inside the colley function
-HFA_InsideRatingFunction = 1.8:0.05:2.2; %0.03:0.01:0.1;
+HFA_InsideRatingFunction = 2.1:0.05:2.5; %0.03:0.01:0.1;
 
 %Create empty vectors for loop
-Mass_correct_pred=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
-Masstotal=zeros(length(HFA_values),length(HFA_InsideRatingFunction));
+Mass_correct_pred=zeros(length(HFA_InsideRatingFunction),1);
+Masstotal=zeros(length(HFA_InsideRatingFunction),1);
 
 %% Loop through each year to determine if ratings are inline with predictions
 %Use struct to split new games and old games
@@ -23,9 +19,10 @@ oldGames=Games(1:800);
 NewGames=Games(801:length(Games));
 
 j=0;
-for HFA_Inside = HFA_InsideRatingFunction %rows
+for HFA = HFA_InsideRatingFunction %rows
     j=j+1;
-    masseyRatings = massey(oldGames,Teams,HFA_Inside);
+    masseyRatings = massey(oldGames,Teams,HFA);
+  
 
 %% Determine result of game
      for elem = 1:length(NewGames)
@@ -49,12 +46,12 @@ for HFA_Inside = HFA_InsideRatingFunction %rows
         elseif NewLoc==0
             massWin=massWin-HFA;
         end
-
+      
         if massWin>massLos
-            Mass_correct_pred(i,j)=Mass_correct_pred(i,j)+1;
-            Masstotal(i,j)=Masstotal(i,j)+1;
+            Mass_correct_pred(j)=Mass_correct_pred(j)+1;
+            Masstotal(j)=Masstotal(j)+1;
         else
-            Masstotal(i,j)=Masstotal(i,j)+1;
+            Masstotal(j)=Masstotal(j)+1;
         end
 
     end
@@ -62,7 +59,8 @@ end
 
 
 
-
 %% Calculate percentages!
 
-percentCorrectMassey= (mass_correct_pred./masstotal).*100
+percentCorrectMassey= (Mass_correct_pred./Masstotal).*100;
+
+cd .. 

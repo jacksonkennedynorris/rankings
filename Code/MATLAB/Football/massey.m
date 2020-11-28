@@ -1,61 +1,40 @@
-function Massey = massey(Games,Teams,hfa)
-%HI DR. HEATH
-%% Massey's Equation
-% Mr = p 
-        %Mii represents the number of games played by team i 
-        %Mij (i~=j) represents the -number of games team i played against team j. 
-    %p is the point-differential column vector 
-    %r is the ratings  
+function Massey = massey(Games,Teams,HFA)
+%% Massey Ratings
+% M(i,j) = 1 if team j won game i; = -1 if team j lost game i
+% M is n x k, where n = # games, k = # teams
+% pd = n x 1 vector of point differentials
 
+nGames = length(Games);
 nTeams = length(Teams);
-M = zeros(nTeams,nTeams); %Initialize M with zeros
-pd = zeros(nTeams,1);  
-%p_for represents the points for and p_against represents points against 
-p_for = zeros(nTeams,1); 
-p_against = zeros(nTeams,1); 
+M = zeros(nGames,nTeams); %Initialize M with zeros
+pd = zeros(nGames,1);  
+
 for game = 1:length(Games)
     i = Games(game).winID; %i is the winner
     j = Games(game).loseID; %j is the loser
 
-    %Find points of winner and loser
-    points_winner = Games(game).winScore; 
-    points_loser = Games(game).loseScore;
-    
-    point_differential = Games(game).PD;
     if i==0 || j==0  %Remove out of state games
         continue 
     end
-    %%Change Diagonal Matrix%%
-    M(i,i) = M(i,i) + 1; %Add one to the diagonal entries
-    M(j,j) = M(j,j) + 1;
-    M(i,j) = M(i,j) - 1; %Subtract one off the diagonal
-    M(j,i) = M(j,i) - 1; 
-    %%Change Point Differential Matrix
-    pd(i) = pd(i) + point_differential;
-    pd(j) = pd(j) - point_differential;
     
-    %Calculate points for and against
-    p_for(i) = p_for(i) + points_winner;
-    p_for(j) = p_for(j) + points_loser;
-    p_against(i) = p_against(i) + points_loser;
-    p_against(j) = p_against(j) + points_winner;
+    point_differential = Games(game).PD;
+    loc = Games(game).Loc;
     
+    %%Change Game Matrix%%
+    M(game,i) = M(game,i) + 1; %Add one to the winner entry
+    M(game,j) = M(game,j) - 1; %Subtract one from the loser entry
+    
+    %%Change Point Differential Vector
+    if loc == 1 % i won at home
+        pd(game) = point_differential - HFA;
+    elseif loc == 0 % i won on road
+        pd(game) = point_differential + HFA;
+    elseif loc == 2 % neutral site
+        pd(game) = point_differential;
+    end
 end
-%Split into diagonal and off-diagonal entries. (Used for offense and defense)
-T = diag(diag(M)); %% Amazingly, gets rid of off diagonal entries. 
-P = T - M;
 
-%M is not invertible. We must make some changes. 
-    %Add a row of ones to the nth element. Then add a zero to the nth
-    %element of the PD. 
-M(end,:) = ones(1, nTeams);
-pd(end) = 0; 
-
-r = inv(M)*pd;
-Massey = r; 
-
-%% Create point spread 
-%(T+P)*d = T*r - f;
-defense = inv(T+P)* (T*r - p_for); 
-offense = r - defense; %Offense(i) represents number of points team i is expected 
-                        %to score against average opponent
+% Calculate Massey ratings
+M = [M; ones(1,nTeams)];
+pd = [pd; 0];
+Massey = inv(M'*M)*M'*pd;
