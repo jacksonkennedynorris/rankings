@@ -5,7 +5,7 @@ Colley = colley(Games,Teams,0);
 Elo = elo(Games,Teams,year);
  
 
-
+cd("Ratings")
 if ~exist(num2str(year), 'dir')
    mkdir(num2str(year))
    cd(num2str(year))

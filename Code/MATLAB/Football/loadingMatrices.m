@@ -1,9 +1,7 @@
 function [Games, Teams, saveFinal] = loadingMatrices(year) 
-if ismac 
-    cd(strcat('../../HS Sports Data/Football/',num2str(year)))
-elseif ispc
-    cd(strcat('../..\HS Sports Data\Football\',num2str(year)))
-end
+cd('Data')
+cd(num2str(year))
+
 summariesFolder = dir("game_summaries"); % Get all file names for summaries
 cd("game_summaries")
 names = []; 
@@ -16,12 +14,7 @@ for elem = 1:length(summariesFolder)
     end
 end
     
-if ispc
-    cd("../../../..\MATLAB\Football")
-end
-if ismac
-    cd("../../../../MATLAB/Football")
-end
+cd ../../..
 teamTagsFolder = dir("Teams");
 cd('Teams');
 for elem = 1:length(teamTagsFolder) 
@@ -31,33 +24,10 @@ for elem = 1:length(teamTagsFolder)
     end
 end
 teams.Properties.VariableNames = {'TeamName','Region'};
-% %% Work with the crazy team tag files  (Why can't we write one file that is clean ughhhh)  
-% if width(teams) == 12 %prior to 2006 
-%     teams.Properties.VariableNames = {'TeamName','Region','E1','E2','E3','E4','E5','E6','E7','E8','E9','E10'};
-% elseif width(teams) == 3 % 2006 or 2019
-%    if teams{1,2}< 100 %2006
-%        teams.Properties.VariableNames = {'TeamName','Region','District'};
-%    else %2019
-%        teams.Properties.VariableNames = {'TeamName','ID','Region'};
-%    end
-% elseif width(teams) == 2 %2008 to 2018
-%     teams.Properties.VariableNames = {'TeamName','Region'};
-% elseif width(teams) == 4
-%     teams.Properties.VariableNames = {'TeamName','ID','Region','District'};
-% end
 
 Name = teams.TeamName;
 Region = teams.Region;
-% cd ..
-% cd ..
-% cd ..
-% cd MATLAB 
-% cd Football
-% cd Teams
-% 
-% my_t = table(Name, Region);
-% writetable(my_t,strcat(num2str(year),"_teams"));
-% cd .. 
+
 
 %% Create Games and Teams 
 Games = [];
@@ -123,11 +93,9 @@ for i = 1:length(Name)
     tStruct.inStateRecord = "";
     Teams = [Teams; tStruct];
 end
-if ismac
-    cd('../../../MATLAB/Football');
-elseif ispc
-    cd('../../..\MATLAB\Football');
-end
+
+cd .. 
+
 for game = 1:length(Games) 
     winner = Games(game).winID;
     loser = Games(game).loseID;

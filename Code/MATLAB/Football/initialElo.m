@@ -16,7 +16,6 @@ else
         for team_num = 1:length(this_name)
             if ismember(this_name{team_num},last_name) % Team played last year
               % Get the elo for last year
-                cd ..
                 %region = get_region_from_team_name(year, this_name{team_num});
                 last_years_elo = this_table{team_num,2};
               % Bring back towards 1500
