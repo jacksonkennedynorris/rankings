@@ -14,7 +14,7 @@ from datetime import timedelta, date
 #Men's BB is 1
 #Women's BB is 2
 index = 0 # Used to switch between sports
-year = 1999
+year = 2020
 year2 = year + 1
 year_bbk = str(year) + '-' + str(year2)
 
@@ -28,49 +28,73 @@ folder = sports_abb[index] + '/' + str(year)
 
 #### ****** Get HTML ******
 
-# if index == 0: # Football
+if index == 0: # Football
 
-#    General URL text in every week
-#     if int(year) >= 2007:
-#        url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb' + str(year)[2:4] + '?id='
-#     else:
-#        url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb' + str(year)[3:4] + '?id='
-#     if int(year) == 1998:
-#        url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb?id='
+   #General URL text in every week
+    if int(year) >= 2007:
+       url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb' + str(year)[2:4] + '?id='
+    else:
+       url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb' + str(year)[3:4] + '?id='
+    if int(year) == 1998:
+       url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb?id='
 
-#     Season Start and End Dates
-#     start_date = datetime.date(year,8,21)
-#     end_date = datetime.date(year,12,5)
-#     season_length = end_date - start_date
+    #Season Start and End Dates
+    start_date = datetime.date(year,8,21)
+    end_date = datetime.date(year,12,5)
+    season_length = end_date - start_date
+    
+    os.chdir('../MATLAB/' + sports_abb[index] + '/Data')
 
-#     for i in range(season_length.days + 1): # get all calendar dates of the season
-#         date = start_date + datetime.timedelta(days=i) # Calendar Date (YYYY-MM-DD)
-#         url = url_pre + str(date) # URL of gameday scoreboard webpage
+    if not os.path.exists(str(year)):
+        os.makedirs(str(year))
+        os.chdir(str(year))
+        os.makedirs('game_infos')
+        os.makedirs('game_summaries')
+        os.makedirs('home_adv')
+        os.makedirs('HTML')
+        os.chdir('..')
+    os.chdir(str(year))
+    os.chdir('HTML')
+    
+    for i in range(season_length.days + 1): # get all calendar dates of the season
+        date = start_date + datetime.timedelta(days=i) # Calendar Date (YYYY-MM-DD)
+        url = url_pre + str(date) # URL of gameday scoreboard webpage
 
-#         while True:
-#             try:
-#                 day_html = urlopen(url)
-#                 break
-#             except HTTPError as detail:
-#                     if detail.code == 500:
-#                         time.sleep(1)
-#                         continue
+        while True:
+            try:
+                day_html = urlopen(url)
+                break
+            except HTTPError as detail:
+                    if detail.code == 500:
+                        time.sleep(1)
+                        continue
+   
+        day_soup = BeautifulSoup(day_html, 'html.parser')
+        table = day_soup.find('table', {"id": "winner_sort"}) # Table HTML
+        row_count = len(table.find_all('tr')) # Number of rows in table
 
-#         day_soup = BeautifulSoup(day_html, 'html.parser')
-#         table = day_soup.find('table', {"id": "winner_sort"}) # Table HTML
-#         row_count = len(table.find_all('tr')) # Number of rows in table
+        if row_count > 0:
+            day = table.find_all('tr')[0].text # Header Row
+            week_num = date.isocalendar()[1] - start_date.isocalendar()[1] + 1 # Number week in a season
+            if week_num < 10:
+                week_num = '0' + str(week_num)
+            filename = 'HTML_' + sports_abb[index] + "_" + str(year) + "_" + str(week_num) + '.txt'
 
-#         if row_count > 0:
-#            day = table.find_all('tr')[0].text # Header Row
-#            week_num = date.isocalendar()[1] - start_date.isocalendar()[1] + 1 # Number week in a season
-#            if week_num < 10:
-#                week_num = '0' + str(week_num)
+            if not os.path.exists(filename):
+                f = open(filename, 'w')
+            else: 
+                f = open(filename, 'a')
 
-#            filename = 'HTML_' + sports_abb[index] + "_" + str(year) + "_" + str(week_num) + '.txt'
-#            f = open('../MATLAB/Football/Data/' + str(year) + '/HTML/%s' % filename, 'a')
-#            f.write(day_soup.title.string + '\n')
-#            f.write(str(day_soup))
-#            f.close()
+            f.write(day_soup.title.string + '\n')
+            f.write(str(day_soup))
+            f.close()
+    os.chdir('../../../../../Python Files')
+    # os.chdir('..')
+    # os.chdir('..')
+    # os.chdir('..')
+    # os.chdir('..')
+    # os.chdir('..')
+    # os.chdir('Python Files')
 
 
 
@@ -422,7 +446,7 @@ if index == 0:
 else:
     file_year = year_bbk
 
-directory = os.path.dirname("..\MATLAB/Football/Teams")
+directory = os.path.dirname("../MATLAB/Football/Teams")
 #directory = os.path.normpath("C:\Users\Will\Desktop\Summer Research 2019\Team Tags/" + sports[index])
 for subdir, dirs, files in os.walk(directory):
     for file in files:
