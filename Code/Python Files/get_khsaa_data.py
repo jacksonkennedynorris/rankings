@@ -16,12 +16,12 @@ def main():
     season = Season(league,year)
     
     #**** Write HTML to File
-    #write_HTML(season)
+    write_HTML(season)
 
     #**** Create Game Infos
-    create_game_infos(season)
+    #create_game_infos(season)
 
     #**** Create Summaries 
-    create_summaries(season)
+    #create_summaries(season)
 main() 
 

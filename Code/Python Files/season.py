@@ -31,3 +31,16 @@ class Season:
             elif self.year == 1998:
                 url_pre = 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb?id='
         return url_pre
+    def get_url_1998(self): 
+        if self.sport == "Football": 
+            return 'https://scoreboard.12dt.com/scoreboard/khsaa/kyfb?id='
+    def get_last_two_of_year(self): 
+        if self.sport == "Football": 
+            if self.year >= 2010: 
+                return str(self.year % 2000)
+            elif self.year >= 2000: 
+                return '0' + str(self.year % 2000) 
+            elif self.year == 1999:
+                return str(self.year%1900)
+            elif self.year == 1998: 
+                return ""
