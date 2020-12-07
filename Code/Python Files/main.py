@@ -14,12 +14,15 @@ def main():
 
     #**** Create Instance *****
     season = Season(league,year)
-    
+    #Check if year path exists 
+    if not os.path.exists(season.get_year_path()):
+        os.makedirs(season.get_year_path())
+        
     #**** Write HTML to File
-    write_HTML(season)
+    #write_HTML(season)
 
     #**** Create Game Infos
-    #create_game_infos(season)
+    create_game_infos(season)
 
     #**** Create Summaries 
     #create_summaries(season)

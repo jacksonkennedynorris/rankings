@@ -44,3 +44,5 @@ class Season:
                 return str(self.year%1900)
             elif self.year == 1998: 
                 return ""
+    def get_year_path(self): 
+        return "../MATLAB/" + self.sport + "/Data/" + str(self.year)
