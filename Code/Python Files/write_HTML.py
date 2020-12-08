@@ -15,31 +15,13 @@ from datetime import timedelta, date
 def create_empty_HTML_folder(season):
         # This function takes a season and creates the data. If there appropriate directories do not exist,
         # this function creates the directory.
-
     if not os.path.exists(season.get_year_path() + "/HTML"):  
         os.makedirs(season.get_year_path() + "/HTML")
    
     for file_name in os.listdir(season.get_year_path() + "/HTML"): 
         os.remove(os.path.join(season.get_year_path() + "/HTML", file_name))
-    #     os.remove("../MATLAB/" + season.sport + "/Data/" + str(season.year) + "HTML" + file_name)
-    # os.chdir("../MATLAB/" + season.sport + "/Data/" + str(season.year) + "HTML")
+
     return 
-    # print(os.getcwd())
-    # os.chdir('../MATLAB/' + season.sport + '/Data')
-    # if not os.path.exists(str(season.year)):
-    #     print("HERE")
-    #     os.makedirs(str(season.year))
-    # os.chdir(str(season.year))
-    # if not os.path.exists("games_infos"): 
-    #     os.makedirs('game_infos')
-    # if not os.path.exists("game_summaries") 
-    #     os.makedirs('game_summaries')
-    # if not os.path.exists('home_adv'): 
-    #     os.makedirs('home_adv')
-
-
-    # print(os.getcwd())
-    # os.chdir('HTML')
 
 def return_to_python_directory():
     # Returns to python directory

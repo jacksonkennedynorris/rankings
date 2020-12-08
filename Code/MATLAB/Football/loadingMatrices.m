@@ -1,9 +1,7 @@
 function [Games, Teams, saveFinal] = loadingMatrices(year) 
-cd('Data')
-cd(num2str(year))
 
-summariesFolder = dir("game_summaries"); % Get all file names for summaries
-cd("game_summaries")
+summariesFolder = dir(strcat("Data/", num2str(year), "/game_summaries")); % Get all file names for summaries
+
 names = []; 
 summaries = []; 
 for elem = 1:length(summariesFolder) 
@@ -14,7 +12,7 @@ for elem = 1:length(summariesFolder)
     end
 end
     
-cd ../../..
+
 teamTagsFolder = dir("Teams");
 cd('Teams');
 for elem = 1:length(teamTagsFolder) 
