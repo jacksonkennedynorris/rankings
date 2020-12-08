@@ -6,7 +6,7 @@ from create_team_tags import *
 
 def main(): 
         #**** Choose year   ******
-    for year in range(2004,2020):
+    for year in range(2004,2021):
 
         #**** Choose Sport  ******
         league = "Football"  # league = "Boys Basketball"   # league = "Girls Basketball"   

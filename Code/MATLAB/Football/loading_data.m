@@ -21,7 +21,7 @@ end
 %% Find Wins and Losses
 Teams = [];
 for elem = 1:length(team_list)
-    wins = length(find([Games.win_team] == string(team_list(elem))));
+    wins = length(find({Games.win_team}' == string(team_list(elem))));
     losses = length(find([Games.lose_team] == string(team_list(elem))));
     if wins == 0 && losses == 0  %% Remove teams no games
         continue

@@ -10,7 +10,6 @@ M = zeros(nGames,nTeams); %Initialize M with zeros
 pd = zeros(nGames,1);  
 
 for game = 1:length(Games)
-    Games
     winner = Games(game).win_team;
     loser = Games(game).lose_team;
     
