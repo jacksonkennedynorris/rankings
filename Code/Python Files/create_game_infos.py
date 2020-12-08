@@ -48,7 +48,6 @@ def create_game_infos(season):
         date_comments = ""
         i = -1
         for tr in table[0].findAll('tr'): 
-
             if i == -1: 
                 i = 0
                 continue
@@ -56,10 +55,12 @@ def create_game_infos(season):
             for td in tr.findAll('td'):
                 if i == 0: 
                     win_team = td.get_text()
+                    win_team = win_team.replace(',','.')
                 if i == 1: 
                     win_score = td.get_text()
                 if i == 2: 
                     lose_team = td.get_text()
+                    lose_team = lose_team.replace(',','.')
                 if i == 3:
                     lose_score = td.get_text()
                 if i == 4: 
@@ -77,7 +78,8 @@ def create_game_infos(season):
             fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             if time == 0: 
-               writer.writeheader()
+                time = time + 1
+                writer.writeheader()
             location = 0
             for day in big_array:
                 if "(at" in day[1]: 
@@ -95,6 +97,5 @@ def create_game_infos(season):
                 else: 
                     overtime = 0
                 writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})
-        time = time + 1
     print("Created Game Infos!")
     return

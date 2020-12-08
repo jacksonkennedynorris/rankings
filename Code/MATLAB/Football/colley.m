@@ -4,18 +4,6 @@ function Colley = colley(Games,Teams,HFA_Inside)
     %The colley system uses the equation Cr = b. Using the Massey example, 
     %C = 2I + M. So we will formulate the Massey matrix and add in 2I. 
         %b is the rating, everyone starts at 1. 
-for game = 1:length(Games)
-    i = Games(game).winID; %i is the winner
-    j = Games(game).loseID; %j is the loser
-    
-    pd = Games(game).PD;
- 
-    if i==0 || j==0  %Remove out of state games
-        continue 
-    end
-    
-end
-
 nTeams = length(Teams);
 M = zeros(nTeams,nTeams); %Initialize M with zeros
 b = ones(nTeams,1);
@@ -26,16 +14,17 @@ differential = 1/2;
 h_differential = differential - HFA_Inside;
 a_differential = differential + HFA_Inside;
 for game = 1:length(Games)
-    i = Games(game).winID; %i is the winner
-    j = Games(game).loseID; %j is the loser
-    
-    pd = Games(game).PD;
-    loc = Games(game).Loc;
- 
-    if i==0 || j==0  %Remove out of state games
-        continue 
+    winner = Games(game).win_team;
+    loser = Games(game).lose_team;
+    if winner == "Out_State" || loser == "Out_State"
+       continue
     end
+    i = find([Teams.name]' == winner);
+    j = find([Teams.name]' == loser);
     
+    pd = Games(game).win_score - Games(game).lose_score;
+    loc = Games(game).location;
+  
     %%Change Diagonal Matrix%%
     M(i,i) = M(i,i) + 1; %Add one to the diagonal entries
     M(j,j) = M(j,j) + 1;

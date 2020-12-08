@@ -10,15 +10,15 @@ M = zeros(nGames,nTeams); %Initialize M with zeros
 pd = zeros(nGames,1);  
 
 for game = 1:length(Games)
-    i = Games(game).winID; %i is the winner
-    j = Games(game).loseID; %j is the loser
-
-    if i==0 || j==0  %Remove out of state games
-        continue 
-    end
+    Games
+    winner = Games(game).win_team;
+    loser = Games(game).lose_team;
     
-    point_differential = Games(game).PD;
-    loc = Games(game).Loc;
+    i = find([Teams.name]' == winner);
+    j = find([Teams.name]' == loser);
+
+    point_differential = Games(game).win_score - Games(game).lose_score;
+    loc = Games(game).location;
     
     %%Change Game Matrix%%
     M(game,i) = M(game,i) + 1; %Add one to the winner entry

@@ -38,8 +38,10 @@ class Season:
         if self.sport == "Football": 
             if self.year >= 2010: 
                 return str(self.year % 2000)
-            elif self.year >= 2000: 
+            elif self.year >= 2007: 
                 return '0' + str(self.year % 2000) 
+            elif self.year >= 2000: 
+                return str(self.year % 2000)
             elif self.year == 1999:
                 return str(self.year%1900)
             elif self.year == 1998: 

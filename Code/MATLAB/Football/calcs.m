@@ -3,23 +3,19 @@ function [Games,Teams] = calcs(Games,Teams,year)
 Massey = massey(Games,Teams,2.3);
 Colley = colley(Games,Teams,0);
 Elo = elo(Games,Teams,year);
- 
 
-cd("Ratings")
-if ~exist(num2str(year), 'dir')
-   mkdir(num2str(year))
-   cd(num2str(year))
-else
-   cd(num2str(year))
+ratings_dir = pwd + "/Data/" + num2str(year) + "/Ratings/";
+if ~exist(ratings_dir, 'dir')
+   mkdir(ratings_dir)
 end
 
-Names = [Teams.Name]';
+Names = [Teams.name]';
 massey_table = table(Names, Massey); 
 colley_table = table(Names, Colley); 
 elo_table = table(Names, Elo);
 
-writetable(massey_table, "masseyRating.txt");
-writetable(colley_table, "colleyRating.txt"); 
-writetable(elo_table, "eloRating.txt"); 
 
-cd ../..
+writetable(massey_table, strcat(ratings_dir + "masseyRating.txt"));
+writetable(colley_table, strcat(ratings_dir + "colleyRating.txt")); 
+writetable(elo_table, strcat(ratings_dir + "eloRating.txt")); 
+

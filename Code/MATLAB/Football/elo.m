@@ -12,14 +12,17 @@ R = initialElo(Games,Teams,year);
 %%%% END TAKE OUT 
 %% Iterate through game matrix 
 for game=1:length(Games)
-    
-    i = Games(game).winID; %winner 
-    j = Games(game).loseID; 
-    if i == 0 || j == 0 %Remove out of state
-        continue 
+    winner = Games(game).win_team;
+    loser = Games(game).lose_team;
+    if winner == "Out_State" || loser == "Out_State"
+       continue
     end
-    pd = Games(game).PD;
-    loc = Games(game).Loc;
+    i = find([Teams.name]' == winner);
+    j = find([Teams.name]' == loser);
+    
+    pd = Games(game).win_score - Games(game).lose_score;
+    loc = Games(game).location;
+
     if loc == 1 %winner is at home
         HFAi = HFA;
         HFAj = 0; 
@@ -32,6 +35,8 @@ for game=1:length(Games)
     end
 %% Calculate Ratings             
         %Calculate the predictions
+        R(j)
+        R(i)
         predictI = 1/(1+10^((R(j)-R(i)+HFAi)/s));
         predictJ = 1/(1+10^((R(i)-R(j)+HFAj)/s));
 

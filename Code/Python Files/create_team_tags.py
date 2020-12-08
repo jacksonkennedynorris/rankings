@@ -29,12 +29,10 @@ def create_team_tags(season):
     my_text = soup.getText()[:-1]
     my_text = my_text.split('\n')
     time = 0 
+
     with open(team_tags_dir + str(season.year) + "_Team_Tags", 'a') as csvfile: 
-        fieldname = [str(season.year) + " Teams"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldname)
-        if time == 0: 
-            writer.writeheader()
-            time = time + 1
+        writer = csv.writer(csvfile)
         for line in my_text: 
-            writer.writerow({str(season.year) + " Teams": line})
+            writer.writerow([line])
+    print("Created Team Tags!")
 
