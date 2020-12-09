@@ -17,9 +17,10 @@ for game=1:length(Games)
     if winner == "Out_State" || loser == "Out_State"
        continue
     end
+
     i = find([Teams.name]' == winner);
     j = find([Teams.name]' == loser);
-    
+
     pd = Games(game).win_score - Games(game).lose_score;
     loc = Games(game).location;
 
@@ -35,8 +36,6 @@ for game=1:length(Games)
     end
 %% Calculate Ratings             
         %Calculate the predictions
-        R(j)
-        R(i)
         predictI = 1/(1+10^((R(j)-R(i)+HFAi)/s));
         predictJ = 1/(1+10^((R(i)-R(j)+HFAj)/s));
 

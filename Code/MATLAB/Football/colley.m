@@ -41,7 +41,7 @@ for game = 1:length(Games)
         i_change = differential; 
         j_change = differential; 
     end
-    if pd == 1/2 
+    if Games(game).overtime 
         i_change = i_change/2; 
         j_change = j_change/2;
     end

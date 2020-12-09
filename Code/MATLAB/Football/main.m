@@ -3,8 +3,17 @@ clear all
 close all 
 sport = "Football";  
 
-for year = 2004:2020
+for year = 2005:2020
     [Games,Teams] = loading_data(year);
     [Games,Teams] = calcs(Games,Teams,year);
+    [~, Teams] = get_aggregate_ratings(Teams, year); 
+    cd ..
+    cd .. 
+    cd .. 
+    cd football 
+    writetable(struct2table(Games), "games_" + num2str(year) + ".csv")
+    teams_table = struct2table(Teams); 
+    writetable(sortrows(teams_table, 'rating','descend'), "teams_" + num2str(year) + ".csv")
+    cd .. 
+    cd Code/MATLAB/Football
 end
-%% Test case

@@ -9,15 +9,14 @@ else
     last_table = readtable(last_year_dir + "eloRating.txt");
     last_name = last_table{:,1};
 
-    this_table = readtable(this_year_dir + "eloRating.txt");
-    this_name = this_table{:,1};
+    this_name = {Teams.name}';
+    %this_table = readtable(this_year_dir + "eloRating.txt");
+    %this_name = this_table{:,1};
     initElo = zeros(length(this_name),1);
     for team_num = 1:length(this_name)
-        if ismember(this_name{team_num},last_name) % Team played last year
-          % Get the elo for last year
-            %region = get_region_from_team_name(year, this_name{team_num});
-            last_years_elo = this_table{team_num,2};
-          % Bring back towards 1500
+        [~,a] = ismember(this_name{team_num},last_name);
+        if a ~= 0
+            last_years_elo = last_table{a,2};
             initElo(team_num) = (1/3)*(1500 + 2*last_years_elo);
         else
             initElo(team_num) = 1500;

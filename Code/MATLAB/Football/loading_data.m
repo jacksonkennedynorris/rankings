@@ -22,13 +22,17 @@ end
 Teams = [];
 for elem = 1:length(team_list)
     wins = length(find({Games.win_team}' == string(team_list(elem))));
-    losses = length(find([Games.lose_team] == string(team_list(elem))));
+    losses = length(find({Games.lose_team}' == string(team_list(elem))));
     if wins == 0 && losses == 0  %% Remove teams no games
         continue
     end
     temp.name = string(team_list(elem));
+    temp.rating = 0;
     temp.wins = wins;
     temp.losses = losses; 
+    temp.massey = 0; 
+    temp.colley = 0; 
+    temp.elo = 0; 
     Teams = [Teams; temp];
 end
 
@@ -43,10 +47,24 @@ for elem = 1:length(win)
         Games(elem).lose_team = "Out_State"; 
     end
 end
+
 out_state_win = find([Games.win_team] == "Out_State");
 out_state_loss = find([Games.lose_team] == "Out_State");
 for game = length(Games):-1:1
     if ismember(game, out_state_win) || ismember(game, out_state_loss)
        Games(game) = [];
+       continue
+    end
+    if Games(game).win_score == 1 %Remove your forfeits
+        Games(game) = [];
     end
 end
+%% Remove teams no games (again for ratings sake) 
+for elem = 1:length(team_list)
+    wins = length(find({Games.win_team}' == string(team_list(elem))));
+    losses = length(find({Games.lose_team}' == string(team_list(elem))));
+    if wins == 0 && losses == 0  %% Remove teams no games
+        Teams(elem) = [];
+        continue
+    end
+end 

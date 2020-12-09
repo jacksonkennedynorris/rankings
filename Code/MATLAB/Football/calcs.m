@@ -10,6 +10,7 @@ if ~exist(ratings_dir, 'dir')
 end
 
 Names = [Teams.name]';
+
 massey_table = table(Names, Massey); 
 colley_table = table(Names, Colley); 
 elo_table = table(Names, Elo);

@@ -15,8 +15,11 @@ for game = 1:length(Games)
     
     i = find([Teams.name]' == winner);
     j = find([Teams.name]' == loser);
-
-    point_differential = Games(game).win_score - Games(game).lose_score;
+    if Games(game).overtime 
+       point_differential = 1/2; 
+    else
+        point_differential = Games(game).win_score - Games(game).lose_score;
+    end
     loc = Games(game).location;
     
     %%Change Game Matrix%%
