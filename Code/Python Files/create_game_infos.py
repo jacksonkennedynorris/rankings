@@ -11,15 +11,9 @@ import time
 import csv 
 from datetime import timedelta, date
 
-# def contains(short_string, long_string): 
-#     for i in range(len(long_string)-len(short_string)): 
-#         for j in range(len(short_string)): 
-#             if short_string[i+j] == 
-
 def create_game_infos(season):
 ## Football
 
-   #directory = os.path.normpath("C:\Users\Will\Desktop\Summer Research 2019\HS Sports Data\Football/" + year + "/HTML") ## Open and traverses through each file
     html_directory = season.get_year_path() + "/HTML/"
     infos_directory = season.get_year_path() + "/game_infos/"
     if not os.path.exists(infos_directory):  
