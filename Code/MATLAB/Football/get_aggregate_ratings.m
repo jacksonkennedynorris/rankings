@@ -49,8 +49,8 @@ save("Data/" + num2str(year) + "/Ratings/averageRating.txt",'average_rating','-a
 % eloNormal = eloNormal(i); 
 
 for team = 1:length(Teams)
-    Teams(team).rating = average_rating(team); 
-    Teams(team).massey = masseyNormal(team); 
-    Teams(team).colley = colleyNormal(team); 
-    Teams(team).elo = eloNormal(team); 
+    Teams(team).rating = round(average_rating(team),2); 
+    Teams(team).massey = round(masseyNormal(team),2); 
+    Teams(team).colley = round(colleyNormal(team),2); 
+    Teams(team).elo = round(eloNormal(team),2); 
 end

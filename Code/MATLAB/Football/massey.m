@@ -19,6 +19,9 @@ for game = 1:length(Games)
        point_differential = 1/2; 
     else
         point_differential = Games(game).win_score - Games(game).lose_score;
+        if point_differential >= 36 
+           point_differential = 36;
+        end
     end
     loc = Games(game).location;
     
