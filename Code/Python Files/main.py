@@ -7,7 +7,7 @@ from find_team_data import *
 
 def main(): 
         #**** Choose year   ******
-    for year in range(2004,2005):
+    for year in range(2020,2021):
 
         #**** Choose Sport  ******
         league = "Football"  # league = "Boys Basketball"   # league = "Girls Basketball"   
@@ -25,10 +25,10 @@ def main():
         #create_game_infos(season)
 
         #**** Create Team Tags 
-        #create_team_tags(season)
+        create_team_tags(season)
 
         #**** Find Team Data
-        find_team_data(season)
+        #find_team_data(season)
         print("Year: ", year)
 
 main() 
