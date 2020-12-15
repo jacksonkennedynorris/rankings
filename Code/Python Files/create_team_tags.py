@@ -45,7 +45,7 @@ def create_team_tags(season):
         team_header = soup.find(class_ = "win_loss_title")
 
         split = team_header.getText().split()
-        if split[1] == "'Records'":
+        if split[1] == "Records":
             regions.append("N/a")
         else:
             regions.append(split[1])
@@ -62,7 +62,7 @@ def create_team_tags(season):
     with open(team_tags_dir + str(season.year) + "_Team_Tags", 'a') as csvfile: 
         writer = csv.writer(csvfile)
         for i in range(len(names)): 
-            writer.writerow(names[i], team_id[i], regions[i])
+            writer.writerow({'name': names[i], 'id': team_id[i], 'region':  regions[i]})
  
     return  #regions
 
