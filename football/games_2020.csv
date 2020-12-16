@@ -128,6 +128,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-09-18,Highlands,Ryle,23,14,0,,0
 2020-09-18,Holmes,Newport,12,6,0,,0
 2020-09-18,Holy Cross (Louisville),Moore,37,0,0,,0
+2020-09-18,Kentucky Country Day,Iroquois,37,12,1,,0
 2020-09-18,Knott County Central,Betsy Layne,16,12,1,,0
 2020-09-18,Knox Central,Bourbon County,34,33,1,,0
 2020-09-18,LaRue County,Nelson County,48,15,0,,0
@@ -259,6 +260,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-09-26,Atherton,Seneca,38,0,1,,0
 2020-09-26,Central,Meade County,30,0,0,,0
 2020-09-26,DeSales,Henry County,36,13,0,,0
+2020-09-26,Doss,Iroquois,26,6,1,,0
 2020-09-26,DuPont Manual,North Bullitt,48,21,0,,0
 2020-09-26,Fairdale,Bullitt Central,74,34,1,,0
 2020-09-26,Frederick Douglass,Ballard,49,21,0,,0
@@ -266,9 +268,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-09-26,Male,Butler,56,0,0,,0
 2020-09-26,Shelby County,Great Crossing,46,26,0,,0
 2020-09-27,John Hardin,Valley,64,7,0,,0
+2020-09-27,Pleasure Ridge Park,Western,68,36,1,,0
 2020-10-01,DuPont Manual,Eastern,41,3,1,,0
 2020-10-01,East Carter,Betsy Layne,70,34,0,,0
 2020-10-01,Edmonson County,Monroe County,41,0,0,,0
+2020-10-01,Fairdale,Western,48,28,1,,0
 2020-10-01,Frederick Douglass,Grant County,64,0,1,,0
 2020-10-01,Lexington Christian,Paul Laurence Dunbar,54,14,0,,0
 2020-10-01,Marion County,Valley,20,14,1,,0
@@ -467,6 +471,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-10-16,Edmonson County,Green County,38,8,0,,0
 2020-10-16,Elizabethtown,LaRue County,53,20,0,,0
 2020-10-16,Eminence,Berea,49,18,0,,0
+2020-10-16,Fairdale,Iroquois,43,0,1,,0
 2020-10-16,Franklin County,Waggener,54,14,0,,0
 2020-10-16,Franklin-Simpson,Warren Central,49,20,0,,0
 2020-10-16,Gallatin County,Trimble County,34,14,1,,0
@@ -600,6 +605,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-10-24,Trinity (Louisville),Eastern,48,3,0,,0
 2020-10-24,Valley,Shawnee,36,12,1,,0
 2020-10-24,West Jessamine,Collins,27,24,1,,0
+2020-10-24,Western,Doss,36,12,1,,0
 2020-10-29,Frankfort,Berea,44,0,1,,0
 2020-10-30,Apollo,Owensboro Catholic,10,0,1,,0
 2020-10-30,Ashland Blazer,Rowan County,46,0,1,,0
@@ -749,6 +755,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-11-20,Spencer County,Moore,48,6,1,Class 4A 2020 UK Orthopaedics State Football Finals,0
 2020-11-20,Warren East,Russell County,33,14,0,Class 4A 2020 UK Orthopaedics State Football Finals,0
 2020-11-20,Bowling Green,Greenwood,35,7,1,Class 5A 2020 UK Orthopaedics State Football Finals,0
+2020-11-20,Bullitt Central,Western,33,32,1,Class 5A 2020 UK Orthopaedics State Football Finals,0
 2020-11-20,Covington Catholic,Cooper,36,8,1,Class 5A 2020 UK Orthopaedics State Football Finals,0
 2020-11-20,Fairdale,Doss,49,8,1,Class 5A 2020 UK Orthopaedics State Football Finals,0
 2020-11-20,Frederick Douglass,Great Crossing,62,21,1,Class 5A 2020 UK Orthopaedics State Football Finals,0
@@ -840,3 +847,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-12-04,St. Xavier,North Hardin,16,9,0,Class 6A 2020 UK Orthopaedics State Football Finals,0
 2020-12-04,Trinity (Louisville),Dixie Heights,56,0,1,Class 6A 2020 UK Orthopaedics State Football Finals,0
 2020-12-05,Franklin County,Allen County-Scottsville,48,14,1,Class 4A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Kentucky Country Day,Williamsburg,27,7,1,Class 1A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Paintsville,Newport Central Catholic,21,7,1,Class 1A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Beechwood,West Carter,35,34,0,Class 2A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Lexington Christian,Murray,48,13,1,Class 2A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Ashland Blazer,Belfry,10,3,1,Class 3A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Elizabethtown,Christian Academy-Louisville,39,20,1,Class 3A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Boyle County,Hopkinsville,55,0,1,Class 4A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Franklin County,Johnson Central,20,12,0,Class 4A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Bowling Green,Covington Catholic,20,0,0,Class 5A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Owensboro,Frederick Douglass,28,27,1,Class 5A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Male,Paul Laurence Dunbar,49,6,1,Class 6A 2020 UK Orthopaedics State Football Finals,0
+2020-12-11,Trinity (Louisville),St. Xavier,31,0,1,Class 6A 2020 UK Orthopaedics State Football Finals,0

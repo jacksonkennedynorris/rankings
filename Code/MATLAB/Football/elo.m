@@ -11,7 +11,7 @@ R = initialElo(Games,Teams,year);
 %probs = zeros(length(Game)-600,1);
 %%%% END TAKE OUT 
 %% Iterate through game matrix 
-for game=1:length(Games)
+for game= 1:length(Games)
     winner = Games(game).win_team;
     loser = Games(game).lose_team;
     if winner == "Out_State" || loser == "Out_State"
@@ -36,6 +36,7 @@ for game=1:length(Games)
     end
 %% Calculate Ratings             
         %Calculate the predictions
+
         predictI = 1/(1+10^((R(j)-R(i)+HFAi)/s));
         predictJ = 1/(1+10^((R(i)-R(j)+HFAj)/s));
 
@@ -52,7 +53,7 @@ for game=1:length(Games)
 
 end
 
-Elo = R';
+Elo = R;
 
 %%% MORE EXTRA STUFF
 % log_like = sum(log(probs))

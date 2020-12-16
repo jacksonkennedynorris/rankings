@@ -26,44 +26,44 @@ def create_team_tags(season):
     
     find_teams = soup.find(id = 'sel_fb' + season.get_last_two_of_year())
     
-    ids = []
+    #ids = []
     names = []
 
     for option in find_teams.findAll('option'):
-        ids.append(option['value'])
+        #ids.append(option['value'])
         names.append(option.text.split('\n')[0])
 
-    ids = ids[1:]
+    #ids = ids[1:]
     names = names[1:]
-    regions = []
 
-    for team_id in ids: 
+    # for team_id in ids: 
         
-        team_url = season.get_url_no_date() + team_id
-        html = urlopen(team_url)
-        soup = BeautifulSoup(html, 'html.parser')
-        team_header = soup.find(class_ = "win_loss_title")
+    #     team_url = season.get_url_no_date() + team_id
+    #     html = urlopen(team_url)
+    #     soup = BeautifulSoup(html, 'html.parser')
+    #     team_header = soup.find(class_ = "win_loss_title")
 
-        split = team_header.getText().split()
-        if split[1] == "Records":
-            regions.append("N/a")
-        else:
-            regions.append(split[1])
-        print(regions[-1])
+    #     split = team_header.getText().split()
+    #     if split[1] == "Records":
+    #         regions.append("N/a")
+    #     else:
+    #         regions.append(split[1])
+    #     print(regions[-1])
 
-    assert len(ids) == len(names) 
-    assert len(ids) == len(regions)
-    #Check Woodford County
-    assert ids[-1] == '83779'
-    assert names[-1] == 'Woodford County'
-    assert regions[-1] == '5A'
+    # assert len(ids) == len(names) 
+    # assert len(ids) == len(regions)
+    # #Check Woodford County
+    # assert ids[-1] == '83779'
+    # assert names[-1] == 'Woodford County'
+    # assert regions[-1] == '5A'
      
 
     with open(team_tags_dir + str(season.year) + "_Team_Tags", 'a') as csvfile: 
         writer = csv.writer(csvfile)
-        for i in range(len(names)): 
-            writer.writerow({'name': names[i], 'id': team_id[i], 'region':  regions[i]})
- 
+        for name in names: 
+            writer.writerow([name])
+            print(name)
+    print("Created Team Tags!")
     return  #regions
 
 

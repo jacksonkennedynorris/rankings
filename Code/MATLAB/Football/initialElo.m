@@ -22,5 +22,5 @@ else
             initElo(team_num) = 1500;
         end
     end
-    initElo = initElo'; % Have to transpose this vector
+   % Have to transpose this vector
 end
