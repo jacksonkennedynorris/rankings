@@ -62,7 +62,6 @@ def create_team_tags(season):
         writer = csv.writer(csvfile)
         for name in names: 
             writer.writerow([name])
-            print(name)
     print("Created Team Tags!")
     return  #regions
 
