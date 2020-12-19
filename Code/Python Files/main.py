@@ -19,13 +19,13 @@ def main():
             os.makedirs(season.get_year_path())
             
         #**** Write HTML to File
-        #write_HTML(season)
+        write_HTML(season)
 
         #**** Create Game Infos
-        #create_game_infos(season)
+        create_game_infos(season)
 
         #**** Create Team Tags 
-        create_team_tags(season)
+        #create_team_tags(season)
 
         #**** Find Team Data
         #find_team_data(season)

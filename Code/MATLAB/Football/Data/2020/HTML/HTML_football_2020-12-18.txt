@@ -280,7 +280,7 @@ td.loser_team          {max-width:250px;
 </p></td>
 <td align="center" height="60" id="test_ad" valign="top" width="470"></td>
 </tr>
-<caption>1 Website. 24 Years. 44,008 Teams. 518,143 Games. 23,770,345 Points Scored.</caption>
+<caption>1 Website. 24 Years. 44,008 Teams. 518,493 Games. 23,770,496 Points Scored.</caption>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" id="main" valign="top">
 <tr>
@@ -1117,50 +1117,50 @@ function showit(ctn,lst) {
 <caption align="top"><div onclick="document.getElementById('winner_sort').style.display='none';document.getElementById('location_sort').style.display='block';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Match Location</div><a href="/scoreboard/khsaa/kyfb20">Return to latest scores for 2020 KY Football</a>
 </caption>
 <tr><td class="date_table_date" colspan="5">Friday, December 18, 2020</td></tr> <tr class="game_data" valign="top">
-<td class="winner_team team_83668"><a href="/scoreboard/khsaa/kyfb20/83668">Kentucky Country Day</a></td>
-<td class="winner_score">-</td>
-<td class="loser_team team_83721">vs.<a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a> <br/>(at Kroger Field)</td>
-<td class="loser_score">-</td>
-<td class="date_comments"><nobr>11:00 AM</nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83721"><a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a></td>
+<td class="winner_score">38</td>
+<td class="loser_team team_83668">vs.<a href="/scoreboard/khsaa/kyfb20/83668">Kentucky Country Day</a> <br/>(at Kroger Field)</td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"><b>Championship</b> </span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83678"><a href="/scoreboard/khsaa/kyfb20/83678">Lexington Christian</a></td>
-<td class="winner_score">-</td>
-<td class="loser_team team_83568">vs.<a href="/scoreboard/khsaa/kyfb20/83568">Beechwood</a> <br/>(at Kroger Field)</td>
-<td class="loser_score">-</td>
-<td class="date_comments"><nobr>3:00 PM</nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83568"><a href="/scoreboard/khsaa/kyfb20/83568">Beechwood</a></td>
+<td class="winner_score">24</td>
+<td class="loser_team team_83678">vs.<a href="/scoreboard/khsaa/kyfb20/83678">Lexington Christian</a> <br/>(at Kroger Field)</td>
+<td class="loser_score">23</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"><b>Championship</b> OT</span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83580"><a href="/scoreboard/khsaa/kyfb20/83580">Boyle County</a></td>
-<td class="winner_score">-</td>
+<td class="winner_score">31</td>
 <td class="loser_team team_83631">vs.<a href="/scoreboard/khsaa/kyfb20/83631">Franklin County</a> <br/>(at Kroger Field)</td>
-<td class="loser_score">-</td>
-<td class="date_comments"><nobr>7:00 PM</nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"><b>Championship</b> OT</span> </td>
 </tr>
 </table>
 <table border="1" cellpadding="0" cellspacing="0" class="date_table" id="location_sort" style="display:none;">
 <caption align="top"><div onclick="document.getElementById('winner_sort').style.display='block';document.getElementById('location_sort').style.display='none';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Winner</div><a href="/scoreboard/khsaa/kyfb20">Return to latest scores for 2020 KY Football</a>
 </caption>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83668"><a href="/scoreboard/khsaa/kyfb20/83668">Kentucky Country Day</a></td>
-<td class="winner_score">-</td>
-<td class="loser_team team_83721">vs.<a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a> <br/>(at Kroger Field)</td>
-<td class="loser_score">-</td>
-<td class="date_comments"><nobr>11:00 AM</nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83721"><a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a></td>
+<td class="winner_score">38</td>
+<td class="loser_team team_83668">vs.<a href="/scoreboard/khsaa/kyfb20/83668">Kentucky Country Day</a> <br/>(at Kroger Field)</td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"><b>Championship</b> </span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83678"><a href="/scoreboard/khsaa/kyfb20/83678">Lexington Christian</a></td>
-<td class="winner_score">-</td>
-<td class="loser_team team_83568">vs.<a href="/scoreboard/khsaa/kyfb20/83568">Beechwood</a> <br/>(at Kroger Field)</td>
-<td class="loser_score">-</td>
-<td class="date_comments"><nobr>3:00 PM</nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83568"><a href="/scoreboard/khsaa/kyfb20/83568">Beechwood</a></td>
+<td class="winner_score">24</td>
+<td class="loser_team team_83678">vs.<a href="/scoreboard/khsaa/kyfb20/83678">Lexington Christian</a> <br/>(at Kroger Field)</td>
+<td class="loser_score">23</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"><b>Championship</b> OT</span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83580"><a href="/scoreboard/khsaa/kyfb20/83580">Boyle County</a></td>
-<td class="winner_score">-</td>
+<td class="winner_score">31</td>
 <td class="loser_team team_83631">vs.<a href="/scoreboard/khsaa/kyfb20/83631">Franklin County</a> <br/>(at Kroger Field)</td>
-<td class="loser_score">-</td>
-<td class="date_comments"><nobr>7:00 PM</nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"><b>Championship</b> OT</span> </td>
 </tr>
 </table>
 <div class="copyright">
