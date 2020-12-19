@@ -22,7 +22,6 @@ var useData = function(data){
     .text(function(d){return d;})
 
 
-
   var tableBody = myTab.append('tbody')
   var row = tableBody.selectAll('tr')
     .data(data)
