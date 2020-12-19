@@ -280,7 +280,7 @@ td.loser_team          {max-width:250px;
 </p></td>
 <td align="center" height="60" id="test_ad" valign="top" width="470"></td>
 </tr>
-<caption>1 Website. 24 Years. 44,008 Teams. 518,493 Games. 23,770,496 Points Scored.</caption>
+<caption>1 Website. 24 Years. 44,008 Teams. 518,489 Games. 23,770,496 Points Scored.</caption>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" id="main" valign="top">
 <tr>
@@ -1581,13 +1581,6 @@ function showit(ctn,lst) {
 <tr class="game_data" valign="top">
 <td class="winner_team team_85562">N/A</td>
 <td class="winner_score">0</td>
-<td class="loser_team team_83561">at <a href="/scoreboard/khsaa/kyfb20/83561">Ashland Blazer</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_85562">N/A</td>
-<td class="winner_score">0</td>
 <td class="loser_team team_83721">at <a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a> </td>
 <td class="loser_score">0</td>
 <td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
@@ -1596,6 +1589,13 @@ function showit(ctn,lst) {
 <td class="winner_team team_85562">N/A</td>
 <td class="winner_score">0</td>
 <td class="loser_team team_83756">at <a href="/scoreboard/khsaa/kyfb20/83756">St. Xavier</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_85562">N/A</td>
+<td class="winner_score">0</td>
+<td class="loser_team team_83561">at <a href="/scoreboard/khsaa/kyfb20/83561">Ashland Blazer</a> </td>
 <td class="loser_score">0</td>
 <td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
 </tr>

@@ -5,9 +5,13 @@ info_file = pwd + "/Data/" + num2str(year) + "/game_infos/game_infos";
 game_data = readtable(info_file);
 Games = table2struct(game_data);
 
-team_files = pwd + "/Data/" + num2str(year) + "/team_tags/" + num2str(year) + "_Team_Tags";
+% team_files = pwd + "/Data/" + num2str(year) + "/team_tags/" + num2str(year) + "_Team_Tags";
 
+team_files = pwd + "/Teams/" + num2str(year) + "_teams.txt";
 team_list = importdata(team_files);
+
+region_list = team_list.data;
+team_list = team_list.textdata(:,1);
 
 %% Remove Covid Games (no winner) 
 for elem = length(Games):-1:1
@@ -21,6 +25,7 @@ end
 %% Find Wins and Losses
 Teams = [];
 team_list = flip(team_list);
+region_list = flip(region_list);
 for elem = length(team_list):-1:1
     wins = length(find({Games.win_team}' == string(team_list(elem))));
     losses = length(find({Games.lose_team}' == string(team_list(elem))));
@@ -28,6 +33,7 @@ for elem = length(team_list):-1:1
         continue
     end
     temp.name = string(team_list(elem));
+    temp.region = region_list(elem);
     temp.rating = 0;
     temp.wins = wins;
     temp.losses = losses; 

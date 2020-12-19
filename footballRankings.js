@@ -12,7 +12,7 @@ var useData = function(data){
 
   var myTab = d3.select('table.totalTable')
 
-  var tableNames = ["Ranking","Name","Rating","Wins","Losses","Massey","Colley","Elo"];
+  var tableNames = ["Ranking","Name",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
 
   var header = myTab.append('thead')
     .selectAll('th')
@@ -32,25 +32,31 @@ var useData = function(data){
     .text(function(d,i){return i+1})
     row.append('td')
     .text(function(d,i){
-      return d.name })/*
-      if(d.Region == "NaN")
+      /*return d.name })*/
+      if(d.region == "NaN")
       {
         return d.name + " (N/A)"
       }
       else if (d.name == "Trinity (Louisville)") {
-        return "Trinity (" + d.Region + "A)"
+        return "Trinity (" + d.region + "A)"
       }
       else if (d.name == "Holy Cross (Louisville)"){
-        return "Holy Cross - Louisville (" + d.Region + "A)"
+        return "Holy Cross - Louisville (" + d.region + "A)"
       }
       else if (d.name == "Holy Cross (Covington)"){
-        return "Holy Cross - Covington (" + d.Region + "A)"
+        return "Holy Cross - Covington (" + d.region + "A)"
       }
       else {
-        return d.Name + " (" + d.Region + "A)"}
-      })*/ 
+        return d.name + " (" + d.region + "A)"}
+      })
+    /*row.append('td')
+    .text(function(d,i){return d.region})*/
     row.append('td')
     .text(function(d,i){return d.rating})
+    /*
+    row.append('td')
+    .text(function(d,i){return d.wins + " - " + d.losses})*/
+
     row.append('td')
     .text(function(d,i){return d.wins})
     row.append('td')
