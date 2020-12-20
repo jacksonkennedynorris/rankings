@@ -303,7 +303,7 @@ td.loser_team          {max-width:250px;
 <tr><td align="right"><form action="/scoreboard/khsaa/kyfb20">
 <select class="scoreboard_list date_list" id="sel_date_fb20" name="id" onchange="submit();">
 <option value="">(select date)
-<option selected="" value="2020-09-11">Fri., September 11, '20
+<option value="2020-09-11">Fri., September 11, '20
 <option value="2020-09-12">Sat., September 12, '20
 <option value="2020-09-17">Thu., September 17, '20
 <option value="2020-09-18">Fri., September 18, '20
@@ -330,7 +330,7 @@ td.loser_team          {max-width:250px;
 <option value="2020-11-05">Thu., November 5, '20
 <option value="2020-11-06">Fri., November 6, '20
 <option value="2020-11-19">Thu., November 19, '20
-<option value="2020-11-20">Fri., November 20, '20
+<option selected="" value="2020-11-20">Fri., November 20, '20
 <option value="2020-11-21">Sat., November 21, '20
 <option value="2020-11-27">Fri., November 27, '20
 <option value="2020-11-28">Sat., November 28, '20
@@ -1112,1231 +1112,965 @@ function showit(ctn,lst) {
 <li><a href="/scoreboard/khsaa/kyfb20/83779">Woodford County</a>
 </li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul></td></tr>
 <!-- <tr><td colspan=5 style="font-size:8pt;font-style:italic;text-align:center;">Schools not filing stat reports by 2pm ET Thursday will not be included in the weekly KHSAA Stats Leader report.</td></tr> -->
-</table></td></tr></table><div class="subtitle">Scores and Schedules for  September 11, 2020</div>
+</table></td></tr></table><div class="subtitle">Scores and Schedules for  November 20, 2020</div>
 <table border="1" cellpadding="0" cellspacing="0" class="date_table" id="winner_sort" style="display:block;">
 <caption align="top"><div onclick="document.getElementById('winner_sort').style.display='none';document.getElementById('location_sort').style.display='block';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Match Location</div><a href="/scoreboard/khsaa/kyfb20">Return to latest scores for 2020 KY Football</a>
 </caption>
-<tr><td class="date_table_date" colspan="5">Friday, September 11, 2020</td></tr> <tr class="game_data" valign="top">
-<td class="winner_team team_83565"><a href="/scoreboard/khsaa/kyfb20/83565">Bardstown</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83770">at <a href="/scoreboard/khsaa/kyfb20/83770">Washington County</a> </td>
-<td class="loser_score">27</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83566"><a href="/scoreboard/khsaa/kyfb20/83566">Barren County</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83701">vs. <a href="/scoreboard/khsaa/kyfb20/83701">Monroe County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83568"><a href="/scoreboard/khsaa/kyfb20/83568">Beechwood</a></td>
-<td class="winner_score">20</td>
-<td class="loser_team team_83605">at <a href="/scoreboard/khsaa/kyfb20/83605">Corbin</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83569"><a href="/scoreboard/khsaa/kyfb20/83569">Belfry</a></td>
-<td class="winner_score">33</td>
-<td class="loser_team team_83733">vs. <a href="/scoreboard/khsaa/kyfb20/83733">Pulaski County</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
+<tr><td class="date_table_date" colspan="5">Friday, November 20, 2020</td></tr> <tr class="game_data" valign="top">
 <td class="winner_team team_83573"><a href="/scoreboard/khsaa/kyfb20/83573">Bethlehem</a></td>
-<td class="winner_score">56</td>
-<td class="loser_team team_83707">at <a href="/scoreboard/khsaa/kyfb20/83707">Nelson County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_score">37</td>
+<td class="loser_team team_83592">vs. <a href="/scoreboard/khsaa/kyfb20/83592">Campbellsville</a> </td>
+<td class="loser_score">19</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83578"><a href="/scoreboard/khsaa/kyfb20/83578">Bowling Green</a></td>
-<td class="winner_score">14</td>
-<td class="loser_team team_83756">at <a href="/scoreboard/khsaa/kyfb20/83756">St. Xavier</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83579"><a href="/scoreboard/khsaa/kyfb20/83579">Boyd County</a></td>
-<td class="winner_score">55</td>
-<td class="loser_team team_83567">vs. <a href="/scoreboard/khsaa/kyfb20/83567">Bath County</a> </td>
-<td class="loser_score">11</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83580"><a href="/scoreboard/khsaa/kyfb20/83580">Boyle County</a></td>
-<td class="winner_score">51</td>
-<td class="loser_team team_83698">vs. <a href="/scoreboard/khsaa/kyfb20/83698">Mercer County</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83581"><a href="/scoreboard/khsaa/kyfb20/83581">Bracken County</a></td>
-<td class="winner_score">28</td>
-<td class="loser_team team_83762">at <a href="/scoreboard/khsaa/kyfb20/83762">Trimble County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83582"><a href="/scoreboard/khsaa/kyfb20/83582">Breathitt County</a></td>
-<td class="winner_score">60</td>
-<td class="loser_team team_83622">at <a href="/scoreboard/khsaa/kyfb20/83622">Estill County</a> </td>
-<td class="loser_score">43</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83583"><a href="/scoreboard/khsaa/kyfb20/83583">Breckinridge County</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83595">vs. <a href="/scoreboard/khsaa/kyfb20/83595">Caverna</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83588"><a href="/scoreboard/khsaa/kyfb20/83588">Butler County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83651">at <a href="/scoreboard/khsaa/kyfb20/83651">Hart County</a> </td>
-<td class="loser_score">32</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83589"><a href="/scoreboard/khsaa/kyfb20/83589">Caldwell County</a></td>
-<td class="winner_score">22</td>
-<td class="loser_team team_83607">vs. <a href="/scoreboard/khsaa/kyfb20/83607">Crittenden County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83590"><a href="/scoreboard/khsaa/kyfb20/83590">Calloway County</a></td>
-<td class="winner_score">33</td>
-<td class="loser_team team_83690">at <a href="/scoreboard/khsaa/kyfb20/83690">Marshall County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83591"><a href="/scoreboard/khsaa/kyfb20/83591">Campbell County</a></td>
+<td class="winner_team team_83621"><a href="/scoreboard/khsaa/kyfb20/83621">Eminence</a></td>
 <td class="winner_score">21</td>
-<td class="loser_team team_83604">vs. <a href="/scoreboard/khsaa/kyfb20/83604">Cooper</a> </td>
+<td class="loser_team team_83630">at <a href="/scoreboard/khsaa/kyfb20/83630">Frankfort</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83668"><a href="/scoreboard/khsaa/kyfb20/83668">Kentucky Country Day</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_83572">vs. <a href="/scoreboard/khsaa/kyfb20/83572">Berea</a> </td>
 <td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83593"><a href="/scoreboard/khsaa/kyfb20/83593">Carroll County</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83682">at <a href="/scoreboard/khsaa/kyfb20/83682">Ludlow</a> </td>
-<td class="loser_score">28</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83598"><a href="/scoreboard/khsaa/kyfb20/83598">Christian Academy-Louisville</a></td>
-<td class="winner_score">49</td>
-<td class="loser_team team_83586">at <a href="/scoreboard/khsaa/kyfb20/83586">Bullitt East</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83599"><a href="/scoreboard/khsaa/kyfb20/83599">Christian County</a></td>
-<td class="winner_score">28</td>
-<td class="loser_team team_83686">at <a href="/scoreboard/khsaa/kyfb20/83686">Madisonville-North Hopkins</a> </td>
-<td class="loser_score">20</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83600"><a href="/scoreboard/khsaa/kyfb20/83600">Clay County</a></td>
-<td class="winner_score">35</td>
-<td class="loser_team team_83683">vs. <a href="/scoreboard/khsaa/kyfb20/83683">Lynn Camp</a> </td>
-<td class="loser_score">20</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83601"><a href="/scoreboard/khsaa/kyfb20/83601">Clinton County</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83572">at <a href="/scoreboard/khsaa/kyfb20/83572">Berea</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83602"><a href="/scoreboard/khsaa/kyfb20/83602">Collins</a></td>
-<td class="winner_score">36</td>
-<td class="loser_team team_83755">at <a href="/scoreboard/khsaa/kyfb20/83755">Spencer County</a> </td>
-<td class="loser_score">28</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83606"><a href="/scoreboard/khsaa/kyfb20/83606">Covington Catholic</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83612">at <a href="/scoreboard/khsaa/kyfb20/83612">Dixie Heights</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83609"><a href="/scoreboard/khsaa/kyfb20/83609">Daviess County</a></td>
-<td class="winner_score">41</td>
-<td class="loser_team team_83715">vs. <a href="/scoreboard/khsaa/kyfb20/83715">Ohio County</a> </td>
-<td class="loser_score">16</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83610"><a href="/scoreboard/khsaa/kyfb20/83610">Dayton</a></td>
+<td class="winner_team team_83682"><a href="/scoreboard/khsaa/kyfb20/83682">Ludlow</a></td>
 <td class="winner_score">39</td>
-<td class="loser_team team_83724">at <a href="/scoreboard/khsaa/kyfb20/83724">Pendleton County</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83620"><a href="/scoreboard/khsaa/kyfb20/83620">Elizabethtown</a></td>
-<td class="winner_score">20</td>
-<td class="loser_team team_83597">at <a href="/scoreboard/khsaa/kyfb20/83597">Central Hardin</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83624"><a href="/scoreboard/khsaa/kyfb20/83624">Fairview</a></td>
-<td class="winner_score">20</td>
-<td class="loser_team team_83704">vs. <a href="/scoreboard/khsaa/kyfb20/83704">Morgan County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83631"><a href="/scoreboard/khsaa/kyfb20/83631">Franklin County</a></td>
-<td class="winner_score">55</td>
-<td class="loser_team team_83559">at <a href="/scoreboard/khsaa/kyfb20/83559">Anderson County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83639"><a href="/scoreboard/khsaa/kyfb20/83639">Glasgow</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83558">vs. <a href="/scoreboard/khsaa/kyfb20/83558">Allen County-Scottsville</a> </td>
-<td class="loser_score">19</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83641"><a href="/scoreboard/khsaa/kyfb20/83641">Graves County</a></td>
-<td class="winner_score">17</td>
-<td class="loser_team team_83720">at <a href="/scoreboard/khsaa/kyfb20/83720">Paducah Tilghman</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83642"><a href="/scoreboard/khsaa/kyfb20/83642">Grayson County</a></td>
-<td class="winner_score">26</td>
-<td class="loser_team team_83759">at <a href="/scoreboard/khsaa/kyfb20/83759">Thomas Nelson</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83645"><a href="/scoreboard/khsaa/kyfb20/83645">Greenup County</a></td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83561">at <a href="/scoreboard/khsaa/kyfb20/83561">Ashland Blazer</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83646"><a href="/scoreboard/khsaa/kyfb20/83646">Greenwood</a></td>
-<td class="winner_score">42</td>
-<td class="loser_team team_83768">at <a href="/scoreboard/khsaa/kyfb20/83768">Warren Central</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83647"><a href="/scoreboard/khsaa/kyfb20/83647">Hancock County</a></td>
-<td class="winner_score">26</td>
-<td class="loser_team team_83619">at <a href="/scoreboard/khsaa/kyfb20/83619">Edmonson County</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83650"><a href="/scoreboard/khsaa/kyfb20/83650">Harrison County</a></td>
-<td class="winner_score">1</td>
-<td class="loser_team team_83577">vs. <a href="/scoreboard/khsaa/kyfb20/83577">Bourbon County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">Admin Forfeit by school (34-14)</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83655"><a href="/scoreboard/khsaa/kyfb20/83655">Henry County</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83717">at <a href="/scoreboard/khsaa/kyfb20/83717">Owen County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83658"><a href="/scoreboard/khsaa/kyfb20/83658">Holy Cross (Covington)</a></td>
-<td class="winner_score">55</td>
-<td class="loser_team team_83571">at <a href="/scoreboard/khsaa/kyfb20/83571">Bellevue</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83659"><a href="/scoreboard/khsaa/kyfb20/83659">Holy Cross (Louisville)</a></td>
-<td class="winner_score">19</td>
-<td class="loser_team team_83657">at <a href="/scoreboard/khsaa/kyfb20/83657">Holmes</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83661"><a href="/scoreboard/khsaa/kyfb20/83661">Hopkinsville</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83653">vs. <a href="/scoreboard/khsaa/kyfb20/83653">Henderson County</a> </td>
-<td class="loser_score">16</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83667"><a href="/scoreboard/khsaa/kyfb20/83667">Johnson Central</a></td>
-<td class="winner_score">36</td>
-<td class="loser_team team_83570">at <a href="/scoreboard/khsaa/kyfb20/83570">Bell County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83670"><a href="/scoreboard/khsaa/kyfb20/83670">Knox Central</a></td>
-<td class="winner_score">14</td>
-<td class="loser_team team_83649">vs. <a href="/scoreboard/khsaa/kyfb20/83649">Harlan County</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83672"><a href="/scoreboard/khsaa/kyfb20/83672">LaRue County</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83592">at <a href="/scoreboard/khsaa/kyfb20/83592">Campbellsville</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83674"><a href="/scoreboard/khsaa/kyfb20/83674">Leslie County</a></td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83637">at <a href="/scoreboard/khsaa/kyfb20/83637">Garrard County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83675"><a href="/scoreboard/khsaa/kyfb20/83675">Letcher County Central</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83735">vs. <a href="/scoreboard/khsaa/kyfb20/83735">Rockcastle County</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83679"><a href="/scoreboard/khsaa/kyfb20/83679">Lincoln County</a></td>
-<td class="winner_score">50</td>
-<td class="loser_team team_83713">vs. <a href="/scoreboard/khsaa/kyfb20/83713">North Laurel</a> </td>
-<td class="loser_score">26</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83681"><a href="/scoreboard/khsaa/kyfb20/83681">Logan County</a></td>
-<td class="winner_score">29</td>
-<td class="loser_team team_83739">vs. <a href="/scoreboard/khsaa/kyfb20/83739">Russellville</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83687"><a href="/scoreboard/khsaa/kyfb20/83687">Magoffin County</a></td>
-<td class="winner_score">36</td>
-<td class="loser_team team_83574">vs. <a href="/scoreboard/khsaa/kyfb20/83574">Betsy Layne</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83691"><a href="/scoreboard/khsaa/kyfb20/83691">Martin County</a></td>
-<td class="winner_score">52</td>
-<td class="loser_team team_83726">at <a href="/scoreboard/khsaa/kyfb20/83726">Phelps</a> </td>
-<td class="loser_score">40</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83692"><a href="/scoreboard/khsaa/kyfb20/83692">Mason County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83640">vs. <a href="/scoreboard/khsaa/kyfb20/83640">Grant County</a> </td>
-<td class="loser_score">18</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83694"><a href="/scoreboard/khsaa/kyfb20/83694">McCracken County</a></td>
-<td class="winner_score">42</td>
-<td class="loser_team team_83693">vs. <a href="/scoreboard/khsaa/kyfb20/83693">Mayfield</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83695"><a href="/scoreboard/khsaa/kyfb20/83695">McCreary Central</a></td>
-<td class="winner_score">32</td>
-<td class="loser_team team_66422">at Jellico, TN </td>
-<td class="loser_score">30</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83696"><a href="/scoreboard/khsaa/kyfb20/83696">McLean County</a></td>
-<td class="winner_score">32</td>
-<td class="loser_team team_83705">at <a href="/scoreboard/khsaa/kyfb20/83705">Muhlenberg County</a> </td>
-<td class="loser_score">12</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83697"><a href="/scoreboard/khsaa/kyfb20/83697">Meade County</a></td>
-<td class="winner_score">14</td>
-<td class="loser_team team_83666">at <a href="/scoreboard/khsaa/kyfb20/83666">John Hardin</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83699"><a href="/scoreboard/khsaa/kyfb20/83699">Metcalfe County</a></td>
-<td class="winner_score">22</td>
-<td class="loser_team team_83557">vs. <a href="/scoreboard/khsaa/kyfb20/83557">Adair County</a> </td>
-<td class="loser_score">19</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83700"><a href="/scoreboard/khsaa/kyfb20/83700">Middlesboro</a></td>
-<td class="winner_score">44</td>
-<td class="loser_team team_83648">at <a href="/scoreboard/khsaa/kyfb20/83648">Harlan</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83706"><a href="/scoreboard/khsaa/kyfb20/83706">Murray</a></td>
-<td class="winner_score">47</td>
-<td class="loser_team team_83772">at <a href="/scoreboard/khsaa/kyfb20/83772">Webster County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_85562">N/A</td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83723">at <a href="/scoreboard/khsaa/kyfb20/83723">Paul Laurence Dunbar</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_85562">N/A</td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83778">at <a href="/scoreboard/khsaa/kyfb20/83778">Williamsburg</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83708"><a href="/scoreboard/khsaa/kyfb20/83708">Newport</a></td>
-<td class="winner_score">26</td>
-<td class="loser_team team_83575">at <a href="/scoreboard/khsaa/kyfb20/83575">Bishop Brossart</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83610">vs. <a href="/scoreboard/khsaa/kyfb20/83610">Dayton</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83710"><a href="/scoreboard/khsaa/kyfb20/83710">Nicholas County</a></td>
-<td class="winner_score">44</td>
-<td class="loser_team team_83676">vs. <a href="/scoreboard/khsaa/kyfb20/83676">Lewis County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83711"><a href="/scoreboard/khsaa/kyfb20/83711">North Bullitt</a></td>
-<td class="winner_score">63</td>
-<td class="loser_team team_83585">vs. <a href="/scoreboard/khsaa/kyfb20/83585">Bullitt Central</a> </td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83722">vs. <a href="/scoreboard/khsaa/kyfb20/83722">Paris</a> </td>
 <td class="loser_score">16</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83712"><a href="/scoreboard/khsaa/kyfb20/83712">North Hardin</a></td>
-<td class="winner_score">19</td>
-<td class="loser_team team_83633">at <a href="/scoreboard/khsaa/kyfb20/83633">Frederick Douglass</a> </td>
-<td class="loser_score">17</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83718"><a href="/scoreboard/khsaa/kyfb20/83718">Owensboro</a></td>
-<td class="winner_score">50</td>
-<td class="loser_team team_83560">vs. <a href="/scoreboard/khsaa/kyfb20/83560">Apollo</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83719"><a href="/scoreboard/khsaa/kyfb20/83719">Owensboro Catholic</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_66107">vs. Mt. Vernon, IN </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83721"><a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83616">at <a href="/scoreboard/khsaa/kyfb20/83616">East Jessamine</a> </td>
-<td class="loser_score">24</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_score">55</td>
+<td class="loser_team team_83574">vs. <a href="/scoreboard/khsaa/kyfb20/83574">Betsy Layne</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83725"><a href="/scoreboard/khsaa/kyfb20/83725">Perry County Central</a></td>
-<td class="winner_score">37</td>
-<td class="loser_team team_83727">vs. <a href="/scoreboard/khsaa/kyfb20/83727">Pike County Central</a> </td>
-<td class="loser_score">23</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83728"><a href="/scoreboard/khsaa/kyfb20/83728">Pikeville</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_83741">vs. <a href="/scoreboard/khsaa/kyfb20/83741">Sayre</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83729"><a href="/scoreboard/khsaa/kyfb20/83729">Pineville</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83617">at <a href="/scoreboard/khsaa/kyfb20/83617">East Ridge</a> </td>
-<td class="loser_score">24</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83648">vs. <a href="/scoreboard/khsaa/kyfb20/83648">Harlan</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83731"><a href="/scoreboard/khsaa/kyfb20/83731">Powell County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83732">vs. <a href="/scoreboard/khsaa/kyfb20/83732">Prestonsburg</a> </td>
-<td class="loser_score">28</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83778"><a href="/scoreboard/khsaa/kyfb20/83778">Williamsburg</a></td>
+<td class="winner_score">42</td>
+<td class="loser_team team_83683">vs. <a href="/scoreboard/khsaa/kyfb20/83683">Lynn Camp</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83737"><a href="/scoreboard/khsaa/kyfb20/83737">Russell</a></td>
-<td class="winner_score">37</td>
-<td class="loser_team team_83736">vs. <a href="/scoreboard/khsaa/kyfb20/83736">Rowan County</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83582"><a href="/scoreboard/khsaa/kyfb20/83582">Breathitt County</a></td>
+<td class="winner_score">66</td>
+<td class="loser_team team_83669">vs. <a href="/scoreboard/khsaa/kyfb20/83669">Knott County Central</a> </td>
+<td class="loser_score">26</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83738"><a href="/scoreboard/khsaa/kyfb20/83738">Russell County</a></td>
+<td class="winner_team team_83593"><a href="/scoreboard/khsaa/kyfb20/83593">Carroll County</a></td>
 <td class="winner_score">46</td>
-<td class="loser_team team_83594">vs. <a href="/scoreboard/khsaa/kyfb20/83594">Casey County</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83636">vs. <a href="/scoreboard/khsaa/kyfb20/83636">Gallatin County</a> </td>
+<td class="loser_score">9</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83740"><a href="/scoreboard/khsaa/kyfb20/83740">Ryle</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83576">at <a href="/scoreboard/khsaa/kyfb20/83576">Boone County</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83619"><a href="/scoreboard/khsaa/kyfb20/83619">Edmonson County</a></td>
+<td class="winner_score">26</td>
+<td class="loser_team team_83601">vs. <a href="/scoreboard/khsaa/kyfb20/83601">Clinton County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83741"><a href="/scoreboard/khsaa/kyfb20/83741">Sayre</a></td>
-<td class="winner_score">38</td>
-<td class="loser_team team_83621">vs. <a href="/scoreboard/khsaa/kyfb20/83621">Eminence</a> </td>
-<td class="loser_score">34</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83680"><a href="/scoreboard/khsaa/kyfb20/83680">Lloyd Memorial</a></td>
+<td class="winner_score">20</td>
+<td class="loser_team team_83708">at <a href="/scoreboard/khsaa/kyfb20/83708">Newport</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83743"><a href="/scoreboard/khsaa/kyfb20/83743">Scott County</a></td>
-<td class="winner_score">7</td>
-<td class="loser_team team_83584">vs. <a href="/scoreboard/khsaa/kyfb20/83584">Bryan Station</a> </td>
+<td class="winner_team team_83699"><a href="/scoreboard/khsaa/kyfb20/83699">Metcalfe County</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_83701">vs. <a href="/scoreboard/khsaa/kyfb20/83701">Monroe County</a> </td>
 <td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83746"><a href="/scoreboard/khsaa/kyfb20/83746">Shelby County</a></td>
+<td class="winner_team team_83706"><a href="/scoreboard/khsaa/kyfb20/83706">Murray</a></td>
+<td class="winner_score">35</td>
+<td class="loser_team team_83589">vs. <a href="/scoreboard/khsaa/kyfb20/83589">Caldwell County</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83719"><a href="/scoreboard/khsaa/kyfb20/83719">Owensboro Catholic</a></td>
 <td class="winner_score">40</td>
-<td class="loser_team team_83630">vs. <a href="/scoreboard/khsaa/kyfb20/83630">Frankfort</a> </td>
-<td class="loser_score">20</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83696">vs.<a href="/scoreboard/khsaa/kyfb20/83696">McLean County</a> <br/>(at Steele Stadium, KWC)</td>
+<td class="loser_score">22</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83747"><a href="/scoreboard/khsaa/kyfb20/83747">Shelby Valley</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83663">vs. <a href="/scoreboard/khsaa/kyfb20/83663">Jackson County</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83748"><a href="/scoreboard/khsaa/kyfb20/83748">Simon Kenton</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83656">at <a href="/scoreboard/khsaa/kyfb20/83656">Highlands</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_score">29</td>
+<td class="loser_team team_83691">vs. <a href="/scoreboard/khsaa/kyfb20/83691">Martin County</a> </td>
+<td class="loser_score">22</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83749"><a href="/scoreboard/khsaa/kyfb20/83749">Somerset</a></td>
-<td class="winner_score">40</td>
-<td class="loser_team team_83777">at <a href="/scoreboard/khsaa/kyfb20/83777">Whitley County</a> </td>
+<td class="winner_score">48</td>
+<td class="loser_team team_83608">vs. <a href="/scoreboard/khsaa/kyfb20/83608">Danville</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83767"><a href="/scoreboard/khsaa/kyfb20/83767">Walton-Verona</a></td>
+<td class="winner_score">41</td>
+<td class="loser_team team_83745">vs.<a href="/scoreboard/khsaa/kyfb20/83745">Shawnee</a> <br/>(at WV Sports Complex)</td>
 <td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83773"><a href="/scoreboard/khsaa/kyfb20/83773">West Carter</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83732">vs. <a href="/scoreboard/khsaa/kyfb20/83732">Prestonsburg</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83561"><a href="/scoreboard/khsaa/kyfb20/83561">Ashland Blazer</a></td>
+<td class="winner_score">47</td>
+<td class="loser_team team_83645">vs. <a href="/scoreboard/khsaa/kyfb20/83645">Greenup County</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83565"><a href="/scoreboard/khsaa/kyfb20/83565">Bardstown</a></td>
+<td class="winner_score">60</td>
+<td class="loser_team team_83672">vs. <a href="/scoreboard/khsaa/kyfb20/83672">LaRue County</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83569"><a href="/scoreboard/khsaa/kyfb20/83569">Belfry</a></td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83687">vs. <a href="/scoreboard/khsaa/kyfb20/83687">Magoffin County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83570"><a href="/scoreboard/khsaa/kyfb20/83570">Bell County</a></td>
+<td class="winner_score">43</td>
+<td class="loser_team team_83695">vs. <a href="/scoreboard/khsaa/kyfb20/83695">McCreary Central</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83598"><a href="/scoreboard/khsaa/kyfb20/83598">Christian Academy-Louisville</a></td>
+<td class="winner_score">7</td>
+<td class="loser_team team_83611">vs. <a href="/scoreboard/khsaa/kyfb20/83611">DeSales</a> </td>
+<td class="loser_score">3</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83620"><a href="/scoreboard/khsaa/kyfb20/83620">Elizabethtown</a></td>
+<td class="winner_score">63</td>
+<td class="loser_team team_83759">vs. <a href="/scoreboard/khsaa/kyfb20/83759">Thomas Nelson</a> </td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83639"><a href="/scoreboard/khsaa/kyfb20/83639">Glasgow</a></td>
+<td class="winner_score">48</td>
+<td class="loser_team team_83557">vs. <a href="/scoreboard/khsaa/kyfb20/83557">Adair County</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83698"><a href="/scoreboard/khsaa/kyfb20/83698">Mercer County</a></td>
+<td class="winner_score">53</td>
+<td class="loser_team team_83655">vs. <a href="/scoreboard/khsaa/kyfb20/83655">Henry County</a> </td>
+<td class="loser_score">10</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83720"><a href="/scoreboard/khsaa/kyfb20/83720">Paducah Tilghman</a></td>
+<td class="winner_score">53</td>
+<td class="loser_team team_83761">vs. <a href="/scoreboard/khsaa/kyfb20/83761">Trigg County</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83737"><a href="/scoreboard/khsaa/kyfb20/83737">Russell</a></td>
+<td class="winner_score">47</td>
+<td class="loser_team team_83615">vs. <a href="/scoreboard/khsaa/kyfb20/83615">East Carter</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83764"><a href="/scoreboard/khsaa/kyfb20/83764">Union County</a></td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83772">vs. <a href="/scoreboard/khsaa/kyfb20/83772">Webster County</a> </td>
+<td class="loser_score">26</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83558"><a href="/scoreboard/khsaa/kyfb20/83558">Allen County-Scottsville</a></td>
+<td class="winner_score">50</td>
+<td class="loser_team team_83632">vs. <a href="/scoreboard/khsaa/kyfb20/83632">Franklin-Simpson</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83596"><a href="/scoreboard/khsaa/kyfb20/83596">Central</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_83766">vs. <a href="/scoreboard/khsaa/kyfb20/83766">Waggener</a> </td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83605"><a href="/scoreboard/khsaa/kyfb20/83605">Corbin</a></td>
+<td class="winner_score">38</td>
+<td class="loser_team team_83679">vs. <a href="/scoreboard/khsaa/kyfb20/83679">Lincoln County</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83631"><a href="/scoreboard/khsaa/kyfb20/83631">Franklin County</a></td>
+<td class="winner_score">41</td>
+<td class="loser_team team_83746">vs. <a href="/scoreboard/khsaa/kyfb20/83746">Shelby County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83661"><a href="/scoreboard/khsaa/kyfb20/83661">Hopkinsville</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83590">at <a href="/scoreboard/khsaa/kyfb20/83590">Calloway County</a> </td>
+<td class="loser_score">17</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83667"><a href="/scoreboard/khsaa/kyfb20/83667">Johnson Central</a></td>
+<td class="winner_score">46</td>
+<td class="loser_team team_83649">vs. <a href="/scoreboard/khsaa/kyfb20/83649">Harlan County</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83670"><a href="/scoreboard/khsaa/kyfb20/83670">Knox Central</a></td>
+<td class="winner_score">46</td>
+<td class="loser_team team_83771">at <a href="/scoreboard/khsaa/kyfb20/83771">Wayne County</a> </td>
+<td class="loser_score">36</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83675"><a href="/scoreboard/khsaa/kyfb20/83675">Letcher County Central</a></td>
+<td class="winner_score">39</td>
+<td class="loser_team team_83725">vs. <a href="/scoreboard/khsaa/kyfb20/83725">Perry County Central</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83681"><a href="/scoreboard/khsaa/kyfb20/83681">Logan County</a></td>
+<td class="winner_score">50</td>
+<td class="loser_team team_83660">vs. <a href="/scoreboard/khsaa/kyfb20/83660">Hopkins County Central</a> </td>
+<td class="loser_score">30</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83755"><a href="/scoreboard/khsaa/kyfb20/83755">Spencer County</a></td>
+<td class="winner_score">48</td>
+<td class="loser_team team_83703">vs. <a href="/scoreboard/khsaa/kyfb20/83703">Moore</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83769"><a href="/scoreboard/khsaa/kyfb20/83769">Warren East</a></td>
+<td class="winner_score">33</td>
+<td class="loser_team team_83738">at <a href="/scoreboard/khsaa/kyfb20/83738">Russell County</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83578"><a href="/scoreboard/khsaa/kyfb20/83578">Bowling Green</a></td>
+<td class="winner_score">35</td>
+<td class="loser_team team_83646">vs. <a href="/scoreboard/khsaa/kyfb20/83646">Greenwood</a> </td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83585"><a href="/scoreboard/khsaa/kyfb20/83585">Bullitt Central</a></td>
+<td class="winner_score">33</td>
+<td class="loser_team team_83775">vs. <a href="/scoreboard/khsaa/kyfb20/83775">Western</a> </td>
+<td class="loser_score">32</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83606"><a href="/scoreboard/khsaa/kyfb20/83606">Covington Catholic</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83604">vs. <a href="/scoreboard/khsaa/kyfb20/83604">Cooper</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83623"><a href="/scoreboard/khsaa/kyfb20/83623">Fairdale</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_83613">vs. <a href="/scoreboard/khsaa/kyfb20/83613">Doss</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83633"><a href="/scoreboard/khsaa/kyfb20/83633">Frederick Douglass</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_83643">vs. <a href="/scoreboard/khsaa/kyfb20/83643">Great Crossing</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83641"><a href="/scoreboard/khsaa/kyfb20/83641">Graves County</a></td>
+<td class="winner_score">42</td>
+<td class="loser_team team_83642">vs. <a href="/scoreboard/khsaa/kyfb20/83642">Grayson County</a> </td>
+<td class="loser_score">19</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83656"><a href="/scoreboard/khsaa/kyfb20/83656">Highlands</a></td>
+<td class="winner_score">27</td>
+<td class="loser_team team_83603">at <a href="/scoreboard/khsaa/kyfb20/83603">Conner</a> </td>
+<td class="loser_score">16</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83685"><a href="/scoreboard/khsaa/kyfb20/83685">Madison Southern</a></td>
+<td class="winner_score">35</td>
+<td class="loser_team team_83602">vs. <a href="/scoreboard/khsaa/kyfb20/83602">Collins</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83711"><a href="/scoreboard/khsaa/kyfb20/83711">North Bullitt</a></td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83562">vs. <a href="/scoreboard/khsaa/kyfb20/83562">Atherton</a> </td>
+<td class="loser_score">9</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83718"><a href="/scoreboard/khsaa/kyfb20/83718">Owensboro</a></td>
+<td class="winner_score">81</td>
+<td class="loser_team team_83583">vs. <a href="/scoreboard/khsaa/kyfb20/83583">Breckinridge County</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83733"><a href="/scoreboard/khsaa/kyfb20/83733">Pulaski County</a></td>
+<td class="winner_score">33</td>
+<td class="loser_team team_83713">vs. <a href="/scoreboard/khsaa/kyfb20/83713">North Laurel</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83743"><a href="/scoreboard/khsaa/kyfb20/83743">Scott County</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_83640">vs. <a href="/scoreboard/khsaa/kyfb20/83640">Grant County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83751"><a href="/scoreboard/khsaa/kyfb20/83751">South Oldham</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83664">vs. <a href="/scoreboard/khsaa/kyfb20/83664">Jeffersontown</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83752"><a href="/scoreboard/khsaa/kyfb20/83752">South Warren</a></td>
-<td class="winner_score">40</td>
-<td class="loser_team team_83769">at <a href="/scoreboard/khsaa/kyfb20/83769">Warren East</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83599">vs. <a href="/scoreboard/khsaa/kyfb20/83599">Christian County</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83754"><a href="/scoreboard/khsaa/kyfb20/83754">Southwestern</a></td>
 <td class="winner_score">42</td>
-<td class="loser_team team_83771">at <a href="/scoreboard/khsaa/kyfb20/83771">Wayne County</a> </td>
-<td class="loser_score">41</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83758"><a href="/scoreboard/khsaa/kyfb20/83758">Taylor County</a></td>
-<td class="winner_score">29</td>
-<td class="loser_team team_83644">vs. <a href="/scoreboard/khsaa/kyfb20/83644">Green County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83760"><a href="/scoreboard/khsaa/kyfb20/83760">Todd County Central</a></td>
-<td class="winner_score">42</td>
-<td class="loser_team team_83660">at <a href="/scoreboard/khsaa/kyfb20/83660">Hopkins County Central</a> </td>
-<td class="loser_score">39</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83761"><a href="/scoreboard/khsaa/kyfb20/83761">Trigg County</a></td>
-<td class="winner_score">56</td>
-<td class="loser_team team_83564">vs. <a href="/scoreboard/khsaa/kyfb20/83564">Ballard Memorial</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83763"><a href="/scoreboard/khsaa/kyfb20/83763">Trinity (Louisville)</a></td>
-<td class="winner_score">44</td>
-<td class="loser_team team_53230">vs. Archbishop Moeller (Cincinnati), OH </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_72326">Union City, TN</td>
-<td class="winner_score">28</td>
-<td class="loser_team team_83635">vs. <a href="/scoreboard/khsaa/kyfb20/83635">Fulton County</a> </td>
-<td class="loser_score">12</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83773"><a href="/scoreboard/khsaa/kyfb20/83773">West Carter</a></td>
-<td class="winner_score">43</td>
-<td class="loser_team team_83615">vs. <a href="/scoreboard/khsaa/kyfb20/83615">East Carter</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83774"><a href="/scoreboard/khsaa/kyfb20/83774">West Jessamine</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83750">vs. <a href="/scoreboard/khsaa/kyfb20/83750">South Laurel</a> </td>
-<td class="loser_score">36</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83776"><a href="/scoreboard/khsaa/kyfb20/83776">Western Hills</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83722">at <a href="/scoreboard/khsaa/kyfb20/83722">Paris</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83777">vs. <a href="/scoreboard/khsaa/kyfb20/83777">Whitley County</a> </td>
+<td class="loser_score">15</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83779"><a href="/scoreboard/khsaa/kyfb20/83779">Woodford County</a></td>
-<td class="winner_score">35</td>
-<td class="loser_team team_83643">vs. <a href="/scoreboard/khsaa/kyfb20/83643">Great Crossing</a> </td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83774">vs. <a href="/scoreboard/khsaa/kyfb20/83774">West Jessamine</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83584"><a href="/scoreboard/khsaa/kyfb20/83584">Bryan Station</a></td>
+<td class="winner_score">14</td>
+<td class="loser_team team_83684">vs. <a href="/scoreboard/khsaa/kyfb20/83684">Madison Central</a> </td>
 <td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83612"><a href="/scoreboard/khsaa/kyfb20/83612">Dixie Heights</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_83748">vs. <a href="/scoreboard/khsaa/kyfb20/83748">Simon Kenton</a> </td>
+<td class="loser_score">33</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83653"><a href="/scoreboard/khsaa/kyfb20/83653">Henderson County</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_83609">vs. <a href="/scoreboard/khsaa/kyfb20/83609">Daviess County</a> </td>
+<td class="loser_score">42</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83654"><a href="/scoreboard/khsaa/kyfb20/83654">Henry Clay</a></td>
+<td class="winner_score">31</td>
+<td class="loser_team team_83671">vs. <a href="/scoreboard/khsaa/kyfb20/83671">Lafayette</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83694"><a href="/scoreboard/khsaa/kyfb20/83694">McCracken County</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83560">vs. <a href="/scoreboard/khsaa/kyfb20/83560">Apollo</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83697"><a href="/scoreboard/khsaa/kyfb20/83697">Meade County</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83597">vs. <a href="/scoreboard/khsaa/kyfb20/83597">Central Hardin</a> </td>
+<td class="loser_score">9</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83712"><a href="/scoreboard/khsaa/kyfb20/83712">North Hardin</a></td>
+<td class="winner_score">42</td>
+<td class="loser_team team_83566">vs. <a href="/scoreboard/khsaa/kyfb20/83566">Barren County</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83716"><a href="/scoreboard/khsaa/kyfb20/83716">Oldham County</a></td>
+<td class="winner_score">31</td>
+<td class="loser_team team_83638">at <a href="/scoreboard/khsaa/kyfb20/83638">George Rogers Clark</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83723"><a href="/scoreboard/khsaa/kyfb20/83723">Paul Laurence Dunbar</a></td>
+<td class="winner_score">23</td>
+<td class="loser_team team_83757">vs. <a href="/scoreboard/khsaa/kyfb20/83757">Tates Creek</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83756"><a href="/scoreboard/khsaa/kyfb20/83756">St. Xavier</a></td>
+<td class="winner_score">37</td>
+<td class="loser_team team_83730">vs. <a href="/scoreboard/khsaa/kyfb20/83730">Pleasure Ridge Park</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 </table>
 <table border="1" cellpadding="0" cellspacing="0" class="date_table" id="location_sort" style="display:none;">
 <caption align="top"><div onclick="document.getElementById('winner_sort').style.display='block';document.getElementById('location_sort').style.display='none';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Winner</div><a href="/scoreboard/khsaa/kyfb20">Return to latest scores for 2020 KY Football</a>
 </caption>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83631"><a href="/scoreboard/khsaa/kyfb20/83631">Franklin County</a></td>
-<td class="winner_score">55</td>
-<td class="loser_team team_83559">at <a href="/scoreboard/khsaa/kyfb20/83559">Anderson County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83645"><a href="/scoreboard/khsaa/kyfb20/83645">Greenup County</a></td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83561">at <a href="/scoreboard/khsaa/kyfb20/83561">Ashland Blazer</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83566"><a href="/scoreboard/khsaa/kyfb20/83566">Barren County</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83701">vs. <a href="/scoreboard/khsaa/kyfb20/83701">Monroe County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83569"><a href="/scoreboard/khsaa/kyfb20/83569">Belfry</a></td>
-<td class="winner_score">33</td>
-<td class="loser_team team_83733">vs. <a href="/scoreboard/khsaa/kyfb20/83733">Pulaski County</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83667"><a href="/scoreboard/khsaa/kyfb20/83667">Johnson Central</a></td>
-<td class="winner_score">36</td>
-<td class="loser_team team_83570">at <a href="/scoreboard/khsaa/kyfb20/83570">Bell County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83658"><a href="/scoreboard/khsaa/kyfb20/83658">Holy Cross (Covington)</a></td>
-<td class="winner_score">55</td>
-<td class="loser_team team_83571">at <a href="/scoreboard/khsaa/kyfb20/83571">Bellevue</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83601"><a href="/scoreboard/khsaa/kyfb20/83601">Clinton County</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83572">at <a href="/scoreboard/khsaa/kyfb20/83572">Berea</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83708"><a href="/scoreboard/khsaa/kyfb20/83708">Newport</a></td>
-<td class="winner_score">26</td>
-<td class="loser_team team_83575">at <a href="/scoreboard/khsaa/kyfb20/83575">Bishop Brossart</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83740"><a href="/scoreboard/khsaa/kyfb20/83740">Ryle</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83576">at <a href="/scoreboard/khsaa/kyfb20/83576">Boone County</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83579"><a href="/scoreboard/khsaa/kyfb20/83579">Boyd County</a></td>
-<td class="winner_score">55</td>
-<td class="loser_team team_83567">vs. <a href="/scoreboard/khsaa/kyfb20/83567">Bath County</a> </td>
-<td class="loser_score">11</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83580"><a href="/scoreboard/khsaa/kyfb20/83580">Boyle County</a></td>
-<td class="winner_score">51</td>
-<td class="loser_team team_83698">vs. <a href="/scoreboard/khsaa/kyfb20/83698">Mercer County</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83583"><a href="/scoreboard/khsaa/kyfb20/83583">Breckinridge County</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83595">vs. <a href="/scoreboard/khsaa/kyfb20/83595">Caverna</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83598"><a href="/scoreboard/khsaa/kyfb20/83598">Christian Academy-Louisville</a></td>
-<td class="winner_score">49</td>
-<td class="loser_team team_83586">at <a href="/scoreboard/khsaa/kyfb20/83586">Bullitt East</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83589"><a href="/scoreboard/khsaa/kyfb20/83589">Caldwell County</a></td>
-<td class="winner_score">22</td>
-<td class="loser_team team_83607">vs. <a href="/scoreboard/khsaa/kyfb20/83607">Crittenden County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83591"><a href="/scoreboard/khsaa/kyfb20/83591">Campbell County</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83604">vs. <a href="/scoreboard/khsaa/kyfb20/83604">Cooper</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83672"><a href="/scoreboard/khsaa/kyfb20/83672">LaRue County</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83592">at <a href="/scoreboard/khsaa/kyfb20/83592">Campbellsville</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83620"><a href="/scoreboard/khsaa/kyfb20/83620">Elizabethtown</a></td>
-<td class="winner_score">20</td>
-<td class="loser_team team_83597">at <a href="/scoreboard/khsaa/kyfb20/83597">Central Hardin</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83600"><a href="/scoreboard/khsaa/kyfb20/83600">Clay County</a></td>
-<td class="winner_score">35</td>
-<td class="loser_team team_83683">vs. <a href="/scoreboard/khsaa/kyfb20/83683">Lynn Camp</a> </td>
-<td class="loser_score">20</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83568"><a href="/scoreboard/khsaa/kyfb20/83568">Beechwood</a></td>
-<td class="winner_score">20</td>
-<td class="loser_team team_83605">at <a href="/scoreboard/khsaa/kyfb20/83605">Corbin</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83609"><a href="/scoreboard/khsaa/kyfb20/83609">Daviess County</a></td>
-<td class="winner_score">41</td>
-<td class="loser_team team_83715">vs. <a href="/scoreboard/khsaa/kyfb20/83715">Ohio County</a> </td>
-<td class="loser_score">16</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83606"><a href="/scoreboard/khsaa/kyfb20/83606">Covington Catholic</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83612">at <a href="/scoreboard/khsaa/kyfb20/83612">Dixie Heights</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83721"><a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83616">at <a href="/scoreboard/khsaa/kyfb20/83616">East Jessamine</a> </td>
-<td class="loser_score">24</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83729"><a href="/scoreboard/khsaa/kyfb20/83729">Pineville</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83617">at <a href="/scoreboard/khsaa/kyfb20/83617">East Ridge</a> </td>
-<td class="loser_score">24</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83647"><a href="/scoreboard/khsaa/kyfb20/83647">Hancock County</a></td>
-<td class="winner_score">26</td>
-<td class="loser_team team_83619">at <a href="/scoreboard/khsaa/kyfb20/83619">Edmonson County</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83582"><a href="/scoreboard/khsaa/kyfb20/83582">Breathitt County</a></td>
-<td class="winner_score">60</td>
-<td class="loser_team team_83622">at <a href="/scoreboard/khsaa/kyfb20/83622">Estill County</a> </td>
-<td class="loser_score">43</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83624"><a href="/scoreboard/khsaa/kyfb20/83624">Fairview</a></td>
-<td class="winner_score">20</td>
-<td class="loser_team team_83704">vs. <a href="/scoreboard/khsaa/kyfb20/83704">Morgan County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83712"><a href="/scoreboard/khsaa/kyfb20/83712">North Hardin</a></td>
-<td class="winner_score">19</td>
-<td class="loser_team team_83633">at <a href="/scoreboard/khsaa/kyfb20/83633">Frederick Douglass</a> </td>
-<td class="loser_score">17</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83674"><a href="/scoreboard/khsaa/kyfb20/83674">Leslie County</a></td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83637">at <a href="/scoreboard/khsaa/kyfb20/83637">Garrard County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83639"><a href="/scoreboard/khsaa/kyfb20/83639">Glasgow</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_83558">vs. <a href="/scoreboard/khsaa/kyfb20/83558">Allen County-Scottsville</a> </td>
-<td class="loser_score">19</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83700"><a href="/scoreboard/khsaa/kyfb20/83700">Middlesboro</a></td>
-<td class="winner_score">44</td>
-<td class="loser_team team_83648">at <a href="/scoreboard/khsaa/kyfb20/83648">Harlan</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83650"><a href="/scoreboard/khsaa/kyfb20/83650">Harrison County</a></td>
-<td class="winner_score">1</td>
-<td class="loser_team team_83577">vs. <a href="/scoreboard/khsaa/kyfb20/83577">Bourbon County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">Admin Forfeit by school (34-14)</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83588"><a href="/scoreboard/khsaa/kyfb20/83588">Butler County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83651">at <a href="/scoreboard/khsaa/kyfb20/83651">Hart County</a> </td>
-<td class="loser_score">32</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83748"><a href="/scoreboard/khsaa/kyfb20/83748">Simon Kenton</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83656">at <a href="/scoreboard/khsaa/kyfb20/83656">Highlands</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83659"><a href="/scoreboard/khsaa/kyfb20/83659">Holy Cross (Louisville)</a></td>
-<td class="winner_score">19</td>
-<td class="loser_team team_83657">at <a href="/scoreboard/khsaa/kyfb20/83657">Holmes</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83760"><a href="/scoreboard/khsaa/kyfb20/83760">Todd County Central</a></td>
-<td class="winner_score">42</td>
-<td class="loser_team team_83660">at <a href="/scoreboard/khsaa/kyfb20/83660">Hopkins County Central</a> </td>
-<td class="loser_score">39</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83661"><a href="/scoreboard/khsaa/kyfb20/83661">Hopkinsville</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83653">vs. <a href="/scoreboard/khsaa/kyfb20/83653">Henderson County</a> </td>
-<td class="loser_score">16</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83695"><a href="/scoreboard/khsaa/kyfb20/83695">McCreary Central</a></td>
-<td class="winner_score">32</td>
-<td class="loser_team team_66422">at Jellico, TN </td>
-<td class="loser_score">30</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83697"><a href="/scoreboard/khsaa/kyfb20/83697">Meade County</a></td>
-<td class="winner_score">14</td>
-<td class="loser_team team_83666">at <a href="/scoreboard/khsaa/kyfb20/83666">John Hardin</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83670"><a href="/scoreboard/khsaa/kyfb20/83670">Knox Central</a></td>
-<td class="winner_score">14</td>
-<td class="loser_team team_83649">vs. <a href="/scoreboard/khsaa/kyfb20/83649">Harlan County</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83675"><a href="/scoreboard/khsaa/kyfb20/83675">Letcher County Central</a></td>
-<td class="winner_score">27</td>
-<td class="loser_team team_83735">vs. <a href="/scoreboard/khsaa/kyfb20/83735">Rockcastle County</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83679"><a href="/scoreboard/khsaa/kyfb20/83679">Lincoln County</a></td>
-<td class="winner_score">50</td>
-<td class="loser_team team_83713">vs. <a href="/scoreboard/khsaa/kyfb20/83713">North Laurel</a> </td>
-<td class="loser_score">26</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83681"><a href="/scoreboard/khsaa/kyfb20/83681">Logan County</a></td>
-<td class="winner_score">29</td>
-<td class="loser_team team_83739">vs. <a href="/scoreboard/khsaa/kyfb20/83739">Russellville</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83593"><a href="/scoreboard/khsaa/kyfb20/83593">Carroll County</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83682">at <a href="/scoreboard/khsaa/kyfb20/83682">Ludlow</a> </td>
-<td class="loser_score">28</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83599"><a href="/scoreboard/khsaa/kyfb20/83599">Christian County</a></td>
-<td class="winner_score">28</td>
-<td class="loser_team team_83686">at <a href="/scoreboard/khsaa/kyfb20/83686">Madisonville-North Hopkins</a> </td>
-<td class="loser_score">20</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83687"><a href="/scoreboard/khsaa/kyfb20/83687">Magoffin County</a></td>
-<td class="winner_score">36</td>
-<td class="loser_team team_83574">vs. <a href="/scoreboard/khsaa/kyfb20/83574">Betsy Layne</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83590"><a href="/scoreboard/khsaa/kyfb20/83590">Calloway County</a></td>
-<td class="winner_score">33</td>
-<td class="loser_team team_83690">at <a href="/scoreboard/khsaa/kyfb20/83690">Marshall County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83692"><a href="/scoreboard/khsaa/kyfb20/83692">Mason County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83640">vs. <a href="/scoreboard/khsaa/kyfb20/83640">Grant County</a> </td>
-<td class="loser_score">18</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83694"><a href="/scoreboard/khsaa/kyfb20/83694">McCracken County</a></td>
-<td class="winner_score">42</td>
-<td class="loser_team team_83693">vs. <a href="/scoreboard/khsaa/kyfb20/83693">Mayfield</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83699"><a href="/scoreboard/khsaa/kyfb20/83699">Metcalfe County</a></td>
-<td class="winner_score">22</td>
-<td class="loser_team team_83557">vs. <a href="/scoreboard/khsaa/kyfb20/83557">Adair County</a> </td>
-<td class="loser_score">19</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83696"><a href="/scoreboard/khsaa/kyfb20/83696">McLean County</a></td>
-<td class="winner_score">32</td>
-<td class="loser_team team_83705">at <a href="/scoreboard/khsaa/kyfb20/83705">Muhlenberg County</a> </td>
-<td class="loser_score">12</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
 <td class="winner_team team_83573"><a href="/scoreboard/khsaa/kyfb20/83573">Bethlehem</a></td>
-<td class="winner_score">56</td>
-<td class="loser_team team_83707">at <a href="/scoreboard/khsaa/kyfb20/83707">Nelson County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_score">37</td>
+<td class="loser_team team_83592">vs. <a href="/scoreboard/khsaa/kyfb20/83592">Campbellsville</a> </td>
+<td class="loser_score">19</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83621"><a href="/scoreboard/khsaa/kyfb20/83621">Eminence</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83630">at <a href="/scoreboard/khsaa/kyfb20/83630">Frankfort</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83668"><a href="/scoreboard/khsaa/kyfb20/83668">Kentucky Country Day</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_83572">vs. <a href="/scoreboard/khsaa/kyfb20/83572">Berea</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83682"><a href="/scoreboard/khsaa/kyfb20/83682">Ludlow</a></td>
+<td class="winner_score">39</td>
+<td class="loser_team team_83610">vs. <a href="/scoreboard/khsaa/kyfb20/83610">Dayton</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83710"><a href="/scoreboard/khsaa/kyfb20/83710">Nicholas County</a></td>
-<td class="winner_score">44</td>
-<td class="loser_team team_83676">vs. <a href="/scoreboard/khsaa/kyfb20/83676">Lewis County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83711"><a href="/scoreboard/khsaa/kyfb20/83711">North Bullitt</a></td>
-<td class="winner_score">63</td>
-<td class="loser_team team_83585">vs. <a href="/scoreboard/khsaa/kyfb20/83585">Bullitt Central</a> </td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83722">vs. <a href="/scoreboard/khsaa/kyfb20/83722">Paris</a> </td>
 <td class="loser_score">16</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83655"><a href="/scoreboard/khsaa/kyfb20/83655">Henry County</a></td>
-<td class="winner_score">48</td>
-<td class="loser_team team_83717">at <a href="/scoreboard/khsaa/kyfb20/83717">Owen County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83718"><a href="/scoreboard/khsaa/kyfb20/83718">Owensboro</a></td>
-<td class="winner_score">50</td>
-<td class="loser_team team_83560">vs. <a href="/scoreboard/khsaa/kyfb20/83560">Apollo</a> </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83719"><a href="/scoreboard/khsaa/kyfb20/83719">Owensboro Catholic</a></td>
-<td class="winner_score">21</td>
-<td class="loser_team team_66107">vs. Mt. Vernon, IN </td>
-<td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83641"><a href="/scoreboard/khsaa/kyfb20/83641">Graves County</a></td>
-<td class="winner_score">17</td>
-<td class="loser_team team_83720">at <a href="/scoreboard/khsaa/kyfb20/83720">Paducah Tilghman</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83776"><a href="/scoreboard/khsaa/kyfb20/83776">Western Hills</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83722">at <a href="/scoreboard/khsaa/kyfb20/83722">Paris</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_85562">N/A</td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83723">at <a href="/scoreboard/khsaa/kyfb20/83723">Paul Laurence Dunbar</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83610"><a href="/scoreboard/khsaa/kyfb20/83610">Dayton</a></td>
-<td class="winner_score">39</td>
-<td class="loser_team team_83724">at <a href="/scoreboard/khsaa/kyfb20/83724">Pendleton County</a> </td>
+<td class="winner_team team_83721"><a href="/scoreboard/khsaa/kyfb20/83721">Paintsville</a></td>
+<td class="winner_score">55</td>
+<td class="loser_team team_83574">vs. <a href="/scoreboard/khsaa/kyfb20/83574">Betsy Layne</a> </td>
 <td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83725"><a href="/scoreboard/khsaa/kyfb20/83725">Perry County Central</a></td>
-<td class="winner_score">37</td>
-<td class="loser_team team_83727">vs. <a href="/scoreboard/khsaa/kyfb20/83727">Pike County Central</a> </td>
-<td class="loser_score">23</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83728"><a href="/scoreboard/khsaa/kyfb20/83728">Pikeville</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_83741">vs. <a href="/scoreboard/khsaa/kyfb20/83741">Sayre</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83691"><a href="/scoreboard/khsaa/kyfb20/83691">Martin County</a></td>
-<td class="winner_score">52</td>
-<td class="loser_team team_83726">at <a href="/scoreboard/khsaa/kyfb20/83726">Phelps</a> </td>
-<td class="loser_score">40</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83729"><a href="/scoreboard/khsaa/kyfb20/83729">Pineville</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83648">vs. <a href="/scoreboard/khsaa/kyfb20/83648">Harlan</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83731"><a href="/scoreboard/khsaa/kyfb20/83731">Powell County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83732">vs. <a href="/scoreboard/khsaa/kyfb20/83732">Prestonsburg</a> </td>
-<td class="loser_score">28</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83778"><a href="/scoreboard/khsaa/kyfb20/83778">Williamsburg</a></td>
+<td class="winner_score">42</td>
+<td class="loser_team team_83683">vs. <a href="/scoreboard/khsaa/kyfb20/83683">Lynn Camp</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187001"> Class 1A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83737"><a href="/scoreboard/khsaa/kyfb20/83737">Russell</a></td>
-<td class="winner_score">37</td>
-<td class="loser_team team_83736">vs. <a href="/scoreboard/khsaa/kyfb20/83736">Rowan County</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83582"><a href="/scoreboard/khsaa/kyfb20/83582">Breathitt County</a></td>
+<td class="winner_score">66</td>
+<td class="loser_team team_83669">vs. <a href="/scoreboard/khsaa/kyfb20/83669">Knott County Central</a> </td>
+<td class="loser_score">26</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83738"><a href="/scoreboard/khsaa/kyfb20/83738">Russell County</a></td>
+<td class="winner_team team_83593"><a href="/scoreboard/khsaa/kyfb20/83593">Carroll County</a></td>
 <td class="winner_score">46</td>
-<td class="loser_team team_83594">vs. <a href="/scoreboard/khsaa/kyfb20/83594">Casey County</a> </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83636">vs. <a href="/scoreboard/khsaa/kyfb20/83636">Gallatin County</a> </td>
+<td class="loser_score">9</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83741"><a href="/scoreboard/khsaa/kyfb20/83741">Sayre</a></td>
-<td class="winner_score">38</td>
-<td class="loser_team team_83621">vs. <a href="/scoreboard/khsaa/kyfb20/83621">Eminence</a> </td>
-<td class="loser_score">34</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83619"><a href="/scoreboard/khsaa/kyfb20/83619">Edmonson County</a></td>
+<td class="winner_score">26</td>
+<td class="loser_team team_83601">vs. <a href="/scoreboard/khsaa/kyfb20/83601">Clinton County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83743"><a href="/scoreboard/khsaa/kyfb20/83743">Scott County</a></td>
-<td class="winner_score">7</td>
-<td class="loser_team team_83584">vs. <a href="/scoreboard/khsaa/kyfb20/83584">Bryan Station</a> </td>
+<td class="winner_team team_83699"><a href="/scoreboard/khsaa/kyfb20/83699">Metcalfe County</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_83701">vs. <a href="/scoreboard/khsaa/kyfb20/83701">Monroe County</a> </td>
 <td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83746"><a href="/scoreboard/khsaa/kyfb20/83746">Shelby County</a></td>
-<td class="winner_score">40</td>
-<td class="loser_team team_83630">vs. <a href="/scoreboard/khsaa/kyfb20/83630">Frankfort</a> </td>
-<td class="loser_score">20</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83706"><a href="/scoreboard/khsaa/kyfb20/83706">Murray</a></td>
+<td class="winner_score">35</td>
+<td class="loser_team team_83589">vs. <a href="/scoreboard/khsaa/kyfb20/83589">Caldwell County</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83680"><a href="/scoreboard/khsaa/kyfb20/83680">Lloyd Memorial</a></td>
+<td class="winner_score">20</td>
+<td class="loser_team team_83708">at <a href="/scoreboard/khsaa/kyfb20/83708">Newport</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83747"><a href="/scoreboard/khsaa/kyfb20/83747">Shelby Valley</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83663">vs. <a href="/scoreboard/khsaa/kyfb20/83663">Jackson County</a> </td>
-<td class="loser_score">14</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83602"><a href="/scoreboard/khsaa/kyfb20/83602">Collins</a></td>
-<td class="winner_score">36</td>
-<td class="loser_team team_83755">at <a href="/scoreboard/khsaa/kyfb20/83755">Spencer County</a> </td>
-<td class="loser_score">28</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83578"><a href="/scoreboard/khsaa/kyfb20/83578">Bowling Green</a></td>
-<td class="winner_score">14</td>
-<td class="loser_team team_83756">at <a href="/scoreboard/khsaa/kyfb20/83756">St. Xavier</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83758"><a href="/scoreboard/khsaa/kyfb20/83758">Taylor County</a></td>
 <td class="winner_score">29</td>
-<td class="loser_team team_83644">vs. <a href="/scoreboard/khsaa/kyfb20/83644">Green County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83691">vs. <a href="/scoreboard/khsaa/kyfb20/83691">Martin County</a> </td>
+<td class="loser_score">22</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83642"><a href="/scoreboard/khsaa/kyfb20/83642">Grayson County</a></td>
-<td class="winner_score">26</td>
-<td class="loser_team team_83759">at <a href="/scoreboard/khsaa/kyfb20/83759">Thomas Nelson</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83749"><a href="/scoreboard/khsaa/kyfb20/83749">Somerset</a></td>
+<td class="winner_score">48</td>
+<td class="loser_team team_83608">vs. <a href="/scoreboard/khsaa/kyfb20/83608">Danville</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83761"><a href="/scoreboard/khsaa/kyfb20/83761">Trigg County</a></td>
-<td class="winner_score">56</td>
-<td class="loser_team team_83564">vs. <a href="/scoreboard/khsaa/kyfb20/83564">Ballard Memorial</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83581"><a href="/scoreboard/khsaa/kyfb20/83581">Bracken County</a></td>
-<td class="winner_score">28</td>
-<td class="loser_team team_83762">at <a href="/scoreboard/khsaa/kyfb20/83762">Trimble County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83763"><a href="/scoreboard/khsaa/kyfb20/83763">Trinity (Louisville)</a></td>
-<td class="winner_score">44</td>
-<td class="loser_team team_53230">vs. Archbishop Moeller (Cincinnati), OH </td>
-<td class="loser_score">7</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_72326">Union City, TN</td>
-<td class="winner_score">28</td>
-<td class="loser_team team_83635">vs. <a href="/scoreboard/khsaa/kyfb20/83635">Fulton County</a> </td>
-<td class="loser_score">12</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83646"><a href="/scoreboard/khsaa/kyfb20/83646">Greenwood</a></td>
-<td class="winner_score">42</td>
-<td class="loser_team team_83768">at <a href="/scoreboard/khsaa/kyfb20/83768">Warren Central</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83752"><a href="/scoreboard/khsaa/kyfb20/83752">South Warren</a></td>
+<td class="winner_team team_83719"><a href="/scoreboard/khsaa/kyfb20/83719">Owensboro Catholic</a></td>
 <td class="winner_score">40</td>
-<td class="loser_team team_83769">at <a href="/scoreboard/khsaa/kyfb20/83769">Warren East</a> </td>
+<td class="loser_team team_83696">vs.<a href="/scoreboard/khsaa/kyfb20/83696">McLean County</a> <br/>(at Steele Stadium, KWC)</td>
+<td class="loser_score">22</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83767"><a href="/scoreboard/khsaa/kyfb20/83767">Walton-Verona</a></td>
+<td class="winner_score">41</td>
+<td class="loser_team team_83745">vs.<a href="/scoreboard/khsaa/kyfb20/83745">Shawnee</a> <br/>(at WV Sports Complex)</td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83773"><a href="/scoreboard/khsaa/kyfb20/83773">West Carter</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83732">vs. <a href="/scoreboard/khsaa/kyfb20/83732">Prestonsburg</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187002"> Class 2A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83561"><a href="/scoreboard/khsaa/kyfb20/83561">Ashland Blazer</a></td>
+<td class="winner_score">47</td>
+<td class="loser_team team_83645">vs. <a href="/scoreboard/khsaa/kyfb20/83645">Greenup County</a> </td>
 <td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83565"><a href="/scoreboard/khsaa/kyfb20/83565">Bardstown</a></td>
+<td class="winner_score">60</td>
+<td class="loser_team team_83672">vs. <a href="/scoreboard/khsaa/kyfb20/83672">LaRue County</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83569"><a href="/scoreboard/khsaa/kyfb20/83569">Belfry</a></td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83687">vs. <a href="/scoreboard/khsaa/kyfb20/83687">Magoffin County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83570"><a href="/scoreboard/khsaa/kyfb20/83570">Bell County</a></td>
+<td class="winner_score">43</td>
+<td class="loser_team team_83695">vs. <a href="/scoreboard/khsaa/kyfb20/83695">McCreary Central</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83598"><a href="/scoreboard/khsaa/kyfb20/83598">Christian Academy-Louisville</a></td>
+<td class="winner_score">7</td>
+<td class="loser_team team_83611">vs. <a href="/scoreboard/khsaa/kyfb20/83611">DeSales</a> </td>
+<td class="loser_score">3</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83620"><a href="/scoreboard/khsaa/kyfb20/83620">Elizabethtown</a></td>
+<td class="winner_score">63</td>
+<td class="loser_team team_83759">vs. <a href="/scoreboard/khsaa/kyfb20/83759">Thomas Nelson</a> </td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83639"><a href="/scoreboard/khsaa/kyfb20/83639">Glasgow</a></td>
+<td class="winner_score">48</td>
+<td class="loser_team team_83557">vs. <a href="/scoreboard/khsaa/kyfb20/83557">Adair County</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83698"><a href="/scoreboard/khsaa/kyfb20/83698">Mercer County</a></td>
+<td class="winner_score">53</td>
+<td class="loser_team team_83655">vs. <a href="/scoreboard/khsaa/kyfb20/83655">Henry County</a> </td>
+<td class="loser_score">10</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83720"><a href="/scoreboard/khsaa/kyfb20/83720">Paducah Tilghman</a></td>
+<td class="winner_score">53</td>
+<td class="loser_team team_83761">vs. <a href="/scoreboard/khsaa/kyfb20/83761">Trigg County</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83737"><a href="/scoreboard/khsaa/kyfb20/83737">Russell</a></td>
+<td class="winner_score">47</td>
+<td class="loser_team team_83615">vs. <a href="/scoreboard/khsaa/kyfb20/83615">East Carter</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83764"><a href="/scoreboard/khsaa/kyfb20/83764">Union County</a></td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83772">vs. <a href="/scoreboard/khsaa/kyfb20/83772">Webster County</a> </td>
+<td class="loser_score">26</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83558"><a href="/scoreboard/khsaa/kyfb20/83558">Allen County-Scottsville</a></td>
+<td class="winner_score">50</td>
+<td class="loser_team team_83632">vs. <a href="/scoreboard/khsaa/kyfb20/83632">Franklin-Simpson</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83661"><a href="/scoreboard/khsaa/kyfb20/83661">Hopkinsville</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83590">at <a href="/scoreboard/khsaa/kyfb20/83590">Calloway County</a> </td>
+<td class="loser_score">17</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83596"><a href="/scoreboard/khsaa/kyfb20/83596">Central</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_83766">vs. <a href="/scoreboard/khsaa/kyfb20/83766">Waggener</a> </td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83605"><a href="/scoreboard/khsaa/kyfb20/83605">Corbin</a></td>
+<td class="winner_score">38</td>
+<td class="loser_team team_83679">vs. <a href="/scoreboard/khsaa/kyfb20/83679">Lincoln County</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83631"><a href="/scoreboard/khsaa/kyfb20/83631">Franklin County</a></td>
+<td class="winner_score">41</td>
+<td class="loser_team team_83746">vs. <a href="/scoreboard/khsaa/kyfb20/83746">Shelby County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83667"><a href="/scoreboard/khsaa/kyfb20/83667">Johnson Central</a></td>
 <td class="winner_score">46</td>
-<td class="loser_team team_83770">at <a href="/scoreboard/khsaa/kyfb20/83770">Washington County</a> </td>
-<td class="loser_score">27</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="loser_team team_83649">vs. <a href="/scoreboard/khsaa/kyfb20/83649">Harlan County</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83675"><a href="/scoreboard/khsaa/kyfb20/83675">Letcher County Central</a></td>
+<td class="winner_score">39</td>
+<td class="loser_team team_83725">vs. <a href="/scoreboard/khsaa/kyfb20/83725">Perry County Central</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83681"><a href="/scoreboard/khsaa/kyfb20/83681">Logan County</a></td>
+<td class="winner_score">50</td>
+<td class="loser_team team_83660">vs. <a href="/scoreboard/khsaa/kyfb20/83660">Hopkins County Central</a> </td>
+<td class="loser_score">30</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83769"><a href="/scoreboard/khsaa/kyfb20/83769">Warren East</a></td>
+<td class="winner_score">33</td>
+<td class="loser_team team_83738">at <a href="/scoreboard/khsaa/kyfb20/83738">Russell County</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83755"><a href="/scoreboard/khsaa/kyfb20/83755">Spencer County</a></td>
+<td class="winner_score">48</td>
+<td class="loser_team team_83703">vs. <a href="/scoreboard/khsaa/kyfb20/83703">Moore</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83670"><a href="/scoreboard/khsaa/kyfb20/83670">Knox Central</a></td>
+<td class="winner_score">46</td>
+<td class="loser_team team_83771">at <a href="/scoreboard/khsaa/kyfb20/83771">Wayne County</a> </td>
+<td class="loser_score">36</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187004"> Class 4A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83578"><a href="/scoreboard/khsaa/kyfb20/83578">Bowling Green</a></td>
+<td class="winner_score">35</td>
+<td class="loser_team team_83646">vs. <a href="/scoreboard/khsaa/kyfb20/83646">Greenwood</a> </td>
+<td class="loser_score">7</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83585"><a href="/scoreboard/khsaa/kyfb20/83585">Bullitt Central</a></td>
+<td class="winner_score">33</td>
+<td class="loser_team team_83775">vs. <a href="/scoreboard/khsaa/kyfb20/83775">Western</a> </td>
+<td class="loser_score">32</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83656"><a href="/scoreboard/khsaa/kyfb20/83656">Highlands</a></td>
+<td class="winner_score">27</td>
+<td class="loser_team team_83603">at <a href="/scoreboard/khsaa/kyfb20/83603">Conner</a> </td>
+<td class="loser_score">16</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83606"><a href="/scoreboard/khsaa/kyfb20/83606">Covington Catholic</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83604">vs. <a href="/scoreboard/khsaa/kyfb20/83604">Cooper</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83623"><a href="/scoreboard/khsaa/kyfb20/83623">Fairdale</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_83613">vs. <a href="/scoreboard/khsaa/kyfb20/83613">Doss</a> </td>
+<td class="loser_score">8</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83633"><a href="/scoreboard/khsaa/kyfb20/83633">Frederick Douglass</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_83643">vs. <a href="/scoreboard/khsaa/kyfb20/83643">Great Crossing</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83641"><a href="/scoreboard/khsaa/kyfb20/83641">Graves County</a></td>
+<td class="winner_score">42</td>
+<td class="loser_team team_83642">vs. <a href="/scoreboard/khsaa/kyfb20/83642">Grayson County</a> </td>
+<td class="loser_score">19</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83685"><a href="/scoreboard/khsaa/kyfb20/83685">Madison Southern</a></td>
+<td class="winner_score">35</td>
+<td class="loser_team team_83602">vs. <a href="/scoreboard/khsaa/kyfb20/83602">Collins</a> </td>
+<td class="loser_score">14</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83711"><a href="/scoreboard/khsaa/kyfb20/83711">North Bullitt</a></td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83562">vs. <a href="/scoreboard/khsaa/kyfb20/83562">Atherton</a> </td>
+<td class="loser_score">9</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83718"><a href="/scoreboard/khsaa/kyfb20/83718">Owensboro</a></td>
+<td class="winner_score">81</td>
+<td class="loser_team team_83583">vs. <a href="/scoreboard/khsaa/kyfb20/83583">Breckinridge County</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83733"><a href="/scoreboard/khsaa/kyfb20/83733">Pulaski County</a></td>
+<td class="winner_score">33</td>
+<td class="loser_team team_83713">vs. <a href="/scoreboard/khsaa/kyfb20/83713">North Laurel</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83743"><a href="/scoreboard/khsaa/kyfb20/83743">Scott County</a></td>
+<td class="winner_score">62</td>
+<td class="loser_team team_83640">vs. <a href="/scoreboard/khsaa/kyfb20/83640">Grant County</a> </td>
+<td class="loser_score">12</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83751"><a href="/scoreboard/khsaa/kyfb20/83751">South Oldham</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83664">vs. <a href="/scoreboard/khsaa/kyfb20/83664">Jeffersontown</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83752"><a href="/scoreboard/khsaa/kyfb20/83752">South Warren</a></td>
+<td class="winner_score">36</td>
+<td class="loser_team team_83599">vs. <a href="/scoreboard/khsaa/kyfb20/83599">Christian County</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83754"><a href="/scoreboard/khsaa/kyfb20/83754">Southwestern</a></td>
 <td class="winner_score">42</td>
-<td class="loser_team team_83771">at <a href="/scoreboard/khsaa/kyfb20/83771">Wayne County</a> </td>
-<td class="loser_score">41</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83706"><a href="/scoreboard/khsaa/kyfb20/83706">Murray</a></td>
-<td class="winner_score">47</td>
-<td class="loser_team team_83772">at <a href="/scoreboard/khsaa/kyfb20/83772">Webster County</a> </td>
-<td class="loser_score">6</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83773"><a href="/scoreboard/khsaa/kyfb20/83773">West Carter</a></td>
-<td class="winner_score">43</td>
-<td class="loser_team team_83615">vs. <a href="/scoreboard/khsaa/kyfb20/83615">East Carter</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83774"><a href="/scoreboard/khsaa/kyfb20/83774">West Jessamine</a></td>
-<td class="winner_score">46</td>
-<td class="loser_team team_83750">vs. <a href="/scoreboard/khsaa/kyfb20/83750">South Laurel</a> </td>
-<td class="loser_score">36</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83749"><a href="/scoreboard/khsaa/kyfb20/83749">Somerset</a></td>
-<td class="winner_score">40</td>
-<td class="loser_team team_83777">at <a href="/scoreboard/khsaa/kyfb20/83777">Whitley County</a> </td>
-<td class="loser_score">8</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_85562">N/A</td>
-<td class="winner_score">0</td>
-<td class="loser_team team_83778">at <a href="/scoreboard/khsaa/kyfb20/83778">Williamsburg</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr">COVID Cancelation-RPI per policy</span> </td>
+<td class="loser_team team_83777">vs. <a href="/scoreboard/khsaa/kyfb20/83777">Whitley County</a> </td>
+<td class="loser_score">15</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 <tr class="game_data" valign="top">
 <td class="winner_team team_83779"><a href="/scoreboard/khsaa/kyfb20/83779">Woodford County</a></td>
-<td class="winner_score">35</td>
-<td class="loser_team team_83643">vs. <a href="/scoreboard/khsaa/kyfb20/83643">Great Crossing</a> </td>
+<td class="winner_score">54</td>
+<td class="loser_team team_83774">vs. <a href="/scoreboard/khsaa/kyfb20/83774">West Jessamine</a> </td>
+<td class="loser_score">28</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187005"> Class 5A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83584"><a href="/scoreboard/khsaa/kyfb20/83584">Bryan Station</a></td>
+<td class="winner_score">14</td>
+<td class="loser_team team_83684">vs. <a href="/scoreboard/khsaa/kyfb20/83684">Madison Central</a> </td>
 <td class="loser_score">13</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83612"><a href="/scoreboard/khsaa/kyfb20/83612">Dixie Heights</a></td>
+<td class="winner_score">34</td>
+<td class="loser_team team_83748">vs. <a href="/scoreboard/khsaa/kyfb20/83748">Simon Kenton</a> </td>
+<td class="loser_score">33</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83716"><a href="/scoreboard/khsaa/kyfb20/83716">Oldham County</a></td>
+<td class="winner_score">31</td>
+<td class="loser_team team_83638">at <a href="/scoreboard/khsaa/kyfb20/83638">George Rogers Clark</a> </td>
+<td class="loser_score">21</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83653"><a href="/scoreboard/khsaa/kyfb20/83653">Henderson County</a></td>
+<td class="winner_score">49</td>
+<td class="loser_team team_83609">vs. <a href="/scoreboard/khsaa/kyfb20/83609">Daviess County</a> </td>
+<td class="loser_score">42</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83654"><a href="/scoreboard/khsaa/kyfb20/83654">Henry Clay</a></td>
+<td class="winner_score">31</td>
+<td class="loser_team team_83671">vs. <a href="/scoreboard/khsaa/kyfb20/83671">Lafayette</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83694"><a href="/scoreboard/khsaa/kyfb20/83694">McCracken County</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83560">vs. <a href="/scoreboard/khsaa/kyfb20/83560">Apollo</a> </td>
+<td class="loser_score">13</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83697"><a href="/scoreboard/khsaa/kyfb20/83697">Meade County</a></td>
+<td class="winner_score">21</td>
+<td class="loser_team team_83597">vs. <a href="/scoreboard/khsaa/kyfb20/83597">Central Hardin</a> </td>
+<td class="loser_score">9</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83712"><a href="/scoreboard/khsaa/kyfb20/83712">North Hardin</a></td>
+<td class="winner_score">42</td>
+<td class="loser_team team_83566">vs. <a href="/scoreboard/khsaa/kyfb20/83566">Barren County</a> </td>
+<td class="loser_score">6</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83723"><a href="/scoreboard/khsaa/kyfb20/83723">Paul Laurence Dunbar</a></td>
+<td class="winner_score">23</td>
+<td class="loser_team team_83757">vs. <a href="/scoreboard/khsaa/kyfb20/83757">Tates Creek</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
+</tr>
+<tr class="game_data" valign="top">
+<td class="winner_team team_83756"><a href="/scoreboard/khsaa/kyfb20/83756">St. Xavier</a></td>
+<td class="winner_score">37</td>
+<td class="loser_team team_83730">vs. <a href="/scoreboard/khsaa/kyfb20/83730">Pleasure Ridge Park</a> </td>
+<td class="loser_score">0</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187006"> Class 6A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 </table>
 <div class="copyright">
@@ -2361,7 +2095,7 @@ travel plans.<p>
   })
 
 </script>
-<!--192168195248--><!--title=2020 Kentucky High School Football--><!--end_data--><script type="text/javascript"><!--
+<!--19216822062--><!--title=2020 Kentucky High School Football--><!--end_data--><script type="text/javascript"><!--
 google_ad_client = "ca-pub-4394351987806189";
 google_ad_slot = "4040390911";
 google_ad_width = 728;

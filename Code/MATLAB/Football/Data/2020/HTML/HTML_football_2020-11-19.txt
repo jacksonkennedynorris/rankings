@@ -308,7 +308,7 @@ td.loser_team          {max-width:250px;
 <option value="2020-09-17">Thu., September 17, '20
 <option value="2020-09-18">Fri., September 18, '20
 <option value="2020-09-19">Sat., September 19, '20
-<option selected="" value="2020-09-24">Thu., September 24, '20
+<option value="2020-09-24">Thu., September 24, '20
 <option value="2020-09-25">Fri., September 25, '20
 <option value="2020-09-26">Sat., September 26, '20
 <option value="2020-09-27">Sun., September 27, '20
@@ -329,7 +329,7 @@ td.loser_team          {max-width:250px;
 <option value="2020-10-31">Sat., October 31, '20
 <option value="2020-11-05">Thu., November 5, '20
 <option value="2020-11-06">Fri., November 6, '20
-<option value="2020-11-19">Thu., November 19, '20
+<option selected="" value="2020-11-19">Thu., November 19, '20
 <option value="2020-11-20">Fri., November 20, '20
 <option value="2020-11-21">Sat., November 21, '20
 <option value="2020-11-27">Fri., November 27, '20
@@ -1112,41 +1112,27 @@ function showit(ctn,lst) {
 <li><a href="/scoreboard/khsaa/kyfb20/83779">Woodford County</a>
 </li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul></td></tr>
 <!-- <tr><td colspan=5 style="font-size:8pt;font-style:italic;text-align:center;">Schools not filing stat reports by 2pm ET Thursday will not be included in the weekly KHSAA Stats Leader report.</td></tr> -->
-</table></td></tr></table><div class="subtitle">Scores and Schedules for  September 24, 2020</div>
+</table></td></tr></table><div class="subtitle">Scores and Schedules for  November 19, 2020</div>
 <table border="1" cellpadding="0" cellspacing="0" class="date_table" id="winner_sort" style="display:block;">
 <caption align="top"><div onclick="document.getElementById('winner_sort').style.display='none';document.getElementById('location_sort').style.display='block';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Match Location</div><a href="/scoreboard/khsaa/kyfb20">Return to latest scores for 2020 KY Football</a>
 </caption>
-<tr><td class="date_table_date" colspan="5">Thursday, September 24, 2020</td></tr> <tr class="game_data" valign="top">
-<td class="winner_team team_83621"><a href="/scoreboard/khsaa/kyfb20/83621">Eminence</a></td>
-<td class="winner_score">35</td>
-<td class="loser_team team_83722">vs. <a href="/scoreboard/khsaa/kyfb20/83722">Paris</a> </td>
-<td class="loser_score">34</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83642"><a href="/scoreboard/khsaa/kyfb20/83642">Grayson County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83705">vs. <a href="/scoreboard/khsaa/kyfb20/83705">Muhlenberg County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<tr><td class="date_table_date" colspan="5">Thursday, November 19, 2020</td></tr> <tr class="game_data" valign="top">
+<td class="winner_team team_83673"><a href="/scoreboard/khsaa/kyfb20/83673">Lawrence County</a></td>
+<td class="winner_score">22</td>
+<td class="loser_team team_83727">vs. <a href="/scoreboard/khsaa/kyfb20/83727">Pike County Central</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 </table>
 <table border="1" cellpadding="0" cellspacing="0" class="date_table" id="location_sort" style="display:none;">
 <caption align="top"><div onclick="document.getElementById('winner_sort').style.display='block';document.getElementById('location_sort').style.display='none';" style="text-decoration=underline;color:blue;cursor:pointer;">Sort by Winner</div><a href="/scoreboard/khsaa/kyfb20">Return to latest scores for 2020 KY Football</a>
 </caption>
 <tr class="game_data" valign="top">
-<td class="winner_team team_83621"><a href="/scoreboard/khsaa/kyfb20/83621">Eminence</a></td>
-<td class="winner_score">35</td>
-<td class="loser_team team_83722">vs. <a href="/scoreboard/khsaa/kyfb20/83722">Paris</a> </td>
-<td class="loser_score">34</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
-</tr>
-<tr class="game_data" valign="top">
-<td class="winner_team team_83642"><a href="/scoreboard/khsaa/kyfb20/83642">Grayson County</a></td>
-<td class="winner_score">34</td>
-<td class="loser_team team_83705">vs. <a href="/scoreboard/khsaa/kyfb20/83705">Muhlenberg County</a> </td>
-<td class="loser_score">0</td>
-<td class="date_comments"><nobr></nobr> <span class="nobrx"></span> <span class="nobr"></span> </td>
+<td class="winner_team team_83673"><a href="/scoreboard/khsaa/kyfb20/83673">Lawrence County</a></td>
+<td class="winner_score">22</td>
+<td class="loser_team team_83727">vs. <a href="/scoreboard/khsaa/kyfb20/83727">Pike County Central</a> </td>
+<td class="loser_score">20</td>
+<td class="date_comments"><nobr></nobr> <span class="nobrx"><a href="/scoreboard/khsaa/kyfb20/tournament_187003"> Class 3A 2020 UK Orthopaedics State Football Finals</a><br/></span> <span class="nobr"></span> </td>
 </tr>
 </table>
 <div class="copyright">
