@@ -4,7 +4,7 @@ k=35; %ANALYZE THIS NUMBER
 s=220; %this represents a 400 point advantage 
 HFA = 11;
 %400 point advantage means team A is 10x better than team B
-[Games, R] = initialElo(Games,Teams,year);
+R = initialElo(Games,Teams,year);
 %R = 1500*ones(1,length(Teams));
 %%%% TAKE OUT LATER
 % probs of winner 
@@ -24,9 +24,8 @@ for game= 1:length(Games)
     pd = Games(game).win_score - Games(game).lose_score;
     loc = Games(game).location;
     
-    if Games(game).cross_region ~= 0 
+    if Games(game).cross_region > 0 
         Games(game).elo_diff = R(i) - R(j);
-        Games(game)
     end
     
    

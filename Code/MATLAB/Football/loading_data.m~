@@ -15,7 +15,6 @@ team_list = team_list.textdata(:,1);
 
 %% Remove Covid Games (no winner) 
 for elem = length(Games):-1:1
-    Games(elem).cross_region = 0;
     if Games(elem).win_score == 0 && Games(elem).lose_score == 0
        Games(elem) = []; 
     end

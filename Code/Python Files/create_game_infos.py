@@ -27,7 +27,7 @@ def create_game_infos(season):
 
     html_files = os.listdir(html_directory) 
     html_files = sorted(html_files)
-    
+    print(html_files)
     for file_name in html_files: 
         with open(html_directory + file_name, 'rb') as f:
             html = f.read()
