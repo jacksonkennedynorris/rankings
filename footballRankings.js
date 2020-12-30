@@ -23,10 +23,10 @@ for (year = 2005; year<=2020; year++){
 }
 console.log(button_list)
 for (i = 0; i<button_list.length; i++){
-  button_list[i].onclick = function(){
     console.log(button_list[i])
+    if 
   }
-}
+
 push_latest(myarray)
 function push_latest(myarray) {
   var latest_promise = myarray[myarray.length-1].promise
