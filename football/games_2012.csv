@@ -1,723 +1,1184 @@
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-2012-08-17,Ashland Blazer,Lawrence County,51,20,1,,0
-2012-08-17,Ballard Memorial,Heath,26,20,1,,0
-2012-08-17,Bethlehem,Washington County,30,27,0,,0
-2012-08-17,Bourbon County,Middlesboro,34,0,0,,0
-2012-08-17,Bryan Station,Anderson County,41,34,0,,0
-2012-08-17,Bullitt East,Doss,49,21,1,,0
-2012-08-17,Butler County,Logan County,27,13,0,,0
-2012-08-17,Calloway County,Caldwell County,34,31,0,,0
-2012-08-17,Central,DuPont Manual,29,7,1,,0
-2012-08-17,Christian County,Madisonville-North Hopkins,42,28,1,,0
-2012-08-17,Cooper,Ryle,35,6,1,,0
-2012-08-17,Fleming County,Bath County,33,6,1,,0
-2012-08-17,Frankfort,Newport,30,9,1,,0
-2012-08-17,Franklin County,Nelson County,62,41,0,,0
-2012-08-17,Gallatin County,Ludlow,44,22,1,,0
-2012-08-17,Garrard County,Clay County,15,14,1,,0
-2012-08-17,Harlan,Pikeville,41,21,1,,0
-2012-08-17,Hart County,Breckinridge County,45,6,1,,0
-2012-08-17,Highlands,Boyle County,52,31,1,,0
-2012-08-17,John Hardin,Henry Clay,44,27,0,,0
-2012-08-17,Lafayette,Mason County,55,6,1,,0
-2012-08-17,Lexington Catholic,Bell County,21,7,1,,0
-2012-08-17,Lexington Christian,Christian Academy-Louisville,13,12,1,,0
-2012-08-17,Lloyd Memorial,Owen County,25,21,1,,0
-2012-08-17,North Laurel,Pineville,42,20,0,,0
-2012-08-17,Ohio County,Muhlenberg County,41,13,1,,0
-2012-08-17,Owensboro,Daviess County,28,0,1,,0
-2012-08-17,Prestonsburg,Perry County Central,27,24,1,,0
-2012-08-17,Raceland,East Carter,38,6,0,,0
-2012-08-17,Scott County,Seneca,46,14,1,,0
-2012-08-17,South Oldham,Bullitt Central,41,35,0,,0
-2012-08-17,Tates Creek,West Jessamine,28,9,0,,0
-2012-08-17,Walton-Verona,Bellevue,21,6,1,,0
-2012-08-17,Warren Central,Mayfield,42,28,1,,0
-2012-08-17,Woodford County,Western Hills,49,13,1,,0
-2012-08-18,Bracken County,Betsy Layne,26,6,1,,0
-2012-08-18,Montgomery County,Rowan County,25,16,1,,0
-2012-08-18,Paducah Tilghman,Lone Oak,28,12,0,,0
-2012-08-18,Sheldon Clark,Harrison County,28,13,0,,0
-2012-08-24,Ashland Blazer,Raceland,42,19,1,,0
-2012-08-24,Ballard Memorial,Fulton City,35,0,1,,0
-2012-08-24,Bath County,West Carter,34,14,0,,0
-2012-08-24,Bell County,Bryan Station,32,31,0,(overtime),1
-2012-08-24,Bellevue,Newport,46,21,1,,0
-2012-08-24,Betsy Layne,South Floyd,48,28,1,,0
-2012-08-24,Bourbon County,Madison Southern,48,27,1,,0
-2012-08-24,Butler County,Breckinridge County,33,10,0,,0
-2012-08-24,Carroll County,Lewis County,33,27,0,(overtime),1
-2012-08-24,Conner,Boone County,31,19,0,,0
-2012-08-24,DeSales,Elizabethtown,63,14,0,,0
-2012-08-24,Doss,Seneca,28,17,0,,0
-2012-08-24,Edmonson County,Muhlenberg County,47,14,0,,0
-2012-08-24,Fleming County,Nicholas County,53,14,1,,0
-2012-08-24,Frankfort,Rockcastle County,42,27,0,,0
-2012-08-24,Franklin County,Western Hills,63,0,0,,0
-2012-08-24,Glasgow,Bullitt Central,28,7,1,,0
-2012-08-24,Hancock County,Ohio County,41,6,1,,0
-2012-08-24,Highlands,Scott County,60,37,1,,0
-2012-08-24,Jeffersontown,Bullitt East,28,27,1,,0
-2012-08-24,Kentucky Country Day,Atherton,45,7,1,,0
-2012-08-24,Male,Butler,14,8,0,,0
-2012-08-24,Monroe County,Metcalfe County,48,21,0,,0
-2012-08-24,Montgomery County,Mason County,21,14,0,,0
-2012-08-24,Owensboro Catholic,Daviess County,28,14,0,,0
-2012-08-24,Pleasure Ridge Park,Valley,61,0,1,,0
-2012-08-24,Prestonsburg,Sheldon Clark,48,40,1,,0
-2012-08-24,Reidland,Heath,37,35,1,,0
-2012-08-24,Russell County,Whitley County,49,20,0,,0
-2012-08-24,Shelby County,LaRue County,28,0,1,,0
-2012-08-24,Somerset,Southwestern,48,2,1,,0
-2012-08-24,South Warren,Logan County,36,0,1,,0
-2012-08-24,Spencer County,East Jessamine,17,7,0,,0
-2012-08-24,Taylor County,Casey County,46,18,1,,0
-2012-08-24,Trigg County,Todd County Central,48,14,1,(corrected score),0
-2012-08-24,Warren East,Barren County,32,0,0,,0
-2012-08-24,Williamsburg,Harlan,36,0,1,,0
-2012-08-24,Woodford County,Nelson County,42,27,1,,0
-2012-08-25,Boyle County,Collins,49,26,1,,0
-2012-08-25,Crittenden County,Hopkins County Central,21,6,1,,0
-2012-08-25,Greenwood,North Hardin,56,33,0,,0
-2012-08-25,Lexington Christian,Corbin,21,14,0,,0
-2012-08-25,Mayfield,Madisonville-North Hopkins,63,21,1,,0
-2012-08-25,Owen County,Grant County,44,14,0,,0
-2012-08-30,Lone Oak,Marshall County,52,7,0,,0
-2012-08-31,Allen County-Scottsville,South Warren,15,8,1,,0
-2012-08-31,Anderson County,Shelby County,35,34,0,,0
-2012-08-31,Bath County,Lewis County,20,18,1,,0
-2012-08-31,Bell County,Middlesboro,50,6,1,,0
-2012-08-31,Bethlehem,Berea,30,18,1,,0
-2012-08-31,Bourbon County,Owen County,50,21,0,,0
-2012-08-31,Bowling Green,St. Xavier,38,31,1,,0
-2012-08-31,Bracken County,Bishop Brossart,13,12,1,,0
-2012-08-31,Breathitt County,Newport,65,29,1,,0
-2012-08-31,Bryan Station,West Jessamine,55,20,1,,0
-2012-08-31,Butler,Eastern,33,30,0,,0
-2012-08-31,Caldwell County,Ohio County,56,20,1,,0
-2012-08-31,Campbell County,Newport Central Catholic,42,16,1,,0
-2012-08-31,Carroll County,Ludlow,31,6,0,,0
-2012-08-31,Central,DeSales,27,14,0,,0
-2012-08-31,Central Hardin,Elizabethtown,51,20,0,,0
-2012-08-31,Clay County,Perry County Central,28,19,1,,0
-2012-08-31,Conner,Holy Cross (Covington),67,21,1,,0
-2012-08-31,Cooper,Boone County,10,0,1,,0
-2012-08-31,Gallatin County,Bellevue,52,16,0,,0
-2012-08-31,Garrard County,Lloyd Memorial,35,14,1,,0
-2012-08-31,Glasgow,Barren County,28,8,1,,0
-2012-08-31,Grant County,Western Hills,44,20,0,,0
-2012-08-31,Hancock County,Muhlenberg County,53,6,1,,0
-2012-08-31,Henderson County,Christian County,37,36,0,(double overtime),0
-2012-08-31,Henry Clay,Belfry,40,20,0,,0
-2012-08-31,Jeffersontown,Moore,47,26,0,,0
-2012-08-31,LaRue County,Spencer County,14,12,1,,0
-2012-08-31,Lawrence County,Prestonsburg,42,41,1,,0
-2012-08-31,Lexington Catholic,Lafayette,42,7,1,,0
-2012-08-31,Lexington Christian,Harlan,28,25,0,,0
-2012-08-31,Madison Central,Mercer County,19,13,1,(double overtime),0
-2012-08-31,Mayfield,Paducah Tilghman,42,21,1,,0
-2012-08-31,Metcalfe County,Hart County,33,18,0,,0
-2012-08-31,Murray,Graves County,10,7,0,,0
-2012-08-31,Nelson County,Marion County,59,38,0,,0
-2012-08-31,Nicholas County,West Carter,33,22,1,,0
-2012-08-31,North Hardin,Madisonville-North Hopkins,21,15,1,,0
-2012-08-31,North Oldham,Christian Academy-Louisville,17,14,0,(overtime),1
-2012-08-31,Owensboro Catholic,Owensboro,20,7,1,,0
-2012-08-31,Pike County Central,Powell County,45,27,1,,0
-2012-08-31,Pleasure Ridge Park,Doss,56,16,1,,0
-2012-08-31,Raceland,Pikeville,54,14,1,,0
-2012-08-31,Rowan County,Mason County,33,19,1,,0
-2012-08-31,Scott County,Harrison County,61,6,1,,0
-2012-08-31,Simon Kenton,Pulaski County,50,7,1,,0
-2012-08-31,South Floyd,Jenkins,50,36,1,,0
-2012-08-31,South Oldham,North Bullitt,26,6,0,,0
-2012-08-31,Tates Creek,Corbin,21,14,1,,0
-2012-08-31,Todd County Central,Logan County,27,16,0,,0
-2012-08-31,Trigg County,Crittenden County,42,21,1,,0
-2012-08-31,Warren Central,Fort Campbell,58,13,0,,0
-2012-08-31,Warren East,Monroe County,26,18,0,,0
-2012-08-31,Wayne County,North Laurel,27,7,1,,0
-2012-08-31,Whitley County,Rockcastle County,28,0,1,,0
-2012-09-01,Sheldon Clark,Casey County,56,14,1,,0
-2012-09-07,Adair County,Breckinridge County,49,0,1,,0
-2012-09-07,Ashland Blazer,Russell,47,7,1,,0
-2012-09-07,Bath County,East Carter,28,7,1,,0
-2012-09-07,Belfry,Prestonsburg,53,6,1,,0
-2012-09-07,Bell County,Whitley County,21,14,1,,0
-2012-09-07,Bowling Green,Henderson County,21,7,0,(called in 2nd qtr due to weather),0
-2012-09-07,Bullitt Central,Valley,74,32,0,,0
-2012-09-07,Butler,Central Hardin,50,22,0,,0
-2012-09-07,Carroll County,Kentucky Country Day,39,29,1,,0
-2012-09-07,Christian County,Lone Oak,42,41,1,,0
-2012-09-07,Cooper,Campbell County,27,16,0,,0
-2012-09-07,Eastern,Collins,41,29,1,,0
-2012-09-07,Franklin County,Frankfort,62,30,1,,0
-2012-09-07,Gallatin County,Atherton,48,36,1,,0
-2012-09-07,Glasgow,Allen County-Scottsville,7,6,1,,0
-2012-09-07,Hancock County,Edmonson County,46,23,1,,0
-2012-09-07,Henry Clay,Tates Creek,43,25,0,,0
-2012-09-07,John Hardin,Boyle County,34,14,0,,0
-2012-09-07,Lewis County,Powell County,28,7,0,,0
-2012-09-07,Lexington Catholic,Male,28,7,0,,0
-2012-09-07,Lloyd Memorial,Walton-Verona,38,33,1,,0
-2012-09-07,Logan County,Metcalfe County,35,12,0,,0
-2012-09-07,Mason County,Harrison County,37,22,1,,0
-2012-09-07,Mayfield,Murray,38,14,0,,0
-2012-09-07,Mercer County,West Jessamine,31,28,1,,0
-2012-09-07,Middlesboro,Harlan,27,20,0,,0
-2012-09-07,Monroe County,Barren County,46,6,0,,0
-2012-09-07,Nicholas County,Berea,44,28,1,,0
-2012-09-07,North Oldham,Elizabethtown,54,0,1,,0
-2012-09-07,Ohio County,Hopkins County Central,37,0,1,,0
-2012-09-07,Owen County,Western Hills,49,20,0,,0
-2012-09-07,Owensboro,Lafayette,24,14,1,,0
-2012-09-07,Paul Laurence Dunbar,East Jessamine,28,7,1,,0
-2012-09-07,Perry County Central,Lawrence County,50,49,0,,0
-2012-09-07,Pike County Central,Shelby Valley,41,28,0,,0
-2012-09-07,Pleasure Ridge Park,DuPont Manual,48,34,0,,0
-2012-09-07,Rowan County,Fleming County,55,49,1,,0
-2012-09-07,Russell County,Pulaski County,28,14,1,,0
-2012-09-07,Scott,Newport,35,0,1,,0
-2012-09-07,Scott County,Madison Central,41,16,1,,0
-2012-09-07,Shelby County,Jeffersontown,41,29,0,,0
-2012-09-07,Sheldon Clark,Pikeville,48,34,1,,0
-2012-09-07,Somerset,Hazard,17,9,1,,0
-2012-09-07,Southwestern,Marion County,28,21,1,,0
-2012-09-07,Spencer County,Bullitt East,27,0,1,,0
-2012-09-07,St. Xavier,Doss,58,6,1,,0
-2012-09-07,Trigg County,Caldwell County,38,37,0,(called with 5:42 remaining),0
-2012-09-07,Warren East,Daviess County,42,7,0,,0
-2012-09-07,Wayne County,Madison Southern,22,21,0,(overtime),1
-2012-09-08,Calloway County,Ballard Memorial,52,14,1,,0
-2012-09-08,Covington Catholic,Boone County,34,0,1,,0
-2012-09-08,Crittenden County,Union County,35,6,1,,0
-2012-09-08,Graves County,Paducah Tilghman,20,15,0,,0
-2012-09-14,Adair County,Hart County,37,16,0,,0
-2012-09-14,Anderson County,Mercer County,48,7,0,,0
-2012-09-14,Belfry,Pikeville,48,0,0,,0
-2012-09-14,Bellevue,Carroll County,30,8,0,,0
-2012-09-14,Bethlehem,Ludlow,40,0,1,,0
-2012-09-14,Bourbon County,Harrison County,51,8,0,,0
-2012-09-14,Bowling Green,Owensboro,31,3,0,,0
-2012-09-14,Breathitt County,Somerset,24,13,0,,0
-2012-09-14,Bullitt Central,East Jessamine,39,23,0,,0
-2012-09-14,Butler,Doss,35,6,1,,0
-2012-09-14,Central Hardin,North Hardin,24,21,0,,0
-2012-09-14,Christian County,Fort Campbell,41,22,0,,0
-2012-09-14,Conner,Campbell County,35,28,0,,0
-2012-09-14,Eastern,Seneca,21,0,0,,0
-2012-09-14,Fleming County,East Carter,35,14,1,,0
-2012-09-14,Frankfort,Western Hills,40,12,1,,0
-2012-09-14,Franklin County,Scott,63,31,0,,0
-2012-09-14,Greenwood,Logan County,62,34,0,,0
-2012-09-14,Highlands,Mason County,61,3,1,,0
-2012-09-14,Hopkinsville,Allen County-Scottsville,20,14,1,(overtime),1
-2012-09-14,Lafayette,Paul Laurence Dunbar,55,21,0,,0
-2012-09-14,Lexington Catholic,Madison Central,41,23,1,,0
-2012-09-14,Lexington Christian,Hazard,27,20,1,,0
-2012-09-14,Lloyd Memorial,Gallatin County,66,15,1,,0
-2012-09-14,Lone Oak,Reidland,64,0,1,,0
-2012-09-14,Madison Southern,Powell County,71,21,1,,0
-2012-09-14,Madisonville-North Hopkins,Union County,53,22,0,,0
-2012-09-14,Male,Boone County,45,14,1,,0
-2012-09-14,Marion County,Washington County,28,21,1,,0
-2012-09-14,Marshall County,Calloway County,48,27,1,,0
-2012-09-14,Mayfield,Graves County,56,28,0,,0
-2012-09-14,Monroe County,Glasgow,28,0,1,,0
-2012-09-14,Moore,Atherton,47,6,0,,0
-2012-09-14,Morgan County,South Floyd,46,0,0,,0
-2012-09-14,Murray,Heath,49,13,0,,0
-2012-09-14,Nelson County,LaRue County,31,15,1,,0
-2012-09-14,Nicholas County,Paris,57,20,0,,0
-2012-09-14,North Bullitt,Valley,50,7,1,,0
-2012-09-14,Paducah Tilghman,Crittenden County,54,0,0,,0
-2012-09-14,Perry County Central,Sheldon Clark,51,45,1,,0
-2012-09-14,Pleasure Ridge Park,DeSales,60,27,1,,0
-2012-09-14,Prestonsburg,Pike County Central,83,49,1,,0
-2012-09-14,Pulaski County,Rockcastle County,30,2,1,,0
-2012-09-14,Russell County,North Laurel,45,35,0,,0
-2012-09-14,Scott County,Tates Creek,71,13,0,,0
-2012-09-14,South Oldham,North Oldham,43,42,1,(double overtime),0
-2012-09-14,South Warren,Edmonson County,42,14,0,,0
-2012-09-14,Spencer County,Woodford County,32,7,1,,0
-2012-09-14,Taylor County,Breckinridge County,40,0,1,,0
-2012-09-14,Warren Central,Barren County,50,8,1,,0
-2012-09-14,Warren East,Metcalfe County,47,6,1,,0
-2012-09-14,West Jessamine,Rowan County,21,20,1,,0
-2012-09-14,Whitley County,Clay County,35,21,0,,0
-2012-09-15,Simon Kenton,Newport Central Catholic,28,20,0,,0
-2012-09-21,Adair County,Bethlehem,49,31,1,,0
-2012-09-21,Anderson County,Montgomery County,27,8,0,,0
-2012-09-21,Ashland Blazer,Rowan County,48,0,1,,0
-2012-09-21,Bath County,Garrard County,21,20,1,,0
-2012-09-21,Belfry,Sheldon Clark,54,6,0,,0
-2012-09-21,Bell County,Wayne County,21,7,1,,0
-2012-09-21,Bellevue,Owen County,22,14,0,,0
-2012-09-21,Bourbon County,Western Hills,66,8,1,,0
-2012-09-21,Bowling Green,Barren County,58,0,0,,0
-2012-09-21,Boyle County,Taylor County,53,0,1,,0
-2012-09-21,Breathitt County,Hazard,15,7,0,,0
-2012-09-21,Bryan Station,Tates Creek,56,8,1,,0
-2012-09-21,Caldwell County,Ballard Memorial,56,20,0,,0
-2012-09-21,Central Hardin,Bullitt East,35,31,0,,0
-2012-09-21,Christian Academy-Louisville,Washington County,27,3,0,,0
-2012-09-21,Christian County,Hopkinsville,63,14,0,,0
-2012-09-21,Collins,Spencer County,38,35,1,,0
-2012-09-21,Cooper,Scott,46,14,1,,0
-2012-09-21,Crittenden County,Reidland,37,0,0,,0
-2012-09-21,Doss,Valley,57,14,1,,0
-2012-09-21,DuPont Manual,Seneca,31,6,1,,0
-2012-09-21,East Jessamine,Woodford County,28,19,0,,0
-2012-09-21,Eastern,Male,35,21,0,,0
-2012-09-21,Edmonson County,Logan County,49,14,1,,0
-2012-09-21,Eminence,Berea,38,36,0,,0
-2012-09-21,Fleming County,Lewis County,43,0,0,,0
-2012-09-21,Fort Campbell,Trigg County,56,40,0,,0
-2012-09-21,Frankfort,Lexington Christian,43,14,1,,0
-2012-09-21,Franklin County,West Jessamine,42,21,1,,0
-2012-09-21,Hancock County,Union County,34,6,0,,0
-2012-09-21,Highlands,Covington Catholic,35,21,1,,0
-2012-09-21,Kentucky Country Day,Breckinridge County,46,8,1,,0
-2012-09-21,Knox Central,Harlan County,12,6,1,,0
-2012-09-21,Lafayette,Henry Clay,42,21,1,,0
-2012-09-21,Lexington Catholic,Mercer County,34,16,0,,0
-2012-09-21,Lloyd Memorial,Holy Cross (Covington),36,35,0,,0
-2012-09-21,Lone Oak,Calloway County,54,7,1,,0
-2012-09-21,Madison Central,Paul Laurence Dunbar,44,20,1,,0
-2012-09-21,Madison Southern,Southwestern,41,12,0,,0
-2012-09-21,Madisonville-North Hopkins,Owensboro,13,9,1,,0
-2012-09-21,Mason County,East Carter,34,21,1,,0
-2012-09-21,Mayfield,Marshall County,44,7,1,,0
-2012-09-21,Monroe County,Hart County,63,18,1,,0
-2012-09-21,Morgan County,Middlesboro,28,6,1,,0
-2012-09-21,Muhlenberg County,Hopkins County Central,28,26,0,,0
-2012-09-21,Nelson County,North Bullitt,76,36,1,,0
-2012-09-21,Newport,Ludlow,47,8,1,,0
-2012-09-21,Newport Central Catholic,Bishop Brossart,58,0,0,,0
-2012-09-21,Owensboro Catholic,Butler County,45,0,0,,0
-2012-09-21,Paducah Tilghman,Heath,63,0,1,,0
-2012-09-21,Perry County Central,Rockcastle County,40,24,0,,0
-2012-09-21,Prestonsburg,Betsy Layne,48,24,1,,0
-2012-09-21,Raceland,Lawrence County,54,14,1,,0
-2012-09-21,Russell,West Carter,34,6,1,,0
-2012-09-21,Shelby Valley,South Floyd,52,16,0,,0
-2012-09-21,Simon Kenton,Ryle,20,0,0,,0
-2012-09-21,Somerset,Glasgow,20,0,0,,0
-2012-09-21,South Oldham,Conner,63,57,0,,0
-2012-09-21,St. Xavier,Central,27,13,1,,0
-2012-09-21,Walton-Verona,Carroll County,27,7,0,,0
-2012-09-21,Warren Central,Greenwood,36,0,0,,0
-2012-09-21,Warren East,LaRue County,38,7,1,,0
-2012-09-27,Hart County,Edmonson County,26,13,1,,0
-2012-09-27,Pulaski County,North Laurel,28,21,0,,0
-2012-09-28,Allen County-Scottsville,Breckinridge County,40,0,0,,0
-2012-09-28,Anderson County,Woodford County,21,7,1,,0
-2012-09-28,Bath County,Western Hills,35,14,0,,0
-2012-09-28,Bell County,Casey County,54,13,0,,0
-2012-09-28,Berea,Paris,42,6,0,,0
-2012-09-28,Bowling Green,Logan County,62,0,1,,0
-2012-09-28,Bracken County,South Floyd,27,6,1,,0
-2012-09-28,Bullitt Central,North Bullitt,7,6,0,,0
-2012-09-28,Butler,DuPont Manual,34,17,1,,0
-2012-09-28,Caldwell County,Reidland,56,7,1,,0
-2012-09-28,Calloway County,Hopkins County Central,48,0,0,,0
-2012-09-28,Campbell County,Simon Kenton,29,28,0,,0
-2012-09-28,Carroll County,Gallatin County,57,27,0,,0
-2012-09-28,Christian County,Ohio County,57,17,1,,0
-2012-09-28,Collins,Shelby County,34,33,1,,0
-2012-09-28,Conner,Cooper,38,21,1,,0
-2012-09-28,DeSales,Washington County,41,6,1,,0
-2012-09-28,Fort Campbell,Paducah Tilghman,43,14,1,,0
-2012-09-28,Franklin County,East Jessamine,35,22,0,,0
-2012-09-28,Garrard County,Powell County,28,14,0,,0
-2012-09-28,Graves County,Muhlenberg County,62,19,0,,0
-2012-09-28,Greenwood,Barren County,47,8,1,,0
-2012-09-28,Hazard,Prestonsburg,38,20,1,,0
-2012-09-28,Highlands,Harrison County,69,10,0,,0
-2012-09-28,Holy Cross (Covington),Newport,42,13,0,,0
-2012-09-28,Jeffersontown,North Hardin,41,36,1,,0
-2012-09-28,John Hardin,Central Hardin,48,0,0,,0
-2012-09-28,Knox Central,Clay County,42,6,0,,0
-2012-09-28,Lafayette,Bryan Station,33,29,1,,0
-2012-09-28,Lawrence County,Sheldon Clark,39,33,0,,0
-2012-09-28,Lexington Catholic,Boyle County,24,21,1,,0
-2012-09-28,Lloyd Memorial,Bishop Brossart,28,0,1,,0
-2012-09-28,Madison Central,Henry Clay,44,24,0,,0
-2012-09-28,Marion County,Taylor County,21,15,0,,0
-2012-09-28,Marshall County,Crittenden County,15,2,1,,0
-2012-09-28,Mason County,Lewis County,32,8,1,,0
-2012-09-28,Mayfield,Fulton City,66,0,0,,0
-2012-09-28,Mercer County,Nelson County,48,28,1,,0
-2012-09-28,Middlesboro,Shelby Valley,54,0,0,,0
-2012-09-28,Monroe County,Adair County,23,6,0,,0
-2012-09-28,Murray,Ballard Memorial,49,7,1,,0
-2012-09-28,Nicholas County,Ludlow,56,6,1,,0
-2012-09-28,Owensboro,Lone Oak,45,31,1,,0
-2012-09-28,Owensboro Catholic,Todd County Central,51,17,1,,0
-2012-09-28,Russell,Fleming County,35,6,0,,0
-2012-09-28,Russell County,Rockcastle County,37,0,1,,0
-2012-09-28,Ryle,Boone County,14,0,0,,0
-2012-09-28,South Oldham,Grant County,55,6,0,,0
-2012-09-28,Spencer County,Atherton,49,0,1,,0
-2012-09-28,Tates Creek,Paul Laurence Dunbar,34,16,0,,0
-2012-09-28,Union County,Butler County,49,35,0,,0
-2012-09-28,Walton-Verona,Owen County,21,14,0,,0
-2012-09-28,Wayne County,Corbin,26,23,0,,0
-2012-09-28,West Jessamine,Montgomery County,27,21,1,,0
-2012-09-28,Whitley County,Somerset,14,7,0,,0
-2012-09-29,East Carter,West Carter,27,22,0,,0
-2012-10-04,Fleming County,West Carter,18,7,0,,0
-2012-10-04,Monroe County,South Warren,41,0,0,,0
-2012-10-04,Pleasure Ridge Park,Seneca,53,18,0,,0
-2012-10-04,Valley,Moore,41,7,1,,0
-2012-10-05,Anderson County,West Jessamine,41,39,0,,0
-2012-10-05,Ashland Blazer,Belfry,35,20,1,,0
-2012-10-05,Ballard Memorial,Reidland,35,7,1,,0
-2012-10-05,Bath County,Powell County,36,35,1,,0
-2012-10-05,Bell County,Clay County,39,0,1,,0
-2012-10-05,Bourbon County,Garrard County,28,8,0,,0
-2012-10-05,Bryan Station,Paul Laurence Dunbar,42,17,0,,0
-2012-10-05,Bullitt Central,Bullitt East,28,21,1,,0
-2012-10-05,Butler County,Todd County Central,25,23,0,,0
-2012-10-05,Central,Elizabethtown,55,0,1,,0
-2012-10-05,Collins,North Oldham,36,20,0,,0
-2012-10-05,Conner,Ryle,27,21,1,,0
-2012-10-05,Cooper,South Oldham,21,14,0,,0
-2012-10-05,Eminence,Bracken County,18,13,1,,0
-2012-10-05,Frankfort,Paris,38,0,0,,0
-2012-10-05,Franklin County,Woodford County,76,55,1,,0
-2012-10-05,Graves County,Ohio County,58,28,1,,0
-2012-10-05,Hazard,Harlan,56,19,1,,0
-2012-10-05,Henderson County,Daviess County,55,21,0,,0
-2012-10-05,John Hardin,Jeffersontown,34,8,1,,0
-2012-10-05,Lewis County,East Carter,25,7,0,,0
-2012-10-05,Lexington Catholic,Taylor County,56,14,0,,0
-2012-10-05,Lexington Christian,Middlesboro,42,14,1,,0
-2012-10-05,Madison Central,Tates Creek,45,38,1,,0
-2012-10-05,Madisonville-North Hopkins,Hopkins County Central,66,0,0,,0
-2012-10-05,Marshall County,Muhlenberg County,20,16,1,,0
-2012-10-05,Mason County,Russell,32,28,0,,0
-2012-10-05,Mercer County,Marion County,55,0,0,,0
-2012-10-05,Montgomery County,East Jessamine,28,23,1,,0
-2012-10-05,Murray,Crittenden County,41,0,0,,0
-2012-10-05,Newport,Bishop Brossart,54,8,1,,0
-2012-10-05,North Laurel,Southwestern,17,7,1,,0
-2012-10-05,Owensboro,Calloway County,20,0,0,,0
-2012-10-05,Owensboro Catholic,Hancock County,31,12,1,,0
-2012-10-05,Paducah Tilghman,Trigg County,21,6,0,,0
-2012-10-05,Pike County Central,Lawrence County,29,14,0,,0
-2012-10-05,Pikeville,South Floyd,56,20,0,,0
-2012-10-05,Pineville,Jenkins,52,0,0,,0
-2012-10-05,Prestonsburg,Shelby Valley,56,7,0,,0
-2012-10-05,Pulaski County,Madison Southern,37,36,0,,0
-2012-10-05,Raceland,Nicholas County,60,12,0,,0
-2012-10-05,Scott,Grant County,41,0,1,,0
-2012-10-05,Scott County,Henry Clay,69,34,1,,0
-2012-10-05,Shelby County,North Bullitt,49,0,1,,0
-2012-10-05,Simon Kenton,Boone County,38,20,1,,0
-2012-10-05,St. Xavier,Male,41,0,0,,0
-2012-10-05,Trinity (Louisville),DuPont Manual,55,27,0,,0
-2012-10-05,Walton-Verona,Gallatin County,42,6,1,,0
-2012-10-05,Wayne County,Casey County,48,7,1,,0
-2012-10-05,Whitley County,Perry County Central,47,28,1,,0
-2012-10-06,Newport Central Catholic,Lloyd Memorial,63,22,1,,0
-2012-10-11,Hazard,Jenkins,42,14,0,,0
-2012-10-11,Paul Laurence Dunbar,Henry Clay,22,19,0,,0
-2012-10-12,Adair County,Edmonson County,42,21,0,,0
-2012-10-12,Ballard Memorial,Crittenden County,7,6,0,,0
-2012-10-12,Belfry,Lawrence County,41,6,0,,0
-2012-10-12,Bell County,Corbin,34,0,0,,0
-2012-10-12,Bellevue,Ludlow,52,0,1,,0
-2012-10-12,Bourbon County,Powell County,70,7,1,,0
-2012-10-12,Bowling Green,Warren Central,24,0,0,,0
-2012-10-12,Boyle County,Marion County,63,0,0,,0
-2012-10-12,Breathitt County,Morgan County,27,12,0,,0
-2012-10-12,Bullitt East,North Bullitt,28,0,1,,0
-2012-10-12,Caldwell County,Murray,24,21,0,,0
-2012-10-12,Campbell County,Ryle,51,20,1,,0
-2012-10-12,Casey County,Metcalfe County,14,6,1,,0
-2012-10-12,Christian Academy-Louisville,DeSales,30,21,0,,0
-2012-10-12,Conner,Grant County,42,6,0,,0
-2012-10-12,Daviess County,Muhlenberg County,57,0,0,,0
-2012-10-12,Doss,Moore,40,20,1,,0
-2012-10-12,East Jessamine,West Jessamine,47,29,1,,0
-2012-10-12,Frankfort,Bracken County,66,0,0,,0
-2012-10-12,Franklin County,Anderson County,56,52,1,,0
-2012-10-12,Garrard County,Western Hills,48,0,0,,0
-2012-10-12,Graves County,Christian County,42,37,0,,0
-2012-10-12,Hancock County,Todd County Central,58,26,1,,0
-2012-10-12,Harlan,Pineville,33,26,1,,0
-2012-10-12,Harlan County,Whitley County,40,13,1,,0
-2012-10-12,Henderson County,Marshall County,35,6,0,,0
-2012-10-12,Holy Cross (Covington),Bishop Brossart,59,9,0,,0
-2012-10-12,Hopkinsville,Ohio County,65,47,0,,0
-2012-10-12,John Hardin,North Hardin,53,13,1,,0
-2012-10-12,Kentucky Country Day,Bethlehem,55,13,1,,0
-2012-10-12,Knox Central,Rockcastle County,47,14,0,,0
-2012-10-12,LaRue County,Elizabethtown,33,6,1,,0
-2012-10-12,Lafayette,Madison Central,21,0,1,,0
-2012-10-12,Logan County,Barren County,21,20,0,,0
-2012-10-12,Lone Oak,Hopkins County Central,62,0,1,,0
-2012-10-12,Madison Southern,North Laurel,26,10,1,,0
-2012-10-12,Madisonville-North Hopkins,Calloway County,50,17,0,,0
-2012-10-12,Mason County,West Carter,49,0,1,,0
-2012-10-12,Mercer County,Taylor County,72,31,1,,0
-2012-10-12,Montgomery County,Woodford County,31,21,0,,0
-2012-10-12,Newport Central Catholic,Newport,49,0,0,,0
-2012-10-12,North Oldham,Atherton,53,7,0,,0
-2012-10-12,Owen County,Carroll County,59,41,0,,0
-2012-10-12,Owensboro Catholic,Union County,52,25,0,,0
-2012-10-12,Paris,Eminence,42,38,0,,0
-2012-10-12,Pike County Central,Sheldon Clark,39,24,1,,0
-2012-10-12,Pleasure Ridge Park,Butler,40,27,1,,0
-2012-10-12,Russell,Lewis County,33,18,0,,0
-2012-10-12,Russell County,Clay County,56,14,0,,0
-2012-10-12,Scott County,Bryan Station,40,20,0,,0
-2012-10-12,Shelby County,Bullitt Central,38,18,1,,0
-2012-10-12,Somerset,Lexington Christian,12,9,1,,0
-2012-10-12,South Oldham,Scott,47,21,1,,0
-2012-10-12,South Warren,Hart County,50,0,1,,0
-2012-10-12,St. Xavier,DuPont Manual,55,13,1,,0
-2012-10-12,Trigg County,Heath,48,27,0,,0
-2012-10-12,Trinity (Louisville),Male,38,7,1,,0
-2012-10-12,Warren East,Allen County-Scottsville,53,20,0,,0
-2012-10-12,Williamsburg,Berea,47,12,0,,0
-2012-10-13,Covington Catholic,Harrison County,61,0,1,,0
-2012-10-18,Newport Central Catholic,Holy Cross (Covington),49,10,0,,0
-2012-10-19,Anderson County,East Jessamine,63,19,1,,0
-2012-10-19,Belfry,Pike County Central,48,12,1,,0
-2012-10-19,Betsy Layne,Shelby Valley,40,14,1,,0
-2012-10-19,Bourbon County,Bath County,28,27,1,(double overtime),0
-2012-10-19,Bowling Green,Greenwood,53,0,1,,0
-2012-10-19,Boyle County,Mercer County,59,19,1,,0
-2012-10-19,Butler,Seneca,35,6,0,,0
-2012-10-19,Caldwell County,Crittenden County,49,0,1,,0
-2012-10-19,Campbell County,Boone County,48,28,1,,0
-2012-10-19,Central,LaRue County,16,8,1,,0
-2012-10-19,Clay County,Rockcastle County,27,8,1,,0
-2012-10-19,Collins,Atherton,41,10,1,,0
-2012-10-19,Conner,Scott,39,32,0,,0
-2012-10-19,Cooper,Grant County,42,6,1,,0
-2012-10-19,Corbin,Casey County,57,22,0,,0
-2012-10-19,Daviess County,Marshall County,42,9,1,,0
-2012-10-19,DuPont Manual,Male,24,14,0,,0
-2012-10-19,Fort Campbell,Heath,68,14,1,,0
-2012-10-19,Frankfort,Eminence,70,14,1,,0
-2012-10-19,Franklin County,Montgomery County,63,21,0,,0
-2012-10-19,Glasgow,Metcalfe County,49,0,0,,0
-2012-10-19,Graves County,Hopkinsville,79,40,0,,0
-2012-10-19,Hancock County,Butler County,61,12,0,,0
-2012-10-19,Harlan,Jenkins,56,0,1,,0
-2012-10-19,Harlan County,Perry County Central,55,20,0,,0
-2012-10-19,Hazard,Pineville,28,22,0,,0
-2012-10-19,Henderson County,Muhlenberg County,55,0,1,,0
-2012-10-19,Henry Clay,Bryan Station,33,31,1,,0
-2012-10-19,Lafayette,Tates Creek,28,14,1,,0
-2012-10-19,Lewis County,West Carter,48,20,0,,0
-2012-10-19,Lexington Catholic,Marion County,55,6,1,,0
-2012-10-19,Lloyd Memorial,Newport,30,19,1,,0
-2012-10-19,Lone Oak,Madisonville-North Hopkins,27,10,0,,0
-2012-10-19,Mason County,Fleming County,34,0,0,,0
-2012-10-19,Monroe County,Edmonson County,60,14,1,,0
-2012-10-19,Murray,Reidland,62,0,0,,0
-2012-10-19,Nelson County,Central Hardin,28,27,1,,0
-2012-10-19,Owen County,Gallatin County,59,22,1,,0
-2012-10-19,Owensboro,Hopkins County Central,55,7,1,,0
-2012-10-19,Paris,Bracken County,28,26,1,,0
-2012-10-19,Powell County,Western Hills,42,26,1,,0
-2012-10-19,Pulaski County,Southwestern,28,14,0,,0
-2012-10-19,Russell,East Carter,28,7,0,,0
-2012-10-19,Russell County,Knox Central,35,19,0,,0
-2012-10-19,Scott County,Paul Laurence Dunbar,68,6,1,,0
-2012-10-19,Shelby County,Bullitt East,42,21,0,,0
-2012-10-19,Somerset,Middlesboro,26,18,0,,0
-2012-10-19,South Warren,Adair County,42,23,0,,0
-2012-10-19,Spencer County,North Oldham,21,7,1,,0
-2012-10-19,Taylor County,Barren County,35,14,0,,0
-2012-10-19,Union County,Todd County Central,55,27,1,,0
-2012-10-19,Walton-Verona,Bishop Brossart,45,0,1,,0
-2012-10-19,Warren Central,Logan County,60,10,0,,0
-2012-10-19,Warren East,Breckinridge County,49,0,1,,0
-2012-10-19,West Jessamine,Woodford County,55,28,1,,0
-2012-10-20,North Bullitt,Trigg County,18,15,1,,0
-2012-10-25,Graves County,Marshall County,42,14,1,,0
-2012-10-25,Greenwood,Central Hardin,35,34,0,,0
-2012-10-26,Anderson County,Marion County,28,12,1,,0
-2012-10-26,Bath County,Nicholas County,64,24,1,,0
-2012-10-26,Bellevue,Lloyd Memorial,30,7,1,,0
-2012-10-26,Betsy Layne,Jenkins,52,16,1,,0
-2012-10-26,Bourbon County,Paris,48,0,1,,0
-2012-10-26,Bowling Green,Lexington Catholic,35,21,1,,0
-2012-10-26,Boyle County,Whitley County,38,7,0,,0
-2012-10-26,Breathitt County,Clay County,58,29,1,,0
-2012-10-26,Bryan Station,Collins,55,52,1,(overtime),1
-2012-10-26,Butler County,Edmonson County,26,21,1,,0
-2012-10-26,Calloway County,Trigg County,35,28,0,,0
-2012-10-26,Christian County,Pulaski County,34,20,0,,0
-2012-10-26,Conner,Covington Catholic,13,12,1,,0
-2012-10-26,Corbin,Harlan,42,13,1,,0
-2012-10-26,Daviess County,Ohio County,48,0,0,,0
-2012-10-26,DuPont Manual,Moore,35,0,1,,0
-2012-10-26,East Carter,Morgan County,41,18,1,,0
-2012-10-26,Fleming County,Grant County,16,0,0,,0
-2012-10-26,Fort Campbell,Hopkinsville,57,35,0,,0
-2012-10-26,Gallatin County,Bethlehem,15,14,0,,0
-2012-10-26,Garrard County,Madison Southern,14,13,1,,0
-2012-10-26,Glasgow,Elizabethtown,47,6,0,,0
-2012-10-26,Hancock County,Breckinridge County,57,13,0,,0
-2012-10-26,Harlan County,Bell County,40,34,1,,0
-2012-10-26,Hazard,Sheldon Clark,50,28,1,,0
-2012-10-26,Henderson County,Owensboro,49,21,1,,0
-2012-10-26,Highlands,Ryle,58,13,0,,0
-2012-10-26,John Hardin,Boone County,34,14,0,,0
-2012-10-26,Knox Central,Madison Central,44,36,0,(overtime),1
-2012-10-26,LaRue County,Washington County,49,7,1,,0
-2012-10-26,Lone Oak,Heath,47,8,1,,0
-2012-10-26,Madisonville-North Hopkins,Crittenden County,27,7,1,,0
-2012-10-26,Male,Christian Academy-Louisville,21,0,0,,0
-2012-10-26,Mayfield,Caldwell County,48,7,1,,0
-2012-10-26,Mercer County,Paul Laurence Dunbar,54,14,0,(corrected score),0
-2012-10-26,Monroe County,Allen County-Scottsville,45,33,1,,0
-2012-10-26,Montgomery County,Rockcastle County,18,7,0,,0
-2012-10-26,Muhlenberg County,Barren County,38,24,1,,0
-2012-10-26,Nelson County,Bullitt East,35,28,1,,0
-2012-10-26,Owen County,Ludlow,48,14,0,,0
-2012-10-26,Owensboro Catholic,North Hardin,31,13,1,,0
-2012-10-26,Pikeville,Shelby Valley,48,8,0,,0
-2012-10-26,Pleasure Ridge Park,Central,15,14,1,,0
-2012-10-26,Prestonsburg,Pike County Central,41,18,1,,0
-2012-10-26,Raceland,Russell,25,14,0,,0
-2012-10-26,Reidland,Fulton City,35,6,1,,0
-2012-10-26,Russell County,Adair County,66,14,1,,0
-2012-10-26,Scott,Bishop Brossart,69,8,0,,0
-2012-10-26,Scott County,Simon Kenton,56,6,1,,0
-2012-10-26,Shelby County,South Oldham,33,21,0,,0
-2012-10-26,Somerset,Perry County Central,28,20,1,,0
-2012-10-26,South Warren,Todd County Central,30,6,0,,0
-2012-10-26,Taylor County,Hart County,33,28,1,,0
-2012-10-26,Union County,Hopkins County Central,48,13,0,,0
-2012-10-26,Warren Central,Southwestern,58,7,0,,0
-2012-10-26,Warren East,Bullitt Central,35,6,0,,0
-2012-10-26,Wayne County,East Jessamine,31,14,0,,0
-2012-10-26,Woodford County,Harrison County,38,10,0,,0
-2012-11-02,Bellevue,Eminence,48,8,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Frankfort,Ludlow,78,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Hazard,Berea,62,18,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Kentucky Country Day,Fulton City,62,14,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Nicholas County,South Floyd,35,28,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Williamsburg,Jenkins,60,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Caldwell County,Butler County,51,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Glasgow,Washington County,49,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Hancock County,Ballard Memorial,55,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Holy Cross (Covington),Owen County,42,32,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Lloyd Memorial,Carroll County,34,20,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Owensboro Catholic,Crittenden County,58,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Prestonsburg,Middlesboro,36,33,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Somerset,Shelby Valley,49,6,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Walton-Verona,Newport,42,7,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Bell County,Elizabethtown,47,0,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Bourbon County,Lewis County,56,12,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Breathitt County,Sheldon Clark,59,14,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Central,Casey County,78,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Fleming County,Bath County,37,36,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Fort Campbell,Hart County,57,8,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Garrard County,Russell,12,7,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,LaRue County,Corbin,36,16,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Lawrence County,Morgan County,22,14,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Mason County,Powell County,48,21,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Monroe County,Heath,49,7,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Paducah Tilghman,Adair County,57,14,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,South Warren,Trigg County,16,7,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Boyle County,Clay County,72,20,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Doss,North Oldham,36,27,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Knox Central,Mercer County,41,20,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Lexington Catholic,Rockcastle County,48,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Madisonville-North Hopkins,Allen County-Scottsville,21,6,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Nelson County,Spencer County,56,14,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Owensboro,Breckinridge County,56,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Russell County,Marion County,52,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Warren East,Calloway County,49,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Christian County,Greenwood,41,28,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Conner,Montgomery County,49,20,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Cooper,Anderson County,48,0,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Franklin County,Scott,48,10,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Graves County,Logan County,76,29,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Jeffersontown,Bullitt East,17,16,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,John Hardin,North Bullitt,56,14,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Madison Southern,Perry County Central,37,36,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Shelby County,North Hardin,35,28,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,South Oldham,West Jessamine,43,32,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Warren Central,Hopkinsville,67,7,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Whitley County,North Laurel,41,20,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Campbell County,Paul Laurence Dunbar,57,0,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Central Hardin,Seneca,50,22,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Eastern,Marshall County,49,7,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Madison Central,DuPont Manual,40,21,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Male,Lafayette,17,3,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Pleasure Ridge Park,Boone County,44,20,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Scott County,Ryle,42,10,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,Simon Kenton,Bryan Station,29,22,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-02,St. Xavier,Tates Creek,66,13,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-03,Covington Catholic,Rowan County,67,3,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Frankfort,Bellevue,26,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Hazard,Pineville,47,14,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Pikeville,Raceland,26,20,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (overtime),1
-2012-11-09,Williamsburg,Harlan,34,15,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Caldwell County,Hancock County,52,25,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,DeSales,Christian Academy-Louisville,21,16,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Murray,Owensboro Catholic,29,22,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (double overtime),0
-2012-11-09,Somerset,Lexington Christian,42,19,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Walton-Verona,Lloyd Memorial,33,26,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Belfry,Lawrence County,48,6,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Bell County,LaRue County,35,14,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Bourbon County,Garrard County,49,8,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Breathitt County,Pike County Central,54,18,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Central,Wayne County,21,18,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Mason County,Fleming County,40,21,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Monroe County,Paducah Tilghman,28,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,South Warren,Fort Campbell,24,7,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Boyle County,Russell County,14,6,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Collins,Doss,49,30,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Highlands,Ashland Blazer,52,13,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Lexington Catholic,Knox Central,35,6,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Owensboro,Madisonville-North Hopkins,31,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Warren East,Lone Oak,42,9,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Bowling Green,Christian County,31,17,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Cooper,South Oldham,49,28,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Franklin County,Conner,62,59,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Harlan County,Madison Southern,41,24,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Jeffersontown,Shelby County,42,33,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Pulaski County,Whitley County,28,13,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Warren Central,Graves County,21,14,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Eastern,Henderson County,21,17,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Pleasure Ridge Park,Central Hardin,48,18,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Simon Kenton,Campbell County,29,21,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,St. Xavier,Male,55,14,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-09,Trinity (Louisville),Madison Central,62,8,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Hazard,Williamsburg,7,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Mayfield,Kentucky Country Day,35,14,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Caldwell County,Murray,10,7,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,DeSales,Glasgow,10,2,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Newport Central Catholic,Walton-Verona,49,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Belfry,Breathitt County,41,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Bourbon County,Mason County,55,13,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Central,Bell County,14,10,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Monroe County,South Warren,20,10,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Highlands,Covington Catholic,28,13,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Lexington Catholic,Boyle County,27,16,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Warren East,Owensboro,14,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Bowling Green,Warren Central,35,21,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Cooper,Franklin County,40,27,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Harlan County,Pulaski County,46,12,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,John Hardin,Jeffersontown,47,0,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-16,Pleasure Ridge Park,Butler,28,21,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Caldwell County,DeSales,43,31,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Newport Central Catholic,Somerset,27,18,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Belfry,Bourbon County,35,10,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Central,Monroe County,18,13,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Collins,Warren East,58,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Highlands,Lexington Catholic,61,28,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Bowling Green,John Hardin,14,13,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Cooper,Harlan County,17,7,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Pleasure Ridge Park,Eastern,61,21,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
-2012-11-23,Trinity (Louisville),Scott County,21,14,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0
+date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cross_region
+2012-08-17,Ashland Blazer,Lawrence County,51,20,1,,0,0
+2012-08-17,Ballard,Western,20,6,0,,0,0
+2012-08-17,Ballard Memorial,Heath,26,20,1,,0,0
+2012-08-17,Bardstown,Spencer County,33,19,0,,0,0
+2012-08-17,Berea,Trimble County,38,0,1,,0,0
+2012-08-17,Bethlehem,Washington County,30,27,0,,0,0
+2012-08-17,Bourbon County,Middlesboro,34,0,0,,0,0
+2012-08-17,Boyd County,Shelby Valley,22,0,1,,0,0
+2012-08-17,Breathitt County,Estill County,49,12,0,,0,0
+2012-08-17,Bryan Station,Anderson County,41,34,0,,0,0
+2012-08-17,Bullitt East,Doss,49,21,1,,0,0
+2012-08-17,Butler County,Logan County,27,13,0,,0,0
+2012-08-17,Calloway County,Caldwell County,34,31,0,,0,0
+2012-08-17,Carroll County,Pendleton County,61,22,1,,0,0
+2012-08-17,Central,DuPont Manual,29,7,1,,0,0
+2012-08-17,Christian County,Madisonville-North Hopkins,42,28,1,,0,0
+2012-08-17,Collins,Meade County,21,14,0,,0,0
+2012-08-17,Cooper,Ryle,35,6,1,,0,0
+2012-08-17,Corbin,George Rogers Clark,13,12,1,,0,0
+2012-08-17,Edmonson County,McLean County,55,6,0,,0,0
+2012-08-17,Elizabethtown,Fort Knox,23,15,1,,0,0
+2012-08-17,Eminence,Caverna,22,0,0,,0,0
+2012-08-17,Fleming County,Bath County,33,6,1,,0,0
+2012-08-17,Frankfort,Newport,30,9,1,,0,0
+2012-08-17,Franklin County,Nelson County,62,41,0,,0,0
+2012-08-17,Gallatin County,Ludlow,44,22,1,,0,0
+2012-08-17,Garrard County,Clay County,15,14,1,,0,0
+2012-08-17,Grayson County,Hancock County,34,22,1,,0,0
+2012-08-17,Harlan,Pikeville,41,21,1,,0,0
+2012-08-17,Hart County,Breckinridge County,45,6,1,,0,0
+2012-08-17,Highlands,Boyle County,52,31,1,,0,0
+2012-08-17,Holy Cross (Covington),Dayton,69,20,1,,0,0
+2012-08-17,John Hardin,Henry Clay,44,27,0,,0,0
+2012-08-17,Kentucky Country Day,Shawnee,35,9,1,,0,0
+2012-08-17,Lafayette,Mason County,55,6,1,,0,0
+2012-08-17,Lexington Catholic,Bell County,21,7,1,,0,0
+2012-08-17,Lexington Christian,Christian Academy-Louisville,13,12,1,,0,0
+2012-08-17,Lincoln County,Casey County,35,23,1,,0,0
+2012-08-17,Lloyd Memorial,Owen County,25,21,1,,0,0
+2012-08-17,Lynn Camp,East Ridge,40,14,1,,0,0
+2012-08-17,Monroe County,Franklin-Simpson,12,0,0,,0,0
+2012-08-17,Newport Central Catholic,Dixie Heights,37,22,0,,0,0
+2012-08-17,North Laurel,Pineville,42,20,0,,0,0
+2012-08-17,Ohio County,Muhlenberg County,41,13,1,,0,0
+2012-08-17,Oldham County,Atherton,55,0,1,,0,0
+2012-08-17,Owensboro,Daviess County,28,0,1,,0,0
+2012-08-17,Owensboro Catholic,Apollo,23,12,0,,0,0
+2012-08-17,Paris,Jackson County,46,22,0,,0,0
+2012-08-17,Pike County Central,Greenup County,35,27,1,,0,0
+2012-08-17,Pleasure Ridge Park,Fairdale,57,7,0,,0,0
+2012-08-17,Prestonsburg,Perry County Central,27,24,1,,0,0
+2012-08-17,Raceland,East Carter,38,6,0,,0,0
+2012-08-17,Reidland,Fulton County,23,0,0,,0,0
+2012-08-17,Russellville,Trigg County,25,14,1,,0,0
+2012-08-17,Scott County,Seneca,46,14,1,,0,0
+2012-08-17,South Oldham,Bullitt Central,41,35,0,,0,0
+2012-08-17,Southern,Moore,39,20,0,,0,0
+2012-08-17,St. Xavier,Fern Creek,52,7,1,,0,0
+2012-08-17,Tates Creek,West Jessamine,28,9,0,,0,0
+2012-08-17,Taylor County,McCreary Central,42,12,1,,0,0
+2012-08-17,Valley,Holy Cross (Louisville),42,39,1,,0,0
+2012-08-17,Walton-Verona,Bellevue,21,6,1,,0,0
+2012-08-17,Warren Central,Mayfield,42,28,1,,0,0
+2012-08-17,Wayne County,Clinton County,52,6,0,,0,0
+2012-08-17,Webster County,Hopkins County Central,15,7,1,,0,0
+2012-08-17,Woodford County,Western Hills,49,13,1,,0,0
+2012-08-18,Bracken County,Betsy Layne,26,6,1,,0,0
+2012-08-18,Jenkins,Phelps,43,6,0,,0,0
+2012-08-18,Montgomery County,Rowan County,25,16,1,,0,0
+2012-08-18,North Oldham,Henry County,38,7,1,,0,0
+2012-08-18,Paducah Tilghman,Lone Oak,28,12,0,,0,0
+2012-08-18,Scott,Leslie County,49,7,0,,0,0
+2012-08-18,Sheldon Clark,Harrison County,28,13,0,,0,0
+2012-08-24,Adair County,Caverna,49,0,1,,0,0
+2012-08-24,Ashland Blazer,Raceland,42,19,1,,0,0
+2012-08-24,Ballard Memorial,Fulton City,35,0,1,,0,0
+2012-08-24,Bardstown,Bethlehem,49,7,1,,0,0
+2012-08-24,Bath County,West Carter,34,14,0,,0,0
+2012-08-24,Bell County,Bryan Station,32,31,0,(overtime),1,0
+2012-08-24,Bellevue,Newport,46,21,1,,0,0
+2012-08-24,Betsy Layne,South Floyd,48,28,1,,0,0
+2012-08-24,Bourbon County,Madison Southern,48,27,1,,0,0
+2012-08-24,Bracken County,Knott County Central,43,14,0,,0,0
+2012-08-24,Breathitt County,Letcher County Central,54,16,1,,0,0
+2012-08-24,Butler County,Breckinridge County,33,10,0,,0,0
+2012-08-24,Carroll County,Lewis County,33,27,0,(overtime),1,0
+2012-08-24,Conner,Boone County,31,19,0,,0,0
+2012-08-24,DeSales,Elizabethtown,63,14,0,,0,0
+2012-08-24,Doss,Seneca,28,17,0,,0,0
+2012-08-24,DuPont Manual,Fern Creek,14,7,1,,0,0
+2012-08-24,Edmonson County,Muhlenberg County,47,14,0,,0,0
+2012-08-24,Eminence,Shawnee,40,15,0,,0,0
+2012-08-24,Fleming County,Nicholas County,53,14,1,,0,0
+2012-08-24,Fort Campbell,Russellville,34,27,1,,0,0
+2012-08-24,Fort Knox,Hart County,27,6,1,,0,0
+2012-08-24,Frankfort,Rockcastle County,42,27,0,,0,0
+2012-08-24,Franklin County,Western Hills,63,0,0,,0,0
+2012-08-24,Glasgow,Bullitt Central,28,7,1,,0,0
+2012-08-24,Grayson County,Central Hardin,21,14,0,,0,0
+2012-08-24,Hancock County,Ohio County,41,6,1,,0,0
+2012-08-24,Henry County,Walton-Verona,27,24,1,,0,0
+2012-08-24,Highlands,Scott County,60,37,1,,0,0
+2012-08-24,Holmes,Scott,21,15,1,,0,0
+2012-08-24,Iroquois,Waggener,25,14,0,,0,0
+2012-08-24,Jeffersontown,Bullitt East,28,27,1,,0,0
+2012-08-24,Jenkins,Allen Central,38,16,1,,0,0
+2012-08-24,Johnson Central,Perry County Central,44,36,0,,0,0
+2012-08-24,Kentucky Country Day,Atherton,45,7,1,,0,0
+2012-08-24,Lawrence County,Jackson County,42,8,1,,0,0
+2012-08-24,Leslie County,Magoffin County,38,22,1,,0,0
+2012-08-24,Lloyd Memorial,Dayton,21,6,0,,0,0
+2012-08-24,Ludlow,Pendleton County,48,37,1,,0,0
+2012-08-24,Male,Butler,14,8,0,,0,0
+2012-08-24,Marshall County,McLean County,56,7,1,,0,0
+2012-08-24,Monroe County,Metcalfe County,48,21,0,,0,0
+2012-08-24,Montgomery County,Mason County,21,14,0,,0,0
+2012-08-24,Moore,Holy Cross (Louisville),33,28,1,,0,0
+2012-08-24,Morgan County,Boyd County,38,22,0,,0,0
+2012-08-24,North Bullitt,Southern,36,13,0,,0,0
+2012-08-24,North Oldham,Oldham County,16,10,1,,0,0
+2012-08-24,Owensboro,Apollo,21,7,1,,0,0
+2012-08-24,Owensboro Catholic,Daviess County,28,14,0,,0,0
+2012-08-24,Paris,Paintsville,20,12,0,,0,0
+2012-08-24,Pineville,McCreary Central,46,6,0,,0,0
+2012-08-24,Pleasure Ridge Park,Valley,61,0,1,,0,0
+2012-08-24,Prestonsburg,Sheldon Clark,48,40,1,,0,0
+2012-08-24,Reidland,Heath,37,35,1,,0,0
+2012-08-24,Russell,Greenup County,45,10,0,,0,0
+2012-08-24,Russell County,Whitley County,49,20,0,,0,0
+2012-08-24,Shelby County,LaRue County,28,0,1,,0,0
+2012-08-24,Simon Kenton,Beechwood,21,17,1,,0,0
+2012-08-24,Somerset,Southwestern,48,2,1,,0,0
+2012-08-24,South Warren,Logan County,36,0,1,,0,0
+2012-08-24,Spencer County,East Jessamine,17,7,0,,0,0
+2012-08-24,Taylor County,Casey County,46,18,1,,0,0
+2012-08-24,Trigg County,Todd County Central,48,14,1,(corrected score),0,0
+2012-08-24,Trimble County,Clinton County,10,8,1,,0,0
+2012-08-24,Warren Central,Franklin-Simpson,40,14,0,,0,0
+2012-08-24,Warren East,Barren County,32,0,0,,0,0
+2012-08-24,Wayne County,Estill County,54,8,1,,0,0
+2012-08-24,Williamsburg,Harlan,36,0,1,,0,0
+2012-08-24,Woodford County,Nelson County,42,27,1,,0,0
+2012-08-25,Boyle County,Collins,49,26,1,,0,0
+2012-08-25,Covington Catholic,Dixie Heights,54,0,1,,0,0
+2012-08-25,Crittenden County,Hopkins County Central,21,6,1,,0,0
+2012-08-25,Danville,Lincoln County,51,7,1,,0,0
+2012-08-25,Green County,Marion County,43,28,0,,0,0
+2012-08-25,Greenwood,North Hardin,56,33,0,,0,0
+2012-08-25,Lexington Christian,Corbin,21,14,0,,0,0
+2012-08-25,Mayfield,Madisonville-North Hopkins,63,21,1,,0,0
+2012-08-25,North Laurel,Campbellsville,40,7,1,,0,0
+2012-08-25,Owen County,Grant County,44,14,0,,0,0
+2012-08-30,Lone Oak,Marshall County,52,7,0,,0,0
+2012-08-30,Magoffin County,Paintsville,46,12,1,,0,0
+2012-08-30,Reidland,Fulton County,21,18,1,,0,0
+2012-08-31,Adair County,Clinton County,48,14,0,,0,0
+2012-08-31,Allen County-Scottsville,South Warren,15,8,1,,0,0
+2012-08-31,Anderson County,Shelby County,35,34,0,,0,0
+2012-08-31,Apollo,Daviess County,20,7,1,,0,0
+2012-08-31,Atherton,Shawnee,36,19,1,(corrected score),0,0
+2012-08-31,Ballard,Seneca,27,6,1,,0,0
+2012-08-31,Bath County,Lewis County,20,18,1,,0,0
+2012-08-31,Bell County,Middlesboro,50,6,1,,0,0
+2012-08-31,Bethlehem,Berea,30,18,1,,0,0
+2012-08-31,Bourbon County,Owen County,50,21,0,,0,0
+2012-08-31,Bowling Green,St. Xavier,38,31,1,,0,0
+2012-08-31,Boyd County,East Carter,27,7,0,,0,0
+2012-08-31,Bracken County,Bishop Brossart,13,12,1,,0,0
+2012-08-31,Breathitt County,Newport,65,29,1,,0,0
+2012-08-31,Breckinridge County,McLean County,23,6,1,,0,0
+2012-08-31,Bryan Station,West Jessamine,55,20,1,,0,0
+2012-08-31,Bullitt Central,Southern,41,0,1,,0,0
+2012-08-31,Bullitt East,Fairdale,49,26,1,,0,0
+2012-08-31,Butler,Eastern,33,30,0,,0,0
+2012-08-31,Butler County,Fort Knox,28,14,1,,0,0
+2012-08-31,Caldwell County,Ohio County,56,20,1,,0,0
+2012-08-31,Campbell County,Newport Central Catholic,42,16,1,,0,0
+2012-08-31,Carroll County,Ludlow,31,6,0,,0,0
+2012-08-31,Central,DeSales,27,14,0,,0,0
+2012-08-31,Central Hardin,Elizabethtown,51,20,0,,0,0
+2012-08-31,Clay County,Perry County Central,28,19,1,,0,0
+2012-08-31,Collins,Oldham County,28,14,1,,0,0
+2012-08-31,Conner,Holy Cross (Covington),67,21,1,,0,0
+2012-08-31,Cooper,Boone County,10,0,1,,0,0
+2012-08-31,Danville,Boyle County,28,21,0,,0,0
+2012-08-31,East Ridge,Phelps,60,28,1,,0,0
+2012-08-31,Frankfort,Green County,34,20,0,,0,0
+2012-08-31,Franklin County,Letcher County Central,77,28,1,,0,0
+2012-08-31,Gallatin County,Bellevue,52,16,0,,0,0
+2012-08-31,Garrard County,Lloyd Memorial,35,14,1,,0,0
+2012-08-31,Glasgow,Barren County,28,8,1,,0,0
+2012-08-31,Grant County,Western Hills,44,20,0,,0,0
+2012-08-31,Grayson County,Edmonson County,15,13,0,,0,0
+2012-08-31,Hancock County,Muhlenberg County,53,6,1,,0,0
+2012-08-31,Heath,Caverna,33,24,1,,0,0
+2012-08-31,Henderson County,Christian County,37,36,0,(double overtime),0,0
+2012-08-31,Henry Clay,Belfry,40,20,0,,0,0
+2012-08-31,Holmes,Beechwood,33,21,0,,0,0
+2012-08-31,Jeffersontown,Moore,47,26,0,,0,0
+2012-08-31,John Hardin,Meade County,28,10,0,,0,0
+2012-08-31,Kentucky Country Day,Waggener,60,26,0,,0,0
+2012-08-31,LaRue County,Spencer County,14,12,1,,0,0
+2012-08-31,Lawrence County,Prestonsburg,42,41,1,,0,0
+2012-08-31,Leslie County,Allen Central,37,8,0,,0,0
+2012-08-31,Lexington Catholic,Lafayette,42,7,1,,0,0
+2012-08-31,Lexington Christian,Harlan,28,25,0,,0,0
+2012-08-31,Lincoln County,Washington County,53,0,1,,0,0
+2012-08-31,Madison Central,Mercer County,19,13,1,(double overtime),0,0
+2012-08-31,Madison Southern,Lynn Camp,47,0,0,,0,0
+2012-08-31,Male,Western,28,0,0,,0,0
+2012-08-31,Mayfield,Paducah Tilghman,42,21,1,,0,0
+2012-08-31,McCreary Central,Knott County Central,34,12,1,,0,0
+2012-08-31,Metcalfe County,Hart County,33,18,0,,0,0
+2012-08-31,Montgomery County,George Rogers Clark,34,23,1,,0,0
+2012-08-31,Morgan County,Estill County,44,8,1,,0,0
+2012-08-31,Murray,Graves County,10,7,0,,0,0
+2012-08-31,Nelson County,Marion County,59,38,0,,0,0
+2012-08-31,Nicholas County,West Carter,33,22,1,,0,0
+2012-08-31,North Hardin,Madisonville-North Hopkins,21,15,1,,0,0
+2012-08-31,North Oldham,Christian Academy-Louisville,17,14,0,(overtime),1,0
+2012-08-31,Owensboro Catholic,Owensboro,20,7,1,,0,0
+2012-08-31,Paris,Trimble County,55,0,1,,0,0
+2012-08-31,Paul Laurence Dunbar,Fern Creek,20,15,0,,0,0
+2012-08-31,Pike County Central,Powell County,45,27,1,,0,0
+2012-08-31,Pleasure Ridge Park,Doss,56,16,1,,0,0
+2012-08-31,Raceland,Pikeville,54,14,1,,0,0
+2012-08-31,Rowan County,Mason County,33,19,1,,0,0
+2012-08-31,Russell County,South Laurel,62,13,1,,0,0
+2012-08-31,Russellville,Hopkins County Central,54,0,1,,0,0
+2012-08-31,Scott County,Harrison County,61,6,1,,0,0
+2012-08-31,Simon Kenton,Pulaski County,50,7,1,,0,0
+2012-08-31,South Floyd,Jenkins,50,36,1,,0,0
+2012-08-31,South Oldham,North Bullitt,26,6,0,,0,0
+2012-08-31,Tates Creek,Corbin,21,14,1,,0,0
+2012-08-31,Todd County Central,Logan County,27,16,0,,0,0
+2012-08-31,Trigg County,Crittenden County,42,21,1,,0,0
+2012-08-31,Union County,Webster County,28,13,1,,0,0
+2012-08-31,Valley,Iroquois,14,7,1,,0,0
+2012-08-31,Walton-Verona,Dayton,42,0,1,,0,0
+2012-08-31,Warren Central,Fort Campbell,58,13,0,,0,0
+2012-08-31,Warren East,Monroe County,26,18,0,,0,0
+2012-08-31,Wayne County,North Laurel,27,7,1,,0,0
+2012-08-31,Whitley County,Rockcastle County,28,0,1,,0,0
+2012-08-31,Woodford County,Henry County,42,6,1,,0,0
+2012-09-01,Sheldon Clark,Casey County,56,14,1,,0,0
+2012-09-06,Beechwood,Holy Cross (Covington),54,21,0,,0,0
+2012-09-06,North Hardin,Fairdale,42,16,0,,0,0
+2012-09-07,Adair County,Breckinridge County,49,0,1,,0,0
+2012-09-07,Ashland Blazer,Russell,47,7,1,,0,0
+2012-09-07,Bardstown,Nelson County,55,35,1,,0,0
+2012-09-07,Bath County,East Carter,28,7,1,,0,0
+2012-09-07,Belfry,Prestonsburg,53,6,1,,0,0
+2012-09-07,Bell County,Whitley County,21,14,1,,0,0
+2012-09-07,Bethlehem,Campbellsville,50,20,0,,0,0
+2012-09-07,Betsy Layne,Allen Central,51,8,1,,0,0
+2012-09-07,Bowling Green,Henderson County,21,7,0,(called in 2nd qtr due to weather),0,0
+2012-09-07,Breathitt County,Jackson County,36,14,0,,0,0
+2012-09-07,Bryan Station,George Rogers Clark,54,7,0,,0,0
+2012-09-07,Bullitt Central,Valley,74,32,0,,0,0
+2012-09-07,Butler,Central Hardin,50,22,0,,0,0
+2012-09-07,Butler County,McLean County,42,6,0,,0,0
+2012-09-07,Carroll County,Kentucky Country Day,39,29,1,,0,0
+2012-09-07,Casey County,Clinton County,52,8,1,,0,0
+2012-09-07,Central,Ballard,19,14,0,,0,0
+2012-09-07,Christian County,Lone Oak,42,41,1,,0,0
+2012-09-07,Clay County,South Laurel,38,20,0,,0,0
+2012-09-07,Cooper,Campbell County,27,16,0,,0,0
+2012-09-07,Danville,Corbin,28,21,1,,0,0
+2012-09-07,Dayton,Bishop Brossart,38,14,1,,0,0
+2012-09-07,DeSales,Holy Cross (Louisville),42,16,0,,0,0
+2012-09-07,Dixie Heights,Conner,33,31,1,,0,0
+2012-09-07,Eastern,Collins,41,29,1,,0,0
+2012-09-07,Fort Campbell,Fort Knox,65,0,0,,0,0
+2012-09-07,Franklin County,Frankfort,62,30,1,,0,0
+2012-09-07,Gallatin County,Atherton,48,36,1,,0,0
+2012-09-07,Glasgow,Allen County-Scottsville,7,6,1,,0,0
+2012-09-07,Grant County,Waggener,21,6,1,,0,0
+2012-09-07,Grayson County,Muhlenberg County,42,7,0,,0,0
+2012-09-07,Green County,LaRue County,27,21,0,,0,0
+2012-09-07,Greenwood,Franklin-Simpson,21,14,0,,0,0
+2012-09-07,Hancock County,Edmonson County,46,23,1,,0,0
+2012-09-07,Hart County,Caverna,14,0,1,,0,0
+2012-09-07,Heath,Fulton County,42,20,1,(completed on 9/10),0,0
+2012-09-07,Henry Clay,Tates Creek,43,25,0,,0,0
+2012-09-07,Henry County,Bellevue,13,6,1,,0,0
+2012-09-07,Highlands,Western,51,23,0,,0,0
+2012-09-07,Iroquois,Southern,16,8,1,,0,0
+2012-09-07,Jenkins,Paintsville,28,22,1,,0,0
+2012-09-07,John Hardin,Boyle County,34,14,0,,0,0
+2012-09-07,Lewis County,Powell County,28,7,0,,0,0
+2012-09-07,Lexington Catholic,Male,28,7,0,,0,0
+2012-09-07,Lincoln County,Garrard County,19,18,0,,0,0
+2012-09-07,Lloyd Memorial,Walton-Verona,38,33,1,,0,0
+2012-09-07,Logan County,Metcalfe County,35,12,0,,0,0
+2012-09-07,Lynn Camp,Pineville,23,14,0,,0,0
+2012-09-07,Magoffin County,West Carter,28,26,0,,0,0
+2012-09-07,Mason County,Harrison County,37,22,1,,0,0
+2012-09-07,Mayfield,Murray,38,14,0,,0,0
+2012-09-07,Mercer County,West Jessamine,31,28,1,,0,0
+2012-09-07,Middlesboro,Harlan,27,20,0,,0,0
+2012-09-07,Monroe County,Barren County,46,6,0,,0,0
+2012-09-07,Montgomery County,Letcher County Central,25,6,0,,0,0
+2012-09-07,Nicholas County,Berea,44,28,1,,0,0
+2012-09-07,North Laurel,McCreary Central,45,8,1,,0,0
+2012-09-07,North Oldham,Elizabethtown,54,0,1,,0,0
+2012-09-07,Ohio County,Hopkins County Central,37,0,1,,0,0
+2012-09-07,Owen County,Western Hills,49,20,0,,0,0
+2012-09-07,Owensboro,Lafayette,24,14,1,,0,0
+2012-09-07,Paul Laurence Dunbar,East Jessamine,28,7,1,,0,0
+2012-09-07,Perry County Central,Lawrence County,50,49,0,,0,0
+2012-09-07,Pike County Central,Shelby Valley,41,28,0,,0,0
+2012-09-07,Pleasure Ridge Park,DuPont Manual,48,34,0,,0,0
+2012-09-07,Raceland,Greenup County,59,15,1,,0,0
+2012-09-07,Rockcastle County,Estill County,46,18,1,,0,0
+2012-09-07,Rowan County,Fleming County,55,49,1,,0,0
+2012-09-07,Russell County,Pulaski County,28,14,1,,0,0
+2012-09-07,Scott,Newport,35,0,1,,0,0
+2012-09-07,Scott County,Madison Central,41,16,1,,0,0
+2012-09-07,Seneca,Fern Creek,31,13,1,,0,0
+2012-09-07,Shelby County,Jeffersontown,41,29,0,,0,0
+2012-09-07,Sheldon Clark,Pikeville,48,34,1,,0,0
+2012-09-07,Simon Kenton,Holmes,31,7,1,(called at halftime - lightning),0,0
+2012-09-07,Somerset,Hazard,17,9,1,,0,0
+2012-09-07,South Floyd,Knott County Central,54,20,1,,0,0
+2012-09-07,South Oldham,Oldham County,42,18,0,,0,0
+2012-09-07,South Warren,Russellville,20,0,1,,0,0
+2012-09-07,Southwestern,Marion County,28,21,1,,0,0
+2012-09-07,Spencer County,Bullitt East,27,0,1,,0,0
+2012-09-07,St. Xavier,Doss,58,6,1,,0,0
+2012-09-07,Trigg County,Caldwell County,38,37,0,(called with 5:42 remaining),0,0
+2012-09-07,Warren Central,Meade County,21,7,1,,0,0
+2012-09-07,Warren East,Daviess County,42,7,0,,0,0
+2012-09-07,Wayne County,Madison Southern,22,21,0,(overtime),1,0
+2012-09-07,Williamsburg,Leslie County,42,13,1,,0,0
+2012-09-08,Calloway County,Ballard Memorial,52,14,1,,0,0
+2012-09-08,Covington Catholic,Boone County,34,0,1,,0,0
+2012-09-08,Crittenden County,Union County,35,6,1,,0,0
+2012-09-08,Graves County,Paducah Tilghman,20,15,0,,0,0
+2012-09-08,Morgan County,Pendleton County,54,12,1,,0,0
+2012-09-14,Adair County,Hart County,37,16,0,,0,0
+2012-09-14,Anderson County,Mercer County,48,7,0,,0,0
+2012-09-14,Ballard,DuPont Manual,21,0,1,,0,0
+2012-09-14,Ballard Memorial,Fulton County,62,12,0,,0,0
+2012-09-14,Bardstown,Elizabethtown,55,20,0,,0,0
+2012-09-14,Bath County,Estill County,49,28,0,,0,0
+2012-09-14,Belfry,Pikeville,48,0,0,,0,0
+2012-09-14,Bellevue,Carroll County,30,8,0,,0,0
+2012-09-14,Bethlehem,Ludlow,40,0,1,,0,0
+2012-09-14,Betsy Layne,Knott County Central,33,0,0,,0,0
+2012-09-14,Bourbon County,Harrison County,51,8,0,,0,0
+2012-09-14,Bowling Green,Owensboro,31,3,0,,0,0
+2012-09-14,Boyle County,Dixie Heights,37,21,1,,0,0
+2012-09-14,Breathitt County,Somerset,24,13,0,,0,0
+2012-09-14,Bullitt Central,East Jessamine,39,23,0,,0,0
+2012-09-14,Bullitt East,Waggener,57,14,0,,0,0
+2012-09-14,Butler,Doss,35,6,1,,0,0
+2012-09-14,Caldwell County,Franklin-Simpson,49,13,0,,0,0
+2012-09-14,Caverna,Clinton County,45,6,0,,0,0
+2012-09-14,Central,Western,28,6,1,,0,0
+2012-09-14,Central Hardin,North Hardin,24,21,0,,0,0
+2012-09-14,Christian County,Fort Campbell,41,22,0,,0,0
+2012-09-14,Conner,Campbell County,35,28,0,,0,0
+2012-09-14,Cooper,Holmes,29,0,1,,0,0
+2012-09-14,Corbin,South Laurel,35,14,1,,0,0
+2012-09-14,Covington Catholic,Beechwood,41,6,0,,0,0
+2012-09-14,Danville,Southwestern,31,7,1,,0,0
+2012-09-14,Daviess County,McLean County,62,0,0,,0,0
+2012-09-14,Eastern,Seneca,21,0,0,,0,0
+2012-09-14,Fairdale,Southern,27,13,0,,0,0
+2012-09-14,Fleming County,East Carter,35,14,1,,0,0
+2012-09-14,Frankfort,Western Hills,40,12,1,,0,0
+2012-09-14,Franklin County,Scott,63,31,0,,0,0
+2012-09-14,Grant County,Greenup County,26,0,0,,0,0
+2012-09-14,Grayson County,Butler County,51,26,1,,0,0
+2012-09-14,Greenwood,Logan County,62,34,0,,0,0
+2012-09-14,Harlan,Lynn Camp,53,7,0,,0,0
+2012-09-14,Henderson County,Apollo,53,16,0,,0,0
+2012-09-14,Henry Clay,George Rogers Clark,53,36,1,,0,0
+2012-09-14,Highlands,Mason County,61,3,1,,0,0
+2012-09-14,Hopkinsville,Allen County-Scottsville,20,14,1,(overtime),1,0
+2012-09-14,Jackson County,Trimble County,18,0,0,,0,0
+2012-09-14,Kentucky Country Day,Iroquois,28,13,0,,0,0
+2012-09-14,Lafayette,Paul Laurence Dunbar,55,21,0,,0,0
+2012-09-14,Leslie County,McCreary Central,43,6,1,,0,0
+2012-09-14,Letcher County Central,Lawrence County,46,23,0,,0,0
+2012-09-14,Lexington Catholic,Madison Central,41,23,1,,0,0
+2012-09-14,Lexington Christian,Hazard,27,20,1,,0,0
+2012-09-14,Lloyd Memorial,Gallatin County,66,15,1,,0,0
+2012-09-14,Lone Oak,Reidland,64,0,1,,0,0
+2012-09-14,Madison Southern,Powell County,71,21,1,,0,0
+2012-09-14,Madisonville-North Hopkins,Union County,53,22,0,,0,0
+2012-09-14,Male,Boone County,45,14,1,,0,0
+2012-09-14,Marion County,Washington County,28,21,1,,0,0
+2012-09-14,Marshall County,Calloway County,48,27,1,,0,0
+2012-09-14,Mayfield,Graves County,56,28,0,,0,0
+2012-09-14,Meade County,Jeffersontown,32,13,1,,0,0
+2012-09-14,Monroe County,Glasgow,28,0,1,,0,0
+2012-09-14,Moore,Atherton,47,6,0,,0,0
+2012-09-14,Morgan County,South Floyd,46,0,0,,0,0
+2012-09-14,Murray,Heath,49,13,0,,0,0
+2012-09-14,Nelson County,LaRue County,31,15,1,,0,0
+2012-09-14,Newport,Dayton,20,14,1,,0,0
+2012-09-14,Nicholas County,Paris,57,20,0,,0,0
+2012-09-14,North Bullitt,Valley,50,7,1,,0,0
+2012-09-14,Ohio County,Webster County,41,7,0,,0,0
+2012-09-14,Oldham County,Holy Cross (Covington),48,21,1,,0,0
+2012-09-14,Paducah Tilghman,Crittenden County,54,0,0,,0,0
+2012-09-14,Paintsville,Allen Central,33,6,1,,0,0
+2012-09-14,Pendleton County,Bishop Brossart,35,28,1,,0,0
+2012-09-14,Perry County Central,Sheldon Clark,51,45,1,,0,0
+2012-09-14,Pleasure Ridge Park,DeSales,60,27,1,,0,0
+2012-09-14,Prestonsburg,Pike County Central,83,49,1,,0,0
+2012-09-14,Pulaski County,Rockcastle County,30,2,1,,0,0
+2012-09-14,Russell,Boyd County,35,6,1,,0,0
+2012-09-14,Russell County,North Laurel,45,35,0,,0,0
+2012-09-14,Russellville,Todd County Central,39,14,0,,0,0
+2012-09-14,Scott County,Tates Creek,71,13,0,,0,0
+2012-09-14,Shelby County,Henry County,21,0,1,,0,0
+2012-09-14,Shelby Valley,Magoffin County,52,14,0,,0,0
+2012-09-14,South Oldham,North Oldham,43,42,1,(double overtime),0,0
+2012-09-14,South Warren,Edmonson County,42,14,0,,0,0
+2012-09-14,Spencer County,Woodford County,32,7,1,,0,0
+2012-09-14,Taylor County,Breckinridge County,40,0,1,,0,0
+2012-09-14,Warren Central,Barren County,50,8,1,,0,0
+2012-09-14,Warren East,Metcalfe County,47,6,1,,0,0
+2012-09-14,Wayne County,Lincoln County,37,19,1,,0,0
+2012-09-14,West Jessamine,Rowan County,21,20,1,,0,0
+2012-09-14,Whitley County,Clay County,35,21,0,,0,0
+2012-09-15,Simon Kenton,Newport Central Catholic,28,20,0,,0,0
+2012-09-21,Adair County,Bethlehem,49,31,1,,0,0
+2012-09-21,Anderson County,Montgomery County,27,8,0,,0,0
+2012-09-21,Ashland Blazer,Rowan County,48,0,1,,0,0
+2012-09-21,Bardstown,Shawnee,51,7,1,,0,0
+2012-09-21,Bath County,Garrard County,21,20,1,,0,0
+2012-09-21,Beechwood,Elizabethtown,37,12,1,,0,0
+2012-09-21,Belfry,Sheldon Clark,54,6,0,,0,0
+2012-09-21,Bell County,Wayne County,21,7,1,,0,0
+2012-09-21,Bellevue,Owen County,22,14,0,,0,0
+2012-09-21,Boone County,Dixie Heights,34,13,1,,0,0
+2012-09-21,Bourbon County,Western Hills,66,8,1,,0,0
+2012-09-21,Bowling Green,Barren County,58,0,0,,0,0
+2012-09-21,Boyle County,Taylor County,53,0,1,,0,0
+2012-09-21,Breathitt County,Hazard,15,7,0,,0,0
+2012-09-21,Bryan Station,Tates Creek,56,8,1,,0,0
+2012-09-21,Bullitt Central,Henry County,21,7,1,,0,0
+2012-09-21,Butler,Fairdale,57,7,0,,0,0
+2012-09-21,Caldwell County,Ballard Memorial,56,20,0,,0,0
+2012-09-21,Campbellsville,Paris,37,30,1,,0,0
+2012-09-21,Casey County,McCreary Central,42,12,0,,0,0
+2012-09-21,Central Hardin,Bullitt East,35,31,0,,0,0
+2012-09-21,Christian Academy-Louisville,Washington County,27,3,0,,0,0
+2012-09-21,Christian County,Hopkinsville,63,14,0,,0,0
+2012-09-21,Collins,Spencer County,38,35,1,,0,0
+2012-09-21,Cooper,Scott,46,14,1,,0,0
+2012-09-21,Crittenden County,Reidland,37,0,0,,0,0
+2012-09-21,Danville,Green County,42,26,0,,0,0
+2012-09-21,Daviess County,Webster County,43,7,1,,0,0
+2012-09-21,Dayton,Bracken County,32,27,1,,0,0
+2012-09-21,DeSales,Fort Knox,49,13,1,,0,0
+2012-09-21,Doss,Valley,57,14,1,,0,0
+2012-09-21,DuPont Manual,Seneca,31,6,1,,0,0
+2012-09-21,East Jessamine,Woodford County,28,19,0,,0,0
+2012-09-21,Eastern,Male,35,21,0,,0,0
+2012-09-21,Edmonson County,Logan County,49,14,1,,0,0
+2012-09-21,Eminence,Berea,38,36,0,,0,0
+2012-09-21,Fern Creek,Southern,34,18,0,,0,0
+2012-09-21,Fleming County,Lewis County,43,0,0,,0,0
+2012-09-21,Fort Campbell,Trigg County,56,40,0,,0,0
+2012-09-21,Frankfort,Lexington Christian,43,14,1,,0,0
+2012-09-21,Franklin County,West Jessamine,42,21,1,,0,0
+2012-09-21,Gallatin County,Trimble County,48,0,1,,0,0
+2012-09-21,Graves County,Apollo,42,16,1,,0,0
+2012-09-21,Grayson County,North Hardin,35,13,0,,0,0
+2012-09-21,Hancock County,Union County,34,6,0,,0,0
+2012-09-21,Harlan,Leslie County,24,21,1,,0,0
+2012-09-21,Henderson County,Meade County,16,8,1,,0,0
+2012-09-21,Highlands,Covington Catholic,35,21,1,,0,0
+2012-09-21,Holmes,Pendleton County,64,7,0,(corrected score),0,0
+2012-09-21,Jeffersontown,Holy Cross (Louisville),41,6,0,,0,0
+2012-09-21,Jenkins,Jackson County,21,0,0,,0,0
+2012-09-21,John Hardin,Iroquois,48,0,1,,0,0
+2012-09-21,Johnson Central,Boyd County,37,6,0,,0,0
+2012-09-21,Kentucky Country Day,Breckinridge County,46,8,1,,0,0
+2012-09-21,Knox Central,Harlan County,12,6,1,,0,0
+2012-09-21,Lafayette,Henry Clay,42,21,1,,0,0
+2012-09-21,Lexington Catholic,Mercer County,34,16,0,,0,0
+2012-09-21,Lloyd Memorial,Holy Cross (Covington),36,35,0,,0,0
+2012-09-21,Lone Oak,Calloway County,54,7,1,,0,0
+2012-09-21,Madison Central,Paul Laurence Dunbar,44,20,1,,0,0
+2012-09-21,Madison Southern,Southwestern,41,12,0,,0,0
+2012-09-21,Madisonville-North Hopkins,Owensboro,13,9,1,,0,0
+2012-09-21,Magoffin County,Knott County Central,40,8,1,,0,0
+2012-09-21,Mason County,East Carter,34,21,1,,0,0
+2012-09-21,Mayfield,Marshall County,44,7,1,,0,0
+2012-09-21,Metcalfe County,Clinton County,45,14,0,,0,0
+2012-09-21,Monroe County,Hart County,63,18,1,,0,0
+2012-09-21,Morgan County,Middlesboro,28,6,1,,0,0
+2012-09-21,Muhlenberg County,Hopkins County Central,28,26,0,,0,0
+2012-09-21,Nelson County,North Bullitt,76,36,1,,0,0
+2012-09-21,Newport,Ludlow,47,8,1,,0,0
+2012-09-21,Newport Central Catholic,Bishop Brossart,58,0,0,,0,0
+2012-09-21,North Laurel,South Laurel,35,10,0,,0,0
+2012-09-21,Owensboro Catholic,Butler County,45,0,0,,0,0
+2012-09-21,Paducah Tilghman,Heath,63,0,1,,0,0
+2012-09-21,Perry County Central,Rockcastle County,40,24,0,,0,0
+2012-09-21,Pike County Central,East Ridge,35,6,1,,0,0
+2012-09-21,Pineville,Paintsville,40,15,1,,0,0
+2012-09-21,Powell County,Estill County,48,44,0,,0,0
+2012-09-21,Prestonsburg,Betsy Layne,48,24,1,,0,0
+2012-09-21,Pulaski County,Lincoln County,35,17,1,,0,0
+2012-09-21,Raceland,Lawrence County,54,14,1,,0,0
+2012-09-21,Russell,West Carter,34,6,1,,0,0
+2012-09-21,Russell County,Letcher County Central,59,14,0,,0,0
+2012-09-21,Russellville,Franklin-Simpson,26,14,1,,0,0
+2012-09-21,Scott County,George Rogers Clark,40,6,0,,0,0
+2012-09-21,Shelby County,Oldham County,33,16,0,,0,0
+2012-09-21,Shelby Valley,South Floyd,52,16,0,,0,0
+2012-09-21,Simon Kenton,Ryle,20,0,0,,0,0
+2012-09-21,Somerset,Glasgow,20,0,0,,0,0
+2012-09-21,South Oldham,Conner,63,57,0,,0,0
+2012-09-21,South Warren,Caverna,42,6,0,,0,0
+2012-09-21,St. Xavier,Central,27,13,1,,0,0
+2012-09-21,Todd County Central,McLean County,53,7,1,,0,0
+2012-09-21,Waggener,Atherton,34,22,0,,0,0
+2012-09-21,Walton-Verona,Carroll County,27,7,0,,0,0
+2012-09-21,Warren Central,Greenwood,36,0,0,,0,0
+2012-09-21,Warren East,LaRue County,38,7,1,,0,0
+2012-09-21,Western,Moore,31,6,1,,0,0
+2012-09-21,Whitley County,Lynn Camp,49,0,1,,0,0
+2012-09-21,Williamsburg,Allen Central,54,6,1,,0,0
+2012-09-27,Green County,Metcalfe County,44,0,0,,0,0
+2012-09-27,Hart County,Edmonson County,26,13,1,,0,0
+2012-09-27,Pulaski County,North Laurel,28,21,0,,0,0
+2012-09-27,Southwestern,South Laurel,42,41,0,In Overtime,0,0
+2012-09-28,Allen County-Scottsville,Breckinridge County,40,0,0,,0,0
+2012-09-28,Anderson County,Woodford County,21,7,1,,0,0
+2012-09-28,Ashland Blazer,Boyd County,56,16,1,,0,0
+2012-09-28,Bardstown,Fort Knox,40,0,1,,0,0
+2012-09-28,Bath County,Western Hills,35,14,0,,0,0
+2012-09-28,Beechwood,Dixie Heights,33,28,1,,0,0
+2012-09-28,Belfry,East Ridge,51,0,1,,0,0
+2012-09-28,Bell County,Casey County,54,13,0,,0,0
+2012-09-28,Berea,Paris,42,6,0,,0,0
+2012-09-28,Betsy Layne,Paintsville,20,14,0,,0,0
+2012-09-28,Bourbon County,Estill County,64,14,1,,0,0
+2012-09-28,Bowling Green,Logan County,62,0,1,,0,0
+2012-09-28,Bracken County,South Floyd,27,6,1,,0,0
+2012-09-28,Breathitt County,Magoffin County,39,8,1,,0,0
+2012-09-28,Bullitt Central,North Bullitt,7,6,0,,0,0
+2012-09-28,Butler,DuPont Manual,34,17,1,,0,0
+2012-09-28,Caldwell County,Reidland,56,7,1,,0,0
+2012-09-28,Calloway County,Hopkins County Central,48,0,0,,0,0
+2012-09-28,Campbell County,Simon Kenton,29,28,0,,0,0
+2012-09-28,Carroll County,Gallatin County,57,27,0,,0,0
+2012-09-28,Christian Academy-Louisville,Shawnee,51,7,1,,0,0
+2012-09-28,Christian County,Ohio County,57,17,1,,0,0
+2012-09-28,Collins,Shelby County,34,33,1,,0,0
+2012-09-28,Conner,Cooper,38,21,1,,0,0
+2012-09-28,DeSales,Washington County,41,6,1,,0,0
+2012-09-28,Eminence,Trimble County,40,6,1,,0,0
+2012-09-28,Fairdale,Moore,42,40,0,,0,0
+2012-09-28,Fort Campbell,Paducah Tilghman,43,14,1,,0,0
+2012-09-28,Franklin County,East Jessamine,35,22,0,,0,0
+2012-09-28,Garrard County,Powell County,28,14,0,,0,0
+2012-09-28,Glasgow,Clinton County,62,0,0,,0,0
+2012-09-28,Graves County,Muhlenberg County,62,19,0,,0,0
+2012-09-28,Grayson County,Iroquois,44,0,1,,0,0
+2012-09-28,Greenwood,Barren County,47,8,1,,0,0
+2012-09-28,Hancock County,McLean County,53,0,1,,0,0
+2012-09-28,Harlan County,George Rogers Clark,23,14,1,,0,0
+2012-09-28,Hazard,Prestonsburg,38,20,1,,0,0
+2012-09-28,Highlands,Harrison County,69,10,0,,0,0
+2012-09-28,Holmes,Newport Central Catholic,12,7,1,,0,0
+2012-09-28,Holy Cross (Covington),Newport,42,13,0,,0,0
+2012-09-28,Hopkinsville,Apollo,48,27,0,,0,0
+2012-09-28,Jeffersontown,North Hardin,41,36,1,,0,0
+2012-09-28,John Hardin,Central Hardin,48,0,0,,0,0
+2012-09-28,Knott County Central,Jenkins,28,21,1,,0,0
+2012-09-28,Knox Central,Clay County,42,6,0,,0,0
+2012-09-28,Lafayette,Bryan Station,33,29,1,,0,0
+2012-09-28,Lawrence County,Sheldon Clark,39,33,0,,0,0
+2012-09-28,Lexington Catholic,Boyle County,24,21,1,,0,0
+2012-09-28,Lloyd Memorial,Bishop Brossart,28,0,1,,0,0
+2012-09-28,Madison Central,Henry Clay,44,24,0,,0,0
+2012-09-28,Madison Southern,Lincoln County,47,19,0,,0,0
+2012-09-28,Marion County,Taylor County,21,15,0,,0,0
+2012-09-28,Marshall County,Crittenden County,15,2,1,,0,0
+2012-09-28,Mason County,Lewis County,32,8,1,,0,0
+2012-09-28,Mayfield,Fulton City,66,0,0,,0,0
+2012-09-28,Mercer County,Nelson County,48,28,1,,0,0
+2012-09-28,Middlesboro,Shelby Valley,54,0,0,,0,0
+2012-09-28,Monroe County,Adair County,23,6,0,,0,0
+2012-09-28,Morgan County,Jackson County,44,0,1,,0,0
+2012-09-28,Murray,Ballard Memorial,49,7,1,,0,0
+2012-09-28,Nicholas County,Ludlow,56,6,1,,0,0
+2012-09-28,North Oldham,Waggener,47,24,1,,0,0
+2012-09-28,Owensboro,Lone Oak,45,31,1,,0,0
+2012-09-28,Owensboro Catholic,Todd County Central,51,17,1,,0,0
+2012-09-28,Pineville,Allen Central,44,0,0,,0,0
+2012-09-28,Pleasure Ridge Park,Fern Creek,35,7,0,,0,0
+2012-09-28,Rowan County,Greenup County,24,10,0,,0,0
+2012-09-28,Russell,Fleming County,35,6,0,,0,0
+2012-09-28,Russell County,Rockcastle County,37,0,1,,0,0
+2012-09-28,Russellville,Fulton County,65,20,0,,0,0
+2012-09-28,Ryle,Boone County,14,0,0,,0,0
+2012-09-28,South Oldham,Grant County,55,6,0,,0,0
+2012-09-28,Spencer County,Atherton,49,0,1,,0,0
+2012-09-28,Tates Creek,Paul Laurence Dunbar,34,16,0,,0,0
+2012-09-28,Trigg County,Webster County,35,0,0,,0,0
+2012-09-28,Union County,Butler County,49,35,0,,0,0
+2012-09-28,Walton-Verona,Owen County,21,14,0,,0,0
+2012-09-28,Warren Central,Ballard,34,17,1,,0,0
+2012-09-28,Warren East,Franklin-Simpson,43,0,1,,0,0
+2012-09-28,Wayne County,Corbin,26,23,0,,0,0
+2012-09-28,West Jessamine,Montgomery County,27,21,1,,0,0
+2012-09-28,Western,Valley,33,27,0,,0,0
+2012-09-28,Whitley County,Somerset,14,7,0,,0,0
+2012-09-29,Covington Catholic,Pendleton County,70,0,1,,0,0
+2012-09-29,East Carter,West Carter,27,22,0,,0,0
+2012-10-04,Ballard,Eastern,42,21,0,,0,0
+2012-10-04,Butler,Southern,50,0,1,,0,0
+2012-10-04,Corbin,McCreary Central,64,6,0,,0,0
+2012-10-04,DeSales,Shawnee,54,12,0,,0,0
+2012-10-04,Doss,Fairdale,40,20,1,,0,0
+2012-10-04,Fleming County,West Carter,18,7,0,,0,0
+2012-10-04,Monroe County,South Warren,41,0,0,,0,0
+2012-10-04,Morgan County,Knott County Central,42,0,0,,0,0
+2012-10-04,Pleasure Ridge Park,Seneca,53,18,0,,0,0
+2012-10-04,Valley,Moore,41,7,1,,0,0
+2012-10-05,Allen Central,Phelps,22,20,1,,0,0
+2012-10-05,Anderson County,West Jessamine,41,39,0,,0,0
+2012-10-05,Ashland Blazer,Belfry,35,20,1,,0,0
+2012-10-05,Ballard Memorial,Reidland,35,7,1,,0,0
+2012-10-05,Bath County,Powell County,36,35,1,,0,0
+2012-10-05,Beechwood,Bellevue,49,20,1,,0,0
+2012-10-05,Bell County,Clay County,39,0,1,,0,0
+2012-10-05,Bethlehem,Caverna,45,13,0,,0,0
+2012-10-05,Bourbon County,Garrard County,28,8,0,,0,0
+2012-10-05,Bryan Station,Paul Laurence Dunbar,42,17,0,,0,0
+2012-10-05,Bullitt Central,Bullitt East,28,21,1,,0,0
+2012-10-05,Butler County,Todd County Central,25,23,0,,0,0
+2012-10-05,Campbell County,Dixie Heights,36,32,0,,0,0
+2012-10-05,Central,Elizabethtown,55,0,1,,0,0
+2012-10-05,Central Hardin,Western,27,6,1,,0,0
+2012-10-05,Christian Academy-Louisville,Bardstown,41,6,1,,0,0
+2012-10-05,Christian County,Apollo,63,15,1,,0,0
+2012-10-05,Collins,North Oldham,36,20,0,,0,0
+2012-10-05,Conner,Ryle,27,21,1,,0,0
+2012-10-05,Cooper,South Oldham,21,14,0,,0,0
+2012-10-05,Dayton,Ludlow,48,19,0,,0,0
+2012-10-05,Eminence,Bracken County,18,13,1,,0,0
+2012-10-05,Frankfort,Paris,38,0,0,,0,0
+2012-10-05,Franklin County,Woodford County,76,55,1,,0,0
+2012-10-05,Graves County,Ohio County,58,28,1,,0,0
+2012-10-05,Harlan County,Letcher County Central,49,0,0,,0,0
+2012-10-05,Hazard,Harlan,56,19,1,,0,0
+2012-10-05,Heath,Webster County,28,6,1,,0,0
+2012-10-05,Henderson County,Daviess County,55,21,0,,0,0
+2012-10-05,Highlands,Pendleton County,70,0,1,,0,0
+2012-10-05,Holmes,Harrison County,14,0,0,,0,0
+2012-10-05,John Hardin,Jeffersontown,34,8,1,,0,0
+2012-10-05,Johnson Central,Greenup County,59,12,1,,0,0
+2012-10-05,Kentucky Country Day,Holy Cross (Louisville),22,7,1,,0,0
+2012-10-05,LaRue County,Henry County,42,15,0,,0,0
+2012-10-05,Lafayette,George Rogers Clark,35,13,0,,0,0
+2012-10-05,Leslie County,Betsy Layne,26,19,0,,0,0
+2012-10-05,Lewis County,East Carter,25,7,0,,0,0
+2012-10-05,Lexington Catholic,Taylor County,56,14,0,,0,0
+2012-10-05,Lexington Christian,Middlesboro,42,14,1,,0,0
+2012-10-05,Lincoln County,South Laurel,63,20,1,,0,0
+2012-10-05,Lynn Camp,Berea,28,26,1,,0,0
+2012-10-05,Madison Central,Tates Creek,45,38,1,,0,0
+2012-10-05,Madisonville-North Hopkins,Hopkins County Central,66,0,0,,0,0
+2012-10-05,Magoffin County,Jackson County,38,16,0,,0,0
+2012-10-05,Marshall County,Muhlenberg County,20,16,1,,0,0
+2012-10-05,Mason County,Russell,32,28,0,,0,0
+2012-10-05,Meade County,Nelson County,43,7,1,,0,0
+2012-10-05,Mercer County,Marion County,55,0,0,,0,0
+2012-10-05,Montgomery County,East Jessamine,28,23,1,,0,0
+2012-10-05,Murray,Crittenden County,41,0,0,,0,0
+2012-10-05,Newport,Bishop Brossart,54,8,1,,0,0
+2012-10-05,North Hardin,Iroquois,41,0,0,,0,0
+2012-10-05,North Laurel,Southwestern,17,7,1,,0,0
+2012-10-05,Oldham County,Fern Creek,37,6,0,,0,0
+2012-10-05,Owen County,Trimble County,57,6,0,,0,0
+2012-10-05,Owensboro,Calloway County,20,0,0,,0,0
+2012-10-05,Owensboro Catholic,Hancock County,31,12,1,,0,0
+2012-10-05,Paducah Tilghman,Trigg County,21,6,0,,0,0
+2012-10-05,Pike County Central,Lawrence County,29,14,0,,0,0
+2012-10-05,Pikeville,South Floyd,56,20,0,,0,0
+2012-10-05,Pineville,Jenkins,52,0,0,,0,0
+2012-10-05,Prestonsburg,Shelby Valley,56,7,0,,0,0
+2012-10-05,Pulaski County,Madison Southern,37,36,0,,0,0
+2012-10-05,Raceland,Nicholas County,60,12,0,,0,0
+2012-10-05,Rowan County,Boyd County,28,25,1,,0,0
+2012-10-05,Scott,Grant County,41,0,1,,0,0
+2012-10-05,Scott County,Henry Clay,69,34,1,,0,0
+2012-10-05,Shelby County,North Bullitt,49,0,1,,0,0
+2012-10-05,Sheldon Clark,East Ridge,58,26,0,,0,0
+2012-10-05,Simon Kenton,Boone County,38,20,1,,0,0
+2012-10-05,Somerset,Danville,24,7,0,,0,0
+2012-10-05,Spencer County,Waggener,55,22,0,,0,0
+2012-10-05,St. Xavier,Male,41,0,0,,0,0
+2012-10-05,Trinity (Louisville),DuPont Manual,55,27,0,,0,0
+2012-10-05,Union County,McLean County,39,14,0,,0,0
+2012-10-05,Walton-Verona,Gallatin County,42,6,1,,0,0
+2012-10-05,Washington County,Fort Knox,41,6,0,,0,0
+2012-10-05,Wayne County,Casey County,48,7,1,,0,0
+2012-10-05,Western Hills,Estill County,47,35,0,,0,0
+2012-10-05,Whitley County,Perry County Central,47,28,1,,0,0
+2012-10-05,Williamsburg,Campbellsville,48,0,1,,0,0
+2012-10-06,Newport Central Catholic,Lloyd Memorial,63,22,1,,0,0
+2012-10-11,Dixie Heights,Simon Kenton,21,15,1,,0,0
+2012-10-11,Hazard,Jenkins,42,14,0,,0,0
+2012-10-11,Knott County Central,Jackson County,20,16,1,,0,0
+2012-10-11,Paul Laurence Dunbar,Henry Clay,22,19,0,,0,0
+2012-10-11,Wayne County,McCreary Central,62,8,1,,0,0
+2012-10-12,Adair County,Edmonson County,42,21,0,,0,0
+2012-10-12,Ashland Blazer,Greenup County,56,8,0,,0,0
+2012-10-12,Ballard,Fern Creek,13,12,1,,0,0
+2012-10-12,Ballard Memorial,Crittenden County,7,6,0,,0,0
+2012-10-12,Bardstown,Washington County,22,6,0,,0,0
+2012-10-12,Beechwood,Dayton,54,20,0,,0,0
+2012-10-12,Belfry,Lawrence County,41,6,0,,0,0
+2012-10-12,Bell County,Corbin,34,0,0,,0,0
+2012-10-12,Bellevue,Ludlow,52,0,1,,0,0
+2012-10-12,Bourbon County,Powell County,70,7,1,,0,0
+2012-10-12,Bowling Green,Warren Central,24,0,0,,0,0
+2012-10-12,Boyd County,Magoffin County,35,8,0,,0,0
+2012-10-12,Boyle County,Marion County,63,0,0,,0,0
+2012-10-12,Breathitt County,Morgan County,27,12,0,,0,0
+2012-10-12,Bullitt East,North Bullitt,28,0,1,,0,0
+2012-10-12,Caldwell County,Murray,24,21,0,,0,0
+2012-10-12,Campbell County,Ryle,51,20,1,,0,0
+2012-10-12,Campbellsville,Lynn Camp,48,6,1,,0,0
+2012-10-12,Casey County,Metcalfe County,14,6,1,,0,0
+2012-10-12,Central,Henry County,35,0,0,,0,0
+2012-10-12,Christian Academy-Louisville,DeSales,30,21,0,,0,0
+2012-10-12,Collins,Waggener,58,0,0,,0,0
+2012-10-12,Conner,Grant County,42,6,0,,0,0
+2012-10-12,Danville,Middlesboro,28,19,0,,0,0
+2012-10-12,Daviess County,Muhlenberg County,57,0,0,,0,0
+2012-10-12,Doss,Moore,40,20,1,,0,0
+2012-10-12,East Jessamine,West Jessamine,47,29,1,,0,0
+2012-10-12,Eastern,Oldham County,51,7,1,,0,0
+2012-10-12,Fort Campbell,Webster County,62,13,0,,0,0
+2012-10-12,Frankfort,Bracken County,66,0,0,,0,0
+2012-10-12,Franklin County,Anderson County,56,52,1,,0,0
+2012-10-12,Franklin-Simpson,Breckinridge County,69,0,1,,0,0
+2012-10-12,Garrard County,Western Hills,48,0,0,,0,0
+2012-10-12,Glasgow,Green County,25,16,1,,0,0
+2012-10-12,Graves County,Christian County,42,37,0,,0,0
+2012-10-12,Greenwood,Apollo,45,6,1,,0,0
+2012-10-12,Hancock County,Todd County Central,58,26,1,,0,0
+2012-10-12,Harlan,Pineville,33,26,1,,0,0
+2012-10-12,Harlan County,Whitley County,40,13,1,,0,0
+2012-10-12,Henderson County,Marshall County,35,6,0,,0,0
+2012-10-12,Highlands,Holmes,57,28,0,,0,0
+2012-10-12,Holy Cross (Covington),Bishop Brossart,59,9,0,,0,0
+2012-10-12,Holy Cross (Louisville),Caverna,35,0,1,,0,0
+2012-10-12,Hopkinsville,Ohio County,65,47,0,,0,0
+2012-10-12,Jeffersontown,Grayson County,22,21,1,,0,0
+2012-10-12,John Hardin,North Hardin,53,13,1,,0,0
+2012-10-12,Johnson Central,Rowan County,58,14,0,,0,0
+2012-10-12,Kentucky Country Day,Bethlehem,55,13,1,,0,0
+2012-10-12,Knox Central,Rockcastle County,47,14,0,,0,0
+2012-10-12,LaRue County,Elizabethtown,33,6,1,,0,0
+2012-10-12,Lafayette,Madison Central,21,0,1,,0,0
+2012-10-12,Leslie County,Shelby Valley,54,29,1,,0,0
+2012-10-12,Lincoln County,Southwestern,24,14,0,,0,0
+2012-10-12,Logan County,Barren County,21,20,0,,0,0
+2012-10-12,Lone Oak,Hopkins County Central,62,0,1,,0,0
+2012-10-12,Madison Southern,North Laurel,26,10,1,,0,0
+2012-10-12,Madisonville-North Hopkins,Calloway County,50,17,0,,0,0
+2012-10-12,Mason County,West Carter,49,0,1,,0,0
+2012-10-12,Mayfield,Fulton County,60,14,1,,0,0
+2012-10-12,Meade County,Central Hardin,34,14,0,,0,0
+2012-10-12,Mercer County,Taylor County,72,31,1,,0,0
+2012-10-12,Montgomery County,Woodford County,31,21,0,,0,0
+2012-10-12,Newport Central Catholic,Newport,49,0,0,,0,0
+2012-10-12,Nicholas County,Paintsville,54,46,0,,0,0
+2012-10-12,North Oldham,Atherton,53,7,0,,0,0
+2012-10-12,Owen County,Carroll County,59,41,0,,0,0
+2012-10-12,Owensboro Catholic,Union County,52,25,0,,0,0
+2012-10-12,Paris,Eminence,42,38,0,,0,0
+2012-10-12,Perry County Central,Letcher County Central,41,22,1,,0,0
+2012-10-12,Pike County Central,Sheldon Clark,39,24,1,,0,0
+2012-10-12,Pikeville,Phelps,54,8,1,,0,0
+2012-10-12,Pleasure Ridge Park,Butler,40,27,1,,0,0
+2012-10-12,Pulaski County,South Laurel,34,9,1,,0,0
+2012-10-12,Russell,Lewis County,33,18,0,,0,0
+2012-10-12,Russell County,Clay County,56,14,0,,0,0
+2012-10-12,Scott County,Bryan Station,40,20,0,,0,0
+2012-10-12,Seneca,Southern,21,19,0,,0,0
+2012-10-12,Shawnee,Fort Knox,27,20,1,,0,0
+2012-10-12,Shelby County,Bullitt Central,38,18,1,,0,0
+2012-10-12,Somerset,Lexington Christian,12,9,1,,0,0
+2012-10-12,South Floyd,Allen Central,59,26,1,,0,0
+2012-10-12,South Oldham,Scott,47,21,1,,0,0
+2012-10-12,South Warren,Hart County,50,0,1,,0,0
+2012-10-12,St. Xavier,DuPont Manual,55,13,1,,0,0
+2012-10-12,Tates Creek,George Rogers Clark,46,39,1,,0,0
+2012-10-12,Trigg County,Heath,48,27,0,,0,0
+2012-10-12,Trinity (Louisville),Male,38,7,1,,0,0
+2012-10-12,Walton-Verona,Trimble County,62,7,1,,0,0
+2012-10-12,Warren East,Allen County-Scottsville,53,20,0,,0,0
+2012-10-12,Western,Fairdale,25,19,0,,0,0
+2012-10-12,Williamsburg,Berea,47,12,0,,0,0
+2012-10-13,Covington Catholic,Harrison County,61,0,1,,0,0
+2012-10-13,Russellville,Fulton City,60,0,1,,0,0
+2012-10-18,Bell County,McCreary Central,67,0,1,,0,0
+2012-10-18,Newport Central Catholic,Holy Cross (Covington),49,10,0,,0,0
+2012-10-19,Allen County-Scottsville,Franklin-Simpson,27,14,1,,0,0
+2012-10-19,Anderson County,East Jessamine,63,19,1,,0,0
+2012-10-19,Apollo,Ohio County,58,14,0,,0,0
+2012-10-19,Ballard,Oldham County,21,14,0,,0,0
+2012-10-19,Bardstown,DeSales,27,16,1,,0,0
+2012-10-19,Beechwood,Ludlow,61,0,0,,0,0
+2012-10-19,Belfry,Pike County Central,48,12,1,,0,0
+2012-10-19,Bellevue,Dayton,58,8,1,,0,0
+2012-10-19,Betsy Layne,Shelby Valley,40,14,1,,0,0
+2012-10-19,Bourbon County,Bath County,28,27,1,(double overtime),0,0
+2012-10-19,Bowling Green,Greenwood,53,0,1,,0,0
+2012-10-19,Boyd County,Greenup County,47,7,1,,0,0
+2012-10-19,Boyle County,Mercer County,59,19,1,,0,0
+2012-10-19,Breathitt County,Knott County Central,54,0,1,,0,0
+2012-10-19,Butler,Seneca,35,6,0,,0,0
+2012-10-19,Caldwell County,Crittenden County,49,0,1,,0,0
+2012-10-19,Campbell County,Boone County,48,28,1,,0,0
+2012-10-19,Campbellsville,Berea,33,6,1,,0,0
+2012-10-19,Carroll County,Trimble County,59,14,0,,0,0
+2012-10-19,Central,LaRue County,16,8,1,,0,0
+2012-10-19,Christian Academy-Louisville,Fort Knox,46,0,0,,0,0
+2012-10-19,Clay County,Rockcastle County,27,8,1,,0,0
+2012-10-19,Collins,Atherton,41,10,1,,0,0
+2012-10-19,Conner,Scott,39,32,0,,0,0
+2012-10-19,Cooper,Grant County,42,6,1,,0,0
+2012-10-19,Corbin,Casey County,57,22,0,,0,0
+2012-10-19,Covington Catholic,Holmes,49,28,0,,0,0
+2012-10-19,Danville,Lexington Christian,38,21,1,,0,0
+2012-10-19,Daviess County,Marshall County,42,9,1,,0,0
+2012-10-19,Dixie Heights,Ryle,15,14,0,(overtime),1,0
+2012-10-19,DuPont Manual,Male,24,14,0,,0,0
+2012-10-19,Eastern,Fern Creek,42,7,0,,0,0
+2012-10-19,Fairdale,Valley,18,16,1,,0,0
+2012-10-19,Fort Campbell,Heath,68,14,1,,0,0
+2012-10-19,Frankfort,Eminence,70,14,1,,0,0
+2012-10-19,Franklin County,Montgomery County,63,21,0,,0,0
+2012-10-19,Fulton County,Fulton City,42,20,1,,0,0
+2012-10-19,Garrard County,Estill County,59,6,1,,0,0
+2012-10-19,Glasgow,Metcalfe County,49,0,0,,0,0
+2012-10-19,Graves County,Hopkinsville,79,40,0,,0,0
+2012-10-19,Green County,Clinton County,65,6,1,,0,0
+2012-10-19,Hancock County,Butler County,61,12,0,,0,0
+2012-10-19,Harlan,Jenkins,56,0,1,,0,0
+2012-10-19,Harlan County,Perry County Central,55,20,0,,0,0
+2012-10-19,Harrison County,Pendleton County,28,0,0,,0,0
+2012-10-19,Hart County,Jackson County,48,14,0,,0,0
+2012-10-19,Hazard,Pineville,28,22,0,,0,0
+2012-10-19,Henderson County,Muhlenberg County,55,0,1,,0,0
+2012-10-19,Henry Clay,Bryan Station,33,31,1,,0,0
+2012-10-19,Henry County,Elizabethtown,21,7,0,,0,0
+2012-10-19,Holy Cross (Louisville),Bethlehem,41,32,0,,0,0
+2012-10-19,Jeffersontown,Iroquois,49,7,0,,0,0
+2012-10-19,John Hardin,Grayson County,36,8,0,,0,0
+2012-10-19,Johnson Central,Ashland Blazer,22,21,1,(overtime),1,0
+2012-10-19,Kentucky Country Day,Caverna,48,6,0,,0,0
+2012-10-19,Lafayette,Tates Creek,28,14,1,,0,0
+2012-10-19,Lawrence County,East Ridge,46,9,0,,0,0
+2012-10-19,Lewis County,West Carter,48,20,0,,0,0
+2012-10-19,Lexington Catholic,Marion County,55,6,1,,0,0
+2012-10-19,Lloyd Memorial,Newport,30,19,1,,0,0
+2012-10-19,Lone Oak,Madisonville-North Hopkins,27,10,0,,0,0
+2012-10-19,Madison Central,George Rogers Clark,50,18,0,,0,0
+2012-10-19,Madison Southern,South Laurel,56,0,0,,0,0
+2012-10-19,Mason County,Fleming County,34,0,0,,0,0
+2012-10-19,Mayfield,Russellville,27,7,0,,0,0
+2012-10-19,Meade County,North Hardin,45,14,1,,0,0
+2012-10-19,Monroe County,Edmonson County,60,14,1,,0,0
+2012-10-19,Moore,Waggener,54,30,1,,0,0
+2012-10-19,Morgan County,Magoffin County,22,16,0,,0,0
+2012-10-19,Murray,Reidland,62,0,0,,0,0
+2012-10-19,Nelson County,Central Hardin,28,27,1,,0,0
+2012-10-19,North Laurel,Lincoln County,35,14,0,,0,0
+2012-10-19,Owen County,Gallatin County,59,22,1,,0,0
+2012-10-19,Owensboro,Hopkins County Central,55,7,1,,0,0
+2012-10-19,Owensboro Catholic,McLean County,64,8,1,,0,0
+2012-10-19,Paducah Tilghman,Webster County,48,6,1,,0,0
+2012-10-19,Paris,Bracken County,28,26,1,,0,0
+2012-10-19,Pikeville,Allen Central,63,14,0,,0,0
+2012-10-19,Pleasure Ridge Park,Southern,56,6,0,,0,0
+2012-10-19,Powell County,Western Hills,42,26,1,,0,0
+2012-10-19,Prestonsburg,Leslie County,15,7,0,,0,0
+2012-10-19,Pulaski County,Southwestern,28,14,0,,0,0
+2012-10-19,Raceland,Paintsville,57,0,1,,0,0
+2012-10-19,Russell,East Carter,28,7,0,,0,0
+2012-10-19,Russell County,Knox Central,35,19,0,,0,0
+2012-10-19,Scott County,Paul Laurence Dunbar,68,6,1,,0,0
+2012-10-19,Shelby County,Bullitt East,42,21,0,,0,0
+2012-10-19,Somerset,Middlesboro,26,18,0,,0,0
+2012-10-19,South Floyd,Phelps,48,6,0,,0,0
+2012-10-19,South Warren,Adair County,42,23,0,,0,0
+2012-10-19,Spencer County,North Oldham,21,7,1,,0,0
+2012-10-19,Taylor County,Barren County,35,14,0,,0,0
+2012-10-19,Union County,Todd County Central,55,27,1,,0,0
+2012-10-19,Walton-Verona,Bishop Brossart,45,0,1,,0,0
+2012-10-19,Warren Central,Logan County,60,10,0,,0,0
+2012-10-19,Warren East,Breckinridge County,49,0,1,,0,0
+2012-10-19,Washington County,Shawnee,54,12,1,,0,0
+2012-10-19,West Jessamine,Woodford County,55,28,1,,0,0
+2012-10-19,Western,Doss,13,6,1,,0,0
+2012-10-19,Whitley County,Letcher County Central,55,19,0,,0,0
+2012-10-19,Williamsburg,Lynn Camp,49,6,1,,0,0
+2012-10-20,North Bullitt,Trigg County,18,15,1,,0,0
+2012-10-25,Allen Central,Knott County Central,46,32,1,,0,0
+2012-10-25,Ballard,Campbell County,35,34,1,,0,0
+2012-10-25,DeSales,Southern,34,8,0,,0,0
+2012-10-25,Graves County,Marshall County,42,14,1,,0,0
+2012-10-25,Greenwood,Central Hardin,35,34,0,,0,0
+2012-10-26,Anderson County,Marion County,28,12,1,,0,0
+2012-10-26,Ballard Memorial,Webster County,53,0,0,,0,0
+2012-10-26,Bardstown,North Oldham,22,14,0,,0,0
+2012-10-26,Bath County,Nicholas County,64,24,1,,0,0
+2012-10-26,Belfry,Johnson Central,17,12,0,,0,0
+2012-10-26,Bellevue,Lloyd Memorial,30,7,1,,0,0
+2012-10-26,Betsy Layne,Jenkins,52,16,1,,0,0
+2012-10-26,Bourbon County,Paris,48,0,1,,0,0
+2012-10-26,Bowling Green,Lexington Catholic,35,21,1,,0,0
+2012-10-26,Boyd County,West Carter,14,7,1,,0,0
+2012-10-26,Boyle County,Whitley County,38,7,0,,0,0
+2012-10-26,Breathitt County,Clay County,58,29,1,,0,0
+2012-10-26,Bryan Station,Collins,55,52,1,(overtime),1,0
+2012-10-26,Butler County,Edmonson County,26,21,1,,0,0
+2012-10-26,Calloway County,Trigg County,35,28,0,,0,0
+2012-10-26,Campbellsville,Fort Knox,37,0,0,,0,0
+2012-10-26,Carroll County,Dayton,32,14,0,,0,0
+2012-10-26,Christian County,Pulaski County,34,20,0,,0,0
+2012-10-26,Conner,Covington Catholic,13,12,1,,0,0
+2012-10-26,Cooper,Dixie Heights,36,13,1,,0,0
+2012-10-26,Corbin,Harlan,42,13,1,,0,0
+2012-10-26,Daviess County,Ohio County,48,0,0,,0,0
+2012-10-26,DuPont Manual,Moore,35,0,1,,0,0
+2012-10-26,East Carter,Morgan County,41,18,1,,0,0
+2012-10-26,Eastern,Western,21,0,1,,0,0
+2012-10-26,Eminence,Clinton County,42,8,1,,0,0
+2012-10-26,Fern Creek,Doss,9,6,0,(overtime),1,0
+2012-10-26,Fleming County,Grant County,16,0,0,,0,0
+2012-10-26,Fort Campbell,Hopkinsville,57,35,0,,0,0
+2012-10-26,Frankfort,Danville,28,14,1,,0,0
+2012-10-26,Franklin-Simpson,Apollo,18,7,0,,0,0
+2012-10-26,Gallatin County,Bethlehem,15,14,0,,0,0
+2012-10-26,Garrard County,Madison Southern,14,13,1,,0,0
+2012-10-26,George Rogers Clark,Rowan County,44,26,1,,0,0
+2012-10-26,Glasgow,Elizabethtown,47,6,0,,0,0
+2012-10-26,Grayson County,McLean County,41,0,0,,0,0
+2012-10-26,Green County,Lexington Christian,12,6,0,,0,0
+2012-10-26,Hancock County,Breckinridge County,57,13,0,,0,0
+2012-10-26,Harlan County,Bell County,40,34,1,,0,0
+2012-10-26,Hazard,Sheldon Clark,50,28,1,,0,0
+2012-10-26,Henderson County,Owensboro,49,21,1,,0,0
+2012-10-26,Highlands,Ryle,58,13,0,,0,0
+2012-10-26,Holmes,Holy Cross (Covington),50,0,1,,0,0
+2012-10-26,Iroquois,Atherton,14,9,0,,0,0
+2012-10-26,Jackson County,McCreary Central,38,14,0,,0,0
+2012-10-26,John Hardin,Boone County,34,14,0,,0,0
+2012-10-26,Kentucky Country Day,Trimble County,49,0,0,,0,0
+2012-10-26,Knox Central,Madison Central,44,36,0,(overtime),1,0
+2012-10-26,LaRue County,Washington County,49,7,1,,0,0
+2012-10-26,Letcher County Central,Greenup County,62,29,0,,0,0
+2012-10-26,Lewis County,Magoffin County,52,8,1,,0,0
+2012-10-26,Lone Oak,Heath,47,8,1,,0,0
+2012-10-26,Madisonville-North Hopkins,Crittenden County,27,7,1,,0,0
+2012-10-26,Male,Christian Academy-Louisville,21,0,0,,0,0
+2012-10-26,Mayfield,Caldwell County,48,7,1,,0,0
+2012-10-26,Meade County,Butler,15,3,0,,0,0
+2012-10-26,Mercer County,Paul Laurence Dunbar,54,14,0,(corrected score),0,0
+2012-10-26,Metcalfe County,Caverna,44,6,1,,0,0
+2012-10-26,Middlesboro,Lynn Camp,50,12,0,,0,0
+2012-10-26,Monroe County,Allen County-Scottsville,45,33,1,,0,0
+2012-10-26,Montgomery County,Rockcastle County,18,7,0,,0,0
+2012-10-26,Muhlenberg County,Barren County,38,24,1,,0,0
+2012-10-26,Murray,Fulton County,56,6,1,,0,0
+2012-10-26,Nelson County,Bullitt East,35,28,1,,0,0
+2012-10-26,Newport Central Catholic,Beechwood,34,14,1,,0,0
+2012-10-26,North Bullitt,Fairdale,50,25,1,,0,0
+2012-10-26,Oldham County,Jeffersontown,16,12,0,,0,0
+2012-10-26,Owen County,Ludlow,48,14,0,,0,0
+2012-10-26,Owensboro Catholic,North Hardin,31,13,1,,0,0
+2012-10-26,Paintsville,Berea,20,14,0,,0,0
+2012-10-26,Pendleton County,Bracken County,26,14,1,,0,0
+2012-10-26,Pikeville,Shelby Valley,48,8,0,,0,0
+2012-10-26,Pineville,Leslie County,42,12,1,,0,0
+2012-10-26,Pleasure Ridge Park,Central,15,14,1,,0,0
+2012-10-26,Prestonsburg,Pike County Central,41,18,1,,0,0
+2012-10-26,Raceland,Russell,25,14,0,,0,0
+2012-10-26,Reidland,Fulton City,35,6,1,,0,0
+2012-10-26,Russell County,Adair County,66,14,1,,0,0
+2012-10-26,Russellville,Logan County,35,7,0,,0,0
+2012-10-26,Scott,Bishop Brossart,69,8,0,,0,0
+2012-10-26,Scott County,Simon Kenton,56,6,1,,0,0
+2012-10-26,Seneca,Holy Cross (Louisville),8,7,0,,0,0
+2012-10-26,Shelby County,South Oldham,33,21,0,,0,0
+2012-10-26,Somerset,Perry County Central,28,20,1,,0,0
+2012-10-26,South Floyd,East Ridge,38,32,1,,0,0
+2012-10-26,South Warren,Todd County Central,30,6,0,,0,0
+2012-10-26,Spencer County,Henry County,21,0,0,,0,0
+2012-10-26,Taylor County,Hart County,33,28,1,,0,0
+2012-10-26,Union County,Hopkins County Central,48,13,0,,0,0
+2012-10-26,Waggener,Valley,24,14,1,,0,0
+2012-10-26,Walton-Verona,Estill County,42,7,0,,0,0
+2012-10-26,Warren Central,Southwestern,58,7,0,,0,0
+2012-10-26,Warren East,Bullitt Central,35,6,0,,0,0
+2012-10-26,Wayne County,East Jessamine,31,14,0,,0,0
+2012-10-26,Woodford County,Harrison County,38,10,0,,0,0
+2012-11-02,Beechwood,Bracken County,45,8,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Bellevue,Eminence,48,8,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Frankfort,Ludlow,78,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Harlan,Lynn Camp,53,24,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Hazard,Berea,62,18,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Holy Cross (Louisville),Fulton County,47,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Kentucky Country Day,Fulton City,62,14,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Mayfield,Caverna,56,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Nicholas County,South Floyd,35,28,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Paris,Dayton,48,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Pikeville,Paintsville,63,24,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Pineville,Campbellsville,44,22,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Raceland,Allen Central,60,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Russellville,Bethlehem,48,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Williamsburg,Jenkins,60,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Bardstown,Metcalfe County,42,19,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Caldwell County,Butler County,51,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Christian Academy-Louisville,Clinton County,47,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Danville,Betsy Layne,67,12,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,DeSales,Green County,17,6,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Glasgow,Washington County,49,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Hancock County,Ballard Memorial,55,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Holy Cross (Covington),Owen County,42,32,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Lexington Christian,Leslie County,34,26,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Lloyd Memorial,Carroll County,34,20,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Owensboro Catholic,Crittenden County,58,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Prestonsburg,Middlesboro,36,33,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Somerset,Shelby Valley,49,6,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Walton-Verona,Newport,42,7,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Belfry,Knott County Central,54,13,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Bell County,Elizabethtown,47,0,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Bourbon County,Lewis County,56,12,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Breathitt County,Sheldon Clark,59,14,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Central,Casey County,78,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Fleming County,Bath County,37,36,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Fort Campbell,Hart County,57,8,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Garrard County,Russell,12,7,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,LaRue County,Corbin,36,16,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Lawrence County,Morgan County,22,14,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Mason County,Powell County,48,21,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Monroe County,Heath,49,7,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Paducah Tilghman,Adair County,57,14,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Pike County Central,Magoffin County,24,12,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,South Warren,Trigg County,16,7,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Wayne County,Henry County,53,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Ashland Blazer,Holmes,41,14,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Boyle County,Clay County,72,20,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Collins,Fairdale,56,21,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Doss,North Oldham,36,27,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Highlands,Boyd County,56,14,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Johnson Central,Harrison County,68,14,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Knox Central,Mercer County,41,20,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Lexington Catholic,Rockcastle County,48,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Lone Oak,Franklin-Simpson,53,33,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Madisonville-North Hopkins,Allen County-Scottsville,21,6,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Nelson County,Spencer County,56,14,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Owensboro,Breckinridge County,56,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Russell County,Marion County,52,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Warren East,Calloway County,49,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Western,Waggener,59,12,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Bowling Green,Apollo,62,6,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Christian County,Greenwood,41,28,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Conner,Montgomery County,49,20,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Cooper,Anderson County,48,0,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Franklin County,Scott,48,10,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Graves County,Logan County,76,29,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Grayson County,Bullitt Central,21,12,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Harlan County,Lincoln County,52,14,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Jeffersontown,Bullitt East,17,16,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,John Hardin,North Bullitt,56,14,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Madison Southern,Perry County Central,37,36,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Pulaski County,Letcher County Central,56,22,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Shelby County,North Hardin,35,28,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,South Oldham,West Jessamine,43,32,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Warren Central,Hopkinsville,67,7,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Whitley County,North Laurel,41,20,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Ballard,Muhlenberg County,61,6,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Campbell County,Paul Laurence Dunbar,57,0,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Central Hardin,Seneca,50,22,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Eastern,Marshall County,49,7,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Henderson County,Fern Creek,38,0,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Henry Clay,Dixie Heights,57,50,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Madison Central,DuPont Manual,40,21,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Male,Lafayette,17,3,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Meade County,Southern,58,6,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Oldham County,Daviess County,27,12,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Pleasure Ridge Park,Boone County,44,20,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Scott County,Ryle,42,10,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Simon Kenton,Bryan Station,29,22,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,St. Xavier,Tates Creek,66,13,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-02,Trinity (Louisville),George Rogers Clark,56,7,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-03,Covington Catholic,Rowan County,67,3,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Beechwood,Paris,63,16,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Frankfort,Bellevue,26,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Hazard,Pineville,47,14,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Kentucky Country Day,Russellville,27,12,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Mayfield,Holy Cross (Louisville),38,14,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Pikeville,Raceland,26,20,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (overtime),1,0
+2012-11-09,Williamsburg,Harlan,34,15,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Caldwell County,Hancock County,52,25,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Danville,Prestonsburg,16,14,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,DeSales,Christian Academy-Louisville,21,16,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Glasgow,Bardstown,42,33,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Murray,Owensboro Catholic,29,22,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (double overtime),0,0
+2012-11-09,Somerset,Lexington Christian,42,19,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Walton-Verona,Lloyd Memorial,33,26,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Belfry,Lawrence County,48,6,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Bell County,LaRue County,35,14,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Bourbon County,Garrard County,49,8,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Breathitt County,Pike County Central,54,18,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Central,Wayne County,21,18,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Mason County,Fleming County,40,21,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Monroe County,Paducah Tilghman,28,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,South Warren,Fort Campbell,24,7,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Boyle County,Russell County,14,6,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Collins,Doss,49,30,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Covington Catholic,Johnson Central,45,15,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Highlands,Ashland Blazer,52,13,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Lexington Catholic,Knox Central,35,6,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Owensboro,Madisonville-North Hopkins,31,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Warren East,Lone Oak,42,9,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Western,Nelson County,46,34,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Bowling Green,Christian County,31,17,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Cooper,South Oldham,49,28,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Franklin County,Conner,62,59,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Harlan County,Madison Southern,41,24,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Jeffersontown,Shelby County,42,33,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,John Hardin,Grayson County,33,6,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Pulaski County,Whitley County,28,13,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Warren Central,Graves County,21,14,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Ballard,Oldham County,30,14,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Butler,Meade County,24,21,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Eastern,Henderson County,21,17,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Pleasure Ridge Park,Central Hardin,48,18,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Simon Kenton,Campbell County,29,21,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,St. Xavier,Male,55,14,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-09,Trinity (Louisville),Madison Central,62,8,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Beechwood,Frankfort,35,13,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Hazard,Williamsburg,7,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Mayfield,Kentucky Country Day,35,14,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Caldwell County,Murray,10,7,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,DeSales,Glasgow,10,2,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Newport Central Catholic,Walton-Verona,49,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Somerset,Danville,31,7,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Belfry,Breathitt County,41,20,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Bourbon County,Mason County,55,13,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Central,Bell County,14,10,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Monroe County,South Warren,20,10,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Collins,Western,36,20,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Highlands,Covington Catholic,28,13,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Lexington Catholic,Boyle County,27,16,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Warren East,Owensboro,14,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Bowling Green,Warren Central,35,21,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Cooper,Franklin County,40,27,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Harlan County,Pulaski County,46,12,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,John Hardin,Jeffersontown,47,0,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Eastern,Ballard,42,23,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-16,Pleasure Ridge Park,Butler,28,21,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Mayfield,Beechwood,35,14,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Caldwell County,DeSales,43,31,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Newport Central Catholic,Somerset,27,18,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Belfry,Bourbon County,35,10,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Central,Monroe County,18,13,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Collins,Warren East,58,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Highlands,Lexington Catholic,61,28,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Bowling Green,John Hardin,14,13,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Cooper,Harlan County,17,7,0,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Pleasure Ridge Park,Eastern,61,21,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2012-11-23,Trinity (Louisville),Scott County,21,14,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0

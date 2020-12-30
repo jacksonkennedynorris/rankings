@@ -26,7 +26,6 @@ for game= 1:length(Games)
     
     if Games(game).cross_region ~= 0 
         Games(game).elo_diff = R(i) - R(j);
-        Games(game)
     end
     
    

@@ -1,629 +1,1170 @@
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-2009-08-21,Bryan Station,George Rogers Clark,56,24,1,NaN,0
-2009-08-21,Central Hardin,Logan County,44,18,0,NaN,0
-2009-08-21,DeSales,Western,27,18,0,NaN,0
-2009-08-21,Dixie Heights,Newport Central Catholic,19,7,1,NaN,0
-2009-08-21,Fairview,West Carter,13,7,1,NaN,0
-2009-08-21,Grayson County,Hancock County,54,15,0,NaN,0
-2009-08-21,Highlands,DuPont Manual,19,8,0,NaN,0
-2009-08-21,Holy Cross (Covington),Bellevue,36,20,1,NaN,0
-2009-08-21,Hopkinsville,Paducah Tilghman,17,14,0,NaN,0
-2009-08-21,Kentucky Country Day,Paris,21,14,0,NaN,0
-2009-08-21,Lawrence County,Paintsville,54,20,0,NaN,0
-2009-08-21,Letcher County Central,South Laurel,34,6,1,NaN,0
-2009-08-21,Lexington Catholic,Whitley County,43,33,1,NaN,0
-2009-08-21,Lone Oak,Ballard Memorial,58,6,1,NaN,0
-2009-08-21,Male,Elizabethtown,66,14,0,NaN,0
-2009-08-21,Mason County,Danville,48,21,1,NaN,0
-2009-08-21,Monroe County,Wayne County,28,7,0,NaN,0
-2009-08-21,Murray,Madisonville-North Hopkins,21,6,1,NaN,0
-2009-08-21,Nicholas County,Bath County,22,17,0,NaN,0
-2009-08-21,North Laurel,Pulaski County,36,33,1,NaN,0
-2009-08-21,Prestonsburg,Belfry,28,21,1,NaN,0
-2009-08-21,Rowan County,Morgan County,60,6,1,NaN,0
-2009-08-21,Russell,East Carter,21,0,1,NaN,0
-2009-08-21,Spencer County,East Jessamine,35,34,1,NaN,0
-2009-08-22,Eminence,South Floyd,58,22,0,NaN,0
-2009-08-22,Glasgow,Warren East,26,14,1,NaN,0
-2009-08-22,Montgomery County,Harrison County,27,26,1,NaN,0
-2009-08-22,Woodford County,South Oldham,27,12,0,NaN,0
-2009-08-28,Ashland Blazer,Raceland,31,0,1,NaN,0
-2009-08-28,Bourbon County,Estill County,41,6,0,NaN,0
-2009-08-28,Bullitt Central,Barren County,21,7,1,NaN,0
-2009-08-28,Central Hardin,DeSales,27,24,1,NaN,0
-2009-08-28,Conner,Scott,40,7,0,NaN,0
-2009-08-28,Corbin,Harlan,42,16,0,NaN,0
-2009-08-28,Doss,North Bullitt,13,0,0,NaN,0
-2009-08-28,East Jessamine,Lincoln County,34,12,0,NaN,0
-2009-08-28,Fern Creek,DuPont Manual,31,28,1,NaN,0
-2009-08-28,Fleming County,Nicholas County,33,0,0,NaN,0
-2009-08-28,Green County,Taylor County,44,16,1,NaN,0
-2009-08-28,Greenwood,Logan County,48,6,1,NaN,0
-2009-08-28,Hancock County,Ohio County,31,27,0,NaN,0
-2009-08-28,Henry County,South Oldham,13,0,1,NaN,0
-2009-08-28,Highlands,Ryle,37,14,0,NaN,0
-2009-08-28,Hopkins County Central,Caldwell County,6,0,1,NaN,0
-2009-08-28,Kentucky Country Day,Atherton,51,14,0,NaN,0
-2009-08-28,Letcher County Central,Middlesboro,20,6,1,NaN,0
-2009-08-28,Magoffin County,South Floyd,52,22,0,NaN,0
-2009-08-28,Male,Eastern,41,18,0,NaN,0
-2009-08-28,Mason County,Montgomery County,35,14,1,NaN,0
-2009-08-28,McCreary Central,Pineville,40,24,0,NaN,0
-2009-08-28,Monroe County,Edmonson County,29,18,0,NaN,0
-2009-08-28,Prestonsburg,Paintsville,49,0,1,NaN,0
-2009-08-28,Russell County,Campbellsville,39,20,0,NaN,0
-2009-08-28,Somerset,Pulaski County,18,12,1,NaN,0
-2009-08-28,West Carter,Bath County,28,6,0,NaN,0
-2009-08-28,Whitley County,Lynn Camp,55,13,0,NaN,0
-2009-08-29,Bell County,Marion County,26,21,0,NaN,0
-2009-08-29,Bellevue,Newport,40,24,0,NaN,0
-2009-08-29,Franklin-Simpson,Metcalfe County,42,6,1,NaN,0
-2009-08-29,Holy Cross (Covington),Pikeville,32,14,0,NaN,0
-2009-08-29,North Laurel,Knox Central,28,21,1,NaN,0
-2009-08-29,Union County,Ballard Memorial,27,12,0,NaN,0
-2009-09-04,Allen County-Scottsville,McLean County,56,20,1,NaN,0
-2009-09-04,Ashland Blazer,Belfry,22,20,0,NaN,0
-2009-09-04,Bowling Green,Franklin-Simpson,51,9,0,NaN,0
-2009-09-04,Bryan Station,Tates Creek,35,18,1,NaN,0
-2009-09-04,Campbellsville,Taylor County,30,21,0,NaN,0
-2009-09-04,Carroll County,Ludlow,36,21,1,NaN,0
-2009-09-04,Central Hardin,Elizabethtown,49,7,1,NaN,0
-2009-09-04,Christian County,Henderson County,47,31,0,NaN,0
-2009-09-04,Conner,Lloyd Memorial,64,0,1,NaN,0
-2009-09-04,Cooper,Scott,28,27,0,NaN,0
-2009-09-04,Daviess County,Ohio County,29,19,0,NaN,0
-2009-09-04,East Carter,Fairview,16,13,1,NaN,0
-2009-09-04,Fleming County,Raceland,19,13,1,NaN,0
-2009-09-04,George Rogers Clark,Montgomery County,49,35,1,NaN,0
-2009-09-04,Glasgow,Barren County,35,14,0,NaN,0
-2009-09-04,Hancock County,Fort Knox,80,39,0,NaN,0
-2009-09-04,Harlan,Williamsburg,47,32,1,NaN,0
-2009-09-04,Harrison County,Paris,35,14,1,NaN,0
-2009-09-04,Heath,Ballard Memorial,43,21,1,NaN,0
-2009-09-04,Henry County,Trimble County,32,12,0,NaN,0
-2009-09-04,Highlands,Beechwood,48,20,0,NaN,0
-2009-09-04,Holmes,Bellevue,24,8,0,NaN,0
-2009-09-04,Kentucky Country Day,Eminence,29,18,1,NaN,0
-2009-09-04,Knox Central,Middlesboro,41,21,0,NaN,0
-2009-09-04,Lawrence County,Sheldon Clark,36,30,1,NaN,0
-2009-09-04,Letcher County Central,Hazard,35,21,0,NaN,0
-2009-09-04,Lewis County,Bath County,40,8,1,NaN,0
-2009-09-04,Lexington Christian,Lynn Camp,57,14,1,NaN,0
-2009-09-04,Lone Oak,Marshall County,55,0,1,NaN,0
-2009-09-04,Madisonville-North Hopkins,Union County,38,14,1,NaN,0
-2009-09-04,Male,Western,49,34,1,NaN,0
-2009-09-04,McCreary Central,Edmonson County,30,18,1,NaN,0
-2009-09-04,Metcalfe County,Hart County,28,6,1,NaN,0
-2009-09-04,Morgan County,Powell County,45,26,1,NaN,0
-2009-09-04,Murray,Fulton City,82,6,0,NaN,0
-2009-09-04,Nelson County,Marion County,31,14,0,NaN,0
-2009-09-04,North Bullitt,South Oldham,21,7,1,NaN,0
-2009-09-04,North Laurel,South Laurel,7,6,1,NaN,0
-2009-09-04,Oldham County,Fairdale,27,12,1,NaN,0
-2009-09-04,Paintsville,Magoffin County,31,28,0,NaN,0
-2009-09-04,Pulaski County,East Jessamine,35,30,1,NaN,0
-2009-09-04,Rockcastle County,Wayne County,34,0,0,NaN,0
-2009-09-04,Rowan County,Estill County,63,7,1,NaN,0
-2009-09-04,Shelby County,North Hardin,42,18,1,NaN,0
-2009-09-04,Simon Kenton,Dixie Heights,49,28,1,NaN,0
-2009-09-04,Somerset,Russell County,40,20,0,NaN,0
-2009-09-04,St. Xavier,Lexington Catholic,49,6,0,NaN,0
-2009-09-04,Trinity (Louisville),DuPont Manual,27,0,1,NaN,0
-2009-09-04,West Carter,Nicholas County,26,6,1,NaN,0
-2009-09-04,Western Hills,Washington County,59,26,0,NaN,0
-2009-09-05,Corbin,Danville,31,14,1,NaN,0
-2009-09-11,Allen Central,Harlan,30,29,1,NaN,0
-2009-09-11,Allen County-Scottsville,Glasgow,25,7,0,NaN,0
-2009-09-11,Ashland Blazer,Russell,28,7,0,NaN,0
-2009-09-11,Beechwood,Holy Cross (Covington),36,35,1,NaN,0
-2009-09-11,Belfry,Letcher County Central,24,20,0,NaN,0
-2009-09-11,Bell County,Whitley County,34,7,0,NaN,0
-2009-09-11,Bellevue,Scott,48,41,1,NaN,0
-2009-09-11,Bowling Green,Warren East,64,0,1,NaN,0
-2009-09-11,Bryan Station,Western,21,17,1,NaN,0
-2009-09-11,Caldwell County,Union County,27,20,1,NaN,0
-2009-09-11,Carroll County,Kentucky Country Day,27,10,0,NaN,0
-2009-09-11,Central Hardin,Ohio County,48,7,1,NaN,0
-2009-09-11,Clay County,South Laurel,30,13,1,NaN,0
-2009-09-11,Conner,Dixie Heights,36,20,1,NaN,0
-2009-09-11,Corbin,North Laurel,34,8,1,NaN,0
-2009-09-11,Crittenden County,McLean County,34,12,0,NaN,0
-2009-09-11,Eastern,Oldham County,22,21,0,NaN,0
-2009-09-11,Fort Campbell,Fort Knox,56,0,1,NaN,0
-2009-09-11,Franklin-Simpson,Greenwood,21,14,0,NaN,0
-2009-09-11,Graves County,Paducah Tilghman,26,21,1,NaN,0
-2009-09-11,Harrison County,Newport,20,14,0,NaN,0
-2009-09-11,Hart County,Caverna,36,0,0,NaN,0
-2009-09-11,Hazard,Paris,52,6,0,NaN,0
-2009-09-11,Henderson County,Madisonville-North Hopkins,31,23,0,NaN,0
-2009-09-11,Henry County,Owen County,50,13,1,NaN,0
-2009-09-11,Holmes,Cooper,28,21,1,NaN,0
-2009-09-11,John Hardin,North Hardin,35,0,0,NaN,0
-2009-09-11,Knox Central,Williamsburg,48,46,0,NaN,0
-2009-09-11,Lewis County,Powell County,22,8,1,NaN,0
-2009-09-11,Lloyd Memorial,Dayton,40,27,1,NaN,0
-2009-09-11,Logan County,Metcalfe County,26,6,1,NaN,0
-2009-09-11,Lone Oak,Lexington Catholic,52,49,1,NaN,0
-2009-09-11,Lynn Camp,Pineville,33,20,1,NaN,0
-2009-09-11,Magoffin County,Morgan County,24,20,0,NaN,0
-2009-09-11,Male,Central,47,35,1,NaN,0
-2009-09-11,Mason County,Bourbon County,43,14,0,NaN,0
-2009-09-11,McCreary Central,Wayne County,30,14,1,NaN,0
-2009-09-11,Monroe County,Barren County,34,14,1,NaN,0
-2009-09-11,Murray,Fulton County,43,20,0,NaN,0
-2009-09-11,Owensboro,Daviess County,47,0,0,NaN,0
-2009-09-11,Paintsville,South Floyd,51,26,1,NaN,0
-2009-09-11,Pikeville,Phelps,48,14,0,NaN,0
-2009-09-11,Prestonsburg,Bath County,49,3,1,NaN,0
-2009-09-11,Pulaski County,Russell County,50,26,1,NaN,0
-2009-09-11,Rockcastle County,Lincoln County,42,14,1,NaN,0
-2009-09-11,Rowan County,Fleming County,56,26,0,NaN,0
-2009-09-11,Somerset,Danville,48,7,1,NaN,0
-2009-09-11,Taylor County,Washington County,28,27,0,NaN,0
-2009-09-11,Warren Central,Nelson County,31,28,1,NaN,0
-2009-09-11,West Carter,East Carter,35,10,0,NaN,0
-2009-09-11,West Jessamine,Spencer County,28,14,1,NaN,0
-2009-09-11,Woodford County,North Bullitt,28,19,1,NaN,0
-2009-09-12,Ryle,Newport Central Catholic,45,0,0,NaN,0
-2009-09-17,Green County,Campbellsville,56,18,0,NaN,0
-2009-09-17,Kentucky Country Day,Fort Knox,47,21,1,NaN,0
-2009-09-18,Allen Central,Paintsville,34,14,1,NaN,0
-2009-09-18,Allen County-Scottsville,Greenwood,15,12,1,NaN,0
-2009-09-18,Anderson County,Henry County,42,7,0,NaN,0
-2009-09-18,Belfry,Whitley County,53,23,0,NaN,0
-2009-09-18,Bowling Green,Owensboro,26,21,1,NaN,0
-2009-09-18,Bullitt Central,Atherton,64,6,0,NaN,0
-2009-09-18,Campbell County,Newport Central Catholic,21,17,0,NaN,0
-2009-09-18,Christian County,Hopkinsville,19,0,1,NaN,0
-2009-09-18,Clay County,Knox Central,27,7,1,NaN,0
-2009-09-18,Conner,Holy Cross (Covington),30,14,0,NaN,0
-2009-09-18,Corbin,South Laurel,21,0,0,NaN,0
-2009-09-18,Daviess County,McLean County,42,0,1,NaN,0
-2009-09-18,DuPont Manual,Central,45,28,1,NaN,0
-2009-09-18,Fairview,Lewis County,26,0,1,NaN,0
-2009-09-18,Fern Creek,Eastern,54,28,0,NaN,0
-2009-09-18,Fort Campbell,Paducah Tilghman,53,7,1,NaN,0
-2009-09-18,Grayson County,Barren County,38,6,1,NaN,0
-2009-09-18,Hazard,Williamsburg,63,8,1,NaN,0
-2009-09-18,Highlands,Boone County,36,14,1,NaN,0
-2009-09-18,Holmes,Bourbon County,47,21,0,NaN,0
-2009-09-18,John Hardin,Nelson County,35,7,0,NaN,0
-2009-09-18,Lawrence County,Shelby Valley,49,14,1,NaN,0
-2009-09-18,Lloyd Memorial,Cooper,36,35,1,NaN,0
-2009-09-18,Lone Oak,Caldwell County,56,19,1,NaN,0
-2009-09-18,Lynn Camp,Harlan,21,15,1,NaN,0
-2009-09-18,Magoffin County,Betsy Layne,46,6,1,NaN,0
-2009-09-18,Marion County,Taylor County,67,0,0,NaN,0
-2009-09-18,Mason County,Rowan County,28,26,1,NaN,0
-2009-09-18,Monroe County,Logan County,49,23,1,NaN,0
-2009-09-18,Murray,Ballard Memorial,59,40,0,NaN,0
-2009-09-18,Newport,Dayton,56,6,0,NaN,0
-2009-09-18,Owen County,Trimble County,30,14,1,NaN,0
-2009-09-18,Prestonsburg,Pikeville,56,7,0,NaN,0
-2009-09-18,Pulaski County,Rockcastle County,47,41,0,NaN,0
-2009-09-18,Raceland,East Carter,46,10,1,NaN,0
-2009-09-18,Russell County,Wayne County,50,34,1,NaN,0
-2009-09-18,Ryle,Dixie Heights,42,28,0,NaN,0
-2009-09-18,Scott,Harrison County,36,30,0,NaN,0
-2009-09-18,Somerset,Estill County,27,14,0,NaN,0
-2009-09-18,Southwestern,Danville,43,27,0,NaN,0
-2009-09-18,St. Xavier,Male,62,21,1,NaN,0
-2009-09-18,Union County,Ohio County,49,0,1,NaN,0
-2009-09-18,Warren Central,Warren East,50,7,0,NaN,0
-2009-09-18,Washington County,Lincoln County,48,24,0,NaN,0
-2009-09-18,West Jessamine,Paris,41,0,1,NaN,0
-2009-09-18,Western,Jeffersontown,27,16,1,NaN,0
-2009-09-18,Woodford County,Fleming County,37,24,1,NaN,0
-2009-09-25,Ballard Memorial,Fulton City,64,22,1,NaN,0
-2009-09-25,Barren County,Pulaski County,35,34,1,NaN,0
-2009-09-25,Beechwood,Dayton,49,7,1,NaN,0
-2009-09-25,Bell County,Rockcastle County,42,6,1,NaN,1
-2009-09-25,Boone County,Campbell County,49,12,1,NaN,0
-2009-09-25,Bourbon County,Owen County,28,7,1,NaN,0
-2009-09-25,Boyle County,Danville,49,9,0,NaN,0
-2009-09-25,Campbellsville,Lynn Camp,12,6,0,NaN,1
-2009-09-25,Central Hardin,North Hardin,19,6,1,NaN,0
-2009-09-25,Christian County,Madisonville-North Hopkins,7,6,0,NaN,0
-2009-09-25,Corbin,Hazard,27,7,1,NaN,0
-2009-09-25,Crittenden County,Caldwell County,26,14,1,NaN,0
-2009-09-25,Dixie Heights,Scott,44,0,0,NaN,0
-2009-09-25,Estill County,Newport,24,20,0,NaN,0
-2009-09-25,Fairview,Paris,45,22,0,NaN,0
-2009-09-25,Fleming County,Lewis County,33,8,1,NaN,0
-2009-09-25,Fort Campbell,Warren Central,49,7,0,NaN,0
-2009-09-25,Franklin-Simpson,Russell County,45,20,0,NaN,0
-2009-09-25,Green County,Glasgow,34,14,1,NaN,0
-2009-09-25,Henderson County,Daviess County,9,0,1,NaN,0
-2009-09-25,Jeffersontown,South Oldham,34,0,1,NaN,0
-2009-09-25,John Hardin,Doss,52,8,1,NaN,0
-2009-09-25,Knox Central,McCreary Central,34,6,1,NaN,0
-2009-09-25,Lawrence County,East Carter,39,0,0,NaN,0
-2009-09-25,Letcher County Central,Perry County Central,35,32,1,NaN,0
-2009-09-25,Lexington Catholic,Lexington Christian,27,26,0,NaN,0
-2009-09-25,Lloyd Memorial,Montgomery County,20,14,0,NaN,0
-2009-09-25,Logan County,Warren East,35,20,0,NaN,0
-2009-09-25,Lone Oak,Graves County,17,7,0,NaN,0
-2009-09-25,Marion County,Washington County,52,7,0,NaN,0
-2009-09-25,Mason County,Harrison County,30,16,0,NaN,0
-2009-09-25,Monroe County,Metcalfe County,21,6,0,NaN,0
-2009-09-25,North Laurel,Clay County,33,8,1,NaN,0
-2009-09-25,Owensboro,Ohio County,63,0,1,NaN,0
-2009-09-25,Phelps,Betsy Layne,14,8,1,NaN,0
-2009-09-25,Pikeville,Allen Central,34,24,1,NaN,0
-2009-09-25,Pineville,Paintsville,38,21,1,NaN,0
-2009-09-25,Prestonsburg,Sheldon Clark,24,19,0,NaN,0
-2009-09-25,Raceland,Nicholas County,32,14,1,NaN,0
-2009-09-25,Russell,West Carter,14,12,0,NaN,0
-2009-09-25,Ryle,Cooper,56,13,1,NaN,0
-2009-09-25,Shelby County,Nelson County,20,16,0,NaN,0
-2009-09-25,Shelby Valley,Bath County,49,0,0,NaN,0
-2009-09-25,Simon Kenton,Conner,56,14,1,NaN,0
-2009-09-25,Southwestern,Lincoln County,36,7,0,NaN,0
-2009-09-25,St. Xavier,Central,36,14,0,NaN,0
-2009-09-25,Tates Creek,North Bullitt,29,7,0,NaN,0
-2009-09-25,Trinity (Louisville),Bowling Green,9,0,1,NaN,0
-2009-09-25,Western Hills,East Jessamine,8,0,0,NaN,0
-2009-09-25,Whitley County,Harlan County,36,8,1,NaN,0
-2009-10-01,Western,Fairdale,48,28,0,NaN,0
-2009-10-02,Allen County-Scottsville,Warren East,42,6,0,NaN,0
-2009-10-02,Anderson County,Jeffersontown,35,20,1,NaN,0
-2009-10-02,Belfry,Pikeville,54,20,1,NaN,0
-2009-10-02,Bell County,Knox Central,34,6,1,NaN,0
-2009-10-02,Bowling Green,Grayson County,42,14,1,NaN,0
-2009-10-02,Bullitt Central,Doss,41,24,1,NaN,0
-2009-10-02,Christian County,Owensboro,13,10,1,NaN,0
-2009-10-02,Conner,Boone County,42,14,1,NaN,0
-2009-10-02,Crittenden County,Ballard Memorial,27,6,0,NaN,0
-2009-10-02,East Jessamine,Owen County,22,0,0,NaN,0
-2009-10-02,Estill County,Pineville,35,14,1,NaN,0
-2009-10-02,Franklin-Simpson,Monroe County,35,28,0,NaN,0
-2009-10-02,George Rogers Clark,Corbin,35,30,1,NaN,0
-2009-10-02,Glasgow,Elizabethtown,22,8,1,NaN,0
-2009-10-02,Graves County,Marshall County,40,0,0,NaN,0
-2009-10-02,Greenwood,Nelson County,22,9,0,NaN,0
-2009-10-02,Harlan County,Letcher County Central,12,7,1,NaN,0
-2009-10-02,Highlands,Dixie Heights,52,9,1,NaN,0
-2009-10-02,Lexington Christian,Nicholas County,62,0,0,NaN,0
-2009-10-02,Logan County,Russell County,25,12,1,NaN,0
-2009-10-02,Lone Oak,Green County,52,20,1,NaN,0
-2009-10-02,Ludlow,Dayton,19,12,0,NaN,0
-2009-10-02,Madisonville-North Hopkins,Hopkins County Central,14,6,1,NaN,0
-2009-10-02,Mason County,Lewis County,42,14,0,NaN,0
-2009-10-02,McCreary Central,Powell County,50,30,0,NaN,0
-2009-10-02,Montgomery County,Spencer County,14,13,0,NaN,0
-2009-10-02,Newport Central Catholic,Newport,35,16,0,NaN,0
-2009-10-02,Oldham County,South Oldham,42,7,0,NaN,0
-2009-10-02,Perry County Central,North Laurel,20,14,0,NaN,0
-2009-10-02,Raceland,Paris,21,0,0,NaN,0
-2009-10-02,Russell,Fleming County,45,25,1,NaN,0
-2009-10-02,Ryle,Campbell County,62,19,0,NaN,0
-2009-10-02,Scott,Lloyd Memorial,34,26,0,NaN,0
-2009-10-02,Shelby County,Eastern,41,34,1,NaN,0
-2009-10-02,Simon Kenton,Cooper,62,0,0,NaN,0
-2009-10-02,Somerset,Taylor County,62,15,1,NaN,0
-2009-10-02,South Floyd,Betsy Layne,40,38,0,NaN,0
-2009-10-02,Southwestern,South Laurel,14,8,1,NaN,0
-2009-10-02,Trimble County,Carroll County,31,19,0,NaN,0
-2009-10-02,Union County,Heath,41,21,1,NaN,0
-2009-10-02,Warren Central,Barren County,54,0,1,NaN,0
-2009-10-02,West Carter,Morgan County,42,20,1,NaN,0
-2009-10-02,West Jessamine,Western Hills,35,0,1,NaN,0
-2009-10-02,Whitley County,Clay County,30,26,0,NaN,0
-2009-10-03,Holy Cross (Covington),Holy Cross (Louisville),26,10,1,NaN,0
-2009-10-03,Hopkinsville,Ohio County,47,12,1,NaN,0
-2009-10-08,Simon Kenton,Ryle,49,29,1,NaN,0
-2009-10-09,Allen Central,Phelps,56,0,0,NaN,0
-2009-10-09,Allen County-Scottsville,Franklin-Simpson,19,14,0,NaN,0
-2009-10-09,Anderson County,Bullitt Central,42,7,0,NaN,0
-2009-10-09,Beechwood,Ludlow,49,2,1,NaN,0
-2009-10-09,Bellevue,Dayton,56,7,0,NaN,0
-2009-10-09,Boone County,Cooper,26,3,1,NaN,0
-2009-10-09,Campbellsville,Williamsburg,14,12,1,NaN,0
-2009-10-09,Central,Elizabethtown,21,6,0,NaN,0
-2009-10-09,Christian County,Ohio County,41,14,0,NaN,0
-2009-10-09,Conner,Campbell County,47,12,1,NaN,0
-2009-10-09,Daviess County,Marshall County,30,7,0,NaN,0
-2009-10-09,Dixie Heights,Holmes,21,12,1,NaN,0
-2009-10-09,Fleming County,West Carter,28,25,1,NaN,0
-2009-10-09,Harlan County,North Laurel,32,26,1,NaN,0
-2009-10-09,Hazard,Harlan,34,0,0,NaN,0
-2009-10-09,Henderson County,Graves County,13,0,0,NaN,0
-2009-10-09,Holy Cross (Louisville),Caverna,56,0,0,NaN,0
-2009-10-09,Knox Central,Rockcastle County,21,20,1,NaN,1
-2009-10-09,Letcher County Central,Whitley County,34,27,0,NaN,0
-2009-10-09,Madisonville-North Hopkins,Hopkinsville,13,6,0,NaN,0
-2009-10-09,Male,Shelby County,35,21,1,NaN,0
-2009-10-09,Mason County,Russell,34,21,1,NaN,0
-2009-10-09,Nelson County,Central Hardin,22,17,0,NaN,0
-2009-10-09,Newport Central Catholic,Holy Cross (Covington),38,21,1,NaN,0
-2009-10-09,Nicholas County,Lewis County,23,16,1,NaN,0
-2009-10-09,Oldham County,Jeffersontown,36,14,1,NaN,0
-2009-10-09,Paintsville,Betsy Layne,26,20,0,NaN,0
-2009-10-09,Perry County Central,Clay County,14,0,1,NaN,0
-2009-10-09,Pikeville,South Floyd,54,6,0,NaN,0
-2009-10-09,Prestonsburg,Morgan County,53,12,1,NaN,0
-2009-10-09,Pulaski County,South Laurel,45,20,0,NaN,0
-2009-10-09,Raceland,Fairview,14,6,1,NaN,0
-2009-10-09,Russell County,Warren East,37,6,1,NaN,0
-2009-10-09,Union County,Paducah Tilghman,21,13,1,NaN,0
-2009-10-09,Washington County,Fort Knox,48,7,1,NaN,0
-2009-10-09,West Jessamine,East Jessamine,13,12,1,NaN,0
-2009-10-09,Western,Atherton,50,0,1,NaN,0
-2009-10-09,Western Hills,Spencer County,28,21,1,NaN,0
-2009-10-09,Woodford County,Montgomery County,13,6,0,NaN,0
-2009-10-10,Boyle County,Lexington Catholic,21,13,1,NaN,0
-2009-10-10,Greenwood,North Hardin,45,33,0,NaN,0
-2009-10-10,Heath,Caldwell County,7,6,0,NaN,0
-2009-10-10,Lexington Christian,Paris,56,0,1,NaN,0
-2009-10-10,Lloyd Memorial,Newport,51,22,1,NaN,0
-2009-10-10,Powell County,Magoffin County,49,48,1,NaN,1
-2009-10-10,Rowan County,East Carter,36,20,1,NaN,0
-2009-10-16,Allen Central,South Floyd,52,6,1,NaN,0
-2009-10-16,Allen County-Scottsville,Logan County,40,20,1,NaN,0
-2009-10-16,Anderson County,South Oldham,29,19,1,NaN,0
-2009-10-16,Ashland Blazer,Montgomery County,36,6,1,NaN,0
-2009-10-16,Ballard Memorial,Fulton County,45,6,0,NaN,0
-2009-10-16,Bath County,East Carter,28,21,1,NaN,0
-2009-10-16,Belfry,Sheldon Clark,34,13,1,NaN,0
-2009-10-16,Bellevue,Ludlow,48,0,0,NaN,0
-2009-10-16,Bowling Green,Doss,51,6,0,NaN,0
-2009-10-16,Boyle County,West Jessamine,47,0,1,NaN,0
-2009-10-16,Campbell County,Cooper,28,20,0,NaN,0
-2009-10-16,Crittenden County,Fulton City,57,0,0,NaN,0
-2009-10-16,Danville,Fort Knox,55,25,0,NaN,0
-2009-10-16,Edmonson County,Hart County,27,0,0,NaN,0
-2009-10-16,Eminence,Trimble County,24,20,0,NaN,0
-2009-10-16,Estill County,Magoffin County,21,14,0,NaN,0
-2009-10-16,Fairdale,Atherton,56,6,0,NaN,0
-2009-10-16,Fairview,Nicholas County,40,14,1,NaN,0
-2009-10-16,Fleming County,Newport,34,16,1,NaN,0
-2009-10-16,Fort Campbell,Hancock County,62,7,1,NaN,0
-2009-10-16,Franklin-Simpson,Warren East,62,14,1,NaN,0
-2009-10-16,George Rogers Clark,Tates Creek,12,6,1,NaN,0
-2009-10-16,Grayson County,Warren Central,21,13,1,NaN,0
-2009-10-16,Green County,Metcalfe County,39,14,1,NaN,0
-2009-10-16,Greenwood,Central Hardin,17,13,1,NaN,0
-2009-10-16,Harlan,Pineville,26,18,0,NaN,0
-2009-10-16,Harlan County,Perry County Central,15,14,1,NaN,0
-2009-10-16,Harrison County,Bourbon County,24,21,1,NaN,0
-2009-10-16,Henderson County,Marshall County,56,13,1,NaN,0
-2009-10-16,Henry County,Western Hills,14,7,1,NaN,0
-2009-10-16,Holmes,Scott,20,9,0,NaN,0
-2009-10-16,Holy Cross (Covington),Lloyd Memorial,36,19,1,NaN,0
-2009-10-16,Holy Cross (Louisville),Kentucky Country Day,21,0,1,NaN,0
-2009-10-16,Lawrence County,Rowan County,29,14,1,NaN,0
-2009-10-16,Letcher County Central,Clay County,52,20,1,NaN,0
-2009-10-16,Lexington Catholic,East Jessamine,62,0,1,NaN,0
-2009-10-16,Lexington Christian,Raceland,40,0,1,NaN,0
-2009-10-16,Lone Oak,Hopkins County Central,24,0,0,NaN,0
-2009-10-16,Madisonville-North Hopkins,Ohio County,46,0,0,NaN,0
-2009-10-16,Mason County,West Carter,26,12,0,NaN,0
-2009-10-16,McLean County,Paducah Tilghman,28,6,1,NaN,0
-2009-10-16,Monroe County,Glasgow,28,14,1,NaN,0
-2009-10-16,Murray,Caldwell County,20,6,1,NaN,0
-2009-10-16,Owen County,Carroll County,27,6,1,NaN,0
-2009-10-16,Owensboro,Hopkinsville,16,6,1,NaN,0
-2009-10-16,Paintsville,Phelps,21,6,1,NaN,0
-2009-10-16,Pikeville,Betsy Layne,55,8,0,NaN,0
-2009-10-16,Pulaski County,Southwestern,16,6,1,NaN,0
-2009-10-16,Rockcastle County,McCreary Central,42,14,1,NaN,0
-2009-10-16,Russell,Lewis County,36,20,1,NaN,0
-2009-10-16,Russell County,Barren County,49,14,1,NaN,0
-2009-10-16,Ryle,Conner,31,22,1,NaN,0
-2009-10-16,Shelby County,Fern Creek,39,13,1,NaN,0
-2009-10-16,Shelby Valley,Morgan County,49,8,1,NaN,0
-2009-10-16,Simon Kenton,Boone County,63,21,0,NaN,0
-2009-10-16,Somerset,Wayne County,9,0,0,NaN,0
-2009-10-16,St. Xavier,DuPont Manual,28,21,0,NaN,0
-2009-10-16,Trinity (Louisville),Eastern,35,7,1,NaN,0
-2009-10-16,Whitley County,North Laurel,40,14,1,NaN,0
-2009-10-22,Wayne County,Taylor County,14,7,1,NaN,0
-2009-10-23,Allen Central,Betsy Layne,36,6,1,NaN,0
-2009-10-23,Allen County-Scottsville,Russell County,34,13,1,NaN,0
-2009-10-23,Barren County,Ohio County,41,20,1,NaN,0
-2009-10-23,Bath County,Morgan County,41,30,0,NaN,0
-2009-10-23,Beechwood,Bellevue,20,8,0,NaN,0
-2009-10-23,Bell County,McCreary Central,63,0,0,NaN,0
-2009-10-23,Boyle County,East Jessamine,48,0,0,NaN,0
-2009-10-23,Conner,Cooper,28,7,0,NaN,0
-2009-10-23,Corbin,Middlesboro,37,13,1,NaN,0
-2009-10-23,Danville,Washington County,61,0,1,NaN,0
-2009-10-23,DeSales,Carroll County,54,6,0,NaN,0
-2009-10-23,Estill County,Powell County,42,28,0,NaN,0
-2009-10-23,Franklin-Simpson,Logan County,48,30,0,NaN,0
-2009-10-23,Fulton City,Fulton County,30,26,1,NaN,0
-2009-10-23,Glasgow,Metcalfe County,18,8,1,NaN,0
-2009-10-23,Graves County,Daviess County,14,0,0,NaN,0
-2009-10-23,Grayson County,Edmonson County,15,0,0,NaN,0
-2009-10-23,Green County,Monroe County,21,14,0,NaN,0
-2009-10-23,Harlan County,Clay County,28,7,0,NaN,0
-2009-10-23,Hazard,Pineville,59,9,1,NaN,0
-2009-10-23,Henry County,Spencer County,33,22,0,NaN,0
-2009-10-23,Highlands,Scott,67,20,1,NaN,0
-2009-10-23,Holy Cross (Covington),Newport,34,14,0,NaN,0
-2009-10-23,John Hardin,Bullitt Central,14,0,0,NaN,0
-2009-10-23,Letcher County Central,North Laurel,36,20,1,NaN,0
-2009-10-23,Lewis County,West Carter,14,6,1,NaN,0
-2009-10-23,Lexington Catholic,West Jessamine,51,14,1,NaN,0
-2009-10-23,Lexington Christian,Fairview,42,0,0,NaN,0
-2009-10-23,Male,Fern Creek,55,13,0,NaN,0
-2009-10-23,Marion County,North Bullitt,33,7,1,NaN,0
-2009-10-23,Marshall County,Hopkinsville,14,7,0,NaN,0
-2009-10-23,Mason County,Fleming County,14,0,1,NaN,0
-2009-10-23,Murray,Heath,28,0,0,NaN,0
-2009-10-23,Nelson County,North Hardin,14,13,1,NaN,0
-2009-10-23,Newport Central Catholic,Lloyd Memorial,42,20,0,NaN,0
-2009-10-23,Nicholas County,Paris,38,6,1,NaN,0
-2009-10-23,Oldham County,Anderson County,10,7,1,NaN,0
-2009-10-23,Owensboro,Madisonville-North Hopkins,16,6,0,NaN,0
-2009-10-23,Phelps,South Floyd,20,16,0,NaN,0
-2009-10-23,Pikeville,Paintsville,56,6,1,NaN,0
-2009-10-23,Prestonsburg,Shelby Valley,21,12,1,NaN,0
-2009-10-23,Raceland,Russell,27,15,1,NaN,0
-2009-10-23,Ryle,Boone County,48,7,1,NaN,0
-2009-10-23,Simon Kenton,Campbell County,49,14,0,NaN,0
-2009-10-23,South Laurel,Lincoln County,29,21,1,NaN,0
-2009-10-23,Southwestern,Rockcastle County,35,28,1,NaN,0
-2009-10-23,Union County,McLean County,19,2,1,NaN,0
-2009-10-23,Warren Central,Bowling Green,18,10,0,NaN,0
-2009-10-23,Whitley County,Perry County Central,63,18,0,NaN,0
-2009-10-24,Ashland Blazer,Woodford County,36,7,0,NaN,0
-2009-10-24,Paducah Tilghman,Holy Cross (Louisville),38,7,1,NaN,0
-2009-10-29,John Hardin,Central Hardin,51,14,1,NaN,0
-2009-10-29,Shelby County,Oldham County,28,13,0,NaN,0
-2009-10-29,Warren Central,Greenwood,22,21,1,NaN,1
-2009-10-30,Allen County-Scottsville,Monroe County,7,0,1,NaN,0
-2009-10-30,Anderson County,Spencer County,60,18,1,NaN,0
-2009-10-30,Bell County,Harlan County,41,14,1,NaN,0
-2009-10-30,Bellevue,Lloyd Memorial,41,28,1,NaN,0
-2009-10-30,Boone County,Dixie Heights,28,21,0,NaN,0
-2009-10-30,Bourbon County,Paris,33,19,0,NaN,0
-2009-10-30,Bowling Green,Barren County,49,0,0,NaN,0
-2009-10-30,Boyle County,Christian County,21,0,0,NaN,0
-2009-10-30,Bryan Station,North Hardin,25,6,0,NaN,0
-2009-10-30,Bullitt Central,North Bullitt,34,14,1,NaN,0
-2009-10-30,Carroll County,Dayton,27,19,1,NaN,0
-2009-10-30,Clay County,Hazard,34,28,0,NaN,0
-2009-10-30,Cooper,Newport,27,12,1,NaN,0
-2009-10-30,Eastern,Jeffersontown,29,7,1,NaN,0
-2009-10-30,Edmonson County,Hancock County,12,8,0,NaN,0
-2009-10-30,Fairdale,Doss,20,19,1,NaN,0
-2009-10-30,Fairview,Paintsville,44,8,0,NaN,0
-2009-10-30,Fleming County,Bath County,45,7,0,NaN,0
-2009-10-30,Fort Campbell,Hopkinsville,44,7,1,NaN,0
-2009-10-30,Fort Knox,Hart County,35,18,0,NaN,0
-2009-10-30,Franklin-Simpson,Glasgow,34,14,1,NaN,0
-2009-10-30,George Rogers Clark,Campbell County,30,14,1,NaN,0
-2009-10-30,Highlands,Ryle,31,14,1,NaN,0
-2009-10-30,Holmes,Harrison County,23,7,1,NaN,0
-2009-10-30,Knox Central,Harlan,41,3,0,NaN,0
-2009-10-30,Lewis County,Magoffin County,28,24,0,NaN,0
-2009-10-30,Lexington Christian,Corbin,41,21,1,NaN,0
-2009-10-30,Male,DuPont Manual,27,14,0,NaN,0
-2009-10-30,Marion County,Green County,48,14,1,NaN,0
-2009-10-30,McCreary Central,Lynn Camp,30,21,1,NaN,0
-2009-10-30,McLean County,Ohio County,28,14,0,NaN,0
-2009-10-30,Metcalfe County,Caverna,22,0,0,NaN,0
-2009-10-30,Morgan County,East Carter,12,3,1,NaN,0
-2009-10-30,Murray,Crittenden County,24,7,1,NaN,0
-2009-10-30,Newport Central Catholic,Beechwood,26,22,0,NaN,0
-2009-10-30,Owensboro,Henderson County,17,14,1,NaN,0
-2009-10-30,Rowan County,Montgomery County,36,19,0,NaN,0
-2009-10-30,Sheldon Clark,Pikeville,48,17,0,NaN,0
-2009-10-30,Simon Kenton,Scott,50,0,0,NaN,0
-2009-10-30,South Laurel,Middlesboro,42,13,0,NaN,0
-2009-10-30,South Oldham,Owen County,21,14,0,NaN,0
-2009-10-30,Tates Creek,Woodford County,33,27,0,NaN,0
-2009-10-30,Trinity (Louisville),Lexington Catholic,14,13,0,NaN,0
-2009-10-30,Union County,Hopkins County Central,9,6,0,NaN,1
-2009-10-30,Washington County,Campbellsville,21,20,1,NaN,0
-2009-10-30,West Carter,Powell County,28,14,1,NaN,0
-2009-10-30,Whitley County,Rockcastle County,42,6,0,NaN,0
-2009-10-30,Williamsburg,Pineville,44,43,0,NaN,0
-2009-10-31,Lone Oak,Heath,34,0,0,NaN,0
-2009-11-06,Allen Central,Pineville,60,34,1,NaN,0
-2009-11-06,Beechwood,Trimble County,54,0,1,NaN,0
-2009-11-06,Campbellsville,Nicholas County,47,0,1,NaN,0
-2009-11-06,Crittenden County,Kentucky Country Day,47,9,1,NaN,0
-2009-11-06,Eminence,Ludlow,30,12,1,NaN,0
-2009-11-06,Fairview,Williamsburg,33,8,0,NaN,0
-2009-11-06,Harlan,Paintsville,28,7,1,NaN,0
-2009-11-06,Hazard,Phelps,61,6,1,NaN,0
-2009-11-06,Holy Cross (Louisville),Fulton City,62,0,1,NaN,0
-2009-11-06,Raceland,Lynn Camp,19,13,1,NaN,0
-2009-11-06,Corbin,Morgan County,40,6,1,NaN,0
-2009-11-06,Danville,Glasgow,49,35,1,NaN,0
-2009-11-06,Fort Campbell,Caldwell County,56,7,1,NaN,0
-2009-11-06,Green County,Fort Knox,56,7,1,NaN,0
-2009-11-06,Hancock County,Heath,53,23,1,NaN,0
-2009-11-06,Middlesboro,Bath County,49,14,1,NaN,0
-2009-11-06,Monroe County,Washington County,42,7,1,NaN,0
-2009-11-06,Belfry,Lewis County,41,14,1,NaN,0
-2009-11-06,Central,Spencer County,56,36,1,NaN,0
-2009-11-06,Estill County,Taylor County,21,14,1,NaN,0
-2009-11-06,Paducah Tilghman,Edmonson County,56,31,0,NaN,0
-2009-11-06,Sheldon Clark,Russell,36,14,0,NaN,0
-2009-11-06,Somerset,Magoffin County,48,16,1,NaN,0
-2009-11-06,Boyle County,Bourbon County,61,0,1,NaN,0
-2009-11-06,Holmes,East Jessamine,42,0,1,NaN,0
-2009-11-06,Lawrence County,McCreary Central,42,19,1,NaN,0
-2009-11-06,Logan County,Hopkins County Central,24,21,0,NaN,0
-2009-11-06,Lone Oak,Russell County,59,27,1,NaN,0
-2009-11-06,Rockcastle County,Rowan County,41,21,0,NaN,0
-2009-11-06,West Jessamine,Harrison County,49,6,0,NaN,0
-2009-11-06,Western,North Bullitt,24,8,1,NaN,0
-2009-11-06,Bowling Green,Hopkinsville,38,6,1,NaN,0
-2009-11-06,Christian County,Barren County,31,14,1,NaN,0
-2009-11-06,Dixie Heights,Ashland Blazer,41,14,0,NaN,0
-2009-11-06,Doss,Anderson County,40,37,0,NaN,0
-2009-11-06,Harlan County,Southwestern,20,7,0,NaN,0
-2009-11-06,Highlands,Montgomery County,60,13,1,NaN,0
-2009-11-06,Jeffersontown,Bullitt Central,63,14,0,NaN,0
-2009-11-06,John Hardin,South Oldham,42,8,1,NaN,0
-2009-11-06,Owensboro,Grayson County,49,21,1,NaN,0
-2009-11-06,Pulaski County,Perry County Central,35,21,1,NaN,0
-2009-11-06,Warren Central,Madisonville-North Hopkins,39,14,1,NaN,0
-2009-11-06,Whitley County,South Laurel,54,14,1,NaN,0
-2009-11-06,DuPont Manual,Conner,50,39,1,NaN,0
-2009-11-06,Henderson County,Central Hardin,35,21,1,NaN,0
-2009-11-06,Male,Eastern,16,6,1,NaN,0
-2009-11-06,Nelson County,Graves County,31,14,0,NaN,0
-2009-11-06,St. Xavier,Boone County,49,0,1,NaN,0
-2009-11-13,Beechwood,Eminence,58,0,1,NaN,0
-2009-11-13,Crittenden County,Holy Cross (Louisville),31,27,0,NaN,0
-2009-11-13,Harlan,Pikeville,21,14,0,NaN,0
-2009-11-13,Hazard,Allen Central,49,16,1,NaN,0
-2009-11-13,Lexington Christian,Fairview,41,16,1,NaN,0
-2009-11-13,Raceland,Campbellsville,23,20,0,NaN,0
-2009-11-13,Corbin,Shelby Valley,44,27,1,NaN,0
-2009-11-13,Green County,Danville,61,22,1,NaN,0
-2009-11-13,Murray,Hancock County,43,7,1,NaN,0
-2009-11-13,Prestonsburg,Middlesboro,61,20,1,NaN,0
-2009-11-13,Central,Western Hills,34,27,1,NaN,0
-2009-11-13,Henry County,Elizabethtown,14,0,1,NaN,0
-2009-11-13,Paducah Tilghman,Union County,34,7,0,NaN,0
-2009-11-13,Sheldon Clark,Belfry,20,14,0,NaN,0
-2009-11-13,Somerset,Estill County,63,14,1,NaN,0
-2009-11-13,Allen County-Scottsville,Logan County,41,33,1,NaN,0
-2009-11-13,Bell County,Rockcastle County,48,0,1,NaN,0
-2009-11-13,Boyle County,West Jessamine,48,7,1,NaN,0
-2009-11-13,Lawrence County,Knox Central,19,0,1,NaN,0
-2009-11-13,Lexington Catholic,Holmes,25,7,0,NaN,0
-2009-11-13,Lone Oak,Franklin-Simpson,49,7,1,NaN,0
-2009-11-13,Western,Fairdale,41,14,1,NaN,0
-2009-11-13,Bowling Green,Owensboro,25,21,1,NaN,0
-2009-11-13,Christian County,Warren Central,13,7,1,NaN,0
-2009-11-13,Highlands,Dixie Heights,49,0,1,NaN,0
-2009-11-13,John Hardin,Doss,37,7,1,NaN,0
-2009-11-13,Letcher County Central,Harlan County,14,13,1,NaN,0
-2009-11-13,Oldham County,Jeffersontown,24,21,1,NaN,0
-2009-11-13,Pulaski County,Whitley County,40,34,1,NaN,0
-2009-11-13,Greenwood,Nelson County,28,17,1,NaN,0
-2009-11-13,Simon Kenton,DuPont Manual,39,29,1,NaN,0
-2009-11-13,St. Xavier,Ryle,66,17,1,NaN,0
-2009-11-13,Trinity (Louisville),Shelby County,42,10,1,NaN,0
-2009-11-20,Beechwood,Bellevue,41,20,1,NaN,0
-2009-11-20,Hazard,Harlan,50,7,1,NaN,0
-2009-11-20,Lexington Christian,Raceland,62,12,1,NaN,0
-2009-11-20,Fort Campbell,Murray,28,21,0,NaN,0
-2009-11-20,Monroe County,Green County,39,14,0,NaN,0
-2009-11-20,Prestonsburg,Corbin,23,7,1,NaN,0
-2009-11-20,Central,Henry County,48,38,1,NaN,0
-2009-11-20,Bell County,Lawrence County,41,0,1,NaN,0
-2009-11-20,Boyle County,Lexington Catholic,34,20,1,NaN,0
-2009-11-20,Lone Oak,Allen County-Scottsville,34,6,1,NaN,0
-2009-11-20,Marion County,Western,31,24,0,NaN,0
-2009-11-20,Bowling Green,Christian County,28,14,0,NaN,0
-2009-11-20,John Hardin,Oldham County,36,14,1,NaN,0
-2009-11-20,Pulaski County,Letcher County Central,31,14,1,NaN,0
-2009-11-20,Greenwood,Henderson County,31,7,0,NaN,0
-2009-11-20,St. Xavier,Simon Kenton,48,34,1,NaN,0
-2009-11-20,Trinity (Louisville),Male,31,6,1,NaN,0
-2009-11-27,Lexington Christian,Hazard,35,28,1,NaN,0
-2009-11-27,Paducah Tilghman,Central,24,21,1,NaN,0
-2009-11-27,Somerset,Sheldon Clark,28,12,1,NaN,0
-2009-11-27,Boyle County,Bell County,13,10,1,NaN,0
-2009-11-27,Lone Oak,Marion County,45,28,1,NaN,0
-2009-11-27,Highlands,Pulaski County,52,12,1,NaN,0
-2009-11-27,John Hardin,Bowling Green,28,21,0,NaN,0
-2009-11-27,St. Xavier,Greenwood,28,6,0,NaN,0
+date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cross_region
+2009-08-21,Adair County,Taylor County,21,6,0,NaN,0,0
+2009-08-21,Allen County-Scottsville,Butler County,41,15,0,NaN,0,0
+2009-08-21,Anderson County,Garrard County,47,10,0,NaN,0,0
+2009-08-21,Apollo,Muhlenberg County,33,12,0,NaN,0,0
+2009-08-21,Ashland Blazer,Greenup County,51,7,1,NaN,0,0
+2009-08-21,Ballard,Pleasure Ridge Park,48,21,0,NaN,0,0
+2009-08-21,Berea,Clinton County,28,20,0,NaN,0,0
+2009-08-21,Bethlehem,Fort Knox,50,0,0,NaN,0,0
+2009-08-21,Bishop Brossart,Betsy Layne,22,19,0,NaN,0,0
+2009-08-21,Boyle County,Johnson Central,49,7,1,NaN,0,0
+2009-08-21,Bryan Station,George Rogers Clark,56,24,1,NaN,0,0
+2009-08-21,Caldwell County,Calloway County,34,7,1,NaN,0,0
+2009-08-21,Carroll County,Bracken County,44,21,0,NaN,0,0
+2009-08-21,Casey County,Caverna,36,20,1,NaN,0,0
+2009-08-21,Central Hardin,Logan County,44,18,0,NaN,0,0
+2009-08-21,DeSales,Western,27,18,0,NaN,0,0
+2009-08-21,Dixie Heights,Newport Central Catholic,19,7,1,NaN,0,0
+2009-08-21,Edmonson County,Breckinridge County,31,6,0,NaN,0,0
+2009-08-21,Fairdale,Iroquois,61,12,0,NaN,0,0
+2009-08-21,Fairview,West Carter,13,7,1,NaN,0,0
+2009-08-21,Franklin-Simpson,Russellville,28,27,1,NaN,0,0
+2009-08-21,Grayson County,Hancock County,54,15,0,NaN,0,0
+2009-08-21,Hart County,Todd County Central,43,14,1,NaN,0,0
+2009-08-21,Heath,Webster County,25,0,0,NaN,0,0
+2009-08-21,Henry County,Pike County Central,20,6,1,NaN,0,0
+2009-08-21,Highlands,DuPont Manual,19,8,0,NaN,0,0
+2009-08-21,Holy Cross (Covington),Bellevue,36,20,1,NaN,0,0
+2009-08-21,Hopkinsville,Paducah Tilghman,17,14,0,NaN,0,0
+2009-08-21,Kentucky Country Day,Paris,21,14,0,NaN,0,0
+2009-08-21,Lafayette,Tates Creek,34,19,0,NaN,0,0
+2009-08-21,Lawrence County,Paintsville,54,20,0,NaN,0,0
+2009-08-21,Letcher County Central,South Laurel,34,6,1,NaN,0,0
+2009-08-21,Lexington Catholic,Whitley County,43,33,1,NaN,0,0
+2009-08-21,Lone Oak,Ballard Memorial,58,6,1,NaN,0,0
+2009-08-21,Male,Elizabethtown,66,14,0,NaN,0,0
+2009-08-21,Mason County,Danville,48,21,1,NaN,0,0
+2009-08-21,Mayfield,Marshall County,43,14,0,NaN,0,0
+2009-08-21,Monroe County,Wayne County,28,7,0,NaN,0,0
+2009-08-21,Murray,Madisonville-North Hopkins,21,6,1,NaN,0,0
+2009-08-21,Nicholas County,Bath County,22,17,0,NaN,0,0
+2009-08-21,North Laurel,Pulaski County,36,33,1,NaN,0,0
+2009-08-21,Owensboro Catholic,McLean County,42,41,0,NaN,0,0
+2009-08-21,Phelps,Jenkins,44,14,1,NaN,0,0
+2009-08-21,Prestonsburg,Belfry,28,21,1,NaN,0,0
+2009-08-21,Rowan County,Morgan County,60,6,1,NaN,0,0
+2009-08-21,Russell,East Carter,21,0,1,NaN,0,0
+2009-08-21,Ryle,Covington Catholic,34,14,1,NaN,0,0
+2009-08-21,Seneca,Central,44,26,0,NaN,0,0
+2009-08-21,Shawnee,Washington County,18,6,1,NaN,0,0
+2009-08-21,Spencer County,East Jessamine,35,34,1,NaN,0,0
+2009-08-21,West Jessamine,Madison Southern,28,27,1,NaN,0,0
+2009-08-22,Eminence,South Floyd,58,22,0,NaN,0,0
+2009-08-22,Glasgow,Warren East,26,14,1,NaN,0,0
+2009-08-22,LaRue County,Campbellsville,30,12,0,NaN,0,0
+2009-08-22,Montgomery County,Harrison County,27,26,1,NaN,0,0
+2009-08-22,North Hardin,Bardstown,41,33,1,NaN,0,0
+2009-08-22,Raceland,Boyd County,27,26,0,NaN,0,0
+2009-08-22,Walton-Verona,Gallatin County,13,7,1,NaN,0,0
+2009-08-22,Woodford County,South Oldham,27,12,0,NaN,0,0
+2009-08-28,Adair County,Caverna,48,20,0,NaN,0,0
+2009-08-28,Allen Central,Jenkins,60,0,1,NaN,0,0
+2009-08-28,Anderson County,Meade County,43,34,1,NaN,0,0
+2009-08-28,Ashland Blazer,Raceland,31,0,1,NaN,0,0
+2009-08-28,Belfry,Boyd County,28,14,1,NaN,0,0
+2009-08-28,Bethlehem,Eminence,33,6,1,NaN,0,0
+2009-08-28,Bourbon County,Estill County,41,6,0,NaN,0,0
+2009-08-28,Bullitt Central,Barren County,21,7,1,NaN,0,0
+2009-08-28,Bullitt East,Holy Cross (Louisville),41,14,0,NaN,0,0
+2009-08-28,Butler County,Breckinridge County,49,22,1,NaN,0,0
+2009-08-28,Carroll County,Gallatin County,26,14,0,NaN,0,0
+2009-08-28,Central Hardin,DeSales,27,24,1,NaN,0,0
+2009-08-28,Conner,Scott,40,7,0,NaN,0,0
+2009-08-28,Cooper,Shawnee,49,20,1,NaN,0,0
+2009-08-28,Corbin,Harlan,42,16,0,NaN,0,0
+2009-08-28,Doss,North Bullitt,13,0,0,NaN,0,0
+2009-08-28,East Jessamine,Lincoln County,34,12,0,NaN,0,0
+2009-08-28,Fairview,Bracken County,48,14,1,NaN,0,0
+2009-08-28,Fern Creek,DuPont Manual,31,28,1,NaN,0,0
+2009-08-28,Fleming County,Nicholas County,33,0,0,NaN,0,0
+2009-08-28,Frankfort,Paris,52,0,1,NaN,0,0
+2009-08-28,Grayson County,Muhlenberg County,33,18,1,NaN,0,0
+2009-08-28,Green County,Taylor County,44,16,1,NaN,0,0
+2009-08-28,Greenwood,Logan County,48,6,1,NaN,0,0
+2009-08-28,Hancock County,Ohio County,31,27,0,NaN,0,0
+2009-08-28,Hart County,Clinton County,18,6,1,NaN,0,0
+2009-08-28,Hazard,Leslie County,33,6,0,NaN,0,0
+2009-08-28,Henry County,South Oldham,13,0,1,NaN,0,0
+2009-08-28,Highlands,Ryle,37,14,0,NaN,0,0
+2009-08-28,Hopkins County Central,Caldwell County,6,0,1,NaN,0,0
+2009-08-28,Jeffersontown,North Oldham,48,13,1,NaN,0,0
+2009-08-28,Kentucky Country Day,Atherton,51,14,0,NaN,0,0
+2009-08-28,Knott County Central,Lewis County,40,0,1,NaN,0,0
+2009-08-28,Letcher County Central,Middlesboro,20,6,1,NaN,0,0
+2009-08-28,Lone Oak,Reidland,63,20,0,NaN,0,0
+2009-08-28,Madisonville-North Hopkins,Webster County,47,6,1,NaN,0,0
+2009-08-28,Magoffin County,South Floyd,52,22,0,NaN,0,0
+2009-08-28,Male,Eastern,41,18,0,NaN,0,0
+2009-08-28,Mason County,Montgomery County,35,14,1,NaN,0,0
+2009-08-28,McCreary Central,Pineville,40,24,0,NaN,0,0
+2009-08-28,McLean County,Todd County Central,54,15,1,NaN,0,0
+2009-08-28,Monroe County,Edmonson County,29,18,0,NaN,0,0
+2009-08-28,Murray,Calloway County,49,0,1,NaN,0,0
+2009-08-28,Nelson County,Bardstown,56,41,1,NaN,0,0
+2009-08-28,Oldham County,Waggener,39,7,0,NaN,0,0
+2009-08-28,Perry County Central,Casey County,57,0,1,NaN,0,0
+2009-08-28,Powell County,Jackson County,23,0,1,NaN,0,0
+2009-08-28,Prestonsburg,Paintsville,49,0,1,NaN,0,0
+2009-08-28,Russell County,Campbellsville,39,20,0,NaN,0,0
+2009-08-28,Scott County,Clay County,38,8,1,NaN,0,0
+2009-08-28,Seneca,Southern,35,10,1,NaN,0,0
+2009-08-28,Sheldon Clark,Breathitt County,6,0,1,NaN,0,0
+2009-08-28,Somerset,Pulaski County,18,12,1,NaN,0,0
+2009-08-28,St. Xavier,Ballard,35,6,0,NaN,0,0
+2009-08-28,Tates Creek,Mercer County,41,36,1,NaN,0,0
+2009-08-28,Valley,Pleasure Ridge Park,21,12,1,NaN,0,0
+2009-08-28,West Carter,Bath County,28,6,0,NaN,0,0
+2009-08-28,West Jessamine,Iroquois,49,0,1,NaN,0,0
+2009-08-28,Whitley County,Lynn Camp,55,13,0,NaN,0,0
+2009-08-29,Bell County,Marion County,26,21,0,NaN,0,0
+2009-08-29,Bellevue,Newport,40,24,0,NaN,0,0
+2009-08-29,Danville,Franklin County,22,6,1,NaN,0,0
+2009-08-29,Franklin-Simpson,Metcalfe County,42,6,1,NaN,0,0
+2009-08-29,Grant County,Owen County,17,10,1,NaN,0,0
+2009-08-29,Holy Cross (Covington),Pikeville,32,14,0,NaN,0,0
+2009-08-29,Lexington Catholic,Covington Catholic,23,17,1,NaN,0,0
+2009-08-29,North Hardin,LaRue County,32,6,0,NaN,0,0
+2009-08-29,North Laurel,Knox Central,28,21,1,NaN,0,0
+2009-08-29,Russell,Greenup County,37,0,1,NaN,0,0
+2009-08-29,Union County,Ballard Memorial,27,12,0,NaN,0,0
+2009-09-04,Allen Central,Jackson County,34,6,0,NaN,0,0
+2009-09-04,Allen County-Scottsville,McLean County,56,20,1,NaN,0,0
+2009-09-04,Ashland Blazer,Belfry,22,20,0,NaN,0,0
+2009-09-04,Bardstown,Bethlehem,42,20,1,NaN,0,0
+2009-09-04,Bell County,Johnson Central,36,6,0,NaN,0,0
+2009-09-04,Bourbon County,Casey County,49,6,0,NaN,0,0
+2009-09-04,Bowling Green,Franklin-Simpson,51,9,0,NaN,0,0
+2009-09-04,Bryan Station,Tates Creek,35,18,1,NaN,0,0
+2009-09-04,Bullitt Central,Southern,21,14,0,NaN,0,0
+2009-09-04,Butler,Eastern,35,14,0,NaN,0,0
+2009-09-04,Calloway County,Trigg County,28,17,0,NaN,0,0
+2009-09-04,Campbellsville,Taylor County,30,21,0,NaN,0,0
+2009-09-04,Carroll County,Ludlow,36,21,1,NaN,0,0
+2009-09-04,Central,Ballard,32,29,1,NaN,0,0
+2009-09-04,Central Hardin,Elizabethtown,49,7,1,NaN,0,0
+2009-09-04,Christian Academy-Louisville,North Oldham,28,25,0,NaN,0,0
+2009-09-04,Christian County,Henderson County,47,31,0,NaN,0,0
+2009-09-04,Conner,Lloyd Memorial,64,0,1,NaN,0,0
+2009-09-04,Cooper,Scott,28,27,0,NaN,0,0
+2009-09-04,Daviess County,Ohio County,29,19,0,NaN,0,0
+2009-09-04,East Carter,Fairview,16,13,1,NaN,0,0
+2009-09-04,Fern Creek,Seneca,56,35,1,NaN,0,0
+2009-09-04,Fleming County,Raceland,19,13,1,NaN,0,0
+2009-09-04,George Rogers Clark,Montgomery County,49,35,1,NaN,0,0
+2009-09-04,Glasgow,Barren County,35,14,0,NaN,0,0
+2009-09-04,Graves County,Muhlenberg County,28,6,1,NaN,0,0
+2009-09-04,Grayson County,Breckinridge County,40,0,0,NaN,0,0
+2009-09-04,Green County,Butler County,41,7,0,NaN,0,0
+2009-09-04,Hancock County,Fort Knox,80,39,0,NaN,0,0
+2009-09-04,Harlan,Williamsburg,47,32,1,NaN,0,0
+2009-09-04,Harrison County,Paris,35,14,1,NaN,0,0
+2009-09-04,Heath,Ballard Memorial,43,21,1,NaN,0,0
+2009-09-04,Henry County,Trimble County,32,12,0,NaN,0,0
+2009-09-04,Highlands,Beechwood,48,20,0,NaN,0,0
+2009-09-04,Holmes,Bellevue,24,8,0,NaN,0,0
+2009-09-04,Holy Cross (Louisville),Moore,26,18,1,NaN,0,0
+2009-09-04,Jeffersontown,Waggener,33,12,0,NaN,0,0
+2009-09-04,Jenkins,South Floyd,7,0,1,NaN,0,0
+2009-09-04,John Hardin,Meade County,22,17,1,NaN,0,0
+2009-09-04,Kentucky Country Day,Eminence,29,18,1,NaN,0,0
+2009-09-04,Knox Central,Middlesboro,41,21,0,NaN,0,0
+2009-09-04,Lafayette,Mercer County,28,7,0,NaN,0,0
+2009-09-04,Lawrence County,Sheldon Clark,36,30,1,NaN,0,0
+2009-09-04,Leslie County,Clinton County,40,0,0,NaN,0,0
+2009-09-04,Letcher County Central,Hazard,35,21,0,NaN,0,0
+2009-09-04,Lewis County,Bath County,40,8,1,NaN,0,0
+2009-09-04,Lexington Christian,Lynn Camp,57,14,1,NaN,0,0
+2009-09-04,Lincoln County,Madison Southern,42,21,1,NaN,0,0
+2009-09-04,Logan County,Webster County,56,14,1,NaN,0,0
+2009-09-04,Lone Oak,Marshall County,55,0,1,NaN,0,0
+2009-09-04,Madisonville-North Hopkins,Union County,38,14,1,NaN,0,0
+2009-09-04,Male,Western,49,34,1,NaN,0,0
+2009-09-04,Mayfield,Paducah Tilghman,21,12,0,NaN,0,0
+2009-09-04,McCreary Central,Edmonson County,30,18,1,NaN,0,0
+2009-09-04,Metcalfe County,Hart County,28,6,1,NaN,0,0
+2009-09-04,Monroe County,Adair County,45,14,0,NaN,0,0
+2009-09-04,Morgan County,Powell County,45,26,1,NaN,0,0
+2009-09-04,Murray,Fulton City,82,6,0,NaN,0,0
+2009-09-04,Nelson County,Marion County,31,14,0,NaN,0,0
+2009-09-04,Newport,Pendleton County,35,14,1,NaN,0,0
+2009-09-04,Newport Central Catholic,Madison Central,38,12,0,NaN,0,0
+2009-09-04,North Bullitt,South Oldham,21,7,1,NaN,0,0
+2009-09-04,North Laurel,South Laurel,7,6,1,NaN,0,0
+2009-09-04,Oldham County,Fairdale,27,12,1,NaN,0,0
+2009-09-04,Owen County,Gallatin County,13,7,0,NaN,0,0
+2009-09-04,Owensboro,Owensboro Catholic,48,20,1,NaN,0,0
+2009-09-04,Paintsville,Magoffin County,31,28,0,NaN,0,0
+2009-09-04,Paul Laurence Dunbar,Woodford County,24,17,0,NaN,0,0
+2009-09-04,Perry County Central,Knott County Central,57,6,0,NaN,0,0
+2009-09-04,Pike County Central,Boyd County,19,9,1,NaN,0,0
+2009-09-04,Pineville,Berea,33,8,0,NaN,0,0
+2009-09-04,Pleasure Ridge Park,Doss,14,7,0,NaN,0,0
+2009-09-04,Prestonsburg,Breathitt County,26,25,0,NaN,0,0
+2009-09-04,Pulaski County,East Jessamine,35,30,1,NaN,0,0
+2009-09-04,Reidland,Todd County Central,48,3,0,NaN,0,0
+2009-09-04,Rockcastle County,Wayne County,34,0,0,NaN,0,0
+2009-09-04,Rowan County,Estill County,63,7,1,NaN,0,0
+2009-09-04,Scott County,Boone County,30,14,0,NaN,0,0
+2009-09-04,Shawnee,Atherton,46,26,1,NaN,0,0
+2009-09-04,Shelby County,North Hardin,42,18,1,NaN,0,0
+2009-09-04,Simon Kenton,Dixie Heights,49,28,1,NaN,0,0
+2009-09-04,Somerset,Russell County,40,20,0,NaN,0,0
+2009-09-04,Spencer County,Frankfort,31,27,1,NaN,0,0
+2009-09-04,St. Xavier,Lexington Catholic,49,6,0,NaN,0,0
+2009-09-04,Trinity (Louisville),DuPont Manual,27,0,1,NaN,0,0
+2009-09-04,Valley,Iroquois,57,0,0,NaN,0,0
+2009-09-04,Warren Central,Apollo,21,14,0,NaN,0,0
+2009-09-04,Warren East,Russellville,42,16,0,NaN,0,0
+2009-09-04,West Carter,Nicholas County,26,6,1,NaN,0,0
+2009-09-04,West Jessamine,Garrard County,14,13,0,NaN,0,0
+2009-09-04,Western Hills,Washington County,59,26,0,NaN,0,0
+2009-09-05,Bishop Brossart,Bracken County,38,0,1,NaN,0,0
+2009-09-05,Corbin,Danville,31,14,1,NaN,0,0
+2009-09-05,Grant County,Walton-Verona,21,0,0,NaN,0,0
+2009-09-11,Allen Central,Harlan,30,29,1,NaN,0,0
+2009-09-11,Allen County-Scottsville,Glasgow,25,7,0,NaN,0,0
+2009-09-11,Anderson County,Mercer County,42,21,1,NaN,0,0
+2009-09-11,Ashland Blazer,Russell,28,7,0,NaN,0,0
+2009-09-11,Ballard,Madison Central,37,7,1,NaN,0,0
+2009-09-11,Beechwood,Holy Cross (Covington),36,35,1,NaN,0,0
+2009-09-11,Belfry,Letcher County Central,24,20,0,NaN,0,0
+2009-09-11,Bell County,Whitley County,34,7,0,NaN,0,0
+2009-09-11,Bellevue,Scott,48,41,1,NaN,0,0
+2009-09-11,Berea,Nicholas County,36,24,1,NaN,0,0
+2009-09-11,Betsy Layne,Jackson County,39,38,1,NaN,0,0
+2009-09-11,Bowling Green,Warren East,64,0,1,NaN,0,0
+2009-09-11,Breckinridge County,Adair County,15,8,0,NaN,0,0
+2009-09-11,Bryan Station,Western,21,17,1,NaN,0,0
+2009-09-11,Bullitt Central,Bullitt East,20,14,0,NaN,0,0
+2009-09-11,Butler,Southern,48,13,1,NaN,0,0
+2009-09-11,Caldwell County,Union County,27,20,1,NaN,0,0
+2009-09-11,Campbellsville,Bethlehem,20,14,0,NaN,0,0
+2009-09-11,Carroll County,Kentucky Country Day,27,10,0,NaN,0,0
+2009-09-11,Central Hardin,Ohio County,48,7,1,NaN,0,0
+2009-09-11,Christian County,Pleasure Ridge Park,21,14,1,NaN,0,0
+2009-09-11,Clay County,South Laurel,30,13,1,NaN,0,0
+2009-09-11,Clinton County,Casey County,24,0,1,NaN,0,0
+2009-09-11,Conner,Dixie Heights,36,20,1,NaN,0,0
+2009-09-11,Corbin,North Laurel,34,8,1,NaN,0,0
+2009-09-11,Covington Catholic,Campbell County,33,14,0,NaN,0,0
+2009-09-11,Crittenden County,McLean County,34,12,0,NaN,0,0
+2009-09-11,Doss,Valley,13,12,1,NaN,0,0
+2009-09-11,Eastern,Oldham County,22,21,0,NaN,0,0
+2009-09-11,Edmonson County,Muhlenberg County,20,13,1,NaN,0,0
+2009-09-11,Estill County,Garrard County,42,41,1,NaN,0,0
+2009-09-11,Fairdale,Moore,47,19,0,NaN,0,0
+2009-09-11,Fairview,Boyd County,19,3,1,NaN,0,0
+2009-09-11,Fern Creek,Meade County,34,21,0,NaN,0,0
+2009-09-11,Fort Campbell,Fort Knox,56,0,1,NaN,0,0
+2009-09-11,Franklin-Simpson,Greenwood,21,14,0,NaN,0,0
+2009-09-11,Gallatin County,Atherton,27,6,0,NaN,0,0
+2009-09-11,Graves County,Paducah Tilghman,26,21,1,NaN,0,0
+2009-09-11,Grayson County,Todd County Central,62,0,1,NaN,0,0
+2009-09-11,Greenup County,Raceland,14,13,0,NaN,0,0
+2009-09-11,Hancock County,Butler County,28,20,1,NaN,0,0
+2009-09-11,Harlan County,Leslie County,29,8,0,NaN,0,0
+2009-09-11,Harrison County,Newport,20,14,0,NaN,0,0
+2009-09-11,Hart County,Caverna,36,0,0,NaN,0,0
+2009-09-11,Hazard,Paris,52,6,0,NaN,0,0
+2009-09-11,Henderson County,Madisonville-North Hopkins,31,23,0,NaN,0,0
+2009-09-11,Henry Clay,Scott County,21,7,1,NaN,0,0
+2009-09-11,Henry County,Owen County,50,13,1,NaN,0,0
+2009-09-11,Holmes,Cooper,28,21,1,NaN,0,0
+2009-09-11,Jeffersontown,Iroquois,53,0,1,NaN,0,0
+2009-09-11,John Hardin,North Hardin,35,0,0,NaN,0,0
+2009-09-11,Knox Central,Williamsburg,48,46,0,NaN,0,0
+2009-09-11,LaRue County,Green County,28,27,0,NaN,0,0
+2009-09-11,Lafayette,Franklin County,26,12,0,NaN,0,0
+2009-09-11,Lawrence County,East Ridge,62,7,0,NaN,0,0
+2009-09-11,Lewis County,Powell County,22,8,1,NaN,0,0
+2009-09-11,Lexington Christian,Christian Academy-Louisville,55,27,0,NaN,0,0
+2009-09-11,Lloyd Memorial,Dayton,40,27,1,NaN,0,0
+2009-09-11,Logan County,Metcalfe County,26,6,1,NaN,0,0
+2009-09-11,Lone Oak,Lexington Catholic,52,49,1,NaN,0,0
+2009-09-11,Ludlow,Bracken County,35,24,0,NaN,0,0
+2009-09-11,Lynn Camp,Pineville,33,20,1,NaN,0,0
+2009-09-11,Magoffin County,Morgan County,24,20,0,NaN,0,0
+2009-09-11,Male,Central,47,35,1,NaN,0,0
+2009-09-11,Marion County,Bardstown,57,20,0,NaN,0,0
+2009-09-11,Mason County,Bourbon County,43,14,0,NaN,0,0
+2009-09-11,Mayfield,Calloway County,50,33,1,NaN,0,0
+2009-09-11,McCreary Central,Wayne County,30,14,1,NaN,0,0
+2009-09-11,Monroe County,Barren County,34,14,1,NaN,0,0
+2009-09-11,Montgomery County,Madison Southern,28,12,0,NaN,0,0
+2009-09-11,Murray,Fulton County,43,20,0,NaN,0,0
+2009-09-11,North Oldham,Trimble County,39,6,0,NaN,0,0
+2009-09-11,Owensboro,Daviess County,47,0,0,NaN,0,0
+2009-09-11,Paintsville,South Floyd,51,26,1,NaN,0,0
+2009-09-11,Paul Laurence Dunbar,George Rogers Clark,13,7,1,NaN,0,0
+2009-09-11,Pendleton County,Grant County,21,14,1,NaN,0,0
+2009-09-11,Perry County Central,Breathitt County,37,14,0,NaN,0,0
+2009-09-11,Pikeville,Phelps,48,14,0,NaN,0,0
+2009-09-11,Prestonsburg,Bath County,49,3,1,NaN,0,0
+2009-09-11,Pulaski County,Russell County,50,26,1,NaN,0,0
+2009-09-11,Reidland,Webster County,27,13,0,NaN,0,0
+2009-09-11,Rockcastle County,Lincoln County,42,14,1,NaN,0,0
+2009-09-11,Rowan County,Fleming County,56,26,0,NaN,0,0
+2009-09-11,Russellville,Marshall County,26,15,1,NaN,0,0
+2009-09-11,Shelby County,Seneca,31,30,0,NaN,0,0
+2009-09-11,Shelby Valley,Knott County Central,48,0,1,NaN,0,0
+2009-09-11,Sheldon Clark,Johnson Central,22,14,0,NaN,0,0
+2009-09-11,Somerset,Danville,48,7,1,NaN,0,0
+2009-09-11,South Oldham,Waggener,22,16,1,NaN,0,0
+2009-09-11,Taylor County,Washington County,28,27,0,NaN,0,0
+2009-09-11,Trigg County,Hopkins County Central,6,0,1,NaN,0,0
+2009-09-11,Warren Central,Nelson County,31,28,1,NaN,0,0
+2009-09-11,West Carter,East Carter,35,10,0,NaN,0,0
+2009-09-11,West Jessamine,Spencer County,28,14,1,NaN,0,0
+2009-09-11,Western Hills,Frankfort,14,13,1,NaN,0,0
+2009-09-11,Woodford County,North Bullitt,28,19,1,NaN,0,0
+2009-09-12,Bishop Brossart,Jenkins,56,6,1,NaN,0,0
+2009-09-12,Ryle,Newport Central Catholic,45,0,0,NaN,0,0
+2009-09-17,Green County,Campbellsville,56,18,0,NaN,0,0
+2009-09-17,Kentucky Country Day,Fort Knox,47,21,1,NaN,0,0
+2009-09-18,Allen Central,Paintsville,34,14,1,NaN,0,0
+2009-09-18,Allen County-Scottsville,Greenwood,15,12,1,NaN,0,0
+2009-09-18,Anderson County,Henry County,42,7,0,NaN,0,0
+2009-09-18,Apollo,Owensboro Catholic,34,14,0,NaN,0,0
+2009-09-18,Ballard,Meade County,44,7,0,NaN,0,0
+2009-09-18,Belfry,Whitley County,53,23,0,NaN,0,0
+2009-09-18,Berea,Bath County,60,31,1,NaN,0,0
+2009-09-18,Bowling Green,Owensboro,26,21,1,NaN,0,0
+2009-09-18,Boyle County,Mercer County,56,0,0,NaN,0,0
+2009-09-18,Breckinridge County,Hancock County,28,20,0,NaN,0,0
+2009-09-18,Bullitt Central,Atherton,64,6,0,NaN,0,0
+2009-09-18,Butler,Doss,49,31,1,NaN,0,0
+2009-09-18,Calloway County,Heath,18,14,1,NaN,0,0
+2009-09-18,Campbell County,Newport Central Catholic,21,17,0,NaN,0,0
+2009-09-18,Carroll County,Walton-Verona,32,13,1,NaN,0,0
+2009-09-18,Casey County,Powell County,34,27,0,NaN,0,0
+2009-09-18,Christian Academy-Louisville,Holy Cross (Louisville),10,7,0,NaN,0,0
+2009-09-18,Christian County,Hopkinsville,19,0,1,NaN,0,0
+2009-09-18,Clay County,Knox Central,27,7,1,NaN,0,0
+2009-09-18,Clinton County,Caverna,28,0,0,NaN,0,0
+2009-09-18,Conner,Holy Cross (Covington),30,14,0,NaN,0,0
+2009-09-18,Corbin,South Laurel,21,0,0,NaN,0,0
+2009-09-18,Crittenden County,Webster County,49,8,1,NaN,0,0
+2009-09-18,Daviess County,McLean County,42,0,1,NaN,0,0
+2009-09-18,DuPont Manual,Central,45,28,1,NaN,0,0
+2009-09-18,East Jessamine,Madison Southern,29,26,1,NaN,0,0
+2009-09-18,Edmonson County,Butler County,21,6,1,NaN,0,0
+2009-09-18,Fairdale,Southern,35,21,1,NaN,0,0
+2009-09-18,Fairview,Lewis County,26,0,1,NaN,0,0
+2009-09-18,Fern Creek,Eastern,54,28,0,NaN,0,0
+2009-09-18,Fort Campbell,Paducah Tilghman,53,7,1,NaN,0,0
+2009-09-18,Frankfort,Franklin County,28,13,1,NaN,0,0
+2009-09-18,Fulton City,Todd County Central,42,14,0,NaN,0,0
+2009-09-18,George Rogers Clark,Lafayette,13,10,1,NaN,0,0
+2009-09-18,Grayson County,Barren County,38,6,1,NaN,0,0
+2009-09-18,Hazard,Williamsburg,63,8,1,NaN,0,0
+2009-09-18,Henry Clay,Simon Kenton,42,31,0,NaN,0,0
+2009-09-18,Highlands,Boone County,36,14,1,NaN,0,0
+2009-09-18,Holmes,Bourbon County,47,21,0,NaN,0,0
+2009-09-18,John Hardin,Nelson County,35,7,0,NaN,0,0
+2009-09-18,LaRue County,Glasgow,28,24,0,NaN,0,0
+2009-09-18,Lawrence County,Shelby Valley,49,14,1,NaN,0,0
+2009-09-18,Lexington Catholic,Madison Central,42,14,0,NaN,0,0
+2009-09-18,Lexington Christian,Breathitt County,63,21,1,NaN,0,0
+2009-09-18,Lloyd Memorial,Cooper,36,35,1,NaN,0,0
+2009-09-18,Lone Oak,Caldwell County,56,19,1,NaN,0,0
+2009-09-18,Ludlow,Shawnee,31,30,1,NaN,0,0
+2009-09-18,Lynn Camp,Harlan,21,15,1,NaN,0,0
+2009-09-18,Magoffin County,Betsy Layne,46,6,1,NaN,0,0
+2009-09-18,Marion County,Taylor County,67,0,0,NaN,0,0
+2009-09-18,Mason County,Rowan County,28,26,1,NaN,0,0
+2009-09-18,Mayfield,Graves County,28,13,1,NaN,0,0
+2009-09-18,McCreary Central,Leslie County,50,12,1,NaN,0,0
+2009-09-18,Metcalfe County,Adair County,18,6,1,NaN,0,0
+2009-09-18,Monroe County,Logan County,49,23,1,NaN,0,0
+2009-09-18,Muhlenberg County,Marshall County,42,27,1,NaN,0,0
+2009-09-18,Murray,Ballard Memorial,59,40,0,NaN,0,0
+2009-09-18,Newport,Dayton,56,6,0,NaN,0,0
+2009-09-18,North Bullitt,Waggener,23,9,0,NaN,0,0
+2009-09-18,North Oldham,South Oldham,31,7,1,NaN,0,0
+2009-09-18,Owen County,Trimble County,30,14,1,NaN,0,0
+2009-09-18,Pendleton County,Bracken County,42,0,0,NaN,0,0
+2009-09-18,Pike County Central,Knott County Central,46,19,1,NaN,0,0
+2009-09-18,Pineville,Jackson County,28,6,0,NaN,0,0
+2009-09-18,Prestonsburg,Pikeville,56,7,0,NaN,0,0
+2009-09-18,Pulaski County,Rockcastle County,47,41,0,NaN,0,0
+2009-09-18,Raceland,East Carter,46,10,1,NaN,0,0
+2009-09-18,Reidland,Fulton County,28,16,1,NaN,0,0
+2009-09-18,Russell,Boyd County,22,0,0,NaN,0,0
+2009-09-18,Russell County,Wayne County,50,34,1,NaN,0,0
+2009-09-18,Russellville,Hart County,56,8,1,NaN,0,0
+2009-09-18,Ryle,Dixie Heights,42,28,0,NaN,0,0
+2009-09-18,Scott,Harrison County,36,30,0,NaN,0,0
+2009-09-18,Scott County,Oldham County,33,20,1,NaN,0,0
+2009-09-18,Seneca,DeSales,34,26,1,NaN,0,0
+2009-09-18,Shelby County,Bullitt East,63,15,1,NaN,0,0
+2009-09-18,Somerset,Estill County,27,14,0,NaN,0,0
+2009-09-18,Southwestern,Danville,43,27,0,NaN,0,0
+2009-09-18,Spencer County,Bethlehem,30,14,1,NaN,0,0
+2009-09-18,St. Xavier,Male,62,21,1,NaN,0,0
+2009-09-18,Tates Creek,Paul Laurence Dunbar,42,28,1,NaN,0,0
+2009-09-18,Union County,Ohio County,49,0,1,NaN,0,0
+2009-09-18,Valley,Moore,33,13,0,NaN,0,0
+2009-09-18,Warren Central,Warren East,50,7,0,NaN,0,0
+2009-09-18,Washington County,Lincoln County,48,24,0,NaN,0,0
+2009-09-18,West Jessamine,Paris,41,0,1,NaN,0,0
+2009-09-18,Western,Jeffersontown,27,16,1,NaN,0,0
+2009-09-18,Western Hills,Grant County,49,6,1,NaN,0,0
+2009-09-18,Woodford County,Fleming County,37,24,1,NaN,0,0
+2009-09-19,Covington Catholic,Beechwood,43,14,1,NaN,0,0
+2009-09-25,Anderson County,Grant County,41,0,0,NaN,0,0
+2009-09-25,Apollo,Marshall County,42,3,0,NaN,0,0
+2009-09-25,Ballard,Male,7,3,0,NaN,0,0
+2009-09-25,Ballard Memorial,Fulton City,64,22,1,NaN,0,0
+2009-09-25,Barren County,Pulaski County,35,34,1,NaN,0,0
+2009-09-25,Beechwood,Dayton,49,7,1,NaN,0,0
+2009-09-25,Bell County,Rockcastle County,42,6,1,NaN,1,0
+2009-09-25,Bellevue,Walton-Verona,47,0,1,NaN,0,0
+2009-09-25,Boone County,Campbell County,49,12,1,NaN,0,0
+2009-09-25,Bourbon County,Owen County,28,7,1,NaN,0,0
+2009-09-25,Boyle County,Danville,49,9,0,NaN,0,0
+2009-09-25,Bryan Station,Pleasure Ridge Park,22,12,0,NaN,0,0
+2009-09-25,Bullitt Central,Waggener,33,19,0,NaN,0,0
+2009-09-25,Butler,Western,23,13,0,NaN,0,0
+2009-09-25,Butler County,Hart County,27,12,0,NaN,0,0
+2009-09-25,Campbellsville,Lynn Camp,12,6,0,NaN,1,0
+2009-09-25,Central Hardin,North Hardin,19,6,1,NaN,0,0
+2009-09-25,Christian Academy-Louisville,Shawnee,50,6,1,NaN,0,0
+2009-09-25,Christian County,Madisonville-North Hopkins,7,6,0,NaN,0,0
+2009-09-25,Corbin,Hazard,27,7,1,NaN,0,0
+2009-09-25,Crittenden County,Caldwell County,26,14,1,NaN,0,0
+2009-09-25,Dixie Heights,Scott,44,0,0,NaN,0,0
+2009-09-25,DuPont Manual,Seneca,24,0,0,NaN,0,0
+2009-09-25,East Ridge,South Floyd,31,22,0,NaN,0,0
+2009-09-25,Eastern,Bullitt East,27,25,0,NaN,0,0
+2009-09-25,Edmonson County,Adair County,35,0,0,NaN,0,0
+2009-09-25,Eminence,Bracken County,48,0,0,NaN,0,0
+2009-09-25,Estill County,Newport,24,20,0,NaN,0,0
+2009-09-25,Fairdale,Breckinridge County,58,13,1,NaN,0,0
+2009-09-25,Fairview,Paris,45,22,0,NaN,0,0
+2009-09-25,Fleming County,Lewis County,33,8,1,NaN,0,0
+2009-09-25,Fort Campbell,Warren Central,49,7,0,NaN,0,0
+2009-09-25,Frankfort,Middlesboro,35,14,0,NaN,0,0
+2009-09-25,Franklin County,Woodford County,12,7,1,NaN,0,0
+2009-09-25,Franklin-Simpson,Russell County,45,20,0,NaN,0,0
+2009-09-25,Gallatin County,Trimble County,12,6,0,NaN,0,0
+2009-09-25,Garrard County,Wayne County,21,14,1,NaN,0,0
+2009-09-25,Grayson County,Clinton County,52,8,0,NaN,0,0
+2009-09-25,Green County,Glasgow,34,14,1,NaN,0,0
+2009-09-25,Greenwood,Meade County,28,13,1,NaN,0,0
+2009-09-25,Hancock County,Muhlenberg County,31,22,0,NaN,0,0
+2009-09-25,Heath,Reidland,34,7,1,NaN,0,0
+2009-09-25,Henderson County,Daviess County,9,0,1,NaN,0,0
+2009-09-25,Holmes,Pendleton County,49,6,0,NaN,0,0
+2009-09-25,Holy Cross (Louisville),Bethlehem,21,20,1,NaN,0,0
+2009-09-25,Hopkins County Central,Bardstown,22,20,1,NaN,0,0
+2009-09-25,Hopkinsville,Russellville,25,13,1,NaN,0,0
+2009-09-25,Jeffersontown,South Oldham,34,0,1,NaN,0,0
+2009-09-25,John Hardin,Doss,52,8,1,NaN,0,0
+2009-09-25,Johnson Central,Breathitt County,36,14,0,NaN,0,0
+2009-09-25,Knox Central,McCreary Central,34,6,1,NaN,0,0
+2009-09-25,LaRue County,Elizabethtown,35,7,0,NaN,0,0
+2009-09-25,Lafayette,Henry Clay,12,9,0,NaN,0,0
+2009-09-25,Lawrence County,East Carter,39,0,0,NaN,0,0
+2009-09-25,Leslie County,Morgan County,18,16,0,NaN,0,0
+2009-09-25,Letcher County Central,Perry County Central,35,32,1,NaN,0,0
+2009-09-25,Lexington Catholic,Lexington Christian,27,26,0,NaN,0,0
+2009-09-25,Lloyd Memorial,Montgomery County,20,14,0,NaN,0,0
+2009-09-25,Logan County,Warren East,35,20,0,NaN,0,0
+2009-09-25,Lone Oak,Graves County,17,7,0,NaN,0,0
+2009-09-25,Madison Southern,Powell County,47,8,1,NaN,0,0
+2009-09-25,Magoffin County,Knott County Central,34,32,0,NaN,0,0
+2009-09-25,Marion County,Washington County,52,7,0,NaN,0,0
+2009-09-25,Mason County,Harrison County,30,16,0,NaN,0,0
+2009-09-25,Mayfield,Fulton County,51,0,0,NaN,0,0
+2009-09-25,McLean County,Webster County,56,12,0,NaN,0,0
+2009-09-25,Monroe County,Metcalfe County,21,6,0,NaN,0,0
+2009-09-25,Moore,Kentucky Country Day,24,12,1,NaN,0,0
+2009-09-25,Murray,Trigg County,17,0,0,NaN,0,0
+2009-09-25,North Laurel,Clay County,33,8,1,NaN,0,0
+2009-09-25,North Oldham,Fort Knox,46,7,1,NaN,0,0
+2009-09-25,Owensboro,Ohio County,63,0,1,NaN,0,0
+2009-09-25,Owensboro Catholic,Henry County,34,26,1,NaN,0,0
+2009-09-25,Paducah Tilghman,Calloway County,30,12,1,NaN,0,0
+2009-09-25,Phelps,Betsy Layne,14,8,1,NaN,0,0
+2009-09-25,Pikeville,Allen Central,34,24,1,NaN,0,0
+2009-09-25,Pineville,Paintsville,38,21,1,NaN,0,0
+2009-09-25,Prestonsburg,Sheldon Clark,24,19,0,NaN,0,0
+2009-09-25,Raceland,Nicholas County,32,14,1,NaN,0,0
+2009-09-25,Rowan County,Boyd County,28,13,0,NaN,0,0
+2009-09-25,Russell,West Carter,14,12,0,NaN,0,0
+2009-09-25,Ryle,Cooper,56,13,1,NaN,0,0
+2009-09-25,Scott County,George Rogers Clark,40,0,1,NaN,0,0
+2009-09-25,Shelby County,Nelson County,20,16,0,NaN,0,0
+2009-09-25,Shelby Valley,Bath County,49,0,0,NaN,0,0
+2009-09-25,Simon Kenton,Conner,56,14,1,NaN,0,0
+2009-09-25,Somerset,Casey County,60,9,0,NaN,0,0
+2009-09-25,South Laurel,Mercer County,26,21,0,NaN,0,0
+2009-09-25,Southern,Iroquois,40,0,1,NaN,0,0
+2009-09-25,Southwestern,Lincoln County,36,7,0,NaN,0,0
+2009-09-25,St. Xavier,Central,36,14,0,NaN,0,0
+2009-09-25,Tates Creek,North Bullitt,29,7,0,NaN,0,0
+2009-09-25,Taylor County,Jackson County,37,8,0,NaN,0,0
+2009-09-25,Trinity (Louisville),Bowling Green,9,0,1,NaN,0,0
+2009-09-25,Valley,Atherton,72,0,0,NaN,0,0
+2009-09-25,Western Hills,East Jessamine,8,0,0,NaN,0,0
+2009-09-25,Whitley County,Harlan County,36,8,1,NaN,0,0
+2009-09-25,Williamsburg,Berea,46,36,1,NaN,0,0
+2009-09-26,Covington Catholic,Newport Central Catholic,28,14,1,NaN,0,0
+2009-09-28,Ludlow,Bishop Brossart,35,14,1,NaN,0,0
+2009-10-01,Allen Central,East Ridge,58,30,0,NaN,0,0
+2009-10-01,Butler,Seneca,16,10,1,NaN,1,0
+2009-10-01,Moore,Southern,42,39,0,NaN,0,0
+2009-10-01,Rockcastle County,Madison Southern,40,12,1,NaN,0,0
+2009-10-01,Valley,Breckinridge County,53,13,1,NaN,0,0
+2009-10-01,Waggener,Iroquois,26,6,1,NaN,0,0
+2009-10-01,Western,Fairdale,48,28,0,NaN,0,0
+2009-10-02,Allen County-Scottsville,Warren East,42,6,0,NaN,0,0
+2009-10-02,Anderson County,Jeffersontown,35,20,1,NaN,0,0
+2009-10-02,Apollo,Daviess County,17,0,0,NaN,0,0
+2009-10-02,Belfry,Pikeville,54,20,1,NaN,0,0
+2009-10-02,Bell County,Knox Central,34,6,1,NaN,0,0
+2009-10-02,Bellevue,Bishop Brossart,45,7,1,NaN,0,0
+2009-10-02,Bethlehem,Washington County,27,7,1,NaN,0,0
+2009-10-02,Bowling Green,Grayson County,42,14,1,NaN,0,0
+2009-10-02,Boyd County,East Carter,23,10,1,NaN,0,0
+2009-10-02,Boyle County,Lafayette,48,6,1,NaN,0,0
+2009-10-02,Breathitt County,Hazard,7,3,1,NaN,0,0
+2009-10-02,Bullitt Central,Doss,41,24,1,NaN,0,0
+2009-10-02,Butler County,Adair County,36,0,1,NaN,0,0
+2009-10-02,Calloway County,Fulton County,24,8,0,NaN,0,0
+2009-10-02,Campbellsville,Berea,26,14,0,NaN,0,0
+2009-10-02,Central Hardin,LaRue County,51,41,0,NaN,0,0
+2009-10-02,Christian Academy-Louisville,North Bullitt,30,21,0,NaN,0,0
+2009-10-02,Christian County,Owensboro,13,10,1,NaN,0,0
+2009-10-02,Conner,Boone County,42,14,1,NaN,0,0
+2009-10-02,Crittenden County,Ballard Memorial,27,6,0,NaN,0,0
+2009-10-02,East Jessamine,Owen County,22,0,0,NaN,0,0
+2009-10-02,Eminence,Gallatin County,12,6,1,NaN,1,0
+2009-10-02,Estill County,Pineville,35,14,1,NaN,0,0
+2009-10-02,Frankfort,Bracken County,68,0,1,NaN,0,0
+2009-10-02,Franklin-Simpson,Monroe County,35,28,0,NaN,0,0
+2009-10-02,Garrard County,Jackson County,56,24,1,NaN,0,0
+2009-10-02,George Rogers Clark,Corbin,35,30,1,NaN,0,0
+2009-10-02,Glasgow,Elizabethtown,22,8,1,NaN,0,0
+2009-10-02,Grant County,Bourbon County,17,14,0,NaN,0,0
+2009-10-02,Graves County,Marshall County,40,0,0,NaN,0,0
+2009-10-02,Greenwood,Nelson County,22,9,0,NaN,0,0
+2009-10-02,Harlan,Knott County Central,48,20,1,NaN,0,0
+2009-10-02,Harlan County,Letcher County Central,12,7,1,NaN,0,0
+2009-10-02,Henderson County,Muhlenberg County,62,18,0,NaN,0,0
+2009-10-02,Henry Clay,Bryan Station,27,6,1,NaN,0,0
+2009-10-02,Highlands,Dixie Heights,52,9,1,NaN,0,0
+2009-10-02,Holmes,Franklin County,28,12,1,NaN,0,0
+2009-10-02,John Hardin,Paul Laurence Dunbar,47,20,0,NaN,0,0
+2009-10-02,Lexington Christian,Nicholas County,62,0,0,NaN,0,0
+2009-10-02,Logan County,Russell County,25,12,1,NaN,0,0
+2009-10-02,Lone Oak,Green County,52,20,1,NaN,0,0
+2009-10-02,Ludlow,Dayton,19,12,0,NaN,0,0
+2009-10-02,Madisonville-North Hopkins,Hopkins County Central,14,6,1,NaN,0,0
+2009-10-02,Magoffin County,Jenkins,61,18,0,NaN,0,0
+2009-10-02,Marion County,Mercer County,35,15,1,NaN,0,0
+2009-10-02,Mason County,Lewis County,42,14,0,NaN,0,0
+2009-10-02,Mayfield,Fulton City,49,0,1,NaN,0,0
+2009-10-02,McCreary Central,Powell County,50,30,0,NaN,0,0
+2009-10-02,Meade County,North Hardin,23,21,0,NaN,0,0
+2009-10-02,Metcalfe County,Todd County Central,58,0,1,NaN,0,0
+2009-10-02,Montgomery County,Spencer County,14,13,0,NaN,0,0
+2009-10-02,Murray,Reidland,49,0,1,NaN,0,0
+2009-10-02,Newport Central Catholic,Newport,35,16,0,NaN,0,0
+2009-10-02,Oldham County,South Oldham,42,7,0,NaN,0,0
+2009-10-02,Paducah Tilghman,Webster County,60,6,1,NaN,0,0
+2009-10-02,Pendleton County,Bath County,40,21,1,NaN,0,0
+2009-10-02,Perry County Central,North Laurel,20,14,0,NaN,0,0
+2009-10-02,Pleasure Ridge Park,Madison Central,33,0,1,NaN,0,0
+2009-10-02,Raceland,Paris,21,0,0,NaN,0,0
+2009-10-02,Rowan County,Greenup County,29,28,1,NaN,0,0
+2009-10-02,Russell,Fleming County,45,25,1,NaN,0,0
+2009-10-02,Russellville,Edmonson County,18,14,0,NaN,0,0
+2009-10-02,Ryle,Campbell County,62,19,0,NaN,0,0
+2009-10-02,Scott,Lloyd Memorial,34,26,0,NaN,0,0
+2009-10-02,Scott County,Tates Creek,32,14,1,NaN,0,0
+2009-10-02,Shelby County,Eastern,41,34,1,NaN,0,0
+2009-10-02,Shelby Valley,Leslie County,49,14,1,NaN,0,0
+2009-10-02,Simon Kenton,Cooper,62,0,0,NaN,0,0
+2009-10-02,Somerset,Taylor County,62,15,1,NaN,0,0
+2009-10-02,South Floyd,Betsy Layne,40,38,0,NaN,0,0
+2009-10-02,Southwestern,South Laurel,14,8,1,NaN,0,0
+2009-10-02,Trigg County,Caldwell County,30,29,0,NaN,0,0
+2009-10-02,Trimble County,Carroll County,31,19,0,NaN,0,0
+2009-10-02,Union County,Heath,41,21,1,NaN,0,0
+2009-10-02,Warren Central,Barren County,54,0,1,NaN,0,0
+2009-10-02,Wayne County,Casey County,42,22,0,NaN,0,0
+2009-10-02,West Carter,Morgan County,42,20,1,NaN,0,0
+2009-10-02,West Jessamine,Western Hills,35,0,1,NaN,0,0
+2009-10-02,Whitley County,Clay County,30,26,0,NaN,0,0
+2009-10-02,Williamsburg,Clinton County,54,26,1,NaN,0,0
+2009-10-03,Beechwood,Walton-Verona,55,0,0,NaN,0,0
+2009-10-03,Holy Cross (Covington),Holy Cross (Louisville),26,10,1,NaN,0,0
+2009-10-03,Hopkinsville,Ohio County,47,12,1,NaN,0,0
+2009-10-08,Corbin,Knott County Central,85,34,0,NaN,0,0
+2009-10-08,Simon Kenton,Ryle,49,29,1,NaN,0,0
+2009-10-09,Allen Central,Phelps,56,0,0,NaN,0,0
+2009-10-09,Allen County-Scottsville,Franklin-Simpson,19,14,0,NaN,0,0
+2009-10-09,Anderson County,Bullitt Central,42,7,0,NaN,0,0
+2009-10-09,Ballard,Eastern,29,14,1,NaN,0,0
+2009-10-09,Beechwood,Ludlow,49,2,1,NaN,0,0
+2009-10-09,Belfry,Pike County Central,24,14,0,NaN,0,0
+2009-10-09,Bellevue,Dayton,56,7,0,NaN,0,0
+2009-10-09,Bethlehem,Kentucky Country Day,33,20,1,NaN,0,0
+2009-10-09,Boone County,Cooper,26,3,1,NaN,0,0
+2009-10-09,Bourbon County,Franklin County,24,22,1,NaN,0,0
+2009-10-09,Breathitt County,Estill County,35,6,0,NaN,0,0
+2009-10-09,Campbellsville,Williamsburg,14,12,1,NaN,0,0
+2009-10-09,Central,Elizabethtown,21,6,0,NaN,0,0
+2009-10-09,Christian Academy-Louisville,Carroll County,44,6,0,NaN,0,0
+2009-10-09,Christian County,Ohio County,41,14,0,NaN,0,0
+2009-10-09,Conner,Campbell County,47,12,1,NaN,0,0
+2009-10-09,Daviess County,Marshall County,30,7,0,NaN,0,0
+2009-10-09,Dixie Heights,Holmes,21,12,1,NaN,0,0
+2009-10-09,Doss,Waggener,21,0,1,NaN,0,0
+2009-10-09,DuPont Manual,Pleasure Ridge Park,35,0,0,NaN,0,0
+2009-10-09,Fern Creek,Southern,48,0,1,NaN,0,0
+2009-10-09,Fleming County,West Carter,28,25,1,NaN,0,0
+2009-10-09,Fort Campbell,Todd County Central,78,0,0,NaN,0,0
+2009-10-09,Frankfort,Eminence,14,0,0,NaN,0,0
+2009-10-09,George Rogers Clark,Henry Clay,12,6,0,NaN,0,0
+2009-10-09,Grayson County,Butler County,7,6,0,NaN,0,0
+2009-10-09,Hancock County,Owensboro Catholic,24,19,1,NaN,0,0
+2009-10-09,Harlan County,North Laurel,32,26,1,NaN,0,0
+2009-10-09,Hazard,Harlan,34,0,0,NaN,0,0
+2009-10-09,Henderson County,Graves County,13,0,0,NaN,0,0
+2009-10-09,Henry County,North Oldham,28,6,0,NaN,0,0
+2009-10-09,Holy Cross (Louisville),Caverna,56,0,0,NaN,0,0
+2009-10-09,Hopkins County Central,Webster County,40,0,1,NaN,0,0
+2009-10-09,John Hardin,Iroquois,55,0,0,NaN,0,0
+2009-10-09,Johnson Central,Ashland Blazer,29,28,1,NaN,0,0
+2009-10-09,Knox Central,Rockcastle County,21,20,1,NaN,1,0
+2009-10-09,Lafayette,Paul Laurence Dunbar,31,7,0,NaN,0,0
+2009-10-09,Lawrence County,Greenup County,52,12,0,NaN,0,0
+2009-10-09,Letcher County Central,Whitley County,34,27,0,NaN,0,0
+2009-10-09,Lone Oak,Calloway County,25,0,0,NaN,0,0
+2009-10-09,Lynn Camp,Clinton County,13,8,0,NaN,0,0
+2009-10-09,Madisonville-North Hopkins,Hopkinsville,13,6,0,NaN,0,0
+2009-10-09,Male,Shelby County,35,21,1,NaN,0,0
+2009-10-09,Mason County,Russell,34,21,1,NaN,0,0
+2009-10-09,Mayfield,Ballard Memorial,53,14,1,NaN,0,0
+2009-10-09,McCreary Central,Madison Southern,46,21,1,NaN,0,0
+2009-10-09,McLean County,Muhlenberg County,59,6,1,NaN,0,0
+2009-10-09,Meade County,Lincoln County,27,0,1,NaN,0,0
+2009-10-09,Middlesboro,Leslie County,28,14,0,NaN,0,0
+2009-10-09,Nelson County,Central Hardin,22,17,0,NaN,0,0
+2009-10-09,Newport Central Catholic,Holy Cross (Covington),38,21,1,NaN,0,0
+2009-10-09,Nicholas County,Lewis County,23,16,1,NaN,0,0
+2009-10-09,Oldham County,Jeffersontown,36,14,1,NaN,0,0
+2009-10-09,Owensboro,Apollo,16,7,0,NaN,0,0
+2009-10-09,Paintsville,Betsy Layne,26,20,0,NaN,0,0
+2009-10-09,Perry County Central,Clay County,14,0,1,NaN,0,0
+2009-10-09,Pikeville,South Floyd,54,6,0,NaN,0,0
+2009-10-09,Pineville,Jenkins,63,0,1,NaN,0,0
+2009-10-09,Prestonsburg,Morgan County,53,12,1,NaN,0,0
+2009-10-09,Pulaski County,South Laurel,45,20,0,NaN,0,0
+2009-10-09,Raceland,Fairview,14,6,1,NaN,0,0
+2009-10-09,Russell County,Warren East,37,6,1,NaN,0,0
+2009-10-09,Scott County,Bryan Station,37,25,0,NaN,0,0
+2009-10-09,Sheldon Clark,East Ridge,63,28,1,NaN,0,0
+2009-10-09,Somerset,Garrard County,34,20,1,NaN,0,0
+2009-10-09,South Oldham,Grant County,28,7,1,NaN,0,0
+2009-10-09,Southwestern,Mercer County,19,7,1,NaN,0,0
+2009-10-09,St. Xavier,Butler,35,7,1,NaN,0,0
+2009-10-09,Tates Creek,Madison Central,35,21,1,NaN,0,0
+2009-10-09,Taylor County,Casey County,22,21,1,NaN,1,0
+2009-10-09,Trigg County,Reidland,28,7,0,NaN,0,0
+2009-10-09,Trimble County,Bracken County,40,0,0,NaN,0,0
+2009-10-09,Trinity (Louisville),Seneca,40,14,1,NaN,0,0
+2009-10-09,Union County,Paducah Tilghman,21,13,1,NaN,0,0
+2009-10-09,Valley,Fairdale,28,12,1,NaN,0,0
+2009-10-09,Washington County,Fort Knox,48,7,1,NaN,0,0
+2009-10-09,Wayne County,Jackson County,41,12,0,NaN,0,0
+2009-10-09,West Jessamine,East Jessamine,13,12,1,NaN,0,0
+2009-10-09,Western,Atherton,50,0,1,NaN,0,0
+2009-10-09,Western Hills,Spencer County,28,21,1,NaN,0,0
+2009-10-09,Woodford County,Montgomery County,13,6,0,NaN,0,0
+2009-10-10,Bardstown,Danville,17,15,0,NaN,0,0
+2009-10-10,Bishop Brossart,Walton-Verona,21,15,0,NaN,0,0
+2009-10-10,Boyle County,Lexington Catholic,21,13,1,NaN,0,0
+2009-10-10,Covington Catholic,Scott,56,14,1,NaN,0,0
+2009-10-10,Greenwood,North Hardin,45,33,0,NaN,0,0
+2009-10-10,Harrison County,Pendleton County,35,7,1,NaN,0,0
+2009-10-10,Heath,Caldwell County,7,6,0,NaN,0,0
+2009-10-10,LaRue County,North Bullitt,42,6,1,NaN,0,0
+2009-10-10,Lexington Christian,Paris,56,0,1,NaN,0,0
+2009-10-10,Lloyd Memorial,Newport,51,22,1,NaN,0,0
+2009-10-10,Marion County,Bullitt East,18,14,1,NaN,0,0
+2009-10-10,Powell County,Magoffin County,49,48,1,NaN,1,0
+2009-10-10,Rowan County,East Carter,36,20,1,NaN,0,0
+2009-10-16,Allen Central,South Floyd,52,6,1,NaN,0,0
+2009-10-16,Allen County-Scottsville,Logan County,40,20,1,NaN,0,0
+2009-10-16,Anderson County,South Oldham,29,19,1,NaN,0,0
+2009-10-16,Ashland Blazer,Montgomery County,36,6,1,NaN,0,0
+2009-10-16,Ballard,Seneca,20,16,0,NaN,0,0
+2009-10-16,Ballard Memorial,Fulton County,45,6,0,NaN,0,0
+2009-10-16,Bardstown,Washington County,24,14,1,NaN,0,0
+2009-10-16,Bath County,East Carter,28,21,1,NaN,0,0
+2009-10-16,Beechwood,Bishop Brossart,54,7,0,NaN,0,0
+2009-10-16,Belfry,Sheldon Clark,34,13,1,NaN,0,0
+2009-10-16,Bell County,Madison Southern,69,7,0,NaN,0,0
+2009-10-16,Bellevue,Ludlow,48,0,0,NaN,0,0
+2009-10-16,Berea,Caverna,30,16,0,NaN,0,0
+2009-10-16,Bowling Green,Doss,51,6,0,NaN,0,0
+2009-10-16,Boyd County,Greenup County,28,7,0,NaN,0,0
+2009-10-16,Boyle County,West Jessamine,47,0,1,NaN,0,0
+2009-10-16,Breathitt County,Powell County,63,26,1,NaN,0,0
+2009-10-16,Bullitt Central,Iroquois,61,0,0,NaN,0,0
+2009-10-16,Bullitt East,North Bullitt,21,13,0,NaN,0,0
+2009-10-16,Campbell County,Cooper,28,20,0,NaN,0,0
+2009-10-16,Casey County,Jackson County,24,6,1,NaN,0,0
+2009-10-16,Central,Moore,50,14,1,NaN,0,0
+2009-10-16,Corbin,Leslie County,44,8,1,NaN,0,0
+2009-10-16,Crittenden County,Fulton City,57,0,0,NaN,0,0
+2009-10-16,Danville,Fort Knox,55,25,0,NaN,0,0
+2009-10-16,Dayton,Walton-Verona,26,7,1,NaN,0,0
+2009-10-16,DeSales,Christian Academy-Louisville,26,7,0,NaN,0,0
+2009-10-16,Edmonson County,Hart County,27,0,0,NaN,0,0
+2009-10-16,Eminence,Trimble County,24,20,0,NaN,0,0
+2009-10-16,Estill County,Magoffin County,21,14,0,NaN,0,0
+2009-10-16,Fairdale,Atherton,56,6,0,NaN,0,0
+2009-10-16,Fairview,Nicholas County,40,14,1,NaN,0,0
+2009-10-16,Fleming County,Newport,34,16,1,NaN,0,0
+2009-10-16,Fort Campbell,Hancock County,62,7,1,NaN,0,0
+2009-10-16,Frankfort,Gallatin County,30,7,0,NaN,0,0
+2009-10-16,Franklin-Simpson,Warren East,62,14,1,NaN,0,0
+2009-10-16,George Rogers Clark,Tates Creek,12,6,1,NaN,0,0
+2009-10-16,Graves County,Apollo,7,6,0,NaN,0,0
+2009-10-16,Grayson County,Warren Central,21,13,1,NaN,0,0
+2009-10-16,Green County,Metcalfe County,39,14,1,NaN,0,0
+2009-10-16,Greenwood,Central Hardin,17,13,1,NaN,0,0
+2009-10-16,Harlan,Pineville,26,18,0,NaN,0,0
+2009-10-16,Harlan County,Perry County Central,15,14,1,NaN,0,0
+2009-10-16,Harrison County,Bourbon County,24,21,1,NaN,0,0
+2009-10-16,Henderson County,Marshall County,56,13,1,NaN,0,0
+2009-10-16,Henry Clay,Madison Central,21,7,0,NaN,0,0
+2009-10-16,Henry County,Western Hills,14,7,1,NaN,0,0
+2009-10-16,Holmes,Scott,20,9,0,NaN,0,0
+2009-10-16,Holy Cross (Covington),Lloyd Memorial,36,19,1,NaN,0,0
+2009-10-16,Holy Cross (Louisville),Kentucky Country Day,21,0,1,NaN,0,0
+2009-10-16,Jeffersontown,Valley,24,6,1,NaN,0,0
+2009-10-16,John Hardin,Waggener,49,7,1,NaN,0,0
+2009-10-16,Johnson Central,Woodford County,64,14,1,NaN,0,0
+2009-10-16,Lawrence County,Rowan County,29,14,1,NaN,0,0
+2009-10-16,Letcher County Central,Clay County,52,20,1,NaN,0,0
+2009-10-16,Lexington Catholic,East Jessamine,62,0,1,NaN,0,0
+2009-10-16,Lexington Christian,Raceland,40,0,1,NaN,0,0
+2009-10-16,Lone Oak,Hopkins County Central,24,0,0,NaN,0,0
+2009-10-16,Madisonville-North Hopkins,Ohio County,46,0,0,NaN,0,0
+2009-10-16,Male,Southern,42,0,0,NaN,0,0
+2009-10-16,Marion County,LaRue County,33,7,0,NaN,0,0
+2009-10-16,Mason County,West Carter,26,12,0,NaN,0,0
+2009-10-16,McLean County,Paducah Tilghman,28,6,1,NaN,0,0
+2009-10-16,Meade County,Nelson County,21,3,1,NaN,0,0
+2009-10-16,Mercer County,Lincoln County,35,9,1,NaN,0,0
+2009-10-16,Middlesboro,Knott County Central,56,16,1,NaN,0,0
+2009-10-16,Monroe County,Glasgow,28,14,1,NaN,0,0
+2009-10-16,Muhlenberg County,Daviess County,14,7,0,NaN,0,0
+2009-10-16,Murray,Caldwell County,20,6,1,NaN,0,0
+2009-10-16,North Oldham,Spencer County,28,0,1,NaN,0,0
+2009-10-16,Oldham County,Grant County,7,0,0,NaN,1,0
+2009-10-16,Owen County,Carroll County,27,6,1,NaN,0,0
+2009-10-16,Owensboro,Hopkinsville,16,6,1,NaN,0,0
+2009-10-16,Owensboro Catholic,Todd County Central,49,0,0,NaN,0,0
+2009-10-16,Paintsville,Phelps,21,6,1,NaN,0,0
+2009-10-16,Pendleton County,Franklin County,14,8,0,NaN,0,0
+2009-10-16,Pike County Central,East Ridge,62,0,0,NaN,0,0
+2009-10-16,Pikeville,Betsy Layne,55,8,0,NaN,0,0
+2009-10-16,Pleasure Ridge Park,Butler,28,13,0,NaN,0,0
+2009-10-16,Pulaski County,Southwestern,16,6,1,NaN,0,0
+2009-10-16,Rockcastle County,McCreary Central,42,14,1,NaN,0,0
+2009-10-16,Russell,Lewis County,36,20,1,NaN,0,0
+2009-10-16,Russell County,Barren County,49,14,1,NaN,0,0
+2009-10-16,Russellville,Adair County,41,16,1,NaN,0,0
+2009-10-16,Ryle,Conner,31,22,1,NaN,0,0
+2009-10-16,Scott County,Paul Laurence Dunbar,42,7,0,NaN,0,0
+2009-10-16,Shawnee,Elizabethtown,36,28,0,NaN,0,0
+2009-10-16,Shelby County,Fern Creek,39,13,1,NaN,0,0
+2009-10-16,Shelby Valley,Morgan County,49,8,1,NaN,0,0
+2009-10-16,Simon Kenton,Boone County,63,21,0,NaN,0,0
+2009-10-16,Somerset,Wayne County,9,0,0,NaN,0,0
+2009-10-16,St. Xavier,DuPont Manual,28,21,0,NaN,0,0
+2009-10-16,Taylor County,Garrard County,26,12,1,NaN,0,0
+2009-10-16,Trigg County,Heath,35,14,1,NaN,0,0
+2009-10-16,Trinity (Louisville),Eastern,35,7,1,NaN,0,0
+2009-10-16,Union County,Webster County,41,6,0,NaN,0,0
+2009-10-16,Western,Breckinridge County,49,6,1,NaN,0,0
+2009-10-16,Whitley County,North Laurel,40,14,1,NaN,0,0
+2009-10-17,Highlands,Covington Catholic,36,7,0,NaN,0,0
+2009-10-22,Wayne County,Taylor County,14,7,1,NaN,0,0
+2009-10-23,Adair County,Hart County,18,12,1,NaN,0,0
+2009-10-23,Allen Central,Betsy Layne,36,6,1,NaN,0,0
+2009-10-23,Allen County-Scottsville,Russell County,34,13,1,NaN,0,0
+2009-10-23,Barren County,Ohio County,41,20,1,NaN,0,0
+2009-10-23,Bath County,Morgan County,41,30,0,NaN,0,0
+2009-10-23,Beechwood,Bellevue,20,8,0,NaN,0,0
+2009-10-23,Belfry,East Ridge,48,0,0,NaN,0,0
+2009-10-23,Bell County,McCreary Central,63,0,0,NaN,0,0
+2009-10-23,Bethlehem,Caverna,41,8,1,NaN,0,0
+2009-10-23,Boyle County,East Jessamine,48,0,0,NaN,0,0
+2009-10-23,Breckinridge County,Atherton,47,7,1,NaN,0,0
+2009-10-23,Bryan Station,Paul Laurence Dunbar,51,14,0,NaN,0,0
+2009-10-23,Bullitt East,LaRue County,10,0,1,NaN,0,0
+2009-10-23,Caldwell County,Reidland,38,21,0,NaN,0,0
+2009-10-23,Campbellsville,Clinton County,22,0,1,NaN,0,0
+2009-10-23,Central,Shawnee,22,12,0,NaN,0,0
+2009-10-23,Christian Academy-Louisville,Owen County,31,7,1,NaN,0,0
+2009-10-23,Conner,Cooper,28,7,0,NaN,0,0
+2009-10-23,Corbin,Middlesboro,37,13,1,NaN,0,0
+2009-10-23,Covington Catholic,Dixie Heights,39,34,0,NaN,0,0
+2009-10-23,Danville,Washington County,61,0,1,NaN,0,0
+2009-10-23,DeSales,Carroll County,54,6,0,NaN,0,0
+2009-10-23,Doss,Iroquois,26,0,1,NaN,0,0
+2009-10-23,DuPont Manual,Butler,20,10,1,NaN,0,0
+2009-10-23,Elizabethtown,Moore,20,14,0,NaN,0,0
+2009-10-23,Estill County,Powell County,42,28,0,NaN,0,0
+2009-10-23,Fairdale,Waggener,48,7,1,NaN,0,0
+2009-10-23,Fort Campbell,Owensboro Catholic,53,0,0,NaN,0,0
+2009-10-23,Fort Knox,Bardstown,27,17,1,NaN,0,0
+2009-10-23,Frankfort,Trimble County,48,0,1,NaN,0,0
+2009-10-23,Franklin-Simpson,Logan County,48,30,0,NaN,0,0
+2009-10-23,Fulton City,Fulton County,30,26,1,NaN,0,0
+2009-10-23,Gallatin County,Bracken County,37,2,1,NaN,0,0
+2009-10-23,Garrard County,Casey County,28,26,1,NaN,0,0
+2009-10-23,George Rogers Clark,Madison Central,34,17,0,NaN,0,0
+2009-10-23,Glasgow,Metcalfe County,18,8,1,NaN,0,0
+2009-10-23,Graves County,Daviess County,14,0,0,NaN,0,0
+2009-10-23,Grayson County,Edmonson County,15,0,0,NaN,0,0
+2009-10-23,Green County,Monroe County,21,14,0,NaN,0,0
+2009-10-23,Greenup County,East Carter,38,8,0,NaN,0,0
+2009-10-23,Hancock County,Todd County Central,54,0,0,NaN,0,0
+2009-10-23,Harlan,Jenkins,58,22,0,NaN,0,0
+2009-10-23,Harlan County,Clay County,28,7,0,NaN,0,0
+2009-10-23,Harrison County,Franklin County,19,6,0,NaN,0,0
+2009-10-23,Hazard,Pineville,59,9,1,NaN,0,0
+2009-10-23,Henderson County,Apollo,27,20,1,NaN,0,0
+2009-10-23,Henry Clay,Tates Creek,41,6,0,NaN,0,0
+2009-10-23,Henry County,Spencer County,33,22,0,NaN,0,0
+2009-10-23,Highlands,Scott,67,20,1,NaN,0,0
+2009-10-23,Holy Cross (Covington),Newport,34,14,0,NaN,0,0
+2009-10-23,Hopkins County Central,Calloway County,22,14,0,NaN,0,0
+2009-10-23,Jeffersontown,Grant County,28,0,1,NaN,0,0
+2009-10-23,John Hardin,Bullitt Central,14,0,0,NaN,0,0
+2009-10-23,Johnson Central,Montgomery County,43,6,0,NaN,0,0
+2009-10-23,Knox Central,Madison Southern,35,7,0,NaN,0,0
+2009-10-23,Lafayette,Scott County,22,21,0,NaN,1,0
+2009-10-23,Lawrence County,Boyd County,26,16,1,NaN,0,0
+2009-10-23,Leslie County,Knott County Central,41,40,1,NaN,0,0
+2009-10-23,Letcher County Central,North Laurel,36,20,1,NaN,0,0
+2009-10-23,Lewis County,West Carter,14,6,1,NaN,0,0
+2009-10-23,Lexington Catholic,West Jessamine,51,14,1,NaN,0,0
+2009-10-23,Lexington Christian,Fairview,42,0,0,NaN,0,0
+2009-10-23,Ludlow,Walton-Verona,28,21,1,NaN,0,0
+2009-10-23,Lynn Camp,Berea,29,28,0,NaN,0,0
+2009-10-23,Male,Fern Creek,55,13,0,NaN,0,0
+2009-10-23,Marion County,North Bullitt,33,7,1,NaN,0,0
+2009-10-23,Marshall County,Hopkinsville,14,7,0,NaN,0,0
+2009-10-23,Mason County,Fleming County,14,0,1,NaN,0,0
+2009-10-23,Mayfield,Crittenden County,42,7,0,NaN,0,0
+2009-10-23,Meade County,Central Hardin,35,17,1,NaN,0,0
+2009-10-23,Murray,Heath,28,0,0,NaN,0,0
+2009-10-23,Nelson County,North Hardin,14,13,1,NaN,0,0
+2009-10-23,Newport Central Catholic,Lloyd Memorial,42,20,0,NaN,0,0
+2009-10-23,Nicholas County,Paris,38,6,1,NaN,0,0
+2009-10-23,Oldham County,Anderson County,10,7,1,NaN,0,0
+2009-10-23,Owensboro,Madisonville-North Hopkins,16,6,0,NaN,0,0
+2009-10-23,Pendleton County,Bourbon County,21,14,1,NaN,0,0
+2009-10-23,Phelps,South Floyd,20,16,0,NaN,0,0
+2009-10-23,Pike County Central,Sheldon Clark,40,18,0,NaN,0,0
+2009-10-23,Pikeville,Paintsville,56,6,1,NaN,0,0
+2009-10-23,Prestonsburg,Shelby Valley,21,12,1,NaN,0,0
+2009-10-23,Pulaski County,Mercer County,47,25,1,NaN,0,0
+2009-10-23,Raceland,Russell,27,15,1,NaN,0,0
+2009-10-23,Russellville,Butler County,34,14,0,NaN,0,0
+2009-10-23,Ryle,Boone County,48,7,1,NaN,0,0
+2009-10-23,Seneca,Eastern,28,19,0,NaN,0,0
+2009-10-23,Shelby County,Southern,55,0,1,NaN,0,0
+2009-10-23,Simon Kenton,Campbell County,49,14,0,NaN,0,0
+2009-10-23,South Laurel,Lincoln County,29,21,1,NaN,0,0
+2009-10-23,Southwestern,Rockcastle County,35,28,1,NaN,0,0
+2009-10-23,St. Xavier,Pleasure Ridge Park,38,8,1,NaN,0,0
+2009-10-23,Trigg County,Ballard Memorial,53,6,1,NaN,0,0
+2009-10-23,Trinity (Louisville),Ballard,21,14,0,NaN,0,0
+2009-10-23,Union County,McLean County,19,2,1,NaN,0,0
+2009-10-23,Warren Central,Bowling Green,18,10,0,NaN,0,0
+2009-10-23,Western,Valley,27,6,0,NaN,0,0
+2009-10-23,Western Hills,North Oldham,30,7,1,NaN,0,0
+2009-10-23,Whitley County,Perry County Central,63,18,0,NaN,0,0
+2009-10-24,Ashland Blazer,Woodford County,36,7,0,NaN,0,0
+2009-10-24,Bishop Brossart,Dayton,40,33,1,NaN,0,0
+2009-10-24,Paducah Tilghman,Holy Cross (Louisville),38,7,1,NaN,0,0
+2009-10-29,John Hardin,Central Hardin,51,14,1,NaN,0,0
+2009-10-29,Shelby County,Oldham County,28,13,0,NaN,0,0
+2009-10-29,Warren Central,Greenwood,22,21,1,NaN,1,0
+2009-10-30,Allen Central,Knott County Central,38,32,0,NaN,0,0
+2009-10-30,Allen County-Scottsville,Monroe County,7,0,1,NaN,0,0
+2009-10-30,Anderson County,Spencer County,60,18,1,NaN,0,0
+2009-10-30,Apollo,Madisonville-North Hopkins,22,6,1,NaN,0,0
+2009-10-30,Ashland Blazer,Boyd County,46,0,0,NaN,0,0
+2009-10-30,Atherton,Iroquois,12,8,0,NaN,0,0
+2009-10-30,Ballard,Western,11,2,1,NaN,0,0
+2009-10-30,Ballard Memorial,Webster County,8,6,1,NaN,0,0
+2009-10-30,Bell County,Harlan County,41,14,1,NaN,0,0
+2009-10-30,Bellevue,Lloyd Memorial,41,28,1,NaN,0,0
+2009-10-30,Berea,South Floyd,51,20,1,NaN,0,0
+2009-10-30,Betsy Layne,Jenkins,40,21,0,NaN,0,0
+2009-10-30,Boone County,Dixie Heights,28,21,0,NaN,0,0
+2009-10-30,Bourbon County,Paris,33,19,0,NaN,0,0
+2009-10-30,Bowling Green,Barren County,49,0,0,NaN,0,0
+2009-10-30,Boyle County,Christian County,21,0,0,NaN,0,0
+2009-10-30,Bryan Station,North Hardin,25,6,0,NaN,0,0
+2009-10-30,Bullitt Central,North Bullitt,34,14,1,NaN,0,0
+2009-10-30,Caldwell County,Mayfield,14,10,1,NaN,0,0
+2009-10-30,Carroll County,Dayton,27,19,1,NaN,0,0
+2009-10-30,Central,Pleasure Ridge Park,18,0,1,NaN,0,0
+2009-10-30,Christian Academy-Louisville,Kentucky Country Day,43,0,0,NaN,0,0
+2009-10-30,Clay County,Hazard,34,28,0,NaN,0,0
+2009-10-30,Cooper,Newport,27,12,1,NaN,0,0
+2009-10-30,Danville,Frankfort,22,9,0,NaN,0,0
+2009-10-30,Daviess County,Owensboro Catholic,15,14,0,NaN,0,0
+2009-10-30,DeSales,Southern,35,7,0,NaN,0,0
+2009-10-30,Eastern,Jeffersontown,29,7,1,NaN,0,0
+2009-10-30,Edmonson County,Hancock County,12,8,0,NaN,0,0
+2009-10-30,Elizabethtown,Bardstown,48,29,0,NaN,0,0
+2009-10-30,Estill County,Madison Southern,42,40,0,NaN,0,0
+2009-10-30,Fairdale,Doss,20,19,1,NaN,0,0
+2009-10-30,Fairview,Paintsville,44,8,0,NaN,0,0
+2009-10-30,Fern Creek,Scott County,27,19,0,NaN,0,0
+2009-10-30,Fleming County,Bath County,45,7,0,NaN,0,0
+2009-10-30,Fort Campbell,Hopkinsville,44,7,1,NaN,0,0
+2009-10-30,Fort Knox,Hart County,35,18,0,NaN,0,0
+2009-10-30,Franklin-Simpson,Glasgow,34,14,1,NaN,0,0
+2009-10-30,George Rogers Clark,Campbell County,30,14,1,NaN,0,0
+2009-10-30,Graves County,Calloway County,27,7,0,NaN,0,0
+2009-10-30,Henry Clay,Paul Laurence Dunbar,47,0,1,NaN,0,0
+2009-10-30,Henry County,Gallatin County,39,0,1,NaN,0,0
+2009-10-30,Highlands,Ryle,31,14,1,NaN,0,0
+2009-10-30,Holmes,Harrison County,23,7,1,NaN,0,0
+2009-10-30,Johnson Central,Belfry,35,19,0,NaN,0,0
+2009-10-30,Knox Central,Harlan,41,3,0,NaN,0,0
+2009-10-30,LaRue County,Butler County,42,6,1,NaN,0,0
+2009-10-30,Letcher County Central,Moore,42,21,0,NaN,0,0
+2009-10-30,Lewis County,Magoffin County,28,24,0,NaN,0,0
+2009-10-30,Lexington Christian,Corbin,41,21,1,NaN,0,0
+2009-10-30,Lincoln County,Garrard County,14,7,1,NaN,0,0
+2009-10-30,Male,DuPont Manual,27,14,0,NaN,0,0
+2009-10-30,Marion County,Green County,48,14,1,NaN,0,0
+2009-10-30,Mason County,Greenup County,47,13,0,NaN,0,0
+2009-10-30,McCreary Central,Lynn Camp,30,21,1,NaN,0,0
+2009-10-30,McLean County,Ohio County,28,14,0,NaN,0,0
+2009-10-30,Meade County,Butler,28,14,0,NaN,0,0
+2009-10-30,Metcalfe County,Caverna,22,0,0,NaN,0,0
+2009-10-30,Morgan County,East Carter,12,3,1,NaN,0,0
+2009-10-30,Muhlenberg County,Breckinridge County,27,0,0,NaN,0,0
+2009-10-30,Murray,Crittenden County,24,7,1,NaN,0,0
+2009-10-30,Nelson County,Bullitt East,31,6,0,NaN,0,0
+2009-10-30,Newport Central Catholic,Beechwood,26,22,0,NaN,0,0
+2009-10-30,Nicholas County,Bracken County,27,13,0,NaN,0,0
+2009-10-30,North Laurel,Jackson County,48,0,1,NaN,0,0
+2009-10-30,Owensboro,Henderson County,17,14,1,NaN,0,0
+2009-10-30,Pendleton County,Ludlow,27,6,1,NaN,0,0
+2009-10-30,Perry County Central,Leslie County,53,16,1,NaN,0,0
+2009-10-30,Prestonsburg,Pike County Central,46,20,0,NaN,0,0
+2009-10-30,Reidland,Fulton City,42,12,0,NaN,0,0
+2009-10-30,Rowan County,Montgomery County,36,19,0,NaN,0,0
+2009-10-30,Russell County,Adair County,40,22,0,NaN,0,0
+2009-10-30,Shawnee,Bethlehem,20,14,1,NaN,0,0
+2009-10-30,Shelby Valley,East Ridge,52,13,1,NaN,0,0
+2009-10-30,Sheldon Clark,Pikeville,48,17,0,NaN,0,0
+2009-10-30,Simon Kenton,Scott,50,0,0,NaN,0,0
+2009-10-30,South Laurel,Middlesboro,42,13,0,NaN,0,0
+2009-10-30,South Oldham,Owen County,21,14,0,NaN,0,0
+2009-10-30,St. Xavier,Covington Catholic,63,7,1,NaN,0,0
+2009-10-30,Tates Creek,Woodford County,33,27,0,NaN,0,0
+2009-10-30,Trigg County,Warren East,32,12,0,NaN,0,0
+2009-10-30,Trinity (Louisville),Lexington Catholic,14,13,0,NaN,0,0
+2009-10-30,Union County,Hopkins County Central,9,6,0,NaN,1,0
+2009-10-30,Waggener,Valley,14,13,0,NaN,0,0
+2009-10-30,Washington County,Campbellsville,21,20,1,NaN,0,0
+2009-10-30,Wayne County,Clinton County,52,0,1,NaN,0,0
+2009-10-30,West Carter,Powell County,28,14,1,NaN,0,0
+2009-10-30,West Jessamine,Grant County,36,8,0,NaN,0,0
+2009-10-30,Western Hills,Franklin County,43,14,1,NaN,0,0
+2009-10-30,Whitley County,Rockcastle County,42,6,0,NaN,0,0
+2009-10-30,Williamsburg,Pineville,44,43,0,NaN,0,0
+2009-10-31,Lone Oak,Heath,34,0,0,NaN,0,0
+2009-10-31,Russellville,Logan County,28,13,1,NaN,0,0
+2009-10-31,Walton-Verona,Trimble County,13,12,1,NaN,0,0
+2009-11-06,Allen Central,Pineville,60,34,1,NaN,0,0
+2009-11-06,Ballard Memorial,Bethlehem,33,28,0,NaN,0,0
+2009-11-06,Beechwood,Trimble County,54,0,1,NaN,0,0
+2009-11-06,Bellevue,Gallatin County,55,0,1,NaN,0,0
+2009-11-06,Campbellsville,Nicholas County,47,0,1,NaN,0,0
+2009-11-06,Crittenden County,Kentucky Country Day,47,9,1,NaN,0,0
+2009-11-06,Eminence,Ludlow,30,12,1,NaN,0,0
+2009-11-06,Fairview,Williamsburg,33,8,0,NaN,0,0
+2009-11-06,Frankfort,Bishop Brossart,16,7,1,NaN,0,0
+2009-11-06,Harlan,Paintsville,28,7,1,NaN,0,0
+2009-11-06,Hazard,Phelps,61,6,1,NaN,0,0
+2009-11-06,Holy Cross (Louisville),Fulton City,62,0,1,NaN,0,0
+2009-11-06,Lexington Christian,Berea,70,31,1,NaN,0,0
+2009-11-06,Mayfield,Caverna,70,0,1,NaN,0,0
+2009-11-06,Pikeville,Jenkins,71,22,1,NaN,0,0
+2009-11-06,Raceland,Lynn Camp,19,13,1,NaN,0,0
+2009-11-06,Bardstown,Metcalfe County,19,0,1,NaN,0,0
+2009-11-06,Christian Academy-Louisville,Lloyd Memorial,55,29,1,NaN,0,0
+2009-11-06,Corbin,Morgan County,40,6,1,NaN,0,0
+2009-11-06,Danville,Glasgow,49,35,1,NaN,0,0
+2009-11-06,Fort Campbell,Caldwell County,56,7,1,NaN,0,0
+2009-11-06,Green County,Fort Knox,56,7,1,NaN,0,0
+2009-11-06,Hancock County,Heath,53,23,1,NaN,0,0
+2009-11-06,Middlesboro,Bath County,49,14,1,NaN,0,0
+2009-11-06,Monroe County,Washington County,42,7,1,NaN,0,0
+2009-11-06,Murray,Todd County Central,77,0,1,NaN,0,0
+2009-11-06,Prestonsburg,Knott County Central,56,8,1,NaN,0,0
+2009-11-06,Shelby Valley,Leslie County,41,0,1,NaN,0,0
+2009-11-06,Trigg County,Owensboro Catholic,41,14,1,NaN,0,0
+2009-11-06,Belfry,Lewis County,41,14,1,NaN,0,0
+2009-11-06,Breathitt County,Wayne County,26,0,1,NaN,0,0
+2009-11-06,Butler County,McLean County,33,24,0,NaN,0,0
+2009-11-06,Central,Spencer County,56,36,1,NaN,0,0
+2009-11-06,Elizabethtown,North Oldham,37,30,1,NaN,0,0
+2009-11-06,Estill County,Taylor County,21,14,1,NaN,0,0
+2009-11-06,Garrard County,Powell County,70,33,1,NaN,0,0
+2009-11-06,Henry County,Moore,57,27,1,NaN,0,0
+2009-11-06,Mason County,East Ridge,62,6,1,NaN,0,0
+2009-11-06,Paducah Tilghman,Edmonson County,56,31,0,NaN,0,0
+2009-11-06,Pike County Central,Fleming County,74,50,1,NaN,0,0
+2009-11-06,Russellville,Webster County,59,0,1,NaN,0,0
+2009-11-06,Sheldon Clark,Russell,36,14,0,NaN,0,0
+2009-11-06,Somerset,Magoffin County,48,16,1,NaN,0,0
+2009-11-06,Union County,Adair County,67,26,1,NaN,0,0
+2009-11-06,Western Hills,Shawnee,34,22,1,NaN,0,0
+2009-11-06,Bell County,Greenup County,44,0,1,NaN,0,0
+2009-11-06,Boyle County,Bourbon County,61,0,1,NaN,0,0
+2009-11-06,Fairdale,Bullitt East,39,22,0,NaN,0,0
+2009-11-06,Franklin-Simpson,Calloway County,41,14,1,NaN,0,0
+2009-11-06,Holmes,East Jessamine,42,0,1,NaN,0,0
+2009-11-06,Knox Central,Boyd County,40,0,1,NaN,0,0
+2009-11-06,LaRue County,Valley,35,32,0,NaN,0,0
+2009-11-06,Lawrence County,McCreary Central,42,19,1,NaN,0,0
+2009-11-06,Lexington Catholic,Pendleton County,62,0,1,NaN,0,0
+2009-11-06,Logan County,Hopkins County Central,24,21,0,NaN,0,0
+2009-11-06,Lone Oak,Russell County,59,27,1,NaN,0,0
+2009-11-06,Marion County,Breckinridge County,64,14,1,NaN,0,0
+2009-11-06,Rockcastle County,Rowan County,41,21,0,NaN,0,0
+2009-11-06,West Jessamine,Harrison County,49,6,0,NaN,0,0
+2009-11-06,Western,North Bullitt,24,8,1,NaN,0,0
+2009-11-06,Bowling Green,Hopkinsville,38,6,1,NaN,0,0
+2009-11-06,Christian County,Barren County,31,14,1,NaN,0,0
+2009-11-06,Dixie Heights,Ashland Blazer,41,14,0,NaN,0,0
+2009-11-06,Doss,Anderson County,40,37,0,NaN,0,0
+2009-11-06,Harlan County,Southwestern,20,7,0,NaN,0,0
+2009-11-06,Highlands,Montgomery County,60,13,1,NaN,0,0
+2009-11-06,Jeffersontown,Bullitt Central,63,14,0,NaN,0,0
+2009-11-06,John Hardin,South Oldham,42,8,1,NaN,0,0
+2009-11-06,Johnson Central,Scott,62,41,1,NaN,0,0
+2009-11-06,Letcher County Central,Mercer County,53,9,1,NaN,0,0
+2009-11-06,Oldham County,Waggener,34,9,1,NaN,0,0
+2009-11-06,Owensboro,Grayson County,49,21,1,NaN,0,0
+2009-11-06,Pulaski County,Perry County Central,35,21,1,NaN,0,0
+2009-11-06,Warren Central,Madisonville-North Hopkins,39,14,1,NaN,0,0
+2009-11-06,Whitley County,South Laurel,54,14,1,NaN,0,0
+2009-11-06,Ballard,Fern Creek,28,21,1,NaN,0,0
+2009-11-06,Bryan Station,Madison Central,42,0,1,NaN,0,0
+2009-11-06,DuPont Manual,Conner,50,39,1,NaN,0,0
+2009-11-06,George Rogers Clark,Paul Laurence Dunbar,28,13,1,NaN,0,0
+2009-11-06,Greenwood,Muhlenberg County,40,12,1,NaN,0,0
+2009-11-06,Henderson County,Central Hardin,35,21,1,NaN,0,0
+2009-11-06,Henry Clay,Lafayette,47,10,1,NaN,0,0
+2009-11-06,Male,Eastern,16,6,1,NaN,0,0
+2009-11-06,Meade County,Apollo,35,13,1,NaN,0,0
+2009-11-06,Nelson County,Graves County,31,14,0,NaN,0,0
+2009-11-06,Ryle,Pleasure Ridge Park,52,22,1,NaN,0,0
+2009-11-06,Scott County,Tates Creek,27,17,1,NaN,0,0
+2009-11-06,Shelby County,Seneca,37,14,1,NaN,0,0
+2009-11-06,Simon Kenton,Butler,49,7,1,NaN,0,0
+2009-11-06,St. Xavier,Boone County,49,0,1,NaN,0,0
+2009-11-06,Trinity (Louisville),Southern,55,0,1,NaN,0,0
+2009-11-07,Covington Catholic,Woodford County,48,27,1,NaN,0,0
+2009-11-13,Beechwood,Eminence,58,0,1,NaN,0,0
+2009-11-13,Bellevue,Frankfort,29,26,0,NaN,0,0
+2009-11-13,Crittenden County,Holy Cross (Louisville),31,27,0,NaN,0,0
+2009-11-13,Harlan,Pikeville,21,14,0,NaN,0,0
+2009-11-13,Hazard,Allen Central,49,16,1,NaN,0,0
+2009-11-13,Lexington Christian,Fairview,41,16,1,NaN,0,0
+2009-11-13,Mayfield,Ballard Memorial,48,0,1,NaN,0,0
+2009-11-13,Raceland,Campbellsville,23,20,0,NaN,0,0
+2009-11-13,Corbin,Shelby Valley,44,27,1,NaN,0,0
+2009-11-13,Fort Campbell,Trigg County,41,7,1,NaN,0,0
+2009-11-13,Green County,Danville,61,22,1,NaN,0,0
+2009-11-13,Monroe County,Bardstown,49,14,0,NaN,0,0
+2009-11-13,Murray,Hancock County,43,7,1,NaN,0,0
+2009-11-13,Newport Central Catholic,Christian Academy-Louisville,27,7,1,NaN,0,0
+2009-11-13,Prestonsburg,Middlesboro,61,20,1,NaN,0,0
+2009-11-13,Breathitt County,Garrard County,62,12,1,NaN,0,0
+2009-11-13,Central,Western Hills,34,27,1,NaN,0,0
+2009-11-13,Henry County,Elizabethtown,14,0,1,NaN,0,0
+2009-11-13,Paducah Tilghman,Union County,34,7,0,NaN,0,0
+2009-11-13,Pike County Central,Mason County,26,23,0,NaN,0,0
+2009-11-13,Russellville,Butler County,42,7,1,NaN,0,0
+2009-11-13,Sheldon Clark,Belfry,20,14,0,NaN,0,0
+2009-11-13,Somerset,Estill County,63,14,1,NaN,0,0
+2009-11-13,Allen County-Scottsville,Logan County,41,33,1,NaN,0,0
+2009-11-13,Bell County,Rockcastle County,48,0,1,NaN,0,0
+2009-11-13,Boyle County,West Jessamine,48,7,1,NaN,0,0
+2009-11-13,Lawrence County,Knox Central,19,0,1,NaN,0,0
+2009-11-13,Lexington Catholic,Holmes,25,7,0,NaN,0,0
+2009-11-13,Lone Oak,Franklin-Simpson,49,7,1,NaN,0,0
+2009-11-13,Marion County,LaRue County,41,14,1,NaN,0,0
+2009-11-13,Western,Fairdale,41,14,1,NaN,0,0
+2009-11-13,Bowling Green,Owensboro,25,21,1,NaN,0,0
+2009-11-13,Christian County,Warren Central,13,7,1,NaN,0,0
+2009-11-13,Highlands,Dixie Heights,49,0,1,NaN,0,0
+2009-11-13,John Hardin,Doss,37,7,1,NaN,0,0
+2009-11-13,Johnson Central,Covington Catholic,51,32,1,NaN,0,0
+2009-11-13,Letcher County Central,Harlan County,14,13,1,NaN,0,0
+2009-11-13,Oldham County,Jeffersontown,24,21,1,NaN,0,0
+2009-11-13,Pulaski County,Whitley County,40,34,1,NaN,0,0
+2009-11-13,Greenwood,Nelson County,28,17,1,NaN,0,0
+2009-11-13,Henderson County,Meade County,24,13,1,NaN,0,0
+2009-11-13,Henry Clay,Bryan Station,7,6,0,NaN,0,0
+2009-11-13,Male,Ballard,35,23,1,NaN,0,0
+2009-11-13,Scott County,George Rogers Clark,18,15,0,NaN,0,0
+2009-11-13,Simon Kenton,DuPont Manual,39,29,1,NaN,0,0
+2009-11-13,St. Xavier,Ryle,66,17,1,NaN,0,0
+2009-11-13,Trinity (Louisville),Shelby County,42,10,1,NaN,0,0
+2009-11-20,Beechwood,Bellevue,41,20,1,NaN,0,0
+2009-11-20,Hazard,Harlan,50,7,1,NaN,0,0
+2009-11-20,Lexington Christian,Raceland,62,12,1,NaN,0,0
+2009-11-20,Mayfield,Crittenden County,31,28,1,NaN,0,0
+2009-11-20,Fort Campbell,Murray,28,21,0,NaN,0,0
+2009-11-20,Monroe County,Green County,39,14,0,NaN,0,0
+2009-11-20,Prestonsburg,Corbin,23,7,1,NaN,0,0
+2009-11-20,Central,Henry County,48,38,1,NaN,0,0
+2009-11-20,Paducah Tilghman,Russellville,21,14,0,NaN,0,0
+2009-11-20,Sheldon Clark,Pike County Central,26,12,0,NaN,0,0
+2009-11-20,Somerset,Breathitt County,51,33,1,NaN,0,0
+2009-11-20,Bell County,Lawrence County,41,0,1,NaN,0,0
+2009-11-20,Boyle County,Lexington Catholic,34,20,1,NaN,0,0
+2009-11-20,Lone Oak,Allen County-Scottsville,34,6,1,NaN,0,0
+2009-11-20,Marion County,Western,31,24,0,NaN,0,0
+2009-11-20,Bowling Green,Christian County,28,14,0,NaN,0,0
+2009-11-20,Highlands,Johnson Central,42,21,1,NaN,0,0
+2009-11-20,John Hardin,Oldham County,36,14,1,NaN,0,0
+2009-11-20,Pulaski County,Letcher County Central,31,14,1,NaN,0,0
+2009-11-20,Greenwood,Henderson County,31,7,0,NaN,0,0
+2009-11-20,Scott County,Henry Clay,16,13,1,NaN,0,0
+2009-11-20,St. Xavier,Simon Kenton,48,34,1,NaN,0,0
+2009-11-20,Trinity (Louisville),Male,31,6,1,NaN,0,0
+2009-11-27,Lexington Christian,Hazard,35,28,1,NaN,0,0
+2009-11-27,Mayfield,Beechwood,38,0,1,NaN,0,0
+2009-11-27,Paducah Tilghman,Central,24,21,1,NaN,0,0
+2009-11-27,Somerset,Sheldon Clark,28,12,1,NaN,0,0
+2009-11-27,Boyle County,Bell County,13,10,1,NaN,0,0
+2009-11-27,Lone Oak,Marion County,45,28,1,NaN,0,0
+2009-11-27,Highlands,Pulaski County,52,12,1,NaN,0,0
+2009-11-27,John Hardin,Bowling Green,28,21,0,NaN,0,0
+2009-11-27,St. Xavier,Greenwood,28,6,0,NaN,0,0
+2009-11-27,Trinity (Louisville),Scott County,42,13,1,NaN,0,0
