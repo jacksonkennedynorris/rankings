@@ -21,12 +21,12 @@ def del_function(member, actives, recruits):
 def main(): 
         
     ## FIGURE OUT WHO'S PLAYING 
-    actives = ['George', 'Tim', 'McCallum','Jnor','James','Will','Lucas']
-    recruits = ['Sam', 'Dylan','Melvin','Ashton','A','B','C'] 
+    actives = ['George','Austen','Faraz','Eric','Lucas','Kanbe','Megan','Will Perk']
+    recruits = ['Ionut'] 
     already_been_mafia = []
     mafia_pool = actives + already_been_mafia
     ## HOW MANY RECRUITS DO WE WANT AS MAFIA?  
-    num_recruits_mafia = 2
+    num_recruits_mafia = 1
     ## OTHER RULES
     num_detectives = 1
     num_medics = 1

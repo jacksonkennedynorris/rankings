@@ -12,7 +12,7 @@ import glob
 from datetime import timedelta, date
 
 
-def create_empty_HTML_folder(season):
+def use_HTML_folder(season):
         # This function takes a season and creates the data. If there appropriate directories do not exist,
         # this function creates the directory.
     if not os.path.exists(season.get_year_path() + "/HTML"):  
@@ -57,11 +57,8 @@ def get_date_string(season, original):
 def write_HTML(season):
     #*****   Writes all the HTML to file  ******
 
-    date_from_files = create_empty_HTML_folder(season)
-    
-
-    
-    
+    date_from_files = use_HTML_folder(season)
+        
     url = season.get_url_no_date()
 
     while True:
