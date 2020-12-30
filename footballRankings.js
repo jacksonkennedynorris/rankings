@@ -1,10 +1,7 @@
-var link = "football/teams_2020.csv"
-
 var my_string = "football/teams_"
 var csv_end = ".csv"
 var year; 
 var myarray = []; 
-
 
 var button_list = [] 
 for (year = 2005; year<=2020; year++){
@@ -14,53 +11,53 @@ for (year = 2005; year<=2020; year++){
   btn.innerHTML = year.toString();                   // Insert text
   document.getElementById("button_div").appendChild(btn);               // Append <button> to <body>
   button_list.push(btn)
-  var letstry = d3.csv(my_string + String(year) + csv_end)
+  var get_promise = d3.csv(my_string + String(year) + csv_end)
   var dict = {
     year : year,
-    promise: letstry
+    promise: get_promise
   }
   myarray.push(dict)
 }
-console.log(button_list)
+
+// Create buttons and once clicked send them to the promise
 for (i = 0; i<button_list.length; i++){
-    console.log(button_list[i])
-    if 
+    button_list[i].addEventListener ("click", function() {
+      for (j = 0; j<myarray.length; j++)
+      {
+        if (myarray[j].year == this.innerHTML){
+          push_to_function(myarray[j],false)
+        }
+      }
+    });
   }
+var end = myarray[myarray.length-1]
+push_to_function(end,true)
 
-push_latest(myarray)
-function push_latest(myarray) {
-  var latest_promise = myarray[myarray.length-1].promise
-  var latest_year = myarray[myarray.length-1].year
-  latest_promise.then(function(data){useData(data,latest_year,myarray)})
-}
-push_button(myarray,2010)
-
-function push_button(myarray,year) {
-  var i; 
-  for (i = 0; i<myarray.length; i++){
-
-    if (year == myarray[i].year){
-      console.log(year)
-    }
+// This function pushes to the use data function 
+function push_to_function(year_dict,is_first_year) {
+  if (!is_first_year){
+      d3.select('h2').remove()
+      d3.select('totalTable').remove()
   }
+  var promise = year_dict.promise
+  var year = year_dict.year
+  promise.then(function(data){useData(data,year)})
+
 }
 
-var year = link.substring(15,19)
 
-var useData = function(data,year,myarray){
-    var my_buttons = d3.selectAll('button')
-    console.log(my_buttons)
+var useData = function(data,year){
+
     width = 500;
     height = 1000;
     var my_year = document.createElement("h2") 
+    var create_table = document.createElement("totalTable")
+
     my_year.innerHTML = "Year: " + year.toString();
     document.getElementById("year").appendChild(my_year);
+    document.getElementById("tableDiv").appendChild(create_table)
 
-    /*var svg = d3.select('svg')
-    .attr('width',width)
-    .attr('height',height)
-*/
-  var myTab = d3.select('table.totalTable')
+  var myTab = d3.select('totalTable')
 
   var tableNames = ["Ranking","Name",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
 
