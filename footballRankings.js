@@ -4,7 +4,7 @@ var year;
 var myarray = []; 
 
 var button_list = [] 
-for (year = 2005; year<=2020; year++){
+for (year = 2020; year>=2005; year--){
 
   var btn = document.createElement("BUTTON");   // Create a <button> element
   btn.setAttribute("id", "button" + year.toString())
@@ -30,7 +30,7 @@ for (i = 0; i<button_list.length; i++){
       }
     });
   }
-var end = myarray[myarray.length-1]
+var end = myarray[0]
 push_to_function(end,true)
 
 // This function pushes to the use data function 
@@ -120,5 +120,5 @@ var useData = function(data,year){
     row.append('td')
     .text(function(d,i){return d.elo})
     .attr('class','elo')
-    console.log(data)
+
 }
