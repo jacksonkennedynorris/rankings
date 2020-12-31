@@ -30,7 +30,7 @@ region_list = flip(region_list);
 for elem = length(team_list):-1:1
     wins = length(find({Games.win_team}' == string(team_list(elem))));
     losses = length(find({Games.lose_team}' == string(team_list(elem))));
-    if wins + losses < 4   %% Remove teams that played fewer than four games
+    if wins + losses == 0  %% Remove teams no games
         continue
     end
     temp.name = string(team_list(elem));
@@ -43,7 +43,7 @@ for elem = length(team_list):-1:1
     temp.elo = 0; 
     Teams = [Teams; temp];
 end
-
+Teams
 %% Find Out of State Teams 
 [~, win] = ismember({Games.win_team}',team_list);
 [~, lose] = ismember({Games.lose_team}',team_list); 
