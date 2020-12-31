@@ -11,7 +11,8 @@ import time
 import csv 
 from datetime import timedelta, date
 from write_HTML import * 
-
+import os.path
+from os import path
 def create_game_infos(season):
 ## Football
 
@@ -19,7 +20,7 @@ def create_game_infos(season):
     infos_directory = season.get_year_path() + "/game_infos/"
     if not os.path.exists(infos_directory):  
         os.makedirs(infos_directory)
-    get_list = use_HTML_folder(season)
+
     #***** QUESTION FOR DR. H  ******
     #Do we want to delete all these files and start anew?
     date_list = []
@@ -29,15 +30,15 @@ def create_game_infos(season):
             #print(row[0])
             if row[0] not in date_list: 
                 date_list.append(row[0])
-
-    # for file_name in os.listdir(infos_directory): 
-    #     os.remove(infos_directory + file_name)
-    time = 0 
+    if not path.exists(infos_directory + "game_infos"):
+        with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
+            fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()  
 
     html_files = os.listdir(html_directory) 
     html_files = sorted(html_files)
-    with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
-        pass  
+
     for file_name in html_files: 
         with open(html_directory + file_name, 'rb') as f:
             html = f.read()
@@ -79,11 +80,7 @@ def create_game_infos(season):
 
         
         with open(infos_directory + "game_infos", 'a', newline= '') as csvfile: 
-            fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            if time == 0: 
-                time = time + 1
-                writer.writeheader()
+            writer = csv.writer(csvfile)
             location = 0
             for day in big_array:
                 if "(at" in day[1]: 
@@ -100,6 +97,7 @@ def create_game_infos(season):
                     overtime = 1
                 else: 
                     overtime = 0
-                writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})
+                writer.writerow()
+                #writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})
     print("Created Game Infos!")
     return
