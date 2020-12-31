@@ -13,18 +13,31 @@ from datetime import timedelta, date
 from write_HTML import * 
 import os.path
 from os import path
+from teams import *
 def create_game_infos(season):
 ## Football
 
     html_directory = season.get_year_path() + "/HTML/"
     infos_directory = season.get_year_path() + "/game_infos/"
     teams_file = season.get_teams_path()
+    teams = []
     with open(teams_file, 'r') as f: 
+        id = 0
         for line in f: 
+            if id == 0:
+                id = 1
+                continue 
             team_split = line.rstrip('\n').split(',')
             assert len(team_split) == 2, "Should be 2, not " + len(team_split)
             name = team_split[0]
             region = team_split[1]
+            team = Team(name,region,id)
+            teams.append(team)
+            id = id + 1
+    num_teams = id 
+    #print(teams[0].name, teams[0].region, teams[0].id)
+    # for i in range(num_teams-1):
+    #     print(teams[i].name,teams[i].region,teams[i].id)
     if not os.path.exists(infos_directory):  
         os.makedirs(infos_directory)
 
