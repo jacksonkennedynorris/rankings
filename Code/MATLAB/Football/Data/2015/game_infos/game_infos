@@ -4,13 +4,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,Anderson County,South Oldham,32,20,1,   ,0
 2015-08-21,Apollo,Muhlenberg County,35,14,1,   ,0
 2015-08-21,Ballard,Oldham County,54,0,1,   ,0
-2015-08-21,Barren County,County (at Glasgow),28,14,1,   ,0
+2015-08-21,Barren County,Metcalfe County,28,14,2,   ,0
 2015-08-21,Bell County,Middlesboro,41,7,1,   ,0
 2015-08-21,Bellevue,Gallatin County,35,20,0,   ,0
 2015-08-21,Bethlehem,Nicholas County,28,8,0,   ,0
 2015-08-21,Bishop Brossart,Dayton,35,0,1,   ,0
 2015-08-21,Bracken County,Switzerland County. IN,49,14,0,   ,0
-2015-08-21,Bullitt Central,Southern (at Lincoln County),35,27,1,   ,0
+2015-08-21,Bullitt Central,Madison Southern,35,27,2,   ,0
 2015-08-21,Butler County,Logan County,46,6,1,   ,0
 2015-08-21,Campbellsville,Glasgow,22,16,0,   ,0
 2015-08-21,Casey County,Powell County,36,13,1,   ,0
@@ -27,7 +27,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,East Jessamine,Harrison County,38,33,1,   ,0
 2015-08-21,Eastern,Bullitt East,28,14,1,   ,0
 2015-08-21,Edmonson County,Caverna,47,0,1,   ,0
-2015-08-21,Elizabethtown,Jessamine (at East Jessamine),46,6,1,   ,0
+2015-08-21,Elizabethtown,West Jessamine,46,6,2,   ,0
 2015-08-21,Eminence,Trimble County,52,12,0,   ,0
 2015-08-21,Evansville F.J. Reitz. IN,Henderson County,62,14,1,   ,0
 2015-08-21,Evansville Harrison. IN,Madisonville-North Hopkins,54,9,1,   ,0
@@ -76,11 +76,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,Pickett County. TN,Clinton County,32,0,0,   ,0
 2015-08-21,Pikeville,Prestonsburg,43,6,0,   ,0
 2015-08-21,Pleasure Ridge Park,Valley,48,20,0,   ,0
-2015-08-21,Pulaski County,IN (at Southwestern),64,26,1,   ,0
+2015-08-21,Pulaski County,Jeffersonville. IN,64,26,2,   ,0
 2015-08-21,Russellville,Trigg County,48,19,0,   ,0
 2015-08-21,Ryle,Covington Catholic,35,28,0,   ,0
 2015-08-21,Scott,Newport Central Catholic,8,7,1,   ,0
-2015-08-21,Scott County,Creek,46,6,1,   ,0
+2015-08-21,Scott County,Tates Creek,46,6,1,   ,0
 2015-08-21,Shelby County,Garrard County,31,30,0,   ,0
 2015-08-21,Simon Kenton,Christian Academy-Louisville,50,23,1,   ,0
 2015-08-21,Somerset,Mason County,33,6,1,   ,0
@@ -89,42 +89,42 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,Thomas Nelson,Fort Knox,42,0,0,   ,0
 2015-08-21,Trinity (Louisville),Ensworth. TN,45,0,1,   ,0
 2015-08-21,Western Hills,Washington County,50,18,1,   ,0
-2015-08-22,Bowling Green,County (at Western Kentucky University),44,7,1,   ,0
-2015-08-22,Boyle County,Hardin (at Mercer County),21,19,1,   ,0
-2015-08-22,Bryan Station,Central (at Madison Central),49,0,1,   ,0
+2015-08-22,Bowling Green,Monroe County,44,7,2,   ,0
+2015-08-22,Boyle County,Central Hardin,21,19,2,   ,0
+2015-08-22,Bryan Station,Knox Central,49,0,2,   ,0
 2015-08-22,Collins,Montgomery County,7,0,0,   ,0
 2015-08-22,Franklin County,Shelby Valley,60,6,1,   ,0
 2015-08-22,Hart County,Ballard Memorial,18,0,1,   ,0
 2015-08-22,Madison Central,Wayne County,34,20,1,   ,0
-2015-08-22,Murray,Greene. TN,49,3,1,   ,0
-2015-08-22,Nelson County,County,35,7,1,   ,0
+2015-08-22,Murray,West Greene. TN,49,3,1,   ,0
+2015-08-22,Nelson County,Marion County,35,7,1,   ,0
 2015-08-22,North Hardin,Mercer County,55,20,0,   ,0
 2015-08-22,Paducah Tilghman,McCracken County,21,7,0,   ,0
-2015-08-22,Paris,(at Montgomery County),21,12,1,   ,0
+2015-08-22,Paris,Frankfort,21,12,2,   ,0
 2015-08-22,Raceland,West Carter,36,25,1,   ,0
 2015-08-22,Rowan County,Clay County,55,26,1,   ,0
-2015-08-22,South Warren,Hardin (at Western Kentucky University),43,12,1,   ,0
+2015-08-22,South Warren,John Hardin,43,12,2,   ,0
 2015-08-22,Spencer County,Bardstown,48,14,0,   ,0
-2015-08-27,Reading. OH,(at Cincinnati. OH),53,6,1,   ,0
+2015-08-27,Reading. OH,Newport,53,6,2,   ,0
 2015-08-28,Adair County,Caverna,54,6,0,   ,0
 2015-08-28,Anderson County,George Rogers Clark,27,26,0,   ,0
 2015-08-28,Ashland Blazer,Raceland,41,21,1,   ,0
 2015-08-28,Ballard Memorial,Fulton City,34,8,1,   ,0
-2015-08-28,Barren County,County (at Campbellsville University),12,6,1,   ,0
+2015-08-28,Barren County,Taylor County,12,6,2,   ,0
 2015-08-28,Bath County,Rowan County,21,19,1,   ,0
 2015-08-28,Beechwood,Lloyd Memorial,48,22,0,   ,0
-2015-08-28,Belfry,Creek (at Belfry-Pikeville-Shelby Valley),55,38,1,   ,0
+2015-08-28,Belfry,Tates Creek,55,38,2,   ,0
 2015-08-28,Bellevue,Dayton,42,0,1,   ,0
 2015-08-28,Bethlehem,Thomas Nelson,28,14,1,   ,0
 2015-08-28,Bishop Brossart,Aiken. OH,26,22,0,   ,0
-2015-08-28,Bourbon County,(at Danville),31,29,1,   ,0
+2015-08-28,Bourbon County,Southwestern,31,29,2,   ,0
 2015-08-28,Boyd County,Lewis County,51,24,1,   ,0
 2015-08-28,Bullitt Central,Fairdale,26,20,1,   ,0
 2015-08-28,Butler County,Edmonson County,49,14,0,   ,0
 2015-08-28,Caldwell County,Franklin-Simpson,48,19,0,   ,0
 2015-08-28,Central Hardin,Paducah Tilghman,48,25,0,   ,0
 2015-08-28,Christian Academy-Louisville,Eastern,42,7,1,   ,0
-2015-08-28,Cincinnati St. Xavier. OH,Catholic,57,7,1,   ,0
+2015-08-28,Cincinnati St. Xavier. OH,Covington Catholic,57,7,1,   ,0
 2015-08-28,Clinton County,Trimble County,34,6,0,   ,0
 2015-08-28,Collins,Bullitt East,55,14,0,   ,0
 2015-08-28,Conner,Boone County,43,6,1,   ,0
@@ -133,11 +133,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Crittenden County,Hopkins County Central,48,24,1,   ,0
 2015-08-28,Danville,Rockcastle County,46,18,1,   ,0
 2015-08-28,Daviess County,Owensboro Catholic,27,21,0,  OT(overtime) ,1
-2015-08-28,DeSales,(at Fairdale),49,13,1,   ,0
+2015-08-28,DeSales,Butler,49,13,2,   ,0
 2015-08-28,DuPont Manual,Fern Creek,28,18,0,   ,0
 2015-08-28,East Carter,West Union. OH,56,7,1,   ,0
 2015-08-28,East Jessamine,Lincoln County,27,9,1,   ,0
-2015-08-28,East Ridge,(at Belfry-Pikeville-Shelby Valley),36,0,1,   ,0
+2015-08-28,East Ridge,Phelps,36,0,2,   ,0
 2015-08-28,Elizabethtown,Marion County,53,6,0,   ,0
 2015-08-28,Eminence,Berea,60,33,1,   ,0
 2015-08-28,Estill County,Magoffin County,48,8,0,   ,0
@@ -146,7 +146,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Franklin County,Western Hills,20,7,1,   ,0
 2015-08-28,Gallatin County,Switzerland County. IN,41,0,1,   ,0
 2015-08-28,Garrard County,Madison Southern,28,7,0,   ,0
-2015-08-28,Glasgow,Cross (Louisville) (at Campbellsville University),24,20,1,   ,0
+2015-08-28,Glasgow,Holy Cross,24,20,2,   ,0
 2015-08-28,Grant County,Owen County,47,14,0,   ,0
 2015-08-28,Graves County,Trigg County,56,20,0,   ,0
 2015-08-28,Greenwood,Allen County-Scottsville,38,18,1,   ,0
@@ -160,7 +160,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Jeffersontown,Iroquois,18,0,1,   ,0
 2015-08-28,John Hardin,North Hardin,40,21,0,   ,0
 2015-08-28,Johnson Central,Fairland (Proctorville). OH,41,6,0,   ,0
-2015-08-28,Knox Central,(at Corbin),28,24,1,   ,0
+2015-08-28,Knox Central,Central,28,24,2,   ,0
 2015-08-28,LaRue County,Russell County,20,14,0,   ,0
 2015-08-28,Lake County. TN,Fulton County,48,20,1,   ,0
 2015-08-28,Leslie County,Knott County Central,56,14,1,   ,0
@@ -176,7 +176,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Moore,Shawnee,40,6,1,   ,0
 2015-08-28,Morgan County,Betsy Layne,56,0,1,   ,0
 2015-08-28,Muhlenberg County,Logan County,39,0,0,   ,0
-2015-08-28,Murray,County,48,21,1,   ,0
+2015-08-28,Murray,Calloway County,48,21,1,   ,0
 2015-08-28,Nicholas County,Pendleton County,34,7,0,   ,0
 2015-08-28,North Bullitt,Southern,28,9,1,   ,0
 2015-08-28,North Oldham,Oldham County,45,6,0,   ,0
@@ -199,7 +199,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,South Oldham,Doss,44,8,1,   ,0
 2015-08-28,South Warren,Apollo,42,6,0,   ,0
 2015-08-28,Spencer County,Nelson County,55,26,1,   ,0
-2015-08-28,St. Xavier,Clay (at Lexington Catholic),40,13,1,   ,0
+2015-08-28,St. Xavier,Henry Clay,40,13,2,   ,0
 2015-08-28,Todd County Central,Breckinridge County,39,14,1,   ,0
 2015-08-28,Trinity (Louisville),Brentwood Academy. TN,31,13,0,   ,0
 2015-08-28,Union County,Hancock County,40,13,1,   ,0
@@ -208,16 +208,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Western,Seneca,33,0,1,   ,0
 2015-08-28,Whitley County,Middlesboro,47,38,0,   ,0
 2015-08-28,Woodford County,West Jessamine,48,20,1,   ,0
-2015-08-29,Bowling Green,County (at Stadium of Champions. Hopkinsville),55,14,1,   ,0
+2015-08-29,Bowling Green,Christian County,55,14,2,   ,0
 2015-08-29,Boyle County,Bell County,41,7,1,   ,0
-2015-08-29,Campbellsville,County (at Campbellsville University),44,7,1,   ,0
-2015-08-29,Green County,County (at Campbellsville University),47,28,1,   ,0
-2015-08-29,Hopkinsville,Creek. TN (at Stadium of Champions. Hopkinsville),21,0,1,   ,0
-2015-08-29,Lafayette,County (at Boyle County),53,13,1,   ,0
-2015-08-29,North Laurel,County,45,35,1,   ,0
-2015-08-29,Pikeville,County Central (at Belfry-Pikeville-Shelby Valley),49,12,1,   ,0
+2015-08-29,Campbellsville,Washington County,44,7,2,   ,0
+2015-08-29,Green County,Casey County,47,28,2,   ,0
+2015-08-29,Hopkinsville,West Creek. TN,21,0,2,   ,0
+2015-08-29,Lafayette,Mercer County,53,13,2,   ,0
+2015-08-29,North Laurel,Harrison County,45,35,1,   ,0
+2015-08-29,Pikeville,Letcher County Central,49,12,2,   ,0
 2015-08-29,Russell,Greenup County,19,13,1,   ,0
-2015-08-29,Shelby Valley,County Central (at Belfry-Pikeville-Shelby Valley),34,32,1,   ,0
+2015-08-29,Shelby Valley,Pike County Central,34,32,2,   ,0
 2015-08-29,Wayne County,South Laurel,49,13,0,   ,0
 2015-09-04,Adair County,LaRue County,47,8,0,   ,0
 2015-09-04,Anderson County,Mercer County,55,14,1,   ,0
@@ -243,7 +243,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-04,Clinton County,McCreary Central,30,25,0,   ,0
 2015-09-04,Crittenden County,McLean County,31,8,0,   ,0
 2015-09-04,Daviess County,Warren East,44,15,1,   ,0
-2015-09-04,DeSales,,29,6,1,   ,0
+2015-09-04,DeSales,Ballard,29,6,1,   ,0
 2015-09-04,DuPont Manual,Seneca,57,0,0,   ,0
 2015-09-04,Eastern,Collins,49,44,0,   ,0
 2015-09-04,Edmonson County,Grayson County,43,7,0,   ,0
@@ -262,7 +262,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-04,Hazard,Letcher County Central,23,20,1,   ,0
 2015-09-04,Henry Clay,George Rogers Clark,35,13,1,   ,0
 2015-09-04,Holy Cross (Louisville),Providence. IN,27,13,0,   ,0
-2015-09-04,Hopkinsville,Campbell (at Trigg County),50,7,1,   ,0
+2015-09-04,Hopkinsville,Fort Campbell,50,7,2,   ,0
 2015-09-04,John Hardin,Warren Central,33,29,1,   ,0
 2015-09-04,Johnson Central,Lexington Catholic,42,28,0,   ,0
 2015-09-04,Lawrence County,Fairview,40,14,1,   ,0
@@ -322,7 +322,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-05,Ryle,Boone County,52,7,1,   ,0
 2015-09-05,Scott,Newport,61,6,0,   ,0
 2015-09-05,Simon Kenton,Conner,54,0,0,   ,0
-2015-09-05,Southwestern,Central (at Clay County),26,15,1,   ,0
+2015-09-05,Southwestern,Knox Central,26,15,2,   ,0
 2015-09-05,Sycamore. OH,Covington Catholic,42,7,1,   ,0
 2015-09-07,Henry County,Owen County,49,14,0,  Suspended in 1Q. HCHS up 14-0. Resumes 9/7 ,0
 2015-09-11,Adair County,Metcalfe County,27,22,1,   ,0
@@ -356,7 +356,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-11,Cooper,Campbell County,35,7,1,   ,0
 2015-09-11,Danville,Corbin,20,0,0,   ,0
 2015-09-11,Daviess County,Hancock County,42,12,0,   ,0
-2015-09-11,DeSales,Cross (Louisville),32,0,1,   ,0
+2015-09-11,DeSales,Holy Cross (Louisville),32,0,1,   ,0
 2015-09-11,Dresden. TN,Ballard Memorial,48,6,0,   ,0
 2015-09-11,East Jessamine,Clay County,42,0,1,   ,0
 2015-09-11,Edmonson County,Warren East,19,13,1,   ,0
@@ -599,11 +599,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-25,Knox Central,Russell County,41,0,0,   ,0
 2015-09-25,Lafayette,Henry Clay,48,34,0,   ,0
 2015-09-25,Leslie County,Betsy Layne,43,0,1,   ,0
-2015-09-25,Letcher County Central,County Central (at Letcher County Central by Double Kwik),33,6,1,   ,0
+2015-09-25,Letcher County Central,Perry County Central,33,6,2,   ,0
 2015-09-25,Lloyd Memorial,Garrard County,54,26,1,   ,0
 2015-09-25,Madison Central,Woodford County,55,0,0,   ,0
 2015-09-25,Male,Butler,57,0,1,   ,0
-2015-09-25,Mayfield,,28,14,1,   ,0
+2015-09-25,Mayfield,Corbin,28,14,1,   ,0
 2015-09-25,McCracken County,Daviess County,50,22,1,   ,0
 2015-09-25,Mercer County,Marion County,41,8,0,   ,0
 2015-09-25,Metcalfe County,Clinton County,48,0,1,   ,0
@@ -738,7 +738,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-02,Somerset,Caverna,44,24,1,   ,0
 2015-10-02,South Oldham,Nelson County,42,7,0,   ,0
 2015-10-02,Spencer County,North Oldham,13,0,0,   ,0
-2015-10-02,Trinity (Louisville),Xavier,20,15,1,   ,0
+2015-10-02,Trinity (Louisville),St. Xavier,20,15,1,   ,0
 2015-10-02,Walton-Verona,Owen County,27,6,1,   ,0
 2015-10-02,Washington County,Trimble County,52,16,0,   ,0
 2015-10-02,Wayne County,Rockcastle County,21,13,1,   ,0
@@ -966,7 +966,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-23,Covington Catholic,Dixie Heights,42,14,0,   ,0
 2015-10-23,Danville,Lexington Christian,41,7,0,   ,0
 2015-10-23,Daviess County,Ohio County,43,7,0,   ,0
-2015-10-23,DeSales,,56,0,1,   ,0
+2015-10-23,DeSales,Shawnee,56,0,1,   ,0
 2015-10-23,Doss,Southern,20,19,1,   ,0
 2015-10-23,East Jessamine,West Jessamine,47,0,0,   ,0
 2015-10-23,Eastern,Seneca,54,0,1,   ,0
@@ -1157,13 +1157,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-06,Kentucky Country Day,Ludlow,21,14,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Paintsville,Bracken County,50,24,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Pikeville,Lynn Camp,68,8,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-06,Raceland,Brossart (at Campbell County Middle),22,14,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-06,Raceland,Bishop Brossart,22,14,2,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Russellville,Fort Knox,67,0,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Williamsburg,South Floyd,41,12,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Butler County,Ballard Memorial,42,21,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Christian Academy-Louisville,Metcalfe County,49,6,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Danville,East Ridge,49,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-06,DeSales,County (at Doss),41,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-06,DeSales,Green County,41,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Glasgow,Washington County,43,9,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Holy Cross (Covington),Owen County,54,28,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Leslie County,Somerset,29,26,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1172,11 +1172,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-06,Mayfield,Todd County Central,41,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Monroe County,Shawnee,57,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Murray,McLean County,59,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-06,Newport Central Catholic,County (at Newport),38,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-06,Newport Central Catholic,Gallatin County,38,7,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Owensboro Catholic,Webster County,63,14,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Steele Stadium,0
 2015-11-06,Shelby Valley,Middlesboro,56,13,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Walton-Verona,Newport,45,6,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-06,Adair County,County (at Lindsey Wilson College),62,23,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-06,Adair County,Union County,62,23,2,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Belfry,Bath County,62,0,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Bell County,Estill County,41,8,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Boyle County,Waggener,42,14,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1209,7 +1209,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-06,Spencer County,Western,42,6,1,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Wayne County,West Jessamine,48,20,1,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Bowling Green,Apollo,50,7,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-06,Covington Catholic,County (at Dixie Heights),47,21,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-06,Covington Catholic,Anderson County,47,21,2,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Dixie Heights,Montgomery County,21,17,0,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Fairdale,Bullitt East,53,6,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Fern Creek,Bullitt Central,30,0,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1286,7 +1286,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-13,McCracken County,North Hardin,51,13,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-13,Scott County,Bryan Station,42,30,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-13,Simon Kenton,Ryle,41,23,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-13,Trinity (Louisville),Xavier (at Papa John's Stadium),34,7,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-13,Trinity (Louisville),St. Xavier,34,7,2,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Beechwood,Holy Cross (Louisville),21,9,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Paintsville,Paris,48,28,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Pikeville,Hazard,50,6,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1294,7 +1294,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-20,Danville,Lexington Christian,56,14,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,DeSales,Christian Academy-Louisville,37,18,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Mayfield,Owensboro Catholic,24,13,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-20,Newport Central Catholic,Memorial (at Newport),41,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-20,Newport Central Catholic,Lloyd Memorial,41,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Belfry,Lawrence County,52,12,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Corbin,Bell County,21,14,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-20,Elizabethtown,Caldwell County,32,27,0,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1314,7 +1314,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-27,Beechwood,Russellville,34,25,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Pikeville,Paintsville,42,23,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Mayfield,DeSales,24,19,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-27,Newport Central Catholic,(at Newport),15,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2015-11-27,Newport Central Catholic,Danville,15,7,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Belfry,Corbin,42,14,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Lexington Catholic,Elizabethtown,35,14,0,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Johnson Central,Wayne County,21,14,0,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1323,9 +1323,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-27,Pulaski County,Highlands,41,31,0,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Lafayette,Simon Kenton,42,28,0,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-27,Male,Central Hardin,50,0,0,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-12-03,Pikeville,(at Houchens/L.T. Smith. WKU),42,28,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 1A State Champion ,0
-2015-12-05,Bowling Green,County (at Houchens/L.T. Smith. WKU),21,7,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 5A State Champion ,0
-2015-12-05,Male,(at Houchens/L.T. Smith. WKU),41,14,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 6A State Champion ,0
-2015-12-06,Mayfield,Central Catholic (at Houchens/L.T. Smith. WKU),17,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 2A State Champion ,0
-2015-12-06,Belfry,Catholic (at Houchens/L.T. Smith. WKU),43,0,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 3A State Champion ,0
-2015-12-06,South Warren,Central (at Houchens/L.T. Smith. WKU),36,6,1,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 4A State Champion ,0
+2015-12-03,Pikeville,Beechwood,42,28,2,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 1A State Champion ,0
+2015-12-05,Bowling Green,Pulaski County,21,7,2,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 5A State Champion ,0
+2015-12-05,Male,Lafayette,41,14,2,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 6A State Champion ,0
+2015-12-06,Mayfield,Newport Central Catholic,17,7,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 2A State Champion ,0
+2015-12-06,Belfry,Lexington Catholic,43,0,2,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 3A State Champion ,0
+2015-12-06,South Warren,Johnson Central,36,6,2,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 4A State Champion ,0

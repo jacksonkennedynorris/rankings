@@ -174,6 +174,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-09-18,Wayne County,Harlan County,42,0,0,,0,0
 2020-09-18,West Carter,Boyd County,40,0,1,,0,0
 2020-09-18,Western Hills,Frankfort,28,26,0,,0,0
+2020-09-19,East Jessamine,Raceland,35,27,2,Rob Withrow Memorial Ironman Bowl,0,0
+2020-09-19,Collins,Eastern,39,0,1,,0,0
 2020-09-19,Dayton,Webster County,30,29,1,,0,0
 2020-09-19,Hopkinsville,Caldwell County,54,27,1,,0,0
 2020-09-19,Pulaski County,Madison Southern,21,15,0,,0,0
@@ -195,7 +197,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-09-25,Bryan Station,Lafayette,41,0,1,,0,0
 2020-09-25,Caldwell County,Ballard Memorial,50,8,1,,0,0
 2020-09-25,Calloway County,Hopkinsville,14,7,1,,0,0
-2020-09-25,Collins,Southern,21,13,1,,0,0
+2020-09-25,Collins,Madison Southern,21,13,1,,0,0
 2020-09-25,Conner,Boone County,40,0,1,,0,0
 2020-09-25,Corbin,Leslie County,49,0,1,,0,0
 2020-09-25,Covington Catholic,Cooper,41,0,0,,0,0
@@ -296,6 +298,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-10-02,Campbellsville,Metcalfe County,22,14,1,,0,0
 2020-10-02,Central,Shelby County,44,0,1,,0,0
 2020-10-02,Christian Academy-Louisville,Henry County,41,0,1,,0,0
+2020-10-02,Collins,Anderson County,50,14,1,,0,0
 2020-10-02,Cooper,George Rogers Clark,27,26,1,,0,0
 2020-10-02,Covington Catholic,Boone County,45,7,0,,0,0
 2020-10-02,Crittenden County,Trigg County,56,34,0,,0,0
@@ -510,6 +513,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-10-16,Raceland,Fairview,48,6,0,,0,0
 2020-10-16,Russellville,Caverna,48,0,0,,0,0
 2020-10-16,Ryle,Dixie Heights,44,14,1,,0,0
+2020-10-16,Sayre,Phelps,53,24,2,,0,0
 2020-10-16,Scott,Boyd County,27,26,1,,0,0
 2020-10-16,Scott County,Montgomery County,69,6,0,,0,0
 2020-10-16,Shelby Valley,East Ridge,51,0,0,,0,0
@@ -683,6 +687,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-11-06,Bryan Station,Simon Kenton,54,39,1,,0,0
 2020-11-06,Carroll County,Trimble County,60,0,0,,0,0
 2020-11-06,Clinton County,Green County,44,14,1,,0,0
+2020-11-06,Collins,Shelby County,24,21,1,,0,0
 2020-11-06,DeSales,Western Hills,41,0,0,,0,0
 2020-11-06,Franklin County,South Oldham,36,0,0,,0,0
 2020-11-06,George Rogers Clark,Great Crossing,22,0,0,,0,0
@@ -729,8 +734,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-11-20,Lloyd Memorial,Newport,20,13,0,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,Metcalfe County,Monroe County,34,6,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,Murray,Caldwell County,35,28,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
+2020-11-20,Owensboro Catholic,McLean County,40,22,2,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,Shelby Valley,Martin County,29,22,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,Somerset,Danville,48,14,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
+2020-11-20,Walton-Verona,Shawnee,41,8,2,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,West Carter,Prestonsburg,36,6,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,Ashland Blazer,Greenup County,47,0,1,Class 3A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-20,Bardstown,LaRue County,60,28,1,Class 3A 2020 UK Orthopaedics State Football Finals,0,0
@@ -786,6 +793,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-11-27,Crittenden County,Russellville,42,13,1,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-27,Hazard,Pikeville,21,12,0,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-27,Kentucky Country Day,Eminence,57,13,1,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
+2020-11-27,Newport Central Catholic,Ludlow,45,7,2,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-27,Paintsville,Raceland,28,21,0,Class 1A 2020 UK Orthopaedics State Football Finals (overtime),1,0
 2020-11-27,Williamsburg,Pineville,49,13,1,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
 2020-11-27,Beechwood,Lloyd Memorial,38,0,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
@@ -832,6 +840,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-12-04,Paintsville,Hazard,39,7,1,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-04,Williamsburg,Nicholas County,26,6,1,Class 1A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-04,Beechwood,Breathitt County,52,7,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
+2020-12-04,Lexington Christian,Metcalfe County,43,13,2,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-04,Murray,Owensboro Catholic,28,7,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-04,West Carter,Walton-Verona,43,6,1,Class 2A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-04,Ashland Blazer,Fleming County,42,0,1,Class 3A 2020 UK Orthopaedics State Football Finals,0,0
@@ -859,3 +868,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2020-12-11,Owensboro,Frederick Douglass,28,27,1,Class 5A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-11,Male,Paul Laurence Dunbar,49,6,1,Class 6A 2020 UK Orthopaedics State Football Finals,0,0
 2020-12-11,Trinity (Louisville),St. Xavier,31,0,1,Class 6A 2020 UK Orthopaedics State Football Finals,0,0
+2020-12-18,Paintsville,Kentucky Country Day,38,7,2,Class 1A 2020 UK Orthopaedics State Football Finals Championship,0,0
+2020-12-18,Beechwood,Lexington Christian,24,23,2,Class 2A 2020 UK Orthopaedics State Football Finals Championship OT,0,0
+2020-12-18,Boyle County,Franklin County,31,28,2,Class 4A 2020 UK Orthopaedics State Football Finals Championship OT,0,0
+2020-12-19,Ashland Blazer,Elizabethtown,35,14,2,Class 3A 2020 UK Orthopaedics State Football Finals Championship,0,0
+2020-12-19,Bowling Green,Owensboro,17,7,2,Class 5A 2020 UK Orthopaedics State Football Finals Championship,0,0
+2020-12-19,Trinity (Louisville),Male,28,0,2,Class 6A 2020 UK Orthopaedics State Football Finals Championship,0,0

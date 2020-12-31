@@ -11,7 +11,7 @@ for game = 1:length(Games)
   
    win_id = find([Teams.name]' == winner);
    lose_id = find([Teams.name]' == loser);
-   
+
    win_region = Teams(win_id).region;
    lose_region = Teams(lose_id).region;
    

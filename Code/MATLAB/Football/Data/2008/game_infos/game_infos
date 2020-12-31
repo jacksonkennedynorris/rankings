@@ -3,12 +3,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-08-29,Anderson County,Madison Southern,52,0,0,   ,0
 2008-08-29,Bath County,West Carter,24,14,0,   ,0
 2008-08-29,Beechwood,Dixie Heights,29,6,1,   ,0
-2008-08-29,Belfry,Cross (Louisville) (at Pike County),49,14,1,   ,0
-2008-08-29,Bell County,County (at Lincoln County),50,6,1,   ,0
+2008-08-29,Belfry,Holy Cross,49,14,2,   ,0
+2008-08-29,Bell County,Garrard County,50,6,2,   ,0
 2008-08-29,Berea,Bracken County,32,6,0,   ,0
 2008-08-29,Betsy Layne,Burch. WV,36,12,1,   ,0
 2008-08-29,Boyd County,East Carter,20,0,1,   ,0
-2008-08-29,Bryan Station,Laurence Dunbar (at Paul Dunbar),45,14,1,   ,0
+2008-08-29,Bryan Station,Paul Laurence Dunbar,45,14,2,   ,0
 2008-08-29,Bullitt Central,Spencer County,34,7,0,   ,0
 2008-08-29,Bullitt East,Butler,48,13,0,   ,0
 2008-08-29,Butler County,Logan County,33,18,0,   ,0
@@ -17,20 +17,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-08-29,Carroll County,Gallatin County,28,15,1,   ,0
 2008-08-29,Caverna,North Hardin Christian,42,7,0,   ,0
 2008-08-29,Central Hardin,Lloyd Memorial,24,0,1,   ,0
-2008-08-29,Christian Academy-Louisville,(at South Oldham),27,6,1,   ,0
+2008-08-29,Christian Academy-Louisville,Moore,27,6,2,   ,0
 2008-08-29,Conner,Cooper,57,0,1,   ,0
-2008-08-29,Crittenden County,County. TN (at Marshall County),54,21,1,   ,0
-2008-08-29,Daviess County,Harrison. IN (at Owensboro),42,13,1,   ,0
+2008-08-29,Crittenden County,Lake County. TN,54,21,2,   ,0
+2008-08-29,Daviess County,Evansville Harrison. IN,42,13,2,   ,0
 2008-08-29,Doss,DeSales,45,0,1,   ,0
 2008-08-29,DuPont Manual,Central,34,28,1,   ,0
 2008-08-29,Eastern,South Oldham,28,21,0,  (overtime) ,1
 2008-08-29,Edmonson County,Grayson County,14,8,1,   ,0
-2008-08-29,Elizabethtown,(at Central Hardin),55,12,1,   ,0
+2008-08-29,Elizabethtown,Bethlehem,55,12,2,   ,0
 2008-08-29,Eminence,Beth Haven,44,16,1,   ,0
 2008-08-29,Estill County,Pineville,43,8,0,   ,0
 2008-08-29,Fairview,Lewis County,27,0,0,   ,0
 2008-08-29,Fern Creek,Meade County,34,6,1,   ,0
-2008-08-29,Frankfort,(at Lexington Christian),19,14,1,   ,0
+2008-08-29,Frankfort,Williamsburg,19,14,2,   ,0
 2008-08-29,Franklin County,Waggener,72,27,1,   ,0
 2008-08-29,Franklin-Simpson,Russellville,47,15,0,   ,0
 2008-08-29,Fulton City,West Carroll. TN,34,26,0,   ,0
@@ -43,7 +43,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-08-29,Johnson Central,Breathitt County,26,14,0,   ,0
 2008-08-29,Kentucky Country Day,Atherton,34,0,1,   ,0
 2008-08-29,Knott County Central,Harlan,36,14,1,   ,0
-2008-08-29,Knox Central,County (at Lynn Camp),26,13,1,   ,0
+2008-08-29,Knox Central,Clay County,26,13,2,   ,0
 2008-08-29,Letcher County Central,Harlan County,42,32,1,   ,0
 2008-08-29,Lone Oak,Union County,48,14,0,   ,0
 2008-08-29,Lynn Camp,Leslie County,32,0,1,   ,0
@@ -63,56 +63,56 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-08-29,Owensboro,Evansville F.J. Reitz. IN,18,14,1,   ,0
 2008-08-29,Powell County,Jackson County,27,14,1,   ,0
 2008-08-29,Raceland,Ashland Blazer,19,16,0,  (overtime) ,1
-2008-08-29,Rockcastle County,County (at Somerset),34,23,1,   ,0
+2008-08-29,Rockcastle County,Pulaski County,34,23,2,   ,0
 2008-08-29,Rowan County,Morgan County,55,8,0,   ,0
 2008-08-29,Russell,Greenup County,49,13,0,   ,0
-2008-08-29,Scott,(at Grant County),53,0,1,   ,0
+2008-08-29,Scott,Walton-Verona,53,0,2,   ,0
 2008-08-29,Scott County,Boone County,23,14,1,   ,0
 2008-08-29,Seneca,Southern,44,24,0,   ,0
-2008-08-29,Shelby Valley,Ridge (at Pike County),60,14,1,   ,0
+2008-08-29,Shelby Valley,East Ridge,60,14,2,   ,0
 2008-08-29,Sheldon Clark,Perry County Central,26,22,0,   ,0
 2008-08-29,South Fulton. TN,Ballard Memorial,20,14,1,   ,0
-2008-08-29,South Laurel,Cross (Covington) (at North Laurel),49,35,1,   ,0
+2008-08-29,South Laurel,Holy Cross,49,35,2,   ,0
 2008-08-29,Southwestern,Somerset,48,28,0,   ,0
 2008-08-29,St. Xavier,Ballard,63,0,1,   ,0
 2008-08-29,Warren East,Greenwood,45,27,0,   ,0
 2008-08-29,Washington County,Lincoln County,35,30,0,   ,0
 2008-08-29,Webster County,Reidland,33,20,1,   ,0
 2008-08-29,Whitley County,Middlesboro,27,6,1,   ,0
-2008-08-30,Allen County-Scottsville,(at Barren County),42,26,1,   ,0
+2008-08-30,Allen County-Scottsville,Glasgow,42,26,2,   ,0
 2008-08-30,Bellevue,Newport,18,6,0,   ,0
 2008-08-30,Bowling Green,Henry Clay,27,12,1,   ,0
-2008-08-30,Boyle County,Central (at Bowling Green),49,13,1,   ,0
-2008-08-30,Cardinal Mooney. OH,Catholic,57,0,1,   ,0
+2008-08-30,Boyle County,Warren Central,49,13,2,   ,0
+2008-08-30,Cardinal Mooney. OH,Covington Catholic,57,0,1,   ,0
 2008-08-30,Christian County,Paducah Tilghman,22,15,1,   ,0
-2008-08-30,Corbin,(at Pike County),23,15,1,   ,0
+2008-08-30,Corbin,Pikeville,23,15,2,   ,0
 2008-08-30,Danville,Russell County,44,31,1,   ,0
-2008-08-30,Evansville Bosse. IN,(at Kentucky Wesleyan),41,25,1,   ,0
-2008-08-30,Evansville FJ Reitz. IN,Catholic (at Kentucky Wesleyan),30,14,1,   ,0
-2008-08-30,Fort Campbell,(at Marshall County),50,7,1,   ,0
+2008-08-30,Evansville Bosse. IN,Apollo,41,25,2,   ,0
+2008-08-30,Evansville FJ Reitz. IN,Owensboro Catholic,30,14,2,   ,0
+2008-08-30,Fort Campbell,Mayfield,50,7,2,   ,0
 2008-08-30,George Rogers Clark,Montgomery County,19,0,0,   ,0
-2008-08-30,Graves County,IL (at Marshall County),28,12,1,   ,0
-2008-08-30,Green County,(at Lexington Catholic),48,39,1,   ,0
-2008-08-30,Harrison County,County (at Montgomery County),48,35,1,   ,0
+2008-08-30,Graves County,Massac. IL,28,12,2,   ,0
+2008-08-30,Green County,Hazard,48,39,2,   ,0
+2008-08-30,Harrison County,Fleming County,48,35,2,   ,0
 2008-08-30,Henry County,Ludlow,40,0,1,   ,0
-2008-08-30,Hopkins County Central,County (at Madisonville North Hopkins),63,0,1,   ,0
+2008-08-30,Hopkins County Central,Fulton County,63,0,2,   ,0
 2008-08-30,Hopkinsville,Trigg County,49,21,1,   ,0
 2008-08-30,Indianapolis Bishop Chatard. IN,Lexington Catholic,31,7,0,   ,0
-2008-08-30,LaRue County,Knox (at North Hardin),46,14,1,   ,0
+2008-08-30,LaRue County,Fort Knox,46,14,2,   ,0
 2008-08-30,Lexington Christian,Campbellsville,56,36,1,   ,0
-2008-08-30,Madison Central,County (at Danville),25,0,1,   ,0
-2008-08-30,Madisonville-North Hopkins,County (at Madisonville North Hopkins),37,29,1,   ,0
+2008-08-30,Madison Central,Mercer County,25,0,2,   ,0
+2008-08-30,Madisonville-North Hopkins,Caldwell County,37,29,2,   ,0
 2008-08-30,Marion County,East Jessamine,28,27,1,  (overtime) ,1
 2008-08-30,Metcalfe County,Barren County,28,21,0,   ,0
-2008-08-30,Newport Central Catholic,Kenton (at Newport),37,15,1,   ,0
+2008-08-30,Newport Central Catholic,Simon Kenton,37,15,2,   ,0
 2008-08-30,North Hardin,Shelby County,33,30,1,   ,0
-2008-08-30,North Oldham,(at South Oldham),41,14,1,   ,0
-2008-08-30,Oldham County,(at South Oldham),67,6,1,   ,0
-2008-08-30,Pike County Central,(at Pike County),53,6,1,   ,0
+2008-08-30,North Oldham,Shawnee,41,14,2,   ,0
+2008-08-30,Oldham County,Iroquois,67,6,2,   ,0
+2008-08-30,Pike County Central,Phelps,53,6,2,   ,0
 2008-08-30,Prestonsburg,Paintsville,54,20,1,   ,0
-2008-08-30,Trimble County,County (at Henry County),50,7,1,   ,0
-2008-08-30,West Jessamine,(at Marion County),1,0,1,  Administrative Forfeit,0
-2008-09-05,,County (at Middletown Christian. OH),27,19,1,   ,0
+2008-08-30,Trimble County,Casey County,50,7,2,   ,0
+2008-08-30,West Jessamine,Western,1,0,2,  Administrative Forfeit,0
+2008-09-05,,Bracken County,27,19,2,   ,0
 2008-09-05,Allen Central,Magoffin County,42,6,1,   ,0
 2008-09-05,Amelia. OH,Walton-Verona,35,7,1,   ,0
 2008-09-05,Anderson County,West Jessamine,35,12,0,   ,0
@@ -133,13 +133,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-05,Caldwell County,Glasgow,20,14,1,   ,0
 2008-09-05,Calloway County,Trigg County,35,28,0,   ,0
 2008-09-05,Carbondale. IL,Heath,42,14,0,   ,0
-2008-09-05,Clay County,County (at Hazard),62,8,1,   ,0
+2008-09-05,Clay County,Leslie County,62,8,2,   ,0
 2008-09-05,Colerain. OH,Highlands,33,18,1,   ,0
 2008-09-05,Corbin,Knox Central,35,14,1,   ,0
 2008-09-05,Covington Catholic,Newport Central Catholic,38,34,0,   ,0
 2008-09-05,Danville,Southwestern,26,7,1,   ,0
-2008-09-05,DeSales,East (at DuPont Manual Stadium),14,0,1,   ,0
-2008-09-05,DuPont Manual,(at Male),48,35,1,   ,0
+2008-09-05,DeSales,Bullitt East,14,0,2,   ,0
+2008-09-05,DuPont Manual,Seneca,48,35,2,   ,0
 2008-09-05,East Jessamine,Montgomery County,29,21,0,   ,0
 2008-09-05,Eastern,Butler,31,19,1,   ,0
 2008-09-05,Edmonson County,Caverna,14,0,0,   ,0
@@ -164,18 +164,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-05,Hazard,Pike County Central,47,13,1,   ,0
 2008-09-05,Henry County,Trimble County,56,0,1,   ,0
 2008-09-05,Holy Cross (Louisville),South Oldham,35,21,0,   ,0
-2008-09-05,Hopkinsville,County (at Trigg County),48,37,1,   ,0
+2008-09-05,Hopkinsville,Marshall County,48,37,2,   ,0
 2008-09-05,Jackson County,Betsy Layne,30,20,0,   ,0
 2008-09-05,Jeffersontown,Waggener,33,12,1,   ,0
 2008-09-05,John Hardin,Meade County,16,0,0,   ,0
 2008-09-05,Johnson Central,St. Thomas More. ON,49,13,1,   ,0
 2008-09-05,LaRue County,Washington County,52,34,1,   ,0
 2008-09-05,Lafayette,Franklin County,7,0,1,   ,0
-2008-09-05,Lee County-Jonesville. VA,(at Lee County. VA),43,0,1,   ,0
+2008-09-05,Lee County-Jonesville. VA,Harlan,43,0,2,   ,0
 2008-09-05,Letcher County Central,Greenup County,67,6,1,   ,0
 2008-09-05,Lexington Catholic,Scott County,16,10,1,   ,0
 2008-09-05,Lexington Christian,Christian Academy-Louisville,50,26,0,   ,0
-2008-09-05,Lone Oak,County (at Caldwell County),54,13,1,   ,0
+2008-09-05,Lone Oak,Crittenden County,54,13,2,   ,0
 2008-09-05,Ludlow,Carroll County,26,21,1,   ,0
 2008-09-05,Madison Central,Madison Southern,57,0,1,   ,0
 2008-09-05,Madisonville-North Hopkins,Hopkins County Central,13,6,0,  (overtime) ,1
@@ -183,7 +183,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-05,Marion County,Nelson County,28,17,0,   ,0
 2008-09-05,McLean County,Murray,24,21,1,   ,0
 2008-09-05,Mercer County,Pulaski County,38,7,1,   ,0
-2008-09-05,Middlesboro,Laurence Dunbar (at Corbin),27,0,1,   ,0
+2008-09-05,Middlesboro,Paul Laurence Dunbar,27,0,2,   ,0
 2008-09-05,Monroe County,Adair County,49,8,1,   ,0
 2008-09-05,Muhlenberg South,Logan County,47,7,1,   ,0
 2008-09-05,Newport,Pendleton County,20,12,0,   ,0
@@ -201,7 +201,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-05,Russell County,Casey County,56,2,1,   ,0
 2008-09-05,Ryle,Cooper,45,8,0,   ,0
 2008-09-05,Scott,Dayton,28,7,0,   ,0
-2008-09-05,Sheldon Clark,(Proctorville). OH (at Fairland. OH),29,28,1,   ,0
+2008-09-05,Sheldon Clark,Fairland,29,28,2,   ,0
 2008-09-05,Simon Kenton,Dixie Heights,28,7,0,   ,0
 2008-09-05,Somerset,Metcalfe County,57,30,1,   ,0
 2008-09-05,South Floyd,Evangel Christian,53,25,1,   ,0
@@ -220,8 +220,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-06,Clinton County,Muhlenberg North,20,16,1,   ,0
 2008-09-06,Daviess County,Franklin-Simpson,25,20,0,   ,0
 2008-09-06,Holmes,Holy Cross (Covington),33,7,0,   ,0
-2008-09-06,Russellville,County (at Franklin-Simpson),36,21,1,   ,0
-2008-09-06,Tates Creek,County (at Woodford County),34,13,1,   ,0
+2008-09-06,Russellville,Barren County,36,21,2,   ,0
+2008-09-06,Tates Creek,Lincoln County,34,13,2,   ,0
 2008-09-06,Woodford County,Bardstown,49,34,1,   ,0
 2008-09-12,Allen Central,Phelps,62,14,1,   ,0
 2008-09-12,Allen County-Scottsville,Franklin-Simpson,40,28,1,   ,0
@@ -328,7 +328,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-13,Harlan County,Fleming County,32,0,0,   ,0
 2008-09-13,Holy Cross (Covington),Cooper,55,0,1,   ,0
 2008-09-13,Newport Central Catholic,Ryle,25,20,1,   ,0
-2008-09-13,North Hardin Christian,Christian,64,6,1,   ,0
+2008-09-13,North Hardin Christian,Evangel Christian,64,6,1,   ,0
 2008-09-13,Owensboro,Hopkinsville,24,14,0,   ,0
 2008-09-13,Spencer County,Pineville,42,15,0,   ,0
 2008-09-13,Walton-Verona,Bishop Brossart,38,7,0,   ,0
@@ -357,7 +357,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-19,Corbin,South Laurel,31,21,1,   ,0
 2008-09-19,Covington Catholic,Scott,49,12,0,   ,0
 2008-09-19,Crittenden County,Fulton City,44,13,1,   ,0
-2008-09-19,Dawson Bryant (Coal Grove). OH,(at Coal Grove. OH),29,14,1,   ,0
+2008-09-19,Dawson Bryant (Coal Grove). OH,Newport,29,14,2,   ,0
 2008-09-19,Edmonson County,Metcalfe County,27,14,1,   ,0
 2008-09-19,Elizabethtown,Fort Knox,56,10,0,   ,0
 2008-09-19,Eminence,Bracken County,46,0,1,   ,0
@@ -369,7 +369,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-19,Grant County,Owen County,30,18,1,   ,0
 2008-09-19,Graves County,Mayfield,29,12,1,   ,0
 2008-09-19,Grayson County,Breckinridge County,40,8,1,   ,0
-2008-09-19,Harlan County,County-Jonesville. VA (at Lee County. VA),34,14,1,   ,0
+2008-09-19,Harlan County,Lee County-Jonesville. VA,34,14,2,   ,0
 2008-09-19,Harrison County,Madison Southern,31,24,1,   ,0
 2008-09-19,Hazard,Harlan,47,7,1,   ,0
 2008-09-19,Henderson County,Bullitt East,50,14,0,   ,0
@@ -453,7 +453,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-26,Crittenden County,Mayfield,27,14,0,   ,0
 2008-09-26,Danville,Fort Knox,47,7,1,   ,0
 2008-09-26,Daviess County,Graves County,21,14,0,   ,0
-2008-09-26,DeSales,County (at DuPont Manual Stadium),55,14,1,   ,0
+2008-09-26,DeSales,Owen County,55,14,2,   ,0
 2008-09-26,East Jessamine,West Jessamine,31,13,1,   ,0
 2008-09-26,Edmonson County,Hart County,47,13,1,   ,0
 2008-09-26,Eminence,Gallatin County,28,21,0,   ,0
@@ -521,7 +521,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-09-26,Southwestern,Lincoln County,35,6,1,   ,0
 2008-09-26,Spencer County,Western Hills,24,21,1,   ,0
 2008-09-26,St. Xavier,DuPont Manual,57,0,1,   ,0
-2008-09-26,Tates Creek,Laurence Dunbar (at Paul Dunbar),28,27,1,  (Triple Overtime) ,0
+2008-09-26,Tates Creek,Paul Laurence Dunbar,28,27,2,  (Triple Overtime) ,0
 2008-09-26,Taylor County,Garrard County,65,56,0,   ,0
 2008-09-26,Trigg County,Reidland,61,0,1,   ,0
 2008-09-26,Union County,Paducah Tilghman,41,35,0,  (Overtime) ,0
@@ -605,7 +605,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-10-03,Oldham County,Scott County,24,17,0,   ,0
 2008-10-03,Owen County,Atherton,20,6,1,   ,0
 2008-10-03,Owensboro,Marshall County,35,0,1,   ,0
-2008-10-03,Paul Laurence Dunbar,(at Paul Dunbar),29,27,1,   ,0
+2008-10-03,Paul Laurence Dunbar,Southwestern,29,27,2,   ,0
 2008-10-03,Pineville,Jackson County,42,0,1,   ,0
 2008-10-03,Pulaski County,North Laurel,40,23,1,   ,0
 2008-10-03,Raceland,Greenup County,40,6,0,   ,0
@@ -615,7 +615,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-10-03,Ryle,Holy Cross (Covington),34,21,1,   ,0
 2008-10-03,Simon Kenton,Holmes,48,14,0,   ,0
 2008-10-03,South Haven. TN,Evangel Christian,74,34,1,   ,0
-2008-10-03,St. Xavier,(Louisville),30,6,1,   ,0
+2008-10-03,St. Xavier,Trinity (Louisville),30,6,1,   ,0
 2008-10-03,Tolsia. WV,Pike County Central,21,20,0,   ,0
 2008-10-03,Warren East,Logan County,52,50,0,  (overtime) ,1
 2008-10-03,Wayne County,Russell County,35,27,1,   ,0
@@ -757,7 +757,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-10-17,Crittenden County,Union County,25,16,1,   ,0
 2008-10-17,Danville,Russellville,36,28,1,   ,0
 2008-10-17,Daviess County,Marshall County,39,7,1,   ,0
-2008-10-17,DeSales,(at DuPont Manual Stadium),48,0,1,   ,0
+2008-10-17,DeSales,Waggener,48,0,2,   ,0
 2008-10-17,Doss,Fairdale,34,22,1,   ,0
 2008-10-17,East Jessamine,Madison Southern,27,26,0,   ,0
 2008-10-17,Eastern,Shelby County,48,25,1,   ,0
@@ -838,7 +838,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-10-24,Belfry,Sheldon Clark,40,13,0,   ,0
 2008-10-24,Bell County,McCreary Central,70,0,1,   ,0
 2008-10-24,Berea,Williamson. WV,61,8,1,   ,0
-2008-10-24,Bethlehem,Haven (at Fairdale),34,24,1,   ,0
+2008-10-24,Bethlehem,Beth Haven,34,24,2,   ,0
 2008-10-24,Betsy Layne,Phelps,18,0,1,   ,0
 2008-10-24,Boone County,Ryle,28,14,1,   ,0
 2008-10-24,Bourbon County,Pendleton County,42,26,1,   ,0
@@ -963,7 +963,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-10-31,Conner,Meade County,49,8,1,   ,0
 2008-10-31,Corbin,Somerset,56,10,1,   ,0
 2008-10-31,Daviess County,Hancock County,33,0,0,   ,0
-2008-10-31,DeSales,(at DuPont Manual Stadium),36,28,1,   ,0
+2008-10-31,DeSales,Southern,36,28,2,   ,0
 2008-10-31,Doss,North Bullitt,20,7,0,   ,0
 2008-10-31,DuPont Manual,Bullitt East,24,23,0,  (double overtime) ,0
 2008-10-31,Eastern,Male,21,14,1,   ,0
@@ -1028,7 +1028,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-10-31,Spencer County,Atherton,42,8,1,   ,0
 2008-10-31,St. Xavier,Central,36,13,1,   ,0
 2008-10-31,Trimble County,Owen County,24,6,0,   ,0
-2008-10-31,Trinity (Louisville),Laurence Dunbar (at Paul Dunbar),56,0,1,   ,0
+2008-10-31,Trinity (Louisville),Paul Laurence Dunbar,56,0,2,   ,0
 2008-10-31,Valley,Fairdale,38,14,0,   ,0
 2008-10-31,West Jessamine,Harrison County,26,23,1,   ,0
 2008-10-31,Western,Iroquois,22,6,0,   ,0
@@ -1065,7 +1065,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-11-07,Conner,Holmes,40,6,0,   ,0
 2008-11-07,Daviess County,Owensboro Catholic,16,7,1,   ,0
 2008-11-07,Dayton,Carroll County,50,20,1,   ,0
-2008-11-07,DeSales,(at DuPont Manual Stadium),17,14,1,   ,0
+2008-11-07,DeSales,Fairdale,17,14,2,   ,0
 2008-11-07,Dixie Heights,Campbell County,56,7,1,   ,0
 2008-11-07,Doss,Holy Cross (Louisville),62,14,1,   ,0
 2008-11-07,DuPont Manual,Male,41,24,0,   ,0
@@ -1230,7 +1230,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-11-14,Simon Kenton,Lafayette,33,6,0,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-14,St. Xavier,Nelson County,72,7,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-14,Trinity (Louisville),Graves County,59,3,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-11-15,Holy Cross (Covington),County (at Holmes),56,3,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-11-15,Holy Cross (Covington),Carroll County,56,3,2,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-15,Covington Catholic,Woodford County,42,13,1,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Beechwood,Ludlow,54,0,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Crittenden County,Ballard Memorial,48,7,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1245,7 +1245,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-11-21,Fort Campbell,Murray,47,0,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Green County,Danville,28,21,0,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Monroe County,Bardstown,45,14,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-11-21,Newport Central Catholic,Memorial (at Newport),42,15,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-11-21,Newport Central Catholic,Lloyd Memorial,42,15,2,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Owensboro Catholic,Trigg County,28,21,0,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Prestonsburg,Middlesboro,20,7,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-11-21,Belfry,Russell,42,0,1,  Class 3A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1315,1333 +1315,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2008-12-05,Christian County,John Hardin,35,29,0,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-12-05,Highlands,Whitley County,42,16,0,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2008-12-05,Simon Kenton,Male,28,10,0,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-05,Trinity (Louisville),Xavier (at Papa John's Cardinal Stadium. Louisville),28,21,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-12,Beechwood,(at Papa John's Cardinal Stadium. Louisville),14,7,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-12,Central,County (at Papa John's Cardinal Stadium. Louisville),40,19,1,  Class 3A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-12,Highlands,County (at Papa John's Cardinal Stadium. Louisville),35,15,1,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-13,Fort Campbell,Central Catholic (at Papa John's Cardinal Stadium. Louisville),26,23,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-13,Bell County,East (at Papa John's Cardinal Stadium. Louisville),15,13,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
-2008-12-13,Trinity (Louisville),Kenton (at Papa John's Cardinal Stadium. Louisville),48,0,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
+2008-12-05,Trinity (Louisville),St. Xavier,28,21,2,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-12-12,Beechwood,Hazard,14,7,2,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-12-12,Central,Breathitt County,40,19,2,  Class 3A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-12-12,Highlands,Christian County,35,15,2,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-12-13,Fort Campbell,Newport Central Catholic,26,23,2,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-12-13,Bell County,Bullitt East,15,13,2,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
+2008-12-13,Trinity (Louisville),Simon Kenton,48,0,2,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0

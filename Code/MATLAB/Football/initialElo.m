@@ -1,7 +1,7 @@
 function [Games, initElo] = initialElo(Games, Teams, year) 
 
 
-[Games,cross_games] = crossRegion(Games,Teams,year);
+%[Games,cross_games] = crossRegion(Games,Teams,year);
 if year == 2004
     initElo = 1500*ones(1,length(Teams))';
 else

@@ -14,6 +14,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-08-21,Carroll County,Bracken County,44,21,0,NaN,0,0
 2009-08-21,Casey County,Caverna,36,20,1,NaN,0,0
 2009-08-21,Central Hardin,Logan County,44,18,0,NaN,0,0
+2009-08-21,Clay County,Lynn Camp,48,0,2,NaN,0,0
+2009-08-21,Conner,Oldham County,23,14,2,NaN,0,0
 2009-08-21,DeSales,Western,27,18,0,NaN,0,0
 2009-08-21,Dixie Heights,Newport Central Catholic,19,7,1,NaN,0,0
 2009-08-21,Edmonson County,Breckinridge County,31,6,0,NaN,0,0
@@ -21,6 +23,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-08-21,Fairview,West Carter,13,7,1,NaN,0,0
 2009-08-21,Franklin-Simpson,Russellville,28,27,1,NaN,0,0
 2009-08-21,Grayson County,Hancock County,54,15,0,NaN,0,0
+2009-08-21,Green County,Middlesboro,28,7,2,NaN,0,0
 2009-08-21,Hart County,Todd County Central,43,14,1,NaN,0,0
 2009-08-21,Heath,Webster County,25,0,0,NaN,0,0
 2009-08-21,Henry County,Pike County Central,20,6,1,NaN,0,0
@@ -48,23 +51,35 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-08-21,Ryle,Covington Catholic,34,14,1,NaN,0,0
 2009-08-21,Seneca,Central,44,26,0,NaN,0,0
 2009-08-21,Shawnee,Washington County,18,6,1,NaN,0,0
+2009-08-21,Somerset,Knox Central,24,22,2,NaN,0,0
 2009-08-21,Spencer County,East Jessamine,35,34,1,NaN,0,0
 2009-08-21,West Jessamine,Madison Southern,28,27,1,NaN,0,0
+2009-08-22,Barren County,Metcalfe County,35,0,2,NaN,0,0
+2009-08-22,Bowling Green,Christian County,22,3,2,NaN,0,0
+2009-08-22,Breathitt County,Mercer County,58,24,2,NaN,0,0
+2009-08-22,Bullitt East,Paul Laurence Dunbar,37,7,2,NaN,0,0
 2009-08-22,Eminence,South Floyd,58,22,0,NaN,0,0
 2009-08-22,Glasgow,Warren East,26,14,1,NaN,0,0
+2009-08-22,Holy Cross (Louisville),Franklin County,35,7,2,NaN,0,0
 2009-08-22,LaRue County,Campbellsville,30,12,0,NaN,0,0
 2009-08-22,Montgomery County,Harrison County,27,26,1,NaN,0,0
 2009-08-22,North Hardin,Bardstown,41,33,1,NaN,0,0
+2009-08-22,North Oldham,Moore,20,19,2,NaN,0,0
 2009-08-22,Raceland,Boyd County,27,26,0,NaN,0,0
+2009-08-22,Southwestern,Warren Central,32,18,2,NaN,0,0
+2009-08-22,Trimble County,Atherton,48,0,1,NaN,0,0
 2009-08-22,Walton-Verona,Gallatin County,13,7,1,NaN,0,0
 2009-08-22,Woodford County,South Oldham,27,12,0,NaN,0,0
 2009-08-28,Adair County,Caverna,48,20,0,NaN,0,0
 2009-08-28,Allen Central,Jenkins,60,0,1,NaN,0,0
 2009-08-28,Anderson County,Meade County,43,34,1,NaN,0,0
+2009-08-28,Apollo,Warren East,25,20,2,NaN,0,0
 2009-08-28,Ashland Blazer,Raceland,31,0,1,NaN,0,0
 2009-08-28,Belfry,Boyd County,28,14,1,NaN,0,0
 2009-08-28,Bethlehem,Eminence,33,6,1,NaN,0,0
 2009-08-28,Bourbon County,Estill County,41,6,0,NaN,0,0
+2009-08-28,Bowling Green,Owensboro Catholic,45,6,2,NaN,0,0
+2009-08-28,Bryan Station,Shelby County,38,26,2,NaN,0,0
 2009-08-28,Bullitt Central,Barren County,21,7,1,NaN,0,0
 2009-08-28,Bullitt East,Holy Cross (Louisville),41,14,0,NaN,0,0
 2009-08-28,Butler County,Breckinridge County,49,22,1,NaN,0,0
@@ -75,10 +90,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-08-28,Corbin,Harlan,42,16,0,NaN,0,0
 2009-08-28,Doss,North Bullitt,13,0,0,NaN,0,0
 2009-08-28,East Jessamine,Lincoln County,34,12,0,NaN,0,0
+2009-08-28,East Ridge,Phelps,32,14,2,NaN,0,0
+2009-08-28,Elizabethtown,Spencer County,42,39,2,NaN,0,0
 2009-08-28,Fairview,Bracken County,48,14,1,NaN,0,0
 2009-08-28,Fern Creek,DuPont Manual,31,28,1,NaN,0,0
 2009-08-28,Fleming County,Nicholas County,33,0,0,NaN,0,0
 2009-08-28,Frankfort,Paris,52,0,1,NaN,0,0
+2009-08-28,Garrard County,Rowan County,41,35,2,NaN,0,0
 2009-08-28,Grayson County,Muhlenberg County,33,18,1,NaN,0,0
 2009-08-28,Green County,Taylor County,44,16,1,NaN,0,0
 2009-08-28,Greenwood,Logan County,48,6,1,NaN,0,0
@@ -111,6 +129,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-08-28,Seneca,Southern,35,10,1,NaN,0,0
 2009-08-28,Sheldon Clark,Breathitt County,6,0,1,NaN,0,0
 2009-08-28,Somerset,Pulaski County,18,12,1,NaN,0,0
+2009-08-28,Southwestern,Harlan County,35,8,2,NaN,0,0
 2009-08-28,St. Xavier,Ballard,35,6,0,NaN,0,0
 2009-08-28,Tates Creek,Mercer County,41,36,1,NaN,0,0
 2009-08-28,Valley,Pleasure Ridge Park,21,12,1,NaN,0,0
@@ -119,15 +138,30 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-08-28,Whitley County,Lynn Camp,55,13,0,NaN,0,0
 2009-08-29,Bell County,Marion County,26,21,0,NaN,0,0
 2009-08-29,Bellevue,Newport,40,24,0,NaN,0,0
+2009-08-29,Berea,Walton-Verona,28,20,2,NaN,0,0
+2009-08-29,Boone County,Lafayette,31,23,2,NaN,0,0
+2009-08-29,Boyle County,Rockcastle County,42,22,2,NaN,0,0
+2009-08-29,Butler,Paul Laurence Dunbar,34,14,2,NaN,0,0
 2009-08-29,Danville,Franklin County,22,6,1,NaN,0,0
+2009-08-29,Dixie Heights,Beechwood,47,7,2,NaN,0,0
 2009-08-29,Franklin-Simpson,Metcalfe County,42,6,1,NaN,0,0
 2009-08-29,Grant County,Owen County,17,10,1,NaN,0,0
+2009-08-29,Graves County,Trigg County,10,8,2,NaN,0,0
+2009-08-29,Henry Clay,Central,34,21,2,NaN,0,0
+2009-08-29,Holmes,Lloyd Memorial,41,12,1,NaN,0,0
 2009-08-29,Holy Cross (Covington),Pikeville,32,14,0,NaN,0,0
+2009-08-29,John Hardin,Madison Central,41,17,2,NaN,0,0
 2009-08-29,Lexington Catholic,Covington Catholic,23,17,1,NaN,0,0
 2009-08-29,North Hardin,LaRue County,32,6,0,NaN,0,0
 2009-08-29,North Laurel,Knox Central,28,21,1,NaN,0,0
+2009-08-29,Pendleton County,Dayton,39,21,2,NaN,0,0
 2009-08-29,Russell,Greenup County,37,0,1,NaN,0,0
+2009-08-29,Shelby Valley,Pike County Central,35,13,2,NaN,0,0
+2009-08-29,Simon Kenton,Newport Central Catholic,29,8,2,NaN,0,0
+2009-08-29,South Laurel,Williamsburg,32,26,2,NaN,0,0
 2009-08-29,Union County,Ballard Memorial,27,12,0,NaN,0,0
+2009-08-29,Warren Central,Russellville,35,6,2,NaN,0,0
+2009-08-29,Woodford County,Western Hills,28,22,2,NaN,0,0
 2009-09-04,Allen Central,Jackson County,34,6,0,NaN,0,0
 2009-09-04,Allen County-Scottsville,McLean County,56,20,1,NaN,0,0
 2009-09-04,Ashland Blazer,Belfry,22,20,0,NaN,0,0
@@ -147,7 +181,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-09-04,Christian County,Henderson County,47,31,0,NaN,0,0
 2009-09-04,Conner,Lloyd Memorial,64,0,1,NaN,0,0
 2009-09-04,Cooper,Scott,28,27,0,NaN,0,0
+2009-09-04,Crittenden County,Hopkins County Central,35,6,1,NaN,0,0
 2009-09-04,Daviess County,Ohio County,29,19,0,NaN,0,0
+2009-09-04,DeSales,Bullitt East,45,30,2,NaN,0,0
 2009-09-04,East Carter,Fairview,16,13,1,NaN,0,0
 2009-09-04,Fern Creek,Seneca,56,35,1,NaN,0,0
 2009-09-04,Fleming County,Raceland,19,13,1,NaN,0,0
@@ -156,10 +192,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-09-04,Graves County,Muhlenberg County,28,6,1,NaN,0,0
 2009-09-04,Grayson County,Breckinridge County,40,0,0,NaN,0,0
 2009-09-04,Green County,Butler County,41,7,0,NaN,0,0
+2009-09-04,Greenwood,Hopkinsville,20,7,2,NaN,0,0
 2009-09-04,Hancock County,Fort Knox,80,39,0,NaN,0,0
 2009-09-04,Harlan,Williamsburg,47,32,1,NaN,0,0
 2009-09-04,Harrison County,Paris,35,14,1,NaN,0,0
 2009-09-04,Heath,Ballard Memorial,43,21,1,NaN,0,0
+2009-09-04,Henry Clay,Southwestern,42,7,2,NaN,0,0
 2009-09-04,Henry County,Trimble County,32,12,0,NaN,0,0
 2009-09-04,Highlands,Beechwood,48,20,0,NaN,0,0
 2009-09-04,Holmes,Bellevue,24,8,0,NaN,0,0
@@ -220,6 +258,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-09-04,West Jessamine,Garrard County,14,13,0,NaN,0,0
 2009-09-04,Western Hills,Washington County,59,26,0,NaN,0,0
 2009-09-05,Bishop Brossart,Bracken County,38,0,1,NaN,0,0
+2009-09-05,Boyle County,Pikeville,63,7,2,NaN,0,0
 2009-09-05,Corbin,Danville,31,14,1,NaN,0,0
 2009-09-05,Grant County,Walton-Verona,21,0,0,NaN,0,0
 2009-09-11,Allen Central,Harlan,30,29,1,NaN,0,0
@@ -362,6 +401,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-09-18,Highlands,Boone County,36,14,1,NaN,0,0
 2009-09-18,Holmes,Bourbon County,47,21,0,NaN,0,0
 2009-09-18,John Hardin,Nelson County,35,7,0,NaN,0,0
+2009-09-18,Johnson Central,Middlesboro,46,22,2,NaN,0,0
 2009-09-18,LaRue County,Glasgow,28,24,0,NaN,0,0
 2009-09-18,Lawrence County,Shelby Valley,49,14,1,NaN,0,0
 2009-09-18,Lexington Catholic,Madison Central,42,14,0,NaN,0,0
@@ -542,6 +582,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-10-02,East Jessamine,Owen County,22,0,0,NaN,0,0
 2009-10-02,Eminence,Gallatin County,12,6,1,NaN,1,0
 2009-10-02,Estill County,Pineville,35,14,1,NaN,0,0
+2009-10-02,Fern Creek,DeSales,26,20,2,NaN,1,0
 2009-10-02,Frankfort,Bracken County,68,0,1,NaN,0,0
 2009-10-02,Franklin-Simpson,Monroe County,35,28,0,NaN,0,0
 2009-10-02,Garrard County,Jackson County,56,24,1,NaN,0,0
@@ -621,6 +662,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-10-09,Christian County,Ohio County,41,14,0,NaN,0,0
 2009-10-09,Conner,Campbell County,47,12,1,NaN,0,0
 2009-10-09,Daviess County,Marshall County,30,7,0,NaN,0,0
+2009-10-09,DeSales,Owen County,53,0,2,NaN,0,0
 2009-10-09,Dixie Heights,Holmes,21,12,1,NaN,0,0
 2009-10-09,Doss,Waggener,21,0,1,NaN,0,0
 2009-10-09,DuPont Manual,Pleasure Ridge Park,35,0,0,NaN,0,0
@@ -715,6 +757,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-10-16,Boyd County,Greenup County,28,7,0,NaN,0,0
 2009-10-16,Boyle County,West Jessamine,47,0,1,NaN,0,0
 2009-10-16,Breathitt County,Powell County,63,26,1,NaN,0,0
+2009-10-16,Bryan Station,Lafayette,14,7,2,NaN,0,0
 2009-10-16,Bullitt Central,Iroquois,61,0,0,NaN,0,0
 2009-10-16,Bullitt East,North Bullitt,21,13,0,NaN,0,0
 2009-10-16,Campbell County,Cooper,28,20,0,NaN,0,0
@@ -797,6 +840,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-10-16,Western,Breckinridge County,49,6,1,NaN,0,0
 2009-10-16,Whitley County,North Laurel,40,14,1,NaN,0,0
 2009-10-17,Highlands,Covington Catholic,36,7,0,NaN,0,0
+2009-10-17,Williamsburg,Lynn Camp,26,12,1,NaN,0,0
 2009-10-22,Wayne County,Taylor County,14,7,1,NaN,0,0
 2009-10-23,Adair County,Hart County,18,12,1,NaN,0,0
 2009-10-23,Allen Central,Betsy Layne,36,6,1,NaN,0,0
@@ -929,6 +973,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-10-30,Danville,Frankfort,22,9,0,NaN,0,0
 2009-10-30,Daviess County,Owensboro Catholic,15,14,0,NaN,0,0
 2009-10-30,DeSales,Southern,35,7,0,NaN,0,0
+2009-10-30,East Jessamine,North Oldham,35,30,2,NaN,0,0
 2009-10-30,Eastern,Jeffersontown,29,7,1,NaN,0,0
 2009-10-30,Edmonson County,Hancock County,12,8,0,NaN,0,0
 2009-10-30,Elizabethtown,Bardstown,48,29,0,NaN,0,0
@@ -1016,12 +1061,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-11-06,Christian Academy-Louisville,Lloyd Memorial,55,29,1,NaN,0,0
 2009-11-06,Corbin,Morgan County,40,6,1,NaN,0,0
 2009-11-06,Danville,Glasgow,49,35,1,NaN,0,0
+2009-11-06,DeSales,Newport,55,8,2,NaN,0,0
 2009-11-06,Fort Campbell,Caldwell County,56,7,1,NaN,0,0
 2009-11-06,Green County,Fort Knox,56,7,1,NaN,0,0
 2009-11-06,Hancock County,Heath,53,23,1,NaN,0,0
+2009-11-06,Holy Cross (Covington),Owen County,48,10,2,NaN,0,0
 2009-11-06,Middlesboro,Bath County,49,14,1,NaN,0,0
 2009-11-06,Monroe County,Washington County,42,7,1,NaN,0,0
 2009-11-06,Murray,Todd County Central,77,0,1,NaN,0,0
+2009-11-06,Newport Central Catholic,Carroll County,63,19,2,NaN,0,0
 2009-11-06,Prestonsburg,Knott County Central,56,8,1,NaN,0,0
 2009-11-06,Shelby Valley,Leslie County,41,0,1,NaN,0,0
 2009-11-06,Trigg County,Owensboro Catholic,41,14,1,NaN,0,0
@@ -1139,6 +1187,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-11-20,Hazard,Harlan,50,7,1,NaN,0,0
 2009-11-20,Lexington Christian,Raceland,62,12,1,NaN,0,0
 2009-11-20,Mayfield,Crittenden County,31,28,1,NaN,0,0
+2009-11-20,DeSales,Newport Central Catholic,23,10,2,NaN,0,0
 2009-11-20,Fort Campbell,Murray,28,21,0,NaN,0,0
 2009-11-20,Monroe County,Green County,39,14,0,NaN,0,0
 2009-11-20,Prestonsburg,Corbin,23,7,1,NaN,0,0
@@ -1160,6 +1209,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-11-20,Trinity (Louisville),Male,31,6,1,NaN,0,0
 2009-11-27,Lexington Christian,Hazard,35,28,1,NaN,0,0
 2009-11-27,Mayfield,Beechwood,38,0,1,NaN,0,0
+2009-11-27,DeSales,Prestonsburg,33,28,2,NaN,0,0
+2009-11-27,Fort Campbell,Monroe County,30,16,2,NaN,0,0
 2009-11-27,Paducah Tilghman,Central,24,21,1,NaN,0,0
 2009-11-27,Somerset,Sheldon Clark,28,12,1,NaN,0,0
 2009-11-27,Boyle County,Bell County,13,10,1,NaN,0,0
@@ -1168,3 +1219,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2009-11-27,John Hardin,Bowling Green,28,21,0,NaN,0,0
 2009-11-27,St. Xavier,Greenwood,28,6,0,NaN,0,0
 2009-11-27,Trinity (Louisville),Scott County,42,13,1,NaN,0,0
+2009-12-04,Fort Campbell,DeSales,29,9,2,NaN,0,0
+2009-12-04,Boyle County,Lone Oak,42,39,2,NaN,0,0
+2009-12-04,Highlands,John Hardin,35,7,2,NaN,0,0
+2009-12-05,Lexington Christian,Mayfield,55,19,2,NaN,0,0
+2009-12-05,Paducah Tilghman,Somerset,21,0,2,NaN,0,0

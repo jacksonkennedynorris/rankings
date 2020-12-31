@@ -32,11 +32,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-19,Highlands,Boyle County,35,14,0,,0,0
 2011-08-19,Holy Cross (Covington),Dayton,65,13,0,,0,0
 2011-08-19,Holy Cross (Louisville),Valley,48,0,1,,0,0
+2011-08-19,John Hardin,Henry Clay,56,6,2,,0,0
 2011-08-19,Kentucky Country Day,Shawnee,37,0,0,,0,0
 2011-08-19,Lafayette,Mason County,50,0,0,,0,0
 2011-08-19,Lewis County,Nicholas County,33,30,0,,0,0
 2011-08-19,Lexington Catholic,Bell County,33,27,0,,0,0
 2011-08-19,Mayfield,Greenwood,20,6,0,,0,0
+2011-08-19,Meade County,Collins,33,25,2,,0,0
 2011-08-19,Middlesboro,Bourbon County,41,21,0,,0,0
 2011-08-19,Newport Central Catholic,Dixie Heights,42,13,0,,0,0
 2011-08-19,North Laurel,Pineville,45,6,1,,0,0
@@ -54,8 +56,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-19,Powell County,Leslie County,27,6,0,,0,0
 2011-08-19,Reidland,Fulton County,42,6,1,,0,0
 2011-08-19,Rowan County,Montgomery County,42,38,1,,0,0
+2011-08-19,Russell County,Marion County,48,21,2,,0,0
 2011-08-19,Ryle,Cooper,41,17,1,,0,0
 2011-08-19,Scott County,Seneca,45,6,1,,0,0
+2011-08-19,Simon Kenton,Casey County,34,9,2,,0,0
+2011-08-19,Somerset,West Jessamine,40,19,2,,0,0
+2011-08-19,South Laurel,Lynn Camp,34,7,2,,0,0
 2011-08-19,South Oldham,Bullitt Central,32,15,1,,0,0
 2011-08-19,Southern,Moore,34,14,1,,0,0
 2011-08-19,St. Xavier,Fern Creek,70,0,1,,0,0
@@ -66,13 +72,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-19,Wayne County,Clinton County,49,0,1,,0,0
 2011-08-19,Western,Ballard,18,15,0,,0,0
 2011-08-19,Woodford County,Western Hills,28,0,0,,0,0
+2011-08-20,Barren County,Metcalfe County,48,0,2,,0,0
+2011-08-20,Boone County,Southwestern,28,6,2,,0,0
+2011-08-20,Bowling Green,Allen County-Scottsville,48,0,2,,0,0
 2011-08-20,Frankfort,Newport,14,8,0,,0,0
 2011-08-20,Glasgow,Todd County Central,57,0,1,,0,0
 2011-08-20,Harrison County,Grant County,33,14,1,,0,0
 2011-08-20,Johnson Central,Heath,48,7,1,,0,0
+2011-08-20,Letcher County Central,Madison Central,35,34,2,(double overtime),0,0
+2011-08-20,North Bullitt,LaRue County,26,7,2,,0,0
 2011-08-20,North Oldham,Henry County,52,21,0,,0,0
 2011-08-20,Paris,Jackson County,36,29,0,,0,0
+2011-08-20,Pulaski County,Hopkinsville,47,13,2,,0,0
 2011-08-20,Raceland,East Carter,29,9,1,,0,0
+2011-08-20,Rockcastle County,Sheldon Clark,45,0,2,,0,0
+2011-08-20,Warren East,South Warren,36,0,2,,0,0
 2011-08-26,Adair County,Caverna,28,26,0,,0,0
 2011-08-26,Allen Central,Jenkins,60,8,1,,0,0
 2011-08-26,Ashland Blazer,Raceland,58,12,1,,0,0
@@ -80,10 +94,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-26,Bardstown,Bethlehem,45,0,1,,0,0
 2011-08-26,Barren County,Warren East,28,8,0,,0,0
 2011-08-26,Bath County,West Carter,42,12,1,,0,0
+2011-08-26,Beechwood,Simon Kenton,28,0,2,,0,0
+2011-08-26,Belfry,Harrison County,34,7,2,,0,0
 2011-08-26,Bell County,Lafayette,32,26,0,,0,0
 2011-08-26,Betsy Layne,South Floyd,38,8,0,,0,0
 2011-08-26,Boone County,Conner,19,7,0,,0,0
 2011-08-26,Bourbon County,Madison Southern,60,21,0,,0,0
+2011-08-26,Bowling Green,Henry Clay,35,14,2,,0,0
 2011-08-26,Bracken County,Knott County Central,50,6,1,,0,0
 2011-08-26,Breathitt County,Letcher County Central,35,14,0,,0,0
 2011-08-26,Butler County,Breckinridge County,62,0,1,,0,0
@@ -100,6 +117,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-26,Fort Campbell,Russellville,57,28,0,,0,0
 2011-08-26,Franklin County,Western Hills,62,0,1,,0,0
 2011-08-26,Glasgow,Bullitt Central,34,0,0,,0,0
+2011-08-26,Grayson County,Elizabethtown,48,21,2,,0,0
 2011-08-26,Harlan,Williamsburg,41,22,1,,0,0
 2011-08-26,Hart County,Fort Knox,26,18,1,,0,0
 2011-08-26,Heath,Reidland,19,12,1,,0,0
@@ -128,10 +146,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-26,Paintsville,Paris,34,12,0,,0,0
 2011-08-26,Pendleton County,Ludlow,47,30,1,,0,0
 2011-08-26,Perry County Central,Johnson Central,35,27,0,,0,0
+2011-08-26,Pike County Central,Phelps,57,6,2,,0,0
 2011-08-26,Pineville,McCreary Central,20,14,1,,0,0
 2011-08-26,Pleasure Ridge Park,Valley,55,0,0,,0,0
 2011-08-26,Prestonsburg,Sheldon Clark,34,12,0,,0,0
 2011-08-26,Rockcastle County,Frankfort,45,8,0,,0,0
+2011-08-26,Rowan County,Southwestern,59,51,2,,0,0
 2011-08-26,Russell,Greenup County,35,14,1,,0,0
 2011-08-26,Russell County,Whitley County,30,0,1,,0,0
 2011-08-26,Somerset,Pulaski County,33,20,1,,0,0
@@ -142,16 +162,29 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-08-26,Warren Central,Franklin-Simpson,34,6,1,,0,0
 2011-08-26,Wayne County,Estill County,47,36,0,,0,0
 2011-08-26,Woodford County,Nelson County,42,21,0,,0,0
+2011-08-27,Anderson County,Lincoln County,42,7,2,,0,0
 2011-08-27,Boyle County,Allen County-Scottsville,21,0,1,,0,0
+2011-08-27,Caldwell County,Union County,34,12,2,,0,0
+2011-08-27,Collins,Mercer County,56,13,2,,0,0
 2011-08-27,Danville,Garrard County,22,14,1,,0,0
+2011-08-27,Eastern,Bryan Station,30,21,2,,0,0
+2011-08-27,Gallatin County,Berea,44,12,2,,0,0
+2011-08-27,Green County,Washington County,14,6,2,,0,0
+2011-08-27,Harlan County,Paul Laurence Dunbar,48,20,2,,0,0
 2011-08-27,John Hardin,Lexington Catholic,47,37,0,,0,0
+2011-08-27,Knox Central,West Jessamine,21,13,2,,0,0
+2011-08-27,Lone Oak,Hopkinsville,49,7,2,,0,0
 2011-08-27,Madisonville-North Hopkins,Graves County,42,13,0,,0,0
 2011-08-27,Marion County,Clay County,31,14,1,,0,0
+2011-08-27,Meade County,Greenwood,45,14,2,,0,0
 2011-08-27,Newport,Bellevue,34,18,1,,0,0
 2011-08-27,North Hardin,South Oldham,48,28,1,,0,0
+2011-08-27,North Laurel,Lynn Camp,37,0,2,,0,0
 2011-08-27,Owen County,Grant County,20,6,0,,0,0
+2011-08-27,Ryle,Tates Creek,43,8,2,,0,0
 2011-08-27,Scott County,Webster County,55,6,1,,0,0
 2011-08-27,Seneca,Doss,23,20,0,,0,0
+2011-08-27,Shelby Valley,East Ridge,55,6,2,,0,0
 2011-08-27,South Laurel,Campbellsville,34,32,1,(triple overtime),0,0
 2011-09-01,Conner,Holy Cross (Covington),41,20,0,,0,0
 2011-09-01,Highlands,Dixie Heights,61,13,1,,0,0
@@ -194,6 +227,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-02,George Rogers Clark,Montgomery County,38,27,1,,0,0
 2011-09-02,Glasgow,Barren County,55,7,0,,0,0
 2011-09-02,Green County,Casey County,41,21,1,,0,0
+2011-09-02,Greenwood,Hopkinsville,63,13,2,,0,0
 2011-09-02,Hancock County,Muhlenberg County,18,13,0,,0,0
 2011-09-02,Hart County,Metcalfe County,37,6,0,,0,0
 2011-09-02,Jeffersontown,Moore,72,21,1,,0,0
@@ -219,6 +253,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-02,Ohio County,Caldwell County,28,25,1,,0,0
 2011-09-02,Owen County,Bourbon County,21,14,0,,0,0
 2011-09-02,Owensboro Catholic,Owensboro,27,23,0,,0,0
+2011-09-02,Perry County Central,Knox Central,34,28,2,,0,0
 2011-09-02,Phelps,East Ridge,12,6,0,,0,0
 2011-09-02,Pikeville,Raceland,21,20,1,,0,0
 2011-09-02,Pleasure Ridge Park,Doss,25,8,0,,0,0
@@ -246,6 +281,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-02,Wayne County,North Laurel,28,25,0,(overtime),1,0
 2011-09-02,Western,Male,18,3,0,,0,0
 2011-09-02,Western Hills,Grant County,21,6,0,,0,0
+2011-09-02,Williamsburg,Pineville,40,0,2,,0,0
 2011-09-02,Woodford County,Henry County,41,0,0,,0,0
 2011-09-03,Bishop Brossart,Caverna,56,12,1,,0,0
 2011-09-08,Beechwood,Holy Cross (Covington),69,26,1,,0,0
@@ -264,6 +300,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-09,Bullitt Central,Valley,7,0,1,,0,0
 2011-09-09,Bullitt East,Spencer County,7,6,1,,0,0
 2011-09-09,Butler,Central Hardin,42,21,1,,0,0
+2011-09-09,Calloway County,Webster County,35,19,2,,0,0
 2011-09-09,Campbellsville,Bethlehem,40,17,0,,0,0
 2011-09-09,Carroll County,Kentucky Country Day,16,14,0,,0,0
 2011-09-09,Casey County,Clinton County,56,6,0,,0,0
@@ -338,7 +375,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-09,West Carter,Magoffin County,39,14,0,,0,0
 2011-09-09,Williamsburg,Leslie County,36,34,1,,0,0
 2011-09-10,Butler County,McLean County,74,0,1,,0,0
+2011-09-10,Eastern,Collins,49,28,2,,0,0
+2011-09-10,Edmonson County,Hancock County,48,14,2,,0,0
 2011-09-10,Fairview,Phelps,61,14,1,,0,0
+2011-09-10,Grayson County,Muhlenberg County,40,0,2,,0,0
 2011-09-10,Morgan County,Pendleton County,66,23,0,,0,0
 2011-09-10,Raceland,Greenup County,42,6,0,,0,0
 2011-09-16,Allen Central,Paintsville,30,25,1,,0,0
@@ -408,6 +448,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-16,Ohio County,Webster County,60,21,1,,0,0
 2011-09-16,Paducah Tilghman,Crittenden County,49,0,1,,0,0
 2011-09-16,Perry County Central,Sheldon Clark,48,14,0,,0,0
+2011-09-16,Pleasure Ridge Park,DeSales,27,20,2,,0,0
 2011-09-16,Powell County,Madison Southern,37,14,1,,0,0
 2011-09-16,Rockcastle County,Pulaski County,34,13,1,,0,0
 2011-09-16,Rowan County,West Jessamine,35,32,1,,0,0
@@ -613,6 +654,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-09-30,Spencer County,Atherton,55,7,0,,0,0
 2011-09-30,Tates Creek,Paul Laurence Dunbar,13,7,1,,0,0
 2011-09-30,Trigg County,Webster County,47,24,1,,0,0
+2011-09-30,Trinity (Louisville),St. Xavier,41,6,1,,0,0
 2011-09-30,Warren Central,Ballard,34,27,0,,0,0
 2011-09-30,West Carter,East Carter,12,10,0,,0,0
 2011-09-30,Western Hills,Bath County,35,28,0,,0,0
@@ -643,7 +685,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-10-07,Central Hardin,Western,56,27,0,,0,0
 2011-10-07,Christian Academy-Louisville,Bardstown,21,16,0,,0,0
 2011-10-07,Christian County,Apollo,53,16,0,,0,0
+2011-10-07,Collins,North Oldham,24,22,2,,0,0
 2011-10-07,Cooper,South Oldham,40,21,1,,0,0
+2011-10-07,DeSales,Shawnee,51,0,2,,0,0
 2011-10-07,East Jessamine,Montgomery County,44,35,1,,0,0
 2011-10-07,Eastern,Ballard,36,0,0,,0,0
 2011-10-07,Fairdale,Doss,28,20,1,,0,0
@@ -732,6 +776,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-10-14,Central,Henry County,54,15,1,,0,0
 2011-10-14,Christian Academy-Louisville,DeSales,29,21,1,,0,0
 2011-10-14,Christian County,Graves County,19,18,0,(overtime),1,0
+2011-10-14,Collins,Waggener,58,3,2,,0,0
 2011-10-14,Conner,Grant County,63,14,1,,0,0
 2011-10-14,Covington Catholic,Harrison County,56,7,0,,0,0
 2011-10-14,Crittenden County,Ballard Memorial,28,14,0,,0,0
@@ -813,6 +858,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-10-21,Anderson County,East Jessamine,50,16,0,,0,0
 2011-10-21,Ashland Blazer,Johnson Central,22,6,1,,0,0
 2011-10-21,Ballard,Oldham County,26,7,1,,0,0
+2011-10-21,Bardstown,DeSales,38,31,2,,0,0
 2011-10-21,Barren County,Taylor County,40,12,0,,0,0
 2011-10-21,Beechwood,Ludlow,61,13,1,,0,0
 2011-10-21,Belfry,Pike County Central,52,20,0,,0,0
@@ -914,6 +960,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-10-22,Newport Central Catholic,Holy Cross (Covington),31,14,1,,0,0
 2011-10-22,North Bullitt,Trigg County,41,15,0,,0,0
 2011-10-27,Allen Central,Knott County Central,44,30,0,,0,0
+2011-10-27,Collins,Bryan Station,56,13,2,,0,0
 2011-10-28,Allen County-Scottsville,Monroe County,14,6,1,,0,0
 2011-10-28,Anderson County,Marion County,42,33,0,,0,0
 2011-10-28,Atherton,Iroquois,31,30,0,,0,0
@@ -1005,6 +1052,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-10-28,Union County,Hopkins County Central,45,8,1,,0,0
 2011-10-28,Valley,Waggener,38,27,1,,0,0
 2011-10-28,Walton-Verona,Estill County,30,25,1,,0,0
+2011-10-28,Warren Central,Pulaski County,59,38,2,,0,0
 2011-10-28,Warren East,Bullitt Central,24,13,1,,0,0
 2011-10-28,Wayne County,East Jessamine,27,16,1,,0,0
 2011-10-28,Webster County,Ballard Memorial,30,22,0,,0,0
@@ -1014,6 +1062,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-03,Pikeville,Paintsville,62,8,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Beechwood,Paris,60,7,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Bellevue,Bracken County,53,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-04,Campbellsville,Pineville,28,12,2,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Fairview,Phelps,63,6,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Frankfort,Dayton,49,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Harlan,Berea,35,12,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1033,10 +1082,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-04,DeSales,Green County,21,7,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Glasgow,Washington County,63,6,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Hancock County,Crittenden County,27,21,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (overtime),1,0
+2011-11-04,Holy Cross (Covington),Carroll County,68,0,2,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Leslie County,Middlesboro,35,12,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Lexington Christian,Shelby Valley,55,13,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Lloyd Memorial,Walton-Verona,13,0,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Murray,Union County,14,6,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-04,Newport Central Catholic,Gallatin County,56,0,2,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Owen County,Newport,38,13,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Owensboro Catholic,Reidland,62,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Somerset,Betsy Layne,47,6,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1058,6 +1109,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-04,Wayne County,LaRue County,7,0,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Ashland Blazer,Harrison County,59,6,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Boyle County,Knox Central,28,14,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-04,Collins,Moore,49,0,2,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Franklin-Simpson,Calloway County,56,0,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Highlands,Boyd County,63,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-04,Johnson Central,Holmes,66,20,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1116,6 +1168,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-11,Holy Cross (Covington),Owen County,45,0,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Lexington Christian,Leslie County,27,20,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Murray,Hancock County,35,21,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-11,Newport Central Catholic,Lloyd Memorial,49,0,2,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Owensboro Catholic,Butler County,45,27,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Somerset,Danville,34,23,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Belfry,Lawrence County,46,16,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1127,6 +1180,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-11,Paducah Tilghman,Monroe County,37,0,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Powell County,Bourbon County,27,15,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Boyle County,Rockcastle County,23,0,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-11,Collins,Spencer County,33,14,2,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Covington Catholic,Ashland Blazer,35,8,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Franklin-Simpson,Madisonville-North Hopkins,20,17,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-11,Highlands,Johnson Central,67,20,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1154,12 +1208,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-18,Mayfield,Holy Cross (Louisville),44,0,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Pikeville,Fairview,20,18,0,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Glasgow,Christian Academy-Louisville,21,0,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-18,Holy Cross (Covington),Newport Central Catholic,24,21,2,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Murray,Owensboro Catholic,17,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (overtime),1,0
 2011-11-18,Somerset,Lexington Christian,55,14,1,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Belfry,Breathitt County,28,14,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Central,Bell County,26,0,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Fort Campbell,Paducah Tilghman,20,17,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Garrard County,Powell County,48,16,1,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-18,Collins,Western,13,12,2,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Franklin-Simpson,Lone Oak,20,7,0,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Highlands,Covington Catholic,49,14,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Lexington Catholic,Boyle County,10,7,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1170,9 +1226,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-18,Boone County,Lafayette,21,0,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-18,Butler,Henderson County,31,24,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (overtime),1,0
 2011-11-18,Scott County,Eastern,52,14,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-18,Trinity (Louisville),St. Xavier,42,6,2,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Hazard,Pikeville,57,35,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Mayfield,Beechwood,19,14,1,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Glasgow,Murray,40,10,0,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-11-25,Holy Cross (Covington),Somerset,48,14,2,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Belfry,Garrard County,34,27,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Central,Fort Campbell,36,8,0,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Franklin-Simpson,Collins,20,15,1,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
@@ -1181,3 +1239,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime,cro
 2011-11-25,Bowling Green,John Hardin,62,20,1,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Scott County,Boone County,16,14,1,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
 2011-11-25,Trinity (Louisville),Butler,49,6,0,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl,0,0
+2011-12-02,Hazard,Mayfield,24,6,2,Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Russell Athletic/KHSAA State Championship,0,0
+2011-12-02,Holy Cross (Covington),Glasgow,33,14,2,Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Russell Athletic/KHSAA State Championship,0,0
+2011-12-02,Trinity (Louisville),Scott County,62,21,2,Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Russell Athletic/KHSAA State Championship,0,0
+2011-12-03,Central,Belfry,15,14,2,Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Russell Athletic/KHSAA State Championship,0,0
+2011-12-03,Highlands,Franklin-Simpson,42,14,2,Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Russell Athletic/KHSAA State Championship,0,0
+2011-12-03,Bowling Green,Anderson County,55,3,2,Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Russell Athletic/KHSAA State Championship,0,0

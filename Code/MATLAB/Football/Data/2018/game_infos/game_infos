@@ -7,7 +7,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-17,Bell County,Middlesboro,54,0,0,   ,0
 2018-08-17,Bethlehem,Shawnee,53,0,1,   ,0
 2018-08-17,Bishop Brossart,Dayton,21,0,0,   ,0
-2018-08-17,Bourbon County,County (at Lincoln County),26,13,1,   ,0
+2018-08-17,Bourbon County,Clay County,26,13,2,   ,0
 2018-08-17,Bracken County,Switzerland County (Vevay). IN,12,0,1,   ,0
 2018-08-17,Breckinridge County,Todd County Central,15,8,1,   ,0
 2018-08-17,Butler,Bullitt East,49,0,1,   ,0
@@ -16,7 +16,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-17,Casey County,Barren County,40,0,0,   ,0
 2018-08-17,Central,DuPont Manual,18,0,1,   ,0
 2018-08-17,Christian Academy-Louisville,South Oldham,21,3,0,   ,0
-2018-08-17,Christian County,County (at Stadium of Champion. Hopkinsville),11,6,1,   ,0
+2018-08-17,Christian County,Caldwell County,11,6,2,   ,0
 2018-08-17,Clinton County,Fort Knox,52,6,0,   ,0
 2018-08-17,Covington Catholic,Ryle,40,7,0,   ,0
 2018-08-17,Crittenden County,Stewart County (Dover). TN,42,6,1,   ,0
@@ -46,8 +46,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-17,Jeffersontown,Doss,22,20,0,   ,0
 2018-08-17,Knox Central,Letcher County Central,49,22,1,   ,0
 2018-08-17,LaRue County,Marion County,48,0,1,   ,0
-2018-08-17,Lafayette,Station,14,6,1,   ,0
-2018-08-17,Lloyd Memorial,Jessamine (at West Jessamine),24,12,1,   ,0
+2018-08-17,Lafayette,Bryan Station,14,6,1,   ,0
+2018-08-17,Lloyd Memorial,East Jessamine,24,12,2,   ,0
 2018-08-17,Logan County,Butler County,57,0,1,   ,0
 2018-08-17,Ludlow,Carroll County,28,14,1,   ,0
 2018-08-17,Lynn Camp,Knott County Central,54,15,0,   ,0
@@ -79,32 +79,32 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-17,Simon Kenton,Meade County,29,28,1,   ,0
 2018-08-17,Somerset,Lincoln County,41,0,0,   ,0
 2018-08-17,South Laurel,North Laurel,30,8,1,   ,0
-2018-08-17,South Warren,(at Stadium of Champion. Hopkinsville),49,17,1,   ,0
-2018-08-17,Southwestern,IN (at Pulaski County),50,7,1,   ,0
-2018-08-17,Taylor County,County (at Campbellsville University),56,0,1,   ,0
+2018-08-17,South Warren,Hopkinsville,49,17,2,   ,0
+2018-08-17,Southwestern,Jeffersonville. IN,50,7,2,   ,0
+2018-08-17,Taylor County,Hart County,56,0,2,   ,0
 2018-08-17,Thomas Nelson,Frankfort,15,13,1,   ,0
-2018-08-17,Trigg County,County (at Glasgow),34,20,1,   ,0
+2018-08-17,Trigg County,Monroe County,34,20,2,   ,0
 2018-08-17,Walton-Verona,West Jessamine,14,0,0,   ,0
-2018-08-17,Washington County,County (at Campbellsville University),39,13,1,   ,0
+2018-08-17,Washington County,Green County,39,13,2,   ,0
 2018-08-17,Williamsburg,Jellico. TN,60,6,0,   ,0
-2018-08-18,Allen County-Scottsville,County (at Campbellsville University),45,18,1,   ,0
+2018-08-18,Allen County-Scottsville,Adair County,45,18,2,   ,0
 2018-08-18,Ashland Blazer,Harlan County,49,6,1,   ,0
-2018-08-18,Bowling Green,Hardin (at Western Kentucky University),20,13,1,   ,0
-2018-08-18,Boyle County,(at Mercer County),35,21,1,   ,0
+2018-08-18,Bowling Green,Central Hardin,20,13,2,   ,0
+2018-08-18,Boyle County,Ballard,35,21,2,   ,0
 2018-08-18,Bullitt Central,Fairdale,42,13,0,   ,0
-2018-08-18,Campbellsville,County (at Campbellsville University),36,2,1,   ,0
+2018-08-18,Campbellsville,Metcalfe County,36,2,2,   ,0
 2018-08-18,Corbin,Whitley County,36,7,1,   ,0
 2018-08-18,Danville,Woodford County,40,0,1,   ,0
-2018-08-18,Frederick Douglass,County (at Danville),48,10,1,   ,0
+2018-08-18,Frederick Douglass,Wayne County,48,10,2,   ,0
 2018-08-18,John Hardin,Mercer County,20,19,0,   ,0
-2018-08-18,Lexington Catholic,Southern (at Madison Central),51,12,1,   ,0
+2018-08-18,Lexington Catholic,Madison Southern,51,12,2,   ,0
 2018-08-18,Lexington Christian,Waggener,34,20,1,   ,0
 2018-08-18,Madison Central,Collins,23,7,1,   ,0
 2018-08-18,Montgomery County,Breathitt County,55,18,1,   ,0
-2018-08-18,Nicholas County,(at Covington Catholic),43,27,1,   ,0
-2018-08-18,North Hardin,(Clarksville). TN (at Western Kentucky University),1,0,1,  forfeit (original score: Northeast won,0
+2018-08-18,Nicholas County,Bellevue,43,27,2,   ,0
+2018-08-18,North Hardin,Northeast,1,0,2,  forfeit (original score: Northeast won,0
 2018-08-18,Paducah Tilghman,McCracken County,35,6,1,   ,0
-2018-08-18,Shelby County,Cross (Louisville) (at Fairdale),32,28,1,   ,0
+2018-08-18,Shelby County,Holy Cross,32,28,2,   ,0
 2018-08-24,Allen County-Scottsville,Barren County,47,13,0,   ,0
 2018-08-24,Anderson County,Meade County,34,19,1,   ,0
 2018-08-24,Apollo,Evansville Mater Dei (Evansville). IN,17,10,0,   ,0
@@ -127,7 +127,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-24,Cincinnati Country Day (Cincinnati). OH,Holy Cross (Covington),25,6,0,   ,0
 2018-08-24,Conner,Boone County,34,13,0,   ,0
 2018-08-24,Cooper,Newport Central Catholic,42,36,1,   ,0
-2018-08-24,Covington Catholic,Clay (at Lexington Catholic),41,0,1,   ,0
+2018-08-24,Covington Catholic,Henry Clay,41,0,2,   ,0
 2018-08-24,DeSales,Butler,35,34,0,   ,0
 2018-08-24,DuPont Manual,Fern Creek,33,13,1,   ,0
 2018-08-24,East Carter,Lewis County,49,34,0,   ,0
@@ -178,7 +178,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-24,Paducah Tilghman,Liberty Tech Magnet (Jackson). TN,35,0,0,   ,0
 2018-08-24,Paintsville,Harlan,48,6,1,   ,0
 2018-08-24,Perry County Central,Breathitt County,54,39,1,   ,0
-2018-08-24,Phelps,Ridge (at Belfry),44,0,1,   ,0
+2018-08-24,Phelps,East Ridge,44,0,2,   ,0
 2018-08-24,Pineville,Jackson County,26,16,0,   ,0
 2018-08-24,Powell County,West Carter,31,27,1,   ,0
 2018-08-24,Rossview (Clarksville). TN,Christian County,31,26,1,   ,0
@@ -191,7 +191,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-24,Somerset,Williamsburg,34,7,1,   ,0
 2018-08-24,South Laurel,McCreary Central,52,6,1,   ,0
 2018-08-24,South Oldham,Doss,42,6,1,   ,0
-2018-08-24,Southwestern,Laurence Dunbar,28,7,1,   ,0
+2018-08-24,Southwestern,Paul Laurence Dunbar,28,7,1,   ,0
 2018-08-24,Switzerland County (Vevay). IN,Gallatin County,15,6,1,   ,0
 2018-08-24,Taylor County,Adair County,47,6,1,   ,0
 2018-08-24,Thomas Nelson,Nelson County,41,12,0,   ,0
@@ -205,19 +205,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-24,West Jessamine,Clay County,22,18,1,   ,0
 2018-08-24,Western Hills,Estill County,50,15,0,   ,0
 2018-08-24,Whitley County,Leslie County,40,7,1,   ,0
-2018-08-25,Alcoa. TN,Central (at Corbin),50,14,1,   ,0
+2018-08-25,Alcoa. TN,Knox Central,50,14,2,   ,0
 2018-08-25,Bourbon County,Grant County,41,20,1,   ,0
 2018-08-25,Boyle County,Franklin County,50,7,1,   ,0
 2018-08-25,Corbin,Danville,28,10,1,   ,0
-2018-08-25,Evansville Central (Evansville). IN,County (at Enlow Field),49,13,1,   ,0
+2018-08-25,Evansville Central (Evansville). IN,Daviess County,49,13,2,   ,0
 2018-08-25,Evansville Memorial (Evansville). IN,Owensboro Catholic,49,21,1,   ,0
-2018-08-25,Frankfort,County (at Bourbon County),46,6,1,   ,0
+2018-08-25,Frankfort,Owen County,46,6,2,   ,0
 2018-08-25,Greenup County,Russell,41,21,1,   ,0
 2018-08-25,Pikeville,Lexington Christian,50,7,1,   ,0
-2018-08-25,Shelby Valley,County Central (at Pikeville),43,35,1,  (double overtime) ,0
-2018-08-25,South Warren,Central (at WKU),39,22,1,   ,0
-2018-08-25,Waggener,County (at Boyle County),34,14,1,   ,0
-2018-08-25,Warren East,(at WKU),47,30,1,   ,0
+2018-08-25,Shelby Valley,Pike County Central,43,35,2,  (double overtime) ,0
+2018-08-25,South Warren,Warren Central,39,22,2,   ,0
+2018-08-25,Waggener,Mercer County,34,14,2,   ,0
+2018-08-25,Warren East,Greenwood,47,30,2,   ,0
 2018-08-31,Adair County,Barren County,20,19,1,   ,0
 2018-08-31,Allen County-Scottsville,Greenwood,27,7,1,   ,0
 2018-08-31,Anderson County,Mercer County,28,0,0,   ,0
@@ -289,7 +289,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-31,Newport,Owen County,33,0,1,  (called at halftime) ,0
 2018-08-31,Nicholas County,Fairview,43,0,0,   ,0
 2018-08-31,North Bullitt,Jeffersontown,30,7,1,   ,0
-2018-08-31,North Laurel,(at Clay County),29,14,1,   ,0
+2018-08-31,North Laurel,Middlesboro,29,14,2,   ,0
 2018-08-31,Owensboro Catholic,Owensboro,45,32,1,   ,0
 2018-08-31,Paris,Pineville,21,8,0,   ,0
 2018-08-31,Perry County Central,Knott County Central,34,12,0,   ,0
@@ -304,7 +304,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-08-31,Scott,Holy Cross (Covington),50,0,1,   ,0
 2018-08-31,Scott County,Highlands,28,7,0,   ,0
 2018-08-31,South Warren,Franklin-Simpson,36,14,0,   ,0
-2018-08-31,Southwestern,Central (at Madison Southern),26,7,1,   ,0
+2018-08-31,Southwestern,Madison Central,26,7,2,   ,0
 2018-08-31,Thomas Walker (Ewing). VA,Harlan,29,24,0,   ,0
 2018-08-31,Todd County Central,Caverna,49,0,0,   ,0
 2018-08-31,Union County,Webster County,37,8,1,   ,0
@@ -432,7 +432,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-09-07,Williamsburg,Frankfort,47,39,1,   ,0
 2018-09-07,Woodford County,Rockcastle County,63,20,1,   ,0
 2018-09-08,Bellevue,St. Bernard-Elmwood Place (St. Bernard). OH,7,6,0,   ,0
-2018-09-08,Bishop Brossart,(at Covington Catholic),6,2,1,   ,0
+2018-09-08,Bishop Brossart,Newport,6,2,2,   ,0
 2018-09-08,Conner,Scott,27,0,1,   ,0
 2018-09-08,Raceland,Greenup County,25,6,0,   ,0
 2018-09-08,Walton-Verona,Holy Cross (Covington),48,0,1,   ,0
@@ -515,7 +515,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-09-14,Paintsville,Williamsburg,19,13,0,   ,0
 2018-09-14,Paul Laurence Dunbar,McCreary Central,57,7,1,   ,0
 2018-09-14,Pineville,Middlesboro,30,24,1,   ,0
-2018-09-14,Pulaski County,County-Scottsville,34,28,1,   ,0
+2018-09-14,Pulaski County,Allen County-Scottsville,34,28,1,   ,0
 2018-09-14,Rowan County,Bourbon County,47,15,0,   ,0
 2018-09-14,Russell,Boyd County,49,0,1,   ,0
 2018-09-14,Russell County,Adair County,43,7,0,   ,0
@@ -606,7 +606,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-09-21,Madison Central,Bourbon County,43,0,0,   ,0
 2018-09-21,Madisonville-North Hopkins,Calloway County,43,14,1,   ,0
 2018-09-21,Male,Butler,30,12,0,   ,0
-2018-09-21,Mayfield,,45,21,1,   ,0
+2018-09-21,Mayfield,Corbin,45,21,1,   ,0
 2018-09-21,McCracken County,Daviess County,55,43,0,   ,0
 2018-09-21,Mercer County,Marion County,51,8,1,   ,0
 2018-09-21,Moore,Valley,27,0,1,  (game stopped w/ 3:32 left in the 3Q) ,0
@@ -732,7 +732,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-09-28,South Oldham,Nelson County,48,6,1,   ,0
 2018-09-28,South Warren,Greenwood,55,7,0,   ,0
 2018-09-28,Southwestern,Central Hardin,25,7,1,   ,0
-2018-09-28,St. Xavier,(Louisville),21,7,1,   ,0
+2018-09-28,St. Xavier,Trinity (Louisville),21,7,1,   ,0
 2018-09-28,Tates Creek,Danville,32,25,1,   ,0
 2018-09-28,Taylor County,Barren County,43,15,0,   ,0
 2018-09-28,Thomas Nelson,Henry County,20,12,1,   ,0
@@ -821,7 +821,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-10-05,Rowan County,Boyd County,41,0,1,   ,0
 2018-10-05,Russell,Pendleton County,41,0,1,   ,0
 2018-10-05,Ryle,Cooper,26,7,1,   ,0
-2018-10-05,Sayre,,46,14,1,   ,0
+2018-10-05,Sayre,Jenkins,46,14,1,   ,0
 2018-10-05,Shelby County,North Oldham,29,3,1,   ,0
 2018-10-05,Somerset,Danville,21,10,0,   ,0
 2018-10-05,South Oldham,Bullitt East,49,7,0,   ,0
@@ -1164,8 +1164,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-11-02,McLean County,Ballard Memorial,62,6,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Monroe County,Gallatin County,58,6,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Murray,Todd County Central,50,14,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-02,Newport Central Catholic,(at Newport),50,0,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-02,Owensboro Catholic,County (at Steele Stadium),61,15,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
+2018-11-02,Newport Central Catholic,Shawnee,50,0,2,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
+2018-11-02,Owensboro Catholic,Webster County,61,15,2,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Shelby Valley,Middlesboro,42,0,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Somerset,East Ridge,51,8,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Walton-Verona,Metcalfe County,41,8,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1192,7 +1192,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-11-02,Hopkinsville,Warren East,24,0,0,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,John Hardin,East Jessamine,19,9,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Johnson Central,Bourbon County,55,7,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-02,Knox Central,(at Union College. Williamson Stadium Birch-Nau Field),43,7,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
+2018-11-02,Knox Central,Collins,43,7,2,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Logan County,Allen County-Scottsville,42,3,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Madisonville-North Hopkins,Warren Central,64,20,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-02,Mercer County,Breckinridge County,43,21,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1238,10 +1238,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-11-09,Frankfort,Ludlow,60,42,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Paintsville,Nicholas County,42,18,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Pikeville,Lynn Camp,55,8,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-09,Raceland,(at Bourbon County HS),49,19,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
+2018-11-09,Raceland,Paris,49,19,2,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Williamsburg,Hazard,45,27,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Christian Academy-Louisville,Lloyd Memorial,39,0,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-09,DeSales,Central Catholic (at Newport),21,14,1,  Class 2A KHSAA Commonwealth Gridiron Bowl (overtime) ,1
+2018-11-09,DeSales,Newport Central Catholic,21,14,2,  Class 2A KHSAA Commonwealth Gridiron Bowl (overtime) ,1
 2018-11-09,Glasgow,Carroll County,51,8,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Lexington Christian,Shelby Valley,43,0,0,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Mayfield,McLean County,55,20,1,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1260,7 +1260,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-11-09,Franklin County,Wayne County,27,21,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Franklin-Simpson,Logan County,55,19,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Johnson Central,Scott,50,7,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-09,Knox Central,County (at Williamson Stadium. Union),20,14,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
+2018-11-09,Knox Central,Shelby County,20,14,2,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Madisonville-North Hopkins,Hopkinsville,20,0,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Moore,Mercer County,26,2,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Taylor County,John Hardin,23,0,1,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1270,7 +1270,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-11-09,Owensboro,Bowling Green,28,21,1,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Pulaski County,Lincoln County,35,19,1,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,South Oldham,Bullitt Central,56,7,1,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-09,South Warren,County (at Warren Central),55,21,1,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
+2018-11-09,South Warren,Grayson County,55,21,2,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Southwestern,Harlan County,20,8,0,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Ballard,McCracken County,34,18,0,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-09,Conner,Cooper,20,19,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1316,9 +1316,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2018-11-23,South Warren,South Oldham,31,10,0,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-23,Male,Trinity (Louisville),27,20,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
 2018-11-23,Scott County,Madison Central,40,6,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
-2018-11-30,Beechwood,(at Kroger Field),21,20,1,  Class 1A KHSAA Commonwealth Gridiron Bowl Championship ,0
-2018-11-30,Central,(at Kroger Field),20,19,1,  Class 3A KHSAA Commonwealth Gridiron Bowl Championship ,0
-2018-12-01,Christian Academy-Louisville,(at Kroger Field),34,26,1,  Class 2A KHSAA Commonwealth Gridiron Bowl Championship ,0
-2018-12-01,Franklin-Simpson,Central (at Kroger Field),14,12,1,  Class 4A KHSAA Commonwealth Gridiron Bowl Championship ,0
-2018-12-01,Male,County (at Kroger Field),37,20,1,  Class 6A KHSAA Commonwealth Gridiron Bowl Championship ,0
-2018-12-02,South Warren,Catholic (at Kroger Field),20,16,1,  Class 5A KHSAA Commonwealth Gridiron Bowl Championship ,0
+2018-11-30,Beechwood,Pikeville,21,20,2,  Class 1A KHSAA Commonwealth Gridiron Bowl Championship ,0
+2018-11-30,Central,Corbin,20,19,2,  Class 3A KHSAA Commonwealth Gridiron Bowl Championship ,0
+2018-12-01,Christian Academy-Louisville,Mayfield,34,26,2,  Class 2A KHSAA Commonwealth Gridiron Bowl Championship ,0
+2018-12-01,Franklin-Simpson,Johnson Central,14,12,2,  Class 4A KHSAA Commonwealth Gridiron Bowl Championship ,0
+2018-12-01,Male,Scott County,37,20,2,  Class 6A KHSAA Commonwealth Gridiron Bowl Championship ,0
+2018-12-02,South Warren,Covington Catholic,20,16,2,  Class 5A KHSAA Commonwealth Gridiron Bowl Championship ,0

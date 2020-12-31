@@ -2,7 +2,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-22,Atherton,Lynn Camp,39,14,0,   ,0
 2014-08-22,Ballard Memorial,McLean County,20,6,0,   ,0
 2014-08-22,Bell County,South Pittsburg. TN,35,7,0,   ,0
-2014-08-22,Boyle County,East (at Lincoln County),14,6,1,   ,0
+2014-08-22,Boyle County,Bullitt East,14,6,2,   ,0
 2014-08-22,Butler County,Logan County,41,0,0,   ,0
 2014-08-22,Caldwell County,Christian County,78,57,0,   ,0
 2014-08-22,Campbell County,East Central. IN,31,14,0,   ,0
@@ -11,10 +11,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-22,Clay County,Perry County Central,27,7,1,   ,0
 2014-08-22,Cooper,Ryle,12,3,1,   ,0
 2014-08-22,Crittenden County,Fulton City,37,6,1,   ,0
-2014-08-22,Danville,County (at Campbellsville University),47,14,1,   ,0
+2014-08-22,Danville,Russell County,47,14,2,   ,0
 2014-08-22,Dayton,Bishop Brossart,18,13,1,   ,0
-2014-08-22,East Jessamine,(at West Jesssamine),0,0,1,  Recorded as 0-0 tie,0
-2014-08-22,Edmonson County,County (at Campbellsville University),13,6,1,   ,0
+2014-08-22,East Jessamine,Scott,0,0,2,  Recorded as 0-0 tie,0
+2014-08-22,Edmonson County,Taylor County,13,6,2,   ,0
 2014-08-22,Ensworth. TN,Trinity (Louisville),21,14,1,   ,0
 2014-08-22,Evansville F.J. Reitz. IN,Henderson County,34,13,0,   ,0
 2014-08-22,Fleming County,Harrison County,40,6,1,   ,0
@@ -30,7 +30,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-22,Letcher County Central,Berea,30,0,1,   ,0
 2014-08-22,Ludlow,Gallatin County,29,28,0,   ,0
 2014-08-22,Madison Southern,Rockcastle County,24,7,1,   ,0
-2014-08-22,Madisonville-North Hopkins,(at Warren Central),13,9,1,   ,0
+2014-08-22,Madisonville-North Hopkins,Greenwood,13,9,2,   ,0
 2014-08-22,Mayfield,Fort Campbell,45,0,1,   ,0
 2014-08-22,Meade County,Breckinridge County,41,0,1,   ,0
 2014-08-22,Muhlenberg County,Ohio County,14,13,0,   ,0
@@ -40,13 +40,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-22,Phelps,Jenkins,0,0,0,   ,0
 2014-08-22,Pickett County. TN,Clinton County,20,6,1,   ,0
 2014-08-22,Pike County Central,Whitley County,14,0,1,   ,0
-2014-08-22,Pulaski County,(at Somerset),39,13,1,   ,0
+2014-08-22,Pulaski County,Corbin,39,13,2,   ,0
 2014-08-22,Russellville,Trigg County,36,20,1,   ,0
 2014-08-22,Scott. TN,McCreary Central,63,0,1,   ,0
 2014-08-22,Simon Kenton,Collins,33,14,1,   ,0
 2014-08-22,South Warren,Warren East,34,14,0,   ,0
 2014-08-22,Southwestern,Somerset,38,7,0,   ,0
-2014-08-22,Spencer County,Nelson (at at Thomas Nelson due to lights failure at SC),7,0,1,  Recorded as final,0
+2014-08-22,Spencer County,Thomas Nelson,7,0,2,  Recorded as final,0
 2014-08-22,Walton-Verona,Bellevue,40,0,1,   ,0
 2014-08-22,Warren Central,Hopkinsville,54,16,1,   ,0
 2014-08-22,Wayne County,Monroe County,41,28,0,   ,0
@@ -54,8 +54,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-22,Western Hills,Owen County,63,13,0,   ,0
 2014-08-22,Williamsburg,Knoxville Halls. TN,45,18,1,   ,0
 2014-08-23,Bourbon County,Montgomery County,42,17,0,   ,0
-2014-08-23,Bowling Green,County (at Western Kentucky University),44,6,1,   ,0
-2014-08-23,Bryan Station,County (at Madison Central),56,22,1,   ,0
+2014-08-23,Bowling Green,Mercer County,44,6,2,   ,0
+2014-08-23,Bryan Station,Harlan County,56,22,2,   ,0
 2014-08-23,Central Hardin,North Hardin,28,21,0,   ,0
 2014-08-23,Christian Academy-Louisville,Lexington Christian,27,3,0,  Game recorded as final. No makeup. Called for inclement weather  ,0
 2014-08-23,Covington Catholic,Boone County,39,6,1,  Game recorded as final. No makeup. Called at half-time due to heat ,0
@@ -63,9 +63,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-23,Eastern,Jeffersontown,40,39,0,  (overtime) ,1
 2014-08-23,Elizabethtown,Fort Knox,20,6,0,   ,0
 2014-08-23,Estill County,Morgan County,52,6,0,   ,0
-2014-08-23,George Rogers Clark,County (at Montgomery County),21,14,1,   ,0
+2014-08-23,George Rogers Clark,Rowan County,21,14,2,   ,0
 2014-08-23,Lawrence County,Boyd County,47,25,0,   ,0
-2014-08-23,Lexington Catholic,County-Scottsville (at Western Kentucky University),43,15,1,   ,0
+2014-08-23,Lexington Catholic,Allen County-Scottsville,43,15,2,   ,0
 2014-08-23,Magoffin County,South Floyd,47,28,1,   ,0
 2014-08-23,Male,Floyd Central. IN,49,3,0,   ,0
 2014-08-23,Mason County,Newport,32,28,1,   ,0
@@ -74,21 +74,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-23,Murray,Madison Central,28,21,0,   ,0
 2014-08-23,Nelson County,Woodford County,19,7,0,   ,0
 2014-08-23,Nicholas County,Bracken County,52,6,1,   ,0
-2014-08-23,Paris,County (at Nicholas County),28,16,1,   ,0
+2014-08-23,Paris,Bath County,28,16,2,   ,0
 2014-08-23,Paul Laurence Dunbar,Tates Creek,28,7,1,   ,0
 2014-08-23,Pikeville,Prestonsburg,30,29,1,   ,0
 2014-08-23,Pleasure Ridge Park,Doss,28,6,1,   ,0
 2014-08-23,Raceland,East Carter,56,6,0,   ,0
-2014-08-23,Scott County,(at Tates Creek),42,38,1,   ,0
+2014-08-23,Scott County,Lafayette,42,38,2,   ,0
 2014-08-23,Shawnee,Kentucky Country Day,14,7,0,   ,0
 2014-08-23,Southern,Moore,8,6,0,   ,0
 2014-08-23,St. Xavier,Ballard,17,0,1,  Game recorded as final. No makeup. Called due to heat index  ,0
 2014-08-23,West Creek. TN,Todd County Central,31,7,1,   ,0
-2014-08-24,Bardstown,(at Campbellsville University),43,27,1,   ,0
+2014-08-24,Bardstown,Campbellsville,43,27,2,   ,0
 2014-08-24,Barren County,Metcalfe County,36,3,1,   ,0
 2014-08-24,DeSales,Holy Cross (Louisville),31,0,0,   ,0
 2014-08-24,DuPont Manual,Central,41,7,0,   ,0
-2014-08-24,Glasgow,County (at Barren County),27,0,1,   ,0
+2014-08-24,Glasgow,Hart County,27,0,2,   ,0
 2014-08-25,Seneca,John Hardin,24,19,0,   ,0
 2014-08-29,Adair County,Caverna,74,28,1,   ,0
 2014-08-29,Allen Central,Jenkins,40,14,1,  (corrected score) ,0
@@ -98,14 +98,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-29,Ballard Memorial,Fulton City,45,6,1,   ,0
 2014-08-29,Belfry,Henry Clay,29,7,1,   ,0
 2014-08-29,Berea,Nicholas County,18,14,0,   ,0
-2014-08-29,Betsy Layne,(at Shelby Valley),52,6,1,   ,0
+2014-08-29,Betsy Layne,Phelps,52,6,2,   ,0
 2014-08-29,Boone County,Conner,49,26,1,   ,0
 2014-08-29,Bowling Green,Lexington Catholic,40,14,0,   ,0
 2014-08-29,Boyle County,Lincoln County,41,7,1,   ,0
 2014-08-29,Breathitt County,Jackson County,29,20,1,   ,0
 2014-08-29,Bullitt Central,Fairdale,49,28,0,   ,0
 2014-08-29,Bullitt East,Nelson County,39,25,0,   ,0
-2014-08-29,Caldwell County,County (at Crittenden County),62,27,1,   ,0
+2014-08-29,Caldwell County,Union County,62,27,2,   ,0
 2014-08-29,Campbell County. TN,Lynn Camp,64,0,1,   ,0
 2014-08-29,Campbellsville,Russell County,19,0,1,   ,0
 2014-08-29,Carmel. IN,Trinity (Louisville),10,7,0,   ,0
@@ -117,7 +117,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-29,Cooper,Newport Central Catholic,31,0,1,   ,0
 2014-08-29,Corbin,Southwestern,20,17,1,   ,0
 2014-08-29,Danville,Garrard County,23,22,1,   ,0
-2014-08-29,DeSales,County (at Central Hardin),30,6,1,   ,0
+2014-08-29,DeSales,Grayson County,30,6,2,   ,0
 2014-08-29,DuPont Manual,Fern Creek,19,7,1,   ,0
 2014-08-29,Elizabethtown,Edmonson County,35,7,0,   ,0
 2014-08-29,Evansville F.J. Reitz. IN,Paducah Tilghman,35,23,0,   ,0
@@ -125,7 +125,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-29,Franklin County,Western Hills,42,6,0,   ,0
 2014-08-29,Franklin-Simpson,Graves County,28,26,1,   ,0
 2014-08-29,Gallatin County,Harrison County,28,18,1,   ,0
-2014-08-29,Glasgow,County (at Danville),23,14,1,   ,0
+2014-08-29,Glasgow,Mercer County,23,14,2,   ,0
 2014-08-29,Grant County,Owen County,60,7,1,   ,0
 2014-08-29,Greenwood,Allen County-Scottsville,49,14,1,   ,0
 2014-08-29,Hancock County,Ohio County,43,0,1,   ,0
@@ -137,7 +137,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-29,Iroquois,Waggener,48,6,0,   ,0
 2014-08-29,Johnson Central,Fairland (Proctorville). OH,46,0,1,   ,0
 2014-08-29,Kentucky Country Day,Atherton,28,0,1,   ,0
-2014-08-29,Knox Central,County Central (at Corbin),39,6,1,   ,0
+2014-08-29,Knox Central,Perry County Central,39,6,2,   ,0
 2014-08-29,LaRue County,Hart County,33,28,1,   ,0
 2014-08-29,Lafayette,Central,28,14,0,   ,0
 2014-08-29,Lake County. TN,Fulton County,22,6,1,   ,0
@@ -163,7 +163,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-29,Owensboro Catholic,Daviess County,49,7,0,   ,0
 2014-08-29,Paintsville,Morgan County,34,0,0,   ,0
 2014-08-29,Paul Laurence Dunbar,East Jessamine,48,28,0,   ,0
-2014-08-29,Pike County Central,(at Belfry),45,34,1,   ,0
+2014-08-29,Pike County Central,Somerset,45,34,2,   ,0
 2014-08-29,Pineville,South Floyd,28,0,0,   ,0
 2014-08-29,Pleasure Ridge Park,Valley,39,8,1,   ,0
 2014-08-29,Powell County,Magoffin County,27,18,1,   ,0
@@ -180,27 +180,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-08-29,South Oldham,Collins,32,17,0,   ,0
 2014-08-29,South Warren,Logan County,52,0,1,   ,0
 2014-08-29,Southern,North Bullitt,53,37,1,   ,0
-2014-08-29,St. Xavier,Station (at Lexington Catholic),28,13,1,   ,0
+2014-08-29,St. Xavier,Bryan Station,28,13,2,   ,0
 2014-08-29,Tates Creek,Moore,38,20,1,   ,0
 2014-08-29,Thomas Nelson,Bethlehem,14,13,1,   ,0
 2014-08-29,Trigg County,Marshall County,42,21,1,   ,0
-2014-08-29,Warren Central,County (at Boyle County),28,14,1,   ,0
+2014-08-29,Warren Central,Bourbon County,28,14,2,   ,0
 2014-08-29,Warren East,Barren County,24,14,0,   ,0
 2014-08-29,West Carter,Bath County,35,15,1,   ,0
-2014-08-30,Bell County,County (at Marion County),41,13,1,   ,0
-2014-08-30,Covington Catholic,Heights (at Sheakley Field. Univ. of Cincinnati/Various Sites),41,7,1,   ,0
+2014-08-30,Bell County,Washington County,41,13,2,   ,0
+2014-08-30,Covington Catholic,Dixie Heights,41,7,2,   ,0
 2014-08-30,Crittenden County,Hopkins County Central,27,13,1,   ,0
-2014-08-30,Finneytown. OH,(at Sheakley Field. University of Cincinnati),27,20,1,   ,0
-2014-08-30,Hillsboro. TN,County (at Stadium of Champions. Hopkinsville),44,24,1,   ,0
-2014-08-30,Hurley. VA,Ridge (at Belfry-Pikeville-Shelby Valley),36,15,1,   ,0
+2014-08-30,Finneytown. OH,Bellevue,27,20,2,   ,0
+2014-08-30,Hillsboro. TN,Christian County,44,24,2,   ,0
+2014-08-30,Hurley. VA,East Ridge,36,15,2,   ,0
 2014-08-30,Marion County,Green County,33,0,1,   ,0
-2014-08-30,Meade County,(at North Hardin),29,0,1,   ,0
-2014-08-30,Mt. Healthy. OH,(at Sheakley Field. Univ. of Cincinnati/Various Sites),40,34,1,   ,0
+2014-08-30,Meade County,Doss,29,0,2,   ,0
+2014-08-30,Mt. Healthy. OH,Beechwood,40,34,2,   ,0
 2014-08-30,North Hardin,Western,46,24,1,   ,0
 2014-08-30,Pikeville,Hazard,49,36,1,   ,0
-2014-08-30,West Creek. TN,(at Stadium of Champions. Hopkinsville),1,0,1,  Forfeited due to ineligible,0
-2014-08-30,Williamsburg,Laurel (at North Laurel),44,7,1,   ,0
-2014-09-01,North Laurel,County (at Various Sites),23,21,1,   ,0
+2014-08-30,West Creek. TN,Hopkinsville,1,0,2,  Forfeited due to ineligible,0
+2014-08-30,Williamsburg,South Laurel,44,7,2,   ,0
+2014-09-01,North Laurel,Wayne County,23,21,2,   ,0
 2014-09-04,Scott,Aiken. OH,57,0,0,   ,0
 2014-09-05,Adair County,Breckinridge County,52,0,0,   ,0
 2014-09-05,Allen County-Scottsville,Marshall County,56,14,1,   ,0
@@ -221,9 +221,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-09-05,Bullitt East,Waggener,42,0,1,   ,0
 2014-09-05,Butler,Western,27,26,0,   ,0
 2014-09-05,Caldwell County,Ohio County,72,27,1,   ,0
-2014-09-05,Calloway County,(at Trigg County),1,0,1,  Forfeited due to ineligible,0
-2014-09-05,Campbell County,Central Catholic (at Newport),30,17,1,   ,0
-2014-09-05,Campbellsville,County,42,6,1,   ,0
+2014-09-05,Calloway County,Hopkinsville,1,0,2,  Forfeited due to ineligible,0
+2014-09-05,Campbell County,Newport Central Catholic,30,17,2,   ,0
+2014-09-05,Campbellsville,Taylor County,42,6,1,   ,0
 2014-09-05,Casey County,Russell County,17,14,0,   ,0
 2014-09-05,Central,Eastern,38,0,1,   ,0
 2014-09-05,Central Hardin,Madisonville-North Hopkins,35,7,0,   ,0
@@ -297,7 +297,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-09-05,South Floyd,Hannan. WV,42,8,1,   ,0
 2014-09-05,South Oldham,Anderson County,52,43,1,   ,0
 2014-09-05,South Warren,Greenwood,35,3,0,   ,0
-2014-09-05,Southwestern,Hardin (at Pulaski County),42,21,1,   ,0
+2014-09-05,Southwestern,North Hardin,42,21,2,   ,0
 2014-09-05,Spencer County,LaRue County,49,14,0,   ,0
 2014-09-05,Sycamore. OH,Ryle,34,14,1,   ,0
 2014-09-05,Tates Creek,Perry County Central,22,18,1,   ,0
@@ -309,7 +309,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-09-05,West Carter,Nicholas County,42,7,0,   ,0
 2014-09-05,Williamsburg,Pike County Central,42,14,1,   ,0
 2014-09-06,Johnson Central,Mastery Charter School North. PA,43,19,1,   ,0
-2014-09-06,Knox Central,Laurel (at Clay County),7,3,1,   ,0
+2014-09-06,Knox Central,North Laurel,7,3,2,   ,0
 2014-09-06,Prestonsburg,Clay County,44,6,0,   ,0
 2014-09-06,Raceland,Boyd County,41,14,1,   ,0
 2014-09-06,Riverview East Academy. OH,Eminence,22,20,1,   ,0
@@ -521,11 +521,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-09-19,West Jessamine,East Jessamine,28,25,0,   ,0
 2014-09-19,Whitley County,Clay County,49,33,0,   ,0
 2014-09-19,Williamsburg,Newport,31,22,0,   ,0
-2014-09-20,Bullitt Central,County (at McCracken County),56,7,1,   ,0
+2014-09-20,Bullitt Central,Calloway County,56,7,2,   ,0
 2014-09-20,Dixie Heights,Newport Central Catholic,34,13,0,   ,0
 2014-09-20,Highlands,Paducah Tilghman,49,17,1,   ,0
 2014-09-20,McCracken County,Southaven. MS,52,49,1,   ,0
-2014-09-20,Russellville,County Central (at McCracken County),43,3,1,   ,0
+2014-09-20,Russellville,Todd County Central,43,3,2,   ,0
 2014-09-26,Adair County,Russell County,40,19,1,   ,0
 2014-09-26,Allen County-Scottsville,Logan County,26,6,1,   ,0
 2014-09-26,Anderson County,Montgomery County,49,33,0,   ,0
@@ -716,7 +716,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-10-03,South Oldham,Grant County,21,9,0,   ,0
 2014-10-03,South Warren,Daviess County,23,12,1,   ,0
 2014-10-03,Southwestern,Madison Southern,32,26,1,   ,0
-2014-10-03,St. Xavier,(Louisville),35,21,1,   ,0
+2014-10-03,St. Xavier,Trinity (Louisville),35,21,1,   ,0
 2014-10-03,Taylor County,Marion County,30,8,1,   ,0
 2014-10-03,Thomas Nelson,Shawnee,20,16,0,   ,0
 2014-10-03,Trimble County,Eminence,43,0,0,   ,0
@@ -1159,13 +1159,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-11-07,Bardstown,Metcalfe County,52,20,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Caldwell County,Hancock County,63,26,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Danville,Betsy Layne,60,24,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-11-07,DeSales,County (at Southern),63,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-07,DeSales,Green County,63,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Glasgow,Washington County,42,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Lexington Christian,Leslie County,45,27,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Lloyd Memorial,Carroll County,54,32,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Murray,Union County,71,37,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Newport,Gallatin County,45,6,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-11-07,Newport Central Catholic,County (at Holmes),43,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-07,Newport Central Catholic,Trimble County,43,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Owensboro Catholic,Crittenden County,52,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Prestonsburg,Middlesboro,29,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Shelby Valley,Somerset,30,20,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1228,7 +1228,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-11-07,Male,Marshall County,62,2,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Meade County,Henry Clay,18,14,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Pleasure Ridge Park,Oldham County,42,7,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-11-07,Ryle,Rogers Clark (at Old GRC HS),28,14,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-07,Ryle,George Rogers Clark,28,14,2,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Scott County,Boone County,53,21,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,Simon Kenton,Madison Central,40,11,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-07,St. Xavier,Daviess County,41,8,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1247,7 +1247,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-11-14,DeSales,Glasgow,37,0,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-14,Murray,Owensboro Catholic,20,9,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-14,Newport,Walton-Verona,37,36,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl OT ,0
-2014-11-14,Newport Central Catholic,Memorial (at Newport ),39,17,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-14,Newport Central Catholic,Lloyd Memorial,39,17,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-14,Prestonsburg,Danville,40,23,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-14,Shelby Valley,Lexington Christian,37,26,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-14,Belfry,Pike County Central,43,14,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1288,7 +1288,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-11-21,Williamsburg,Hazard,48,14,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-21,DeSales,Christian Academy-Louisville,7,6,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-21,Murray,Caldwell County,47,28,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-11-21,Newport Central Catholic,(at Newport HS),42,26,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-21,Newport Central Catholic,Newport,42,26,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-21,Shelby Valley,Prestonsburg,20,14,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl OT(overtime) ,1
 2014-11-21,Belfry,Lawrence County,48,14,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-21,Central,Corbin,36,33,0,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1305,10 +1305,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-11-21,Ballard,Butler,14,7,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-21,Dixie Heights,Simon Kenton,24,0,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-21,Meade County,Central Hardin,30,8,0,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-11-21,Trinity (Louisville),Xavier (at Papa Johns Cardinal Stadium),9,3,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-21,Trinity (Louisville),St. Xavier,9,3,2,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Mayfield,Beechwood,35,24,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Williamsburg,Raceland,34,8,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-11-28,DeSales,(at Southern),14,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2014-11-28,DeSales,Murray,14,7,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Newport Central Catholic,Shelby Valley,43,14,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Belfry,Russell,33,0,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Central,South Warren,16,14,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1318,9 +1318,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-11-28,Pulaski County,Cooper,33,7,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Dixie Heights,Ballard,48,21,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2014-11-28,Trinity (Louisville),Meade County,48,0,0,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2014-12-05,DeSales,Central Catholic (at Feix Field. Houchens/LT Smith Stadium),26,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 2A Champion ,0
-2014-12-05,Belfry,(at Feix Field. Houchens/LT Smith Stadium),14,7,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 3A Champion ,0
-2014-12-05,Pulaski County,County (at Feix Field. Houchens/LT Smith Stadium),14,7,1,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 5A Champion ,0
-2014-12-06,Mayfield,(at Feix Field. Houchens/LT Smith Stadium),28,27,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 1A Champion - OT ,0
-2014-12-06,Highlands,(at Feix Field. Houchens/LT Smith Stadium),49,42,1,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 4A Champion ,0
-2014-12-06,Trinity (Louisville),Heights (at Feix Field. Houchens/LT Smith Stadium),47,14,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 6A Champion ,0
+2014-12-05,DeSales,Newport Central Catholic,26,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 2A Champion ,0
+2014-12-05,Belfry,Central,14,7,2,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 3A Champion ,0
+2014-12-05,Pulaski County,Graves County,14,7,2,  Class 5A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 5A Champion ,0
+2014-12-06,Mayfield,Williamsburg,28,27,2,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 1A Champion - OT ,0
+2014-12-06,Highlands,Owensboro,49,42,2,  Class 4A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 4A Champion ,0
+2014-12-06,Trinity (Louisville),Dixie Heights,47,14,2,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Class 6A Champion ,0

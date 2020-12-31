@@ -23,18 +23,18 @@ def create_game_infos(season):
 
     #***** QUESTION FOR DR. H  ******
     #Do we want to delete all these files and start anew?
-    date_list = []
-    with open(infos_directory + '/game_infos','r') as csvfile:
-        spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
-        for row in spamreader:
-            #print(row[0])
-            if row[0] not in date_list: 
-                date_list.append(row[0])
-    if not path.exists(infos_directory + "game_infos"):
-        with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
-            fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            writer.writeheader()  
+    # date_list = []
+    # with open(infos_directory + '/game_infos','r') as csvfile:
+    #     spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+    #     for row in spamreader:
+    #         print(row[0])
+    #         if row[0] not in date_list: 
+    #             date_list.append(row[0])
+    #if not path.exists(infos_directory + "game_infos"):
+    with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
+        fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()  
 
     html_files = os.listdir(html_directory) 
     html_files = sorted(html_files)
@@ -85,11 +85,24 @@ def create_game_infos(season):
             for day in big_array:
                 if "(at" in day[1]: 
                     location = 2
-                if "at" in day[1]: 
+                    index = 0
+                    for char in day[1]:
+                        if char == ("("): 
+                            break
+                        index = index + 1
+                    day[1] = day[1][:index-1]
+                elif "at" == day[1][:2]: #"at" in day[1]: 
                     location = 0
-                if "vs." in day[1]: 
+                elif "vs." in day[1]: 
                     location = 1
                 string = ""
+                ## This is for the INCREDIBLY annoying case that KHSAA doesn't include a space
+                try: 
+                    if day[1][:3] == "vs.":
+                        if day[1][3] != " ": 
+                            day[1] = day[1][:3] + " " + day[1][3:]
+                except: 
+                    pass
                 split = day[1].split()
                 for elements in split[1:]: 
                     string = string + elements + " "
@@ -97,7 +110,17 @@ def create_game_infos(season):
                     overtime = 1
                 else: 
                     overtime = 0
-                writer.writerow()
+                game = [file_name[14:24],str(day[0]),str(string[:-1]),day[2],day[3],location,day[4],overtime]
+                
+                try: 
+                    assert (str(day[0]) != ""), "This game does not have a winner. " + game
+                except: 
+                    pass
+                try: 
+                    assert (str(day[1]) != ""), "This game does not have a loser. " + game
+                except: 
+                    pass
+                writer.writerow(game)
                 #writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})
     print("Created Game Infos!")
     return
