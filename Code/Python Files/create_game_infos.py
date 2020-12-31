@@ -18,19 +18,19 @@ def create_game_infos(season):
 
     html_directory = season.get_year_path() + "/HTML/"
     infos_directory = season.get_year_path() + "/game_infos/"
+    teams_file = season.get_teams_path()
+    with open(teams_file, 'r') as f: 
+        for line in f: 
+            team_split = line.rstrip('\n').split(',')
+            assert len(team_split) == 2, "Should be 2, not " + len(team_split)
+            name = team_split[0]
+            region = team_split[1]
     if not os.path.exists(infos_directory):  
         os.makedirs(infos_directory)
 
     #***** QUESTION FOR DR. H  ******
     #Do we want to delete all these files and start anew?
-    # date_list = []
-    # with open(infos_directory + '/game_infos','r') as csvfile:
-    #     spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
-    #     for row in spamreader:
-    #         print(row[0])
-    #         if row[0] not in date_list: 
-    #             date_list.append(row[0])
-    #if not path.exists(infos_directory + "game_infos"):
+
     with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
         fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -78,7 +78,7 @@ def create_game_infos(season):
             big_array.append(split)
 
 
-        
+        # Write to file 
         with open(infos_directory + "game_infos", 'a', newline= '') as csvfile: 
             writer = csv.writer(csvfile)
             location = 0
@@ -112,14 +112,6 @@ def create_game_infos(season):
                     overtime = 0
                 game = [file_name[14:24],str(day[0]),str(string[:-1]),day[2],day[3],location,day[4],overtime]
                 
-                try: 
-                    assert (str(day[0]) != ""), "This game does not have a winner. " + game
-                except: 
-                    pass
-                try: 
-                    assert (str(day[1]) != ""), "This game does not have a loser. " + game
-                except: 
-                    pass
                 writer.writerow(game)
                 #writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})
     print("Created Game Infos!")

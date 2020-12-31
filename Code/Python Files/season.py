@@ -48,3 +48,5 @@ class Season:
                 return ""
     def get_year_path(self): 
         return "../MATLAB/" + self.sport + "/Data/" + str(self.year)
+    def get_teams_path(self): 
+        return "../MATLAB/" + self.sport + "/Teams/" + str(self.year) + "_teams.txt"
