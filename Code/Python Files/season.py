@@ -43,7 +43,7 @@ class Season:
             elif self.year >= 2000: 
                 return str(self.year % 2000)
             elif self.year == 1999:
-                return str(self.year%1900)
+                return str(self.year%1990)
             elif self.year == 1998: 
                 return ""
     def get_year_path(self): 

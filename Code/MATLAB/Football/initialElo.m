@@ -2,7 +2,7 @@ function [Games, initElo] = initialElo(Games, Teams, year)
 
 
 %[Games,cross_games] = crossRegion(Games,Teams,year);
-if year == 2004
+if year == 1998
     initElo = 1500*ones(1,length(Teams))';
 else
     last_year_dir = pwd + "/Data/" + num2str(year-1) + "/Ratings/";

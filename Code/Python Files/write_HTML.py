@@ -57,6 +57,7 @@ def get_date_string(season, original):
 def write_HTML(season):
     #*****   Writes all the HTML to file  ******
 
+    ## Do I need this? 
     date_from_files = use_HTML_folder(season)
    
     url = season.get_url_no_date()
@@ -72,7 +73,6 @@ def write_HTML(season):
     soup = BeautifulSoup(day_html, 'html.parser')
     my_string = str("sel_date_fb" + season.get_last_two_of_year())
     list_of_dates = soup.find(id = my_string)
-
     split = list_of_dates.getText().split()
 
     shorter = split[2:]

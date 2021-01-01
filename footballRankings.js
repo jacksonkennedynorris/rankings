@@ -4,7 +4,7 @@ var year;
 var myarray = []; 
 
 var button_list = [] 
-for (year = 2020; year>=2005; year--){
+for (year = 2020; year>=1998; year--){
 
   var btn = document.createElement("BUTTON");   // Create a <button> element
   btn.setAttribute("id", "button" + year.toString())
