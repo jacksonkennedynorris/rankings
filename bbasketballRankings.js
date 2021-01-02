@@ -2,12 +2,21 @@ var my_string = "BBasketball/teams_"
 var csv_end = ".csv"
 var year; 
 var myarray = []; 
-
 var button_list = [] 
 for (year = 2020; year>=1999; year--){
 
   var btn = document.createElement("BUTTON");   // Create a <button> element
   btn.setAttribute("id", "button" + year.toString())
+  btn.setAttribute("year", year)
+  if (year >= 2000){
+    short = (year % 2000).toString()
+    if (year < 2010){
+      short = "0" + short
+    }
+  }
+  else{
+    short = (year%1900).toString()
+  }
   btn.innerHTML = year.toString();                   // Insert text
   document.getElementById("button_div").appendChild(btn);               // Append <button> to <body>
   button_list.push(btn)
@@ -52,14 +61,22 @@ var useData = function(data,year){
     height = 1000;
     var my_year = document.createElement("h2") 
     var create_table = document.createElement("totalTable")
-
-    my_year.innerHTML = "Year: " + year.toString();
+    if (year >= 2000){
+      short = year % 2000
+      if (year < 2010){
+        short = "0" + short
+      }
+    }
+    else{
+      short = year%1900
+    }
+    my_year.innerHTML = "Year: " + (year-1).toString() + "-" + short;
     document.getElementById("year").appendChild(my_year);
     document.getElementById("tableDiv").appendChild(create_table)
 
   var myTab = d3.select('totalTable')
 
-  var tableNames = ["Ranking","Name",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
+  var tableNames = ["Ranking","Name (Region)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
 
   var header = myTab.append('thead')
     .selectAll('th')
@@ -80,21 +97,29 @@ var useData = function(data,year){
     row.append('td')
     .text(function(d,i){
       /*return d.name })*/
+      var suffix = ""
+      if (d.region === "1"){suffix = "st"}
+      else if (d.region === "2"){suffix = "nd"}
+      else if (d.region === "3"){suffix = "rd"}
+      else if (d.region === "NaN"){suffix = ""}
+      else {suffix = "th"}
+
+
       if(d.region == "NaN")
       {
         return d.name + " (N/A)"
       }
       else if (d.name == "Trinity (Louisville)") {
-        return "Trinity (" + d.region + "A)"
+        return "Trinity (" + d.region + suffix + ")"
       }
       else if (d.name == "Holy Cross (Louisville)"){
-        return "Holy Cross - Louisville (" + d.region + "A)"
+        return "Holy Cross - Louisville (" + d.region + suffix + ")"
       }
       else if (d.name == "Holy Cross (Covington)"){
-        return "Holy Cross - Covington (" + d.region + "A)"
+        return "Holy Cross - Covington (" + d.region + suffix + ")"
       }
       else {
-        return d.name + " (" + d.region + "A)"}
+        return d.name + " (" + d.region + suffix + ")"}
       })
     .attr('class','name')
     /*row.append('td')
