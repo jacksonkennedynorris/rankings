@@ -10,7 +10,9 @@ def main():
     for year in range(1998,2021):
 
         #**** Choose Sport  ******
-        league = "Football"  # league = "Boys Basketball"   # league = "Girls Basketball"   
+        league = "Football"  
+        league = "Boys Basketball"   
+        # league = "Girls Basketball"   
 
         #**** Create Instance *****
         season = Season(league,year)

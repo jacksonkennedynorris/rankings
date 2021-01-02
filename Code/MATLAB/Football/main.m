@@ -3,15 +3,21 @@ clear all
 close all 
 sport = "Football";  
 
-for year = 2019:2020
-    [Games,Teams] = loading_data(year);
-    [Games,Teams] = calcs(Games,Teams,year);
+for year = 1998:2020
+    [Games,Teams] = loading_data(year,sport);
+    [Games,Teams] = calcs(Games,Teams,year,sport);
     [~, Teams] = get_aggregate_ratings(Teams, year); 
 
-    cd('../../../football')
+    cd('../..')
+    if sport == "Football" 
+        cd('football')
+    elseif sport == "Boys Basketball"
+        cd('BBasketball')
+    end
+    
     writetable(struct2table(Games), "games_" + num2str(year) + ".csv")
     teams_table = struct2table(Teams); 
     writetable(sortrows(teams_table, 'rating','descend'), "teams_" + num2str(year) + ".csv")
-    cd('../Code/MATLAB/Football')
-    disp("Finished for year: " + year)
+    cd('../Code/MATLAB')
+    disp("Finished" + sport + " for year: " + year)
 end

@@ -1,0 +1,29 @@
+function create_team_files
+
+pwd
+cd("Boys_ Basketball")
+
+for year = 1998
+    
+    
+    cd(num2str(year) + "-" + num2str(year+1))
+    newyear = num2str(year+1); 
+    code = newyear(end-1:end);
+    mat = readtable("kybbk_" + num2str(year) + "-" + code + "_ID_Region_District.txt")
+    
+    col = 3;
+    region = mat(:,col);
+    
+    newt = table(mat(:,1),mat(:,col))
+    cd .. 
+    
+    
+end
+
+disp("HEY") 
+
+
+writetable(
+
+
+disp("HEY")

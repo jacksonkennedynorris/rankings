@@ -1,12 +1,12 @@
-function [Games, initElo] = initialElo(Games, Teams, year) 
+function [Games, initElo] = initialElo(Games, Teams, year, sport) 
 
 
 %[Games,cross_games] = crossRegion(Games,Teams,year);
 if year == 1998
     initElo = 1500*ones(1,length(Teams))';
 else
-    last_year_dir = pwd + "/Data/" + num2str(year-1) + "/Ratings/";
-    this_year_dir = pwd + "/Data/" + num2str(year) + "/Ratings/"; 
+    last_year_dir = pwd + "/" + sport + "/Data/" + num2str(year-1) + "/Ratings/";
+    this_year_dir = pwd + "/" + sport + "/Data/" + num2str(year) + "/Ratings/"; 
       % Get the Names from last year
     last_table = readtable(last_year_dir + "eloRating.txt");
     last_name = last_table{:,1};

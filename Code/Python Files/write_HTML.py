@@ -30,6 +30,11 @@ def return_to_python_directory():
     return
 def get_date_string(season, original): 
     #This function takes the table and converts it into the proper date format
+    
+    if int(original[-2:]) > 50: 
+        century = "19"
+    else: 
+        century = "20"
     date_dictionary = {
         "January": "01",
         "February": "02", 
@@ -51,7 +56,7 @@ def get_date_string(season, original):
         date = "0" + split[2][:-1]
     else: 
         date = split[2][:-1] 
-    new_string = str(season.year) + "-" + month + "-" + date
+    new_string = century + original[-2:] + "-" + month + "-" + date
     return new_string
 
 def write_HTML(season):
@@ -71,10 +76,9 @@ def write_HTML(season):
                 time.sleep(1)
                 continue
     soup = BeautifulSoup(day_html, 'html.parser')
-    my_string = str("sel_date_fb" + season.get_last_two_of_year())
+    my_string = season.get_date_selections() #str("sel_date_" + season.get_abbreviation + season.get_last_two_of_year())
     list_of_dates = soup.find(id = my_string)
     split = list_of_dates.getText().split()
-
     shorter = split[2:]
     date_array = []
     for i in range(len(shorter)):
@@ -87,16 +91,17 @@ def write_HTML(season):
         if i%4 == 3:
             year = shorter[i]
             date_array.append(day + ' ' + month + ' ' +date + ' ' + year)
-
+    #print(day,month,date,year)
     # #Season Start and End Dates
 
     # create_empty_HTML_folder(season)
-
+    # print("MAYBE HERE")
+    # print(date_array)
     for date in date_array: # get all calendar dates of the season
         #date = start_date + datetime.timedelta(days=i) # Calendar Date (YYYY-MM-DD)
-         
+        #print(date)
         date_string = get_date_string(season, date)
-        
+        #print(date_string)
         if date_string not in date_from_files: 
             # print(os.listdir(season.get_year_path() + "/HTML"))
             # if date_string

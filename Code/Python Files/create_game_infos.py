@@ -17,24 +17,26 @@ from teams import *
 def create_game_infos(season):
 ## Football
 
+    edit = True 
+
     html_directory = season.get_year_path() + "/HTML/"
     infos_directory = season.get_year_path() + "/game_infos/"
-    teams_file = season.get_teams_path()
-    teams = []
-    with open(teams_file, 'r') as f: 
-        id = 0
-        for line in f: 
-            if id == 0:
-                id = 1
-                continue 
-            team_split = line.rstrip('\n').split(',')
-            assert len(team_split) == 2, "Should be 2, not " + len(team_split)
-            name = team_split[0]
-            region = team_split[1]
-            team = Team(name,region,id)
-            teams.append(team)
-            id = id + 1
-    num_teams = id 
+    # teams_file = season.get_teams_path()
+    # teams = []
+    # with open(teams_file, 'r') as f: 
+    #     id = 0
+    #     for line in f: 
+    #         if id == 0:
+    #             id = 1
+    #             continue 
+    #         team_split = line.rstrip('\n').split(',')
+    #         assert len(team_split) == 2, "Should be 2, not " + len(team_split)
+    #         name = team_split[0]
+    #         region = team_split[1]
+    #         team = Team(name,region,id)
+    #         teams.append(team)
+    #         id = id + 1
+    # num_teams = id 
     #print(teams[0].name, teams[0].region, teams[0].id)
     # for i in range(num_teams-1):
     #     print(teams[i].name,teams[i].region,teams[i].id)
@@ -43,11 +45,11 @@ def create_game_infos(season):
 
     #***** QUESTION FOR DR. H  ******
     #Do we want to delete all these files and start anew?
-
-    with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
-        fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()  
+    if edit: 
+        with open(infos_directory + "game_infos", 'w', newline= '') as csvfile:   
+            fieldnames = ["date","win_team", "lose_team", "win_score", "lose_score", "location", "date_comments","overtime"]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()  
 
     html_files = os.listdir(html_directory) 
     html_files = sorted(html_files)
@@ -123,7 +125,10 @@ def create_game_infos(season):
                     overtime = 1
                 else: 
                     overtime = 0
-                game = [file_name[14:24],str(day[0]),str(string[:-1]),day[2],day[3],location,day[4],overtime]
+                date_split = file_name.split('_') 
+                date = date_split[-1][:-4]
+
+                game = [date,str(day[0]),str(string[:-1]),day[2],day[3],location,day[4],overtime]
                 
                 writer.writerow(game)
                 #writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})

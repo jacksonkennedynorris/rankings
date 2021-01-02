@@ -1,13 +1,13 @@
-function [Games, Teams] = loading_data(year) 
+function [Games, Teams] = loading_data(year,sport) 
 
-info_file = pwd + "/Data/" + num2str(year) + "/game_infos/game_infos";
+info_file = pwd + '/' sport + "/Data/" + num2str(year) + "/game_infos/game_infos";
 
 game_data = readtable(info_file);
 Games = table2struct(game_data);
 
 % team_files = pwd + "/Data/" + num2str(year) + "/team_tags/" + num2str(year) + "_Team_Tags";
 
-team_files = pwd + "/Teams/" + num2str(year) + "_teams.txt";
+team_files = pwd + "/" + sport "/Teams/" + num2str(year) + "_teams.txt";
 team_list = importdata(team_files);
 
 region_list = team_list.data;
