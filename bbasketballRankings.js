@@ -76,7 +76,7 @@ var useData = function(data,year){
 
   var myTab = d3.select('totalTable')
 
-  var tableNames = ["Ranking","Name (Region)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
+  var tableNames = ["Ranking","Name (Class)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
 
   var header = myTab.append('thead')
     .selectAll('th')
