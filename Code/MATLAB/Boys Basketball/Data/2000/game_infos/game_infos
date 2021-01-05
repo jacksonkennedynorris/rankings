@@ -289,7 +289,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Washington County,Taylor County,54,41,0,   ,0
 1999-12-03,West Jessamine,Woodford County,71,69,1,   ,0
 1999-12-03,Western,Seneca,59,49,0,   ,0
-1999-12-03,Williamsburg,Oneida Baptist Institute,80,77,2,  Union Bank Classic Tournament,0
+1999-12-03,Williamsburg,Oneida Baptist Institute,80,77,2,"  Union Bank Classic Tournament
+
+
+
+ ",0
 1999-12-03,Wolfe County,Lee County,89,64,1,   ,0
 1999-12-04,Out of State,Fern Creek,94,60,2,   ,0
 1999-12-04,Allen Central,Knott County Central,66,63,1,   ,0
@@ -1273,7 +1277,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-28,Carroll County,Gallatin County,70,59,1,  District 31-32 Shootout ,0
 1999-12-28,Caverna,Cumberland County,75,66,2,  Glasgow Scottie Classic Tournament ,0
 1999-12-28,Out of State,Paducah Tilghman,55,42,2,  Centralia Tournament ,0
-1999-12-28,Clinton County,Out of State,62,59,2,  Eagle Classic,0
+1999-12-28,Clinton County,Out of State,62,59,2,"  Eagle Classic
+
+ ",0
 1999-12-28,Out of State,Southern,64,60,2,  Jeffersonville Tournament ,0
 1999-12-28,Covington Catholic,Pulaski County,51,50,2,  Hoopin it Up Holiday Classic ,0
 1999-12-28,Crittenden County,Heath,80,69,2,  El Dorado Holiday Tournament ,0
@@ -1379,7 +1385,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-29,Out of State,Whitefield Academy,51,46,2,  Suncoast Classic Tournament ,0
 1999-12-29,Out of State,Logan County,64,60,2,  Bowling Green Invitational Tournament ,0
 1999-12-29,Clay County,North Laurel,69,57,2,  Hoopin it Up Holiday Classic ,0
-1999-12-29,Clinton County,Out of State,60,49,0, Eagle Classic (championship),0
+1999-12-29,Clinton County,Out of State,60,49,0,"  Eagle Classic (championship)
+
+ ",0
 1999-12-29,Covington Catholic,South Laurel,63,47,2,  Hoopin it Up Holiday Classic ,0
 1999-12-29,Out of State,Calloway County,54,41,2,  Martin Lions Club Invitational Tournament ,0
 1999-12-29,East Carter,Bell County,52,51,2,  Hoopin it Up Holiday Classic (overtime) ,1

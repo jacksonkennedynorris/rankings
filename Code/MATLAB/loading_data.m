@@ -62,7 +62,7 @@ for elem = length(Games):-1:1
     % Remove out of state
     if winner == "Out of State" 
         loser = Games(elem).lose_id;
-        Teams(loser).games_played = Teams(loser).games_played-1;
+        Teams(loser).games_played = Teams(loser).games_played - 1;
         Games(elem) = []; 
     elseif loser == "Out of State" 
         winner = Games(elem).win_id; 

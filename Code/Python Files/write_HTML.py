@@ -66,13 +66,9 @@ def write_HTML(season):
     date_from_files = use_HTML_folder(season)
    
     url = season.get_url_no_date()
-
-    try: 
-        year_page = urlopen(url)
-    except: 
-        print("Url " + url + " is not correct.")
-        return
-
+    
+    year_page = urlopen(url)
+    
     soup = BeautifulSoup(year_page, 'html.parser')
     my_string = season.get_date_selections() 
     list_of_dates = soup.find(id = my_string)
