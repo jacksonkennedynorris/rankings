@@ -1,5 +1,5 @@
 date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-2007-08-24,Apollo,Evansville Harrison. IN,47,13,2,   ,0
+2007-08-24,Apollo,Out of State,47,13,2,   ,0
 2007-08-24,Atherton,Kentucky Country Day,14,9,1,   ,0
 2007-08-24,Bardstown,Nelson County,39,14,0,   ,0
 2007-08-24,Bath County,West Carter,24,19,1,   ,0
@@ -12,23 +12,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-24,Campbell County,Tates Creek,28,14,1,   ,0
 2007-08-24,Cawood,Harlan,12,7,0,   ,0
 2007-08-24,Central Hardin,Bethlehem,32,14,2,   ,0
-2007-08-24,Chattanooga McCallie. TN,Marshall County,31,14,2,   ,0
+2007-08-24,Out of State,Marshall County,31,14,2,   ,0
 2007-08-24,Christian Academy-Louisville,Moore,21,13,2,   ,0
 2007-08-24,Clay County,Lynn Camp,63,38,2,   ,0
 2007-08-24,Cumberland,Knott County Central,49,8,1,   ,0
-2007-08-24,Dawson Bryant (Coal Grove). OH,Lawrence County,28,20,0,   ,0
+2007-08-24,Out of State,Lawrence County,28,20,0,   ,0
 2007-08-24,Dayton,Holmes,21,19,1,   ,0
 2007-08-24,Doss,DeSales,37,35,2,   ,0
 2007-08-24,DuPont Manual,Central,20,13,0,   ,0
 2007-08-24,East Carter,Boyd County,7,0,1,   ,0
 2007-08-24,Elizabethtown,Lloyd Memorial,44,37,2,   ,0
 2007-08-24,Eminence,Beth Haven,28,22,1,   ,0
-2007-08-24,Evansville F.J. Reitz. IN,Owensboro Catholic,40,6,2,   ,0
-2007-08-24,Evansville North. IN,Henderson County,45,10,1,   ,0
+2007-08-24,Out of State,Owensboro Catholic,40,6,2,   ,0
+2007-08-24,Out of State,Henderson County,45,10,1,   ,0
 2007-08-24,Fairview,Lewis County,62,15,1,   ,0
 2007-08-24,Fern Creek,Meade County,19,14,0,   ,0
 2007-08-24,Franklin County,Waggener,20,15,0,   ,0
-2007-08-24,Fulton City,West Carroll. TN,49,7,1,   ,0
+2007-08-24,Fulton City,Out of State,49,7,1,   ,0
 2007-08-24,Gallatin County,Carroll County,27,26,1,   ,0
 2007-08-24,Grayson County,Edmonson County,20,12,1,   ,0
 2007-08-24,Hart County,Breckinridge County,13,6,0,   ,0
@@ -51,7 +51,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-24,Ohio County,Hancock County,35,24,1,   ,0
 2007-08-24,Owen County,Bishop Brossart,30,6,1,   ,0
 2007-08-24,Paul Laurence Dunbar,Bryan Station,45,3,0,   ,0
-2007-08-24,Phelps,East Ridge,1,0,2,  original score East Ridge 27-0,0
+2007-08-24,Phelps,East Ridge,1,0, forfeited later by East Ridge ,  original score East Ridge 27-0,0
 2007-08-24,Pineville,Estill County,28,20,0,   ,0
 2007-08-24,Prestonsburg,Betsy Layne,68,14,1,   ,0
 2007-08-24,Pulaski County,Somerset,62,49,0,   ,0
@@ -61,7 +61,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-24,Russell,Greenup County,45,18,1,   ,0
 2007-08-24,Russellville,Franklin-Simpson,29,17,0,   ,0
 2007-08-24,Sheldon Clark,Perry County Central,53,34,0,   ,0
-2007-08-24,South Fulton. TN,Ballard Memorial,26,19,0,   ,0
+2007-08-24,Out of State,Ballard Memorial,26,19,0,   ,0
 2007-08-24,South Laurel,Valley,57,36,1,   ,0
 2007-08-24,St. Xavier,Ballard,18,14,1,   ,0
 2007-08-24,Taylor County,Monroe County,23,22,0,   ,0
@@ -74,8 +74,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-25,Berea,Bracken County,48,12,1,   ,0
 2007-08-25,Bowling Green,Boyle County,49,21,2,   ,0
 2007-08-25,Christian County,Paducah Tilghman,27,20,2,   ,0
-2007-08-25,Daviess County,Evansville Bosse. IN,41,6,2,   ,0
-2007-08-25,East Jessamine,Western,1,0,2,  original score Western 14-8,0
+2007-08-25,Daviess County,Out of State,41,6,2,   ,0
+2007-08-25,East Jessamine,Western,1,0, forfeited later by Western ,  original score Western 14-8,0
 2007-08-25,Eastern,Oldham County,35,13,0,   ,0
 2007-08-25,Evarts,Adair County,24,14,2,   ,0
 2007-08-25,Frankfort,Campbellsville,34,0,2,   ,0
@@ -87,25 +87,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-25,Henry Clay,Warren Central,33,19,2,   ,0
 2007-08-25,Henry County,Casey County,31,6,1,   ,0
 2007-08-25,Hopkins County Central,Caldwell County,41,21,1,   ,0
-2007-08-25,Indianapolis Cathedral. IN,Pleasure Ridge Park,35,7,2,   ,0
+2007-08-25,Out of State,Pleasure Ridge Park,35,7,2,   ,0
 2007-08-25,Jeffersontown,Nicholas County,41,6,2,   ,0
 2007-08-25,John Hardin,Butler,47,20,2,   ,0
-2007-08-25,Johnson Central,South Point. OH,34,0,0,   ,0
+2007-08-25,Johnson Central,Out of State,34,0,0,   ,0
 2007-08-25,LaRue County,Fort Knox,41,6,2,   ,0
-2007-08-25,Lasalle. OH,Covington Catholic,34,7,2,   ,0
-2007-08-25,Lexington Catholic,Althoff Catholic. IL,65,28,1,   ,0
+2007-08-25,Out of State,Covington Catholic,34,7,2,   ,0
+2007-08-25,Lexington Catholic,Out of State,65,28,1,   ,0
 2007-08-25,Lexington Christian,Williamsburg,62,28,1,   ,0
 2007-08-25,Ludlow,Trimble County,27,20,2,   ,0
 2007-08-25,Madison Central,Danville,26,7,0,   ,0
 2007-08-25,Madisonville-North Hopkins,Fulton County,53,7,2,   ,0
 2007-08-25,Marion County,West Jessamine,59,0,1,   ,0
 2007-08-25,Mason County,Paris,27,7,2,   ,0
-2007-08-25,Massac. IL,Crittenden County,63,0,2,   ,0
+2007-08-25,Out of State,Crittenden County,63,0,2,   ,0
 2007-08-25,Mercer County,Russell County,34,7,2,   ,0
 2007-08-25,Metcalfe County,Barren County,26,17,2,   ,0
 2007-08-25,Montgomery County,George Rogers Clark,35,34,1,   ,0
 2007-08-25,Newport Central Catholic,Simon Kenton,43,6,1,   ,0
-2007-08-25,Owensboro,Evansville FJ Reitz. IN,22,3,2,   ,0
+2007-08-25,Owensboro,Out of State,22,3,2,   ,0
 2007-08-25,Pikeville,Holy Cross (Louisville),28,18,1,   ,0
 2007-08-25,Scott County,Boone County,28,20,2,   ,0
 2007-08-25,Shelby County,North Hardin,30,27,0,   ,0
@@ -124,9 +124,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-31,Bellevue,Paris,40,20,1,   ,0
 2007-08-31,Beth Haven,Jenkins,54,52,2,  (overtime) ,1
 2007-08-31,Boone County,Mason County,42,20,0,   ,0
-2007-08-31,Bracken County,Manchester. OH,20,6,1,   ,0
+2007-08-31,Bracken County,Out of State,20,6,1,   ,0
 2007-08-31,Breathitt County,Prestonsburg,12,7,1,   ,0
-2007-08-31,Bryan Station,Western,17,8,0,  forfeited by Western,0
+2007-08-31,Bryan Station,Western,17,8, score remains as played ,  forfeited by Western,0
 2007-08-31,Bullitt Central,Iroquois,32,26,0,   ,0
 2007-08-31,Bullitt East,DeSales,27,7,1,   ,0
 2007-08-31,Campbell County,Pendleton County,53,19,1,   ,0
@@ -145,7 +145,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-31,Fairview,East Carter,12,0,0,   ,0
 2007-08-31,Fern Creek,Doss,30,21,1,   ,0
 2007-08-31,Fleming County,Rowan County,21,18,1,   ,0
-2007-08-31,Fulton City,South Fulton. TN,40,0,0,   ,0
+2007-08-31,Fulton City,Out of State,40,0,0,   ,0
 2007-08-31,Gallatin County,Owen County,29,0,1,   ,0
 2007-08-31,Garrard County,Bethlehem,20,6,0,   ,0
 2007-08-31,Glasgow,Crittenden County,49,6,2,   ,0
@@ -154,11 +154,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-31,Grayson County,Butler County,7,0,0,   ,0
 2007-08-31,Green County,Hancock County,46,0,0,   ,0
 2007-08-31,Greenwood,Allen County-Scottsville,19,7,0,   ,0
-2007-08-31,Grundy. VA,East Ridge,26,24,0,   ,0
+2007-08-31,Out of State,East Ridge,26,24,0,   ,0
 2007-08-31,Harrison County,George Rogers Clark,17,13,0,   ,0
 2007-08-31,Hart County,Fort Knox,18,7,1,   ,0
 2007-08-31,Hazard,Clay County,34,33,1,   ,0
-2007-08-31,Heath,Carbondale. IL,32,16,0,   ,0
+2007-08-31,Heath,Out of State,32,16,0,   ,0
 2007-08-31,Henry Clay,Boyle County,47,43,0,   ,0
 2007-08-31,Holmes,Holy Cross (Covington),33,14,1,   ,0
 2007-08-31,Jackson County,Betsy Layne,24,20,0,   ,0
@@ -166,10 +166,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-31,John Hardin,Meade County,28,14,1,   ,0
 2007-08-31,Johnson Central,Conner,50,12,1,   ,0
 2007-08-31,Kentucky Country Day,Eminence,13,6,1,   ,0
-2007-08-31,Kenwood. TN,Henderson County,32,7,1,   ,0
+2007-08-31,Out of State,Henderson County,32,7,1,   ,0
 2007-08-31,Lafayette,Franklin County,28,12,0,   ,0
-2007-08-31,Lake County. TN,Fulton County,30,8,1,   ,0
-2007-08-31,Lee County-Jonesville. VA,Harlan,34,6,0,   ,0
+2007-08-31,Out of State,Fulton County,30,8,1,   ,0
+2007-08-31,Out of State,Harlan,34,6,0,   ,0
 2007-08-31,Letcher County Central,Greenup County,27,20,0,   ,0
 2007-08-31,Lexington Catholic,Scott County,38,7,0,   ,0
 2007-08-31,Lexington Christian,Christian Academy-Louisville,43,21,1,   ,0
@@ -184,7 +184,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-31,Marion County,Nelson County,21,14,1,   ,0
 2007-08-31,Marshall County,Hopkinsville,31,13,2,   ,0
 2007-08-31,McLean County,Murray,19,13,0,   ,0
-2007-08-31,Mercer County,Greeneville. TN,14,9,1,   ,0
+2007-08-31,Mercer County,Out of State,14,9,1,   ,0
 2007-08-31,Metcalfe County,Somerset,14,7,1,   ,0
 2007-08-31,Middlesboro,Knox Central,14,0,2,   ,0
 2007-08-31,Monroe County,Adair County,39,8,0,   ,0
@@ -205,7 +205,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-08-31,Russell County,Casey County,21,6,0,   ,0
 2007-08-31,Ryle,Newport,52,14,0,   ,0
 2007-08-31,Shawnee,Bishop Brossart,48,0,1,   ,0
-2007-08-31,Sheldon Clark,Fairland (Proctorville). OH,35,23,1,   ,0
+2007-08-31,Sheldon Clark,Out of State,35,23,1,   ,0
 2007-08-31,South Floyd,Evangel Christian,48,16,1,   ,0
 2007-08-31,South Laurel,North Laurel,20,7,0,   ,0
 2007-08-31,South Oldham,Holy Cross (Louisville),19,14,0,   ,0
@@ -225,7 +225,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-01,Lincoln County,Bardstown,20,18,2,   ,0
 2007-09-01,Newport Central Catholic,Covington Catholic,9,0,0,   ,0
 2007-09-01,Woodford County,Tates Creek,30,14,1,   ,0
-2007-09-02,Highlands,Trotwood Madison. OH,24,20,2,   ,0
+2007-09-02,Highlands,Out of State,24,20,2,   ,0
 2007-09-07,Allen Central,Phelps,28,0,0,   ,0
 2007-09-07,Anderson County,Grant County,24,20,0,   ,0
 2007-09-07,Apollo,Madisonville-North Hopkins,27,24,1,   ,0
@@ -237,7 +237,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-07,Bourbon County,West Jessamine,28,6,1,   ,0
 2007-09-07,Bowling Green,North Hardin,36,6,1,   ,0
 2007-09-07,Breathitt County,Boyd County,34,14,0,   ,0
-2007-09-07,Breckinridge County,Western,1,0,0,  original score Western 55-6,0
+2007-09-07,Breckinridge County,Western,1,0, forfeited later by Western ,  original score Western 55-6,0
 2007-09-07,Bullitt East,Bullitt Central,48,7,1,   ,0
 2007-09-07,Butler County,Adair County,43,7,1,   ,0
 2007-09-07,Caldwell County,Murray,27,14,0,   ,0
@@ -275,15 +275,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-07,Heath,Reidland,34,12,1,   ,0
 2007-09-07,Henry County,Owen County,21,6,1,   ,0
 2007-09-07,Highlands,Holmes,52,14,1,   ,0
-2007-09-07,Ironton. OH,Ashland Blazer,27,7,0,   ,0
+2007-09-07,Out of State,Ashland Blazer,27,7,0,   ,0
 2007-09-07,Jeffersontown,South Oldham,23,21,1,   ,0
 2007-09-07,John Hardin,Warren Central,41,26,0,   ,0
 2007-09-07,Johnson Central,Bryan Station,58,21,0,   ,0
 2007-09-07,Kentucky Country Day,Beth Haven,7,6,1,   ,0
 2007-09-07,LaRue County,Monroe County,27,8,1,   ,0
 2007-09-07,Lafayette,Shawnee,40,22,1,   ,0
-2007-09-07,Lasalle. OH,Henry Clay,55,26,0,   ,0
-2007-09-07,Lee County-Jonesville. VA,Middlesboro,20,19,2,   ,0
+2007-09-07,Out of State,Henry Clay,55,26,0,   ,0
+2007-09-07,Out of State,Middlesboro,20,19,2,   ,0
 2007-09-07,Leslie County,McCreary Central,42,36,0,   ,0
 2007-09-07,Letcher County Central,Perry County Central,63,14,1,   ,0
 2007-09-07,Lexington Christian,Paris,51,6,1,   ,0
@@ -297,14 +297,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-07,McLean County,Muhlenberg South,40,21,1,   ,0
 2007-09-07,Metcalfe County,Logan County,48,7,0,   ,0
 2007-09-07,Nelson County,Central Hardin,13,10,0,   ,0
-2007-09-07,Owensboro Catholic,South Spencer. IN,28,7,1,   ,0
+2007-09-07,Owensboro Catholic,Out of State,28,7,1,   ,0
 2007-09-07,Paducah Tilghman,Webster County,49,21,1,   ,0
 2007-09-07,Paintsville,South Floyd,27,14,1,   ,0
 2007-09-07,Pike County Central,Magoffin County,38,12,0,   ,0
 2007-09-07,Pikeville,Betsy Layne,52,0,0,   ,0
 2007-09-07,Pleasure Ridge Park,Doss,47,6,0,   ,0
 2007-09-07,Prestonsburg,Bath County,38,7,1,   ,0
-2007-09-07,Providence. IN,DeSales,36,20,2,   ,0
+2007-09-07,Out of State,DeSales,36,20,2,   ,0
 2007-09-07,Pulaski County,Russell County,50,28,0,   ,0
 2007-09-07,Rockcastle County,Madison Southern,34,7,1,   ,0
 2007-09-07,Russell,West Carter,53,15,1,   ,0
@@ -320,7 +320,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-07,Southwestern,South Laurel,41,17,1,   ,0
 2007-09-07,Spencer County,Carroll County,45,15,1,   ,0
 2007-09-07,St. Xavier,Lexington Catholic,41,9,0,   ,0
-2007-09-07,Tates Creek,George Rogers Clark,54,48,0,  (double overtime) ,0
+2007-09-07,Tates Creek,George Rogers Clark,54,48,0,  (double overtime) ,1
 2007-09-07,Todd County Central,Muhlenberg North,34,8,0,   ,0
 2007-09-07,Trigg County,Hopkins County Central,27,25,0,   ,0
 2007-09-07,Trimble County,Eminence,60,14,1,   ,0
@@ -331,8 +331,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-07,Williamsburg,Clinton County,59,8,1,   ,0
 2007-09-07,Woodford County,Montgomery County,21,14,0,   ,0
 2007-09-08,Cawood,Fleming County,34,29,1,   ,0
-2007-09-08,Haysi. VA,Berea,48,0,0,   ,0
-2007-09-08,Holy Cross (Covington),Western Hills. OH,33,20,1,   ,0
+2007-09-08,Out of State,Berea,48,0,0,   ,0
+2007-09-08,Holy Cross (Covington),Out of State,33,20,1,   ,0
 2007-09-08,Hopkinsville,Ohio County,31,7,1,   ,0
 2007-09-08,Owensboro,Christian County,24,22,0,   ,0
 2007-09-13,Green County,Campbellsville,51,0,0,   ,0
@@ -348,7 +348,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-14,Caldwell County,Heath,41,27,1,   ,0
 2007-09-14,Central,Bullitt East,22,21,1,   ,0
 2007-09-14,Christian County,Warren Central,23,21,1,   ,0
-2007-09-14,Cincinnati St. Xavier. OH,Trinity (Louisville),47,31,1,   ,0
+2007-09-14,Out of State,Trinity (Louisville),47,31,1,   ,0
 2007-09-14,Corbin,South Laurel,33,26,0,   ,0
 2007-09-14,Cumberland,Jenkins,49,7,0,   ,0
 2007-09-14,Danville,George Rogers Clark,13,12,1,   ,0
@@ -373,18 +373,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-14,Hazard,Harlan,34,0,0,   ,0
 2007-09-14,Highlands,Dixie Heights,44,14,0,   ,0
 2007-09-14,Holy Cross (Louisville),Caverna,49,6,0,   ,0
-2007-09-14,Hopkins County Central,Boonville. IN,33,14,1,   ,0
+2007-09-14,Hopkins County Central,Out of State,33,14,1,   ,0
 2007-09-14,John Hardin,Bardstown,28,20,1,   ,0
-2007-09-14,Johnson Central,Wheelersburg. OH,14,3,0,   ,0
+2007-09-14,Johnson Central,Out of State,14,3,0,   ,0
 2007-09-14,Knox Central,McCreary Central,32,6,1,   ,0
 2007-09-14,Lafayette,Boyle County,30,6,1,   ,0
-2007-09-14,Lee County-Jonesville. VA,Cawood,28,0,0,   ,0
+2007-09-14,Out of State,Cawood,28,0,0,   ,0
 2007-09-14,Letcher County Central,Clay County,40,37,0,   ,0
 2007-09-14,Lexington Catholic,Pikeville,38,6,0,   ,0
 2007-09-14,Lexington Christian,Lloyd Memorial,52,32,0,   ,0
 2007-09-14,Lincoln County,Southwestern,49,24,1,   ,0
 2007-09-14,Logan County,Todd County Central,50,30,0,   ,0
-2007-09-14,Lone Oak,Obion County Central. TN,59,6,0,   ,0
+2007-09-14,Lone Oak,Out of State,59,6,0,   ,0
 2007-09-14,Lynn Camp,Clinton County,55,14,0,   ,0
 2007-09-14,Madison Central,Tates Creek,27,21,1,   ,0
 2007-09-14,Madisonville-North Hopkins,Hopkinsville,29,15,1,   ,0
@@ -407,7 +407,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-14,Owensboro Catholic,Apollo,28,7,1,   ,0
 2007-09-14,Paintsville,Allen Central,44,13,0,   ,0
 2007-09-14,Pendleton County,Henry County,33,26,1,   ,0
-2007-09-14,Phelps,Hurley. VA,13,6,1,   ,0
+2007-09-14,Phelps,Out of State,13,6,1,   ,0
 2007-09-14,Pike County Central,Boyd County,33,14,1,   ,0
 2007-09-14,Prestonsburg,Lawrence County,42,12,1,   ,0
 2007-09-14,Pulaski County,Mercer County,23,22,1,   ,0
@@ -419,7 +419,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-14,Sheldon Clark,East Ridge,45,6,1,   ,0
 2007-09-14,Somerset,Garrard County,65,20,1,   ,0
 2007-09-14,South Floyd,Betsy Layne,28,22,0,   ,0
-2007-09-14,South Point. OH,Greenup County,35,23,1,   ,0
+2007-09-14,Out of State,Greenup County,35,23,1,   ,0
 2007-09-14,Southern,Iroquois,26,7,0,   ,0
 2007-09-14,St. Xavier,Male,42,6,0,   ,0
 2007-09-14,Taylor County,Casey County,39,13,1,   ,0
@@ -538,9 +538,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-21,Warren East,Franklin-Simpson,34,7,0,   ,0
 2007-09-21,Webster County,Muhlenberg South,33,7,0,   ,0
 2007-09-21,Woodford County,Johnson Central,43,22,0,   ,0
-2007-09-22,Anderson County,Mitchell. IN,25,9,0,   ,0
+2007-09-22,Anderson County,Out of State,25,9,0,   ,0
 2007-09-22,Highlands,Covington Catholic,28,14,0,   ,0
-2007-09-22,Open,Evangel Christian,-,-,0,   ,0
+2007-09-22,Out of State,Evangel Christian,-,-,0,   ,0
 2007-09-27,South Floyd,Phelps,26,6,1,   ,0
 2007-09-28,Allen Central,Betsy Layne,56,28,1,   ,0
 2007-09-28,Anderson County,Bullitt Central,21,7,0,   ,0
@@ -549,7 +549,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-28,Barren County,Ohio County,49,28,1,   ,0
 2007-09-28,Bath County,Powell County,45,13,0,   ,0
 2007-09-28,Belfry,Pikeville,49,7,1,   ,0
-2007-09-28,Bell County,Churchill Volunteer. TN,49,21,1,   ,0
+2007-09-28,Bell County,Out of State,49,21,1,   ,0
 2007-09-28,Bellevue,Bracken County,52,8,1,   ,0
 2007-09-28,Bethlehem,Caverna,55,14,1,   ,0
 2007-09-28,Bowling Green,Franklin-Simpson,69,10,0,   ,0
@@ -579,7 +579,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-28,Fort Campbell,Fort Knox,56,0,1,   ,0
 2007-09-28,Frankfort,Garrard County,34,0,0,   ,0
 2007-09-28,Franklin County,Woodford County,17,14,1,   ,0
-2007-09-28,Fulton County,South Fulton. TN,34,14,0,   ,0
+2007-09-28,Fulton County,Out of State,34,14,0,   ,0
 2007-09-28,Grant County,Scott,14,13,1,  (overtime) ,1
 2007-09-28,Grayson County,McLean County,34,16,1,   ,0
 2007-09-28,Green County,Taylor County,56,12,1,   ,0
@@ -589,7 +589,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-28,Henry County,Eminence,29,20,0,   ,0
 2007-09-28,John Hardin,North Hardin,21,7,0,   ,0
 2007-09-28,Kentucky Country Day,Shawnee,36,12,1,   ,0
-2007-09-28,Knott County Central,East Ridge,1,0,1,  original score East Ridge 34-6,0
+2007-09-28,Knott County Central,East Ridge,1,0, forfeited later by East Ridge ,  original score East Ridge 34-6,0
 2007-09-28,Knox Central,Shelby Valley,28,7,0,   ,0
 2007-09-28,Lafayette,Bryan Station,27,9,1,   ,0
 2007-09-28,Letcher County Central,Leslie County,49,13,1,   ,0
@@ -613,7 +613,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-28,Nicholas County,Bourbon County,33,12,1,   ,0
 2007-09-28,North Bullitt,Jeffersontown,36,14,1,   ,0
 2007-09-28,North Oldham,South Oldham,30,22,1,   ,0
-2007-09-28,Oneida. TN,McCreary Central,38,12,1,   ,0
+2007-09-28,Out of State,McCreary Central,38,12,1,   ,0
 2007-09-28,Pendleton County,Ludlow,28,22,0,   ,0
 2007-09-28,Perry County Central,Whitley County,56,42,1,   ,0
 2007-09-28,Pineville,Jackson County,19,6,1,   ,0
@@ -628,15 +628,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-09-28,Sheldon Clark,Rowan County,18,7,0,   ,0
 2007-09-28,Simon Kenton,Holmes,38,13,1,   ,0
 2007-09-28,Southwestern,Paul Laurence Dunbar,27,21,1,   ,0
-2007-09-28,St. Xavier,Trinity,24,15,2,   ,0
-2007-09-28,Tolsia. WV,Pike County Central,27,6,1,   ,0
+2007-09-28,St. Xavier,Trinity (Louisville),24,15,2,   ,0
+2007-09-28,Out of State,Pike County Central,27,6,1,   ,0
 2007-09-28,Trimble County,Carroll County,36,23,0,   ,0
-2007-09-28,Upperman. TN,Clinton County,40,7,0,   ,0
+2007-09-28,Out of State,Clinton County,40,7,0,   ,0
 2007-09-28,Warren East,Logan County,58,0,1,   ,0
-2007-09-28,Watertown. TN,Mercer County,10,7,1,   ,0
+2007-09-28,Out of State,Mercer County,10,7,1,   ,0
 2007-09-28,Wayne County,Russell County,20,17,0,   ,0
-2007-09-28,Westmoreland. TN,Allen County-Scottsville,26,20,1,   ,0
-2007-09-29,DeSales,Holy Cross,37,13,2,   ,0
+2007-09-28,Out of State,Allen County-Scottsville,26,20,1,   ,0
+2007-09-29,DeSales,Holy Cross (Louisville),37,13,2,   ,0
 2007-09-29,Gallatin County,Evarts,27,14,1,   ,0
 2007-09-29,Highlands,Hopkinsville,42,8,1,   ,0
 2007-09-29,Owensboro,Boone County,14,3,0,   ,0
@@ -663,7 +663,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-05,Anderson County,South Oldham,28,19,1,   ,0
 2007-10-05,Atherton,Breckinridge County,20,6,0,   ,0
 2007-10-05,Bath County,Morgan County,62,8,0,   ,0
-2007-10-05,Bay Point. FL,Kentucky Country Day,36,0,2,   ,0
+2007-10-05,Out of State,Kentucky Country Day,36,0,2,   ,0
 2007-10-05,Bell County,Madison Southern,51,7,0,   ,0
 2007-10-05,Berea,Clinton County,30,28,0,  (overtime) ,1
 2007-10-05,Boone County,Simon Kenton,41,3,1,   ,0
@@ -741,14 +741,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-05,Wayne County,Taylor County,28,21,1,   ,0
 2007-10-05,West Carter,East Carter,38,12,1,   ,0
 2007-10-06,Beechwood,Prestonsburg,38,21,0,   ,0
-2007-10-06,Evansville North. IN,Christian County,44,22,0,   ,0
+2007-10-06,Out of State,Christian County,44,22,0,   ,0
 2007-10-06,Holy Cross (Covington),Lloyd Memorial,38,28,1,   ,0
 2007-10-06,Woodford County,Ashland Blazer,48,13,1,   ,0
 2007-10-11,Boone County,Dixie Heights,43,27,0,   ,0
 2007-10-11,Danville,Russellville,54,22,0,   ,0
 2007-10-11,Letcher County Central,East Ridge,65,8,1,   ,0
 2007-10-12,Allen Central,Jackson County,46,36,1,   ,0
-2007-10-12,Appalachia. VA,Shelby Valley,40,22,1,   ,0
+2007-10-12,Out of State,Shelby Valley,40,22,1,   ,0
 2007-10-12,Ashland Blazer,Greenup County,33,12,1,   ,0
 2007-10-12,Barren County,Adair County,35,6,1,   ,0
 2007-10-12,Bath County,Fairview,47,30,1,   ,0
@@ -764,7 +764,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-12,Casey County,Bracken County,16,7,0,   ,0
 2007-10-12,Central Hardin,Southwestern,31,22,0,   ,0
 2007-10-12,Christian County,Trigg County,49,28,0,   ,0
-2007-10-12,Cincinnati Elder. OH,Covington Catholic,35,6,1,   ,0
+2007-10-12,Out of State,Covington Catholic,35,6,1,   ,0
 2007-10-12,Clay County,Edmonson County,22,8,0,   ,0
 2007-10-12,Corbin,North Laurel,39,14,1,   ,0
 2007-10-12,Crittenden County,Union County,42,22,0,   ,0
@@ -782,7 +782,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-12,Hancock County,McLean County,32,6,1,   ,0
 2007-10-12,Harrison County,Rockcastle County,34,22,1,   ,0
 2007-10-12,Hazard,Cumberland,46,20,0,   ,0
-2007-10-12,Heath,Halls. TN,48,14,1,   ,0
+2007-10-12,Heath,Out of State,48,14,1,   ,0
 2007-10-12,Henderson County,Apollo,35,28,1,   ,0
 2007-10-12,Henry Clay,Bryan Station,35,7,0,   ,0
 2007-10-12,Henry County,Carroll County,42,14,1,   ,0
@@ -863,7 +863,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-19,Christian Academy-Louisville,Owen County,51,6,1,   ,0
 2007-10-19,Christian County,Ohio County,34,16,0,   ,0
 2007-10-19,Clay County,Whitley County,26,20,1,   ,0
-2007-10-19,Conner,Dayton Belmont. OH,40,24,1,   ,0
+2007-10-19,Conner,Out of State,40,24,1,   ,0
 2007-10-19,Corbin,Leslie County,47,0,1,   ,0
 2007-10-19,Covington Catholic,Holmes,24,0,0,   ,0
 2007-10-19,Crittenden County,Fulton County,40,12,1,   ,0
@@ -878,7 +878,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-19,Elizabethtown,Shawnee,52,8,1,   ,0
 2007-10-19,Estill County,Cawood,51,12,1,   ,0
 2007-10-19,Fairdale,Breckinridge County,56,0,1,   ,0
-2007-10-19,Fleming County,West Carter,41,34,1,  (triple overtime) ,0
+2007-10-19,Fleming County,West Carter,41,34,1,  (triple overtime) ,1
 2007-10-19,Fort Campbell,Owensboro Catholic,29,6,0,   ,0
 2007-10-19,Frankfort,Eminence,37,8,0,   ,0
 2007-10-19,Franklin County,Harrison County,38,6,1,   ,0
@@ -942,7 +942,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-19,Webster County,Butler County,21,10,1,   ,0
 2007-10-19,Williamsburg,Lynn Camp,40,34,0,   ,0
 2007-10-20,Dayton,Bishop Brossart,56,0,0,   ,0
-2007-10-20,Williamson. WV,Berea,21,20,1,   ,0
+2007-10-20,Out of State,Berea,21,20,1,   ,0
 2007-10-26,Allen Central,Knott County Central,39,36,0,   ,0
 2007-10-26,Anderson County,Marion County,21,19,1,   ,0
 2007-10-26,Ballard,Fern Creek,42,25,0,   ,0
@@ -967,7 +967,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-26,Christian Academy-Louisville,Bishop Brossart,34,0,1,   ,0
 2007-10-26,Clay County,Morgan County,49,8,0,   ,0
 2007-10-26,Corbin,Somerset,56,47,0,   ,0
-2007-10-26,Covington Catholic,Columbus St. Charles. OH,38,13,0,   ,0
+2007-10-26,Covington Catholic,Out of State,38,13,0,   ,0
 2007-10-26,Daviess County,Hancock County,24,8,1,   ,0
 2007-10-26,Dayton,Newport,20,7,1,   ,0
 2007-10-26,DeSales,Southern,28,27,0,  (overtime) ,1
@@ -993,7 +993,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-26,Holy Cross (Louisville),Butler,40,17,0,   ,0
 2007-10-26,Hopkins County Central,Union County,14,8,1,   ,0
 2007-10-26,Hopkinsville,Warren Central,30,14,1,   ,0
-2007-10-26,Jackson County,South Floyd,48,42,1,  (double overtime) ,0
+2007-10-26,Jackson County,South Floyd,48,42,1,  (double overtime) ,1
 2007-10-26,Jenkins,Betsy Layne,45,15,1,   ,0
 2007-10-26,John Hardin,Nelson County,35,21,0,   ,0
 2007-10-26,Johnson Central,Ashland Blazer,67,33,1,   ,0
@@ -1010,7 +1010,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-10-26,Metcalfe County,Caverna,52,0,0,   ,0
 2007-10-26,Monroe County,Allen County-Scottsville,14,7,0,   ,0
 2007-10-26,Montgomery County,Madison Southern,32,6,0,   ,0
-2007-10-26,Murray,Franklin Roads Academy. TN,47,24,0,   ,0
+2007-10-26,Murray,Out of State,47,24,0,   ,0
 2007-10-26,Newport Central Catholic,Campbell County,26,23,1,  (overtime) ,1
 2007-10-26,Nicholas County,Bracken County,59,0,1,   ,0
 2007-10-26,Owensboro,Henderson County,14,3,1,   ,0
@@ -1089,7 +1089,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-11-02,Holmes,Conner,34,6,0,   ,0
 2007-11-02,Holy Cross (Covington),Knox Central,9,0,1,   ,0
 2007-11-02,Hopkins County Central,Hancock County,40,7,0,   ,0
-2007-11-02,Jenkins,Ervinton. VA,52,6,1,   ,0
+2007-11-02,Jenkins,Out of State,52,6,1,   ,0
 2007-11-02,John Hardin,Central Hardin,49,31,1,   ,0
 2007-11-02,Letcher County Central,Lawrence County,31,14,1,   ,0
 2007-11-02,Lewis County,Bracken County,56,6,1,   ,0
@@ -1237,7 +1237,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-11-09,St. Xavier,Butler,62,0,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
 2007-11-09,Trinity (Louisville),Seneca,49,0,1,  Class 6A KHSAA Commonwealth Gridiron Bowl  ,0
 2007-11-16,Beechwood,Bellevue,35,2,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
-2007-11-16,Campbellsville,Williamsburg,38,36,0,  Class 1A KHSAA Commonwealth Gridiron Bowl (double overtime) ,0
+2007-11-16,Campbellsville,Williamsburg,38,36,0,  Class 1A KHSAA Commonwealth Gridiron Bowl (double overtime) ,1
 2007-11-16,Frankfort,Trimble County,57,16,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2007-11-16,Hazard,Cumberland,33,27,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
 2007-11-16,Holy Cross (Louisville),Bethlehem,31,6,1,  Class 1A KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1325,4 +1325,4 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2007-12-07,Highlands,Bowling Green,28,7,2,  Class 5A KHSAA Commonwealth Gridiron Bowl  ,0
 2007-12-08,Fort Campbell,Newport Central Catholic,21,7,2,  Class 2A KHSAA Commonwealth Gridiron Bowl  ,0
 2007-12-08,Lexington Catholic,Lone Oak,49,7,2,  Class 4A KHSAA Commonwealth Gridiron Bowl  ,0
-2007-12-08,Trinity (Louisville),St. Xavier,34,28,2,  Class 6A KHSAA Commonwealth Gridiron Bowl overtime ,0
+2007-12-08,Trinity (Louisville),St. Xavier,34,28,2,  Class 6A KHSAA Commonwealth Gridiron Bowl overtime ,1

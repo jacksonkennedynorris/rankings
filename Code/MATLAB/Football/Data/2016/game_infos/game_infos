@@ -6,13 +6,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-19,Betsy Layne,South Floyd,14,6,1,  (overtime) ,1
 2016-08-19,Bishop Brossart,Dayton,40,6,0,   ,0
 2016-08-19,Boyd County,Lawrence County,24,20,1,   ,0
-2016-08-19,Bracken County,Switzerland County. IN,54,26,1,   ,0
+2016-08-19,Bracken County,Out of State,54,26,1,   ,0
 2016-08-19,Bullitt Central,Henry County,14,0,2,   ,0
 2016-08-19,Butler,Meade County,20,13,1,   ,0
 2016-08-19,Butler County,Logan County,53,14,0,   ,0
 2016-08-19,Calloway County,Ohio County,22,0,1,   ,0
 2016-08-19,Casey County,Powell County,37,0,0,   ,0
-2016-08-19,Clinton County,Pickett County. TN,57,26,0,   ,0
+2016-08-19,Clinton County,Out of State,57,26,0,   ,0
 2016-08-19,Corbin,Whitley County,42,6,1,   ,0
 2016-08-19,Crittenden County,Todd County Central,28,14,0,   ,0
 2016-08-19,Danville,LaRue County,47,13,0,   ,0
@@ -20,25 +20,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-19,DeSales,Fairdale,30,0,1,   ,0
 2016-08-19,Doss,Jeffersontown,40,0,1,   ,0
 2016-08-19,DuPont Manual,Central,21,20,0,   ,0
-2016-08-19,East Central. IN,Campbell County,21,7,2,   ,0
+2016-08-19,Out of State,Campbell County,21,7,2,   ,0
 2016-08-19,East Jessamine,Elizabethtown,20,15,2,   ,0
 2016-08-19,Eastern,Bullitt East,36,32,0,   ,0
 2016-08-19,Edmonson County,Caverna,46,8,0,   ,0
 2016-08-19,Eminence,Trimble County,36,0,1,   ,0
-2016-08-19,Evansville Central. IN,Holy Cross,55,13,2,   ,0
-2016-08-19,Evansville F.J. Reitz. IN,Henderson County,42,7,0,   ,0
-2016-08-19,Evansville Harrison. IN,Madisonville-North Hopkins,41,14,0,   ,0
-2016-08-19,Evansville Mater Dei. IN,Owensboro Catholic,54,29,0,   ,0
+2016-08-19,Out of State,Holy Cross (Louisville),55,13,2,   ,0
+2016-08-19,Out of State,Henderson County,42,7,0,   ,0
+2016-08-19,Out of State,Madisonville-North Hopkins,41,14,0,   ,0
+2016-08-19,Out of State,Owensboro Catholic,54,29,0,   ,0
 2016-08-19,Fairview,Bath County,46,6,0,   ,0
 2016-08-19,Fern Creek,Seneca,33,0,0,   ,0
 2016-08-19,Fleming County,Estill County,49,7,1,   ,0
-2016-08-19,Franklin-Simpson,Portland. TN,46,0,1,   ,0
+2016-08-19,Franklin-Simpson,Out of State,46,0,1,   ,0
 2016-08-19,Gallatin County,Bellevue,30,6,0,   ,0
 2016-08-19,Garrard County,Shelby County,41,31,1,   ,0
 2016-08-19,Glasgow,Campbellsville,60,14,1,   ,0
-2016-08-19,Gleason. TN,Fulton County,44,0,1,   ,0
+2016-08-19,Out of State,Fulton County,44,0,1,   ,0
 2016-08-19,Grant County,Carroll County,28,12,0,   ,0
-2016-08-19,Greenfield. TN,Fulton City,40,12,1,   ,0
+2016-08-19,Out of State,Fulton City,40,12,1,   ,0
 2016-08-19,Greenup County,Lewis County,56,12,0,   ,0
 2016-08-19,Greenwood,Warren East,39,7,1,   ,0
 2016-08-19,Hancock County,Grayson County,42,8,0,   ,0
@@ -56,7 +56,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-19,Lloyd Memorial,Walton-Verona,38,0,2,   ,0
 2016-08-19,Ludlow,Newport,42,0,0,   ,0
 2016-08-19,Madison Southern,Lincoln County,21,14,0,   ,0
-2016-08-19,Male,Floyd Central. IN,34,10,0,   ,0
+2016-08-19,Male,Out of State,34,10,0,   ,0
 2016-08-19,Mayfield,Fort Campbell,56,0,1,   ,0
 2016-08-19,McCreary Central,Jenkins,55,8,1,   ,0
 2016-08-19,McLean County,Breckinridge County,28,6,0,   ,0
@@ -80,9 +80,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-19,Simon Kenton,Christian Academy-Louisville,41,14,0,   ,0
 2016-08-19,Somerset,Mason County,34,7,0,   ,0
 2016-08-19,South Oldham,Anderson County,31,14,1,   ,0
-2016-08-19,Southwestern,Jeffersonville. IN,56,26,2,   ,0
+2016-08-19,Southwestern,Out of State,56,26,2,   ,0
 2016-08-19,Thomas Nelson,Fort Knox,47,8,1,   ,0
-2016-08-19,Trinity (Louisville),Ensworth. TN,14,7,0,   ,0
+2016-08-19,Trinity (Louisville),Out of State,14,7,0,   ,0
 2016-08-19,Waggener,Iroquois,41,6,1,   ,0
 2016-08-19,West Jessamine,Harrison County,27,8,1,   ,0
 2016-08-19,Western,North Oldham,41,19,0,   ,0
@@ -100,14 +100,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-20,Hopkinsville,Graves County,44,22,2,   ,0
 2016-08-20,Madison Central,Knox Central,8,7,1,   ,0
 2016-08-20,Marion County,Nelson County,54,21,0,   ,0
-2016-08-20,Murray,West Greene. TN,17,12,1,   ,0
+2016-08-20,Murray,Out of State,17,12,1,   ,0
 2016-08-20,Newport Central Catholic,Scott,47,21,1,   ,0
 2016-08-20,North Hardin,Boyle County,21,20,2,  (overtime) ,1
 2016-08-20,South Warren,Monroe County,56,14,2,   ,0
 2016-08-21,McCracken County,Paducah Tilghman,41,6,0,   ,0
-2016-08-25,Covington Catholic,Oak Hills. OH,56,48,2,   ,0
+2016-08-25,Covington Catholic,Out of State,56,48,2,   ,0
 2016-08-26,Adair County,Caverna,53,6,1,   ,0
-2016-08-26,Aiken. OH,Bishop Brossart,56,14,0,   ,0
+2016-08-26,Out of State,Bishop Brossart,56,14,0,   ,0
 2016-08-26,Anderson County,George Rogers Clark,24,14,1,   ,0
 2016-08-26,Bath County,Rowan County,40,14,0,   ,0
 2016-08-26,Beechwood,Lloyd Memorial,12,0,1,   ,0
@@ -129,13 +129,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-26,Danville,Southwestern,35,34,1,   ,0
 2016-08-26,DeSales,Butler,17,0,0,   ,0
 2016-08-26,DuPont Manual,Fern Creek,14,0,1,   ,0
-2016-08-26,East Carter,West Union. OH,33,0,0,   ,0
+2016-08-26,East Carter,Out of State,33,0,0,   ,0
 2016-08-26,East Jessamine,Lincoln County,32,27,0,   ,0
 2016-08-26,East Ridge,Phelps,38,18,2,   ,0
 2016-08-26,Elizabethtown,Marion County,41,6,1,   ,0
 2016-08-26,Eminence,Berea,46,0,0,   ,0
 2016-08-26,Estill County,Magoffin County,48,14,1,   ,0
-2016-08-26,Evansville Reitz Memorial. IN,Henderson County,54,7,1,   ,0
+2016-08-26,Out of State,Henderson County,54,7,1,   ,0
 2016-08-26,Fleming County,Mason County,31,0,1,   ,0
 2016-08-26,Franklin-Simpson,Caldwell County,14,6,0,   ,0
 2016-08-26,Grant County,Owen County,20,13,1,   ,0
@@ -148,11 +148,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-26,Henry County,Carroll County,21,0,0,   ,0
 2016-08-26,Holy Cross (Louisville),Campbellsville,21,13,2,   ,0
 2016-08-26,Hopkins County Central,Crittenden County,24,19,1,   ,0
-2016-08-26,Hopkinsville,West Creek. TN,42,14,0,   ,0
+2016-08-26,Hopkinsville,Out of State,42,14,0,   ,0
 2016-08-26,Jeffersontown,Iroquois,20,9,0,   ,0
-2016-08-26,Johnson Central,Capital. WV,23,6,1,   ,0
+2016-08-26,Johnson Central,Out of State,23,6,1,   ,0
 2016-08-26,Knox Central,Waggener,46,7,2,   ,0
-2016-08-26,Lake County. TN,Fulton County,22,0,0,   ,0
+2016-08-26,Out of State,Fulton County,22,0,0,   ,0
 2016-08-26,Lawrence County,Montgomery County,30,28,1,   ,0
 2016-08-26,Leslie County,Knott County Central,35,0,0,   ,0
 2016-08-26,Lexington Christian,Kentucky Country Day,56,20,1,   ,0
@@ -168,7 +168,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-26,Moore,Shawnee,2,0,0,  forfeit ,0
 2016-08-26,Morgan County,Betsy Layne,46,0,0,   ,0
 2016-08-26,Muhlenberg County,Logan County,42,28,1,   ,0
-2016-08-26,Newport,Finneytown. OH,16,14,1,   ,0
+2016-08-26,Newport,Out of State,16,14,1,   ,0
 2016-08-26,Nicholas County,Pendleton County,21,0,1,   ,0
 2016-08-26,North Bullitt,Southern,55,7,0,   ,0
 2016-08-26,North Hardin,John Hardin,25,10,0,   ,0
@@ -181,7 +181,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-26,Pleasure Ridge Park,Meade County,46,6,0,   ,0
 2016-08-26,Prestonsburg,Sheldon Clark,41,8,1,   ,0
 2016-08-26,Raceland,Ashland Blazer,20,13,0,   ,0
-2016-08-26,Ridgeview. VA,Jenkins,66,0,1,   ,0
+2016-08-26,Out of State,Jenkins,66,0,1,   ,0
 2016-08-26,Rockcastle County,Bourbon County,38,7,2,   ,0
 2016-08-26,Russell County,LaRue County,34,31,0,   ,0
 2016-08-26,Russellville,Fort Campbell,41,6,0,   ,0
@@ -195,8 +195,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-08-26,South Warren,Apollo,43,22,1,   ,0
 2016-08-26,Spencer County,Nelson County,55,12,0,   ,0
 2016-08-26,St. Xavier,Lexington Catholic,42,28,0,   ,0
-2016-08-26,Switzerland County. IN,Gallatin County,32,0,1,   ,0
-2016-08-26,Trinity (Louisville),Brentwood Academy. TN,35,21,1,   ,0
+2016-08-26,Out of State,Gallatin County,32,0,1,   ,0
+2016-08-26,Trinity (Louisville),Out of State,35,21,1,   ,0
 2016-08-26,Union County,Hancock County,40,13,0,   ,0
 2016-08-26,Valley,Atherton,28,13,1,   ,0
 2016-08-26,Wayne County,North Laurel,55,0,0,   ,0
@@ -231,11 +231,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-02,Bethlehem,Berea,47,0,1,   ,0
 2016-09-02,Bishop Brossart,Bellevue,13,6,1,   ,0
 2016-09-02,Bowling Green,St. Xavier,31,10,1,   ,0
-2016-09-02,Boyd County,South Point. OH,34,8,1,   ,0
+2016-09-02,Boyd County,Out of State,34,8,1,   ,0
 2016-09-02,Bullitt Central,Southern,21,8,1,   ,0
 2016-09-02,Butler,Western,25,22,0,   ,0
 2016-09-02,Campbell County,Newport Central Catholic,33,28,0,   ,0
-2016-09-02,Carroll County,Switzerland County. IN,29,12,1,   ,0
+2016-09-02,Carroll County,Out of State,29,12,1,   ,0
 2016-09-02,Casey County,Russell County,38,19,0,   ,0
 2016-09-02,Central Hardin,Bullitt East,50,19,0,   ,0
 2016-09-02,Christian Academy-Louisville,Central,44,14,1,   ,0
@@ -243,9 +243,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-02,Collins,Eastern,28,21,0,   ,0
 2016-09-02,Cooper,Bryan Station,52,28,1,   ,0
 2016-09-02,Corbin,Clay County,40,0,0,   ,0
-2016-09-02,Covington Catholic,Sycamore. OH,34,33,1,  OT ,0
+2016-09-02,Covington Catholic,Out of State,34,33,1,  OT ,0
 2016-09-02,Danville,Boyle County,43,15,0,   ,0
-2016-09-02,Dixie Heights,Milford. OH,28,13,1,   ,0
+2016-09-02,Dixie Heights,Out of State,28,13,1,   ,0
 2016-09-02,DuPont Manual,Seneca,48,6,1,   ,0
 2016-09-02,Edmonson County,Grayson County,42,6,1,   ,0
 2016-09-02,Elizabethtown,North Oldham,39,3,0,   ,0
@@ -257,19 +257,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-02,Fulton City,Fulton County,40,18,1,   ,0
 2016-09-02,Gallatin County,Bracken County,31,27,1,   ,0
 2016-09-02,Garrard County,Lincoln County,14,7,1,   ,0
-2016-09-02,George Washington. WV,Ashland Blazer,49,6,1,   ,0
+2016-09-02,Out of State,Ashland Blazer,49,6,1,   ,0
 2016-09-02,Glasgow,Barren County,49,12,1,   ,0
 2016-09-02,Graves County,Murray,27,7,1,   ,0
 2016-09-02,Greenup County,Fleming County,31,30,1,   ,0
 2016-09-02,Greenwood,South Warren,17,16,1,   ,0
 2016-09-02,Hancock County,Ohio County,42,28,1,   ,0
-2016-09-02,Harlan,Thomas Walker. VA,41,6,1,   ,0
+2016-09-02,Harlan,Out of State,41,6,1,   ,0
 2016-09-02,Harrison County,Montgomery County,33,20,0,   ,0
 2016-09-02,Hart County,Todd County Central,43,8,1,   ,0
 2016-09-02,Hazard,Letcher County Central,23,19,0,   ,0
 2016-09-02,Henry Clay,George Rogers Clark,34,6,0,   ,0
 2016-09-02,Henry County,Owen County,14,10,1,   ,0
-2016-09-02,Holy Cross (Louisville),Providence. IN,14,7,1,   ,0
+2016-09-02,Holy Cross (Louisville),Out of State,14,7,1,   ,0
 2016-09-02,Hopkinsville,Fort Campbell,41,0,2,   ,0
 2016-09-02,John Hardin,Warren Central,69,0,0,   ,0
 2016-09-02,Johnson Central,Lexington Catholic,54,27,1,   ,0
@@ -302,7 +302,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-02,Pendleton County,Dayton,16,7,1,   ,0
 2016-09-02,Pleasure Ridge Park,Doss,45,7,1,   ,0
 2016-09-02,Rockcastle County,South Laurel,47,20,1,   ,0
-2016-09-02,Russell,Ironton. OH,13,6,1,   ,0
+2016-09-02,Russell,Out of State,13,6,1,   ,0
 2016-09-02,Russellville,Butler County,50,42,1,   ,0
 2016-09-02,Scott,Newport,56,16,1,   ,0
 2016-09-02,Scott County,Highlands,42,33,0,   ,0
@@ -320,10 +320,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-02,Trinity (Louisville),Lafayette,45,7,0,   ,0
 2016-09-02,Union County,Webster County,47,6,1,   ,0
 2016-09-02,Valley,Iroquois,46,6,0,   ,0
-2016-09-02,Van. WV,Phelps,41,13,0,   ,0
+2016-09-02,Out of State,Phelps,41,13,0,   ,0
 2016-09-02,Walton-Verona,Holmes,17,0,1,   ,0
 2016-09-02,Wayne County,Perry County Central,50,6,0,   ,0
-2016-09-03,Cincinnati Hills Christian Academy. OH,Breathitt County,53,0,0,   ,0
+2016-09-03,Out of State,Breathitt County,53,0,0,   ,0
 2016-09-03,Daviess County,Warren East,41,19,1,   ,0
 2016-09-03,Raceland,East Carter,52,6,1,   ,0
 2016-09-09,Adair County,Metcalfe County,37,28,0,   ,0
@@ -346,39 +346,39 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-09,Casey County,Lincoln County,49,42,0,   ,0
 2016-09-09,Christian Academy-Louisville,Oldham County,43,7,0,   ,0
 2016-09-09,Christian County,Fort Campbell,44,3,0,   ,0
-2016-09-09,Cincinnati Elder. OH,Scott County,20,14,0,   ,0
+2016-09-09,Out of State,Scott County,20,14,0,   ,0
 2016-09-09,Conner,Scott,60,8,1,   ,0
 2016-09-09,Cooper,Campbell County,44,14,0,   ,0
 2016-09-09,Corbin,Danville,28,7,0,   ,0
 2016-09-09,Covington Catholic,Lexington Catholic,21,20,1,   ,0
 2016-09-09,Daviess County,Hancock County,42,10,1,   ,0
-2016-09-09,Dayton,New Miami. OH,27,20,0,   ,0
+2016-09-09,Dayton,Out of State,27,20,0,   ,0
 2016-09-09,DeSales,Holy Cross (Louisville),54,0,0,   ,0
-2016-09-09,Dresden. TN,Ballard Memorial,69,18,1,   ,0
+2016-09-09,Out of State,Ballard Memorial,69,18,1,   ,0
 2016-09-09,East Jessamine,Clay County,49,28,0,   ,0
-2016-09-09,East Ridge,Twin Valley. VA,42,32,0,   ,0
+2016-09-09,East Ridge,Out of State,42,32,0,   ,0
 2016-09-09,Eastern,Paul Laurence Dunbar,33,20,0,   ,0
 2016-09-09,Fern Creek,Butler,27,7,1,   ,0
 2016-09-09,Fleming County,Rowan County,48,9,0,   ,0
 2016-09-09,Franklin-Simpson,Greenwood,24,20,0,   ,0
 2016-09-09,Gallatin County,Ludlow,17,15,1,   ,0
 2016-09-09,George Rogers Clark,Montgomery County,28,14,1,   ,0
-2016-09-09,Gibson County. TN,Fulton City,48,6,1,   ,0
+2016-09-09,Out of State,Fulton City,48,6,1,   ,0
 2016-09-09,Glasgow,Allen County-Scottsville,28,26,1,   ,0
 2016-09-09,Graves County,Paducah Tilghman,43,42,0,   ,0
 2016-09-09,Harrison County,Grant County,39,18,1,   ,0
 2016-09-09,Hart County,Caverna,62,22,1,   ,0
 2016-09-09,Hopkins County Central,Breckinridge County,24,7,1,   ,0
 2016-09-09,Hopkinsville,Murray,43,7,1,   ,0
-2016-09-09,Hurley. VA,Shelby Valley,56,35,0,   ,0
-2016-09-09,Johnson Central,South Charleston. WV,30,6,1,   ,0
+2016-09-09,Out of State,Shelby Valley,56,35,0,   ,0
+2016-09-09,Johnson Central,Out of State,30,6,1,   ,0
 2016-09-09,Kentucky Country Day,Carroll County,50,21,0,   ,0
 2016-09-09,Knott County Central,South Floyd,47,0,0,   ,0
 2016-09-09,Knox Central,Harlan County,15,13,1,   ,0
 2016-09-09,LaRue County,Campbellsville,34,18,1,   ,0
 2016-09-09,Lafayette,Boone County,40,13,0,   ,0
 2016-09-09,Lawrence County,Powell County,44,21,0,   ,0
-2016-09-09,Letcher County Central,Central,39,20,2,   ,0
+2016-09-09,Letcher County Central,Out of State,39,20,2,   ,0
 2016-09-09,Lexington Christian,Estill County,55,22,1,   ,0
 2016-09-09,Lloyd Memorial,Holmes,22,0,1,   ,0
 2016-09-09,Lynn Camp,Berea,41,0,0,   ,0
@@ -395,14 +395,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-09,North Hardin,Elizabethtown,27,12,1,   ,0
 2016-09-09,North Laurel,Mason County,28,10,1,   ,0
 2016-09-09,Ohio County,Grayson County,35,14,1,   ,0
-2016-09-09,Owensboro Catholic,South Spencer. IN,51,21,0,   ,0
-2016-09-09,Paintsville,Ridgeview. VA,38,0,0,   ,0
+2016-09-09,Owensboro Catholic,Out of State,51,21,0,   ,0
+2016-09-09,Paintsville,Out of State,38,0,0,   ,0
 2016-09-09,Paris,Pineville,33,28,0,   ,0
 2016-09-09,Pike County Central,Perry County Central,43,35,1,   ,0
 2016-09-09,Pikeville,Fairview,61,12,0,   ,0
 2016-09-09,Pleasure Ridge Park,John Hardin,35,17,0,   ,0
 2016-09-09,Prestonsburg,Breathitt County,53,13,0,   ,0
-2016-09-09,Providence. IN,McCreary Central,55,6,1,   ,0
+2016-09-09,Out of State,McCreary Central,55,6,1,   ,0
 2016-09-09,Pulaski County,Russell County,48,8,0,   ,0
 2016-09-09,Raceland,Greenup County,35,13,0,   ,0
 2016-09-09,Rockcastle County,Garrard County,42,14,1,   ,0
@@ -418,7 +418,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-09,Southwestern,Mercer County,28,26,0,   ,0
 2016-09-09,Spencer County,Bullitt East,55,46,1,   ,0
 2016-09-09,St. Xavier,Central,51,7,1,   ,0
-2016-09-09,Taft. OH,Holy Cross (Covington),27,19,1,   ,0
+2016-09-09,Out of State,Holy Cross (Covington),27,19,1,   ,0
 2016-09-09,Tates Creek,Henry Clay,44,0,1,   ,0
 2016-09-09,Taylor County,Green County,37,6,0,   ,0
 2016-09-09,Thomas Nelson,Washington County,27,22,0,   ,0
@@ -435,13 +435,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-09,Williamsburg,Frankfort,34,33,1,   ,0
 2016-09-09,Woodford County,Marion County,32,20,1,   ,0
 2016-09-10,Bracken County,Harlan,20,7,1,   ,0
-2016-09-10,Gibson Southern. IN,Henderson County,49,14,1,   ,0
+2016-09-10,Out of State,Henderson County,49,14,1,   ,0
 2016-09-10,Pendleton County,Jackson County,41,30,1,   ,0
 2016-09-16,Adair County,Russell County,50,27,1,   ,0
 2016-09-16,Allen Central,South Floyd,50,0,0,   ,0
 2016-09-16,Allen County-Scottsville,Barren County,54,6,1,   ,0
 2016-09-16,Anderson County,Franklin County,35,21,1,   ,0
-2016-09-16,Ashland Blazer,Ironton. OH,27,3,0,   ,0
+2016-09-16,Ashland Blazer,Out of State,27,3,0,   ,0
 2016-09-16,Bardstown,Elizabethtown,27,13,1,   ,0
 2016-09-16,Belfry,Pikeville,56,13,0,   ,0
 2016-09-16,Bourbon County,George Rogers Clark,25,9,1,   ,0
@@ -470,12 +470,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-16,Fort Campbell,Fort Knox,42,0,0,   ,0
 2016-09-16,Franklin-Simpson,Monroe County,53,7,1,   ,0
 2016-09-16,Garrard County,East Jessamine,34,22,0,   ,0
-2016-09-16,Gibson County. TN,Fulton County,49,12,0,   ,0
+2016-09-16,Out of State,Fulton County,49,12,0,   ,0
 2016-09-16,Glasgow,Warren East,34,28,1,   ,0
 2016-09-16,Grant County,Rowan County,20,0,0,   ,0
 2016-09-16,Greenup County,Lawrence County,33,12,0,   ,0
 2016-09-16,Greenwood,Logan County,48,12,0,   ,0
-2016-09-16,Grundy. VA,East Ridge,45,24,1,   ,0
+2016-09-16,Out of State,East Ridge,45,24,1,   ,0
 2016-09-16,Harlan,Jackson County,42,22,0,   ,0
 2016-09-16,Hazard,Prestonsburg,41,6,1,   ,0
 2016-09-16,Henry Clay,Knox Central,7,7,1,  teams agreed to end game ,0
@@ -515,15 +515,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-16,Paris,Middlesboro,28,25,0,   ,0
 2016-09-16,Paul Laurence Dunbar,Jeffersontown,38,0,0,   ,0
 2016-09-16,Powell County,Lewis County,28,20,0,   ,0
-2016-09-16,Pulaski Academy. AR,McCracken County,56,14,0,   ,0
+2016-09-16,Out of State,McCracken County,56,14,0,   ,0
 2016-09-16,Pulaski County,Rockcastle County,32,13,1,   ,0
-2016-09-16,Raceland,Valley (Lucasville). OH,62,19,1,   ,0
+2016-09-16,Raceland,Out of State,62,19,1,   ,0
 2016-09-16,Russell,Boyd County,37,0,1,   ,0
 2016-09-16,Russellville,Todd County Central,54,0,0,   ,0
 2016-09-16,Ryle,Campbell County,38,7,0,   ,0
-2016-09-16,Shelby County,Bullitt East,1,0,0,  Original 56-31 BE,0
+2016-09-16,Shelby County,Bullitt East,1,0, BE forfeited due to ineligible player ,  Original 56-31 BE,0
 2016-09-16,Simon Kenton,Cooper,46,20,0,   ,0
-2016-09-16,South Fulton. TN,Fulton City,48,0,0,   ,0
+2016-09-16,Out of State,Fulton City,48,0,0,   ,0
 2016-09-16,South Laurel,Leslie County,22,18,0,   ,0
 2016-09-16,South Oldham,Boone County,35,14,1,   ,0
 2016-09-16,South Warren,North Hardin,20,10,1,   ,0
@@ -532,7 +532,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-16,Tates Creek,Madison Southern,39,14,1,   ,0
 2016-09-16,Taylor County,LaRue County,35,14,1,   ,0
 2016-09-16,Trinity (Louisville),Pleasure Ridge Park,29,10,0,   ,0
-2016-09-16,Tug Valley. WV,Sheldon Clark,46,12,1,   ,0
+2016-09-16,Out of State,Sheldon Clark,46,12,1,   ,0
 2016-09-16,Union County,Hart County,47,6,1,   ,0
 2016-09-16,Valley,Fairdale,39,19,1,   ,0
 2016-09-16,Waggener,Atherton,38,0,0,   ,0
@@ -541,7 +541,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-16,Western Hills,Frankfort,55,28,0,   ,0
 2016-09-16,Whitley County,Bell County,20,6,0,   ,0
 2016-09-16,Woodford County,Nelson County,29,0,1,  game called at half ,0
-2016-09-17,Phelps,Montcalm. WV,14,12,0,   ,0
+2016-09-17,Phelps,Out of State,14,12,0,   ,0
 2016-09-23,Adair County,Kentucky Country Day,44,3,1,   ,0
 2016-09-23,Allen Central,East Ridge,58,38,1,   ,0
 2016-09-23,Allen County-Scottsville,Warren Central,23,6,0,   ,0
@@ -558,7 +558,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-23,Bullitt East,Nelson County,69,0,0,   ,0
 2016-09-23,Caldwell County,Paducah Tilghman,45,20,0,   ,0
 2016-09-23,Calloway County,Madisonville-North Hopkins,21,14,0,   ,0
-2016-09-23,Campbell County,Western Brown. OH,48,21,0,   ,0
+2016-09-23,Campbell County,Out of State,48,21,0,   ,0
 2016-09-23,Campbellsville,Fort Knox,48,6,0,   ,0
 2016-09-23,Central,Waggener,41,21,1,   ,0
 2016-09-23,Christian County,Marshall County,40,13,0,   ,0
@@ -592,13 +592,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-23,John Hardin,Meade County,42,21,0,   ,0
 2016-09-23,Johnson Central,Boyd County,56,0,0,   ,0
 2016-09-23,Knox Central,Russell County,35,21,1,   ,0
-2016-09-23,Knoxville Catholic. TN,Belfry,45,20,1,   ,0
+2016-09-23,Out of State,Belfry,45,20,1,   ,0
 2016-09-23,LaRue County,Hart County,17,0,1,   ,0
 2016-09-23,Lafayette,Henry Clay,55,6,1,   ,0
 2016-09-23,Leslie County,Betsy Layne,56,16,0,   ,0
 2016-09-23,Letcher County Central,Perry County Central,52,8,0,   ,0
 2016-09-23,Lexington Christian,Fairview,64,16,1,   ,0
-2016-09-23,Lynn Camp,Jellico. TN,40,38,1,   ,0
+2016-09-23,Lynn Camp,Out of State,40,38,1,   ,0
 2016-09-23,Madison Central,Woodford County,42,0,1,   ,0
 2016-09-23,Male,Butler,41,12,0,   ,0
 2016-09-23,Mason County,Scott,21,15,0,   ,0
@@ -619,10 +619,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-23,Paul Laurence Dunbar,Anderson County,40,21,1,   ,0
 2016-09-23,Pike County Central,Magoffin County,58,12,0,   ,0
 2016-09-23,Pikeville,South Floyd,46,0,0,   ,0
-2016-09-23,Pineville,Cumberland Gap. TN,37,18,0,   ,0
+2016-09-23,Pineville,Out of State,37,18,0,   ,0
 2016-09-23,Prestonsburg,Shelby Valley,56,28,0,   ,0
 2016-09-23,Pulaski County,Madison Southern,28,14,0,   ,0
-2016-09-23,Raceland,Portsmouth West. OH,29,6,0,   ,0
+2016-09-23,Raceland,Out of State,29,6,0,   ,0
 2016-09-23,Rockcastle County,Somerset,26,20,1,   ,0
 2016-09-23,Russell,West Carter,28,3,1,   ,0
 2016-09-23,Russellville,Murray,33,14,0,   ,0
@@ -633,13 +633,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-23,Southern,Iroquois,41,8,0,   ,0
 2016-09-23,Southwestern,Montgomery County,48,14,0,   ,0
 2016-09-23,Spencer County,Collins,42,35,0,   ,0
-2016-09-23,St. Francis De Sales. OH,Covington Catholic,49,17,1,   ,0
+2016-09-23,Out of State,Covington Catholic,49,17,1,   ,0
 2016-09-23,St. Xavier,Pleasure Ridge Park,27,17,1,   ,0
-2016-09-23,Stewart County. TN,Fulton City,58,14,1,   ,0
+2016-09-23,Out of State,Fulton City,58,14,1,   ,0
 2016-09-23,Tates Creek,Bryan Station,48,27,0,   ,0
 2016-09-23,Taylor County,West Jessamine,30,14,0,   ,0
 2016-09-23,Trinity (Louisville),Jeffersontown,70,0,1,   ,0
-2016-09-23,Twin Valley. VA,Phelps,27,22,0,   ,0
+2016-09-23,Out of State,Phelps,27,22,0,   ,0
 2016-09-23,Union County,Crittenden County,56,15,0,   ,0
 2016-09-23,Walton-Verona,Carroll County,36,0,0,   ,0
 2016-09-23,Warren East,Barren County,49,12,0,   ,0
@@ -666,7 +666,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-30,Ballard Memorial,Webster County,41,18,0,   ,0
 2016-09-30,Bardstown,Waggener,40,17,0,   ,0
 2016-09-30,Beechwood,Newport,62,15,0,   ,0
-2016-09-30,Belfry,Cabell Midland. WV,35,21,1,   ,0
+2016-09-30,Belfry,Out of State,35,21,1,   ,0
 2016-09-30,Bishop Brossart,Ludlow,47,28,1,   ,0
 2016-09-30,Bourbon County,Mason County,24,13,1,   ,0
 2016-09-30,Bracken County,Paris,43,41,0,   ,0
@@ -694,7 +694,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-30,Graves County,Marshall County,31,7,1,   ,0
 2016-09-30,Greenup County,Rowan County,32,0,1,   ,0
 2016-09-30,Greenwood,Barren County,42,6,1,   ,0
-2016-09-30,Harlan,Rye Cove. VA,54,12,0,   ,0
+2016-09-30,Harlan,Out of State,54,12,0,   ,0
 2016-09-30,Harlan County,Letcher County Central,26,6,0,   ,0
 2016-09-30,Harrison County,Scott,36,19,1,   ,0
 2016-09-30,Henderson County,Muhlenberg County,30,26,1,   ,0
@@ -715,7 +715,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-30,Metcalfe County,Monroe County,18,13,0,   ,0
 2016-09-30,Nicholas County,Berea,59,8,1,   ,0
 2016-09-30,North Bullitt,Oldham County,35,12,1,   ,0
-2016-09-30,Owensboro,Christian County,27,24,0,  (double overtime) ,0
+2016-09-30,Owensboro,Christian County,27,24,0,  (double overtime) ,1
 2016-09-30,Owensboro Catholic,McLean County,43,0,1,   ,0
 2016-09-30,Paducah Tilghman,Trigg County,13,10,0,   ,0
 2016-09-30,Phelps,Jenkins,40,8,0,   ,0
@@ -729,13 +729,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-09-30,Russellville,Fulton County,60,0,0,   ,0
 2016-09-30,Ryle,George Rogers Clark,38,6,0,   ,0
 2016-09-30,Shelby Valley,Betsy Layne,61,0,0,   ,0
-2016-09-30,Sherman. WV,Sheldon Clark,49,8,1,   ,0
+2016-09-30,Out of State,Sheldon Clark,49,8,1,   ,0
 2016-09-30,Somerset,Caverna,46,8,0,   ,0
 2016-09-30,South Oldham,Nelson County,56,7,1,   ,0
 2016-09-30,Spencer County,North Oldham,21,13,1,   ,0
 2016-09-30,Thomas Nelson,Henry County,14,13,1,   ,0
 2016-09-30,Trinity (Louisville),St. Xavier,35,13,1,   ,0
-2016-09-30,Twin Valley. VA,South Floyd,54,8,1,   ,0
+2016-09-30,Out of State,South Floyd,54,8,1,   ,0
 2016-09-30,Walton-Verona,Owen County,35,0,0,   ,0
 2016-09-30,Washington County,Trimble County,41,0,1,   ,0
 2016-09-30,West Carter,Bath County,25,14,1,   ,0
@@ -765,7 +765,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-07,Bullitt Central,Oldham County,10,7,1,   ,0
 2016-10-07,Caldwell County,Trigg County,43,0,1,   ,0
 2016-10-07,Calloway County,Webster County,37,0,1,   ,0
-2016-10-07,Campbell County. TN,Bell County,49,16,0,   ,0
+2016-10-07,Out of State,Bell County,49,16,0,   ,0
 2016-10-07,Central,Thomas Nelson,50,0,1,   ,0
 2016-10-07,Central Hardin,Collins,47,39,0,   ,0
 2016-10-07,Christian Academy-Louisville,DeSales,12,7,0,   ,0
@@ -779,7 +779,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-07,Frankfort,Eminence,42,0,1,   ,0
 2016-10-07,Franklin County,Spencer County,48,35,1,   ,0
 2016-10-07,Franklin-Simpson,Allen County-Scottsville,34,0,1,   ,0
-2016-10-07,Halls. TN,Fulton City,61,14,0,   ,0
+2016-10-07,Out of State,Fulton City,61,14,0,   ,0
 2016-10-07,Harrison County,Mason County,35,21,0,   ,0
 2016-10-07,Hart County,Edmonson County,30,26,1,   ,0
 2016-10-07,Jenkins,South Floyd,28,20,0,  (overtime) ,1
@@ -807,11 +807,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-07,Owensboro,Marshall County,50,16,0,   ,0
 2016-10-07,Owensboro Catholic,Hancock County,38,11,0,   ,0
 2016-10-07,Paintsville,Fairview,36,0,1,   ,0
-2016-10-07,Phelps,Hannan. WV,38,0,0,   ,0
+2016-10-07,Phelps,Out of State,38,0,0,   ,0
 2016-10-07,Pineville,Lynn Camp,35,28,0,   ,0
 2016-10-07,Pleasure Ridge Park,Butler,42,6,1,   ,0
 2016-10-07,Pulaski County,Lincoln County,60,31,1,   ,0
-2016-10-07,Red Boiling Springs. TN,Clinton County,34,28,1,   ,0
+2016-10-07,Out of State,Clinton County,34,28,1,   ,0
 2016-10-07,Rockcastle County,Russell County,40,28,0,   ,0
 2016-10-07,Rowan County,Boyd County,21,0,1,   ,0
 2016-10-07,Russell,Pendleton County,54,0,1,   ,0
@@ -841,7 +841,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-14,Anderson County,Montgomery County,35,6,0,   ,0
 2016-10-14,Ashland Blazer,Greenup County,42,14,0,   ,0
 2016-10-14,Ballard,Jeffersontown,71,0,1,   ,0
-2016-10-14,Belfry,Warrensville Heights. OH,36,0,1,   ,0
+2016-10-14,Belfry,Out of State,36,0,1,   ,0
 2016-10-14,Bellevue,Dayton,7,0,1,   ,0
 2016-10-14,Bethlehem,Campbellsville,22,8,1,   ,0
 2016-10-14,Bishop Brossart,Paris,53,34,1,   ,0
@@ -908,7 +908,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-14,Paducah Tilghman,Union County,54,0,0,   ,0
 2016-10-14,Paul Laurence Dunbar,Henry Clay,40,21,0,   ,0
 2016-10-14,Pike County Central,Lawrence County,21,20,0,   ,0
-2016-10-14,Pikeville,Valley (Lucasville). OH,49,21,0,   ,0
+2016-10-14,Pikeville,Out of State,49,21,0,   ,0
 2016-10-14,Powell County,Knott County Central,70,50,0,   ,0
 2016-10-14,Prestonsburg,Allen Central,42,30,1,   ,0
 2016-10-14,Pulaski County,South Laurel,28,27,0,   ,0
@@ -919,7 +919,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-14,Ryle,Conner,42,28,0,   ,0
 2016-10-14,Scott County,Bryan Station,43,14,0,   ,0
 2016-10-14,Shelby County,Spencer County,62,31,0,   ,0
-2016-10-14,Sherman. WV,Phelps,51,22,0,   ,0
+2016-10-14,Out of State,Phelps,51,22,0,   ,0
 2016-10-14,Simon Kenton,Campbell County,50,20,0,   ,0
 2016-10-14,South Oldham,Bullitt Central,39,7,0,   ,0
 2016-10-14,South Warren,Allen County-Scottsville,25,15,1,   ,0
@@ -949,7 +949,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-21,Bellevue,Ludlow,20,15,1,   ,0
 2016-10-21,Bethlehem,Fort Knox,42,8,0,   ,0
 2016-10-21,Bishop Brossart,Berea,42,20,0,   ,0
-2016-10-21,Boone County,Campbell County,20,14,1,  (double overtime) ,0
+2016-10-21,Boone County,Campbell County,20,14,1,  (double overtime) ,1
 2016-10-21,Bourbon County,Harrison County,19,12,0,   ,0
 2016-10-21,Bowling Green,Greenwood,50,0,1,   ,0
 2016-10-21,Boyle County,Western Hills,64,21,0,   ,0
@@ -980,7 +980,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-21,Gallatin County,Owen County,14,13,0,   ,0
 2016-10-21,Glasgow,Metcalfe County,40,0,0,   ,0
 2016-10-21,Greenup County,Boyd County,26,7,0,   ,0
-2016-10-21,Halls. TN,Fulton County,44,0,1,   ,0
+2016-10-21,Out of State,Fulton County,44,0,1,   ,0
 2016-10-21,Harlan County,Perry County Central,74,49,0,   ,0
 2016-10-21,Henry Clay,Bryan Station,30,7,1,   ,0
 2016-10-21,Highlands,Grant County,50,0,0,   ,0
@@ -994,21 +994,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-21,Leslie County,East Ridge,47,12,0,   ,0
 2016-10-21,Lexington Catholic,Garrard County,63,31,0,   ,0
 2016-10-21,Lexington Christian,Danville,42,40,0,   ,0
-2016-10-21,Macon County. TN,Meade County,20,13,1,   ,0
+2016-10-21,Out of State,Meade County,20,13,1,   ,0
 2016-10-21,Madison Central,George Rogers Clark,49,6,1,   ,0
 2016-10-21,Madison Southern,Anderson County,28,21,0,   ,0
 2016-10-21,Male,DuPont Manual,27,14,1,   ,0
 2016-10-21,Marshall County,Apollo,42,35,0,   ,0
-2016-10-21,Mason County,West Union. OH,59,6,1,   ,0
+2016-10-21,Mason County,Out of State,59,6,1,   ,0
 2016-10-21,Mayfield,Webster County,57,0,1,   ,0
 2016-10-21,McCracken County,Muhlenberg County,55,20,1,   ,0
-2016-10-21,McCreary Central,Thomas Walker. VA,41,13,0,   ,0
+2016-10-21,McCreary Central,Out of State,41,13,0,   ,0
 2016-10-21,McLean County,Hancock County,26,0,1,   ,0
 2016-10-21,Monroe County,Green County,42,6,0,   ,0
 2016-10-21,Montgomery County,Woodford County,20,18,0,   ,0
 2016-10-21,Moore,Waggener,39,28,1,   ,0
 2016-10-21,Murray,Ballard Memorial,35,32,1,   ,0
-2016-10-21,New Richmond. OH,Walton-Verona,28,7,1,   ,0
+2016-10-21,Out of State,Walton-Verona,28,7,1,   ,0
 2016-10-21,Newport Central Catholic,Newport,56,14,0,   ,0
 2016-10-21,Owensboro,Graves County,35,6,1,   ,0
 2016-10-21,Paducah Tilghman,Fort Campbell,55,3,1,   ,0
@@ -1061,7 +1061,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-28,Central Hardin,Woodford County,51,0,0,   ,0
 2016-10-28,Christian Academy-Louisville,Franklin County,44,7,0,   ,0
 2016-10-28,Christian County,John Hardin,38,0,1,   ,0
-2016-10-28,Cincinnati St. Xavier. OH,St. Xavier,28,3,1,   ,0
+2016-10-28,Out of State,St. Xavier,28,3,1,   ,0
 2016-10-28,Clinton County,Jackson County,18,8,0,   ,0
 2016-10-28,Collins,Anderson County,41,21,1,   ,0
 2016-10-28,Conner,Mason County,40,8,0,   ,0
@@ -1089,7 +1089,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-28,Highlands,Boone County,48,28,1,   ,0
 2016-10-28,Holy Cross (Covington),Bellevue,56,12,1,   ,0
 2016-10-28,Hopkinsville,Marshall County,55,14,0,   ,0
-2016-10-28,Hurley. VA,Phelps,60,14,0,   ,0
+2016-10-28,Out of State,Phelps,60,14,0,   ,0
 2016-10-28,Iroquois,Seneca,14,12,0,   ,0
 2016-10-28,Kentucky Country Day,Campbellsville,44,23,0,   ,0
 2016-10-28,LaRue County,Green County,48,20,1,   ,0
@@ -1107,7 +1107,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-28,McLean County,Webster County,49,6,1,   ,0
 2016-10-28,Mercer County,George Rogers Clark,43,0,0,   ,0
 2016-10-28,Metcalfe County,Caverna,36,0,1,   ,0
-2016-10-28,Middletown Christian. OH,Gallatin County,38,6,0,   ,0
+2016-10-28,Out of State,Gallatin County,38,6,0,   ,0
 2016-10-28,Montgomery County,North Laurel,34,21,1,   ,0
 2016-10-28,Muhlenberg County,Grayson County,49,25,0,   ,0
 2016-10-28,Nicholas County,Bath County,20,12,0,   ,0
@@ -1121,7 +1121,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-28,Pikeville,Pike County Central,36,0,0,   ,0
 2016-10-28,Pineville,Jenkins,50,22,1,   ,0
 2016-10-28,Pleasure Ridge Park,Central,42,3,1,   ,0
-2016-10-28,Pope John Paul II. TN,South Warren,56,42,1,   ,0
+2016-10-28,Out of State,South Warren,56,42,1,   ,0
 2016-10-28,Pulaski County,Bourbon County,49,38,1,   ,0
 2016-10-28,Rockcastle County,Lincoln County,55,8,0,   ,0
 2016-10-28,Russell,Raceland,29,28,0,   ,0
@@ -1135,9 +1135,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2016-10-28,South Laurel,Clay County,55,14,1,   ,0
 2016-10-28,Spencer County,Henry County,37,14,0,   ,0
 2016-10-28,Taylor County,Thomas Nelson,52,13,1,   ,0
-2016-10-28,Tolsia. WV,Boyd County,28,21,1,   ,0
+2016-10-28,Out of State,Boyd County,28,21,1,   ,0
 2016-10-28,Union County,Hopkins County Central,59,20,1,   ,0
-2016-10-28,Union. VA,Letcher County Central,49,14,1,   ,0
+2016-10-28,Out of State,Letcher County Central,49,14,1,   ,0
 2016-10-28,Waggener,Valley,34,13,1,   ,0
 2016-10-28,Wayne County,Monroe County,48,0,0,   ,0
 2016-10-28,West Carter,Magoffin County,43,6,1,   ,0

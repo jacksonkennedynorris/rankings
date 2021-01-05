@@ -9,12 +9,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-16,Riverside Christian,Piarist School,111,87,1,   ,0
 1999-11-16,Trinity (Whitesville),Cloverport,56,44,1,   ,0
 1999-11-18,June Buchanan,Piarist School,82,49,2,  Three Rivers Conference Tournament ,0
-1999-11-18,Restoration Christian. IN,St. Francis,58,52,2,   ,0
+1999-11-18,Out of State,St. Francis,58,52,2,   ,0
 1999-11-18,Riverside Christian,Red Bird,97,91,1,   ,0
 1999-11-19,Augusta,Rose Hill Christian,92,62,1,   ,0
 1999-11-19,Brown,Cloverport,85,79,2,   ,0
 1999-11-19,Clinton County,Wolfe County,80,74,1,   ,0
-1999-11-19,Evangel Christian,Faith Heritage,63,61,0,   ,0
+1999-11-19,Evangel Christian,Out of State,63,61,0,   ,0
 1999-11-19,Gallatin County,Williamstown,65,50,0,   ,0
 1999-11-19,Jackson City,All Saints,100,37,1,   ,0
 1999-11-19,June Buchanan,Red Bird,84,65,2,  Three Rivers Conference Tournament ,0
@@ -29,40 +29,40 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-20,Monticello,Wolfe County,71,68,1,   ,0
 1999-11-20,Oneida Baptist Institute,Riverside Christian,111,82,0,   ,0
 1999-11-23,Augusta,Heritage Academy,82,81,0,  (overtime) ,1
-1999-11-23,Brown,Restoration Christian. IN,75,60,2,   ,0
+1999-11-23,Brown,Out of State,75,60,2,   ,0
 1999-11-23,Carlisle County,St. Mary,80,79,1,  (overtime) ,1
-1999-11-23,Clinch,All Saints,60,57,2,  (overtime) ,1
+1999-11-23,Out of State,All Saints,60,57,2,  (overtime) ,1
 1999-11-23,Clinton County,Cumberland County,58,54,0,   ,0
 1999-11-23,Cordia,Letcher,84,58,1,   ,0
 1999-11-23,Gallatin County,Walton-Verona,71,56,1,   ,0
 1999-11-23,Lee County,Buckhorn,87,83,1,   ,0
 1999-11-23,Lexington Christian,Sayre,71,65,0,   ,0
 1999-11-23,Lyon County,Dawson Springs,65,47,1,   ,0
-1999-11-23,Oneida Baptist Institute,Jackson County,90,83,0,  Overtime ,0
+1999-11-23,Oneida Baptist Institute,Jackson County,90,83,0,  Overtime ,1
 1999-11-23,Owsley County,Menifee County,75,54,1,   ,0
 1999-11-23,Providence,Livingston Central,54,51,1,   ,0
 1999-11-23,Riverside Christian,Jackson City,106,91,1,   ,0
 1999-11-23,St. Patrick,Deming,89,54,1,   ,0
-1999-11-23,Trinity (Whitesville),Owensboro Majesty,59,48,1,   ,0
+1999-11-23,Trinity (Whitesville),Out of State,59,48,1,   ,0
 1999-11-23,Williamstown,St. Francis,59,53,0,   ,0
-1999-11-26,Charleston. MS,Carlisle County,68,60,1,  Pocahontas Arkansas Invitational ,0
-1999-11-26,Owensboro Majesty,Christian Fellowship,76,69,0,   ,0
+1999-11-26,Out of State,Carlisle County,68,60,1,  Pocahontas Arkansas Invitational ,0
+1999-11-26,Out of State,Christian Fellowship,76,69,0,   ,0
 1999-11-26,St. Henry,Villa Madonna,89,42,1,   ,0
 1999-11-26,Whitefield Academy,Heritage Academy,78,48,2,   ,0
 1999-11-26,Wolfe County,Menifee County,79,60,1,   ,0
-1999-11-27,Carlisle County,Greenfield. TN,73,60,2,  Pocahontas Arkansas Invitational ,0
-1999-11-27,Christian Fellowship,Unity Christian. IL,75,51,1,   ,0
-1999-11-27,Owensboro Majesty,Dawson Springs,89,71,2,   ,0
+1999-11-27,Carlisle County,Out of State,73,60,2,  Pocahontas Arkansas Invitational ,0
+1999-11-27,Christian Fellowship,Out of State,75,51,1,   ,0
+1999-11-27,Out of State,Dawson Springs,89,71,2,   ,0
 1999-11-27,Whitefield Academy,Walden,79,27,2,   ,0
-1999-11-27,Whitefield Academy,Cross Lanes Christian. WV,65,42,2,   ,0
-1999-11-28,Dawson Springs,Unity Christian. IL,73,46,2,   ,0
+1999-11-27,Whitefield Academy,Out of State,65,42,2,   ,0
+1999-11-28,Dawson Springs,Out of State,73,46,2,   ,0
 1999-11-29,Ballard,Southern,102,41,1,   ,0
-1999-11-29,Barbourville,,69,45,2,  Union Bank Classic Tournament ,0
+1999-11-29,Barbourville,Out of State,69,45,2,  Union Bank Classic Tournament ,0
 1999-11-29,Bowling Green,Grayson County,88,60,1,   ,0
 1999-11-29,Cawood,Evarts,75,47,2,  Middlesboro Boys Invitational Tournament ,0
 1999-11-29,Clay County,Jackson City,128,77,1,   ,0
 1999-11-29,Doss,Beth Haven,79,51,1,   ,0
-1999-11-29,Fulton City,Lake County. TN,80,73,1,   ,0
+1999-11-29,Fulton City,Out of State,80,73,1,   ,0
 1999-11-29,Graves County,Fulton County,73,44,1,   ,0
 1999-11-29,Green County,Washington County,54,49,1,   ,0
 1999-11-29,June Buchanan,Leslie County,65,64,1,   ,0
@@ -71,30 +71,30 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-29,Perry County Central,Hazard,69,66,1,   ,0
 1999-11-29,Portland Christian,St. Francis,72,42,0,   ,0
 1999-11-29,Russell County,Metcalfe County,63,59,1,   ,0
-1999-11-29,Williamsburg,Sunbright. TN,68,50,2,  Union Bank Classic ,0
+1999-11-29,Williamsburg,Out of State,68,50,2,  Union Bank Classic ,0
 1999-11-30,Allen Central,Feds Creek,83,50,1,   ,0
 1999-11-30,Allen County-Scottsville,Logan County,66,46,1,   ,0
 1999-11-30,Anderson County,Trimble County,74,53,1,   ,0
 1999-11-30,Atherton,Southern,64,50,0,   ,0
 1999-11-30,Ballard Memorial,Reidland,64,44,0,   ,0
-1999-11-30,Barbourville,Jellico. TN,81,58,0,  Union Bank Classic Tournament ,0
+1999-11-30,Barbourville,Out of State,81,58,0,  Union Bank Classic Tournament ,0
 1999-11-30,Bardstown,North Bullitt,62,50,0,   ,0
 1999-11-30,Bellevue,Calvary Christian,64,54,1,   ,0
 1999-11-30,Betsy Layne,Magoffin County,71,64,1,   ,0
-1999-11-30,Bishop Brossart,Conner,67,59,0,  overtime ,0
+1999-11-30,Bishop Brossart,Conner,67,59,0,  overtime ,1
 1999-11-30,Boyd County,Menifee County,84,48,1,   ,0
 1999-11-30,Breckinridge County,Central Hardin,57,56,0,   ,0
 1999-11-30,Brown,Spencer County,90,72,1,   ,0
 1999-11-30,Bryan Station,Gallatin County,68,45,1,   ,0
-1999-11-30,Butler,Restoration Christian. IN,102,39,1,   ,0
+1999-11-30,Butler,Out of State,102,39,1,   ,0
 1999-11-30,Campbellsville,Green County,71,56,1,   ,0
-1999-11-30,Carroll County,Sawe. IN,60,54,2,   ,0
+1999-11-30,Carroll County,Out of State,60,54,2,   ,0
 1999-11-30,Christian Academy-Louisville,Louisville Collegiate,80,56,0,   ,0
-1999-11-30,Christian County,Evansville Bosse. IN,69,59,1,   ,0
+1999-11-30,Christian County,Out of State,69,59,1,   ,0
 1999-11-30,Clinton County,Metcalfe County,71,59,1,   ,0
 1999-11-30,Corbin,Bell County,90,63,1,   ,0
 1999-11-30,Cordia,Whitesburg,75,62,1,   ,0
-1999-11-30,Covington Catholic,Holy Cross,68,56,2,  Turfway/Post Tip-off Classics ,0
+1999-11-30,Covington Catholic,Holy Cross (Covington),68,56,2,  Turfway/Post Tip-off Classics ,0
 1999-11-30,Crittenden County,Dawson Springs,79,58,0,   ,0
 1999-11-30,Cumberland,Pineville,73,54,2,  Middlesboro Boys Invitational Tournament ,0
 1999-11-30,Deming,Augusta,87,69,0,   ,0
@@ -105,7 +105,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-30,Edmonson County,Franklin-Simpson,60,58,1,   ,0
 1999-11-30,Elizabethtown,Shelby County,119,109,1,  (overtime) ,1
 1999-11-30,Elliott County,Rose Hill Christian,89,52,0,   ,0
-1999-11-30,Evansville Reitz Memorial. IN,Henderson County,83,56,2,   ,0
+1999-11-30,Out of State,Henderson County,83,56,2,   ,0
 1999-11-30,Fort Knox,Caverna,57,53,0,   ,0
 1999-11-30,Frankfort,Estill County,56,52,0,   ,0
 1999-11-30,George Rogers Clark,Paris,77,47,0,   ,0
@@ -134,7 +134,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-30,Millard,Morgan County,65,51,1,   ,0
 1999-11-30,Model,Jackson City,94,87,1,   ,0
 1999-11-30,Moore,Shawnee,84,71,1,   ,0
-1999-11-30,Mt. Mission. VA,Elkhorn City,52,50,2,   ,0
+1999-11-30,Out of State,Elkhorn City,52,50,2,   ,0
 1999-11-30,Muhlenberg North,Owensboro Catholic,60,55,1,   ,0
 1999-11-30,Muhlenberg South,Apollo,38,37,0,   ,0
 1999-11-30,Nicholas County,Bath County,58,49,0,   ,0
@@ -143,7 +143,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-30,Oldham County,DeSales,57,54,1,   ,0
 1999-11-30,Owen County,Kentucky Country Day,88,61,1,   ,0
 1999-11-30,Owensboro,Daviess County,66,55,1,   ,0
-1999-11-30,Owensboro Majesty,Trigg County,61,58,0,   ,0
+1999-11-30,Out of State,Trigg County,61,58,0,   ,0
 1999-11-30,Owsley County,Buckhorn,107,66,0,   ,0
 1999-11-30,Paintsville,Pike County Central,70,56,1,   ,0
 1999-11-30,Paul Laurence Dunbar,West Carter,78,55,2,   ,0
@@ -153,7 +153,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-30,Riverside Christian,Red Bird,80,75,1,   ,0
 1999-11-30,Rockcastle County,Somerset,64,52,1,   ,0
 1999-11-30,Scott,Ryle,76,56,1,  Turfway/Post Tip-off Classics ,0
-1999-11-30,Scott County,Australian National Team,84,69,1,   ,0
+1999-11-30,Scott County,Out of State,84,69,1,   ,0
 1999-11-30,Sheldon Clark,Prestonsburg,62,47,1,   ,0
 1999-11-30,South Floyd,Piarist School,101,46,0,   ,0
 1999-11-30,South Laurel,Monticello,71,43,1,   ,0
@@ -165,7 +165,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-30,Warren East,Monroe County,75,52,0,   ,0
 1999-11-30,Western Hills,West Jessamine,98,78,1,   ,0
 1999-11-30,Whitefield Academy,Cloverport,76,43,2,   ,0
-1999-11-30,Williamsburg,Jellico. TN,66,43,0,  Union Bank Classic ,0
+1999-11-30,Williamsburg,Out of State,66,43,0,  Union Bank Classic ,0
 1999-12-01,Berea,Millersburg Military,74,41,1,   ,0
 1999-12-01,Burgin,Kentucky School f/t Deaf,86,51,1,  Bluegrass Conference Tournament ,0
 1999-12-01,Covington Catholic,Ryle,51,49,2,   ,0
@@ -174,19 +174,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-01,Model,Lexington Christian,77,55,2,  Bluegrass Conference Tournament ,0
 1999-12-01,Scott,Holy Cross (Covington),75,62,1,   ,0
 1999-12-02,Barren County,Metcalfe County,76,69,0,   ,0
-1999-12-02,Calvary Christian,St. Gertrude. OH,78,36,1,   ,0
+1999-12-02,Calvary Christian,Out of State,78,36,1,   ,0
 1999-12-02,Carlisle County,Calloway County,75,51,1,   ,0
 1999-12-02,Cawood,Pineville,88,50,2,   ,0
 1999-12-02,Evarts,Cumberland,52,42,2,   ,0
-1999-12-02,Fulton City,Cairo. IL,75,62,2,  McDonalds Tournament ,0
+1999-12-02,Fulton City,Out of State,75,62,2,  McDonalds Tournament ,0
 1999-12-02,Fulton County,Murray,77,65,0,   ,0
-1999-12-02,Greenwood,Portland. TN,73,58,1,   ,0
+1999-12-02,Greenwood,Out of State,73,58,1,   ,0
 1999-12-02,Henry Clay,East Jessamine,66,51,0,  Wombles Classic ,0
 1999-12-02,Oneida Baptist Institute,Barbourville,88,53,2,  Union Bank Classic Tournament ,0
 1999-12-02,Riverside Christian,Piarist School,76,61,0,   ,0
-1999-12-02,University Heights,Clarksville. TN,71,69,1,   ,0
+1999-12-02,University Heights,Out of State,71,69,1,   ,0
 1999-12-02,Waggener,West Jessamine,87,71,0,  Wombles Classic ,0
-1999-12-02,Whitley County,,86,40,2,  Union Bank Classic Tournament ,0
+1999-12-02,Whitley County,Out of State,86,40,2,  Union Bank Classic Tournament ,0
 1999-12-02,Woodford County,Knox Central,67,53,2,  Wombles Classic ,0
 1999-12-03,Adair County,Green County,66,58,1,   ,0
 1999-12-03,Allen Central,Piarist School,92,37,1,   ,0
@@ -209,11 +209,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Casey County,Wayne County,65,57,1,   ,0
 1999-12-03,Cawood,Cumberland,75,49,2,  Middlesboro Boys Invitational Tournament ,0
 1999-12-03,Central Hardin,Warren Central,83,63,1,   ,0
-1999-12-03,Chicago Near North. IL,Southern,77,48,2,   ,0
+1999-12-03,Out of State,Southern,77,48,2,   ,0
 1999-12-03,Christian Academy-Louisville,Beth Haven,76,44,2,  Ray Bauer Kickoff Classic Tournament ,0
-1999-12-03,Cincinnati Elder. OH,St. Henry,71,47,0,   ,0
+1999-12-03,Out of State,St. Henry,71,47,0,   ,0
 1999-12-03,Conner,Ludlow,68,43,1,   ,0
-1999-12-03,Crittenden County,Hardin County. IL,83,73,2,   ,0
+1999-12-03,Crittenden County,Out of State,83,73,2,   ,0
 1999-12-03,Danville,Mercer County,64,52,1,   ,0
 1999-12-03,Dixie Heights,Williamstown,85,51,1,   ,0
 1999-12-03,Doss,Trinity (Louisville),70,48,1,   ,0
@@ -227,7 +227,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Gallatin County,Owen County,74,61,1,   ,0
 1999-12-03,George Rogers Clark,Grant County,66,53,2,   ,0
 1999-12-03,Glasgow,Edmonson County,74,66,1,   ,0
-1999-12-03,Graves County,Pope County. IL,59,26,2,   ,0
+1999-12-03,Graves County,Out of State,59,26,2,   ,0
 1999-12-03,Harrison County,Pendleton County,61,44,1,   ,0
 1999-12-03,Hart County,Caverna,81,66,1,   ,0
 1999-12-03,Henderson County,Muhlenberg South,42,36,0,   ,0
@@ -237,7 +237,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Jackson County,McCreary Central,85,65,1,   ,0
 1999-12-03,Johnson Central,Betsy Layne,58,56,1,  Clarence D. Rice Tip-Off Classic ,0
 1999-12-03,June Buchanan,Whitesburg,63,61,0,   ,0
-1999-12-03,Kentucky School f/t Deaf,School f/t Deaf. NC,80,50,2,  East-West Classic ,0
+1999-12-03,Kentucky School f/t Deaf,Out of State,80,50,2,  East-West Classic ,0
 1999-12-03,Knott County Central,Hazard,77,64,0,   ,0
 1999-12-03,Lafayette,Bryan Station,75,68,0,   ,0
 1999-12-03,Lincoln County,Rockcastle County,77,68,1,   ,0
@@ -251,18 +251,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Mayfield,Hickman County,56,44,1,   ,0
 1999-12-03,Meade County,Fort Knox,76,52,1,   ,0
 1999-12-03,Menifee County,Deming,80,77,0,    ,0
-1999-12-03,Miami Central. FL,Central,60,59,0,  Jacketmania Shootout (overtime) ,1
+1999-12-03,Out of State,Central,60,59,0,  Jacketmania Shootout (overtime) ,1
 1999-12-03,Middlesboro,Pineville,102,72,1,  Middlesboro Boys Invitational Tournament ,0
 1999-12-03,Millard,Phelps,89,70,1,   ,0
 1999-12-03,Montgomery County,Somerset,45,38,0,   ,0
 1999-12-03,Morgan County,Rowan County,52,36,1,   ,0
-1999-12-03,Newport,Norwood. OH,61,41,1,   ,0
+1999-12-03,Newport,Out of State,61,41,1,   ,0
 1999-12-03,Newport Central Catholic,Bellevue,83,36,1,   ,0
 1999-12-03,Nicholas County,Mason County,55,49,1,   ,0
 1999-12-03,North Laurel,Garrard County,66,60,1,   ,0
 1999-12-03,Ohio County,Grayson County,68,57,1,   ,0
 1999-12-03,Oldham County,Carroll County,67,46,0,   ,0
-1999-12-03,Paintsville,Lebanon. PA,72,69,0,  Roundball Classic (overtime) ,1
+1999-12-03,Paintsville,Out of State,72,69,0,  Roundball Classic (overtime) ,1
 1999-12-03,Paul Laurence Dunbar,Holmes,79,46,2,   ,0
 1999-12-03,Pike County Central,Feds Creek,83,70,0,   ,0
 1999-12-03,Pleasure Ridge Park,Atherton,87,49,1,   ,0
@@ -271,17 +271,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Pulaski County,Monticello,68,46,0,   ,0
 1999-12-03,Raceland,Elliott County,74,66,0,   ,0
 1999-12-03,Russellville,Todd County Central,79,63,0,   ,0
-1999-12-03,Ryle,Holy Cross,53,45,2,   ,0
+1999-12-03,Ryle,Holy Cross (Covington),53,45,2,   ,0
 1999-12-03,Scott,Covington Catholic,64,63,1,   ,0
-1999-12-03,Shawnee,Miami Northwestern. FL,80,78,2,   ,0
+1999-12-03,Shawnee,Out of State,80,78,2,   ,0
 1999-12-03,Shelby County,Eminence,99,63,0,   ,0
 1999-12-03,Shelby Valley,Prestonsburg,95,54,1,   ,0
 1999-12-03,Simon Kenton,Walton-Verona,76,40,1,   ,0
-1999-12-03,South Floyd,Greenup County,66,62,2,  Clarence D. Rice Tip-Off Classic (double overtime) ,0
+1999-12-03,South Floyd,Greenup County,66,62,2,  Clarence D. Rice Tip-Off Classic (double overtime) ,1
 1999-12-03,South Laurel,Southwestern,68,54,1,   ,0
 1999-12-03,South Oldham,Trimble County,59,43,0,   ,0
 1999-12-03,Spencer County,LaRue County,91,88,1,   ,0
-1999-12-03,St. Mary,Sesser-Vallier. IL,51,37,2,  Massac County Shootout ,0
+1999-12-03,St. Mary,Out of State,51,37,2,  Massac County Shootout ,0
 1999-12-03,St. Patrick,Silver Grove,72,64,1,   ,0
 1999-12-03,Tates Creek,Russell,66,59,1,   ,0
 1999-12-03,Trinity (Whitesville),Butler County,64,46,0,   ,0
@@ -289,23 +289,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-03,Washington County,Taylor County,54,41,0,   ,0
 1999-12-03,West Jessamine,Woodford County,71,69,1,   ,0
 1999-12-03,Western,Seneca,59,49,0,   ,0
-1999-12-03,Williamsburg,Oneida Baptist Institute,80,77,2,"  Union Bank Classic Tournament
-
-
-
- ",0
+1999-12-03,Williamsburg,Oneida Baptist Institute,80,77,2,  Union Bank Classic Tournament,0
 1999-12-03,Wolfe County,Lee County,89,64,1,   ,0
-1999-12-04,,Fern Creek,94,60,2,   ,0
+1999-12-04,Out of State,Fern Creek,94,60,2,   ,0
 1999-12-04,Allen Central,Knott County Central,66,63,1,   ,0
 1999-12-04,Augusta,Dayton,86,70,1,   ,0
 1999-12-04,Ballard,Scott County,90,75,0,   ,0
-1999-12-04,Ballard Memorial,Carbondale. IL,55,45,2,  Players Shootout ,0
+1999-12-04,Ballard Memorial,Out of State,55,45,2,  Players Shootout ,0
 1999-12-04,Boyd County,Lafayette,89,76,0,   ,0
 1999-12-04,Caldwell County,Reidland,77,54,1,   ,0
-1999-12-04,Calvary Christian,Cincinnati Hills. OH,57,56,1,   ,0
-1999-12-04,Campbellsville,East Chicago Central. IL,76,74,1,   ,0
+1999-12-04,Calvary Christian,Out of State,57,56,1,   ,0
+1999-12-04,Campbellsville,Out of State,76,74,1,   ,0
 1999-12-04,Cawood,Middlesboro,63,51,0,  Middlesboro Boys Invitational Tournament ,0
-1999-12-04,Central,Chicago Near North. IL,57,56,1,  Jacketmania Shootout (double overtime) ,0
+1999-12-04,Central,Out of State,57,56,1,  Jacketmania Shootout (double overtime) ,1
 1999-12-04,Christian Academy-Louisville,Kentucky Country Day,75,72,0,  Ray Bauer Kickoff Classic Tournament (championship) ,0
 1999-12-04,Corbin,Franklin-Simpson,55,38,2,   ,0
 1999-12-04,Crittenden County,Lyon County,77,64,1,   ,0
@@ -326,48 +322,48 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-04,Heritage Academy,Portland Christian,49,36,1,   ,0
 1999-12-04,Hopkins County Central,Owensboro Catholic,65,53,1,   ,0
 1999-12-04,Johnson Central,South Floyd,78,63,1,  Clarence D. Rice Tip-Off Classic ,0
-1999-12-04,Kentucky School f/t Deaf,School f/t Deaf. Eastern NC,77,65,2,  East-West Classic ,0
+1999-12-04,Kentucky School f/t Deaf,Out of State,77,65,2,  East-West Classic ,0
 1999-12-04,Lawrence County,Bath County,68,48,1,   ,0
-1999-12-04,Lexington Catholic,Johnston City,116,83,2,  Pepsi Shootout ,0
+1999-12-04,Lexington Catholic,Out of State,116,83,2,  Pepsi Shootout ,0
 1999-12-04,Ludlow,Covington Latin,87,26,1,   ,0
 1999-12-04,Madisonville-North Hopkins,Eastern,77,38,2,   ,0
 1999-12-04,Marion County,Greenwood,80,78,2,  Panther Classic ,0
-1999-12-04,Massac County. IL,Hickman County,90,51,1,  Players Shootout ,0
+1999-12-04,Out of State,Hickman County,90,51,1,  Players Shootout ,0
 1999-12-04,McLean County,Dawson Springs,80,55,0,   ,0
-1999-12-04,Miami Central. FL,Shawnee,68,64,2,  Jacketmania Shootout ,0
-1999-12-04,Miami Northwestern. FL,Southern,70,55,2,  Jacketmania Shootout ,0
+1999-12-04,Out of State,Shawnee,68,64,2,  Jacketmania Shootout ,0
+1999-12-04,Out of State,Southern,70,55,2,  Jacketmania Shootout ,0
 1999-12-04,Morgan County,Fairview,63,57,1,  EKC Tournament ,0
-1999-12-04,Murfreesboro. IL,Russellville,60,56,2,  (overtime) ,1
-1999-12-04,Owensboro,Holy Cross,48,45,2,  Panther Classic ,0
+1999-12-04,Out of State,Russellville,60,56,2,  (overtime) ,1
+1999-12-04,Owensboro,Holy Cross (Louisville),48,45,2,  Panther Classic ,0
 1999-12-04,Paducah Tilghman,Fairdale,60,59,2,   ,0
 1999-12-04,Pleasure Ridge Park,Glasgow,99,50,1,  Panther Classic ,0
 1999-12-04,Shelby County,Lincoln County,94,61,1,  Shelby County Rocket Classic ,0
 1999-12-04,South Laurel,Owsley County,80,66,1,   ,0
-1999-12-04,St. Raymond. NY,Paintsville,108,59,2,  Roundball Classic ,0
+1999-12-04,Out of State,Paintsville,108,59,2,  Roundball Classic ,0
 1999-12-04,Trigg County,Louisville Collegiate,70,51,0,   ,0
 1999-12-04,Trigg County,Walden,76,39,0,   ,0
 1999-12-04,University Heights,Providence,55,44,2,   ,0
 1999-12-04,Webster County,Muhlenberg South,46,43,2,   ,0
 1999-12-04,West Jessamine,Knox Central,80,60,1,  Wombles Classic ,0
-1999-12-04,Whitley County,Sunbright. TN,60,56,2,  Union Bank Classic Tournament ,0
+1999-12-04,Whitley County,Out of State,60,56,2,  Union Bank Classic Tournament ,0
 1999-12-04,Wolfe County,Whitesburg,81,62,1,   ,0
 1999-12-05,Fleming County,Pendleton County,70,47,2,  Farmers National Bank Classic ,0
 1999-12-05,Harrison County,Campbell County,68,56,1,  Farmers National Bank Classic ,0
-1999-12-05,Newport. MD,Paintsville,97,63,2,  Roundball Classic ,0
+1999-12-05,Out of State,Paintsville,97,63,2,  Roundball Classic ,0
 1999-12-06,Bullitt Central,Spencer County,79,57,0,   ,0
 1999-12-06,East Carter,Rowan County,77,64,1,  EKC Tournament ,0
 1999-12-06,Elliott County,Morgan County,91,62,0,  EKC Tournament ,0
 1999-12-06,June Buchanan,Piarist School,83,39,1,   ,0
-1999-12-06,Lake County. TN,Fulton County,73,64,0,   ,0
+1999-12-06,Out of State,Fulton County,73,64,0,   ,0
 1999-12-06,Montgomery County,Estill County,70,60,1,   ,0
 1999-12-06,Russell,Raceland,51,48,0,   ,0
 1999-12-06,Webster County,Dawson Springs,90,55,1,   ,0
 1999-12-06,West Carter,Lawrence County,73,68,0,  EKC ,0
 1999-12-06,Western,Holy Cross (Louisville),68,61,1,   ,0
-1999-12-06,Fairfield. OH,Ryle,-,-,2,   ,0
+1999-12-06,Out of State,Ryle,-,-,2,   ,0
 1999-12-07,Anderson County,Spencer County,77,45,0,   ,0
 1999-12-07,Augusta,Bellevue,80,77,1,   ,0
-1999-12-07,Badin. OH,St. Henry,55,48,2,   ,0
+1999-12-07,Out of State,St. Henry,55,48,2,   ,0
 1999-12-07,Ballard,Atherton,110,50,1,   ,0
 1999-12-07,Barren County,Allen County-Scottsville,73,64,0,   ,0
 1999-12-07,Belfry,Sheldon Clark,68,59,1,   ,0
@@ -382,17 +378,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-07,Bryan Station,Lee County,75,34,0,   ,0
 1999-12-07,Butler,DeSales,60,50,0,   ,0
 1999-12-07,Caldwell County,Crittenden County,63,50,1,   ,0
-1999-12-07,Calvary Christian,New Richmond. OH,76,57,1,   ,0
+1999-12-07,Calvary Christian,Out of State,76,57,1,   ,0
 1999-12-07,Campbell County,Pendleton County,71,50,1,   ,0
 1999-12-07,Campbellsville,Taylor County,97,67,0,   ,0
 1999-12-07,Central Hardin,Bullitt East,87,70,1,   ,0
 1999-12-07,Christian County,Fort Campbell,87,63,0,   ,0
 1999-12-07,Clay County,Jenkins,84,24,1,   ,0
 1999-12-07,Clinton County,Monroe County,96,83,1,   ,0
-1999-12-07,Clinton. TN,Whitley County,60,58,2,   ,0
+1999-12-07,Out of State,Whitley County,60,58,2,   ,0
 1999-12-07,Conner,Boone County,62,40,0,   ,0
 1999-12-07,Corbin,Cawood,85,56,1,   ,0
-1999-12-07,Covington Catholic,Archbishop Moeller. OH,62,55,1,   ,0
+1999-12-07,Covington Catholic,Out of State,62,55,1,   ,0
 1999-12-07,Danville,Somerset,60,51,1,   ,0
 1999-12-07,Daviess County,McLean County,69,50,0,   ,0
 1999-12-07,Doss,Central,54,53,0,   ,0
@@ -450,7 +446,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-07,Pleasure Ridge Park,Fairdale,78,75,0,   ,0
 1999-12-07,Providence,Lyon County,60,59,1,   ,0
 1999-12-07,Pulaski County,Knox Central,58,41,1,   ,0
-1999-12-07,Restoration Christian. IN,Louisville Collegiate,73,66,0,   ,0
+1999-12-07,Out of State,Louisville Collegiate,73,66,0,   ,0
 1999-12-07,Riverside Christian,Buckhorn,99,88,0,   ,0
 1999-12-07,Russell,Elliott County,71,61,2,  EKC Tournament ,0
 1999-12-07,Russell County,Monticello,70,68,1,   ,0
@@ -471,20 +467,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-07,Washington County,Bardstown,58,52,0,   ,0
 1999-12-07,Wayne County,McCreary Central,73,67,1,   ,0
 1999-12-07,Western Hills,Sayre,81,31,1,   ,0
-1999-12-07,Williamsburg,Jellico. TN,78,42,2,   ,0
+1999-12-07,Williamsburg,Out of State,78,42,2,   ,0
 1999-12-07,Evangel Christian,Beth Haven,-,-,0,   ,0
-1999-12-07,Covington Latin,Clarke Montessori,-,-,0,   ,0
+1999-12-07,Covington Latin,Out of State,-,-,0,   ,0
 1999-12-08,East Carter,West Carter,60,57,2,  EKC Tournament ,0
 1999-12-08,Frankfort,Woodford County,76,61,1,  Capital City Classic Tournament ,0
 1999-12-08,Holy Cross (Louisville),Shawnee,90,84,1,  (overtime) ,1
 1999-12-08,Powell County,Ashland Blazer,60,59,1,   ,0
 1999-12-08,St. Francis,Louisville Collegiate,68,58,1,   ,0
 1999-12-08,Woodford County,Western Hills,76,69,0,  Capital City Classic Tournament ,0
-1999-12-09,Ballard,Kirkwood. MO,75,53,2,  KMOX Shootout ,0
+1999-12-09,Ballard,Out of State,75,53,2,  KMOX Shootout ,0
 1999-12-09,Ballard Memorial,Fulton County,67,49,0,   ,0
 1999-12-09,Bardstown,Fort Knox,60,49,0,   ,0
 1999-12-09,Brown,Walden,101,41,1,   ,0
-1999-12-09,Calvary Christian,Hillcrest. OH,85,73,1,   ,0
+1999-12-09,Calvary Christian,Out of State,85,73,1,   ,0
 1999-12-09,Carlisle County,Murray,73,57,1,   ,0
 1999-12-09,East Carter,Russell,71,47,2,  EKC Tournament (Championship) ,0
 1999-12-09,Fulton City,St. Mary,60,54,0,   ,0
@@ -556,7 +552,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-10,Letcher,Whitesburg,57,53,1,   ,0
 1999-12-10,Lincoln County,Casey County,68,58,0,   ,0
 1999-12-10,Lone Oak,Reidland,73,49,1,   ,0
-1999-12-10,Lynn Camp,J. Frank White. TN,95,51,2,   ,0
+1999-12-10,Lynn Camp,Out of State,95,51,2,   ,0
 1999-12-10,Madison Central,George Rogers Clark,59,58,0,   ,0
 1999-12-10,Madisonville-North Hopkins,University Heights,76,61,1,   ,0
 1999-12-10,Male,DuPont Manual,94,50,1,   ,0
@@ -565,8 +561,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-10,Mayfield,Fulton County,57,52,1,   ,0
 1999-12-10,McLean County,Cloverport,81,35,1,   ,0
 1999-12-10,Meade County,North Bullitt,49,46,0,   ,0
-1999-12-10,Memphis Booker T. Washington. TN,Marshall County,78,47,0,   ,0
-1999-12-10,Memphis Melrose. TN,Graves County,58,56,2,   ,0
+1999-12-10,Out of State,Marshall County,78,47,0,   ,0
+1999-12-10,Out of State,Graves County,58,56,2,   ,0
 1999-12-10,Middlesboro,Evarts,82,53,0,   ,0
 1999-12-10,Muhlenberg North,Hancock County,76,39,0,   ,0
 1999-12-10,Nelson County,Bethlehem,67,46,1,   ,0
@@ -579,7 +575,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-10,Owen County,Carroll County,60,55,1,   ,0
 1999-12-10,Owensboro Catholic,Owensboro,61,53,0,   ,0
 1999-12-10,Paducah Tilghman,Calloway County,64,47,1,   ,0
-1999-12-10,Pickett County. TN,Clinton County,92,78,0,   ,0
+1999-12-10,Out of State,Clinton County,92,78,0,   ,0
 1999-12-10,Pikeville,Millard,90,45,0,   ,0
 1999-12-10,Pineville,All Saints,66,28,0,   ,0
 1999-12-10,Pleasure Ridge Park,Butler,74,63,0,   ,0
@@ -609,15 +605,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-11,Bishop Brossart,Campbell County,59,55,0,   ,0
 1999-12-11,Bracken County,Paris,72,71,0,   ,0
 1999-12-11,Bryan Station,Pleasure Ridge Park,72,67,2,  Republic Bank Lexington-Louisville Hoops Challenge ,0
-1999-12-11,Calvary Christian,Landmark Christian. OH,60,49,2,   ,0
+1999-12-11,Calvary Christian,Out of State,60,49,2,   ,0
 1999-12-11,Cawood,Buckhorn,97,59,0,   ,0
 1999-12-11,Christian Academy-Louisville,Christian Fellowship,69,44,0,   ,0
-1999-12-11,Crittenden County,Trigg County,71,68,0,  double-overtime ,0
+1999-12-11,Crittenden County,Trigg County,71,68,0,  double-overtime ,1
 1999-12-11,Daviess County,Trinity (Whitesville),75,49,0,   ,0
-1999-12-11,Evansville FJ Reitz. IN,Henderson County,63,58,0,   ,0
+1999-12-11,Out of State,Henderson County,63,58,0,   ,0
 1999-12-11,Evarts,Jackson City,70,64,0,   ,0
 1999-12-11,Feds Creek,Elkhorn City,66,54,1,   ,0
-1999-12-11,Fort Campbell,Clarksville Academy. TN,67,55,1,   ,0
+1999-12-11,Fort Campbell,Out of State,67,55,1,   ,0
 1999-12-11,Frankfort,Western Hills,77,71,1,  Capital City Classic Tournament ,0
 1999-12-11,Franklin County,Woodford County,60,58,2,  Capital City Classic Tournament ,0
 1999-12-11,Franklin-Simpson,Metcalfe County,68,60,1,   ,0
@@ -633,12 +629,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-11,Lafayette,Eastern,74,56,1,  Republic Bank Lexington-Louisville Hoops Challenge ,0
 1999-12-11,Lawrence County,Rowan County,64,54,0,   ,0
 1999-12-11,Lexington Catholic,DuPont Manual,64,58,2,  Republic Bank Lexington-Louisville Hoops Challenge ,0
-1999-12-11,Ludlow,St. Bernard. OH,54,44,1,   ,0
+1999-12-11,Ludlow,Out of State,54,44,1,   ,0
 1999-12-11,Magoffin County,Prestonsburg,53,37,0,   ,0
 1999-12-11,Male,Paul Laurence Dunbar,65,62,2,  Republic Bank Lexington-Louisville Hoops Challenge ,0
-1999-12-11,Marshall County,Memphis Melrose. TN,71,50,2,   ,0
+1999-12-11,Marshall County,Out of State,71,50,2,   ,0
 1999-12-11,McLean County,Caldwell County,84,63,1,   ,0
-1999-12-11,Memphis Booker T. Washington. TN,Graves County,57,53,0,   ,0
+1999-12-11,Out of State,Graves County,57,53,0,   ,0
 1999-12-11,Model,Eminence,66,63,1,  Winn Dixie Patriot Classic ,0
 1999-12-11,Newport,Villa Madonna,93,60,0,   ,0
 1999-12-11,Oldham County,Union County,54,49,1,  Coaches Versus Cancer Tournament ,0
@@ -649,20 +645,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-11,Pikeville,Whitley County,42,40,0,   ,0
 1999-12-11,Powell County,Danville,55,53,2,   ,0
 1999-12-11,Somerset,Cumberland County,83,75,1,   ,0
-1999-12-11,South Central,Meade County,64,55,1,   ,0
+1999-12-11,Out of State,Meade County,64,55,1,   ,0
 1999-12-11,South Floyd,Pike County Central,99,77,0,   ,0
 1999-12-11,St. Henry,Boone County,56,54,0,   ,0
-1999-12-11,St. Patrick,West Union. OH,63,57,1,   ,0
+1999-12-11,St. Patrick,Out of State,63,57,1,   ,0
 1999-12-11,Tates Creek,Jeffersontown,54,48,2,  Republic Bank Lexington-Louisville Hoops Challenge ,0
 1999-12-11,Taylor County,Butler County,66,39,2,  Southern Kentucky Classic ,0
 1999-12-11,Union County,Grayson County,55,46,2,  Coaches Versus Cancer Tournament ,0
-1999-12-11,Union County. TN,Cumberland,54,51,0,   ,0
+1999-12-11,Out of State,Cumberland,54,51,0,   ,0
 1999-12-11,Webster County,Lyon County,63,51,0,   ,0
 1999-12-11,Whitefield Academy,Lexington Christian,74,47,2,  Republic Bank Lexington-Louisville Hoops Challenge ,0
 1999-12-11,Whitesburg,Breathitt County,62,40,0,   ,0
 1999-12-11,Williamstown,Henry County,68,53,1,   ,0
 1999-12-12,Knott County Central,Cordia,90,71,1,   ,0
-1999-12-12,Lynn Camp,Thomas Walker. VA,103,61,1,   ,0
+1999-12-12,Lynn Camp,Out of State,103,61,1,   ,0
 1999-12-12,Trimble County,McCreary Central,74,61,2,  Coaches Versus Cancer Classic ,0
 1999-12-13,Bardstown,LaRue County,66,64,1,   ,0
 1999-12-13,Central Hardin,Shawnee,67,60,0,   ,0
@@ -673,7 +669,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-13,Hopkins County Central,Trigg County,82,42,1,   ,0
 1999-12-13,Kentucky Country Day,Portland Christian,59,50,0,   ,0
 1999-12-13,Kentucky School f/t Deaf,All Saints,75,48,1,   ,0
-1999-12-13,Lynn Camp,Jellico. TN,104,65,1,   ,0
+1999-12-13,Lynn Camp,Out of State,104,65,1,   ,0
 1999-12-13,Owensboro Catholic,Butler County,80,25,1,   ,0
 1999-12-13,St. Mary,Murray,76,57,1,   ,0
 1999-12-13,West Carter,Elliott County,82,61,1,   ,0
@@ -746,7 +742,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-14,Male,Atherton,81,64,0,   ,0
 1999-12-14,Marion County,Green County,77,59,0,   ,0
 1999-12-14,Mason County,Campbell County,63,49,1,   ,0
-1999-12-14,Massac County. IL,Heath,78,55,2,   ,0
+1999-12-14,Out of State,Heath,78,55,2,   ,0
 1999-12-14,McLean County,Ohio County,59,55,0,   ,0
 1999-12-14,Montgomery County,Paris,58,36,0,   ,0
 1999-12-14,Muhlenberg North,Hopkins County Central,82,66,1,   ,0
@@ -768,7 +764,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-14,Powell County,Lee County,101,47,1,   ,0
 1999-12-14,Pulaski County,Leslie County,95,61,2,  Commodore 4 Classic ,0
 1999-12-14,Pulaski County,Cumberland County,91,63,1,   ,0
-1999-12-14,Restoration Christian. IN,Walden,76,38,0,   ,0
+1999-12-14,Out of State,Walden,76,38,0,   ,0
 1999-12-14,Rockcastle County,Clay County,75,52,0,   ,0
 1999-12-14,Russell,Bath County,79,52,0,   ,0
 1999-12-14,Russellville,University Heights,64,52,1,   ,0
@@ -788,7 +784,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-14,Wayne County,Monticello,67,48,0,   ,0
 1999-12-14,West Carter,Raceland,75,55,0,   ,0
 1999-12-14,West Jessamine,Sayre,89,54,1,   ,0
-1999-12-14,Whitley County,Jellico. TN,58,37,2,   ,0
+1999-12-14,Whitley County,Out of State,58,37,2,   ,0
 1999-12-14,Woodford County,Millersburg Military,89,38,2,   ,0
 1999-12-15,Elliott County,Bath County,83,54,1,   ,0
 1999-12-15,Estill County,Lee County,72,53,1,  Hardy Oil Classic Tournament ,0
@@ -797,21 +793,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-15,Lloyd Memorial,Walton-Verona,68,37,1,   ,0
 1999-12-15,Powell County,Jackson County,72,62,2,  Hardy Oil Classic Tournament ,0
 1999-12-15,Wolfe County,Breathitt County,76,73,0,   ,0
-1999-12-16,Bowling Green,Holy Cross,74,56,2,  King of the Bluegrass Tournament ,0
+1999-12-16,Bowling Green,Holy Cross (Louisville),74,56,2,  King of the Bluegrass Tournament ,0
 1999-12-16,Brown,Louisville Collegiate,99,76,0,   ,0
-1999-12-16,Calvary Christian,,87,70,2,   ,0
+1999-12-16,Calvary Christian,Out of State,87,70,2,   ,0
 1999-12-16,Casey County,Paris,84,73,2,  McDonalds Classic ,0
 1999-12-16,Corbin,Danville,71,55,2,  McDonalds Classic ,0
 1999-12-16,Cumberland County,Monroe County,65,57,0,   ,0
 1999-12-16,Estill County,Buckhorn,73,64,1,  Hardy Oil Classic Tournament ,0
 1999-12-16,Fairdale,Boyd County,96,64,1,  King of the Bluegrass Tournament ,0
-1999-12-16,Grundy. VA,Elkhorn City,70,53,0,   ,0
+1999-12-16,Out of State,Elkhorn City,70,53,0,   ,0
 1999-12-16,Harlan,Cawood,79,74,1,   ,0
 1999-12-16,Harrodsburg,Somerset,87,79,1,  McDonalds Classic (overtime) ,1
 1999-12-16,Holmes,Boone County,59,51,2,  Eagle Bank Classic Tournament ,0
 1999-12-16,Jackson County,Lee County,106,56,2,  Hardy Oil Classic Tournament ,0
-1999-12-16,Kentucky School f/t Deaf,School f/t Deaf. TN,63,13,2,   ,0
-1999-12-16,Lone Oak,Cairo. IL,76,75,2,  Paducah Tilghman Christmas Tournament ,0
+1999-12-16,Kentucky School f/t Deaf,Out of State,63,13,2,   ,0
+1999-12-16,Lone Oak,Out of State,76,75,2,  Paducah Tilghman Christmas Tournament ,0
 1999-12-16,Mayfield,Calloway County,52,37,0,   ,0
 1999-12-16,Middlesboro,Pineville,59,48,0,   ,0
 1999-12-16,Paul Laurence Dunbar,Ryle,60,45,2,  Eagle Bank Classic Tournament ,0
@@ -825,22 +821,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-17,Anderson County,Western Hills,57,55,1,   ,0
 1999-12-17,Augusta,Elliott County,76,66,1,   ,0
 1999-12-17,Beechwood,Villa Madonna,88,49,1,   ,0
-1999-12-17,Bell County,Union County. TN,66,50,1,   ,0
+1999-12-17,Bell County,Out of State,66,50,1,   ,0
 1999-12-17,Beth Haven,Evangel Christian,71,52,1,   ,0
 1999-12-17,Bethlehem,Hart County,60,58,1,   ,0
 1999-12-17,Breckinridge County,Trinity (Whitesville),51,41,0,   ,0
-1999-12-17,Brodenton. FL,North Laurel,91,79,2,  Bradenton Invitational Tournament ,0
+1999-12-17,Out of State,North Laurel,91,79,2,  Bradenton Invitational Tournament ,0
 1999-12-17,Bryan Station,Henry Clay,75,60,1,   ,0
 1999-12-17,Bullitt East,Spencer County,85,59,1,   ,0
 1999-12-17,Burgin,Southwestern,85,71,1,   ,0
 1999-12-17,Campbell County,Bracken County,92,57,1,   ,0
-1999-12-17,Carlisle County,Memphis Wooddale. TN,71,61,2,  Paducah Tilghman Tourney ,0
+1999-12-17,Carlisle County,Out of State,71,61,2,  Paducah Tilghman Tourney ,0
 1999-12-17,Carroll County,Williamstown,98,62,1,   ,0
 1999-12-17,Central Hardin,Nelson County,68,54,0,   ,0
 1999-12-17,Clinton County,Rockcastle County,67,65,1,   ,0
 1999-12-17,Cloverport,Butler County,76,69,2,   ,0
 1999-12-17,Corbin,Washington County,52,38,2,  McDonalds Classic Tournament ,0
-1999-12-17,Covington Catholic,Conner,76,67,1,  (double overtime) ,0
+1999-12-17,Covington Catholic,Conner,76,67,1,  (double overtime) ,1
 1999-12-17,Crittenden County,Fort Campbell,60,43,1,   ,0
 1999-12-17,Daviess County,Grayson County,74,71,1,  (overtime) ,1
 1999-12-17,Dixie Heights,Holy Cross (Covington),77,65,1,   ,0
@@ -848,7 +844,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-17,East Jessamine,Sayre,79,53,0,   ,0
 1999-12-17,Edmonson County,Barren County,57,56,1,   ,0
 1999-12-17,Eminence,Henry County,62,32,1,   ,0
-1999-12-17,Evansville North. IN,Henderson County,74,69,2,  Border War Shootout Tournament ,0
+1999-12-17,Out of State,Henderson County,74,69,2,  Border War Shootout Tournament ,0
 1999-12-17,Evarts,Red Bird,68,59,0,   ,0
 1999-12-17,Fairview,Russell,61,60,1,   ,0
 1999-12-17,Frankfort,Magoffin County,53,52,0,   ,0
@@ -869,7 +865,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-17,LaRue County,Caverna,56,54,0,   ,0
 1999-12-17,Lawrence County,Rose Hill Christian,85,56,1,   ,0
 1999-12-17,Lee County,Buckhorn,77,71,2,  Hardy Oil Classic Tournament ,0
-1999-12-17,Leesburg. FL,Scott County,85,77,2,  Great Florida Shootout ,0
+1999-12-17,Out of State,Scott County,85,77,2,  Great Florida Shootout ,0
 1999-12-17,Letcher,Fleming-Neon,69,64,1,   ,0
 1999-12-17,Lincoln County,Boyle County,68,51,1,   ,0
 1999-12-17,Livingston Central,Trigg County,69,50,1,   ,0
@@ -887,14 +883,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-17,Monticello,McCreary Central,63,60,1,   ,0
 1999-12-17,Newport Central Catholic,Bishop Brossart,75,57,1,   ,0
 1999-12-17,Nicholas County,Deming,60,54,1,   ,0
-1999-12-17,Oneida Baptist Institute,Allajulah. GA,79,31,2,  Curtis Baptist Tournament ,0
+1999-12-17,Oneida Baptist Institute,Out of State,79,31,2,  Curtis Baptist Tournament ,0
 1999-12-17,Owen County,Oldham County,66,55,1,   ,0
 1999-12-17,Owensboro,Muhlenberg South,50,49,1,   ,0
 1999-12-17,Owensboro Catholic,Hancock County,46,27,1,   ,0
 1999-12-17,Owsley County,Wolfe County,72,58,0,   ,0
 1999-12-17,Paducah Tilghman,Mayfield,63,50,1,  Paducah Tilghman Tourney ,0
 1999-12-17,Paintsville,Betsy Layne,59,53,1,   ,0
-1999-12-17,Pallverde. NV,South Laurel,69,48,2,  Reebok Holiday Prep Classic ,0
+1999-12-17,Out of State,South Laurel,69,48,2,  Reebok Holiday Prep Classic ,0
 1999-12-17,Paris,Somerset,83,59,2,  McDonalds Classic Tournament ,0
 1999-12-17,Paul Laurence Dunbar,Holmes,45,31,2,  Eagle Bank Classic Tournament ,0
 1999-12-17,Perry County Central,Knott County Central,86,47,1,   ,0
@@ -910,139 +906,139 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-17,South Floyd,Allen Central,93,80,0,   ,0
 1999-12-17,South Oldham,Gallatin County,52,46,1,   ,0
 1999-12-17,St. Francis,Covington Latin,67,27,0,   ,0
-1999-12-17,Tates Creek,Williamson. WV,74,61,2,  Pikeville Invitational Tournament ,0
+1999-12-17,Tates Creek,Out of State,74,61,2,  Pikeville Invitational Tournament ,0
 1999-12-17,Todd County Central,Franklin-Simpson,60,54,0,   ,0
 1999-12-17,Trinity (Louisville),Christian Academy-Louisville,76,54,1,   ,0
 1999-12-17,Union County,Webster County,55,40,0,   ,0
-1999-12-17,Volunteer. TN,Jenkins,62,53,2,  Kentucky-Tennessee Classic Tournament ,0
+1999-12-17,Out of State,Jenkins,62,53,2,  Kentucky-Tennessee Classic Tournament ,0
 1999-12-17,West Carter,Morgan County,80,63,1,   ,0
 1999-12-17,West Jessamine,Lexington Christian,91,70,1,   ,0
 1999-12-17,Williamsburg,Lynn Camp,73,46,1,   ,0
 1999-12-17,Woodford County,Berea,63,51,1,   ,0
-1999-12-18,,Owensboro Catholic,47,39,2,  Hoops Classic Tournament ,0
+1999-12-18,Out of State,Owensboro Catholic,47,39,2,  Hoops Classic Tournament ,0
 1999-12-18,Allen Central,Cawood,78,75,2,   ,0
-1999-12-18,Ballard,Cypress Lake. FL,102,45,2,  City of Palms Classic Tournament ,0
+1999-12-18,Ballard,Out of State,102,45,2,  City of Palms Classic Tournament ,0
 1999-12-18,Ballard Memorial,Henry Clay,64,50,2,  Hub City Classic Tournament ,0
-1999-12-18,Beech. TN,Whitley County,70,47,2,  Smokey Mountain Classic Tournament ,0
+1999-12-18,Out of State,Whitley County,70,47,2,  Smokey Mountain Classic Tournament ,0
 1999-12-18,Betsy Layne,Piarist School,86,47,0,   ,0
 1999-12-18,Boone County,Paul Laurence Dunbar,57,54,2,  Eagle Bank Classic Tournament ,0
 1999-12-18,Bowling Green,Madisonville-North Hopkins,67,66,2,  King of the Bluegrass Tournament ,0
 1999-12-18,Casey County,Washington County,73,54,2,  McDonalds Classic Tournament ,0
 1999-12-18,Christian Fellowship,Portland Christian,55,51,0,   ,0
 1999-12-18,Corbin,Harrodsburg,78,60,2,  McDonalds Classic Tournament ,0
-1999-12-18,DuPont Manual,Holy Cross,87,74,2,  King of the Bluegrass Tournament ,0
+1999-12-18,DuPont Manual,Holy Cross (Louisville),87,74,2,  King of the Bluegrass Tournament ,0
 1999-12-18,Eastern,Western,80,63,2,  Derby City Classic Tournament ,0
 1999-12-18,Elizabethtown,Lincoln County,72,61,1,  Hub City Classic Tournament ,0
-1999-12-18,Fleming-Neon,Mountain Mission. VA,80,63,1,   ,0
+1999-12-18,Fleming-Neon,Out of State,80,63,1,   ,0
 1999-12-18,Grant County,Holmes,63,58,1,  Eagle Bank Classic Tournament ,0
-1999-12-18,Graves County,Obion County. TN,60,44,2,   ,0
+1999-12-18,Graves County,Out of State,60,44,2,   ,0
 1999-12-18,Greenup County,Lewis County,55,44,1,   ,0
 1999-12-18,Greenwood,Doss,79,59,2,  Hub City Classic Tournament ,0
 1999-12-18,Harlan,Evarts,87,64,0,   ,0
-1999-12-18,Hazelwood Central. MO,Henderson County,75,70,2,  Border War Shootout Tournament (double overtime) ,0
+1999-12-18,Out of State,Henderson County,75,70,2,  Border War Shootout Tournament (double overtime) ,1
 1999-12-18,Heritage Academy,Evangel Christian,73,43,1,   ,0
 1999-12-18,Highlands,North Hardin,69,52,1,   ,0
 1999-12-18,Jackson County,Estill County,76,61,0,  Hardy Oil Classic Tournament ,0
-1999-12-18,Jenkins,Sullivan North. TN,61,59,0,  Kentucky-Tennessee Classic Tournament ,0
+1999-12-18,Jenkins,Out of State,61,59,0,  Kentucky-Tennessee Classic Tournament ,0
 1999-12-18,Kentucky Country Day,Dayton,63,54,1,   ,0
-1999-12-18,Lafayette,St. Thomas Aquinas. FL,68,66,2,  Kreul Classic Tournament ,0
-1999-12-18,Lexington Catholic,Coral Springs. FL,82,56,2,  Kruel Classic Tournament ,0
+1999-12-18,Lafayette,Out of State,68,66,2,  Kreul Classic Tournament ,0
+1999-12-18,Lexington Catholic,Out of State,82,56,2,  Kruel Classic Tournament ,0
 1999-12-18,Lloyd Memorial,St. Patrick,58,48,1,   ,0
 1999-12-18,Male,St. Xavier,72,56,2,  King of the Bluegrass Tournament ,0
-1999-12-18,Manatee. FL,North Laurel,66,63,2,  Bradenton Invitational Tournament ,0
+1999-12-18,Out of State,North Laurel,66,63,2,  Bradenton Invitational Tournament ,0
 1999-12-18,Marion County,Boyd County,70,68,2,  King of the Bluegrass Tournament ,0
-1999-12-18,McCreary Central,Jellico. TN,85,63,1,   ,0
+1999-12-18,McCreary Central,Out of State,85,63,1,   ,0
 1999-12-18,Mercer County,Paris,68,60,1,  McDonalds Classic Tournament ,0
 1999-12-18,Montgomery County,Nicholas County,57,43,1,   ,0
 1999-12-18,Newport Central Catholic,Fleming County,65,42,1,   ,0
-1999-12-18,Oneida Baptist Institute,Curtis Baptist,72,61,0,  Curtis Baptist Christmas Classic Tournament ,0
+1999-12-18,Oneida Baptist Institute,Out of State,72,61,0,  Curtis Baptist Christmas Classic Tournament ,0
 1999-12-18,Paducah Tilghman,Carlisle County,84,66,1,  Paducah Tilghman Tourney ,0
-1999-12-18,Phelps,Matewan. WV,57,51,1,   ,0
+1999-12-18,Phelps,Out of State,57,51,1,   ,0
 1999-12-18,Pikeville,Tates Creek,57,44,1,  Pikeville Invitational Tournament ,0
-1999-12-18,Pleasure Ridge Park,Stratford. TX,58,44,2,  Reebok Prep Classic Tournament ,0
+1999-12-18,Pleasure Ridge Park,Out of State,58,44,2,  Reebok Prep Classic Tournament ,0
 1999-12-18,Powell County,Buckhorn,102,56,2,  Hardy Oil Classic Tournament ,0
 1999-12-18,Riverside Christian,All Saints,86,70,1,   ,0
 1999-12-18,Rockcastle County,Bellevue,72,46,1,   ,0
 1999-12-18,Russellville,Christian County,76,74,2,  King of the Bluegrass Tournament ,0
 1999-12-18,Scott,Calvary Christian,90,63,0,   ,0
-1999-12-18,Seymore. TN,Middlesboro,53,40,2,  Smokey Mountain Classic Tournament ,0
-1999-12-18,Shelby Valley,Grundy. VA,74,59,1,    ,0
+1999-12-18,Out of State,Middlesboro,53,40,2,  Smokey Mountain Classic Tournament ,0
+1999-12-18,Shelby Valley,Out of State,74,59,1,    ,0
 1999-12-18,Simon Kenton,Sheldon Clark,83,51,0,   ,0
 1999-12-18,Somerset,Danville,55,39,2,  McDonalds Classic Tournament ,0
-1999-12-18,South Laurel,Sylmar. CA,80,53,2,  Reebok Holiday Prep Classic ,0
+1999-12-18,South Laurel,Out of State,80,53,2,  Reebok Holiday Prep Classic ,0
 1999-12-18,Southern,DeSales,51,50,2,  Derby City Classic Tournament ,0
 1999-12-18,St. Mary,Lone Oak,65,57,2,  Paducah Tilghman Invitational Tournament  ,0
 1999-12-18,St. Mary,Paducah Tilghman,52,51,0,  Paducah Tilghman Invitational Tournament  ,0
 1999-12-18,Trimble County,Henry County,52,35,1,    ,0
-1999-12-18,Tuscon Santa Rita. AZ,Scott County,73,65,2,  Great Florida Shootout ,0
+1999-12-18,Out of State,Scott County,73,65,2,  Great Florida Shootout ,0
 1999-12-18,Whitefield Academy,Christian Academy-Louisville,50,46,2,  (overtime) ,1
-1999-12-18,Covington Latin,Center Christian Academy,-,-,0,   ,0
+1999-12-18,Covington Latin,Out of State,-,-,0,   ,0
 1999-12-19,Doss,Campbellsville,67,63,2,  Hub City Classic Tournament ,0
 1999-12-19,Eastern,Southern,75,62,2,  Derby City Classic Tournament ,0
 1999-12-19,Elizabethtown,Ballard Memorial,64,43,1,  Hub City Classic Tournament ,0
-1999-12-19,Greenwood,Father Lopez. FL,62,60,2,  Hub City Classic Tournament ,0
+1999-12-19,Greenwood,Out of State,62,60,2,  Hub City Classic Tournament ,0
 1999-12-19,Henry Clay,Lincoln County,56,50,2,  Hub City Classic Tournament ,0
-1999-12-19,Palmetto Ridge. FL,North Laurel,87,77,2,  Bradenton Invitational Tournament (overtime) ,1
-1999-12-20,Australian Team,Lynn Camp,80,57,2,  H & W Classic Tournament ,0
-1999-12-20,Berkshire. FL,Male,80,77,2,  King of the Bluegrass Tournament ,0
+1999-12-19,Out of State,North Laurel,87,77,2,  Bradenton Invitational Tournament (overtime) ,1
+1999-12-20,Out of State,Lynn Camp,80,57,2,  H & W Classic Tournament ,0
+1999-12-20,Out of State,Male,80,77,2,  King of the Bluegrass Tournament ,0
 1999-12-20,Bethlehem,North Bullitt,62,59,1,  Papa John's Classic Tournament ,0
 1999-12-20,Bowling Green,Shelby County,86,73,2,  King of the Bluegrass Tournament ,0
-1999-12-20,Boyd Christian. TN,Dawson Springs,72,60,2,  Page Christmas Tournament ,0
+1999-12-20,Out of State,Dawson Springs,72,60,2,  Page Christmas Tournament ,0
 1999-12-20,Brown,Butler County,89,62,0,  Butler County Invitational Tournament ,0
 1999-12-20,Caverna,DeSales,63,62,2,  Papa John's Classic Tournament ,0
-1999-12-20,Charlotte Christian. NC,Moore,58,47,2,  Seagull Classic Tournament ,0
-1999-12-20,Cleveland. TN,Middlesboro,62,46,2,  Smokey Mountain Classic Tournament ,0
-1999-12-20,Clinton. TN,Boyle County,81,74,2,  H & W Classic Tournament ,0
+1999-12-20,Out of State,Moore,58,47,2,  Seagull Classic Tournament ,0
+1999-12-20,Out of State,Middlesboro,62,46,2,  Smokey Mountain Classic Tournament ,0
+1999-12-20,Out of State,Boyle County,81,74,2,  H & W Classic Tournament ,0
 1999-12-20,Cumberland County,Logan County,62,54,1,   ,0
 1999-12-20,Daviess County,Meade County,84,72,2,  Ohio County Invitational ,0
 1999-12-20,DuPont Manual,Marion County,73,63,2,  King of the Bluegrass Tournament ,0
 1999-12-20,Elizabethtown,Greenwood,87,79,1,  Hub City Classic Tournament (championship) ,0
-1999-12-20,Enca. NC,East Jessamine,65,49,2,  Pepsi Holiday Classic Tournament ,0
+1999-12-20,Out of State,East Jessamine,65,49,2,  Pepsi Holiday Classic Tournament ,0
 1999-12-20,Fairdale,Madisonville-North Hopkins,61,58,1,  King of the Bluegrass Tournament ,0
 1999-12-20,Fort Campbell,Butler County,81,42,0,  Butler County Christmas Tournament ,0
 1999-12-20,Hart County,Apollo,65,48,2,  Republic Bank Classic Tournament ,0
 1999-12-20,Henry Clay,Doss,62,43,2,  Hub City Classic Tournament ,0
 1999-12-20,Hopkinsville,Murray,75,60,2,   ,0
-1999-12-20,Iroquois,Farragut. TN,73,66,2,  Morristown East Christmas Classic ,0
+1999-12-20,Iroquois,Out of State,73,66,2,  Morristown East Christmas Classic ,0
 1999-12-20,Jackson City,Trigg County,82,66,2,  East-West Shootout ,0
-1999-12-20,Lexington Catholic,Socastee. SC,101,76,2,  Kreul Classic Tournament ,0
+1999-12-20,Lexington Catholic,Out of State,101,76,2,  Kreul Classic Tournament ,0
 1999-12-20,Lone Oak,Muhlenberg South,44,39,2,  Republic Bank Classic Tournament ,0
-1999-12-20,Louisville Collegiate,Restoration Christian. IN,68,58,2,  Portland Christian Holiday Classic Tournament ,0
+1999-12-20,Louisville Collegiate,Out of State,68,58,2,  Portland Christian Holiday Classic Tournament ,0
 1999-12-20,Lyon County,Fleming-Neon,81,80,2,  East-West Shootout ,0
 1999-12-20,Madison Central,Webster County,85,51,2,  Toyota Holiday Classic Tournament ,0
-1999-12-20,Massac County. IL,Carlisle County,64,61,2,   ,0
+1999-12-20,Out of State,Carlisle County,64,61,2,   ,0
 1999-12-20,McLean County,Todd County Central,61,52,2,  Ohio County Invitational Tournament ,0
 1999-12-20,Nelson County,Butler,68,65,2,  Papa John's Classic Tournament ,0
-1999-12-20,Oak Ridge. TN,St. Xavier,77,67,2,  King of the Bluegrass Tournament ,0
+1999-12-20,Out of State,St. Xavier,77,67,2,  King of the Bluegrass Tournament ,0
 1999-12-20,Ohio County,Franklin-Simpson,64,46,1,  Ohio County Invitational Tournament ,0
-1999-12-20,Pleasure Ridge Park,Roswell,63,54,2,  Reebok Prep Classic Tournament  ,0
+1999-12-20,Pleasure Ridge Park,Out of State,63,54,2,  Reebok Prep Classic Tournament  ,0
 1999-12-20,Portland Christian,Evangel Christian,62,53,1,  Portland Christian Holiday Classic Tournament ,0
-1999-12-20,Russellville,Huntsville. AL,60,55,2,  King of the Bluegrass Tournament ,0
+1999-12-20,Russellville,Out of State,60,55,2,  King of the Bluegrass Tournament ,0
 1999-12-20,St. Patrick,Bracken County,74,51,0,   ,0
 1999-12-20,Trimble County,Monticello,57,55,2,  Toyota Holiday Classic Tournament ,0
 1999-12-20,Trinity (Louisville),Bullitt East,66,46,2,  Papa John's Classic Tournament ,0
-1999-12-20,University Heights,Brighton. TN,57,52,2,  Bartlett Stagecoach Shootout ,0
+1999-12-20,University Heights,Out of State,57,52,2,  Bartlett Stagecoach Shootout ,0
 1999-12-20,Waggener,Breathitt County,77,49,2,  H & W Classic Tournament ,0
 1999-12-20,Warren Central,Taylor County,83,54,1,   ,0
 1999-12-20,Warren East,Henry County,66,55,2,  Republic Bank Classic Tournament ,0
 1999-12-20,Wayne County,Cordia,92,40,1,  H & W Classic Tournament ,0
-1999-12-20,Western,Ft. Myers Esteral. FL,81,76,2,  Canterbury Invitational Tournament ,0
+1999-12-20,Western,Out of State,81,76,2,  Canterbury Invitational Tournament ,0
 1999-12-20,Whitley County,Russell County,54,45,2,  Smokey Mountain Classic Tournament ,0
 1999-12-20,Wolfe County,Casey County,78,65,2,  Toyota Holiday Classic Tournament ,0
 1999-12-20,Breckinridge County,Valley,-,-,2,  Ohio County Invitational Tournament ,0
-1999-12-20,Union County. TN,Southwestern,-,-,2,  Toyota Holiday Classic Tournament ,0
+1999-12-20,Out of State,Southwestern,-,-,2,  Toyota Holiday Classic Tournament ,0
 1999-12-21,Adair County,Rockcastle County,68,62,1,    ,0
 1999-12-21,Allen Central,Betsy Layne,67,66,0,   ,0
 1999-12-21,Apollo,Taylor County,80,77,2,  Republic Bank Classic Tournament ,0
-1999-12-21,Ballard,Williamsport. PA,91,72,2,  City of Palms Classic Tournament ,0
-1999-12-21,Ballard Memorial,Father Lopez. FL,47,40,2,  Hub City Classic Tournament ,0
+1999-12-21,Ballard,Out of State,91,72,2,  City of Palms Classic Tournament ,0
+1999-12-21,Ballard Memorial,Out of State,47,40,2,  Hub City Classic Tournament ,0
 1999-12-21,Bardstown,Somerset,57,53,2,  Toyota Holiday Classic Tournament ,0
 1999-12-21,Belfry,Pike County Central,54,52,1,   ,0
 1999-12-21,Bell County,Pineville,95,52,1,   ,0
 1999-12-21,Berea,Estill County,58,53,1,   ,0
-1999-12-21,Berkshire. FL,Bowling Green,60,58,2,  King of the Bluegrass Tournament ,0
+1999-12-21,Out of State,Bowling Green,60,58,2,  King of the Bluegrass Tournament ,0
 1999-12-21,Bethlehem,Caverna,72,59,1,  Papa John's Classic Tournament ,0
-1999-12-21,Bishop Gorman. NV,Pleasure Ridge Park,78,74,2,  Reebok Classic Tournament ,0
+1999-12-21,Out of State,Pleasure Ridge Park,78,74,2,  Reebok Classic Tournament ,0
 1999-12-21,Boyle County,Breathitt County,79,45,2,  H & W Classic Tournament ,0
 1999-12-21,Bracken County,East Carter,89,71,1,   ,0
 1999-12-21,Bryan Station,Newport Central Catholic,56,50,1,   ,0
@@ -1052,40 +1048,40 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-21,Carlisle County,Hopkinsville,56,46,2,   ,0
 1999-12-21,Casey County,Webster County,64,52,2,  Toyota Holiday Classic Tournament ,0
 1999-12-21,Cawood,Barbourville,70,68,0,   ,0
-1999-12-21,Charlotte. FL,Western,68,63,2,  Canterbury Invitational Tournament ,0
-1999-12-21,Cincinnati Elder. OH,Holy Cross,85,46,2,   ,0
+1999-12-21,Out of State,Western,68,63,2,  Canterbury Invitational Tournament ,0
+1999-12-21,Out of State,Holy Cross (Covington),85,46,2,   ,0
 1999-12-21,Clay County,Knott County Central,78,50,1,   ,0
-1999-12-21,Cleveland. TN,Whitley County,48,45,2,  Smokey Mountain Classic Tournament ,0
-1999-12-21,Clinton. TN,Waggener,49,47,2,  H & W Classic Tournament ,0
+1999-12-21,Out of State,Whitley County,48,45,2,  Smokey Mountain Classic Tournament ,0
+1999-12-21,Out of State,Waggener,49,47,2,  H & W Classic Tournament ,0
 1999-12-21,Corbin,Anderson County,72,65,1,   ,0
 1999-12-21,Cordia,Lynn Camp,81,70,2,  H & W Classic Tournament ,0
-1999-12-21,Covington Latin,Clarke Montessori,45,38,0,   ,0
+1999-12-21,Covington Latin,Out of State,45,38,0,   ,0
 1999-12-21,Daviess County,Breckinridge County,60,57,2,  Ohio County Invitational Tournament ,0
 1999-12-21,Dayton,Beechwood,56,41,1,   ,0
 1999-12-21,DeSales,North Bullitt,64,44,2,  Papa John's Classic Tournament ,0
 1999-12-21,Dixie Heights,St. Henry,53,46,1,   ,0
-1999-12-21,East Jessamine,Owen County. NC,73,39,2,  Pepsi Holiday Classic Tournament ,0
+1999-12-21,East Jessamine,Out of State,73,39,2,  Pepsi Holiday Classic Tournament ,0
 1999-12-21,Elliott County,Riverside Christian,98,69,0,   ,0
 1999-12-21,Fleming-Neon,Trigg County,68,62,2,  East-West Shootout ,0
-1999-12-21,Frankfort,Glendale. Canada,59,54,2,  Toyota Holiday Classic Tournament ,0
+1999-12-21,Frankfort,Out of State,59,54,2,  Toyota Holiday Classic Tournament ,0
 1999-12-21,Franklin-Simpson,Todd County Central,74,52,2,  Ohio County Invitational Tournament ,0
 1999-12-21,Gallatin County,Eminence,66,54,1,   ,0
 1999-12-21,Glasgow,North Hardin,73,67,1,    ,0
 1999-12-21,Grant County,Walton-Verona,76,64,0,   ,0
-1999-12-21,Graves County,Jackson. MO,70,59,1,   ,0
+1999-12-21,Graves County,Out of State,70,59,1,   ,0
 1999-12-21,Green County,LaRue County,65,48,1,   ,0
 1999-12-21,Greenup County,Morgan County,40,24,1,  Greenup County Invitational Tournament ,0
-1999-12-21,Hancock County,Cannelton. IN,83,35,2,   ,0
+1999-12-21,Hancock County,Out of State,83,35,2,   ,0
 1999-12-21,Harrodsburg,Burgin,56,53,1,  McDonalds Classic Tournament ,0
 1999-12-21,Hazard,Cumberland,72,51,1,   ,0
 1999-12-21,Highlands,Lewis County,64,56,2,  Greenup County Invitational Tournament ,0
 1999-12-21,Holmes,Fleming County,57,35,0,   ,0
-1999-12-21,Iroquois,Cosby,82,66,2,  Morristown Invitational Tournament ,0
-1999-12-21,Jackson North Side. TN,University Heights,68,67,2,  Memphis Bartlett Shootout ,0
+1999-12-21,Iroquois,Out of State,82,66,2,  Morristown Invitational Tournament ,0
+1999-12-21,Out of State,University Heights,68,67,2,  Memphis Bartlett Shootout ,0
 1999-12-21,Jenkins,Buckhorn,80,72,1,   ,0
 1999-12-21,Johnson Central,Feds Creek,79,60,1,   ,0
-1999-12-21,Lafayette,Lake Worth. FL,57,54,2,  Kruel Classic Tournament ,0
-1999-12-21,Lexington Catholic,Ely. FL,84,66,2,  Kreul Classic Tournament ,0
+1999-12-21,Lafayette,Out of State,57,54,2,  Kruel Classic Tournament ,0
+1999-12-21,Lexington Catholic,Out of State,84,66,2,  Kreul Classic Tournament ,0
 1999-12-21,Lloyd Memorial,Villa Madonna,90,45,0,   ,0
 1999-12-21,Ludlow,Heritage Academy,59,42,0,   ,0
 1999-12-21,Lyon County,Jackson City,67,60,2,  East-West Shootout ,0
@@ -1095,13 +1091,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-21,Meade County,Valley,78,72,2,  Ohio County Invitational Tournament ,0
 1999-12-21,Menifee County,Bath County,54,53,1,   ,0
 1999-12-21,Middlesboro,Russell County,60,53,2,  Smokey Mountain Classic Tournament ,0
-1999-12-21,Monterey. TN,Dawson Springs,70,49,2,  Page Christmas Tournament ,0
-1999-12-21,Monticello,Union County. TN,62,45,2,  Toyota Holiday Classic Tournament ,0
-1999-12-21,Moore,Belton. SC,56,31,2,  Seagull Classic Tournament ,0
+1999-12-21,Out of State,Dawson Springs,70,49,2,  Page Christmas Tournament ,0
+1999-12-21,Monticello,Out of State,62,45,2,  Toyota Holiday Classic Tournament ,0
+1999-12-21,Moore,Out of State,56,31,2,  Seagull Classic Tournament ,0
 1999-12-21,Muhlenberg North,Henderson County,85,72,0,   ,0
 1999-12-21,Muhlenberg South,Henry County,58,37,2,  Republic Bank Classic Tournament ,0
-1999-12-21,Nelson County,Trinity,70,64,2,  Papa John's Classic Tournament ,0
-1999-12-21,Oak Ridge. TN,Fairdale,66,61,0,  King of the Bluegrass Tournament ,0
+1999-12-21,Nelson County,Trinity (Louisville),70,64,2,  Papa John's Classic Tournament ,0
+1999-12-21,Out of State,Fairdale,66,61,0,  King of the Bluegrass Tournament ,0
 1999-12-21,Ohio County,McLean County,73,51,1,  Ohio County Invitational Tournament ,0
 1999-12-21,Owensboro,Trinity (Whitesville),70,50,1,   ,0
 1999-12-21,Owsley County,Lee County,69,29,1,   ,0
@@ -1112,38 +1108,38 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-21,Providence,Brown,78,65,2,  Butler County Christmas Tournament ,0
 1999-12-21,Providence,Fort Campbell,78,62,2,  Butler County Christmas Tournament ,0
 1999-12-21,Pulaski County,Whitesburg,97,64,1,  Toyota Holiday Classic Tournament ,0
-1999-12-21,Restoration Christian. IN,Evangel Christian,65,60,2,  Portland Christian Holiday Classic Tournament ,0
-1999-12-21,Rose Hill Christian,Elk Valley Christian. WV,72,62,2,   ,0
+1999-12-21,Out of State,Evangel Christian,65,60,2,  Portland Christian Holiday Classic Tournament ,0
+1999-12-21,Rose Hill Christian,Out of State,72,62,2,   ,0
 1999-12-21,Russell,Raceland,53,51,1,   ,0
 1999-12-21,Russellville,DuPont Manual,91,86,2,  King of the Bluegrass Tournament ,0
 1999-12-21,Ryle,Conner,58,55,1,   ,0
 1999-12-21,Silver Grove,Bellevue,76,49,1,   ,0
 1999-12-21,Simon Kenton,Franklin County,69,58,1,   ,0
-1999-12-21,South Fulton. TN,Calloway County,51,44,1,   ,0
-1999-12-21,South Laurel,Rancho. NV,53,39,2,  Reebok Holiday Prep Classic Tournament ,0
-1999-12-21,St. Mary,Franklin Road Academy. TN,88,78,2,   ,0
+1999-12-21,Out of State,Calloway County,51,44,1,   ,0
+1999-12-21,South Laurel,Out of State,53,39,2,  Reebok Holiday Prep Classic Tournament ,0
+1999-12-21,St. Mary,Out of State,88,78,2,   ,0
 1999-12-21,Warren Central,Hart County,86,79,1,  Republic Bank Classic Tournament ,0
 1999-12-21,Warren East,Lone Oak,82,61,2,  Republic Bank Classic Tournament ,0
-1999-12-21,Wayne County,Australian Team,60,52,1,  H & W Classic Tournament ,0
+1999-12-21,Wayne County,Out of State,60,52,1,  H & W Classic Tournament ,0
 1999-12-21,Western Hills,Spencer County,62,57,0,   ,0
 1999-12-21,Woodford County,Sayre,69,61,1,   ,0
 1999-12-21,Phelps,Sheldon Clark,-,-,0,   ,0
 1999-12-22,Apollo,Muhlenberg South,43,31,2,  Republic Bank Classic Tournament ,0
-1999-12-22,Ballard,Boston English. MA,103,70,2,  City of Palms Classic Tournament ,0
-1999-12-22,Bolton. TN,University Heights,58,45,2,  Barlett Statecoach Shootout ,0
+1999-12-22,Ballard,Out of State,103,70,2,  City of Palms Classic Tournament ,0
+1999-12-22,Out of State,University Heights,58,45,2,  Barlett Statecoach Shootout ,0
 1999-12-22,Breckinridge County,McLean County,57,39,2,  Ohio County Invitational Tournament ,0
 1999-12-22,Bullitt East,North Bullitt,63,52,2,  Papa John's Classic Tournament ,0
 1999-12-22,DeSales,Butler,65,55,2,  Papa John's Classic Tournament ,0
-1999-12-22,East Jessamine,Mountain Heritage. NC,78,66,2,  Pepsi Holiday Classic Tournament ,0
-1999-12-22,East Literature Magnet. TN,Dawson Springs,55,53,2,  Page Christmas Tournament ,0
+1999-12-22,East Jessamine,Out of State,78,66,2,  Pepsi Holiday Classic Tournament ,0
+1999-12-22,Out of State,Dawson Springs,55,53,2,  Page Christmas Tournament ,0
 1999-12-22,Fort Campbell,Brown,67,62,2,  Butler County Christmas Tournament ,0
-1999-12-22,Glendale. Canada,Whitesburg,64,51,2,  Toyota Holiday Classic Tournament ,0
-1999-12-22,Green Valley. NV,South Laurel,83,72,2,  Reebok Holiday Prep Classic Tournament ,0
-1999-12-22,Greeneboro Day. NC,Pleasure Ridge Park,56,53,2,  Reebok Classic Tournament ,0
+1999-12-22,Out of State,Whitesburg,64,51,2,  Toyota Holiday Classic Tournament ,0
+1999-12-22,Out of State,South Laurel,83,72,2,  Reebok Holiday Prep Classic Tournament ,0
+1999-12-22,Out of State,Pleasure Ridge Park,56,53,2,  Reebok Classic Tournament ,0
 1999-12-22,Hart County,Lone Oak,58,53,2,  Republic Bank Classic Tournament ,0
 1999-12-22,Highlands,Greenup County,45,34,0,  Greenup County Invitational Tournament ,0
-1999-12-22,Iroquois,Hancock County. TN,93,65,2,  Morristown Invitational Tournament ,0
-1999-12-22,Lexington Catholic,St. Thomas Aquinas. FL,67,43,2,  Kreul Classic Tournament ,0
+1999-12-22,Iroquois,Out of State,93,65,2,  Morristown Invitational Tournament ,0
+1999-12-22,Lexington Catholic,Out of State,67,43,2,  Kreul Classic Tournament ,0
 1999-12-22,Lynn Camp,Breathitt County,82,73,2,  H & W Classic Tournament ,0
 1999-12-22,Madison Central,Wolfe County,74,56,2,  Toyota Holiday Classic Tournament ,0
 1999-12-22,Magoffin County,Elkhorn City,82,33,0,   ,0
@@ -1159,38 +1155,38 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-22,Southwestern,Trimble County,41,40,2,  Toyota Holiday Classic Tournament ,0
 1999-12-22,Taylor County,Henry County,51,31,2,  Republic Bank Classic Tournament ,0
 1999-12-22,Trinity (Louisville),Caverna,86,57,2,  Papa John's Classic Tournament ,0
-1999-12-22,Waggener,Australian National Team,54,50,2,  H & W Classic Tournament ,0
+1999-12-22,Waggener,Out of State,54,50,2,  H & W Classic Tournament ,0
 1999-12-22,Warren Central,Warren East,81,50,1,  Republic Bank Classic Tournament ,0
-1999-12-22,Wayne County,Clinton. TN,76,56,1,  H & W Classic Tournament (championship) ,0
-1999-12-22,Western,Lemon Bay. FL,80,64,2,  Canterbury Invitational Tournament ,0
-1999-12-23,Australian Team,Fleming County,62,56,0,   ,0
-1999-12-23,Ballard,Miami North-West Christian. FL,90,79,2,  City of Palms Classic Tournament (championship) ,0
+1999-12-22,Wayne County,Out of State,76,56,1,  H & W Classic Tournament (championship) ,0
+1999-12-22,Western,Out of State,80,64,2,  Canterbury Invitational Tournament ,0
+1999-12-23,Out of State,Fleming County,62,56,0,   ,0
+1999-12-23,Ballard,Out of State,90,79,2,  City of Palms Classic Tournament (championship) ,0
 1999-12-23,Campbell County,St. Henry,66,53,1,   ,0
 1999-12-23,Madison Central,Pulaski County,65,57,0,  Toyota Holiday Classic Tournament ,0
 1999-12-23,Madison Central,Southwestern,87,50,2,  Toyota Holiday Classic Tournament ,0
 1999-12-23,Newport,Dayton,67,49,0,   ,0
 1999-12-23,Pulaski County,Bardstown,77,71,1,  Toyota Holiday Classic Tournament ,0
-1999-12-23,Shelby Valley,Pound. VA,64,41,1,   ,0
+1999-12-23,Shelby Valley,Out of State,64,41,1,   ,0
 1999-12-23,Walton-Verona,Ludlow,78,69,1,  (overtime) ,1
-1999-12-23,Wayne.  WV,Fairview,69,58,0,   ,0
+1999-12-23,Out of State,Fairview,69,58,0,   ,0
 1999-12-26,Lafayette,St. Patrick,88,59,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-26,Lexington Catholic,Knott County Central,101,55,1,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-26,Newport Central Catholic,Harlan,74,55,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-26,Perry County Central,Harrison County,62,56,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-26,Russellville,Pleasure Ridge Park,88,87,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-26,Washington Academy. TN,Greenwood,77,58,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-26,Out of State,Greenwood,77,58,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-27,Anderson County,East Carter,64,36,2,  Hoopin it Up Holiday Classic ,0
 1999-12-27,Ashland Blazer,Pike County Central,78,48,2,  Ashland Invitational ,0
 1999-12-27,Augusta,Villa Madonna,89,42,2,  Silver Grove Christmas Tournament ,0
 1999-12-27,Ballard Memorial,Fulton County,83,74,2,  John Robertson Christmas Tournament ,0
 1999-12-27,Bellevue,Red Bird,61,38,2,  Kiwanas Holiday Classic Tournament ,0
-1999-12-27,Brighton. TN,Calloway County,69,49,2,  Martin (TN) Lions Club Holiday Tournament ,0
+1999-12-27,Out of State,Calloway County,69,49,2,  Martin (TN) Lions Club Holiday Tournament ,0
 1999-12-27,Campbellsville,Mayfield,64,55,1,  Green River Holiday Classic ,0
-1999-12-27,Carmi-White County. IL,Heath,56,48,2,  Eldorado Holiday Tournament ,0
-1999-12-27,Chattanooga. TN,June Buchanan,74,42,2,  Livingston Invitational Tournament ,0
-1999-12-27,Christian County,Binghampton. NY,60,55,0,  Stop DWI Holiday Classic Tournament ,0
+1999-12-27,Out of State,Heath,56,48,2,  Eldorado Holiday Tournament ,0
+1999-12-27,Out of State,June Buchanan,74,42,2,  Livingston Invitational Tournament ,0
+1999-12-27,Christian County,Out of State,60,55,0,  Stop DWI Holiday Classic Tournament ,0
 1999-12-27,Clay County,Tates Creek,67,60,2,  Hoopin it Up Holiday Classic ,0
-1999-12-27,Clinton County,Newberry. FL,77,67,2,  Bronson Holiday Classic Tournament ,0
+1999-12-27,Clinton County,Out of State,77,67,2,  Bronson Holiday Classic Tournament ,0
 1999-12-27,Corbin,Prestonsburg,95,51,1,  Cumberland Falls Invitational ,0
 1999-12-27,Covington Catholic,Bell County,74,47,2,  Hoopin it Up Holiday Classic ,0
 1999-12-27,Daviess County,Casey County,83,53,1,  Owensboro Invitational Tournament ,0
@@ -1198,40 +1194,40 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-27,Elliott County,Model,82,59,2,  McDonalds Holiday Classic Tournament ,0
 1999-12-27,Eminence,Augusta,86,80,2,  Silver Grove Christmas Tournament ,0
 1999-12-27,Eminence,Villa Madonna,88,71,2,  Silver Grove Christmas Tournament ,0
-1999-12-27,Fairdale,Jacksonville ACDS. FL,82,61,2,  Kingdom of the Sun Shootout ,0
-1999-12-27,Fleming County,Marshall County. TN,49,48,2,  Centenniel Classic Tournament ,0
+1999-12-27,Fairdale,Out of State,82,61,2,  Kingdom of the Sun Shootout ,0
+1999-12-27,Fleming County,Out of State,49,48,2,  Centenniel Classic Tournament ,0
 1999-12-27,Fulton City,Reidland,92,68,2,  John Robertson Christmas Tournament ,0
 1999-12-27,Garrard County,Bryan Station,55,49,2,  Berea Invitational ,0
 1999-12-27,George Rogers Clark,McCreary Central,80,25,2,  Berea Invitational ,0
-1999-12-27,Grant County,Homedale. NJ,65,60,2,  Alamo Shootout ,0
-1999-12-27,Graves County,Jeff Davis. AL,51,49,2,  Playground Area Shootout (overtime) ,1
+1999-12-27,Grant County,Out of State,65,60,2,  Alamo Shootout ,0
+1999-12-27,Graves County,Out of State,51,49,2,  Playground Area Shootout (overtime) ,1
 1999-12-27,Greenwood,St. Patrick,87,80,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-27,Greenwood. SC,Hart County,83,59,2,  Cumerland Falls Invitational ,0
-1999-12-27,Hancock County,Jefferson Davis. GA,61,59,2,  Playground Area Shootout ,0
+1999-12-27,Out of State,Hart County,83,59,2,  Cumerland Falls Invitational ,0
+1999-12-27,Hancock County,Out of State,61,59,2,  Playground Area Shootout ,0
 1999-12-27,Harlan,Harrison County,67,55,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-27,Harrisburg. IL,Crittenden County,56,45,2,  El Dorado Holiday Tournament ,0
-1999-12-27,Heathwood Hall. SC,Jackson City,61,59,2,  Gatorade Sunshine Classic ,0
+1999-12-27,Out of State,Crittenden County,56,45,2,  El Dorado Holiday Tournament ,0
+1999-12-27,Out of State,Jackson City,61,59,2,  Gatorade Sunshine Classic ,0
 1999-12-27,Highlands,Johnson Central,57,49,2,  Ashland Invitational ,0
-1999-12-27,Holmes,Australian National Team,58,53,1,   ,0
+1999-12-27,Holmes,Out of State,58,53,1,   ,0
 1999-12-27,Hopkins County Central,Muhlenberg South,59,52,2,  Western Ky. Bank Classic Tournament ,0
 1999-12-27,Iroquois,Cawood,83,65,1,  Great Kentucky Shootout ,0
-1999-12-27,Lakewood. FL,Madisonville-North Hopkins,67,64,2,  Hooters Holiday Shootout ,0
+1999-12-27,Out of State,Madisonville-North Hopkins,67,64,2,  Hooters Holiday Shootout ,0
 1999-12-27,Lone Oak,Murray,80,47,1,  John Robertson Christmas Tournament ,0
-1999-12-27,Longwood. NY,Perry County Central,96,95,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-27,Madison Central,Sydney. Australia,99,78,2,  Berea Invitational ,0
-1999-12-27,Mallberry. FL,Heritage Academy,98,46,2,  Frostproof Holiday Classic Tournament ,0
+1999-12-27,Out of State,Perry County Central,96,95,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-27,Madison Central,Out of State,99,78,2,  Berea Invitational ,0
+1999-12-27,Out of State,Heritage Academy,98,46,2,  Frostproof Holiday Classic Tournament ,0
 1999-12-27,Marion County,Valley,89,86,2,  Green River Holiday Classic ,0
 1999-12-27,Mercer County,Russell County,63,40,2,  Berea Invitational ,0
-1999-12-27,Milton. FL,Henry Clay,59,57,2,  Playground Area Shootout ,0
+1999-12-27,Out of State,Henry Clay,59,57,2,  Playground Area Shootout ,0
 1999-12-27,Montgomery County,Morgan County,48,40,2,  McDonalds Holiday Tournament ,0
-1999-12-27,Moore,Tate. FL,89,67,2,  Playground Area Shootout ,0
+1999-12-27,Moore,Out of State,89,67,2,  Playground Area Shootout ,0
 1999-12-27,Newport Central Catholic,Male,65,57,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-27,North Hardin,Australian Team,101,27,2,  Green River Holiday Classic ,0
+1999-12-27,North Hardin,Out of State,101,27,2,  Green River Holiday Classic ,0
 1999-12-27,North Laurel,Magoffin County,77,74,1,  Hoopin it Up Holiday Classic ,0
-1999-12-27,North Park. Canada,Owsley County,61,60,2,   ,0
-1999-12-27,Ohio County,Ft. Walton Beach. FL,66,47,0,  Playground Area Shootout ,0
+1999-12-27,Out of State,Owsley County,61,60,2,   ,0
+1999-12-27,Ohio County,Out of State,66,47,0,  Playground Area Shootout ,0
 1999-12-27,Owensboro,Shawnee,76,62,1,  Owensboro Invitational Tournament ,0
-1999-12-27,Owensboro Catholic,Trinity,59,48,2,  Owensboro Invitational Tournament ,0
+1999-12-27,Owensboro Catholic,Trinity (Whitesville),59,48,2,  Owensboro Invitational Tournament ,0
 1999-12-27,Paul Laurence Dunbar,Allen County-Scottsville,67,50,2,  Berea Invitational ,0
 1999-12-27,Pleasure Ridge Park,Knott County Central,80,56,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-27,Powell County,Woodford County,76,49,2,  Berea Invitational ,0
@@ -1240,179 +1236,175 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-27,Rowan County,Berea,57,49,0,  Berea Invitational ,0
 1999-12-27,Scott County,Lafayette,83,75,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-27,Sheldon Clark,Paris,70,58,2,  McDonalds Holiday Classic ,0
-1999-12-27,Silver Grove,Christian Center,81,41,1,  Silver Grove Christmas Tournament ,0
+1999-12-27,Silver Grove,Out of State,81,41,1,  Silver Grove Christmas Tournament ,0
 1999-12-27,Simon Kenton,Southwestern,73,55,2,  Hoopin it Up Holiday Classic ,0
-1999-12-27,South Gwinnett. GA,Caldwell County,60,33,2,  Deep South Classic Tournament ,0
+1999-12-27,Out of State,Caldwell County,60,33,2,  Deep South Classic Tournament ,0
 1999-12-27,South Laurel,Cordia,78,39,1,  Hoopin it Up Holiday Classic ,0
-1999-12-27,Spingarn. SC,University Heights,60,46,2,  Holiday Tournament ,0
+1999-12-27,Out of State,University Heights,60,46,2,  Holiday Tournament ,0
 1999-12-27,St. Mary,McLean County,70,55,2,  John Robertson Christmas Tournament ,0
-1999-12-27,St. Petersburg Catholic. FL,Williamsburg,46,44,2,  Keswick Christmas Tournament ,0
+1999-12-27,Out of State,Williamsburg,46,44,2,  Keswick Christmas Tournament ,0
 1999-12-27,St. Xavier,Lawrence County,68,57,2,  Ashland Invitational ,0
 1999-12-27,Union County,Apollo,44,37,0,  Owensboro Invitational Tournament ,0
-1999-12-27,University High. FL,Lyon County,83,82,2,  Father Lopez Sunshine Classic ,0
-1999-12-27,Volunteer. TN,Knox Central,56,52,2,  Volunteer Classic Invitational Tournament ,0
-1999-12-27,Washington Academy. TN,Muhlenberg North,68,64,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-27,Out of State,Lyon County,83,82,2,  Father Lopez Sunshine Classic ,0
+1999-12-27,Out of State,Knox Central,56,52,2,  Volunteer Classic Invitational Tournament ,0
+1999-12-27,Out of State,Muhlenberg North,68,64,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-27,Wayne County,Franklin County,66,62,2,  Hoopin it Up Holiday Classic ,0
 1999-12-27,Webster County,Livingston Central,66,59,1,  Western Ky. Bank Classic Tournament ,0
-1999-12-27,Wenonah. AL,Lloyd Memorial,56,54,2,  Nike Tournament (overtime) ,1
+1999-12-27,Out of State,Lloyd Memorial,56,54,2,  Nike Tournament (overtime) ,1
 1999-12-27,West Jessamine,Monticello,96,78,2,  Berea Invitational ,0
-1999-12-27,Western Hills,Harriton. PA,68,60,2,  Alamo Shootout ,0
-1999-12-27,Whitefield Academy,Seminole. FL,64,40,2,  Suncoast Classic Tournament ,0
+1999-12-27,Western Hills,Out of State,68,60,2,  Alamo Shootout ,0
+1999-12-27,Whitefield Academy,Out of State,64,40,2,  Suncoast Classic Tournament ,0
 1999-12-27,Williamstown,St. Francis,61,43,1,  Kiwanas Holiday Classic Tournament ,0
 1999-12-27,Green County,Central Hardin,-,-,2,  Green River Holiday Classic ,0
 1999-12-27,Dayton,Raceland,-,-,0,   ,0
-1999-12-28,Australian National Team,Feds Creek,85,74,0,   ,0
-1999-12-28,Australian Team,McCreary Central,87,53,2,  Berea Invitational ,0
+1999-12-28,Out of State,Feds Creek,85,74,0,   ,0
+1999-12-28,Out of State,McCreary Central,87,53,2,  Berea Invitational ,0
 1999-12-28,Ballard Memorial,Lone Oak,67,53,0,  John Robertson Christmas Tournament ,0
 1999-12-28,Bell County,Mason County,74,66,2,  Hoopin it Up Holiday Classic ,0
 1999-12-28,Bishop Brossart,Pendleton County,80,52,1,   ,0
 1999-12-28,Bowling Green,Logan County,83,49,1,  Bowling Green Invitational Tournament ,0
 1999-12-28,Boyle County,Prestonsburg,90,63,2,  Cumerland Falls Invitational ,0
-1999-12-28,Brainerd. TN,Cawood,68,62,2,  Great Kentucky Shootout ,0
+1999-12-28,Out of State,Cawood,68,62,2,  Great Kentucky Shootout ,0
 1999-12-28,Breathitt County,Menifee County,74,71,0,   ,0
 1999-12-28,Bryan Station,Monticello,70,33,2,  Berea Invitational ,0
 1999-12-28,Bullitt Central,Metcalfe County,61,52,2,  Scottie Classic Tournament ,0
-1999-12-28,Calloway County,Gleason. TN,61,36,2,  Martin (TN) Lions Club Holiday Tournament ,0
-1999-12-28,Carmel. IN,Southern,83,46,2,  Jeffersonville Tournament ,0
+1999-12-28,Calloway County,Out of State,61,36,2,  Martin (TN) Lions Club Holiday Tournament ,0
+1999-12-28,Out of State,Southern,83,46,2,  Jeffersonville Tournament ,0
 1999-12-28,Carroll County,Gallatin County,70,59,1,  District 31-32 Shootout ,0
 1999-12-28,Caverna,Cumberland County,75,66,2,  Glasgow Scottie Classic Tournament ,0
-1999-12-28,Chicago Mount Carmel. IL,Paducah Tilghman,55,42,2,  Centralia Tournament ,0
-1999-12-28,Clinton County,Dixie County. FL,62,59,2,"  Eagle Classic
-
- ",0
-1999-12-28,Corydon Central. IN,Southern,64,60,2,  Jeffersonville Tournament ,0
+1999-12-28,Out of State,Paducah Tilghman,55,42,2,  Centralia Tournament ,0
+1999-12-28,Clinton County,Out of State,62,59,2,  Eagle Classic,0
+1999-12-28,Out of State,Southern,64,60,2,  Jeffersonville Tournament ,0
 1999-12-28,Covington Catholic,Pulaski County,51,50,2,  Hoopin it Up Holiday Classic ,0
 1999-12-28,Crittenden County,Heath,80,69,2,  El Dorado Holiday Tournament ,0
-1999-12-28,Daytona Beach. FL,Owsley County,77,71,1,   ,0
+1999-12-28,Out of State,Owsley County,77,71,1,   ,0
 1999-12-28,Dixie Heights,Boyd County,40,36,0,   ,0
-1999-12-28,Doss,Clarksville Kenwood. TN,59,50,2,  Bowling Green Invitational Tournament ,0
+1999-12-28,Doss,Out of State,59,50,2,  Bowling Green Invitational Tournament ,0
 1999-12-28,East Carter,Cordia,81,41,2,  Hoopin it Up Holiday Classic ,0
 1999-12-28,East Jessamine,Ryle,68,59,1,   ,0
-1999-12-28,Eastern,Brainerd. TN,67,53,2,  Great Kentucky Shootout ,0
+1999-12-28,Eastern,Out of State,67,53,2,  Great Kentucky Shootout ,0
 1999-12-28,Elizabethtown,St. Xavier,90,80,2,  Ashland Invitational ,0
 1999-12-28,Eminence,Villa Madonna,86,69,2,  Silver Grove Christmas Tournament ,0
-1999-12-28,Fern Creek,Indian Hill. OH,55,34,2,  Great Kentucky Shootout ,0
-1999-12-28,Fleming County,Franklin Centenniel. TN,63,50,2,  Centenniel Classic Tournament ,0
+1999-12-28,Fern Creek,Out of State,55,34,2,  Great Kentucky Shootout ,0
+1999-12-28,Fleming County,Out of State,63,50,2,  Centenniel Classic Tournament ,0
 1999-12-28,Fleming-Neon,Jenkins,76,71,1,   ,0
 1999-12-28,Garrard County,West Jessamine,72,63,2,  Berea Invitational ,0
 1999-12-28,George Rogers Clark,Madison Central,63,52,2,  Berea Invitational ,0
 1999-12-28,Glasgow,Kentucky Country Day,82,37,1,  Scottie Classic Tournament ,0
-1999-12-28,Glynn Academny. GA,Fairdale,77,65,2,  Kingdom of the Sun Shootout ,0
-1999-12-28,Graves County,Choctawhatchee. FL,63,59,2,  Playground Area Shootout (overtime) ,1
+1999-12-28,Out of State,Fairdale,77,65,2,  Kingdom of the Sun Shootout ,0
+1999-12-28,Graves County,Out of State,63,59,2,  Playground Area Shootout (overtime) ,1
 1999-12-28,Greenwood,Perry County Central,85,76,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Harrodsburg,Lexington Christian,74,48,1,   ,0
-1999-12-28,Henderson County,Trinity,74,26,2,  Owensboro Invitational Tournament ,0
-1999-12-28,Heritage Academy,Frostproof. FL,57,54,0,  Frostproof Holiday Classic Tournament ,0
+1999-12-28,Henderson County,Trinity (Whitesville),74,26,2,  Owensboro Invitational Tournament ,0
+1999-12-28,Heritage Academy,Out of State,57,54,0,  Frostproof Holiday Classic Tournament ,0
 1999-12-28,Highlands,Ashland Blazer,65,53,2,  Ashland Invitational ,0
 1999-12-28,Holy Cross (Louisville),Millard,62,50,2,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-28,Hopkins County Central,Livingston Central,65,31,2,  Western Ky. Bank Classic Tournament ,0
 1999-12-28,Jeffersontown,LaRue County,54,34,2,  Nelson County Tournament ,0
 1999-12-28,Johnson Central,Pike County Central,73,63,2,  Ashland Invitational ,0
-1999-12-28,Knox Central,Davey Crockett. TN,44,40,2,  Volunteer Classic Invitational Tournament ,0
-1999-12-28,Lakeland Kathleen. FL,Madisonville-North Hopkins,61,57,2,  Hooters Holiday Shootout ,0
-1999-12-28,Lawrenceburg. IN,Beechwood,76,64,0,    ,0
+1999-12-28,Knox Central,Out of State,44,40,2,  Volunteer Classic Invitational Tournament ,0
+1999-12-28,Out of State,Madisonville-North Hopkins,61,57,2,  Hooters Holiday Shootout ,0
+1999-12-28,Out of State,Beechwood,76,64,0,    ,0
 1999-12-28,Letcher,Phelps,69,53,2,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-28,Lewis County,Fairview,64,51,0,   ,0
-1999-12-28,Lexington Catholic,Longwood. NY,112,54,1,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-28,Lexington Catholic,Out of State,112,54,1,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Lincoln County,Shawnee,56,50,2,  Owensboro Invitational Tournament ,0
 1999-12-28,Ludlow,Holy Cross (Covington),64,63,0,   ,0
 1999-12-28,Lyon County,Buckhorn,78,65,2,  Father Lopez Sunshine Classic ,0
-1999-12-28,Madison Southern,Clarksville Kenwood. TN,60,45,2,  Hopkinsville Tournament ,0
-1999-12-28,Male,Brentwood. TN,72,52,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-28,Madison Southern,Out of State,60,45,2,  Hopkinsville Tournament ,0
+1999-12-28,Male,Out of State,72,52,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Marion County,Central Hardin,82,68,2,  Green River Holiday Classic ,0
 1999-12-28,Meade County,Spencer County,99,59,1,   ,0
 1999-12-28,Mercer County,Rowan County,83,73,2,  Berea Invitational (overtime) ,1
-1999-12-28,Meridian,Caldwell County,69,44,2,  Deep South Classic Tournament ,0
+1999-12-28,Out of State,Caldwell County,69,44,2,  Deep South Classic Tournament ,0
 1999-12-28,Monroe County,Hopkinsville,72,70,0,  Hopkinsville Invitational Tournament ,0
-1999-12-28,Moore,Milton. FL,55,48,2,  Playground Area Shootout ,0
+1999-12-28,Moore,Out of State,55,48,2,  Playground Area Shootout ,0
 1999-12-28,Muhlenberg North,Harlan,79,59,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Muhlenberg South,Webster County,44,41,0,  Western Ky. Bank Classic Tournament ,0
 1999-12-28,Nelson County,Adair County,73,70,1,  Nelson County Classic Tournament ,0
-1999-12-28,Niceville. FL,Hancock County,47,39,2,  Playground Area Shootout ,0
+1999-12-28,Out of State,Hancock County,47,39,2,  Playground Area Shootout ,0
 1999-12-28,Nicholas County,Sheldon Clark,68,50,2,  McDonalds Holiday Tournament ,0
 1999-12-28,North Hardin,Campbellsville,67,63,0,  Green River Holiday Classic ,0
-1999-12-28,North Park. Canada,Lyon County,77,52,2,  Father Lopez Classic Tournament ,0
-1999-12-28,Oldham County,University City. CA,54,45,2,  Surf n' Slam Tournament ,0
-1999-12-28,Orlando Oak Ridge. FL,Marshall County,45,39,2,  Kingdom of the Sun Shootout ,0
-1999-12-28,Oxon Hills. MD,Christian County,79,62,2,  Stop DWI Holiday Classic Tournament ,0
+1999-12-28,Out of State,Lyon County,77,52,2,  Father Lopez Classic Tournament ,0
+1999-12-28,Oldham County,Out of State,54,45,2,  Surf n' Slam Tournament ,0
+1999-12-28,Out of State,Marshall County,45,39,2,  Kingdom of the Sun Shootout ,0
+1999-12-28,Out of State,Christian County,79,62,2,  Stop DWI Holiday Classic Tournament ,0
 1999-12-28,Paul Laurence Dunbar,Powell County,65,35,2,  Berea Invitational ,0
 1999-12-28,Pleasure Ridge Park,Lafayette,90,66,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Russell,Bracken County,70,68,2,  Pepsi Holiday Classic Tournament ,0
 1999-12-28,Russell County,Berea,71,49,0,  Berea Invitational  ,0
-1999-12-28,Salina. TN,June Buchanan,74,69,2,  Livingston Invitational Tournament ,0
-1999-12-28,Scott County,Archbishop Alter. OH,71,65,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-28,Out of State,June Buchanan,74,69,2,  Livingston Invitational Tournament ,0
+1999-12-28,Scott County,Out of State,71,65,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Shelby Valley,Christian Academy-Louisville,74,59,1,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-28,Silver Grove,Augusta,87,63,1,  Silver Grove Christmas Tournament ,0
 1999-12-28,Simon Kenton,North Laurel,87,75,0,  Hoopin it Up Holiday Classic ,0
 1999-12-28,South Laurel,Anderson County,63,53,1,  Hoopin it Up Holiday Classic ,0
 1999-12-28,St. Francis,Red Bird,65,58,2,  Kiwanas Holiday Classic Tournament ,0
 1999-12-28,St. Mary,Fulton City,57,42,2,  John Robertson Christmas Tournament ,0
-1999-12-28,St. Raymond. NY,Newport Central Catholic,73,49,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-28,Out of State,Newport Central Catholic,73,49,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Tates Creek,Franklin County,63,62,2,  Hoopin It Up Classic Tournament ,0
 1999-12-28,Todd County Central,Edmonson County,75,69,2,  Scottie Classic Tournament ,0
 1999-12-28,Trinity (Louisville),Casey County,67,45,2,  Owensboro Invitational Tournament ,0
 1999-12-28,Union County,Barren County,59,40,2,  Owensboro Invitational Tournament ,0
-1999-12-28,University Heights,Victory Christian. NC,56,52,2,  Holiday Tournament ,0
-1999-12-28,Upperman. TN,Jackson City,97,50,2,  Gatorade Sunshine Classic ,0
+1999-12-28,University Heights,Out of State,56,52,2,  Holiday Tournament ,0
+1999-12-28,Out of State,Jackson City,97,50,2,  Gatorade Sunshine Classic ,0
 1999-12-28,Valley,Todd County Central,69,61,2,  Glasgow Scottie Classic Tournament ,0
 1999-12-28,Walton-Verona,Owen County,61,50,2,  District 31-32 Shootout ,0
 1999-12-28,Warren East,Central,52,48,2,  Great Kentucky Shootout ,0
-1999-12-28,Washington Academy. TN,Russellville,77,60,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-28,Out of State,Russellville,77,60,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-28,Wayne County,Clay County,61,54,2,  Hoopin it Up Holiday Classic ,0
 1999-12-28,West Carter,Lawrence County,54,43,2,  Ashland Invitational ,0
-1999-12-28,Whitefield Academy,Faith Academy. FL,90,64,2,  Suncoast Classic Tournament ,0
-1999-12-28,Williamsburg,Santa Fe Catholic. FL,49,41,2,  Keswick Christmas Tournament ,0
+1999-12-28,Whitefield Academy,Out of State,90,64,2,  Suncoast Classic Tournament ,0
+1999-12-28,Williamsburg,Out of State,49,41,2,  Keswick Christmas Tournament ,0
 1999-12-28,Williamstown,Bellevue,67,52,1,  Kiwanas Holiday Classic Tournament ,0
-1999-12-28,Willowridge. TX,Ballard,76,73,2,  Slam Dunk on the Beach Tournament ,0
+1999-12-28,Out of State,Ballard,76,73,2,  Slam Dunk on the Beach Tournament ,0
 1999-12-28,Woodford County,Allen County-Scottsville,88,56,2,  Berea Invitational ,0
 1999-12-29,Adair County,LaRue County,52,51,2,  Nelson County Classic Tournament ,0
 1999-12-29,Apollo,Barren County,64,63,2,  Owensboro Invitational Tournament ,0
 1999-12-29,Ashland Blazer,St. Xavier,85,74,2,  Ashland Invitational ,0
 1999-12-29,Augusta,Villa Madonna,92,34,2,  Silver Grove Christmas Tournament ,0
-1999-12-29,Australian Team,Woodford County,85,82,2,  Berea Invitational ,0
-1999-12-29,Ballard,Washington Union. CA,90,79,2,  Slam Dunk on the Beach Tournament ,0
-1999-12-29,Bardstown,Sydney Roos,48,46,1,   ,0
-1999-12-29,Benton. IL,Crittenden County,61,58,2,  El Dorado Holiday Tournament ,0
+1999-12-29,Out of State,Woodford County,85,82,2,  Berea Invitational ,0
+1999-12-29,Ballard,Out of State,90,79,2,  Slam Dunk on the Beach Tournament ,0
+1999-12-29,Bardstown,Out of State,48,46,1,   ,0
+1999-12-29,Out of State,Crittenden County,61,58,2,  El Dorado Holiday Tournament ,0
 1999-12-29,Berea,Monticello,65,58,1,  Berea Invitational ,0
-1999-12-29,Bishop McNamara. MD,Christian County,86,78,2,  Stop DWI Holiday Classic Tournament (overtime) ,1
+1999-12-29,Out of State,Christian County,86,78,2,  Stop DWI Holiday Classic Tournament (overtime) ,1
 1999-12-29,Bowling Green,Doss,91,64,1,  Bowling Green Invitational Tournament (championship) ,0
 1999-12-29,Bryan Station,Russell County,72,49,2,  Berea Invitational ,0
 1999-12-29,Campbellsville,Central Hardin,64,60,1,  Green River Holiday Classic Tournament ,0
-1999-12-29,Central,Indian Hill. OH,78,76,2,  Great Kentucky Shootout ,0
-1999-12-29,Chester. SC,University Heights,59,49,2,  Holiday Tournament ,0
-1999-12-29,Choctawhatchee. FL,Hancock County,70,42,2,  Playground Area Shootout ,0
+1999-12-29,Central,Out of State,78,76,2,  Great Kentucky Shootout ,0
+1999-12-29,Out of State,University Heights,59,49,2,  Holiday Tournament ,0
+1999-12-29,Out of State,Hancock County,70,42,2,  Playground Area Shootout ,0
 1999-12-29,Christian Academy-Louisville,Millard,88,81,2,  1999 Shelby Valley Y2K Shootout ,0
-1999-12-29,Christian Brothers,Whitefield Academy,51,46,2,  Suncoast Classic Tournament ,0
-1999-12-29,Clarksville Kenwood. TN,Logan County,64,60,2,  Bowling Green Invitational Tournament ,0
+1999-12-29,Out of State,Whitefield Academy,51,46,2,  Suncoast Classic Tournament ,0
+1999-12-29,Out of State,Logan County,64,60,2,  Bowling Green Invitational Tournament ,0
 1999-12-29,Clay County,North Laurel,69,57,2,  Hoopin it Up Holiday Classic ,0
-1999-12-29,Clinton County,Bronson. FL,60,49,0,"  Eagle Classic (championship)
-
- ",0
+1999-12-29,Clinton County,Out of State,60,49,0, Eagle Classic (championship),0
 1999-12-29,Covington Catholic,South Laurel,63,47,2,  Hoopin it Up Holiday Classic ,0
-1999-12-29,Dyersburg. TN,Calloway County,54,41,2,  Martin Lions Club Invitational Tournament ,0
+1999-12-29,Out of State,Calloway County,54,41,2,  Martin Lions Club Invitational Tournament ,0
 1999-12-29,East Carter,Bell County,52,51,2,  Hoopin it Up Holiday Classic (overtime) ,1
 1999-12-29,Edmonson County,Metcalfe County,68,54,2,  Scottie Classic Tournament ,0
-1999-12-29,Fairdale,Ocala North Marion. FL,63,48,2,  Kingdom of the Sun Shootout ,0
+1999-12-29,Fairdale,Out of State,63,48,2,  Kingdom of the Sun Shootout ,0
 1999-12-29,Gallatin County,Walton-Verona,69,67,2,  District 31-32 Shootout ,0
 1999-12-29,Garrard County,Mercer County,69,62,2,  Berea Invitational ,0
 1999-12-29,Glasgow,Caverna,82,58,1,  Glasgow Scottie Classic Tournament ,0
-1999-12-29,Grant County,Castle Hills,85,81,2,  Alamo Shootout ,0
-1999-12-29,Graves County,Niceville. FL,48,32,2,  Playground Area Shootout ,0
-1999-12-29,Greenwood. SC,Corbin,79,74,0,  Cumberland Falls Invitational ,0
-1999-12-29,Hart County,Spruce Creek. FL,81,56,2,  Cumerland Falls Invitational ,0
-1999-12-29,Henry Clay,Fort Walton Beach. FL,74,67,2,  Playground Area Shootout ,0
-1999-12-29,Heritage Academy,Poinciana. FL,54,47,2,  Frostproof Holiday Classic Tournament ,0
+1999-12-29,Grant County,Out of State,85,81,2,  Alamo Shootout ,0
+1999-12-29,Graves County,Out of State,48,32,2,  Playground Area Shootout ,0
+1999-12-29,Out of State,Corbin,79,74,0,  Cumberland Falls Invitational ,0
+1999-12-29,Hart County,Out of State,81,56,2,  Cumerland Falls Invitational ,0
+1999-12-29,Henry Clay,Out of State,74,67,2,  Playground Area Shootout ,0
+1999-12-29,Heritage Academy,Out of State,54,47,2,  Frostproof Holiday Classic Tournament ,0
 1999-12-29,Highlands,Elizabethtown,66,56,2,  Ashland Invitational (championship) ,0
 1999-12-29,Holmes,Holy Cross (Covington),60,37,0,   ,0
 1999-12-29,Holy Cross (Louisville),Phelps,52,40,2,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-29,Hopkins County Central,Webster County,79,48,0,  Western Ky. Bank Classic Tournament ,0
-1999-12-29,Hopkinsville,Clarksville Kenwood. TN,71,47,1,  Hopkinsville Invitational Tournament ,0
+1999-12-29,Hopkinsville,Out of State,71,47,1,  Hopkinsville Invitational Tournament ,0
 1999-12-29,Iroquois,Eastern,73,65,1,  Great Kentucky Shootout ,0
 1999-12-29,Johnson Central,West Carter,83,66,2,  Ashland Invitational ,0
-1999-12-29,June Buchanan,Livingston Academy. TN,72,66,2,  Livingston Invitational Tournament ,0
-1999-12-29,Knox Central,Sullivan North. TN,64,63,2,  Volunteer Classic Invitational Tournament  ,0
+1999-12-29,June Buchanan,Out of State,72,66,2,  Livingston Invitational Tournament ,0
+1999-12-29,Knox Central,Out of State,64,63,2,  Volunteer Classic Invitational Tournament  ,0
 1999-12-29,Livingston Central,Muhlenberg South,59,57,2,  Western Ky. Bank Classic Tournament  ,0
-1999-12-29,Lyon County,Upperman. TN,68,64,2,  Father Lopez Sunshine Classic ,0
+1999-12-29,Lyon County,Out of State,68,64,2,  Father Lopez Sunshine Classic ,0
 1999-12-29,Madison Central,Powell County,83,66,2,  Berea Invitational ,0
 1999-12-29,Madison Southern,Monroe County,71,46,2,  Hopkinsville Tournament ,0
 1999-12-29,Magoffin County,Southwestern,67,55,2,  Hoopin it Up Holiday Classic ,0
@@ -1426,46 +1418,46 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-29,Owen County,Carroll County,64,56,0,  District 31-32 Shootout ,0
 1999-12-29,Owensboro,Lincoln County,57,43,1,  Owensboro Invitational Tournament ,0
 1999-12-29,Owensboro Catholic,Henderson County,39,31,2,  Owensboro Invitational Tournament ,0
-1999-12-29,Paducah Tilghman,Salem. IL,55,42,2,  Centralia Tournament ,0
+1999-12-29,Paducah Tilghman,Out of State,55,42,2,  Centralia Tournament ,0
 1999-12-29,Paul Laurence Dunbar,George Rogers Clark,45,44,2,  Berea Invitational ,0
 1999-12-29,Pendleton County,Bellevue,58,57,0,  (overtime) ,1
 1999-12-29,Pleasure Ridge Park,Muhlenberg North,78,73,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-29,Potomac. VA,Rockcastle County,67,54,2,  Cumerland Falls Invitational ,0
+1999-12-29,Out of State,Rockcastle County,67,54,2,  Cumerland Falls Invitational ,0
 1999-12-29,Pulaski County,Anderson County,79,72,2,  Hoopin it Up Holiday Classic ,0
-1999-12-29,Russell,Ripley. OH,66,61,0,  Pepsi Holiday Classic Tournament ,0
+1999-12-29,Russell,Out of State,66,61,0,  Pepsi Holiday Classic Tournament ,0
 1999-12-29,Russellville,Newport Central Catholic,64,62,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-29,Scott,Montgomery County,52,43,2,  McDonalds Holiday Tournament ,0
-1999-12-29,Scott County,Washington Academy. TN,65,41,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-29,Scott County,Out of State,65,41,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-29,Shelby Valley,Letcher,61,57,1,  1999 Shelby Valley Y2K Shootout ,0
-1999-12-29,Shelbyville Central. TN,Caldwell County,48,36,2,  Deep South Classic Tournament ,0
+1999-12-29,Out of State,Caldwell County,48,36,2,  Deep South Classic Tournament ,0
 1999-12-29,Silver Grove,Eminence,80,73,1,  Silver Grove Christmas Tournament ,0
 1999-12-29,Simon Kenton,Wayne County,73,61,2,  Hoopin it Up Holiday Classic ,0
 1999-12-29,South Floyd,Whitesburg,97,90,1,  South Floyd Holiday Classic Tournament ,0
 1999-12-29,St. Mary,Ballard Memorial,61,57,2,  John Robertson Christmas Tournament (championship) ,0
-1999-12-29,St. Raymond. NY,Lexington Catholic,91,85,0,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-29,Out of State,Lexington Catholic,91,85,0,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-29,Todd County Central,Caverna,69,59,2,  Glasgow Scottie Classic Tournament ,0
 1999-12-29,Trinity (Louisville),Daviess County,79,67,2,  Owensboro Invitational Tournament ,0
 1999-12-29,Warren East,Fern Creek,56,42,2,  Great Kentucky Shootout ,0
 1999-12-29,West Jessamine,Rowan County,89,79,2,  Berea Invitational ,0
-1999-12-29,Western Hills,Holmdel. NJ,70,57,2,  Alamo Shootout ,0
-1999-12-29,Williamsburg,Pensacola Navarre. FL,59,35,2,  Keswick Christmas Tournament ,0
-1999-12-29,Williamsburg. OH,Bracken County,63,58,2,  Pepsi Holiday Classic Tournament ,0
+1999-12-29,Western Hills,Out of State,70,57,2,  Alamo Shootout ,0
+1999-12-29,Williamsburg,Out of State,59,35,2,  Keswick Christmas Tournament ,0
+1999-12-29,Out of State,Bracken County,63,58,2,  Pepsi Holiday Classic Tournament ,0
 1999-12-29,Wolfe County,Feds Creek,76,58,2,  South Floyd Holiday Classic Tournament ,0
-1999-12-29,Xavier. NY,Oldham County,50,39,2,  Surf n' Slam Tournament ,0
+1999-12-29,Out of State,Oldham County,50,39,2,  Surf n' Slam Tournament ,0
 1999-12-30,Adair County,Jeffersontown,68,67,2,  Nelson County Classic Tournament ,0
 1999-12-30,Allen County-Scottsville,Monticello,61,42,2,  Berea Invitational ,0
-1999-12-30,Alton. IL,Paducah Tilghman,49,43,2,  Centralia Tournament ,0
-1999-12-30,Archbishop Alter. OH,Russellville,64,52,2,  Fifth Third Bank Kentucky Holiday Classic ,0
-1999-12-30,Ballard,Fayetteville. NC,49,48,2,  Slam Dunk on the Beach Tournament ,0
-1999-12-30,Brainerd. TN,Central,54,51,2,  Great Kentucky Shootout ,0
+1999-12-30,Out of State,Paducah Tilghman,49,43,2,  Centralia Tournament ,0
+1999-12-30,Out of State,Russellville,64,52,2,  Fifth Third Bank Kentucky Holiday Classic ,0
+1999-12-30,Ballard,Out of State,49,48,2,  Slam Dunk on the Beach Tournament ,0
+1999-12-30,Out of State,Central,54,51,2,  Great Kentucky Shootout ,0
 1999-12-30,Bullitt Central,Todd County Central,68,60,2,  Scottie Classic Tournament ,0
 1999-12-30,Christian Academy-Louisville,Phelps,70,52,2,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-30,Corbin,Rockcastle County,99,69,1,  Cumberland Falls Invitational ,0
 1999-12-30,Covington Catholic,Simon Kenton,60,48,2,  Hoopin it Up Holiday Classic (championship) ,0
 1999-12-30,Cumberland County,Metcalfe County,60,55,2,  Glasgow Scottie Classic Tournament ,0
-1999-12-30,East Jessamine,Australian National Team,72,37,1,   ,0
+1999-12-30,East Jessamine,Out of State,72,37,1,   ,0
 1999-12-30,Eastern,Fern Creek,49,31,2,  Great Kentucky Shootout ,0
-1999-12-30,Fairdale,Monroe. GA,83,49,2,  Kingdom of the Sun Shootout ,0
+1999-12-30,Fairdale,Out of State,83,49,2,  Kingdom of the Sun Shootout ,0
 1999-12-30,Fleming County,Bishop Brossart,60,52,1,   ,0
 1999-12-30,Gallatin County,Owen County,73,48,2,  District 31-32 Shootout ,0
 1999-12-30,George Rogers Clark,Mercer County,76,55,2,  Berea Invitational ,0
@@ -1473,48 +1465,48 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-12-30,Grant County,Western Hills,61,45,2,  Alamo Shootout (championship) ,0
 1999-12-30,Graves County,Moore,54,45,2,  Playground Area Shootout ,0
 1999-12-30,Hart County,Boyle County,62,57,2,  Cumerland Falls Invitational ,0
-1999-12-30,Henry Clay,Jeff Davis. AL,58,49,2,  Playground Area Shootout ,0
+1999-12-30,Henry Clay,Out of State,58,49,2,  Playground Area Shootout ,0
 1999-12-30,Iroquois,Warren East,59,57,1,  Great Kentucky Shootout ,0
 1999-12-30,Kentucky Country Day,Cumberland County,76,64,2,  Scottie Classic Tournament ,0
 1999-12-30,Leslie County,Red Bird,82,51,1,   ,0
-1999-12-30,Lexington Catholic,Washington Academy. TN,69,68,1,  Fifth Third Bank Kentucky Holiday Classic (overtime) ,1
+1999-12-30,Lexington Catholic,Out of State,69,68,1,  Fifth Third Bank Kentucky Holiday Classic (overtime) ,1
 1999-12-30,Madison Central,West Jessamine,71,57,2,  Berea Invitational ,0
 1999-12-30,McCreary Central,Berea,67,56,0,  Berea Invitational ,0
 1999-12-30,Millard,Letcher,96,79,2,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-30,Nelson County,LaRue County,62,49,1,  Nelson County Classic Tournament ,0
 1999-12-30,Nicholas County,Scott,53,46,2,  McDonalds Tournament ,0
-1999-12-30,Oldham County,Mt. Si. WA,49,43,2,  Surf n' Slam Tournament ,0
+1999-12-30,Oldham County,Out of State,49,43,2,  Surf n' Slam Tournament ,0
 1999-12-30,Owensboro Catholic,Union County,46,36,2,  Owensboro Invitational Tournament ,0
-1999-12-30,Owensboro Catholic,Trinity,40,29,2,  Owensboro Invitational Tournament (championship) ,0
+1999-12-30,Owensboro Catholic,Trinity (Louisville),40,29,2,  Owensboro Invitational Tournament (championship) ,0
 1999-12-30,Paul Laurence Dunbar,Garrard County,58,37,2,  Berea Invitational (championship) ,0
 1999-12-30,Pleasure Ridge Park,Male,77,64,2,  Fifth Third Bank Kentucky Holiday Classic ,0
 1999-12-30,Powell County,Rowan County,76,59,2,  Berea Invitational ,0
 1999-12-30,Pulaski County,Clay County,66,52,2,  Hoopin it Up Holiday Classic ,0
-1999-12-30,Scott County,St. Raymond. NY,88,81,2,  Fifth Third Bank Kentucky Holiday Classic (championship) ,0
+1999-12-30,Scott County,Out of State,88,81,2,  Fifth Third Bank Kentucky Holiday Classic (championship) ,0
 1999-12-30,Shelby Valley,Holy Cross (Louisville),61,46,1,  1999 Shelby Valley Y2K Shootout ,0
 1999-12-30,Somerset,Jackson County,86,72,1,   ,0
 1999-12-30,South Floyd,Wolfe County,118,89,1,  South Floyd Holiday Classic Tournament (championship) ,0
-1999-12-30,South Laurel,Wayne County,71,68,2,  Hoopin it Up Holiday Classic (double overtime) ,0
+1999-12-30,South Laurel,Wayne County,71,68,2,  Hoopin it Up Holiday Classic (double overtime) ,1
 1999-12-30,Tates Creek,Magoffin County,70,64,2,  Hoopin it Up Holiday Classic ,0
 1999-12-30,Tates Creek,East Carter,58,50,2,  Hoopin it Up Holiday Classic ,0
 1999-12-30,Trinity (Louisville),Owensboro,49,30,0,  Owensboro Invitational Tournament ,0
-1999-12-30,Tug Valley. WV,Pikeville,72,58,1,   ,0
-1999-12-30,Waggener,Australian National Team,75,51,1,   ,0
+1999-12-30,Out of State,Pikeville,72,58,1,   ,0
+1999-12-30,Waggener,Out of State,75,51,1,   ,0
 1999-12-30,Walton-Verona,Carroll County,57,54,0,  District 31-32 Shootout ,0
-1999-12-30,Whitefield Academy,Keswick,80,43,2,  Suncoast Classic Tournament ,0
-1999-12-30,Williamsburg,Seminole. FL,56,45,2,  Keswick Christmas Tournament ,0
+1999-12-30,Whitefield Academy,Out of State,80,43,2,  Suncoast Classic Tournament ,0
+1999-12-30,Williamsburg,Out of State,56,45,2,  Keswick Christmas Tournament ,0
 1999-12-30,Woodford County,Russell County,63,59,2,  Berea Invitational ,0
-1999-12-31,Fairview,Dawson Bryant (Coal Grove). OH,60,47,1,   ,0
-2000-01-01,Australian National Team,Scott,90,60,0,   ,0
-2000-01-03,Australian National Team,Cloverport,123,48,2,   ,0
+1999-12-31,Fairview,Out of State,60,47,1,   ,0
+2000-01-01,Out of State,Scott,90,60,0,   ,0
+2000-01-03,Out of State,Cloverport,123,48,2,   ,0
 2000-01-03,Bethlehem,Washington County,66,47,1,   ,0
-2000-01-03,Warren Central,Australian Team,71,59,1,   ,0
+2000-01-03,Warren Central,Out of State,71,59,1,   ,0
 2000-01-03,Whitley County,Barbourville,72,65,0,   ,0
 2000-01-04,Allen Central,Piarist School,100,47,0,   ,0
 2000-01-04,Anderson County,Eminence,84,58,1,   ,0
 2000-01-04,Augusta,Deming,109,88,0,   ,0
-2000-01-04,Australian National Team,Jenkins,109,31,0,   ,0
-2000-01-04,Barbourville,Jellico. TN,86,60,2,   ,0
+2000-01-04,Out of State,Jenkins,109,31,0,   ,0
+2000-01-04,Barbourville,Out of State,86,60,2,   ,0
 2000-01-04,Barren County,Logan County,70,60,1,   ,0
 2000-01-04,Beechwood,Bellevue,74,60,1,   ,0
 2000-01-04,Belfry,Elkhorn City,77,27,0,   ,0
@@ -1526,7 +1518,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-04,Breckinridge County,Hancock County,54,27,1,   ,0
 2000-01-04,Burgin,Mercer County,83,71,0,   ,0
 2000-01-04,Butler,Eastern,57,54,2,  Louisville Invitational Tournament ,0
-2000-01-04,Calvary Christian,,76,56,1,   ,0
+2000-01-04,Calvary Christian,Out of State,76,56,1,   ,0
 2000-01-04,Campbellsville,Adair County,71,65,0,   ,0
 2000-01-04,Caverna,Green County,75,71,0,   ,0
 2000-01-04,Cawood,Red Bird,59,40,0,   ,0
@@ -1551,13 +1543,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-04,Henry Clay,Lee County,64,28,0,   ,0
 2000-01-04,Heritage Academy,Villa Madonna,58,41,1,   ,0
 2000-01-04,Hickman County,Fulton County,79,64,1,   ,0
-2000-01-04,Highlands,Fairfield. OH,60,51,2,   ,0
+2000-01-04,Highlands,Out of State,60,51,2,   ,0
 2000-01-04,Holmes,Bishop Brossart,55,46,0,   ,0
 2000-01-04,Holy Cross (Covington),Covington Catholic,56,54,1,   ,0
 2000-01-04,Hopkins County Central,Christian County,71,70,0,  (overtime) ,1
 2000-01-04,Hopkinsville,Livingston Central,48,36,0,   ,0
 2000-01-04,Iroquois,DeSales,64,58,2,  Louisville Invitational Tournament ,0
-2000-01-04,J. Frank White. WV,All Saints,63,38,2,   ,0
+2000-01-04,Out of State,All Saints,63,38,2,   ,0
 2000-01-04,Jackson City,Cordia,76,74,1,   ,0
 2000-01-04,Jackson County,Estill County,77,56,1,   ,0
 2000-01-04,Kentucky Country Day,St. Francis,64,45,1,   ,0
@@ -1583,12 +1575,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-04,Owen County,Williamstown,65,54,0,   ,0
 2000-01-04,Owsley County,Breathitt County,59,47,0,   ,0
 2000-01-04,Paducah Tilghman,Reidland,94,57,1,   ,0
-2000-01-04,Paintsville,Tolsia. WV,78,71,1,   ,0
+2000-01-04,Paintsville,Out of State,78,71,1,   ,0
 2000-01-04,Perry County Central,Letcher,100,42,1,   ,0
 2000-01-04,Pike County Central,Betsy Layne,77,55,1,   ,0
 2000-01-04,Pikeville,Shelby Valley,73,69,1,   ,0
 2000-01-04,Providence,Butler County,71,46,1,   ,0
-2000-01-04,Rose Hill Christian,Grace,77,52,1,   ,0
+2000-01-04,Rose Hill Christian,Out of State,77,52,1,   ,0
 2000-01-04,Russell County,Taylor County,82,53,1,   ,0
 2000-01-04,Russellville,Franklin-Simpson,81,54,1,   ,0
 2000-01-04,Scott,Bourbon County,64,55,1,   ,0
@@ -1613,33 +1605,33 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-05,Ballard,Butler,73,45,2,  Louisville Invitational Tournament ,0
 2000-01-05,Dixie Heights,Beechwood,82,48,1,   ,0
 2000-01-05,Fairdale,Iroquois,77,69,2,  Louisville Invitational Tournament ,0
-2000-01-05,Fort Knox,Australian National Team,51,45,1,   ,0
+2000-01-05,Fort Knox,Out of State,51,45,1,   ,0
 2000-01-05,Harlan,Pikeville,82,75,2,  WYMT-TV Classic Tournament ,0
-2000-01-05,Henderson County,Sydney. Australia,61,53,1,   ,0
+2000-01-05,Henderson County,Out of State,61,53,1,   ,0
 2000-01-05,Knott County Central,Bell County,56,49,1,  WYMT-TV Classic Tournament ,0
 2000-01-05,Male,DuPont Manual,66,60,2,  Louisville Invitational Tournament ,0
 2000-01-05,Mason County,Bracken County,80,50,1,  Mason County Invitational Tournament ,0
 2000-01-05,Montgomery County,Pendleton County,50,46,2,  Mason County Invitational Tournament ,0
 2000-01-05,Pleasure Ridge Park,St. Xavier,75,57,2,  Louisville Invitational Tournament ,0
-2000-01-05,Grundy. VA,Elkhorn City,-,-,2,   ,0
+2000-01-05,Out of State,Elkhorn City,-,-,2,   ,0
 2000-01-06,Atherton,Doss,78,61,1,   ,0
-2000-01-06,Australian National Team,Carroll County,86,54,0,   ,0
+2000-01-06,Out of State,Carroll County,86,54,0,   ,0
 2000-01-06,Bishop Brossart,St. Patrick,62,55,2,  Mason County Invitational Tournament ,0
 2000-01-06,Campbell County,Harrison County,67,51,2,  Mason County Invitational Tournament ,0
 2000-01-06,Hancock County,Cloverport,69,42,2,   ,0
-2000-01-06,Hillcrest. OH,Calvary Christian,68,58,2,   ,0
+2000-01-06,Out of State,Calvary Christian,68,58,2,   ,0
 2000-01-06,Holy Cross (Louisville),Beth Haven,68,48,0,   ,0
 2000-01-06,Jeffersontown,Bullitt East,66,56,1,   ,0
 2000-01-06,Johnson Central,Hazard,79,62,2,  WYMT-TV Classic Tournament ,0
 2000-01-06,Moore,Shawnee,94,88,1,   ,0
 2000-01-06,Perry County Central,Whitley County,72,61,2,  WYMT-TV Classic Tournament ,0
 2000-01-06,Seneca,Christian Academy-Louisville,66,46,0,   ,0
-2000-01-06,Shelby Valley,Australian National Team,56,50,1,   ,0
+2000-01-06,Shelby Valley,Out of State,56,50,1,   ,0
 2000-01-06,Trinity (Louisville),Western,90,69,1,   ,0
 2000-01-07,Adair County,North Hardin,74,63,1,   ,0
 2000-01-07,Allen County-Scottsville,Edmonson County,74,71,0,  (overtime) ,1
 2000-01-07,Ashland Blazer,Lawrence County,74,49,2,   ,0
-2000-01-07,Australian National Team,Magoffin County,46,45,0,   ,0
+2000-01-07,Out of State,Magoffin County,46,45,0,   ,0
 2000-01-07,Ballard,Boyd County,56,53,2,  Louisville Invitational Tournament ,0
 2000-01-07,Barren County,Glasgow,68,65,0,   ,0
 2000-01-07,Bell County,Middlesboro,49,43,0,   ,0
@@ -1714,12 +1706,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-07,Pike County Central,Millard,83,48,0,   ,0
 2000-01-07,Pineville,All Saints,71,36,1,   ,0
 2000-01-07,Pleasure Ridge Park,Elizabethtown,67,50,2,  Louisville Invitational Tournament ,0
-2000-01-07,Rising Sun. IN,Owen County,65,59,2,  Rivertown Classic Tournament (overtime) ,1
+2000-01-07,Out of State,Owen County,65,59,2,  Rivertown Classic Tournament (overtime) ,1
 2000-01-07,Riverside Christian,Jackson City,81,76,0,   ,0
 2000-01-07,Rockcastle County,Jackson County,90,53,1,   ,0
 2000-01-07,Rowan County,Elliott County,61,55,1,   ,0
 2000-01-07,Ryle,Newport,50,48,0,   ,0
-2000-01-07,Scott,Holy Cross,71,66,2,   ,0
+2000-01-07,Scott,Holy Cross (Covington),71,66,2,   ,0
 2000-01-07,Shelby County,Anderson County,68,67,1,   ,0
 2000-01-07,Silver Grove,Beechwood,79,76,0,   ,0
 2000-01-07,Somerset,Pulaski County,67,66,1,  (overtime) ,1
@@ -1732,60 +1724,60 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-07,Warren East,Metcalfe County,68,50,1,   ,0
 2000-01-07,Webster County,Providence,43,40,1,   ,0
 2000-01-07,Western Hills,Madison Southern,59,56,0,   ,0
-2000-01-07,Western Pennsylvania School F/T,Kentucky School f/t Deaf,75,72,0,  Kentucky Classic Tournament ,0
+2000-01-07,Out of State,Kentucky School f/t Deaf,75,72,0,  Kentucky Classic Tournament ,0
 2000-01-07,Whitefield Academy,Christian Fellowship,73,28,2,   ,0
 2000-01-07,Whitesburg,Shelby Valley,61,60,1,   ,0
 2000-01-07,Williamsburg,Barbourville,69,62,1,   ,0
 2000-01-07,Williamstown,Ludlow,63,39,1,   ,0
 2000-01-07,Wolfe County,Estill County,88,69,1,   ,0
 2000-01-07,Bethlehem,Bardstown,-,-,0,   ,0
-2000-01-07,Covington Latin,Central Baptist,-,-,0,   ,0
+2000-01-07,Covington Latin,Out of State,-,-,0,   ,0
 2000-01-07,Lexington Christian,Berea,-,-,2,   ,0
 2000-01-07,Elkhorn City,Phelps,-,-,0,   ,0
 2000-01-07,Belfry,Prestonsburg,-,-,0,   ,0
-2000-01-08,,Fern Creek,85,37,2,   ,0
-2000-01-08,Australian National Team,Western Hills,86,65,0,   ,0
+2000-01-08,Out of State,Fern Creek,85,37,2,   ,0
+2000-01-08,Out of State,Western Hills,86,65,0,   ,0
 2000-01-08,Beth Haven,Berea,61,50,0,   ,0
 2000-01-08,Bourbon County,Nicholas County,62,52,0,   ,0
 2000-01-08,Brown,Jackson City,102,68,1,   ,0
-2000-01-08,Butler County,Owensboro Majesty,76,65,1,   ,0
+2000-01-08,Butler County,Out of State,76,65,1,   ,0
 2000-01-08,Calvary Christian,Dayton,71,68,1,   ,0
 2000-01-08,Campbell County,Montgomery County,46,45,2,  Mason County Invitational Tournament ,0
 2000-01-08,Casey County,Monroe County,80,53,0,   ,0
 2000-01-08,Christian Academy-Louisville,Evangel Christian,66,34,1,   ,0
-2000-01-08,Christian County,Clarksville Kenwood. TN,78,58,1,   ,0
-2000-01-08,Clay County,Australian National Team,64,61,1,  (overtime) ,1
+2000-01-08,Christian County,Out of State,78,58,1,   ,0
+2000-01-08,Clay County,Out of State,64,61,1,  (overtime) ,1
 2000-01-08,Deming,Covington Latin,72,49,0,   ,0
-2000-01-08,East Central. IN,Owen County,87,46,2,  Rivertown Classic Tournament ,0
+2000-01-08,Out of State,Owen County,87,46,2,  Rivertown Classic Tournament ,0
 2000-01-08,Fairdale,Male,60,58,2,  Louisville Invitational Tournament ,0
 2000-01-08,Fairview,Rose Hill Christian,50,39,0,   ,0
-2000-01-08,Graves County,Martin Westview. TN,53,43,1,   ,0
-2000-01-08,Greenup County,Wheelersburg. OH,44,35,1,   ,0
+2000-01-08,Graves County,Out of State,53,43,1,   ,0
+2000-01-08,Greenup County,Out of State,44,35,1,   ,0
 2000-01-08,Henry County,Spencer County,64,61,0,   ,0
 2000-01-08,Heritage Academy,Christian Fellowship,52,39,1,   ,0
 2000-01-08,Johnson Central,Knott County Central,65,63,0,  WYMT-TV Classic Tournament ,0
 2000-01-08,Lyon County,Crittenden County,67,66,1,   ,0
 2000-01-08,McLean County,Webster County,65,64,1,  (overtime) ,1
 2000-01-08,Metcalfe County,Adair County,66,61,1,   ,0
-2000-01-08,Mt. Healthy. OH,Newport,67,35,2,   ,0
+2000-01-08,Out of State,Newport,67,35,2,   ,0
 2000-01-08,Newport Central Catholic,Highlands,64,53,1,   ,0
 2000-01-08,Oldham County,South Oldham,64,46,1,   ,0
 2000-01-08,Paris,Lexington Christian,79,68,1,   ,0
 2000-01-08,Perry County Central,Harlan,60,59,2,  WYMT-TV Classic Tournament (championship) ,0
 2000-01-08,Pleasure Ridge Park,Ballard,73,68,2,  Louisville Invitational Tournament (overtime) ,1
 2000-01-08,Pleasure Ridge Park,Fairdale,71,56,2,  Louisville Invitational Tournament (championship) ,0
-2000-01-08,Providence,New Harmony. IN,70,56,2,   ,0
+2000-01-08,Providence,Out of State,70,56,2,   ,0
 2000-01-08,Riverside Christian,Millersburg Military,74,61,2,   ,0
 2000-01-08,Russellville,Logan County,81,48,1,   ,0
 2000-01-08,Scott County,University Heights,82,49,1,   ,0
-2000-01-08,Sullivan North,Jenkins,84,63,0,   ,0
-2000-01-08,Union City. TN,Fulton County,66,56,0,   ,0
-2000-01-08,Wayne County,Australian National Team,93,45,1,   ,0
+2000-01-08,Out of State,Jenkins,84,63,0,   ,0
+2000-01-08,Out of State,Fulton County,66,56,0,   ,0
+2000-01-08,Wayne County,Out of State,93,45,1,   ,0
 2000-01-08,Kentucky Country Day,Villa Madonna,-,-,0,   ,0
-2000-01-09,Kentucky School f/t Deaf,School f/t Deaf. WI,87,61,1,  Kentucky Classic Tournament ,0
-2000-01-09,Kentucky School f/t Deaf,School f/t Deaf. IL,72,50,1,  Kentucky Classic Tournament ,0
+2000-01-09,Kentucky School f/t Deaf,Out of State,87,61,1,  Kentucky Classic Tournament ,0
+2000-01-09,Kentucky School f/t Deaf,Out of State,72,50,1,  Kentucky Classic Tournament ,0
 2000-01-10,Adair County,Green County,65,56,0,   ,0
-2000-01-10,Australian National Team,South Laurel,81,69,0,   ,0
+2000-01-10,Out of State,South Laurel,81,69,0,   ,0
 2000-01-10,Ballard Memorial,Carlisle County,68,57,0,   ,0
 2000-01-10,Beechwood,Heritage Academy,59,56,0,   ,0
 2000-01-10,Crittenden County,Reidland,65,43,1,   ,0
@@ -1793,12 +1785,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-10,Louisville Collegiate,Portland Christian,63,56,0,   ,0
 2000-01-10,Lynn Camp,Barbourville,101,72,0,   ,0
 2000-01-10,Mayfield,Fulton County,66,56,0,   ,0
-2000-01-10,Monticello,Australian National Team,69,56,1,   ,0
+2000-01-10,Monticello,Out of State,69,56,1,   ,0
 2000-01-11,Allen Central,Sheldon Clark,95,62,2,  Coca-Cola Classic Tournament ,0
 2000-01-11,Anderson County,Gallatin County,77,47,0,   ,0
 2000-01-11,Augusta,Millersburg Military,93,63,1,   ,0
-2000-01-11,Australian Jr. Olympics Team,Knox Central,78,66,0,   ,0
-2000-01-11,Australian National Team,Belfry,76,56,0,   ,0
+2000-01-11,Out of State,Knox Central,78,66,0,   ,0
+2000-01-11,Out of State,Belfry,76,56,0,   ,0
 2000-01-11,Ballard,Moore,97,65,1,   ,0
 2000-01-11,Ballard Memorial,Lone Oak,67,64,1,  (overtime) ,1
 2000-01-11,Barbourville,Pineville,95,80,1,   ,0
@@ -1808,7 +1800,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-11,Bethlehem,Sayre,72,61,1,   ,0
 2000-01-11,Betsy Layne,Shelby Valley,70,62,2,  Coca-Cola Classic Tournament ,0
 2000-01-11,Bowling Green,Warren East,74,45,1,   ,0
-2000-01-11,Boyd County,Ironton. OH,49,36,2,   ,0
+2000-01-11,Boyd County,Out of State,49,36,2,   ,0
 2000-01-11,Boyle County,North Laurel,79,62,1,   ,0
 2000-01-11,Breckinridge County,LaRue County,53,49,0,   ,0
 2000-01-11,Brown,St. Francis,63,51,0,   ,0
@@ -1821,7 +1813,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-11,Casey County,Somerset,77,68,1,   ,0
 2000-01-11,Central,Western,73,54,0,   ,0
 2000-01-11,Christian County,Trigg County,100,41,1,   ,0
-2000-01-11,Clarksville Kenwood. TN,Hopkinsville,72,56,2,   ,0
+2000-01-11,Out of State,Hopkinsville,72,56,2,   ,0
 2000-01-11,Clay County,Middlesboro,68,48,0,   ,0
 2000-01-11,Clinton County,Monroe County,87,56,0,   ,0
 2000-01-11,Corbin,Wayne County,76,65,0,   ,0
@@ -1846,7 +1838,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-11,Harrison County,Bourbon County,57,36,0,   ,0
 2000-01-11,Hart County,Bardstown,64,46,1,   ,0
 2000-01-11,Hazard,Wolfe County,75,68,0,   ,0
-2000-01-11,Henderson County,Evansville Day. IN,54,51,2,   ,0
+2000-01-11,Henderson County,Out of State,54,51,2,   ,0
 2000-01-11,Heritage Academy,Bellevue,65,57,1,   ,0
 2000-01-11,Holmes,Highlands,53,51,0,   ,0
 2000-01-11,Holy Cross (Covington),Boone County,63,54,0,   ,0
@@ -1884,11 +1876,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-11,Paul Laurence Dunbar,Bullitt East,71,53,0,   ,0
 2000-01-11,Pendleton County,Bracken County,77,63,1,   ,0
 2000-01-11,Perry County Central,Knott County Central,63,49,0,   ,0
-2000-01-11,Pikeville,Australian National Team,59,57,1,   ,0
+2000-01-11,Pikeville,Out of State,59,57,1,   ,0
 2000-01-11,Pleasure Ridge Park,Holy Cross (Louisville),90,71,0,   ,0
 2000-01-11,Powell County,Breathitt County,86,56,1,   ,0
 2000-01-11,Raceland,Rose Hill Christian,49,44,1,   ,0
-2000-01-11,Restoration Christian. IN,Walden,76,38,2,   ,0
+2000-01-11,Out of State,Walden,76,38,2,   ,0
 2000-01-11,Russell County,McCreary Central,71,44,0,   ,0
 2000-01-11,Russellville,University Heights,45,37,0,   ,0
 2000-01-11,Scott,Ryle,53,52,0,   ,0
@@ -1898,7 +1890,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-11,South Oldham,Bullitt Central,63,54,1,   ,0
 2000-01-11,Southern,Doss,57,55,1,   ,0
 2000-01-11,Southwestern,Rockcastle County,52,43,0,   ,0
-2000-01-11,Spring Valley. WV,Ashland Blazer,59,55,2,   ,0
+2000-01-11,Out of State,Ashland Blazer,59,55,2,   ,0
 2000-01-11,St. Patrick,Deming,101,29,0,   ,0
 2000-01-11,St. Xavier,Seneca,67,44,0,   ,0
 2000-01-11,Tates Creek,Henry Clay,65,51,1,   ,0
@@ -1907,18 +1899,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-11,Warren Central,Franklin-Simpson,67,63,1,   ,0
 2000-01-11,West Carter,Lawrence County,68,58,0,   ,0
 2000-01-11,West Jessamine,Madison Southern,78,73,0,   ,0
-2000-01-11,Williamsburg,Jellico. TN,77,50,1,   ,0
+2000-01-11,Williamsburg,Out of State,77,50,1,   ,0
 2000-01-11,Williamstown,Eminence,63,56,0,   ,0
 2000-01-11,Woodford County,Franklin County,60,58,1,   ,0
 2000-01-11,Murray,Christian Fellowship,-,-,0,   ,0
 2000-01-11,Fleming-Neon,Millard,-,-,0,   ,0
 2000-01-11,Greenup County,Phelps,-,-,0,   ,0
-2000-01-12,Australian National Team,Owen County,45,39,0,   ,0
+2000-01-12,Out of State,Owen County,45,39,0,   ,0
 2000-01-12,Bishop Brossart,Newport,67,48,1,  (rescheduled from Jan 15.) ,0
-2000-01-12,Oldham County,Australian All-Stars Team,73,49,1,   ,0
+2000-01-12,Oldham County,Out of State,73,49,1,   ,0
 2000-01-12,Pike County Central,Elkhorn City,80,42,1,  Coca-Cola Classic Tournament ,0
 2000-01-12,Prestonsburg,Jenkins,94,60,2,  Coca-Cola Classic Tournament ,0
-2000-01-12,Australian Team,DuPont Manual,-,-,0,   ,0
+2000-01-12,Out of State,DuPont Manual,-,-,0,   ,0
 2000-01-13,Atherton,Christian Academy-Louisville,83,54,0,   ,0
 2000-01-13,Brown,Shawnee,88,87,1,   ,0
 2000-01-13,Burgin,Kentucky School f/t Deaf,72,59,0,   ,0
@@ -1947,7 +1939,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-14,Bullitt Central,North Bullitt,73,70,0,   ,0
 2000-01-14,Bullitt East,Spencer County,65,36,0,   ,0
 2000-01-14,Burgin,Model,74,59,1,   ,0
-2000-01-14,Butler,Holy Cross (Louisville),68,65,1,  (double overtime) ,0
+2000-01-14,Butler,Holy Cross (Louisville),68,65,1,  (double overtime) ,1
 2000-01-14,Caldwell County,Trigg County,64,62,0,   ,0
 2000-01-14,Campbell County,Pendleton County,71,61,0,   ,0
 2000-01-14,Campbellsville,LaRue County,81,74,1,   ,0
@@ -1985,7 +1977,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-14,Knox Central,Whitley County,68,65,0,   ,0
 2000-01-14,Lafayette,Bryan Station,53,49,1,   ,0
 2000-01-14,Lawrence County,Lewis County,59,51,1,   ,0
-2000-01-14,Lexington Catholic,Miami North-West Christian. FL,73,62,2,  Nike Classic Tournament ,0
+2000-01-14,Lexington Catholic,Out of State,73,62,2,  Nike Classic Tournament ,0
 2000-01-14,Lexington Christian,Millersburg Military,66,37,2,   ,0
 2000-01-14,Lincoln County,South Laurel,62,58,1,   ,0
 2000-01-14,Lone Oak,Reidland,70,45,0,   ,0
@@ -2006,7 +1998,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-14,North Hardin,Hart County,68,60,1,   ,0
 2000-01-14,North Laurel,McCreary Central,76,45,1,   ,0
 2000-01-14,Ohio County,Hopkins County Central,57,56,1,  (overtime) ,1
-2000-01-14,Oneida Baptist Institute,June Buchanan,69,65,1,  (double overtime) ,0
+2000-01-14,Oneida Baptist Institute,June Buchanan,69,65,1,  (double overtime) ,1
 2000-01-14,Owensboro Catholic,Grayson County,57,34,1,   ,0
 2000-01-14,Owsley County,Wolfe County,66,52,1,   ,0
 2000-01-14,Paintsville,Pikeville,60,50,0,   ,0
@@ -2029,13 +2021,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-14,St. Mary,Ballard Memorial,63,61,1,   ,0
 2000-01-14,St. Xavier,Atherton,83,73,1,   ,0
 2000-01-14,Tates Creek,Paul Laurence Dunbar,61,60,1,   ,0
-2000-01-14,Trinity (Whitesville),New Harmony. IN,71,55,2,   ,0
+2000-01-14,Trinity (Whitesville),Out of State,71,55,2,   ,0
 2000-01-14,Union County,Webster County,72,31,1,   ,0
 2000-01-14,Washington County,Bethlehem,57,53,1,   ,0
 2000-01-14,Whitefield Academy,Beth Haven,69,62,2,  (overtime) ,1
 2000-01-14,Williamsburg,Jackson County,54,53,0,  (overtime) ,1
 2000-01-14,Williamstown,Grant County,74,69,1,   ,0
-2000-01-14,J. Frank White. WV,All Saints,-,-,0,   ,0
+2000-01-14,Out of State,All Saints,-,-,0,   ,0
 2000-01-14,Southwestern,Somerset,-,-,2,   ,0
 2000-01-14,Dayton,Villa Madonna,-,-,0,   ,0
 2000-01-15,Anderson County,Sayre,82,50,0,   ,0
@@ -2047,10 +2039,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-15,Calvary Christian,Villa Madonna,90,49,1,   ,0
 2000-01-15,Campbell County,Covington Catholic,53,49,0,   ,0
 2000-01-15,Central,Fern Creek,62,51,0,   ,0
-2000-01-15,Clinton. TN,Whitley County,74,61,0,   ,0
+2000-01-15,Out of State,Whitley County,74,61,0,   ,0
 2000-01-15,Corbin,Hazard,69,64,2,   ,0
 2000-01-15,Cumberland,Fleming-Neon,72,62,0,   ,0
-2000-01-15,Deerfield Beach. FL,Lexington Catholic,78,70,2,  Nike Classic Tournament ,0
+2000-01-15,Out of State,Lexington Catholic,78,70,2,  Nike Classic Tournament ,0
 2000-01-15,Estill County,Augusta,76,47,1,   ,0
 2000-01-15,Fleming County,Paris,63,50,1,   ,0
 2000-01-15,Frankfort,Lynn Camp,103,84,0,   ,0
@@ -2067,17 +2059,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-15,Owsley County,Clay County,54,49,2,   ,0
 2000-01-15,Perry County Central,George Rogers Clark,65,61,1,   ,0
 2000-01-15,Pike County Central,Allen Central,84,72,1,  Coca-Cola Classic Tournament ,0
-2000-01-15,Portland Christian,Borden. IN,67,44,1,   ,0
+2000-01-15,Portland Christian,Out of State,67,44,1,   ,0
 2000-01-15,Rose Hill Christian,Riverside Christian,81,66,1,   ,0
 2000-01-15,Scott County,Mason County,92,78,0,   ,0
 2000-01-15,Shelby Valley,Elkhorn City,95,34,2,  Coca-Cola Classic Tournament ,0
 2000-01-15,Sheldon Clark,Jenkins,77,45,2,  Coca-Cola Classic Tournament ,0
 2000-01-15,Simon Kenton,Powell County,81,62,1,   ,0
-2000-01-15,St. Mary,Decatur McArthur. IL,59,50,2,  Centralia Shootout ,0
+2000-01-15,St. Mary,Out of State,59,50,2,  Centralia Shootout ,0
 2000-01-15,Todd County Central,Cumberland County,65,46,1,   ,0
 2000-01-15,Trinity (Louisville),Holy Cross (Louisville),77,65,0,   ,0
-2000-01-15,Matewan. WV,Phelps,-,-,2,   ,0
-2000-01-16,Scott County,Chesapeake. OH,80,72,2,   ,0
+2000-01-15,Out of State,Phelps,-,-,2,   ,0
+2000-01-16,Scott County,Out of State,80,72,2,   ,0
 2000-01-17,Cordia,June Buchanan,65,51,1,  All A Classic (14th Region)  ,0
 2000-01-17,Crittenden County,Providence,72,69,2,  All A Classic (2nd Region) ,0
 2000-01-17,Dayton,Covington Latin,85,36,2,  All A Classic (9th Region) ,0
@@ -2088,16 +2080,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-17,Letcher,Riverside Christian,79,73,0,  All A Classic (14th Region) ,0
 2000-01-17,Middlesboro,Cumberland,47,44,0,  All A Classic (13th Region) ,0
 2000-01-17,Morgan County,Fairview,66,47,0,   ,0
-2000-01-17,Newport,Ludlow,62,59,2,  All A Classic (9th Region in double overtime) ,0
+2000-01-17,Newport,Ludlow,62,59,2,  All A Classic (9th Region in double overtime) ,1
 2000-01-17,Owensboro Catholic,Apollo,55,39,1,   ,0
-2000-01-17,Paducah Tilghman,Sikeston. MO,64,63,2,  Superman Classic Tournament ,0
+2000-01-17,Paducah Tilghman,Out of State,64,63,2,  Superman Classic Tournament ,0
 2000-01-17,Red Bird,Pineville,69,57,1,  All A Classic (13th Region) ,0
 2000-01-17,St. Mary,Murray,64,56,0,  All A Classic (1st Region) ,0
 2000-01-17,Williamsburg,Evarts,87,51,1,  All A Classic (13th Region) ,0
 2000-01-17,Central Hardin,Barren County,-,-,0,  (Postponed) ,0
 2000-01-18,Anderson County,Boyle County,64,52,1,   ,0
 2000-01-18,Apollo,Henderson County,55,52,1,   ,0
-2000-01-18,Ashland Blazer,Ironton. OH,83,74,2,  (overtime) ,1
+2000-01-18,Ashland Blazer,Out of State,83,74,2,  (overtime) ,1
 2000-01-18,Ballard Memorial,Heath,46,43,2,  All A Classic (1st Region) ,0
 2000-01-18,Beechwood,Villa Madonna,75,51,2,  All A Classic (9th Region) ,0
 2000-01-18,Bell County,Whitesburg,70,54,0,   ,0
@@ -2105,7 +2097,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-18,Beth Haven,Lexington Christian,50,49,2,   ,0
 2000-01-18,Bowling Green,Greenwood,83,77,0,   ,0
 2000-01-18,Bryan Station,Tates Creek,54,38,1,   ,0
-2000-01-18,Bullitt East,South Oldham,68,58,1,  (double overtime) ,0
+2000-01-18,Bullitt East,South Oldham,68,58,1,  (double overtime) ,1
 2000-01-18,Campbell County,Holmes,64,59,1,   ,0
 2000-01-18,Casey County,Lincoln County,56,55,0,   ,0
 2000-01-18,Central Hardin,LaRue County,71,51,1,   ,0
@@ -2113,11 +2105,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-18,Daviess County,Breckinridge County,56,53,1,   ,0
 2000-01-18,DeSales,Central,63,56,1,   ,0
 2000-01-18,Dixie Heights,Boone County,69,46,0,   ,0
-2000-01-18,East Carter,Lewis County,70,67,1,  (double overtime) ,0
+2000-01-18,East Carter,Lewis County,70,67,1,  (double overtime) ,1
 2000-01-18,Elizabethtown,Caverna,100,71,0,   ,0
 2000-01-18,Fairdale,Shawnee,84,78,1,   ,0
 2000-01-18,Fleming County,Bath County,74,54,0,   ,0
-2000-01-18,Fort Campbell,Stewart County. TN,60,53,1,   ,0
+2000-01-18,Fort Campbell,Out of State,60,53,1,   ,0
 2000-01-18,Glasgow,Metcalfe County,84,62,1,  All A Classic (4th Region) ,0
 2000-01-18,Greenup County,Boyd County,68,52,1,   ,0
 2000-01-18,Hancock County,McLean County,70,51,1,  All A Classic (3rd Region) ,0
@@ -2131,7 +2123,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-18,Lexington Catholic,East Jessamine,90,59,1,   ,0
 2000-01-18,Livingston Central,Lyon County,62,61,1,  All A Classic (2nd Region) ,0
 2000-01-18,Lloyd Memorial,Conner,57,51,0,   ,0
-2000-01-18,Louisville Collegiate,Restoration Christian. IN,49,46,2,   ,0
+2000-01-18,Louisville Collegiate,Out of State,49,46,2,   ,0
 2000-01-18,Madison Central,South Laurel,73,60,1,   ,0
 2000-01-18,Madison Southern,Rockcastle County,57,42,0,   ,0
 2000-01-18,Madisonville-North Hopkins,Hopkinsville,86,46,1,   ,0
@@ -2146,7 +2138,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-18,Ohio County,Owensboro,48,42,1,   ,0
 2000-01-18,Oneida Baptist Institute,Lynn Camp,71,62,1,  All A Classic (13th Region) ,0
 2000-01-18,Powell County,Perry County Central,69,64,1,   ,0
-2000-01-18,Rose Hill Christian,Grace,60,53,2,   ,0
+2000-01-18,Rose Hill Christian,Out of State,60,53,2,   ,0
 2000-01-18,Russell County,Adair County,53,44,1,   ,0
 2000-01-18,Scott County,Grant County,96,77,1,   ,0
 2000-01-18,Seneca,Fern Creek,60,56,1,   ,0
@@ -2157,7 +2149,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-18,St. Xavier,Eastern,64,46,1,   ,0
 2000-01-18,Trigg County,Dawson Springs,82,49,2,  All A Classic (2nd Region) ,0
 2000-01-18,Trinity (Whitesville),Cloverport,51,32,2,  All A Classic (3rd Region) ,0
-2000-01-18,Union County,Evansville Day. IN,59,53,1,   ,0
+2000-01-18,Union County,Out of State,59,53,1,   ,0
 2000-01-18,Valley,Butler,69,60,1,   ,0
 2000-01-18,Waggener,Trinity (Louisville),55,50,1,   ,0
 2000-01-18,Warren Central,Edmonson County,97,58,1,   ,0
@@ -2168,12 +2160,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-18,Western,Southern,76,65,0,   ,0
 2000-01-18,Whitley County,Cawood,52,49,1,   ,0
 2000-01-18,Williamsburg,Middlesboro,73,44,0,  All A Classic (13th Region)  ,0
-2000-01-18,Williamson. WV,Belfry,60,49,2,   ,0
+2000-01-18,Out of State,Belfry,60,49,2,   ,0
 2000-01-18,Woodford County,Model,85,71,1,   ,0
 2000-01-18,Leslie County,Breathitt County,-,-,0,   ,0
 2000-01-18,All Saints,Danville,-,-,0,  All A Classic (12th Region) ,0
 2000-01-18,Southwestern,Garrard County,-,-,0,  (postponed due to snow) ,0
-2000-01-18,Cincinnati McNicholas. OH,Covington Catholic,-,-,2,   ,0
+2000-01-18,Out of State,Covington Catholic,-,-,2,   ,0
 2000-01-19,Augusta,Millersburg Military,86,36,2,  All A Classic (10th Region) ,0
 2000-01-19,Bardstown,Green County,78,73,2,  All A Classic (5th Region) ,0
 2000-01-19,Bellevue,Dayton,66,34,2,  All A Classic (9th Region) ,0
@@ -2202,7 +2194,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-20,Holy Cross (Covington),Beechwood,79,68,2,  All A Classic (9th Region) ,0
 2000-01-20,Letcher,Buckhorn,85,71,2,  All A Classic (14th Region) ,0
 2000-01-20,Livingston Central,Trigg County,65,51,1,  All A Classic (2nd Region) ,0
-2000-01-20,Massac County. IL,Reidland,82,48,2,  Superman Classic Tournament ,0
+2000-01-20,Out of State,Reidland,82,48,2,  Superman Classic Tournament ,0
 2000-01-20,Model,Sayre,76,66,2,  All A Classic (11th Region) ,0
 2000-01-20,Newport Central Catholic,St. Henry,62,49,1,  All A Classic (9th Region) ,0
 2000-01-20,Nicholas County,Bishop Brossart,49,44,2,  All A Classic (10th Region) ,0
@@ -2226,11 +2218,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-21,Bullitt East,Bullitt Central,66,52,1,   ,0
 2000-01-21,Campbell County,Ryle,60,42,0,   ,0
 2000-01-21,Campbellsville,Fort Knox,86,69,2,  All A Classic (5th Region) ,0
-2000-01-21,Carlisle County,Ballard Memorial,78,67,2,  All A Classic (1st Region double overtime) ,0
+2000-01-21,Carlisle County,Ballard Memorial,78,67,2,  All A Classic (1st Region double overtime) ,1
 2000-01-21,Carroll County,Trimble County,46,45,2,  All A Classic (8th Region) ,0
 2000-01-21,Caverna,Bardstown,90,75,2,  All A Classic (5th Region) ,0
 2000-01-21,Central,South Oldham,58,51,0,   ,0
-2000-01-21,Charleston. MO,Reidland,77,62,2,  Superman Classic Tournament ,0
+2000-01-21,Out of State,Reidland,77,62,2,  Superman Classic Tournament ,0
 2000-01-21,Christian Academy-Louisville,Louisville Collegiate,90,63,1,  All A Classic (7th Region) ,0
 2000-01-21,Christian County,Webster County,81,61,1,   ,0
 2000-01-21,Clinton County,Cumberland County,84,75,0,  All A Classic (4th Region) ,0
@@ -2254,7 +2246,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-21,Henderson County,Hopkinsville,95,93,0,  (overtime) ,1
 2000-01-21,Highlands,Boone County,85,55,0,   ,0
 2000-01-21,Holy Cross (Louisville),Portland Christian,52,44,2,  All A Classic (6th Region) ,0
-2000-01-21,Ironton. OH,Russell,73,63,0,   ,0
+2000-01-21,Out of State,Russell,73,63,0,   ,0
 2000-01-21,Iroquois,Butler,85,61,1,   ,0
 2000-01-21,Johnson Central,Lawrence County,80,69,0,   ,0
 2000-01-21,Knox Central,Bell County,53,47,1,   ,0
@@ -2278,14 +2270,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-21,Oldham County,North Bullitt,65,42,1,   ,0
 2000-01-21,Owensboro Catholic,Owensboro,51,49,1,   ,0
 2000-01-21,Owsley County,Cordia,70,55,2,  All A Classic (14th Region) ,0
-2000-01-21,Paducah Tilghman,Herrin. IL,56,51,2,  Superman Classic Tournament ,0
+2000-01-21,Paducah Tilghman,Out of State,56,51,2,  Superman Classic Tournament ,0
 2000-01-21,Paintsville,Millard,87,69,2,  All A Classic (15th Region) ,0
 2000-01-21,Paul Laurence Dunbar,Fleming County,51,47,0,   ,0
 2000-01-21,Perry County Central,Breathitt County,80,47,1,   ,0
 2000-01-21,Pike County Central,Sheldon Clark,67,50,0,   ,0
 2000-01-21,Pleasure Ridge Park,Shawnee,96,68,1,   ,0
 2000-01-21,Prestonsburg,Piarist School,93,65,0,   ,0
-2000-01-21,Rose Hill Christian,Elk Valley Christian. WV,47,44,1,   ,0
+2000-01-21,Rose Hill Christian,Out of State,47,44,1,   ,0
 2000-01-21,Russell County,Casey County,72,61,0,   ,0
 2000-01-21,Russellville,Muhlenberg North,88,87,0,  Union Planters Classic Tournament (overtime) ,1
 2000-01-21,Scott County,Franklin County,82,61,0,   ,0
@@ -2310,20 +2302,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-21,Conner,Corbin,-,-,0,  (rescheduled to a later date) ,0
 2000-01-22,Beth Haven,Holy Cross (Louisville),65,63,1,  All A Classic (6th Region championship) ,0
 2000-01-22,Boyd County,Russell,66,48,0,   ,0
-2000-01-22,Campbell County. TN,Bell County,69,66,0,  (overtime) ,1
+2000-01-22,Out of State,Bell County,69,66,0,  (overtime) ,1
 2000-01-22,Carroll County,Spencer County,46,42,0,  All A Classic (8th Region championship) ,0
-2000-01-22,Conner,South Dearborn. IN,58,57,2,   ,0
+2000-01-22,Conner,Out of State,58,57,2,   ,0
 2000-01-22,Cumberland,Evarts,40,38,0,   ,0
 2000-01-22,Elliott County,Fairview,54,53,0,  All A Classic (16th Region championship) ,0
-2000-01-22,Evansville North. IN,Owensboro,75,69,0,   ,0
+2000-01-22,Out of State,Owensboro,75,69,0,   ,0
 2000-01-22,Frankfort,Lexington Christian,66,57,2,  All A Classic (11th Region championship) ,0
 2000-01-22,Heritage Academy,Calvary Christian,69,59,1,   ,0
 2000-01-22,Muhlenberg North,Valley,78,61,1,  Union Planters Classic Tournament ,0
 2000-01-22,Newport Central Catholic,Newport,77,55,1,  All A Classic (9th Region championship) ,0
 2000-01-22,Owsley County,Hazard,70,47,0,  All A Classic (14th Region championship) ,0
-2000-01-22,Paducah Tilghman,DuQuoin. IL,74,55,2,  Superman Classic Tournament ,0
-2000-01-22,School f/t Deaf. NC,Kentucky School f/t Deaf,71,52,0,   ,0
-2000-01-22,Sikeston. MO,Reidland,88,61,2,  Superman Classic Tournament ,0
+2000-01-22,Paducah Tilghman,Out of State,74,55,2,  Superman Classic Tournament ,0
+2000-01-22,Out of State,Kentucky School f/t Deaf,71,52,0,   ,0
+2000-01-22,Out of State,Reidland,88,61,2,  Superman Classic Tournament ,0
 2000-01-22,South Floyd,Paintsville,83,74,2,  All A Classic (15th Region championship) ,0
 2000-01-22,St. Mary,Carlisle County,61,58,2,  All A Classic (1st Region championship) ,0
 2000-01-22,St. Patrick,Nicholas County,73,55,2,  All A Classic (10th Region championship) ,0
@@ -2331,10 +2323,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-22,Riverside Christian,All Saints,-,-,0,   ,0
 2000-01-22,Anderson County,Eastern,-,-,0,   ,0
 2000-01-22,Russellville,Muhlenberg South,-,-,0,   ,0
-2000-01-22,Portland. TN,Franklin-Simpson,-,-,2,   ,0
+2000-01-22,Out of State,Franklin-Simpson,-,-,2,   ,0
 2000-01-22,Southwestern,Lawrence County,-,-,2,   ,0
 2000-01-22,Central,South Oldham,-,-,0,   ,0
-2000-01-22,Covington Latin,Norwood Baptist,-,-,2,   ,0
+2000-01-22,Covington Latin,Out of State,-,-,2,   ,0
 2000-01-23,Harrodsburg,Somerset,74,57,1,  All A Classic (12th Region championship) ,0
 2000-01-24,Bellevue,Dayton,67,61,0,  (overtime) ,1
 2000-01-24,Betsy Layne,Piarist School,99,62,1,   ,0
@@ -2345,7 +2337,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-24,Morgan County,Menifee County,75,53,1,   ,0
 2000-01-24,Owensboro Catholic,Daviess County,51,45,1,   ,0
 2000-01-24,Reidland,Christian Fellowship,69,42,0,   ,0
-2000-01-24,Rose Hill Christian,Hannan. WV,68,53,0,   ,0
+2000-01-24,Rose Hill Christian,Out of State,68,53,0,   ,0
 2000-01-24,Russell County,Green County,65,57,1,   ,0
 2000-01-24,Todd County Central,Clinton County,53,46,1,  All A Classic (4th Region chamionship) ,0
 2000-01-24,Monticello,Rockcastle County,-,-,0,   ,0
@@ -2361,12 +2353,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-25,Breckinridge County,McLean County,52,49,0,   ,0
 2000-01-25,Bryan Station,Lincoln County,70,66,0,  (overtime) ,1
 2000-01-25,Caldwell County,Hopkinsville,61,48,0,   ,0
-2000-01-25,Calvary Christian,St. Bernard. OH,64,61,2,   ,0
+2000-01-25,Calvary Christian,Out of State,64,61,2,   ,0
 2000-01-25,Carlisle County,Mayfield,61,54,1,   ,0
 2000-01-25,Cawood,Cumberland,84,33,0,   ,0
-2000-01-25,Clinch,All Saints,67,51,1,   ,0
+2000-01-25,Out of State,All Saints,67,51,1,   ,0
 2000-01-25,Corbin,Evarts,84,56,0,   ,0
-2000-01-25,Dawson Bryant (Coal Grove). OH,Raceland,55,51,2,   ,0
+2000-01-25,Out of State,Raceland,55,51,2,   ,0
 2000-01-25,East Carter,Lawrence County,57,55,0,  (overtime) ,1
 2000-01-25,Eminence,Owen County,59,58,1,  (overtime) ,1
 2000-01-25,Estill County,Montgomery County,40,39,1,   ,0
@@ -2388,12 +2380,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-25,Holy Cross (Covington),Bracken County,69,64,0,   ,0
 2000-01-25,Iroquois,DuPont Manual,77,72,1,   ,0
 2000-01-25,June Buchanan,Red Bird,59,45,1,   ,0
-2000-01-25,Kentucky Country Day,Restoration Christian. IN,53,38,1,   ,0
+2000-01-25,Kentucky Country Day,Out of State,53,38,1,   ,0
 2000-01-25,Knott County Central,Breathitt County,96,69,0,   ,0
 2000-01-25,LaRue County,Fort Knox,61,55,1,   ,0
 2000-01-25,Lafayette,West Jessamine,80,72,0,   ,0
 2000-01-25,Lexington Christian,Kentucky School f/t Deaf,92,64,2,   ,0
-2000-01-25,Lloyd Memorial,Campbell County,67,66,1,  (double overtime) ,0
+2000-01-25,Lloyd Memorial,Campbell County,67,66,1,  (double overtime) ,1
 2000-01-25,Ludlow,Beechwood,59,51,0,   ,0
 2000-01-25,Lyon County,Dawson Springs,69,66,0,   ,0
 2000-01-25,Madison Central,Paul Laurence Dunbar,58,44,1,   ,0
@@ -2423,7 +2415,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-25,Sheldon Clark,Feds Creek,61,60,1,   ,0
 2000-01-25,Silver Grove,Villa Madonna,81,63,1,   ,0
 2000-01-25,South Oldham,Seneca,64,60,0,   ,0
-2000-01-25,St. Xavier,,71,47,1,   ,0
+2000-01-25,St. Xavier,Out of State,71,47,1,   ,0
 2000-01-25,Tates Creek,Western Hills,70,61,1,   ,0
 2000-01-25,Trigg County,Providence,83,78,0,   ,0
 2000-01-25,Trimble County,Williamstown,72,60,1,   ,0
@@ -2453,21 +2445,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-27,Adair County,Grant County,55,53,2,  Toyota Classic Tournament ,0
 2000-01-27,Bowling Green,Greenwood,60,58,1,   ,0
 2000-01-27,Butler,Bullitt East,59,49,1,   ,0
-2000-01-27,Evansville Reitz Memorial. IN,Madisonville-North Hopkins,56,55,2,   ,0
+2000-01-27,Out of State,Madisonville-North Hopkins,56,55,2,   ,0
 2000-01-27,Frankfort,Beth Haven,87,49,2,  All A Classic ,0
 2000-01-27,Hancock County,Elliott County,50,41,2,  All A Classic ,0
 2000-01-27,Harlan,Campbellsville,76,69,2,  All A Classic ,0
 2000-01-27,Harrodsburg,Crittenden County,50,47,2,  All A Classic ,0
-2000-01-27,Kentucky School f/t Deaf,School f/t Deaf. TN,63,32,2,  Mason-Dixon Tournament ,0
+2000-01-27,Kentucky School f/t Deaf,Out of State,63,32,2,  Mason-Dixon Tournament ,0
 2000-01-27,Lynn Camp,Pineville,86,59,0,   ,0
-2000-01-27,Muhlenberg North,Osceola. FL,91,80,2,  Toyota Classic ,0
+2000-01-27,Muhlenberg North,Out of State,91,80,2,  Toyota Classic ,0
 2000-01-27,Newport Central Catholic,Todd County Central,73,56,2,  All A Classic ,0
 2000-01-27,Owsley County,Carroll County,65,31,2,  All A Classic ,0
 2000-01-27,Pleasure Ridge Park,Madison Central,67,60,0,   ,0
-2000-01-27,Scott County,Sante Fe. FL,89,76,1,  Toyota Classic ,0
+2000-01-27,Scott County,Out of State,89,76,1,  Toyota Classic ,0
 2000-01-27,St. Mary,St. Patrick,53,49,2,  All A Classic ,0
 2000-01-27,Whitefield Academy,South Floyd,70,69,2,  All A Classic ,0
-2000-01-27,Covington Latin,Center Christian Academy,-,-,0,   ,0
+2000-01-27,Covington Latin,Out of State,-,-,0,   ,0
 2000-01-27,Beth Haven,Fairdale,-,-,0,   ,0
 2000-01-28,Anderson County,South Oldham,55,45,1,   ,0
 2000-01-28,Barbourville,Evarts,66,59,0,   ,0
@@ -2483,7 +2475,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-28,Breathitt County,Morgan County,73,64,1,   ,0
 2000-01-28,Breckinridge County,Meade County,57,45,1,   ,0
 2000-01-28,Caldwell County,Lyon County,62,61,1,   ,0
-2000-01-28,Calvary Christian,Landmark Christian. OH,77,63,1,   ,0
+2000-01-28,Calvary Christian,Out of State,77,63,1,   ,0
 2000-01-28,Casey County,Russell County,69,55,0,   ,0
 2000-01-28,Cawood,Bell County,78,71,0,   ,0
 2000-01-28,Christian County,Union County,55,49,1,   ,0
@@ -2508,14 +2500,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-28,Hopkinsville,Trigg County,86,52,0,   ,0
 2000-01-28,Iroquois,Fern Creek,93,47,1,   ,0
 2000-01-28,Jeffersontown,Southern,74,71,0,   ,0
-2000-01-28,Kentucky School f/t Deaf,School f/t Deaf. GA,78,76,2,  Mason-Dixon Tournament ,0
+2000-01-28,Kentucky School f/t Deaf,Out of State,78,76,2,  Mason-Dixon Tournament ,0
 2000-01-28,Knott County Central,Leslie County,74,64,0,   ,0
 2000-01-28,Louisville Collegiate,Cloverport,62,44,1,   ,0
 2000-01-28,Lynn Camp,Model,94,84,1,   ,0
 2000-01-28,Madison Central,Perry County Central,59,54,1,   ,0
 2000-01-28,Magoffin County,Johnson Central,56,53,0,   ,0
 2000-01-28,Marion County,Lincoln County,68,67,0,   ,0
-2000-01-28,Mason County,Ripley. OH,68,52,1,   ,0
+2000-01-28,Mason County,Out of State,68,52,1,   ,0
 2000-01-28,Menifee County,Berea,64,61,0,   ,0
 2000-01-28,Metcalfe County,Monroe County,95,57,0,   ,0
 2000-01-28,Millard,Phelps,63,62,0,   ,0
@@ -2532,9 +2524,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-28,Paul Laurence Dunbar,Henry Clay,72,62,0,   ,0
 2000-01-28,Pendleton County,Millersburg Military,65,35,1,   ,0
 2000-01-28,Pike County Central,Prestonsburg,87,61,0,   ,0
-2000-01-28,Pikeville,Williamson. WV,74,59,2,   ,0
+2000-01-28,Pikeville,Out of State,74,59,2,   ,0
 2000-01-28,Pulaski County,Southwestern,57,46,1,   ,0
-2000-01-28,Raceland,South Gallia. OH,61,59,2,   ,0
+2000-01-28,Raceland,Out of State,61,59,2,   ,0
 2000-01-28,Rockcastle County,Whitley County,63,60,1,   ,0
 2000-01-28,Rowan County,Russell,52,50,1,   ,0
 2000-01-28,Ryle,Holy Cross (Covington),54,49,1,   ,0
@@ -2545,7 +2537,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-28,Shelby Valley,Whitesburg,90,47,1,   ,0
 2000-01-28,Simon Kenton,Boone County,61,46,0,   ,0
 2000-01-28,Spencer County,Walden,101,17,0,   ,0
-2000-01-28,St. Francis,St. Louis Crossroads. MO,79,46,1,   ,0
+2000-01-28,St. Francis,Out of State,79,46,1,   ,0
 2000-01-28,Trimble County,Henry County,62,53,0,   ,0
 2000-01-28,University Heights,Eastern,57,48,0,   ,0
 2000-01-28,Valley,Western,67,56,1,   ,0
@@ -2564,28 +2556,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-28,Christian Fellowship,Dawson Springs,-,-,0,   ,0
 2000-01-28,Russellville,Glasgow,-,-,0,   ,0
 2000-01-29,Allen Central,Phelps,86,70,0,   ,0
-2000-01-29,Ballard,Jeffersonville. IN,85,63,1,   ,0
-2000-01-29,Heritage Academy,Restoration Christian. IN,51,50,1,   ,0
+2000-01-29,Ballard,Out of State,85,63,1,   ,0
+2000-01-29,Heritage Academy,Out of State,51,50,1,   ,0
 2000-01-29,Newport Central Catholic,Harlan,50,42,2,  All A Classic (Semifinals) ,0
-2000-01-29,Raceland,Ironton St. Joe. OH,60,56,1,   ,0
-2000-01-29,School f/t Deaf. SC,Kentucky School f/t Deaf,73,68,2,  Mason-Dixon Tournament ,0
+2000-01-29,Raceland,Out of State,60,56,1,   ,0
+2000-01-29,Out of State,Kentucky School f/t Deaf,73,68,2,  Mason-Dixon Tournament ,0
 2000-01-29,Scott County,Muhlenberg North,81,60,1,  Toyota Classic Tournament (championship) ,0
 2000-01-29,Trinity (Louisville),St. Xavier,65,54,2,   ,0
 2000-01-29,Whitefield Academy,Owsley County,63,55,2,  All A Classic (Semifinals) ,0
 2000-01-29,Portland Christian,Evangel Christian,-,-,0,   ,0
-2000-01-29,Cloverport,Cannelton. IN,-,-,2,   ,0
+2000-01-29,Cloverport,Out of State,-,-,2,   ,0
 2000-01-29,Whitefield Academy,Walden,-,-,2,   ,0
 2000-01-29,Waggener,Holmes,-,-,0,   ,0
 2000-01-29,Rowan County,Mason County,-,-,0,   ,0
 2000-01-29,Lewis County,Morgan County,-,-,0,   ,0
-2000-01-29,Mountain Mission. VA,Fleming-Neon,-,-,2,   ,0
-2000-01-29,New Harmony. IN,Providence,-,-,0,   ,0
+2000-01-29,Out of State,Fleming-Neon,-,-,2,   ,0
+2000-01-29,Out of State,Providence,-,-,0,   ,0
 2000-01-29,Harrison County,George Rogers Clark,-,-,2,  Toyota Classic Tournament ,0
 2000-01-30,Newport Central Catholic,Whitefield Academy,52,33,2,  Sweet 16® Championship ,0
 2000-01-31,Campbell County,George Rogers Clark,60,59,1,   ,0
 2000-01-31,Carlisle County,Reidland,80,56,1,   ,0
 2000-01-31,Elizabethtown,Barren County,77,62,1,   ,0
-2000-01-31,Franklin-Simpson,Portland. TN,59,45,1,   ,0
+2000-01-31,Franklin-Simpson,Out of State,59,45,1,   ,0
 2000-01-31,Fulton City,Calloway County,69,49,1,   ,0
 2000-01-31,Graves County,Lone Oak,61,55,1,   ,0
 2000-01-31,Mayfield,Murray,59,32,1,   ,0
@@ -2593,12 +2585,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-01-31,North Bullitt,Eminence,84,54,0,   ,0
 2000-01-31,Perry County Central,Leslie County,84,42,1,   ,0
 2000-01-31,Trigg County,Christian Fellowship,81,66,0,    ,0
-2000-01-31,J. Frank White. TN,Lynn Camp,-,-,0,   ,0
+2000-01-31,Out of State,Lynn Camp,-,-,0,   ,0
 2000-02-01,Adair County,Taylor County,66,50,0,   ,0
 2000-02-01,Anderson County,Henry County,80,56,0,   ,0
-2000-02-01,Ashland Blazer,East Carter,65,57,0,  (double overtime) ,0
+2000-02-01,Ashland Blazer,East Carter,65,57,0,  (double overtime) ,1
 2000-02-01,Ballard,DuPont Manual,97,69,0,   ,0
-2000-02-01,Barbourville,Jellico. TN,62,41,1,   ,0
+2000-02-01,Barbourville,Out of State,62,41,1,   ,0
 2000-02-01,Beechwood,Villa Madonna,94,41,0,   ,0
 2000-02-01,Belfry,Elkhorn City,89,47,1,   ,0
 2000-02-01,Bell County,Middlesboro,95,35,1,   ,0
@@ -2608,7 +2600,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-01,Betsy Layne,Prestonsburg,62,37,0,   ,0
 2000-02-01,Bishop Brossart,Dixie Heights,52,44,1,   ,0
 2000-02-01,Brown,Louisville Collegiate,68,51,1,   ,0
-2000-02-01,Butler,Southern,76,73,1,  (double overtime) ,0
+2000-02-01,Butler,Southern,76,73,1,  (double overtime) ,1
 2000-02-01,Caldwell County,Fort Campbell,57,46,1,   ,0
 2000-02-01,Calloway County,Christian Fellowship,71,35,1,   ,0
 2000-02-01,Campbell County,Boone County,82,52,1,   ,0
@@ -2640,9 +2632,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-01,Greenwood,Warren East,62,31,1,   ,0
 2000-02-01,Hancock County,Cloverport,70,48,1,   ,0
 2000-02-01,Harrodsburg,Casey County,73,70,0,   ,0
-2000-02-01,Heath,Vienna. IL,71,68,2,  (overtime) ,1
+2000-02-01,Heath,Out of State,71,68,2,  (overtime) ,1
 2000-02-01,Henry Clay,Tates Creek,69,51,1,   ,0
-2000-02-01,Hickman County,Fulton County,87,80,0,  (double overtime) ,0
+2000-02-01,Hickman County,Fulton County,87,80,0,  (double overtime) ,1
 2000-02-01,Highlands,Newport,59,31,1,   ,0
 2000-02-01,Holy Cross (Louisville),North Bullitt,77,69,0,   ,0
 2000-02-01,Hopkins County Central,Dawson Springs,103,55,1,   ,0
@@ -2682,7 +2674,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-01,Pleasure Ridge Park,Central,68,54,0,   ,0
 2000-02-01,Portland Christian,St. Francis,52,34,1,   ,0
 2000-02-01,Powell County,Lee County,85,52,0,   ,0
-2000-02-01,Pulaski County,Russian Team,71,55,1,   ,0
+2000-02-01,Pulaski County,Out of State,71,55,1,   ,0
 2000-02-01,Rose Hill Christian,Piarist School,69,32,0,   ,0
 2000-02-01,Rowan County,Raceland,44,42,0,   ,0
 2000-02-01,Russellville,Trinity (Whitesville),99,52,0,   ,0
@@ -2711,7 +2703,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-02,Perry County Central,Ashland Blazer,51,38,1,   ,0
 2000-02-02,Newport Central Catholic,St. Henry,-,-,0,   ,0
 2000-02-03,Brown,Walden,76,27,0,   ,0
-2000-02-03,Christian County,Goodpasture. TN,61,46,2,   ,0
+2000-02-03,Christian County,Out of State,61,46,2,   ,0
 2000-02-03,Hart County,Metcalfe County,64,43,0,   ,0
 2000-02-03,Hopkins County Central,Union County,68,50,0,   ,0
 2000-02-03,Jeffersontown,Whitefield Academy,62,52,2,   ,0
@@ -2742,21 +2734,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-04,Casey County,Boyle County,67,61,0,   ,0
 2000-02-04,Cawood,Evarts,80,72,0,   ,0
 2000-02-04,Central,Valley,81,47,1,   ,0
-2000-02-04,Cheatham County. TN,Fort Campbell,77,69,2,   ,0
+2000-02-04,Out of State,Fort Campbell,77,69,2,   ,0
 2000-02-04,Christian Academy-Louisville,Beth Haven,64,62,0,   ,0
 2000-02-04,Clay County,Wolfe County,71,60,1,   ,0
 2000-02-04,Clinton County,Green County,79,66,1,   ,0
-2000-02-04,Crittenden County,Hardin County. IL,69,46,1,   ,0
+2000-02-04,Crittenden County,Out of State,69,46,1,   ,0
 2000-02-04,Cumberland,Whitley County,54,45,1,   ,0
 2000-02-04,Danville,Lincoln County,48,29,0,   ,0
 2000-02-04,Daviess County,Ohio County,66,52,1,   ,0
 2000-02-04,DuPont Manual,St. Xavier,74,58,1,   ,0
 2000-02-04,East Carter,Elliott County,55,50,0,   ,0
-2000-02-04,East Jessamine,Russian Team,68,49,1,   ,0
+2000-02-04,East Jessamine,Out of State,68,49,1,   ,0
 2000-02-04,Eastern,Fern Creek,60,45,1,   ,0
 2000-02-04,Edmonson County,Cumberland County,65,62,1,   ,0
 2000-02-04,Elizabethtown,LaRue County,80,49,1,   ,0
-2000-02-04,Evangel Christian,Restoration Christian. IN,68,60,1,   ,0
+2000-02-04,Evangel Christian,Out of State,68,60,1,   ,0
 2000-02-04,Fairdale,Butler,59,45,0,   ,0
 2000-02-04,Fleming-Neon,Jenkins,73,71,0,   ,0
 2000-02-04,Frankfort,Berea,63,48,0,   ,0
@@ -2772,7 +2764,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-04,Harrodsburg,Burgin,65,56,1,   ,0
 2000-02-04,Hazard,Knott County Central,72,67,0,   ,0
 2000-02-04,Henderson County,Webster County,75,55,0,   ,0
-2000-02-04,Henryville. IN,Portland Christian,53,52,0,   ,0
+2000-02-04,Out of State,Portland Christian,53,52,0,   ,0
 2000-02-04,Holmes,Scott,61,55,0,   ,0
 2000-02-04,Holy Cross (Covington),Conner,46,43,1,   ,0
 2000-02-04,Iroquois,Doss,84,70,0,   ,0
@@ -2815,10 +2807,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-04,St. Mary,Mayfield,59,41,1,   ,0
 2000-02-04,Tates Creek,Madison Southern,71,58,0,   ,0
 2000-02-04,Taylor County,Caverna,74,58,1,   ,0
-2000-02-04,Tell City. IN,Hancock County,59,47,0,   ,0
+2000-02-04,Out of State,Hancock County,59,47,0,   ,0
 2000-02-04,Trimble County,Spencer County,84,55,1,   ,0
 2000-02-04,Trinity (Louisville),Seneca,63,56,1,   ,0
-2000-02-04,Tug Valley. WV,Paintsville,97,90,2,   ,0
+2000-02-04,Out of State,Paintsville,97,90,2,   ,0
 2000-02-04,Warren Central,Metcalfe County,102,69,0,   ,0
 2000-02-04,Washington County,Bardstown,69,57,1,   ,0
 2000-02-04,Wayne County,Knox Central,73,54,0,   ,0
@@ -2836,7 +2828,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-05,Boyd County,Greenup County,71,49,1,   ,0
 2000-02-05,Brown,Jackson City,89,64,0,   ,0
 2000-02-05,Calvary Christian,Evangel Christian,58,50,1,   ,0
-2000-02-05,Campbell County. TN,Bell County,82,52,2,   ,0
+2000-02-05,Out of State,Bell County,82,52,2,   ,0
 2000-02-05,Campbellsville,Sayre,84,58,2,  All A Shootout ,0
 2000-02-05,Caverna,Louisville Collegiate,82,78,2,  All A Shootout ,0
 2000-02-05,Christian Academy-Louisville,Kentucky Country Day,79,67,1,   ,0
@@ -2846,16 +2838,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-05,Covington Catholic,Beechwood,84,48,1,   ,0
 2000-02-05,Crittenden County,Fort Campbell,53,52,0,   ,0
 2000-02-05,Dixie Heights,Boone County,60,50,1,   ,0
-2000-02-05,East Carter,Green. OH,74,70,2,  (overtime) ,1
+2000-02-05,East Carter,Out of State,74,70,2,  (overtime) ,1
 2000-02-05,Fairview,Augusta,77,60,1,   ,0
 2000-02-05,George Rogers Clark,Rowan County,74,49,0,   ,0
 2000-02-05,Greenwood,Todd County Central,77,53,0,   ,0
 2000-02-05,Holy Cross (Louisville),Danville,67,57,1,  All A Shootout ,0
 2000-02-05,Johnson Central,Sheldon Clark,75,53,1,   ,0
-2000-02-05,Kentucky School f/t Deaf,School f/t Deaf. OH,88,54,1,   ,0
+2000-02-05,Kentucky School f/t Deaf,Out of State,88,54,1,   ,0
 2000-02-05,Leslie County,Cordia,76,73,1,   ,0
 2000-02-05,Lexington Catholic,West Carter,78,45,2,  Prep Classic ,0
-2000-02-05,Madisonville-North Hopkins,Purcell Marian. OH,71,63,2,  Raider Classic Tournament ,0
+2000-02-05,Madisonville-North Hopkins,Out of State,71,63,2,  Raider Classic Tournament ,0
 2000-02-05,Magoffin County,Morgan County,66,39,1,   ,0
 2000-02-05,Marion County,Washington County,77,56,1,   ,0
 2000-02-05,Marshall County,Fulton County,80,49,1,   ,0
@@ -2873,7 +2865,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-05,Shelby County,Harlan,79,63,2,  Kentucky Prep Classic Tournament ,0
 2000-02-05,Shelby Valley,Feds Creek,85,53,1,   ,0
 2000-02-05,South Floyd,Betsy Layne,80,73,1,   ,0
-2000-02-05,South Spencer. IN,Apollo,46,32,0,   ,0
+2000-02-05,Out of State,Apollo,46,32,0,   ,0
 2000-02-05,St. Francis,Covington Latin,66,40,0,   ,0
 2000-02-05,Tates Creek,Bath County,70,61,1,   ,0
 2000-02-05,Trimble County,Williamstown,78,65,0,   ,0
@@ -2883,8 +2875,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-05,Powell County,Harlan,-,-,0,   ,0
 2000-02-07,Bowling Green,Monroe County,96,54,0,   ,0
 2000-02-07,Calloway County,Fulton County,66,53,1,   ,0
-2000-02-07,Christian County,Clarksville. TN,76,67,2,   ,0
-2000-02-07,Danville,Russian Team,67,49,1,   ,0
+2000-02-07,Christian County,Out of State,76,67,2,   ,0
+2000-02-07,Danville,Out of State,67,49,1,   ,0
 2000-02-07,Estill County,Morgan County,71,60,0,   ,0
 2000-02-07,Hazard,Whitesburg,87,62,1,   ,0
 2000-02-07,Holy Cross (Louisville),Atherton,76,71,1,   ,0
@@ -2894,7 +2886,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-07,Whitefield Academy,Fern Creek,63,47,2,   ,0
 2000-02-07,Cumberland,All Saints,-,-,0,   ,0
 2000-02-08,Allen Central,Prestonsburg,105,63,0,   ,0
-2000-02-08,Ashland Blazer,Portsmouth. OH,63,55,2,   ,0
+2000-02-08,Ashland Blazer,Out of State,63,55,2,   ,0
 2000-02-08,Atherton,Fern Creek,68,56,1,   ,0
 2000-02-08,Ballard,Jeffersontown,101,56,1,   ,0
 2000-02-08,Ballard Memorial,Livingston Central,50,39,0,   ,0
@@ -2925,7 +2917,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-08,East Carter,Greenup County,46,45,1,   ,0
 2000-02-08,Edmonson County,Allen County-Scottsville,57,56,0,   ,0
 2000-02-08,Elliott County,Menifee County,59,52,1,   ,0
-2000-02-08,Evansville Reitz Memorial. IN,Christian County,86,69,0,   ,0
+2000-02-08,Out of State,Christian County,86,69,0,   ,0
 2000-02-08,Fairdale,DeSales,84,60,0,   ,0
 2000-02-08,Fairview,Raceland,51,49,1,   ,0
 2000-02-08,Fleming County,Millersburg Military,70,40,2,   ,0
@@ -2976,16 +2968,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-08,Paintsville,Johnson Central,89,74,1,   ,0
 2000-02-08,Pendleton County,Deming,90,38,1,   ,0
 2000-02-08,Perry County Central,Wolfe County,74,59,1,   ,0
-2000-02-08,Pickett County. TN,Clinton County,87,76,2,   ,0
+2000-02-08,Out of State,Clinton County,87,76,2,   ,0
 2000-02-08,Pikeville,Millard,90,53,1,   ,0
 2000-02-08,Pleasure Ridge Park,Southern,82,47,1,   ,0
 2000-02-08,Powell County,Breathitt County,76,58,0,   ,0
 2000-02-08,Pulaski County,Sayre,80,55,0,   ,0
 2000-02-08,Red Bird,Evarts,70,45,0,   ,0
-2000-02-08,Restoration Christian. IN,Walden,80,35,1,   ,0
+2000-02-08,Out of State,Walden,80,35,1,   ,0
 2000-02-08,Riverside Christian,Jenkins,104,94,0,   ,0
 2000-02-08,Rowan County,Lewis County,66,65,0,   ,0
-2000-02-08,Russell,Russian Team,61,40,1,   ,0
+2000-02-08,Russell,Out of State,61,40,1,   ,0
 2000-02-08,Russellville,Franklin-Simpson,66,37,0,   ,0
 2000-02-08,Scott,Dixie Heights,62,55,0,   ,0
 2000-02-08,Scott County,Bourbon County,94,75,1,   ,0
@@ -3005,7 +2997,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-08,Webster County,Fort Campbell,78,62,0,   ,0
 2000-02-08,West Carter,Bath County,70,65,0,   ,0
 2000-02-08,Whitley County,Knox Central,52,46,0,   ,0
-2000-02-08,Williamson. WV,Belfry,60,48,0,   ,0
+2000-02-08,Out of State,Belfry,60,48,0,   ,0
 2000-02-08,Williamstown,Henry County,62,59,0,   ,0
 2000-02-08,Anderson County,Bardstown,-,-,0,   ,0
 2000-02-08,Muhlenberg South,Daviess County,-,-,0,   ,0
@@ -3018,15 +3010,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-09,Shelby County,Franklin County,88,68,1,   ,0
 2000-02-09,South Floyd,Prestonsburg,92,52,1,   ,0
 2000-02-10,Allen County-Scottsville,Caverna,80,67,1,   ,0
-2000-02-10,Ballard Memorial,Mayfield,77,73,0,  (quadruple overtime) ,0
+2000-02-10,Ballard Memorial,Mayfield,77,73,0,  (quadruple overtime) ,1
 2000-02-10,Beth Haven,Heritage Academy,83,76,2,  KCAC Tournament ,0
 2000-02-10,Breathitt County,Buckhorn,86,51,1,   ,0
-2000-02-10,Cumberland County,Russian Team,70,62,1,   ,0
+2000-02-10,Cumberland County,Out of State,70,62,1,   ,0
 2000-02-10,Eminence,Kentucky Country Day,77,66,1,   ,0
 2000-02-10,Harrodsburg,Boyle County,54,42,0,   ,0
 2000-02-10,Hopkinsville,Crittenden County,59,53,1,   ,0
 2000-02-10,June Buchanan,Piarist School,77,52,0,   ,0
-2000-02-10,Kentucky School f/t Deaf,St. Rita School f/t Deaf,97,50,0,   ,0
+2000-02-10,Kentucky School f/t Deaf,Out of State,97,50,0,   ,0
 2000-02-10,Marion County,Adair County,90,78,0,   ,0
 2000-02-10,Owen County,Walton-Verona,86,72,1,   ,0
 2000-02-10,Portland Christian,Christian Fellowship,79,42,2,  KCAC Tournament ,0
@@ -3069,10 +3061,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-11,Elizabethtown,Fort Knox,73,62,1,   ,0
 2000-02-11,Elliott County,Raceland,54,47,0,   ,0
 2000-02-11,Estill County,Model,79,66,1,   ,0
-2000-02-11,Evansville Harrison. IN,Henderson County,80,77,0,  (overtime) ,1
+2000-02-11,Out of State,Henderson County,80,77,0,  (overtime) ,1
 2000-02-11,Fairview,Jackson City,52,51,0,   ,0
 2000-02-11,Fleming-Neon,Whitesburg,69,65,1,   ,0
-2000-02-11,Fort Campbell,Stewart County. TN,61,59,2,   ,0
+2000-02-11,Fort Campbell,Out of State,61,59,2,   ,0
 2000-02-11,Frankfort,Millersburg Military,97,18,1,   ,0
 2000-02-11,Fulton City,Fulton County,64,60,1,   ,0
 2000-02-11,Garrard County,Boyle County,55,51,1,  (overtime) ,1
@@ -3130,7 +3122,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-11,St. Patrick,Bishop Brossart,69,67,1,   ,0
 2000-02-11,Trimble County,Kentucky Country Day,71,68,0,   ,0
 2000-02-11,Trinity (Louisville),Atherton,69,64,0,   ,0
-2000-02-11,Union County. TN,Bell County,51,39,2,   ,0
+2000-02-11,Out of State,Bell County,51,39,2,   ,0
 2000-02-11,Walton-Verona,Williamstown,102,82,1,   ,0
 2000-02-11,Warren Central,Greenwood,83,80,0,   ,0
 2000-02-11,Washington County,Bullitt Central,65,59,1,   ,0
@@ -3143,7 +3135,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-11,DeSales,Doss,-,-,0,   ,0
 2000-02-11,Green County,LaRue County,-,-,0,   ,0
 2000-02-11,Newport,Newport Central Catholic,-,-,0,   ,0
-2000-02-12,Bellevue,New Richmond. OH,74,71,0,   ,0
+2000-02-12,Bellevue,Out of State,74,71,0,   ,0
 2000-02-12,Boone County,Bishop Brossart,46,39,0,   ,0
 2000-02-12,Bourbon County,West Jessamine,73,67,2,  Kentucky Bank Classic Tournament ,0
 2000-02-12,Breathitt County,Cordia,74,59,1,   ,0
@@ -3153,14 +3145,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-12,Covington Catholic,Mason County,69,64,0,   ,0
 2000-02-12,Crittenden County,Trigg County,70,40,1,   ,0
 2000-02-12,Danville,Berea,76,69,1,   ,0
-2000-02-12,Daviess County,South Spencer. IN,71,59,1,   ,0
-2000-02-12,Evansville Day. IN,Union County,52,51,2,  (overtime) ,1
+2000-02-12,Daviess County,Out of State,71,59,1,   ,0
+2000-02-12,Out of State,Union County,52,51,2,  (overtime) ,1
 2000-02-12,Fairview,Riverside Christian,100,90,0,   ,0
 2000-02-12,Frankfort,Burgin,82,64,0,   ,0
 2000-02-12,George Rogers Clark,Gallatin County,78,39,2,  Sweetheart Classic Tournament ,0
 2000-02-12,Harrison County,University Heights,69,65,1,   ,0
 2000-02-12,Harrodsburg,Sayre,70,56,0,   ,0
-2000-02-12,Jeffersonville. IN,St. Xavier,73,64,2,   ,0
+2000-02-12,Out of State,St. Xavier,73,64,2,   ,0
 2000-02-12,Kentucky Country Day,Louisville Collegiate,76,58,1,   ,0
 2000-02-12,Knott County Central,June Buchanan,77,56,1,   ,0
 2000-02-12,Madison Central,Pulaski County,91,70,2,  S.T. Roach Classic ,0
@@ -3174,29 +3166,29 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-12,Oldham County,Henry County,88,48,1,   ,0
 2000-02-12,Owen County,Trimble County,61,54,0,   ,0
 2000-02-12,Paris,Woodford County,83,73,2,  Kentucky Bank Classic Tournament ,0
-2000-02-12,Paul Laurence Dunbar,South Laurel,88,81,2,  S.T. Roach Classic (double overtime) ,0
+2000-02-12,Paul Laurence Dunbar,South Laurel,88,81,2,  S.T. Roach Classic (double overtime) ,1
 2000-02-12,Pikeville,Phelps,94,55,1,   ,0
 2000-02-12,Powell County,Whitesburg,66,57,1,   ,0
-2000-02-12,Restoration Christian. IN,Cloverport,73,55,2,   ,0
+2000-02-12,Out of State,Cloverport,73,55,2,   ,0
 2000-02-12,Scott County,Eastern,86,68,2,  Kentucky Bank Classic Tournament ,0
 2000-02-12,Silver Grove,Millersburg Military,81,39,2,   ,0
 2000-02-12,Somerset,McCreary Central,73,57,0,   ,0
 2000-02-12,South Floyd,Simon Kenton,60,59,2,  Sweetheart Classic Tournament ,0
 2000-02-12,St. Henry,Holy Cross (Covington),77,57,1,   ,0
-2000-02-12,Trinity (Louisville),,68,43,1,   ,0
+2000-02-12,Trinity (Louisville),Out of State,68,43,1,   ,0
 2000-02-12,Whitefield Academy,Beth Haven,62,52,2,  KCAC Tournament (championship) ,0
-2000-02-12,Whitley County,Jellico. TN,86,50,1,   ,0
+2000-02-12,Whitley County,Out of State,86,50,1,   ,0
 2000-02-12,Williamsburg,Oneida Baptist Institute,79,52,1,   ,0
 2000-02-12,Wolfe County,Bell County,91,89,1,   ,0
 2000-02-12,Fleming-Neon,Cumberland,-,-,0,   ,0
 2000-02-12,Covington Latin,Deming,-,-,0,   ,0
 2000-02-12,Southwestern,Casey County,-,-,2,   ,0
-2000-02-12,Tolsia. WV,Lawrence County,-,-,2,   ,0
+2000-02-12,Out of State,Lawrence County,-,-,2,   ,0
 2000-02-14,Adair County,Cumberland County,82,62,1,   ,0
 2000-02-14,Augusta,Kentucky School f/t Deaf,95,64,1,   ,0
 2000-02-14,Caldwell County,Livingston Central,59,55,1,   ,0
 2000-02-14,Carlisle County,Fulton County,49,43,1,   ,0
-2000-02-14,Mayfield,Pope County. IL,63,56,0,   ,0
+2000-02-14,Mayfield,Out of State,63,56,0,   ,0
 2000-02-14,Oneida Baptist Institute,Piarist School,108,51,1,   ,0
 2000-02-14,Paintsville,Belfry,74,42,1,   ,0
 2000-02-14,Russell County,McCreary Central,70,59,1,   ,0
@@ -3224,7 +3216,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-15,Carroll County,Owen County,65,64,1,   ,0
 2000-02-15,Caverna,Edmonson County,76,75,1,   ,0
 2000-02-15,Christian County,Caldwell County,81,47,0,   ,0
-2000-02-15,Cincinnati Elder. OH,Covington Catholic,54,48,2,   ,0
+2000-02-15,Out of State,Covington Catholic,54,48,2,   ,0
 2000-02-15,Conner,Boone County,77,40,1,   ,0
 2000-02-15,Corbin,Monticello,99,76,1,   ,0
 2000-02-15,Crittenden County,Dawson Springs,72,35,1,   ,0
@@ -3282,7 +3274,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-15,Owensboro,Hancock County,62,42,1,   ,0
 2000-02-15,Owensboro Catholic,Breckinridge County,50,32,0,   ,0
 2000-02-15,Paducah Tilghman,Mayfield,57,33,0,   ,0
-2000-02-15,Paintsville,Tolsia. WV,75,66,2,   ,0
+2000-02-15,Paintsville,Out of State,75,66,2,   ,0
 2000-02-15,Paul Laurence Dunbar,George Rogers Clark,60,54,0,   ,0
 2000-02-15,Pendleton County,Augusta,95,86,0,   ,0
 2000-02-15,Perry County Central,Buckhorn,98,46,1,   ,0
@@ -3315,20 +3307,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-15,St. Henry,Holy Cross (Covington),-,-,0,   ,0
 2000-02-15,Owsley County,Jackson County,-,-,0,   ,0
 2000-02-15,Southwestern,Lincoln County,-,-,2,   ,0
-2000-02-16,Evansville Bosse. IN,Owensboro,66,55,2,   ,0
+2000-02-16,Out of State,Owensboro,66,55,2,   ,0
 2000-02-16,Letcher,Leslie County,72,65,1,   ,0
 2000-02-16,North Bullitt,Brown,68,64,1,   ,0
 2000-02-16,Scott County,Knott County Central,91,78,1,   ,0
-2000-02-16,Portsmouth. OH,Greenup County,-,-,2,   ,0
+2000-02-16,Out of State,Greenup County,-,-,2,   ,0
 2000-02-17,Barbourville,Cumberland,52,46,1,   ,0
 2000-02-17,Burgin,Kentucky School f/t Deaf,85,76,1,   ,0
-2000-02-17,Cannelton. IN,Cloverport,58,45,2,   ,0
+2000-02-17,Out of State,Cloverport,58,45,2,   ,0
 2000-02-17,Carroll County,Henry County,76,64,0,   ,0
 2000-02-17,Deming,Millersburg Military,65,43,2,   ,0
 2000-02-17,Hancock County,Webster County,73,54,1,   ,0
 2000-02-17,Hickman County,Calloway County,52,48,0,   ,0
 2000-02-17,Leslie County,Whitesburg,73,70,0,   ,0
-2000-02-17,Mt. Mission. VA,Elkhorn City,59,52,0,   ,0
+2000-02-17,Out of State,Elkhorn City,59,52,0,   ,0
 2000-02-17,Oneida Baptist Institute,Riverside Christian,104,62,0,   ,0
 2000-02-17,Rose Hill Christian,Piarist School,80,60,1,   ,0
 2000-02-17,Russell County,Taylor County,51,47,0,   ,0
@@ -3337,7 +3329,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-18,Anderson County,Mercer County,65,63,1,   ,0
 2000-02-18,Ashland Blazer,Pikeville,58,54,2,   ,0
 2000-02-18,Atherton,Shawnee,77,68,1,   ,0
-2000-02-18,Ballard,Floyd Central,83,52,2,   ,0
+2000-02-18,Ballard,Out of State,83,52,2,   ,0
 2000-02-18,Ballard Memorial,Carlisle County,73,70,1,   ,0
 2000-02-18,Barren County,Cumberland County,79,57,0,   ,0
 2000-02-18,Bell County,Whitley County,51,48,0,   ,0
@@ -3382,13 +3374,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-18,Highlands,Simon Kenton,58,46,0,   ,0
 2000-02-18,Holmes,Newport,71,33,1,   ,0
 2000-02-18,Holy Cross (Covington),Walton-Verona,75,74,0,   ,0
-2000-02-18,Hopkins County Central,Evansville Day. IN,77,63,1,   ,0
+2000-02-18,Hopkins County Central,Out of State,77,63,1,   ,0
 2000-02-18,Hopkinsville,Logan County,81,66,1,   ,0
 2000-02-18,Jeffersontown,Doss,82,75,0,   ,0
 2000-02-18,Jenkins,All Saints,82,49,1,   ,0
 2000-02-18,Johnson Central,Betsy Layne,84,62,0,   ,0
 2000-02-18,Lafayette,Frankfort,87,67,1,   ,0
-2000-02-18,Lawrence County,Russell,66,60,0,  (double overtime) ,0
+2000-02-18,Lawrence County,Russell,66,60,0,  (double overtime) ,1
 2000-02-18,Lexington Catholic,Model,110,50,0,   ,0
 2000-02-18,Lloyd Memorial,Ryle,60,48,0,   ,0
 2000-02-18,Lynn Camp,Pineville,67,50,1,   ,0
@@ -3399,11 +3391,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-18,Magoffin County,Elkhorn City,78,48,1,   ,0
 2000-02-18,Male,Butler,76,58,1,   ,0
 2000-02-18,Marion County,Hart County,76,72,1,   ,0
-2000-02-18,Massac County. IL,Hickman County,48,35,0,   ,0
+2000-02-18,Out of State,Hickman County,48,35,0,   ,0
 2000-02-18,Mayfield,Calloway County,56,39,1,   ,0
 2000-02-18,McCreary Central,Garrard County,60,54,1,   ,0
 2000-02-18,Menifee County,Augusta,86,75,1,   ,0
-2000-02-18,Montgomery County,East Jessamine,58,52,1,  (double overtime) ,0
+2000-02-18,Montgomery County,East Jessamine,58,52,1,  (double overtime) ,1
 2000-02-18,Moore,Western,90,56,1,   ,0
 2000-02-18,Muhlenberg North,Daviess County,96,89,1,  (overtime) ,1
 2000-02-18,Murray,Fulton County,57,54,0,   ,0
@@ -3417,7 +3409,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-18,Paintsville,Allen Central,61,57,0,   ,0
 2000-02-18,Paul Laurence Dunbar,Perry County Central,72,70,0,  (overtime) ,1
 2000-02-18,Providence,Livingston Central,66,60,0,   ,0
-2000-02-18,Raceland,South Gallia. OH,76,47,1,   ,0
+2000-02-18,Raceland,Out of State,76,47,1,   ,0
 2000-02-18,Red Bird,Leslie County,78,75,1,  (overtime) ,1
 2000-02-18,Riverside Christian,Piarist School,91,77,1,   ,0
 2000-02-18,Rose Hill Christian,Jackson City,49,47,1,   ,0
@@ -3444,7 +3436,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-18,South Oldham,Central Hardin,-,-,0,   ,0
 2000-02-18,Greenup County,Lewis County,-,-,0,   ,0
 2000-02-18,Pulaski County,Lincoln County,-,-,0,   ,0
-2000-02-18,Matewan. WV,Millard,-,-,0,   ,0
+2000-02-18,Out of State,Millard,-,-,0,   ,0
 2000-02-18,Southwestern,Cordia,-,-,2,   ,0
 2000-02-18,Iroquois,Seneca,-,-,0,   ,0
 2000-02-19,Allen Central,Phelps,86,70,1,   ,0
@@ -3459,13 +3451,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-19,Harrodsburg,Monticello,75,65,1,   ,0
 2000-02-19,Highlands,Campbell County,64,40,1,   ,0
 2000-02-19,Hopkins County Central,Logan County,66,51,0,   ,0
-2000-02-19,Kentucky School f/t Deaf,School f/t Deaf. NC,88,51,2,   ,0
+2000-02-19,Kentucky School f/t Deaf,Out of State,88,51,2,   ,0
 2000-02-19,Meade County,Breckinridge County,78,62,1,   ,0
 2000-02-19,Newport Central Catholic,Holy Cross (Covington),65,50,1,   ,0
-2000-02-19,Oak Hill Academy. VA,Ballard,59,49,2,   ,0
+2000-02-19,Out of State,Ballard,59,49,2,   ,0
 2000-02-19,Oneida Baptist Institute,June Buchanan,63,60,0,  (overtime) ,1
 2000-02-19,Paintsville,Hazard,77,59,1,   ,0
-2000-02-19,Patrick Henry. MN,Male,70,69,2,   ,0
+2000-02-19,Out of State,Male,70,69,2,   ,0
 2000-02-19,Perry County Central,Whitesburg,72,57,0,   ,0
 2000-02-19,Pike County Central,Magoffin County,57,55,0,   ,0
 2000-02-19,Scott County,Glasgow,106,76,0,   ,0
@@ -3497,35 +3489,35 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-22,Boyd County,Bath County,92,57,0,   ,0
 2000-02-22,Breathitt County,Menifee County,79,49,1,   ,0
 2000-02-22,Bullitt Central,Fort Knox,62,58,1,   ,0
-2000-02-22,Butler,Corydon Central. IN,58,52,2,   ,0
+2000-02-22,Butler,Out of State,58,52,2,   ,0
 2000-02-22,Calloway County,Fulton City,62,55,1,  (overtime) ,1
 2000-02-22,Campbellsville,Green County,68,56,0,   ,0
 2000-02-22,Carroll County,Henry County,85,59,1,   ,0
 2000-02-22,Central Hardin,Adair County,55,49,1,   ,0
-2000-02-22,Charlestown. IN,South Oldham,64,49,0,   ,0
-2000-02-22,Christian Academy-Louisville,Restoration Christian. IN,91,67,1,   ,0
+2000-02-22,Out of State,South Oldham,64,49,0,   ,0
+2000-02-22,Christian Academy-Louisville,Out of State,91,67,1,   ,0
 2000-02-22,Christian County,Paducah Tilghman,69,67,1,  (overtime) ,1
 2000-02-22,Clinton County,Monticello,86,70,1,   ,0
 2000-02-22,Conner,Highlands,58,51,1,   ,0
 2000-02-22,Cordia,Allen Central,67,65,1,   ,0
 2000-02-22,Danville,Madison Southern,50,47,1,   ,0
 2000-02-22,Daviess County,Cloverport,94,39,2,   ,0
-2000-02-22,DeSales,Crawford County. IN,78,70,1,   ,0
+2000-02-22,DeSales,Out of State,78,70,1,   ,0
 2000-02-22,East Carter,Rose Hill Christian,66,33,1,   ,0
-2000-02-22,East Central. IN,Newport,68,49,0,   ,0
+2000-02-22,Out of State,Newport,68,49,0,   ,0
 2000-02-22,East Jessamine,Casey County,63,59,0,   ,0
 2000-02-22,Edmonson County,Greenwood,83,75,1,   ,0
 2000-02-22,Elizabethtown,Breckinridge County,60,56,0,   ,0
 2000-02-22,Elliott County,Russell,58,43,1,   ,0
 2000-02-22,Estill County,Lee County,65,44,0,   ,0
 2000-02-22,Evangel Christian,Walden,92,35,1,   ,0
-2000-02-22,Evansville Day. IN,Trinity,78,46,2,   ,0
+2000-02-22,Out of State,Trinity (Whitesville),78,46,2,   ,0
 2000-02-22,Fairdale,DuPont Manual,78,75,1,   ,0
 2000-02-22,Frankfort,Anderson County,70,66,1,   ,0
 2000-02-22,Franklin County,Paul Laurence Dunbar,55,38,1,   ,0
 2000-02-22,Garrard County,Lexington Christian,61,49,1,   ,0
 2000-02-22,Glasgow,Cumberland County,83,58,1,   ,0
-2000-02-22,Graceland. IN,Portland Christian,62,45,2,   ,0
+2000-02-22,Out of State,Portland Christian,62,45,2,   ,0
 2000-02-22,Graves County,Reidland,65,32,0,   ,0
 2000-02-22,Harrison County,Deming,81,59,0,   ,0
 2000-02-22,Harrodsburg,Pulaski County,64,50,0,   ,0
@@ -3562,7 +3554,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-22,Moore,Valley,80,65,1,   ,0
 2000-02-22,Muhlenberg North,Ohio County,64,54,1,   ,0
 2000-02-22,Muhlenberg South,Hancock County,48,45,1,   ,0
-2000-02-22,Nelson County,Jeffersontown,82,75,0,  (triple overtime) ,0
+2000-02-22,Nelson County,Jeffersontown,82,75,0,  (triple overtime) ,1
 2000-02-22,Newport Central Catholic,Campbell County,72,65,0,   ,0
 2000-02-22,Nicholas County,Pendleton County,63,50,0,   ,0
 2000-02-22,North Bullitt,Beth Haven,70,52,1,   ,0
@@ -3570,7 +3562,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-22,Oneida Baptist Institute,Riverside Christian,101,60,1,   ,0
 2000-02-22,Owen County,Williamstown,49,34,1,   ,0
 2000-02-22,Owensboro Catholic,McLean County,45,26,1,   ,0
-2000-02-22,Paintsville,Tug Valley. WV,79,64,1,   ,0
+2000-02-22,Paintsville,Out of State,79,64,1,   ,0
 2000-02-22,Perry County Central,Owsley County,58,47,1,   ,0
 2000-02-22,Pikeville,Pike County Central,63,57,1,   ,0
 2000-02-22,Pineville,Cumberland,44,34,1,   ,0
@@ -3592,7 +3584,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-22,Walton-Verona,Dayton,76,57,0,   ,0
 2000-02-22,Warren Central,Allen County-Scottsville,89,64,1,   ,0
 2000-02-22,Washington County,Spencer County,75,54,0,   ,0
-2000-02-22,Webster County,Caldwell County,72,70,0,  overtime ,0
+2000-02-22,Webster County,Caldwell County,72,70,0,  overtime ,1
 2000-02-22,Western Hills,Berea,48,43,1,   ,0
 2000-02-22,Williamsburg,All Saints,94,37,1,   ,0
 2000-02-22,Jackson City,Buckhorn,-,-,0,   ,0
@@ -3618,7 +3610,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-24,Mercer County,Southwestern,66,57,1,   ,0
 2000-02-24,Nicholas County,Millersburg Military,84,29,1,   ,0
 2000-02-24,Oldham County,Central Hardin,66,61,0,  (overtime) ,1
-2000-02-24,Paintsville,Williamson,69,62,2,   ,0
+2000-02-24,Paintsville,Out of State,69,62,2,   ,0
 2000-02-24,Red Bird,June Buchanan,61,53,1,   ,0
 2000-02-24,Russellville,Fort Campbell,87,53,1,   ,0
 2000-02-24,Tates Creek,Woodford County,70,61,0,   ,0
@@ -3657,7 +3649,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-25,Harrison County,Bracken County,70,51,0,   ,0
 2000-02-25,Harrodsburg,Madison Southern,60,48,0,   ,0
 2000-02-25,Hart County,Adair County,81,67,0,   ,0
-2000-02-25,Hazard,Powell County,81,75,1,  (double overtime) ,0
+2000-02-25,Hazard,Powell County,81,75,1,  (double overtime) ,1
 2000-02-25,Henderson County,Owensboro,66,59,0,   ,0
 2000-02-25,Henry Clay,West Jessamine,85,74,0,   ,0
 2000-02-25,Highlands,Lloyd Memorial,61,50,0,   ,0
@@ -3705,7 +3697,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-25,South Laurel,Casey County,92,69,1,  (Richey Riley scores 1000th career point) ,0
 2000-02-25,South Oldham,DeSales,58,38,1,   ,0
 2000-02-25,St. Xavier,Shelby County,95,65,1,   ,0
-2000-02-25,Teays Valley. WV,Rose Hill Christian,69,45,2,   ,0
+2000-02-25,Out of State,Rose Hill Christian,69,45,2,   ,0
 2000-02-25,University Heights,Union County,49,33,0,   ,0
 2000-02-25,Valley,Seneca,76,67,0,   ,0
 2000-02-25,Warren Central,Muhlenberg South,95,85,0,   ,0
@@ -3717,10 +3709,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-25,Wolfe County,Buckhorn,81,64,0,   ,0
 2000-02-25,Covington Latin,Bellevue,-,-,0,   ,0
 2000-02-25,Dawson Springs,Christian Fellowship,-,-,0,   ,0
-2000-02-25,Cumberland Christian,Jenkins,-,-,0,   ,0
+2000-02-25,Out of State,Jenkins,-,-,0,   ,0
 2000-02-25,Montgomery County,Menifee County,-,-,0,   ,0
 2000-02-25,Ashland Blazer,Russell,-,-,0,   ,0
-2000-02-26,,Eastern,65,55,2,   ,0
+2000-02-26,Out of State,Eastern,65,55,2,   ,0
 2000-02-26,Bryan Station,McCreary Central,74,60,1,   ,0
 2000-02-26,Magoffin County,Betsy Layne,76,75,1,  (overtime) ,1
 2000-02-26,Sheldon Clark,Elkhorn City,71,57,0,   ,0
@@ -3775,7 +3767,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-02-29,Christian County,University Heights,66,52,2,  8th District 8th District Tournament ,0
 2000-02-29,Owensboro,Apollo,65,43,2,  9th District 9th District Tournament ,0
 2000-02-29,Muhlenberg North,Butler County,78,40,2,  10th District 10th District Tournament ,0
-2000-02-29,Breckinridge County,Trinity,51,26,2,  11th District 11th District Tournament ,0
+2000-02-29,Breckinridge County,Trinity (Whitesville),51,26,2,  11th District 11th District Tournament ,0
 2000-02-29,Hancock County,Cloverport,72,52,2,  11th District 11th District Tournament ,0
 2000-02-29,Franklin-Simpson,Todd County Central,73,58,2,  13th District 13th District Tournament ,0
 2000-02-29,Bowling Green,Warren East,41,36,2,  14th District 14th District Tournament ,0
@@ -3856,7 +3848,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-03-01,Berea,Model,69,65,2,  44th District 44th District Tournament ,0
 2000-03-01,Lincoln County,Boyle County,69,51,1,  45th District 45th District Tournament ,0
 2000-03-01,Somerset,South Laurel,59,56,2,  48th District 48th District Tournament ,0
-2000-03-01,Southwestern,North Laurel,68,64,0,  48th District 48th District Tournament(double overtime) ,0
+2000-03-01,Southwestern,North Laurel,68,64,0,  48th District 48th District Tournament(double overtime) ,1
 2000-03-01,Rockcastle County,Jackson County,100,87,2,  49th District 49th District Tournament ,0
 2000-03-01,Corbin,Lynn Camp,96,62,1,  50th District 50th District Tournament ,0
 2000-03-01,Fleming-Neon,Whitesburg,58,56,2,  53rd District 53rd District Tournament ,0
@@ -3947,7 +3939,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-03-06,Owensboro Catholic,McLean County,53,36,2,  3rd Region 3rd Region Tournament ,0
 2000-03-06,Glasgow,Franklin-Simpson,54,50,2,  4th Region 4th Region Tournament ,0
 2000-03-06,Warren Central,Clinton County,81,76,2,  4th Region 4th Region Tournament  ,0
-2000-03-06,Hart County,Meade County,67,65,2,  5th Region 5th Region Tournament(double overtime) ,0
+2000-03-06,Hart County,Meade County,67,65,2,  5th Region 5th Region Tournament(double overtime) ,1
 2000-03-06,Marion County,Washington County,76,62,2,  5th Region 5th Region Tournament ,0
 2000-03-06,Carroll County,Walton-Verona,59,52,2,  8th Region 8th Region Tournament ,0
 2000-03-06,Shelby County,Bullitt Central,108,77,2,  8th Region 8th Region Tournament ,0
@@ -4027,7 +4019,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2000-03-10,Madison Central,West Jessamine,77,63,2,  11th Region 11th Region Tournament ,0
 2000-03-10,Harrodsburg,Southwestern,50,47,2,  12th Region 12th Region Tournament  ,0
 2000-03-10,Mercer County,Wayne County,68,55,0,  12th Region 12th Region Tournament ,0
-2000-03-10,Bell County,Clay County,76,74,1,  13th Region 13th Region Tournament(double overtime) ,0
+2000-03-10,Bell County,Clay County,76,74,1,  13th Region 13th Region Tournament(double overtime) ,1
 2000-03-10,Corbin,Harlan,67,47,2,  13th Region 13th Region Tournament ,0
 2000-03-10,Knott County Central,Owsley County,61,58,2,  14th Region 14th Region Tournament ,0
 2000-03-10,Perry County Central,Wolfe County,70,55,2,  14th Region 14th Region Tournament ,0

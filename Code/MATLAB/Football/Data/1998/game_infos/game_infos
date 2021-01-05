@@ -5,7 +5,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-21,Eminence,Carroll County,14,6,0,   ,0
 1998-08-21,Fern Creek,North Hardin,29,18,0,   ,0
 1998-08-21,Garrard County,Newport Central Catholic,24,14,2,   ,0
-1998-08-21,Harlan,Union County. TN,19,7,1,   ,0
+1998-08-21,Harlan,Out of State,19,7,1,   ,0
 1998-08-21,Holy Cross (Louisville),Bellevue,14,7,0,   ,0
 1998-08-21,Hopkins County Central,Webster County,33,0,1,   ,0
 1998-08-21,Johnson Central,Cumberland,42,0,1,   ,0
@@ -23,8 +23,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-21,Russell County,Holy Cross (Covington),56,6,1,   ,0
 1998-08-21,Shelby Valley,Magoffin County,20,0,2,   ,0
 1998-08-21,St. Xavier,Shelby County,42,7,2,   ,0
-1998-08-21,Wayne County,Thomas Walker. VA,29,0,1,   ,0
-1998-08-22,Apollo,Evansville FJ Reitz. IN,22,8,2,   ,0
+1998-08-21,Wayne County,Out of State,29,0,1,   ,0
+1998-08-22,Apollo,Out of State,22,8,2,   ,0
 1998-08-22,Bell County,Paul Laurence Dunbar,7,3,2,   ,0
 1998-08-22,Beth Haven,Christian Academy-Louisville,32,0,2,   ,0
 1998-08-22,Bethlehem,Morgan County,31,6,1,   ,0
@@ -33,10 +33,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-22,Corbin,Montgomery County,55,6,2,   ,0
 1998-08-22,Danville,Southwestern,75,6,2,   ,0
 1998-08-22,East Jessamine,Clay County,22,14,2,   ,0
-1998-08-22,Evansville Mater Dei. IN,Union County,19,18,2,  Overtime ,0
+1998-08-22,Out of State,Union County,19,18,2,  Overtime ,1
 1998-08-22,Fleming-Neon,Pineville,42,28,2,   ,0
 1998-08-22,Grant County,McCreary Central,40,28,2,   ,0
-1998-08-22,Grundy. VA,Knott County Central,46,16,2,   ,0
+1998-08-22,Out of State,Knott County Central,46,16,2,   ,0
 1998-08-22,Lexington Catholic,Rockcastle County,34,3,2,   ,0
 1998-08-22,Tates Creek,Oldham County,28,7,2,   ,0
 1998-08-22,Warren Central,Harrison County,27,7,2,   ,0
@@ -47,11 +47,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-28,Allen County-Scottsville,Butler County,21,6,1,   ,0
 1998-08-28,Ballard,Dixie Heights,21,14,1,   ,0
 1998-08-28,Bardstown,Marion County,10,0,0,   ,0
-1998-08-28,Barren County,Glasgow,23,22,0,  Overtime ,0
+1998-08-28,Barren County,Glasgow,23,22,0,  Overtime ,1
 1998-08-28,Bell County,Leslie County,46,0,1,   ,0
 1998-08-28,Bellevue,Dayton,21,13,0,   ,0
 1998-08-28,Breckinridge County,Ohio County,14,7,1,   ,0
-1998-08-28,Brentwood. TN,Paducah Tilghman,48,13,1,   ,0
+1998-08-28,Out of State,Paducah Tilghman,48,13,1,   ,0
 1998-08-28,Bryan Station,Paul Laurence Dunbar,47,14,1,   ,0
 1998-08-28,Bullitt East,Bullitt Central,35,21,0,   ,0
 1998-08-28,Caldwell County,Russellville,20,13,1,   ,0
@@ -71,7 +71,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-28,East Jessamine,Hazard,12,6,2,   ,0
 1998-08-28,Eastern,Butler,14,6,1,   ,0
 1998-08-28,Edmonson County,Metcalfe County,42,0,0,   ,0
-1998-08-28,Evansville Bosse. IN,Daviess County,31,14,2,   ,0
+1998-08-28,Out of State,Daviess County,31,14,2,   ,0
 1998-08-28,Fleming County,Nicholas County,28,8,1,   ,0
 1998-08-28,Fleming-Neon,Holy Cross (Covington),60,0,1,   ,0
 1998-08-28,Fort Knox,Fort Campbell,21,0,0,   ,0
@@ -79,16 +79,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-28,Franklin County,West Jessamine,14,7,1,   ,0
 1998-08-28,Franklin-Simpson,Meade County,35,7,1,   ,0
 1998-08-28,Fulton County,Murray,26,14,0,  District Game ,0
-1998-08-28,Greenfield. TN,Fulton City,33,6,1,   ,0
+1998-08-28,Out of State,Fulton City,33,6,1,   ,0
 1998-08-28,Greenup County,Russell,28,27,1,   ,0
 1998-08-28,Hancock County,Webster County,35,0,0,   ,0
 1998-08-28,Hart County,Green County,15,13,0,   ,0
-1998-08-28,Henderson County,Evansville North. IN,29,12,0,   ,0
+1998-08-28,Henderson County,Out of State,29,12,0,   ,0
 1998-08-28,Iroquois,Western,27,6,1,   ,0
 1998-08-28,Johnson Central,Raceland,19,8,0,   ,0
 1998-08-28,Knox Central,Williamsburg,20,16,1,   ,0
 1998-08-28,LaRue County,Monroe County,30,12,1,   ,0
-1998-08-28,Lawrenceburg. IN,Conner,32,13,1,   ,0
+1998-08-28,Out of State,Conner,32,13,1,   ,0
 1998-08-28,Lincoln County,Garrard County,20,7,0,   ,0
 1998-08-28,Lloyd Memorial,Scott,14,12,0,   ,0
 1998-08-28,Logan County,Greenwood,41,28,0,   ,0
@@ -108,16 +108,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-28,Paintsville,South Floyd,38,22,0,   ,0
 1998-08-28,Paris,Eminence,20,12,0,   ,0
 1998-08-28,Perry County Central,Evarts,57,6,1,   ,0
-1998-08-28,Phelps,Williamson. WV,18,14,1,   ,0
+1998-08-28,Phelps,Out of State,18,14,1,   ,0
 1998-08-28,Pike County Central,Lewis County,26,6,0,   ,0
 1998-08-28,Pleasure Ridge Park,Fairdale,14,0,1,   ,0
 1998-08-28,Powell County,Berea,24,0,1,   ,0
 1998-08-28,Rowan County,Mason County,34,29,1,   ,0
 1998-08-28,Seneca,Valley,15,12,1,   ,0
 1998-08-28,Shelby County,Doss,17,7,0,   ,0
-1998-08-28,Sheldon Clark,Gilbert. WV,36,12,1,   ,0
+1998-08-28,Sheldon Clark,Out of State,36,12,1,   ,0
 1998-08-28,Somerset,Pulaski County,9,6,0,   ,0
-1998-08-28,South Fulton. TN,Ballard Memorial,26,14,1,   ,0
+1998-08-28,Out of State,Ballard Memorial,26,14,1,   ,0
 1998-08-28,South Laurel,Rockcastle County,14,13,1,   ,0
 1998-08-28,South Oldham,Jeffersontown,34,0,0,   ,0
 1998-08-28,Southern,Atherton,34,20,0,   ,0
@@ -126,7 +126,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-28,Waggener,Henry County,26,7,0,   ,0
 1998-08-28,Warren East,Todd County Central,12,6,1,   ,0
 1998-08-28,West Carter,Bath County,30,6,0,   ,0
-1998-08-28,Whitewood. VA,Jenkins,12,0,0,   ,0
+1998-08-28,Out of State,Jenkins,12,0,0,   ,0
 1998-08-28,Whitley County,Ludlow,28,18,2,   ,0
 1998-08-28,Woodford County,Simon Kenton,14,7,1,   ,0
 1998-08-29,Beechwood,Boyle County,42,14,2,   ,0
@@ -135,10 +135,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-08-29,Bourbon County,North Bullitt,55,6,2,   ,0
 1998-08-29,Breathitt County,Pikeville,33,0,2,   ,0
 1998-08-29,Campbell County,Belfry,7,6,2,   ,0
-1998-08-29,DeSales,Holy Cross,26,6,2,   ,0
+1998-08-29,DeSales,Holy Cross (Louisville),26,6,2,   ,0
 1998-08-29,Highlands,Male,51,41,2,   ,0
-1998-08-29,Kentucky School f/t Deaf,School f/t Deaf. NC,45,0,0,   ,0
-1998-08-29,Lawrence County,Holmes,34,32,2,  Overtime ,0
+1998-08-29,Kentucky School f/t Deaf,Out of State,45,0,0,   ,0
+1998-08-29,Lawrence County,Holmes,34,32,2,  Overtime ,1
 1998-08-29,Lexington Catholic,Prestonsburg,34,14,2,   ,0
 1998-08-29,Ryle,Hopkinsville,35,0,2,   ,0
 1998-08-29,Scott County,Anderson County,49,7,1,   ,0
@@ -197,15 +197,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-04,Lawrence County,George Rogers Clark,56,7,0,   ,0
 1998-09-04,Logan County,Allen County-Scottsville,38,7,1,   ,0
 1998-09-04,Lone Oak,Heath,24,12,1,   ,0
-1998-09-04,Ludlow,Madiera. OH,13,7,0,   ,0
+1998-09-04,Ludlow,Out of State,13,7,0,   ,0
 1998-09-04,Madison Southern,Estill County,20,13,0,   ,0
 1998-09-04,Male,Seneca,42,0,0,  District Game ,0
 1998-09-04,Marshall County,Caldwell County,35,7,1,   ,0
 1998-09-04,Mason County,Nicholas County,33,6,1,   ,0
 1998-09-04,Mayfield,Hopkinsville,20,14,1,   ,0
 1998-09-04,Mercer County,West Jessamine,14,0,0,   ,0
-1998-09-04,Miami Belen Jesuit. FL,Grant County,28,0,1,   ,0
-1998-09-04,Monroe County,Elizabethtown,34,28,1,  Overtime ,0
+1998-09-04,Out of State,Grant County,28,0,1,   ,0
+1998-09-04,Monroe County,Elizabethtown,34,28,1,  Overtime ,1
 1998-09-04,Montgomery County,Rowan County,34,8,1,   ,0
 1998-09-04,Muhlenberg South,McLean County,41,0,0,   ,0
 1998-09-04,Murray,Calloway County,28,14,2,   ,0
@@ -221,7 +221,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-04,Perry County Central,Leslie County,34,6,0,   ,0
 1998-09-04,Pikeville,Elkhorn City,62,6,0,  District Game ,0
 1998-09-04,Pleasure Ridge Park,Holy Cross (Louisville),40,8,0,   ,0
-1998-09-04,Portsmouth East. OH,Lewis County,28,6,0,   ,0
+1998-09-04,Out of State,Lewis County,28,6,0,   ,0
 1998-09-04,Powell County,Casey County,55,6,1,   ,0
 1998-09-04,Prestonsburg,Sheldon Clark,34,13,0,   ,0
 1998-09-04,Pulaski County,Clay County,20,7,1,   ,0
@@ -252,14 +252,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-11,Adair County,Butler County,26,16,1,   ,0
 1998-09-11,Allen County-Scottsville,Warren East,14,7,1,   ,0
 1998-09-11,Apollo,Christian County,28,13,1,  District Game ,0
-1998-09-11,Archbishop Moeller. OH,Covington Catholic,52,13,2,   ,0
+1998-09-11,Out of State,Covington Catholic,52,13,2,   ,0
 1998-09-11,Ashland Blazer,Johnson Central,26,20,2,   ,0
 1998-09-11,Ballard,Shelby County,41,17,1,   ,0
 1998-09-11,Ballard Memorial,Heath,35,0,1,   ,0
 1998-09-11,Bath County,Lewis County,46,0,1,   ,0
 1998-09-11,Beechwood,Ryle,27,22,2,   ,0
 1998-09-11,Bell County,Corbin,26,13,0,   ,0
-1998-09-11,Bellevue,Dayton Jefferson. OH,56,12,0,   ,0
+1998-09-11,Bellevue,Out of State,56,12,0,   ,0
 1998-09-11,Beth Haven,Berea,18,7,0,   ,0
 1998-09-11,Betsy Layne,Morgan County,22,8,1,   ,0
 1998-09-11,Bourbon County,Paris,62,13,1,   ,0
@@ -274,7 +274,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-11,Carroll County,Trimble County,28,12,0,   ,0
 1998-09-11,Cawood,Evarts,63,8,1,   ,0
 1998-09-11,Central,DuPont Manual,25,7,0,   ,0
-1998-09-11,Cincinnati Elder. OH,Boone County,49,14,0,   ,0
+1998-09-11,Out of State,Boone County,49,14,0,   ,0
 1998-09-11,Conner,Scott,14,3,1,  District Game ,0
 1998-09-11,Crittenden County,Webster County,19,7,0,   ,0
 1998-09-11,Danville,Lincoln County,36,6,0,   ,0
@@ -284,11 +284,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-11,Elkhorn City,Jenkins,22,11,1,  District Game ,0
 1998-09-11,Fern Creek,Doss,55,7,0,   ,0
 1998-09-11,Fleming-Neon,West Carter,24,21,1,   ,0
-1998-09-11,Franklin Road Academy. TN,Trigg County,41,8,1,   ,0
+1998-09-11,Out of State,Trigg County,41,8,1,   ,0
 1998-09-11,Garrard County,Russell County,14,12,1,   ,0
 1998-09-11,Glasgow,Elizabethtown,36,14,1,   ,0
 1998-09-11,Grayson County,Hart County,25,0,0,   ,0
-1998-09-11,Hancock County,Perry Central. IN,52,6,0,   ,0
+1998-09-11,Hancock County,Out of State,52,6,0,   ,0
 1998-09-11,Harlan,Leslie County,28,22,1,   ,0
 1998-09-11,Harrison County,Mason County,21,20,0,   ,0
 1998-09-11,Harrodsburg,Mercer County,43,23,0,   ,0
@@ -298,7 +298,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-11,Highlands,Holmes,64,0,0,  District Game ,0
 1998-09-11,Holy Cross (Louisville),Western,41,8,1,   ,0
 1998-09-11,Hopkinsville,Calloway County,33,2,1,  District Game ,0
-1998-09-11,Jellico. TN,Williamsburg,57,14,2,   ,0
+1998-09-11,Out of State,Williamsburg,57,14,2,   ,0
 1998-09-11,LaRue County,Meade County,19,7,0,   ,0
 1998-09-11,Lawrence County,Raceland,44,6,0,   ,0
 1998-09-11,Lexington Catholic,Central Hardin,42,26,0,   ,0
@@ -321,14 +321,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-11,Newport,East Carter,42,20,0,  District Game ,0
 1998-09-11,North Hardin,Fort Knox,34,7,1,   ,0
 1998-09-11,Oldham County,Bullitt East,23,20,0,   ,0
-1998-09-11,Oneida. TN,McCreary Central,44,0,1,   ,0
+1998-09-11,Out of State,McCreary Central,44,0,1,   ,0
 1998-09-11,Owen County,Grant County,18,14,0,   ,0
 1998-09-11,Paintsville,Shelby Valley,31,6,0,   ,0
 1998-09-11,Paul Laurence Dunbar,Clay County,28,0,2,  District Game ,0
 1998-09-11,Pike County Central,Wayne County,14,7,1,   ,0
 1998-09-11,Pikeville,Hazard,27,12,1,  District Game ,0
-1998-09-11,Pineville,Thomas Walker. VA,14,6,0,   ,0
-1998-09-11,Portland. TN,Franklin-Simpson,50,7,0,   ,0
+1998-09-11,Pineville,Out of State,14,6,0,   ,0
+1998-09-11,Out of State,Franklin-Simpson,50,7,0,   ,0
 1998-09-11,Prestonsburg,Whitesburg,45,12,1,  District Game ,0
 1998-09-11,Pulaski County,East Jessamine,59,8,1,   ,0
 1998-09-11,Rockcastle County,Madison Southern,35,14,0,   ,0
@@ -340,25 +340,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-11,Sheldon Clark,Magoffin County,39,6,1,   ,0
 1998-09-11,Simon Kenton,Dayton,18,15,0,   ,0
 1998-09-11,Somerset,Southwestern,16,13,1,   ,0
-1998-09-11,South Fulton. TN,Fulton City,28,0,0,   ,0
+1998-09-11,Out of State,Fulton City,28,0,0,   ,0
 1998-09-11,South Laurel,North Laurel,19,14,1,   ,0
 1998-09-11,South Oldham,Shawnee,35,0,1,  District Game ,0
 1998-09-11,Southern,Jeffersontown,21,3,1,   ,0
 1998-09-11,St. Xavier,Eastern,48,14,0,   ,0
 1998-09-11,Tates Creek,Perry County Central,64,7,1,  District Game ,0
 1998-09-11,Taylor County,Green County,28,8,1,   ,0
-1998-09-11,Tolsia. WV,Allen Central,49,20,1,   ,0
-1998-09-11,Union City. TN,Fulton County,49,0,1,   ,0
-1998-09-11,Union County,Harrisburg. IL,21,0,1,   ,0
+1998-09-11,Out of State,Allen Central,49,20,1,   ,0
+1998-09-11,Out of State,Fulton County,49,0,1,   ,0
+1998-09-11,Union County,Out of State,21,0,1,   ,0
 1998-09-11,Valley,North Bullitt,34,12,0,  District Game ,0
 1998-09-11,Waggener,Moore,61,0,1,  District Game ,0
 1998-09-11,West Jessamine,Estill County,44,27,1,   ,0
 1998-09-11,Western Hills,Frankfort,39,2,1,   ,0
 1998-09-11,Whitley County,Knott County Central,44,9,0,   ,0
 1998-09-12,Bethlehem,Kentucky Country Day,35,14,1,   ,0
-1998-09-12,Kentucky School f/t Deaf,School f/t Deaf. MS,35,24,1,   ,0
-1998-09-12,Landmark Christian. OH,Christian Academy-Louisville,29,21,0,   ,0
-1998-09-12,Wheelersburg. OH,Greenup County,35,12,0,   ,0
+1998-09-12,Kentucky School f/t Deaf,Out of State,35,24,1,   ,0
+1998-09-12,Out of State,Christian Academy-Louisville,29,21,0,   ,0
+1998-09-12,Out of State,Greenup County,35,12,0,   ,0
 1998-09-17,Allen Central,Kentucky School f/t Deaf,36,6,1,   ,0
 1998-09-18,Adair County,Green County,16,6,1,   ,0
 1998-09-18,Allen County-Scottsville,Metcalfe County,49,7,0,   ,0
@@ -368,7 +368,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-18,Barren County,Monroe County,27,2,1,   ,0
 1998-09-18,Belfry,Johnson Central,21,11,1,  District Game ,0
 1998-09-18,Bell County,Knox Central,61,6,0,  District Game ,0
-1998-09-18,Bethel Tate. OH,Bellevue,6,2,0,   ,0
+1998-09-18,Out of State,Bellevue,6,2,0,   ,0
 1998-09-18,Boone County,Conner,10,6,1,   ,0
 1998-09-18,Bowling Green,Logan County,35,0,0,  District Game ,0
 1998-09-18,Boyle County,Whitesburg,52,0,0,   ,0
@@ -379,7 +379,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-18,Calloway County,Lone Oak,13,7,1,  District Game ,0
 1998-09-18,Campbellsville,Russell County,24,0,1,   ,0
 1998-09-18,Crittenden County,Ballard Memorial,27,7,1,   ,0
-1998-09-18,Danville,Garrard County,17,14,1,  District Game- Overtime ,0
+1998-09-18,Danville,Garrard County,17,14,1,  District Game- Overtime ,1
 1998-09-18,Dixie Heights,Holmes,23,19,0,  District Game ,0
 1998-09-18,Doss,Iroquois,24,12,0,  District Game- (completion of suspended game) ,0
 1998-09-18,DuPont Manual,Seneca,7,0,1,  District Game ,0
@@ -388,16 +388,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-18,Edmonson County,McLean County,48,0,1,   ,0
 1998-09-18,Elizabethtown,Henry County,21,12,1,  District Game ,0
 1998-09-18,Eminence,Frankfort,64,3,1,   ,0
-1998-09-18,Fulton County,Caffee. MO,34,6,1,   ,0
+1998-09-18,Fulton County,Out of State,34,6,1,   ,0
 1998-09-18,Glasgow,Bardstown,29,14,0,   ,0
 1998-09-18,Graves County,Daviess County,28,20,1,  District Game ,0
 1998-09-18,Grayson County,Caverna,21,6,1,   ,0
 1998-09-18,Greenup County,Scott,21,0,1,   ,0
 1998-09-18,Greenwood,Warren East,40,20,0,   ,0
 1998-09-18,Hancock County,Muhlenberg North,27,0,1,   ,0
-1998-09-18,Harlan,Williamsburg,13,6,0,  District Game - Overtime ,0
+1998-09-18,Harlan,Williamsburg,13,6,0,  District Game - Overtime ,1
 1998-09-18,Harrodsburg,McCreary Central,40,26,1,   ,0
-1998-09-18,Hays. VA,Elkhorn City,58,18,2,   ,0
+1998-09-18,Out of State,Elkhorn City,58,18,2,   ,0
 1998-09-18,Heath,Fulton City,13,0,1,   ,0
 1998-09-18,Henderson County,Christian County,34,22,0,  District Game ,0
 1998-09-18,Henry Clay,Paul Laurence Dunbar,34,33,1,   ,0
@@ -406,7 +406,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-18,Kentucky Country Day,Berea,24,14,1,   ,0
 1998-09-18,LaRue County,Hart County,72,0,0,  District Game ,0
 1998-09-18,Lafayette,Bryan Station,24,20,0,   ,0
-1998-09-18,Lawrence County,Tolsia. WV,50,20,1,   ,0
+1998-09-18,Lawrence County,Out of State,50,20,1,   ,0
 1998-09-18,Lewis County,Betsy Layne,35,14,1,   ,0
 1998-09-18,Lexington Catholic,Bourbon County,16,0,1,  District Game ,0
 1998-09-18,Lincoln County,Harrison County,18,6,1,  District Game ,0
@@ -459,12 +459,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-18,Western,Moore,62,33,1,   ,0
 1998-09-18,Whitley County,South Laurel,38,6,0,  District Game ,0
 1998-09-18,Woodford County,Grant County,26,20,0,  District Game ,0
-1998-09-19,Beechwood,Covington Catholic,24,21,0,  Overtime ,0
-1998-09-19,Bethlehem,Beth Haven,49,48,1,  Double Overtime ,0
+1998-09-19,Beechwood,Covington Catholic,24,21,0,  Overtime ,1
+1998-09-19,Bethlehem,Beth Haven,49,48,1,  Double Overtime ,1
 1998-09-19,DeSales,Fairdale,25,6,1,  District Game ,0
 1998-09-19,Holy Cross (Covington),Christian Academy-Louisville,26,13,0,   ,0
-1998-09-19,Mayfield,Belleville Althoff. IL,24,0,0,   ,0
-1998-09-24,Ballard,Male,40,33,0,  Overtime ,0
+1998-09-19,Mayfield,Out of State,24,0,0,   ,0
+1998-09-24,Ballard,Male,40,33,0,  Overtime ,1
 1998-09-24,Fern Creek,Eastern,40,13,1,   ,0
 1998-09-25,Allen County-Scottsville,Adair County,28,14,0,  District Game ,0
 1998-09-25,Atherton,Moore,59,27,0,  District Game ,0
@@ -488,9 +488,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-25,Corbin,George Rogers Clark,56,14,0,   ,0
 1998-09-25,Covington Catholic,Conner,14,7,0,  District Game ,0
 1998-09-25,Cumberland,Pineville,28,8,1,  District Game ,0
-1998-09-25,Danville,Western Hills,35,34,0,  District Game-Overtime ,0
+1998-09-25,Danville,Western Hills,35,34,0,  District Game-Overtime ,1
 1998-09-25,Daviess County,Apollo,33,30,0,  District Game ,0
-1998-09-25,Dawson Bryant (Coal Grove). OH,Bellevue,45,14,2,   ,0
+1998-09-25,Out of State,Bellevue,45,14,2,   ,0
 1998-09-25,DuPont Manual,Jeffersontown,14,0,0,   ,0
 1998-09-25,East Carter,Lloyd Memorial,22,20,1,  District Game ,0
 1998-09-25,Edmonson County,Muhlenberg South,29,19,1,  District Game ,0
@@ -515,8 +515,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-25,Holy Cross (Louisville),Bullitt Central,35,21,1,   ,0
 1998-09-25,Hopkins County Central,Lone Oak,27,17,1,  District Game ,0
 1998-09-25,Hopkinsville,Fort Campbell,28,6,1,   ,0
-1998-09-25,Ironton. OH,Ashland Blazer,39,6,1,   ,0
-1998-09-25,Jackson. MO,Graves County,37,21,1,   ,0
+1998-09-25,Out of State,Ashland Blazer,39,6,1,   ,0
+1998-09-25,Out of State,Graves County,37,21,1,   ,0
 1998-09-25,Kentucky Country Day,Caverna,13,12,0,   ,0
 1998-09-25,Knott County Central,Powell County,25,6,0,  District Game ,0
 1998-09-25,LaRue County,Henry County,34,12,1,  District Game ,0
@@ -544,7 +544,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-25,Phelps,Pike County Central,39,12,0,   ,0
 1998-09-25,Pikeville,Belfry,35,19,1,   ,0
 1998-09-25,Pleasure Ridge Park,Doss,31,7,0,   ,0
-1998-09-25,Portsmouth East. OH,Fairview,29,24,1,   ,0
+1998-09-25,Out of State,Fairview,29,24,1,   ,0
 1998-09-25,Prestonsburg,Betsy Layne,62,14,0,  District Game ,0
 1998-09-25,Pulaski County,South Laurel,53,37,1,  District Game ,0
 1998-09-25,Reidland,Fulton City,28,25,0,   ,0
@@ -555,10 +555,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-25,South Oldham,North Bullitt,14,0,0,  District Game ,0
 1998-09-25,Southern,Western,46,0,0,   ,0
 1998-09-25,Southwestern,Knox Central,42,6,2,  District Game ,0
-1998-09-25,St. Xavier,Trinity,13,9,2,   ,0
+1998-09-25,St. Xavier,Trinity (Louisville),13,9,2,   ,0
 1998-09-25,Tates Creek,Henry Clay,28,0,1,   ,0
 1998-09-25,Trimble County,Bethlehem,34,21,1,   ,0
-1998-09-25,Trousdale County. TN,Warren East,59,14,1,   ,0
+1998-09-25,Out of State,Warren East,59,14,1,   ,0
 1998-09-25,Union County,Calloway County,52,17,0,  District Game ,0
 1998-09-25,Waggener,Shawnee,69,7,0,  District Game ,0
 1998-09-25,Warren Central,Owensboro,21,14,1,  District Game ,0
@@ -567,7 +567,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-09-25,West Carter,Lewis County,48,7,1,   ,0
 1998-09-25,Whitley County,McCreary Central,33,6,1,  District Game ,0
 1998-09-26,DeSales,Bardstown,20,0,2,   ,0
-1998-09-26,Kentucky School f/t Deaf,School f/t Deaf. GA,44,30,0,   ,0
+1998-09-26,Kentucky School f/t Deaf,Out of State,44,30,0,   ,0
 1998-09-30,Valley,Shawnee,67,0,1,  District Game ,0
 1998-10-01,Ballard,Eastern,30,19,1,  District Game ,0
 1998-10-01,Bardstown,Caverna,59,0,1,  District Game ,0
@@ -594,13 +594,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-01,Russell County,Allen County-Scottsville,12,6,0,  District Game ,0
 1998-10-01,Russellville,Todd County Central,14,7,1,  District Game ,0
 1998-10-01,Seneca,Fairdale,35,14,0,   ,0
-1998-10-01,Shelby Valley,Leslie County,41,40,1,  District Game - Overtime ,0
+1998-10-01,Shelby Valley,Leslie County,41,40,1,  District Game - Overtime ,1
 1998-10-01,Southern,Iroquois,28,12,1,  District Game ,0
 1998-10-01,Warren Central,Warren East,29,12,0,  District Game ,0
 1998-10-02,Apollo,Graves County,56,6,1,  District Game ,0
 1998-10-02,Ashland Blazer,Rowan County,26,16,0,  District Game ,0
 1998-10-02,Ballard Memorial,Fulton City,26,0,0,  District Game ,0
-1998-10-02,Beechwood,Ironton. OH,21,20,0,  Game suspended due to power failure. Score stands at point of  interruption. ,0
+1998-10-02,Beechwood,Out of State,21,20,0,  Game suspended due to power failure. Score stands at point of  interruption. ,0
 1998-10-02,Bell County,Whitley County,19,6,1,  District Game ,0
 1998-10-02,Bellevue,Kentucky Country Day,41,0,0,   ,0
 1998-10-02,Berea,Fairview,48,14,1,   ,0
@@ -651,10 +651,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-02,Paris,Carroll County,42,16,0,  District Game ,0
 1998-10-02,Perry County Central,Knott County Central,35,6,0,   ,0
 1998-10-02,Pikeville,Phelps,56,21,1,  District Game ,0
-1998-10-02,Providence. IN,Atherton,42,13,0,   ,0
+1998-10-02,Out of State,Atherton,42,13,0,   ,0
 1998-10-02,Pulaski County,McCreary Central,41,16,0,  District Game ,0
 1998-10-02,Rockcastle County,Wayne County,26,0,1,  District Game ,0
-1998-10-02,Russell,Tolsia. WV,55,7,1,   ,0
+1998-10-02,Russell,Out of State,55,7,1,   ,0
 1998-10-02,Ryle,Holmes,56,21,0,  District Game ,0
 1998-10-02,Scott County,Campbell County,42,6,0,  District Game ,0
 1998-10-02,Shelby County,Jeffersontown,38,22,0,   ,0
@@ -668,17 +668,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-02,Trigg County,McLean County,23,21,1,  District Game ,0
 1998-10-02,Trinity (Louisville),Central,31,0,0,  District Game ,0
 1998-10-02,Waggener,Bullitt Central,35,13,0,  District Game ,0
-1998-10-02,Westmoreland. TN,Greenwood,34,16,1,   ,0
+1998-10-02,Out of State,Greenwood,34,16,1,   ,0
 1998-10-02,Whitesburg,Fleming-Neon,15,0,0,   ,0
 1998-10-02,Williamsburg,Evarts,34,8,1,  District Game ,0
 1998-10-02,Woodford County,Franklin County,38,14,0,  District Game ,0
 1998-10-05,Dayton,Newport Central Catholic,26,20,2,  District Game ,0
 1998-10-08,Leslie County,Betsy Layne,42,6,0,  District Game ,0
 1998-10-08,Pikeville,Jenkins,42,0,0,  District Game ,0
-1998-10-08,Simon Kenton,Holmes,35,34,0,  District Game Double Overtime ,0
+1998-10-08,Simon Kenton,Holmes,35,34,0,  District Game Double Overtime ,1
 1998-10-09,Anderson County,Grant County,22,6,1,  District Game ,0
-1998-10-09,Anosnia. OH,Holy Cross,56,14,2,   ,0
-1998-10-09,Ballard Memorial,Cairo. IL,38,0,1,   ,0
+1998-10-09,Out of State,Holy Cross (Covington),56,14,2,   ,0
+1998-10-09,Ballard Memorial,Out of State,38,0,1,   ,0
 1998-10-09,Bardstown,Metcalfe County,43,0,0,  District Game ,0
 1998-10-09,Bath County,Fairview,43,6,1,   ,0
 1998-10-09,Beechwood,Bellevue,35,21,1,  District Game ,0
@@ -688,7 +688,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-09,Bethlehem,Allen Central,49,42,0,   ,0
 1998-10-09,Boone County,George Rogers Clark,56,3,1,  District Game ,0
 1998-10-09,Bowling Green,Ballard,22,0,1,   ,0
-1998-10-09,Boyd County,Iaeger. WV,30,22,1,   ,0
+1998-10-09,Boyd County,Out of State,30,22,1,   ,0
 1998-10-09,Boyle County,Bourbon County,40,32,0,  District Game ,0
 1998-10-09,Breathitt County,Cawood,20,15,1,  District Game ,0
 1998-10-09,Bryan Station,Campbell County,33,20,1,  District Game ,0
@@ -713,7 +713,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-09,Edmonson County,Breckinridge County,50,0,0,   ,0
 1998-10-09,Elkhorn City,Fleming-Neon,16,0,1,  District Game ,0
 1998-10-09,Eminence,Beth Haven,24,14,1,   ,0
-1998-10-09,Fern Creek,Evansville North. IN,27,6,0,   ,0
+1998-10-09,Fern Creek,Out of State,27,6,0,   ,0
 1998-10-09,Fort Knox,Hart County,28,7,1,  District Game ,0
 1998-10-09,Garrard County,Western Hills,25,12,0,  District Game ,0
 1998-10-09,Glasgow,Franklin-Simpson,42,14,0,  District Game ,0
@@ -721,7 +721,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-09,Greenup County,Ashland Blazer,36,32,2,  District Game ,0
 1998-10-09,Harrison County,Franklin County,38,20,1,  District Game ,0
 1998-10-09,Hazard,South Floyd,26,6,0,  District Game ,0
-1998-10-09,Heath,Fort Campbell,13,7,1,  District Game - (double overtime) ,0
+1998-10-09,Heath,Fort Campbell,13,7,1,  District Game - (double overtime) ,1
 1998-10-09,Henderson County,Graves County,46,28,0,  District Game ,0
 1998-10-09,Henry Clay,Scott County,28,7,1,  District Game ,0
 1998-10-09,Henry County,Washington County,10,0,1,  District Game ,0
@@ -735,7 +735,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-09,Male,Doss,51,9,1,   ,0
 1998-10-09,Marion County,Meade County,31,22,0,   ,0
 1998-10-09,Marshall County,Apollo,34,7,1,  District Game ,0
-1998-10-09,Mayfield,Milan. TN,19,7,0,   ,0
+1998-10-09,Mayfield,Out of State,19,7,0,   ,0
 1998-10-09,Mercer County,Grayson County,37,34,0,   ,0
 1998-10-09,Middlesboro,Lynn Camp,29,13,1,  District Game ,0
 1998-10-09,Monroe County,Adair County,28,8,1,  District Game ,0
@@ -759,7 +759,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-09,Pineville,Evarts,21,0,1,  District Game ,0
 1998-10-09,Pleasure Ridge Park,Iroquois,63,7,1,   ,0
 1998-10-09,Prestonsburg,Morgan County,69,20,1,   ,0
-1998-10-09,Providence. IN,Eastern,20,14,1,   ,0
+1998-10-09,Out of State,Eastern,20,14,1,   ,0
 1998-10-09,Raceland,West Carter,27,13,0,   ,0
 1998-10-09,Rowan County,East Jessamine,25,0,1,  District Game ,0
 1998-10-09,Russell,East Carter,34,18,1,  District Game ,0
@@ -778,20 +778,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-09,Webster County,McLean County,33,12,0,   ,0
 1998-10-09,West Jessamine,Magoffin County,27,7,1,  District Game ,0
 1998-10-09,Whitesburg,Shelby Valley,48,20,1,  District Game ,0
-1998-10-09,Williamsburg,Thomas Walker. VA,26,19,1,   ,0
+1998-10-09,Williamsburg,Out of State,26,19,1,   ,0
 1998-10-09,Woodford County,Madison Southern,55,25,1,  District Game ,0
-1998-10-10,Kentucky School f/t Deaf,School f/t Deaf. LA,46,44,1,  Triple Overtime ,0
+1998-10-10,Kentucky School f/t Deaf,Out of State,46,44,1,  Triple Overtime ,1
 1998-10-10,Newport Central Catholic,Ludlow,21,20,2,  District Game ,0
 1998-10-15,Ballard,Jeffersontown,28,0,0,  District Game ,0
-1998-10-15,Eminence,Hillcrest. OH,24,0,1,   ,0
+1998-10-15,Eminence,Out of State,24,0,1,   ,0
 1998-10-15,Fairdale,Doss,35,21,1,  District Game ,0
 1998-10-15,Male,Iroquois,42,0,0,   ,0
 1998-10-15,Moore,Shawnee,20,7,0,  District Game ,0
 1998-10-15,Pleasure Ridge Park,Western,80,6,0,  District Game ,0
-1998-10-15,Rutherford. FL,Boyd County,45,12,1,   ,0
+1998-10-15,Out of State,Boyd County,45,12,1,   ,0
 1998-10-15,South Floyd,Allen Central,58,36,1,   ,0
 1998-10-15,Todd County Central,McLean County,19,12,0,  District Game ,0
-1998-10-15,Valley,Waggener,62,60,1,  District GameOvertime ,0
+1998-10-15,Valley,Waggener,62,60,1,  District GameOvertime ,1
 1998-10-16,Adair County,Metcalfe County,44,7,0,   ,0
 1998-10-16,Ashland Blazer,Magoffin County,34,7,0,  District Game ,0
 1998-10-16,Bardstown,Green County,49,0,1,  District Game ,0
@@ -813,20 +813,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-16,Carroll County,Frankfort,26,10,0,  District Game ,0
 1998-10-16,Cawood,Knox Central,51,12,1,   ,0
 1998-10-16,Central Hardin,Greenwood,39,0,1,  District Game ,0
-1998-10-16,Cincinnati Elder. OH,Trinity (Louisville),46,14,0,   ,0
+1998-10-16,Out of State,Trinity (Louisville),46,14,0,   ,0
 1998-10-16,Corbin,Wayne County,27,14,1,  District Game ,0
 1998-10-16,Crittenden County,Trigg County,48,21,0,  District Game ,0
 1998-10-16,Danville,Mercer County,48,0,1,  District Game ,0
 1998-10-16,DeSales,Southern,42,12,2,  District Game ,0
 1998-10-16,East Carter,Fleming County,28,18,0,  District Game ,0
-1998-10-16,East Central. IN,Paul Laurence Dunbar,30,6,2,   ,0
+1998-10-16,Out of State,Paul Laurence Dunbar,30,6,2,   ,0
 1998-10-16,Eastern,Central,24,12,1,  District Game ,0
 1998-10-16,Elizabethtown,Washington County,13,12,0,  District Game ,0
 1998-10-16,Fern Creek,DuPont Manual,39,6,1,  District Game ,0
 1998-10-16,Franklin County,Grant County,36,32,0,  District Game ,0
 1998-10-16,Franklin-Simpson,Russell County,68,32,0,  District Game ,0
 1998-10-16,Fulton County,Ballard Memorial,27,14,0,  District Game ,0
-1998-10-16,Glasgow,South Baptist Ed. Center. MS,42,20,1,   ,0
+1998-10-16,Glasgow,Out of State,42,20,1,   ,0
 1998-10-16,Graves County,Ohio County,57,6,0,  District Game ,0
 1998-10-16,Greenup County,East Jessamine,21,6,1,  District Game ,0
 1998-10-16,Hancock County,Muhlenberg South,55,21,1,  District Game ,0
@@ -838,8 +838,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-16,Highlands,Dixie Heights,41,7,0,  District Game ,0
 1998-10-16,Holy Cross (Louisville),Owen County,57,8,1,  District Game ,0
 1998-10-16,Hopkinsville,Madisonville-North Hopkins,28,21,0,  District Game ,0
-1998-10-16,Hurly. VA,Jenkins,58,18,0,   ,0
-1998-10-16,Ironton. OH,Belfry,36,15,1,   ,0
+1998-10-16,Out of State,Jenkins,58,18,0,   ,0
+1998-10-16,Out of State,Belfry,36,15,1,   ,0
 1998-10-16,Johnson Central,Morgan County,56,14,0,   ,0
 1998-10-16,LaRue County,Fort Knox,32,14,1,  District Game ,0
 1998-10-16,Lafayette,Perry County Central,47,12,1,  District Game ,0
@@ -883,16 +883,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-16,St. Xavier,Seneca,35,7,2,  District Game ,0
 1998-10-16,Tates Creek,Clay County,61,6,0,  District Game ,0
 1998-10-16,Taylor County,Hart County,34,12,0,  District Game ,0
-1998-10-16,Tell City. IN,Warren East,34,14,0,   ,0
+1998-10-16,Out of State,Warren East,34,14,0,   ,0
 1998-10-16,Trimble County,Casey County,36,14,1,   ,0
 1998-10-16,West Jessamine,Rowan County,28,22,1,  District Game ,0
 1998-10-16,Western Hills,Somerset,20,14,1,   ,0
 1998-10-16,Whitley County,Pulaski County,32,19,0,  District Game ,0
 1998-10-17,Beth Haven,Kentucky Country Day,48,19,1,   ,0
 1998-10-17,Covington Catholic,Holmes,37,21,1,  District Game ,0
-1998-10-17,School f/t Deaf. IN,Kentucky School f/t Deaf,52,12,1,   ,0
+1998-10-17,Out of State,Kentucky School f/t Deaf,52,12,1,   ,0
 1998-10-22,Bullitt East,LaRue County,13,7,1,  District Game ,0
-1998-10-22,Kentucky School f/t Deaf,School f/t Deaf. TN,50,12,0,   ,0
+1998-10-22,Kentucky School f/t Deaf,Out of State,50,12,0,   ,0
 1998-10-22,North Bullitt,Shawnee,55,19,1,  District Game ,0
 1998-10-23,Anderson County,Montgomery County,28,13,0,  District Game ,0
 1998-10-23,Apollo,Ohio County,67,8,0,  District Game ,0
@@ -904,7 +904,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-23,Bell County,South Laurel,44,7,1,  District Game ,0
 1998-10-23,Bourbon County,Western Hills,56,24,1,  District Game ,0
 1998-10-23,Bowling Green,Owensboro,17,0,1,  District Game ,0
-1998-10-23,Boyd County,Wayne. WV,26,18,1,   ,0
+1998-10-23,Boyd County,Out of State,26,18,1,   ,0
 1998-10-23,Boyle County,Mercer County,34,0,0,  District Game ,0
 1998-10-23,Breathitt County,Lafayette,49,13,1,   ,0
 1998-10-23,Butler County,Grayson County,41,29,1,   ,0
@@ -914,7 +914,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-23,Caverna,Bethlehem,34,27,1,   ,0
 1998-10-23,Cawood,Leslie County,48,0,1,  District Game ,0
 1998-10-23,Christian County,Graves County,42,21,0,  District Game ,0
-1998-10-23,Cincinnati St. Xavier. OH,Trinity (Louisville),38,0,1,   ,0
+1998-10-23,Out of State,Trinity (Louisville),38,0,1,   ,0
 1998-10-23,Crittenden County,McLean County,49,14,1,  District Game ,0
 1998-10-23,Cumberland,Evarts,44,16,0,  District Game ,0
 1998-10-23,Doss,Central,15,12,1,   ,0
@@ -947,7 +947,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-23,Lynn Camp,Williamsburg,40,9,1,  District Game ,0
 1998-10-23,Madison Central,Clay County,74,14,0,  District Game ,0
 1998-10-23,Male,Eastern,42,28,0,   ,0
-1998-10-23,Marshall County,Henderson County,42,41,0,  District Game - Triple Overtime ,0
+1998-10-23,Marshall County,Henderson County,42,41,0,  District Game - Triple Overtime ,1
 1998-10-23,Mason County,Fleming County,15,12,0,  District Game ,0
 1998-10-23,Mayfield,Fulton City,49,0,0,  District Game ,0
 1998-10-23,Middlesboro,Corbin,45,25,1,   ,0
@@ -1057,7 +1057,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-30,Lone Oak,Murray,38,35,0,   ,0
 1998-10-30,Lynn Camp,Harlan,29,0,0,  District Game ,0
 1998-10-30,Madison Central,Paul Laurence Dunbar,63,45,1,  District Game ,0
-1998-10-30,Madisonville-North Hopkins,Calloway County,28,27,1,  District Game - Double Overtime ,0
+1998-10-30,Madisonville-North Hopkins,Calloway County,28,27,1,  District Game - Double Overtime ,1
 1998-10-30,Male,DuPont Manual,55,10,1,  District Game ,0
 1998-10-30,Marion County,Western,47,14,1,  District Game ,0
 1998-10-30,Marshall County,Graves County,38,0,0,  District Game ,0
@@ -1099,10 +1099,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-10-30,Whitley County,Knox Central,33,12,1,  District Game ,0
 1998-10-30,Williamsburg,Cumberland,21,20,0,  District Game ,0
 1998-10-31,Eminence,Bethlehem,16,0,0,   ,0
-1998-10-31,Kentucky School f/t Deaf,School f/t Deaf. MS,33,12,0,   ,0
-1998-10-31,Beth Haven,Hillcrest. OH,-,-,0,7:30 PM   ,0
+1998-10-31,Kentucky School f/t Deaf,Out of State,33,12,0,   ,0
+1998-10-31,Beth Haven,Out of State,-,-,0,7:30 PM   ,0
 1998-11-06,Beechwood,Nicholas County,56,0,1, Class A Football Playoff  ,0
-1998-11-06,Bellevue,Raceland,27,26,0, Class A Football Playoff Overtime ,0
+1998-11-06,Bellevue,Raceland,27,26,0, Class A Football Playoff Overtime ,1
 1998-11-06,Campbellsville,Carroll County,45,0,1, Class A Football Playoff  ,0
 1998-11-06,Crittenden County,Ballard Memorial,19,0,1, Class A Football Playoff  ,0
 1998-11-06,Dayton,Bath County,27,8,1, Class A Football Playoff  ,0
@@ -1207,7 +1207,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-11-20,Danville,Lexington Catholic,27,25,0, Class AA Football Playoff  ,0
 1998-11-20,Bowling Green,Owensboro,14,7,1, Class AAA Football Playoff  ,0
 1998-11-20,Highlands,Covington Catholic,37,14,1, Class AAA Football Playoff  ,0
-1998-11-20,Sheldon Clark,Belfry,16,15,0, Class AAA Football Playoff Overtime ,0
+1998-11-20,Sheldon Clark,Belfry,16,15,0, Class AAA Football Playoff Overtime ,1
 1998-11-20,Waggener,Oldham County,39,28,0, Class AAA Football Playoff  ,0
 1998-11-20,Male,Fern Creek,12,6,2, Class AAAA Football Playoff  ,0
 1998-11-20,Nelson County,Marshall County,21,7,1, Class AAAA Football Playoff  ,0

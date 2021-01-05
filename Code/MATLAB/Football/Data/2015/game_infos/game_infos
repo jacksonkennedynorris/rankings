@@ -9,7 +9,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,Bellevue,Gallatin County,35,20,0,   ,0
 2015-08-21,Bethlehem,Nicholas County,28,8,0,   ,0
 2015-08-21,Bishop Brossart,Dayton,35,0,1,   ,0
-2015-08-21,Bracken County,Switzerland County. IN,49,14,0,   ,0
+2015-08-21,Bracken County,Out of State,49,14,0,   ,0
 2015-08-21,Bullitt Central,Madison Southern,35,27,2,   ,0
 2015-08-21,Butler County,Logan County,46,6,1,   ,0
 2015-08-21,Campbellsville,Glasgow,22,16,0,   ,0
@@ -23,23 +23,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,DeSales,Fairdale,42,6,0,   ,0
 2015-08-21,Doss,Jeffersontown,21,0,0,   ,0
 2015-08-21,DuPont Manual,Central,28,10,1,   ,0
-2015-08-21,East Central. IN,Campbell County,24,21,0,   ,0
+2015-08-21,Out of State,Campbell County,24,21,0,   ,0
 2015-08-21,East Jessamine,Harrison County,38,33,1,   ,0
 2015-08-21,Eastern,Bullitt East,28,14,1,   ,0
 2015-08-21,Edmonson County,Caverna,47,0,1,   ,0
 2015-08-21,Elizabethtown,West Jessamine,46,6,2,   ,0
 2015-08-21,Eminence,Trimble County,52,12,0,   ,0
-2015-08-21,Evansville F.J. Reitz. IN,Henderson County,62,14,1,   ,0
-2015-08-21,Evansville Harrison. IN,Madisonville-North Hopkins,54,9,1,   ,0
+2015-08-21,Out of State,Henderson County,62,14,1,   ,0
+2015-08-21,Out of State,Madisonville-North Hopkins,54,9,1,   ,0
 2015-08-21,Fairview,Bath County,52,35,1,   ,0
 2015-08-21,Fern Creek,Seneca,42,0,1,   ,0
 2015-08-21,Fleming County,Estill County,36,34,0,   ,0
-2015-08-21,Franklin-Simpson,Portland. TN,23,14,0,   ,0
-2015-08-21,Gleason. TN,Fulton County,60,28,0,   ,0
+2015-08-21,Franklin-Simpson,Out of State,23,14,0,   ,0
+2015-08-21,Out of State,Fulton County,60,28,0,   ,0
 2015-08-21,Grant County,Carroll County,48,8,1,   ,0
 2015-08-21,Grayson County,Hancock County,24,7,0,   ,0
 2015-08-21,Green County,Russell County,18,0,1,   ,0
-2015-08-21,Greenfield. TN,Fulton City,35,20,0,   ,0
+2015-08-21,Out of State,Fulton City,35,20,0,   ,0
 2015-08-21,Greenup County,Lewis County,35,0,1,   ,0
 2015-08-21,Greenwood,Warren East,42,12,0,   ,0
 2015-08-21,Hazard,Pineville,35,14,1,   ,0
@@ -59,7 +59,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,Lexington Christian,Williamsburg,51,0,1,   ,0
 2015-08-21,Lloyd Memorial,Walton-Verona,28,20,0,   ,0
 2015-08-21,Ludlow,Newport,34,0,1,   ,0
-2015-08-21,Male,Floyd Central. IN,41,0,1,   ,0
+2015-08-21,Male,Out of State,41,0,1,   ,0
 2015-08-21,Mayfield,Fort Campbell,42,0,0,   ,0
 2015-08-21,McCreary Central,Jenkins,46,6,0,   ,0
 2015-08-21,McLean County,Breckinridge County,42,14,1,   ,0
@@ -73,10 +73,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,Owensboro Catholic,Holy Cross (Louisville),46,13,1,   ,0
 2015-08-21,Paintsville,Sheldon Clark,46,12,0,   ,0
 2015-08-21,Perry County Central,Lynn Camp,40,0,1,   ,0
-2015-08-21,Pickett County. TN,Clinton County,32,0,0,   ,0
+2015-08-21,Out of State,Clinton County,32,0,0,   ,0
 2015-08-21,Pikeville,Prestonsburg,43,6,0,   ,0
 2015-08-21,Pleasure Ridge Park,Valley,48,20,0,   ,0
-2015-08-21,Pulaski County,Jeffersonville. IN,64,26,2,   ,0
+2015-08-21,Pulaski County,Out of State,64,26,2,   ,0
 2015-08-21,Russellville,Trigg County,48,19,0,   ,0
 2015-08-21,Ryle,Covington Catholic,35,28,0,   ,0
 2015-08-21,Scott,Newport Central Catholic,8,7,1,   ,0
@@ -87,7 +87,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-21,South Floyd,Betsy Layne,38,20,1,   ,0
 2015-08-21,Southwestern,Harlan County,57,0,1,   ,0
 2015-08-21,Thomas Nelson,Fort Knox,42,0,0,   ,0
-2015-08-21,Trinity (Louisville),Ensworth. TN,45,0,1,   ,0
+2015-08-21,Trinity (Louisville),Out of State,45,0,1,   ,0
 2015-08-21,Western Hills,Washington County,50,18,1,   ,0
 2015-08-22,Bowling Green,Monroe County,44,7,2,   ,0
 2015-08-22,Boyle County,Central Hardin,21,19,2,   ,0
@@ -96,7 +96,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-22,Franklin County,Shelby Valley,60,6,1,   ,0
 2015-08-22,Hart County,Ballard Memorial,18,0,1,   ,0
 2015-08-22,Madison Central,Wayne County,34,20,1,   ,0
-2015-08-22,Murray,West Greene. TN,49,3,1,   ,0
+2015-08-22,Murray,Out of State,49,3,1,   ,0
 2015-08-22,Nelson County,Marion County,35,7,1,   ,0
 2015-08-22,North Hardin,Mercer County,55,20,0,   ,0
 2015-08-22,Paducah Tilghman,McCracken County,21,7,0,   ,0
@@ -105,7 +105,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-22,Rowan County,Clay County,55,26,1,   ,0
 2015-08-22,South Warren,John Hardin,43,12,2,   ,0
 2015-08-22,Spencer County,Bardstown,48,14,0,   ,0
-2015-08-27,Reading. OH,Newport,53,6,2,   ,0
+2015-08-27,Out of State,Newport,53,6,2,   ,0
 2015-08-28,Adair County,Caverna,54,6,0,   ,0
 2015-08-28,Anderson County,George Rogers Clark,27,26,0,   ,0
 2015-08-28,Ashland Blazer,Raceland,41,21,1,   ,0
@@ -116,7 +116,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Belfry,Tates Creek,55,38,2,   ,0
 2015-08-28,Bellevue,Dayton,42,0,1,   ,0
 2015-08-28,Bethlehem,Thomas Nelson,28,14,1,   ,0
-2015-08-28,Bishop Brossart,Aiken. OH,26,22,0,   ,0
+2015-08-28,Bishop Brossart,Out of State,26,22,0,   ,0
 2015-08-28,Bourbon County,Southwestern,31,29,2,   ,0
 2015-08-28,Boyd County,Lewis County,51,24,1,   ,0
 2015-08-28,Bullitt Central,Fairdale,26,20,1,   ,0
@@ -124,7 +124,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Caldwell County,Franklin-Simpson,48,19,0,   ,0
 2015-08-28,Central Hardin,Paducah Tilghman,48,25,0,   ,0
 2015-08-28,Christian Academy-Louisville,Eastern,42,7,1,   ,0
-2015-08-28,Cincinnati St. Xavier. OH,Covington Catholic,57,7,1,   ,0
+2015-08-28,Out of State,Covington Catholic,57,7,1,   ,0
 2015-08-28,Clinton County,Trimble County,34,6,0,   ,0
 2015-08-28,Collins,Bullitt East,55,14,0,   ,0
 2015-08-28,Conner,Boone County,43,6,1,   ,0
@@ -135,7 +135,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Daviess County,Owensboro Catholic,27,21,0,  OT(overtime) ,1
 2015-08-28,DeSales,Butler,49,13,2,   ,0
 2015-08-28,DuPont Manual,Fern Creek,28,18,0,   ,0
-2015-08-28,East Carter,West Union. OH,56,7,1,   ,0
+2015-08-28,East Carter,Out of State,56,7,1,   ,0
 2015-08-28,East Jessamine,Lincoln County,27,9,1,   ,0
 2015-08-28,East Ridge,Phelps,36,0,2,   ,0
 2015-08-28,Elizabethtown,Marion County,53,6,0,   ,0
@@ -144,25 +144,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Fairview,Hazard,44,20,1,   ,0
 2015-08-28,Fleming County,Mason County,20,0,0,   ,0
 2015-08-28,Franklin County,Western Hills,20,7,1,   ,0
-2015-08-28,Gallatin County,Switzerland County. IN,41,0,1,   ,0
+2015-08-28,Gallatin County,Out of State,41,0,1,   ,0
 2015-08-28,Garrard County,Madison Southern,28,7,0,   ,0
-2015-08-28,Glasgow,Holy Cross,24,20,2,   ,0
+2015-08-28,Glasgow,Holy Cross (Louisville),24,20,2,   ,0
 2015-08-28,Grant County,Owen County,47,14,0,   ,0
 2015-08-28,Graves County,Trigg County,56,20,0,   ,0
 2015-08-28,Greenwood,Allen County-Scottsville,38,18,1,   ,0
 2015-08-28,Harlan,South Floyd,60,26,0,   ,0
 2015-08-28,Harlan County,Clay County,43,6,1,   ,0
 2015-08-28,Hart County,Metcalfe County,21,0,1,   ,0
-2015-08-28,Henderson County,Evansville Reitz Memorial. IN,48,28,1,   ,0
+2015-08-28,Henderson County,Out of State,48,28,1,   ,0
 2015-08-28,Henry County,Carroll County,36,7,0,   ,0
 2015-08-28,Highlands,Campbell County,38,15,1,   ,0
 2015-08-28,Holy Cross (Covington),Walton-Verona,28,14,0,   ,0
 2015-08-28,Jeffersontown,Iroquois,18,0,1,   ,0
 2015-08-28,John Hardin,North Hardin,40,21,0,   ,0
-2015-08-28,Johnson Central,Fairland (Proctorville). OH,41,6,0,   ,0
+2015-08-28,Johnson Central,Out of State,41,6,0,   ,0
 2015-08-28,Knox Central,Central,28,24,2,   ,0
 2015-08-28,LaRue County,Russell County,20,14,0,   ,0
-2015-08-28,Lake County. TN,Fulton County,48,20,1,   ,0
+2015-08-28,Out of State,Fulton County,48,20,1,   ,0
 2015-08-28,Leslie County,Knott County Central,56,14,1,   ,0
 2015-08-28,Lexington Christian,Kentucky Country Day,55,34,0,   ,0
 2015-08-28,Ludlow,Bracken County,24,6,0,   ,0
@@ -188,7 +188,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Pineville,Jackson County,41,8,1,   ,0
 2015-08-28,Pleasure Ridge Park,Meade County,35,0,1,   ,0
 2015-08-28,Prestonsburg,Sheldon Clark,20,7,0,   ,0
-2015-08-28,Ridgeview. VA,Jenkins,65,8,1,   ,0
+2015-08-28,Out of State,Jenkins,65,8,1,   ,0
 2015-08-28,Russellville,Fort Campbell,42,21,1,   ,0
 2015-08-28,Ryle,Lexington Catholic,31,24,0,   ,0
 2015-08-28,Scott,Dixie Heights,36,7,0,   ,0
@@ -201,7 +201,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-28,Spencer County,Nelson County,55,26,1,   ,0
 2015-08-28,St. Xavier,Henry Clay,40,13,2,   ,0
 2015-08-28,Todd County Central,Breckinridge County,39,14,1,   ,0
-2015-08-28,Trinity (Louisville),Brentwood Academy. TN,31,13,0,   ,0
+2015-08-28,Trinity (Louisville),Out of State,31,13,0,   ,0
 2015-08-28,Union County,Hancock County,40,13,1,   ,0
 2015-08-28,Valley,Atherton,44,13,0,   ,0
 2015-08-28,West Carter,Powell County,48,13,1,   ,0
@@ -212,7 +212,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-08-29,Boyle County,Bell County,41,7,1,   ,0
 2015-08-29,Campbellsville,Washington County,44,7,2,   ,0
 2015-08-29,Green County,Casey County,47,28,2,   ,0
-2015-08-29,Hopkinsville,West Creek. TN,21,0,2,   ,0
+2015-08-29,Hopkinsville,Out of State,21,0,2,   ,0
 2015-08-29,Lafayette,Mercer County,53,13,2,   ,0
 2015-08-29,North Laurel,Harrison County,45,35,1,   ,0
 2015-08-29,Pikeville,Letcher County Central,49,12,2,   ,0
@@ -222,7 +222,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-04,Adair County,LaRue County,47,8,0,   ,0
 2015-09-04,Anderson County,Mercer County,55,14,1,   ,0
 2015-09-04,Apollo,Logan County,35,12,0,   ,0
-2015-09-04,Ashland Blazer,George Washington. WV,26,25,1,   ,0
+2015-09-04,Ashland Blazer,Out of State,26,25,1,   ,0
 2015-09-04,Atherton,Shawnee,49,6,0,   ,0
 2015-09-04,Ballard Memorial,Marshall County,26,22,0,   ,0
 2015-09-04,Bardstown,Marion County,43,6,1,   ,0
@@ -257,11 +257,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-04,Glasgow,Barren County,34,15,0,   ,0
 2015-09-04,Graves County,Murray,39,14,0,   ,0
 2015-09-04,Greenup County,Fleming County,25,8,0,   ,0
-2015-09-04,Harlan,Thomas Walker. VA,41,28,0,   ,0
+2015-09-04,Harlan,Out of State,41,28,0,   ,0
 2015-09-04,Hart County,Todd County Central,28,7,0,   ,0
 2015-09-04,Hazard,Letcher County Central,23,20,1,   ,0
 2015-09-04,Henry Clay,George Rogers Clark,35,13,1,   ,0
-2015-09-04,Holy Cross (Louisville),Providence. IN,27,13,0,   ,0
+2015-09-04,Holy Cross (Louisville),Out of State,27,13,0,   ,0
 2015-09-04,Hopkinsville,Fort Campbell,50,7,2,   ,0
 2015-09-04,John Hardin,Warren Central,33,29,1,   ,0
 2015-09-04,Johnson Central,Lexington Catholic,42,28,0,   ,0
@@ -303,27 +303,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-04,Trinity (Louisville),Lafayette,70,14,1,   ,0
 2015-09-04,Union County,Webster County,50,6,0,   ,0
 2015-09-04,Valley,Iroquois,34,20,1,   ,0
-2015-09-04,Van. WV,Phelps,47,0,1,   ,0
+2015-09-04,Out of State,Phelps,47,0,1,   ,0
 2015-09-04,Washington County,Kentucky Country Day,40,36,1,   ,0
 2015-09-04,Wayne County,Perry County Central,56,8,1,   ,0
 2015-09-05,Bishop Brossart,Bellevue,24,21,0,   ,0
-2015-09-05,Carroll County,Switzerland County. IN,58,0,0,   ,0
-2015-09-05,Cincinnati Hills Christian Academy. OH,Breathitt County,40,6,0,   ,0
+2015-09-05,Carroll County,Out of State,58,0,0,   ,0
+2015-09-05,Out of State,Breathitt County,40,6,0,   ,0
 2015-09-05,Corbin,Clay County,40,7,0,   ,0
 2015-09-05,Dayton,Pendleton County,19,14,1,   ,0
 2015-09-05,Franklin County,Woodford County,56,35,0,   ,0
 2015-09-05,Gallatin County,Bracken County,38,7,0,   ,0
 2015-09-05,Holmes,Walton-Verona,15,14,1,   ,0
 2015-09-05,Lloyd Memorial,Grant County,36,33,0,  (overtime) ,1
-2015-09-05,Milford. OH,Dixie Heights,42,28,1,   ,0
+2015-09-05,Out of State,Dixie Heights,42,28,1,   ,0
 2015-09-05,Newport Central Catholic,Campbell County,28,19,0,   ,0
 2015-09-05,Raceland,East Carter,42,12,0,   ,0
-2015-09-05,Russell,Ironton. OH,18,14,0,   ,0
+2015-09-05,Russell,Out of State,18,14,0,   ,0
 2015-09-05,Ryle,Boone County,52,7,1,   ,0
 2015-09-05,Scott,Newport,61,6,0,   ,0
 2015-09-05,Simon Kenton,Conner,54,0,0,   ,0
 2015-09-05,Southwestern,Knox Central,26,15,2,   ,0
-2015-09-05,Sycamore. OH,Covington Catholic,42,7,1,   ,0
+2015-09-05,Out of State,Covington Catholic,42,7,1,   ,0
 2015-09-07,Henry County,Owen County,49,14,0,  Suspended in 1Q. HCHS up 14-0. Resumes 9/7 ,0
 2015-09-11,Adair County,Metcalfe County,27,22,1,   ,0
 2015-09-11,Allen Central,Jenkins,46,0,0,   ,0
@@ -333,12 +333,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-11,Ballard,Western,29,14,0,   ,0
 2015-09-11,Bardstown,Nelson County,27,0,0,   ,0
 2015-09-11,Bath County,Morgan County,45,0,1,   ,0
-2015-09-11,Beechwood,Ironton. OH,35,19,0,   ,0
+2015-09-11,Beechwood,Out of State,35,19,0,   ,0
 2015-09-11,Belfry,Newport Central Catholic,28,10,1,   ,0
 2015-09-11,Bell County,Wayne County,14,10,1,   ,0
 2015-09-11,Bishop Brossart,Trimble County,40,0,1,   ,0
 2015-09-11,Bowling Green,Owensboro,17,14,1,   ,0
-2015-09-11,Boyd County,South Point. OH,22,7,0,   ,0
+2015-09-11,Boyd County,Out of State,22,7,0,   ,0
 2015-09-11,Boyle County,Anderson County,43,21,1,   ,0
 2015-09-11,Breckinridge County,Hopkins County Central,38,13,1,   ,0
 2015-09-11,Bryan Station,Madison Central,50,20,1,   ,0
@@ -347,26 +347,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-11,Caldwell County,Crittenden County,53,6,0,   ,0
 2015-09-11,Campbellsville,LaRue County,33,6,1,   ,0
 2015-09-11,Central,St. Xavier,20,17,1,   ,0
-2015-09-11,Chaffee. MO,Fulton County,34,26,0,   ,0
+2015-09-11,Out of State,Fulton County,34,26,0,   ,0
 2015-09-11,Christian Academy-Louisville,Oldham County,40,7,1,   ,0
 2015-09-11,Christian County,Fort Campbell,46,0,1,   ,0
-2015-09-11,Cincinnati Elder. OH,Scott County,35,17,1,   ,0
+2015-09-11,Out of State,Scott County,35,17,1,   ,0
 2015-09-11,Clinton County,Webster County,34,27,1,   ,0
 2015-09-11,Conner,Scott,28,27,0,   ,0
 2015-09-11,Cooper,Campbell County,35,7,1,   ,0
 2015-09-11,Danville,Corbin,20,0,0,   ,0
 2015-09-11,Daviess County,Hancock County,42,12,0,   ,0
 2015-09-11,DeSales,Holy Cross (Louisville),32,0,1,   ,0
-2015-09-11,Dresden. TN,Ballard Memorial,48,6,0,   ,0
+2015-09-11,Out of State,Ballard Memorial,48,6,0,   ,0
 2015-09-11,East Jessamine,Clay County,42,0,1,   ,0
 2015-09-11,Edmonson County,Warren East,19,13,1,   ,0
 2015-09-11,Elizabethtown,North Hardin,34,28,1,   ,0
-2015-09-11,Eminence,Switzerland County. IN,28,14,0,   ,0
+2015-09-11,Eminence,Out of State,28,14,0,   ,0
 2015-09-11,Fern Creek,Butler,38,6,0,   ,0
 2015-09-11,Franklin County,Frankfort,46,15,0,   ,0
 2015-09-11,Garrard County,Rockcastle County,20,8,1,   ,0
-2015-09-11,Gibson County. TN,Fulton City,19,6,0,   ,0
-2015-09-11,Gibson Southern. IN,Henderson County,56,7,0,   ,0
+2015-09-11,Out of State,Fulton City,19,6,0,   ,0
+2015-09-11,Out of State,Henderson County,56,7,0,   ,0
 2015-09-11,Grayson County,Ohio County,27,17,1,   ,0
 2015-09-11,Greenwood,Franklin-Simpson,35,21,0,   ,0
 2015-09-11,Harrison County,Grant County,34,27,0,   ,0
@@ -380,14 +380,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-11,Knox Central,Harlan County,35,25,0,   ,0
 2015-09-11,Lafayette,Boone County,56,7,1,   ,0
 2015-09-11,Lawrence County,Powell County,37,0,1,   ,0
-2015-09-11,Letcher County Central,Central (Wise). VA,44,43,1,  (overtime) ,1
+2015-09-11,Letcher County Central,Out of State,44,43,1,  (overtime) ,1
 2015-09-11,Lexington Catholic,Covington Catholic,15,14,1,   ,0
 2015-09-11,Lexington Christian,Estill County,62,33,0,   ,0
 2015-09-11,Lincoln County,Casey County,24,0,0,   ,0
 2015-09-11,Lloyd Memorial,Holmes,27,6,1,   ,0
 2015-09-11,Ludlow,Gallatin County,43,15,1,   ,0
 2015-09-11,Lynn Camp,Berea,47,15,1,   ,0
-2015-09-11,Madeira. OH,Fairview,29,20,1,   ,0
+2015-09-11,Out of State,Fairview,29,20,1,   ,0
 2015-09-11,Madison Southern,Bourbon County,57,36,0,   ,0
 2015-09-11,Madisonville-North Hopkins,Union County,51,19,0,   ,0
 2015-09-11,Magoffin County,Betsy Layne,42,0,1,   ,0
@@ -397,27 +397,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-11,Monroe County,Barren County,28,12,1,   ,0
 2015-09-11,Montgomery County,George Rogers Clark,13,12,1,   ,0
 2015-09-11,Muhlenberg County,McLean County,46,14,0,   ,0
-2015-09-11,New Miami. OH,Dayton,32,20,0,   ,0
+2015-09-11,Out of State,Dayton,32,20,0,   ,0
 2015-09-11,Newport,Bellevue,8,0,1,   ,0
 2015-09-11,Nicholas County,Lewis County,36,6,0,   ,0
 2015-09-11,North Laurel,Mason County,40,0,0,   ,0
-2015-09-11,Owensboro Catholic,South Spencer. IN,49,13,1,   ,0
+2015-09-11,Owensboro Catholic,Out of State,49,13,1,   ,0
 2015-09-11,Paducah Tilghman,Graves County,49,29,0,   ,0
-2015-09-11,Paintsville,Ridgeview. VA,40,3,1,   ,0
+2015-09-11,Paintsville,Out of State,40,3,1,   ,0
 2015-09-11,Paris,Pineville,48,7,1,   ,0
 2015-09-11,Paul Laurence Dunbar,Eastern,20,3,0,   ,0
 2015-09-11,Pike County Central,Perry County Central,42,8,0,   ,0
 2015-09-11,Pikeville,Sheldon Clark,41,6,1,   ,0
 2015-09-11,Pleasure Ridge Park,John Hardin,42,13,1,   ,0
 2015-09-11,Prestonsburg,Breathitt County,40,14,1,   ,0
-2015-09-11,Providence. IN,McCreary Central,55,0,0,   ,0
+2015-09-11,Out of State,McCreary Central,55,0,0,   ,0
 2015-09-11,Pulaski County,Russell County,47,0,1,   ,0
 2015-09-11,Raceland,Greenup County,12,6,1,   ,0
 2015-09-11,Rowan County,Fleming County,33,27,0,  OT ,0
 2015-09-11,Russellville,Logan County,41,6,1,   ,0
 2015-09-11,Ryle,Highlands,48,24,0,   ,0
 2015-09-11,Shelby County,North Bullitt,56,7,0,   ,0
-2015-09-11,Shelby Valley,Hurley. VA,36,12,0,   ,0
+2015-09-11,Shelby Valley,Out of State,36,12,0,   ,0
 2015-09-11,Simon Kenton,Dixie Heights,45,7,1,   ,0
 2015-09-11,South Laurel,Middlesboro,35,19,0,   ,0
 2015-09-11,South Oldham,North Oldham,14,0,0,   ,0
@@ -425,10 +425,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-11,Southern,Seneca,40,6,0,   ,0
 2015-09-11,Southwestern,Mercer County,42,6,1,   ,0
 2015-09-11,Spencer County,Bullitt East,41,23,0,   ,0
-2015-09-11,Taft. OH,Holy Cross (Covington),28,23,0,   ,0
+2015-09-11,Out of State,Holy Cross (Covington),28,23,0,   ,0
 2015-09-11,Taylor County,Green County,28,12,1,   ,0
-2015-09-11,Trigg County,Todd County Central,34,28,0,  (double overtime) ,0
-2015-09-11,Twin Valley. VA,East Ridge,42,36,0,   ,0
+2015-09-11,Trigg County,Todd County Central,34,28,0,  (double overtime) ,1
+2015-09-11,Out of State,East Ridge,42,36,0,   ,0
 2015-09-11,Valley,Moore,28,21,1,   ,0
 2015-09-11,Waggener,Shawnee,49,0,0,   ,0
 2015-09-11,Warren Central,Meade County,38,6,0,   ,0
@@ -442,7 +442,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-18,Adair County,Russell County,48,0,0,   ,0
 2015-09-18,Allen Central,South Floyd,38,12,1,   ,0
 2015-09-18,Allen County-Scottsville,Barren County,20,19,0,   ,0
-2015-09-18,Ashland Blazer,Ironton. OH,41,0,1,   ,0
+2015-09-18,Ashland Blazer,Out of State,41,0,1,   ,0
 2015-09-18,Bath County,Bracken County,41,0,1,   ,0
 2015-09-18,Belfry,Pikeville,34,8,1,   ,0
 2015-09-18,Bell County,Whitley County,49,22,0,   ,0
@@ -476,11 +476,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-18,Franklin County,Anderson County,33,30,1,   ,0
 2015-09-18,Franklin-Simpson,Monroe County,21,14,0,   ,0
 2015-09-18,Garrard County,East Jessamine,40,0,1,   ,0
-2015-09-18,Gibson County. TN,Fulton County,61,20,1,   ,0
+2015-09-18,Out of State,Fulton County,61,20,1,   ,0
 2015-09-18,Glasgow,Warren East,13,0,0,   ,0
 2015-09-18,Grant County,Rowan County,36,22,1,   ,0
 2015-09-18,Greenwood,Logan County,43,7,1,   ,0
-2015-09-18,Grundy. VA,East Ridge,46,44,0,   ,0
+2015-09-18,Out of State,East Ridge,46,44,0,   ,0
 2015-09-18,Harlan,Jackson County,57,8,1,   ,0
 2015-09-18,Hazard,Prestonsburg,34,32,0,   ,0
 2015-09-18,Henry Clay,Knox Central,50,26,0,   ,0
@@ -499,7 +499,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-18,Mayfield,Graves County,46,14,1,   ,0
 2015-09-18,McCreary Central,Berea,47,15,0,   ,0
 2015-09-18,McLean County,Hopkins County Central,19,15,0,   ,0
-2015-09-18,Montcalm. WV,Phelps,52,6,0,   ,0
+2015-09-18,Out of State,Phelps,52,6,0,   ,0
 2015-09-18,Montgomery County,Perry County Central,56,16,1,   ,0
 2015-09-18,Morgan County,Magoffin County,32,6,1,   ,0
 2015-09-18,Muhlenberg County,Hancock County,31,0,1,   ,0
@@ -524,19 +524,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-18,Scott County,Lafayette,65,46,0,   ,0
 2015-09-18,Shelby County,Bullitt East,35,7,1,   ,0
 2015-09-18,Simon Kenton,Cooper,26,7,1,   ,0
-2015-09-18,South Fulton. TN,Fulton City,46,16,1,   ,0
+2015-09-18,Out of State,Fulton City,46,16,1,   ,0
 2015-09-18,South Oldham,Boone County,42,14,0,   ,0
 2015-09-18,South Warren,North Hardin,21,0,0,   ,0
 2015-09-18,Southwestern,Corbin,14,10,0,   ,0
 2015-09-18,Spencer County,Bullitt Central,77,42,0,   ,0
-2015-09-18,St. Bernard-Elmwood Place. OH,Dayton,27,13,0,   ,0
+2015-09-18,Out of State,Dayton,27,13,0,   ,0
 2015-09-18,St. Xavier,Highlands,37,6,0,   ,0
 2015-09-18,Tates Creek,Madison Southern,30,20,0,   ,0
 2015-09-18,Taylor County,LaRue County,27,0,0,   ,0
 2015-09-18,Trinity (Louisville),Pleasure Ridge Park,44,0,1,   ,0
-2015-09-18,Tug Valley. WV,Sheldon Clark,41,0,0,   ,0
+2015-09-18,Out of State,Sheldon Clark,41,0,0,   ,0
 2015-09-18,Union County,Hart County,42,29,0,   ,0
-2015-09-18,Valley (Lucasville). OH,Raceland,28,22,1,   ,0
+2015-09-18,Out of State,Raceland,28,22,1,   ,0
 2015-09-18,Waggener,Atherton,33,7,1,   ,0
 2015-09-18,Walton-Verona,Lexington Christian,28,27,0,   ,0
 2015-09-18,Wayne County,Mercer County,21,14,0,   ,0
@@ -544,15 +544,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-18,Western,Holy Cross (Louisville),25,21,1,   ,0
 2015-09-18,Western Hills,Frankfort,20,19,1,   ,0
 2015-09-18,Woodford County,Nelson County,42,12,0,   ,0
-2015-09-19,McCracken County,Lift for Life Academy Charter. MO,55,20,1,   ,0
+2015-09-19,McCracken County,Out of State,55,20,1,   ,0
 2015-09-24,North Laurel,Harlan County,42,21,1,   ,0
 2015-09-25,Adair County,Kentucky Country Day,45,19,0,   ,0
 2015-09-25,Ashland Blazer,Rowan County,48,21,0,   ,0
 2015-09-25,Ballard,Eastern,48,25,1,   ,0
-2015-09-25,Ballard Memorial,Vienna. IL,61,22,1,   ,0
+2015-09-25,Ballard Memorial,Out of State,61,22,1,   ,0
 2015-09-25,Bath County,Pendleton County,50,6,1,   ,0
 2015-09-25,Beechwood,Holy Cross (Covington),55,21,1,   ,0
-2015-09-25,Belfry,Knoxville Catholic. TN,38,14,1,   ,0
+2015-09-25,Belfry,Out of State,38,14,1,   ,0
 2015-09-25,Bethlehem,Bellevue,23,0,1,   ,0
 2015-09-25,Bishop Brossart,Nicholas County,27,20,1,   ,0
 2015-09-25,Bowling Green,Central Hardin,42,6,0,   ,0
@@ -593,7 +593,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-25,Henry County,Bardstown,28,7,0,   ,0
 2015-09-25,Holy Cross (Louisville),Grant County,20,14,1,   ,0
 2015-09-25,Hopkins County Central,Logan County,13,12,1,   ,0
-2015-09-25,Jellico. TN,Lynn Camp,44,14,1,   ,0
+2015-09-25,Out of State,Lynn Camp,44,14,1,   ,0
 2015-09-25,John Hardin,Meade County,37,0,1,   ,0
 2015-09-25,Johnson Central,Boyd County,59,12,1,   ,0
 2015-09-25,Knox Central,Russell County,41,0,0,   ,0
@@ -621,10 +621,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-25,Paul Laurence Dunbar,Anderson County,21,7,0,   ,0
 2015-09-25,Pike County Central,Magoffin County,38,8,1,   ,0
 2015-09-25,Pikeville,South Floyd,68,14,1,   ,0
-2015-09-25,Pineville,Cumberland Gap. TN,41,0,1,   ,0
+2015-09-25,Pineville,Out of State,41,0,1,   ,0
 2015-09-25,Powell County,Estill County,38,16,0,   ,0
 2015-09-25,Pulaski County,Madison Southern,49,14,1,   ,0
-2015-09-25,Raceland,Portsmouth West. OH,41,21,1,   ,0
+2015-09-25,Raceland,Out of State,41,21,1,   ,0
 2015-09-25,Russell,West Carter,28,13,0,   ,0
 2015-09-25,Scott,Mason County,43,7,0,   ,0
 2015-09-25,Scott County,George Rogers Clark,55,21,0,   ,0
@@ -638,21 +638,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-09-25,Southwestern,Montgomery County,55,29,1,   ,0
 2015-09-25,Spencer County,Collins,35,14,1,   ,0
 2015-09-25,St. Xavier,Pleasure Ridge Park,21,13,0,   ,0
-2015-09-25,Stewart County. TN,Fulton City,28,8,0,   ,0
+2015-09-25,Out of State,Fulton City,28,8,0,   ,0
 2015-09-25,Taylor County,West Jessamine,41,12,1,   ,0
 2015-09-25,Todd County Central,Hancock County,10,7,0,   ,0
 2015-09-25,Trinity (Louisville),Jeffersontown,51,0,0,   ,0
-2015-09-25,Twin Valley. VA,Phelps,53,14,1,   ,0
+2015-09-25,Out of State,Phelps,53,14,1,   ,0
 2015-09-25,Union County,Crittenden County,42,21,1,   ,0
 2015-09-25,Walton-Verona,Carroll County,21,0,1,   ,0
 2015-09-25,Warren Central,Allen County-Scottsville,22,0,1,   ,0
 2015-09-25,Warren East,Barren County,31,21,1,   ,0
 2015-09-25,Wayne County,Clay County,64,0,0,   ,0
 2015-09-25,Webster County,Fulton County,34,19,0,   ,0
-2015-09-25,Western Brown. OH,Campbell County,42,14,0,   ,0
+2015-09-25,Out of State,Campbell County,42,14,0,   ,0
 2015-09-25,Whitley County,South Laurel,42,28,0,   ,0
 2015-09-25,Williamsburg,Ludlow,23,14,0,   ,0
-2015-09-26,St. Francis De Sales. OH,Covington Catholic,28,7,0,   ,0
+2015-09-26,Out of State,Covington Catholic,28,7,0,   ,0
 2015-10-01,Ballard,Seneca,63,6,0,   ,0
 2015-10-01,Bowling Green,Grayson County,56,13,1,   ,0
 2015-10-01,Central,Moore,46,6,1,   ,0
@@ -669,7 +669,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-01,Paintsville,Pike County Central,56,7,1,   ,0
 2015-10-01,Paris,Bracken County,52,0,0,   ,0
 2015-10-01,Shelby Valley,Betsy Layne,56,0,1,   ,0
-2015-10-01,Twin Valley. VA,South Floyd,32,12,0,   ,0
+2015-10-01,Out of State,South Floyd,32,12,0,   ,0
 2015-10-01,Valley,Shawnee,44,6,0,   ,0
 2015-10-01,West Carter,Bath County,36,14,0,   ,0
 2015-10-02,Adair County,Edmonson County,42,6,1,   ,0
@@ -684,7 +684,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-02,Breathitt County,Estill County,48,38,1,   ,0
 2015-10-02,Bullitt East,Bullitt Central,22,8,1,   ,0
 2015-10-02,Butler County,Hancock County,49,14,1,   ,0
-2015-10-02,Cabell Midland. WV,Belfry,49,7,1,   ,0
+2015-10-02,Out of State,Belfry,49,7,1,   ,0
 2015-10-02,Caldwell County,Union County,40,14,0,   ,0
 2015-10-02,Calloway County,Hopkins County Central,47,12,1,   ,0
 2015-10-02,Carroll County,Gallatin County,22,0,1,   ,0
@@ -695,7 +695,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-02,Cooper,Dixie Heights,35,7,1,   ,0
 2015-10-02,Crittenden County,Fulton City,43,12,1,   ,0
 2015-10-02,Danville,Campbellsville,44,6,1,   ,0
-2015-10-02,Dawson Bryant (Coal Grove). OH,Fairview,46,36,1,   ,0
+2015-10-02,Out of State,Fairview,46,36,1,   ,0
 2015-10-02,DeSales,North Hardin,41,7,0,   ,0
 2015-10-02,Elizabethtown,Hart County,49,7,1,   ,0
 2015-10-02,Fleming County,Russell,18,7,0,   ,0
@@ -704,7 +704,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-02,Graves County,Marshall County,47,23,0,   ,0
 2015-10-02,Greenup County,Rowan County,20,6,0,   ,0
 2015-10-02,Greenwood,Barren County,55,13,0,   ,0
-2015-10-02,Harlan,Rye Cove. VA,44,0,1,   ,0
+2015-10-02,Harlan,Out of State,44,0,1,   ,0
 2015-10-02,Harlan County,Letcher County Central,45,35,1,   ,0
 2015-10-02,Henderson County,Muhlenberg County,35,12,0,   ,0
 2015-10-02,Henry County,Thomas Nelson,42,0,1,   ,0
@@ -757,7 +757,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-09,Bath County,Lewis County,49,20,0,   ,0
 2015-10-09,Beechwood,Bellevue,49,0,0,   ,0
 2015-10-09,Belfry,Lawrence County,27,23,1,   ,0
-2015-10-09,Bell County,Campbell County. TN,41,31,0,   ,0
+2015-10-09,Bell County,Out of State,41,31,0,   ,0
 2015-10-09,Bethlehem,Caverna,41,6,1,   ,0
 2015-10-09,Bishop Brossart,Bracken County,36,0,0,   ,0
 2015-10-09,Bourbon County,Holmes,41,14,1,   ,0
@@ -778,7 +778,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-09,Fern Creek,Doss,37,8,1,   ,0
 2015-10-09,Fort Knox,McCreary Central,74,44,1,   ,0
 2015-10-09,Frankfort,Eminence,48,0,0,   ,0
-2015-10-09,Halls. TN,Fulton City,34,8,1,   ,0
+2015-10-09,Out of State,Fulton City,34,8,1,   ,0
 2015-10-09,Harlan,Williamsburg,28,19,1,   ,0
 2015-10-09,Harrison County,Mason County,29,7,1,   ,0
 2015-10-09,Highlands,Dixie Heights,42,7,1,   ,0
@@ -796,7 +796,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-09,Madison Southern,Montgomery County,33,13,0,   ,0
 2015-10-09,Madisonville-North Hopkins,Hopkins County Central,49,0,1,   ,0
 2015-10-09,McCracken County,Henderson County,40,17,1,   ,0
-2015-10-09,McLean County,Todd County Central,27,21,0,  (double overtime) ,0
+2015-10-09,McLean County,Todd County Central,27,21,0,  (double overtime) ,1
 2015-10-09,Mercer County,West Jessamine,44,11,0,   ,0
 2015-10-09,Newport Central Catholic,Holy Cross (Covington),20,13,0,   ,0
 2015-10-09,North Bullitt,Nelson County,48,25,0,   ,0
@@ -811,9 +811,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-09,Pleasure Ridge Park,Butler,35,18,0,   ,0
 2015-10-09,Powell County,Breathitt County,34,12,1,   ,0
 2015-10-09,Pulaski County,Lincoln County,56,6,0,   ,0
-2015-10-09,Red Boiling Springs. TN,Clinton County,34,20,0,   ,0
+2015-10-09,Out of State,Clinton County,34,20,0,   ,0
 2015-10-09,Rockcastle County,Russell County,36,7,1,   ,0
-2015-10-09,Ross. OH,Casey County,15,8,0,   ,0
+2015-10-09,Out of State,Casey County,15,8,0,   ,0
 2015-10-09,Rowan County,Boyd County,34,16,0,   ,0
 2015-10-09,Russell,Pendleton County,53,0,0,   ,0
 2015-10-09,Scott County,Henry Clay,63,35,0,   ,0
@@ -980,7 +980,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-23,Franklin-Simpson,Warren East,49,12,1,   ,0
 2015-10-23,Glasgow,Metcalfe County,28,6,1,   ,0
 2015-10-23,Greenup County,Boyd County,35,12,1,   ,0
-2015-10-23,Halls. TN,Fulton County,43,0,0,   ,0
+2015-10-23,Out of State,Fulton County,43,0,0,   ,0
 2015-10-23,Harlan County,Perry County Central,46,0,1,   ,0
 2015-10-23,Harrison County,Bourbon County,43,36,0,   ,0
 2015-10-23,Henry Clay,Bryan Station,42,28,0,   ,0
@@ -997,18 +997,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-23,Lincoln County,South Laurel,31,14,0,   ,0
 2015-10-23,Lloyd Memorial,Holy Cross (Covington),42,36,1,   ,0
 2015-10-23,Ludlow,Bellevue,34,14,1,   ,0
-2015-10-23,Macon County. TN,Meade County,42,20,0,   ,0
+2015-10-23,Out of State,Meade County,42,20,0,   ,0
 2015-10-23,Madison Central,George Rogers Clark,38,7,0,   ,0
 2015-10-23,Madison Southern,Anderson County,43,28,1,   ,0
 2015-10-23,Male,DuPont Manual,43,7,0,   ,0
-2015-10-23,Mason County,West Union. OH,51,0,1,   ,0
+2015-10-23,Mason County,Out of State,51,0,1,   ,0
 2015-10-23,Mayfield,Webster County,64,0,0,   ,0
 2015-10-23,McCracken County,Muhlenberg County,57,26,0,   ,0
 2015-10-23,McLean County,Hancock County,26,3,0,   ,0
 2015-10-23,Monroe County,Green County,27,22,1,   ,0
 2015-10-23,Montgomery County,Woodford County,30,14,1,   ,0
 2015-10-23,Murray,Ballard Memorial,59,7,0,   ,0
-2015-10-23,New Richmond. OH,Walton-Verona,28,21,0,   ,0
+2015-10-23,Out of State,Walton-Verona,28,21,0,   ,0
 2015-10-23,Newport Central Catholic,Newport,48,8,0,   ,0
 2015-10-23,Nicholas County,Bracken County,47,14,1,  (corrected score) ,0
 2015-10-23,Owen County,Gallatin County,8,6,0,   ,0
@@ -1034,7 +1034,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-23,South Warren,Warren Central,38,6,1,   ,0
 2015-10-23,St. Xavier,Butler,51,13,1,   ,0
 2015-10-23,Taylor County,Marion County,45,0,1,   ,0
-2015-10-23,Thomas Walker. VA,McCreary Central,38,18,0,   ,0
+2015-10-23,Out of State,McCreary Central,38,18,0,   ,0
 2015-10-23,Trinity (Louisville),Ballard,63,0,0,   ,0
 2015-10-23,Union County,Trigg County,62,27,1,   ,0
 2015-10-23,Valley,Breckinridge County,50,28,0,   ,0
@@ -1044,7 +1044,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-23,Williamsburg,Lynn Camp,53,8,1,   ,0
 2015-10-24,Cooper,Conner,15,13,0,   ,0
 2015-10-30,Adair County,Casey County,54,6,1,   ,0
-2015-10-30,Allen Central,Knott County Central,56,54,0,  (double overtime) ,0
+2015-10-30,Allen Central,Knott County Central,56,54,0,  (double overtime) ,1
 2015-10-30,Allen County-Scottsville,Bardstown,26,15,0,   ,0
 2015-10-30,Anderson County,Collins,36,7,1,   ,0
 2015-10-30,Ballard,Doss,48,12,1,   ,0
@@ -1055,14 +1055,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-30,Bell County,Harlan County,46,20,1,   ,0
 2015-10-30,Bishop Brossart,Pendleton County,39,12,0,   ,0
 2015-10-30,Bowling Green,McCracken County,38,14,1,   ,0
-2015-10-30,Boyd County,Tolsia. WV,34,32,1,   ,0
+2015-10-30,Boyd County,Out of State,34,32,1,   ,0
 2015-10-30,Boyle County,Paul Laurence Dunbar,21,14,1,   ,0
 2015-10-30,Butler County,Ohio County,31,27,1,   ,0
 2015-10-30,Carroll County,Dayton,41,0,1,   ,0
 2015-10-30,Central,Pleasure Ridge Park,45,19,1,   ,0
 2015-10-30,Central Hardin,Woodford County,43,7,1,   ,0
 2015-10-30,Christian Academy-Louisville,Franklin County,27,0,1,   ,0
-2015-10-30,Cincinnati St. Xavier. OH,St. Xavier,20,10,0,   ,0
+2015-10-30,Out of State,St. Xavier,20,10,0,   ,0
 2015-10-30,Conner,Mason County,49,12,1,   ,0
 2015-10-30,Danville,Frankfort,56,6,1,   ,0
 2015-10-30,Daviess County,Apollo,40,28,1,   ,0
@@ -1077,7 +1077,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-30,Fort Knox,Shawnee,34,32,1,   ,0
 2015-10-30,Franklin-Simpson,Russellville,34,12,1,   ,0
 2015-10-30,Fulton City,Fulton County,22,20,1,   ,0
-2015-10-30,Gallatin County,Middletown Christian. OH,7,6,1,   ,0
+2015-10-30,Gallatin County,Out of State,7,6,1,   ,0
 2015-10-30,Garrard County,West Jessamine,56,22,1,   ,0
 2015-10-30,Grant County,Western Hills,13,7,1,   ,0
 2015-10-30,Graves County,Calloway County,51,12,1,   ,0
@@ -1092,7 +1092,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-30,Holmes,Newport,36,0,0,   ,0
 2015-10-30,Holy Cross (Covington),Bellevue,46,13,0,   ,0
 2015-10-30,Hopkinsville,Marshall County,62,17,1,   ,0
-2015-10-30,Hurley. VA,Phelps,62,14,1,   ,0
+2015-10-30,Out of State,Phelps,62,14,1,   ,0
 2015-10-30,Iroquois,Seneca,43,14,1,   ,0
 2015-10-30,Jackson County,Clinton County,42,22,0,   ,0
 2015-10-30,John Hardin,Christian County,38,26,1,   ,0
@@ -1131,13 +1131,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-10-30,Simon Kenton,Scott,44,13,0,   ,0
 2015-10-30,Somerset,Perry County Central,42,13,0,   ,0
 2015-10-30,South Laurel,Clay County,43,7,0,   ,0
-2015-10-30,South Warren,Pope John Paul II. TN,36,14,1,   ,0
+2015-10-30,South Warren,Out of State,36,14,1,   ,0
 2015-10-30,Spencer County,Henry County,41,6,1,   ,0
 2015-10-30,Tates Creek,Ashland Blazer,41,22,1,   ,0
 2015-10-30,Taylor County,Thomas Nelson,55,20,0,   ,0
 2015-10-30,Todd County Central,Logan County,35,18,0,   ,0
 2015-10-30,Union County,Hopkins County Central,28,0,0,   ,0
-2015-10-30,Union. VA,Letcher County Central,58,25,0,   ,0
+2015-10-30,Out of State,Letcher County Central,58,25,0,   ,0
 2015-10-30,Waggener,Valley,27,24,0,   ,0
 2015-10-30,Washington County,Marion County,46,33,1,   ,0
 2015-10-30,Wayne County,Monroe County,35,21,1,   ,0
@@ -1173,7 +1173,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-11-06,Monroe County,Shawnee,57,0,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Murray,McLean County,59,7,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Newport Central Catholic,Gallatin County,38,7,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2015-11-06,Owensboro Catholic,Webster County,63,14,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Steele Stadium,0
+2015-11-06,Owensboro Catholic,Webster County,63,14, KWC ,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl Steele Stadium,0
 2015-11-06,Shelby Valley,Middlesboro,56,13,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Walton-Verona,Newport,45,6,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2015-11-06,Adair County,Union County,62,23,2,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0

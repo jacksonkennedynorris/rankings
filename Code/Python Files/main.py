@@ -4,10 +4,10 @@ from create_game_infos import *
 from write_HTML import write_HTML 
 from create_team_tags import * 
 from find_team_data import * 
-
+from check_all_teams import *
 def main(): 
         #**** Choose year   ******
-    for year in range(1998,2021):
+    for year in range(1999,2021):
 
         #**** Choose Sport  ******
         league = "Football"  
@@ -16,21 +16,19 @@ def main():
 
         #**** Create Instance *****
         season = Season(league,year)
+
         #Check if year path exists 
         if not os.path.exists(season.get_year_path()):
             os.makedirs(season.get_year_path())
             
         #**** Write HTML to File
-        write_HTML(season)
+        #write_HTML(season)
 
         #**** Create Game Infos
         create_game_infos(season)
 
-        #**** Create Team Tags 
-        #create_team_tags(season)
+        #check_all_teams(season) 
 
-        #**** Find Team Data
-        #find_team_data(season)
         print("Year: ", year)
 
 main() 

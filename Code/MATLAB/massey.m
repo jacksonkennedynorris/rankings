@@ -6,18 +6,15 @@ function Massey = massey(Games,Teams,HFA)
 
 nGames = length(Games);
 nTeams = length(Teams);
+
 M = zeros(nGames,nTeams); %Initialize M with zeros
 pd = zeros(nGames,1);  
 
 for game = 1:length(Games)
-    winner = Games(game).win_team;
-    loser = Games(game).lose_team;
-    if winner == "Out_State" || loser == "Out_State"
-       continue
-    end
 
-    i = find([Teams.name]' == winner);
-    j = find([Teams.name]' == loser);
+    i = Games(game).win_id;
+    j = Games(game).lose_id;
+
     if Games(game).overtime 
        point_differential = 1/2; 
     else
@@ -41,7 +38,6 @@ for game = 1:length(Games)
         pd(game) = point_differential;
     end
 end
-
 % Calculate Massey ratings
 M = [M; ones(1,nTeams)];
 pd = [pd; 0];

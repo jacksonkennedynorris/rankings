@@ -3,7 +3,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-20,Allen Central,Betsy Layne,36,14,0,   ,0
 2004-08-20,Ashland Blazer,Fairview,40,6,1,   ,0
 2004-08-20,Ballard,North Hardin,39,17,1,   ,0
-2004-08-20,Bell County,Clinton. TN,35,0,2,   ,0
+2004-08-20,Bell County,Out of State,35,0,2,   ,0
 2004-08-20,Bellevue,Nicholas County,45,7,1,   ,0
 2004-08-20,Breathitt County,Bardstown,50,0,0,   ,0
 2004-08-20,Bullitt Central,Breckinridge County,33,0,0,   ,0
@@ -22,7 +22,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-20,Eminence,Evangel Christian,34,8,0,   ,0
 2004-08-20,Frankfort,Marion County,28,0,1,   ,0
 2004-08-20,Grant County,Madison Southern,22,0,0,   ,0
-2004-08-20,Greenbrier. TN,Fort Campbell,13,7,1,   ,0
+2004-08-20,Out of State,Fort Campbell,13,7,1,   ,0
 2004-08-20,Greenup County,East Carter,20,12,0,   ,0
 2004-08-20,Greenwood,Franklin-Simpson,23,8,0,   ,0
 2004-08-20,Harlan,Cawood,35,6,0,   ,0
@@ -42,7 +42,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-20,Muhlenberg South,Muhlenberg North,40,6,0,   ,0
 2004-08-20,Murray,Lone Oak,38,3,2,   ,0
 2004-08-20,Nelson County,Bullitt East,26,6,1,   ,0
-2004-08-20,Newburg Castle. IN,Henderson County,14,7,1,   ,0
+2004-08-20,Out of State,Henderson County,14,7,1,   ,0
 2004-08-20,Newport,Christian Academy-Louisville,20,18,0,   ,0
 2004-08-20,North Laurel,Leslie County,21,20,1,  1 OT ,0
 2004-08-20,Ohio County,Hancock County,28,19,0,   ,0
@@ -53,7 +53,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-20,Pulaski County,Wayne County,28,7,0,   ,0
 2004-08-20,Shawnee,Atherton,38,6,0,   ,0
 2004-08-20,Sheldon Clark,Bourbon County,34,6,1,   ,0
-2004-08-20,South Fulton. TN,Fulton County,33,6,0,   ,0
+2004-08-20,Out of State,Fulton County,33,6,0,   ,0
 2004-08-20,South Laurel,Hazard,50,0,2,   ,0
 2004-08-20,Tates Creek,George Rogers Clark,21,14,1,   ,0
 2004-08-20,Todd County Central,McLean County,59,8,1,   ,0
@@ -63,8 +63,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-20,Washington County,Taylor County,13,6,0,   ,0
 2004-08-20,West Carter,Bath County,42,15,1,   ,0
 2004-08-20,West Jessamine,Ryle,16,13,1,   ,0
-2004-08-20,Westmoreland. TN,Allen County-Scottsville,22,6,0,   ,0
-2004-08-20,Whitley County,Perry County Central,41,35,1,  (double overtime) ,0
+2004-08-20,Out of State,Allen County-Scottsville,22,6,0,   ,0
+2004-08-20,Whitley County,Perry County Central,41,35,1,  (double overtime) ,1
 2004-08-20,Williamsburg,Owen County,55,31,0,   ,0
 2004-08-20,Woodford County,Anderson County,33,15,0,   ,0
 2004-08-21,Barren County,Green County,19,2,1,   ,0
@@ -76,7 +76,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-21,Conner,North Oldham,42,0,2,   ,0
 2004-08-21,Corbin,Rockcastle County,42,22,1,   ,0
 2004-08-21,DuPont Manual,Paul Laurence Dunbar,41,21,2,   ,0
-2004-08-21,Dyersburg. TN,Calloway County,29,13,2,   ,0
+2004-08-21,Out of State,Calloway County,29,13,2,   ,0
 2004-08-21,Eastern,Lafayette,14,12,2,   ,0
 2004-08-21,Elizabethtown,Mason County,35,21,2,   ,0
 2004-08-21,Garrard County,Danville,1,0,0,  (forfeit) ,0
@@ -97,16 +97,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-21,South Oldham,North Bullitt,21,0,1,   ,0
 2004-08-21,Southwestern,Warren Central,21,14,2,   ,0
 2004-08-21,St. Xavier,Scott County,33,7,0,   ,0
-2004-08-21,Trinity (Louisville),Montgomery Bell Academy. TN,35,7,1,   ,0
-2004-08-26,Boone County,Roger Bacon. OH,26,18,2,   ,0
-2004-08-26,Cincinnati LaSalle. OH,Covington Catholic,27,17,2,   ,0
+2004-08-21,Trinity (Louisville),Out of State,35,7,1,   ,0
+2004-08-26,Boone County,Out of State,26,18,2,   ,0
+2004-08-26,Out of State,Covington Catholic,27,17,2,   ,0
 2004-08-27,Adair County,Edmonson County,36,25,1,   ,0
 2004-08-27,Apollo,Meade County,16,13,1,   ,0
 2004-08-27,Ballard,Paducah Tilghman,33,19,0,   ,0
 2004-08-27,Bardstown,Washington County,31,7,0,   ,0
 2004-08-27,Bell County,Middlesboro,56,6,1,   ,0
 2004-08-27,Bellevue,Dayton,14,7,0,   ,0
-2004-08-27,Beth Haven,Grace Christian. TN,26,13,1,   ,0
+2004-08-27,Beth Haven,Out of State,26,13,1,   ,0
 2004-08-27,Betsy Layne,Jenkins,52,0,1,   ,0
 2004-08-27,Boyle County,Henry Clay,45,21,2,   ,0
 2004-08-27,Breathitt County,Ryle,21,6,1,   ,0
@@ -137,8 +137,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-27,Harrison County,Garrard County,38,8,0,   ,0
 2004-08-27,Harrodsburg,Casey County,24,12,0,   ,0
 2004-08-27,Hart County,Green County,35,14,0,   ,0
-2004-08-27,Heath,Massac County. IL,23,16,1,   ,0
-2004-08-27,Henderson County,Evansville North. IN,40,26,1,   ,0
+2004-08-27,Heath,Out of State,23,16,1,   ,0
+2004-08-27,Henderson County,Out of State,40,26,1,   ,0
 2004-08-27,Henry County,Trimble County,48,0,0,   ,0
 2004-08-27,Holmes,Holy Cross (Covington),21,6,0,   ,0
 2004-08-27,Holy Cross (Louisville),DeSales,49,0,1,   ,0
@@ -151,9 +151,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-27,Lincoln County,Danville,1,0,0,  (forfeit) ,0
 2004-08-27,Lloyd Memorial,Scott,42,14,0,   ,0
 2004-08-27,Logan County,Russellville,33,20,1,   ,0
-2004-08-27,Ludlow,Paint Valley. OH,21,13,1,   ,0
+2004-08-27,Ludlow,Out of State,21,13,1,   ,0
 2004-08-27,Madison Southern,Anderson County,35,18,1,   ,0
-2004-08-27,Madisonville-North Hopkins,Marion. IL,34,13,1,   ,0
+2004-08-27,Madisonville-North Hopkins,Out of State,34,13,1,   ,0
 2004-08-27,Mason County,Montgomery County,37,33,1,   ,0
 2004-08-27,Mayfield,Marshall County,16,14,1,   ,0
 2004-08-27,Metcalfe County,Taylor County,20,8,0,   ,0
@@ -163,7 +163,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-27,Nelson County,Butler,21,7,0,   ,0
 2004-08-27,Newport Central Catholic,Newport,55,13,0,   ,0
 2004-08-27,North Hardin,Tates Creek,25,16,1,   ,0
-2004-08-27,Onieda. TN,McCreary Central,34,20,0,   ,0
+2004-08-27,Out of State,McCreary Central,34,20,0,   ,0
 2004-08-27,Owen County,Spencer County,43,14,1,   ,0
 2004-08-27,Owensboro Catholic,Owensboro,28,6,1,   ,0
 2004-08-27,Paintsville,Allen Central,74,20,1,   ,0
@@ -180,32 +180,32 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-08-27,Shawnee,Jeffersontown,22,12,1,   ,0
 2004-08-27,Shelby County,Central,24,21,1,   ,0
 2004-08-27,Shelby Valley,Pineville,23,7,2,   ,0
-2004-08-27,South Fulton. TN,Ballard Memorial,42,0,1,   ,0
+2004-08-27,Out of State,Ballard Memorial,42,0,1,   ,0
 2004-08-27,Southwestern,Russell County,47,6,2,   ,0
-2004-08-27,Spring Valley. WV,Boyd County,42,29,0,   ,0
+2004-08-27,Out of State,Boyd County,42,29,0,   ,0
 2004-08-27,St. Xavier,Lexington Catholic,44,7,1,   ,0
 2004-08-27,Todd County Central,Caverna,14,6,0,   ,0
 2004-08-27,Trigg County,Graves County,36,32,1,   ,0
-2004-08-27,Trousdale County. TN,Monroe County,52,6,0,   ,0
+2004-08-27,Out of State,Monroe County,52,6,0,   ,0
 2004-08-27,Union County,Webster County,50,27,1,   ,0
 2004-08-27,Valley,Atherton,41,14,0,   ,0
-2004-08-27,Waggener,Providence. IN,20,7,1,   ,0
+2004-08-27,Waggener,Out of State,20,7,1,   ,0
 2004-08-27,Warren Central,Warren East,48,8,0,   ,0
 2004-08-27,Wayne County,Mercer County,32,13,0,   ,0
-2004-08-27,Wayne. WV,Lawrence County,50,28,0,   ,0
+2004-08-27,Out of State,Lawrence County,50,28,0,   ,0
 2004-08-27,West Carter,Nicholas County,15,0,0,   ,0
 2004-08-27,Western,North Oldham,69,6,1,   ,0
 2004-08-27,Whitley County,Knox Central,34,6,0,   ,0
-2004-08-27,Williamsburg,Jellico. TN,60,0,1,   ,0
+2004-08-27,Williamsburg,Out of State,60,0,1,   ,0
 2004-08-28,Ashland Blazer,South Oldham,14,0,1,   ,0
-2004-08-28,Beechwood,Cincinnati Christian. OH,51,10,1,   ,0
+2004-08-28,Beechwood,Out of State,51,10,1,   ,0
 2004-08-28,Bowling Green,Calloway County,55,0,2,   ,0
 2004-08-28,Campbell County,Highlands,1,0,2,  (forfeit) ,0
-2004-08-28,Conner,Cincinnati Harmony. OH,42,0,2,   ,0
+2004-08-28,Conner,Out of State,42,0,2,   ,0
 2004-08-28,Evarts,Letcher,53,8,0,   ,0
 2004-08-28,Franklin-Simpson,Oldham County,35,17,1,   ,0
-2004-08-28,Grundy. VA,Sheldon Clark,49,7,2,   ,0
-2004-08-28,Haysi. VA,East Ridge,42,0,0,   ,0
+2004-08-28,Out of State,Sheldon Clark,49,7,2,   ,0
+2004-08-28,Out of State,East Ridge,42,0,0,   ,0
 2004-08-28,Leslie County,Hazard,47,19,0,   ,0
 2004-08-28,Lynn Camp,Knott County Central,28,6,2,   ,0
 2004-08-28,Perry County Central,Berea,45,6,0,   ,0
@@ -218,7 +218,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-03,Bowling Green,Warren Central,42,7,0,   ,0
 2004-09-03,Boyle County,Danville,37,30,1,   ,0
 2004-09-03,Breathitt County,Pike County Central,62,0,1,   ,0
-2004-09-03,Briarcrest Christian. TN,Calloway County,49,0,1,   ,0
+2004-09-03,Out of State,Calloway County,49,0,1,   ,0
 2004-09-03,Bryan Station,Bourbon County,40,0,0,   ,0
 2004-09-03,Bullitt Central,Valley,20,7,0,   ,0
 2004-09-03,Bullitt East,John Hardin,14,7,1,   ,0
@@ -235,7 +235,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-03,Edmonson County,Grayson County,27,14,1,   ,0
 2004-09-03,Elizabethtown,Fort Knox,13,12,0,   ,0
 2004-09-03,Estill County,Nicholas County,59,13,0,   ,0
-2004-09-03,Fairview,Dawson-Bryant (Coal Grove). OH,20,14,1,   ,0
+2004-09-03,Fairview,Out of State,20,14,1,   ,0
 2004-09-03,Fern Creek,Shawnee,46,20,1,   ,0
 2004-09-03,Fleming County,Mason County,36,14,1,   ,0
 2004-09-03,Fort Campbell,Madisonville-North Hopkins,41,12,1,   ,0
@@ -244,9 +244,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-03,Garrard County,Lincoln County,20,15,1,   ,0
 2004-09-03,Glasgow,Allen County-Scottsville,48,7,1,   ,0
 2004-09-03,Grant County,Bellevue,21,6,1,   ,0
-2004-09-03,Greenfield. TN,Fulton City,27,13,1,   ,0
+2004-09-03,Out of State,Fulton City,27,13,1,   ,0
 2004-09-03,Greenwood,Warren East,41,26,1,   ,0
-2004-09-03,Grundy. VA,Shelby Valley,62,6,1,   ,0
+2004-09-03,Out of State,Shelby Valley,62,6,1,   ,0
 2004-09-03,Hancock County,Webster County,56,20,0,   ,0
 2004-09-03,Harlan,Evarts,28,0,0,   ,0
 2004-09-03,Harrison County,Montgomery County,52,7,0,   ,0
@@ -263,7 +263,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-03,Lafayette,Boyd County,22,8,1,   ,0
 2004-09-03,Leslie County,Sheldon Clark,14,6,2,   ,0
 2004-09-03,Logan County,Muhlenberg South,32,21,0,   ,0
-2004-09-03,Lone Oak,Benton. IL,26,21,1,   ,0
+2004-09-03,Lone Oak,Out of State,26,21,1,   ,0
 2004-09-03,Ludlow,Eminence,37,8,0,   ,0
 2004-09-03,Madison Central,Tates Creek,28,7,0,   ,0
 2004-09-03,Magoffin County,Allen Central,54,32,0,   ,0
@@ -282,7 +282,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-03,Paintsville,Jenkins,64,16,1,   ,0
 2004-09-03,Paris,Pendleton County,15,7,0,   ,0
 2004-09-03,Phelps,Betsy Layne,22,0,1,   ,0
-2004-09-03,Pleasure Ridge Park,Seneca,47,41,1,  (triple overtime) ,0
+2004-09-03,Pleasure Ridge Park,Seneca,47,41,1,  (triple overtime) ,1
 2004-09-03,Prestonsburg,Bell County,27,24,1,   ,0
 2004-09-03,Pulaski County,Casey County,56,20,1,   ,0
 2004-09-03,Raceland,Lewis County,40,39,1,   ,0
@@ -304,13 +304,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-03,Wayne County,Monroe County,42,14,1,   ,0
 2004-09-03,West Carter,Bracken County,53,8,1,   ,0
 2004-09-03,Western,Trimble County,84,0,1,   ,0
-2004-09-03,Whitesburg,Twin Valley. VA,62,12,2,   ,0
+2004-09-03,Whitesburg,Out of State,62,12,2,   ,0
 2004-09-03,Williamsburg,McCreary Central,55,0,0,   ,0
 2004-09-04,Dixie Heights,Covington Catholic,14,6,0,   ,0
 2004-09-04,North Oldham,Bethlehem,34,14,0,   ,0
 2004-09-04,Simon Kenton,Holy Cross (Covington),34,21,0,   ,0
-2004-09-05,Archbishop Moeller. OH,St. Xavier,43,21,2,   ,0
-2004-09-05,Cincinnati Elder. OH,Highlands,25,15,2,  (forfeit) ,0
+2004-09-05,Out of State,St. Xavier,43,21,2,   ,0
+2004-09-05,Out of State,Highlands,25,15,2,  (forfeit) ,0
 2004-09-10,Adair County,Metcalfe County,40,8,0,   ,0
 2004-09-10,Allen Central,Jenkins,50,22,0,   ,0
 2004-09-10,Allen County-Scottsville,Warren East,7,6,1,   ,0
@@ -324,12 +324,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-10,Bowling Green,Greenwood,31,24,1,   ,0
 2004-09-10,Boyle County,Nelson County,41,6,0,   ,0
 2004-09-10,Bracken County,Bath County,20,16,1,   ,0
-2004-09-10,Breathitt County,Powell Valley. VA,27,14,0,   ,0
+2004-09-10,Breathitt County,Out of State,27,14,0,   ,0
 2004-09-10,Butler,Eastern,31,13,0,   ,0
 2004-09-10,Butler County,Todd County Central,39,8,0,   ,0
 2004-09-10,Calloway County,Marshall County,17,7,0,   ,0
 2004-09-10,Carroll County,North Oldham,14,7,0,   ,0
-2004-09-10,Caverna,Clarksville Academy. TN,35,0,0,   ,0
+2004-09-10,Caverna,Out of State,35,0,0,   ,0
 2004-09-10,Cawood,Evarts,31,20,0,   ,0
 2004-09-10,Central,Shawnee,50,0,0,   ,0
 2004-09-10,Christian County,Hopkins County Central,48,14,0,   ,0
@@ -338,11 +338,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-10,Cumberland,Letcher,48,0,1,   ,0
 2004-09-10,Danville,Somerset,56,7,1,   ,0
 2004-09-10,Dayton,Owen County,28,15,1,   ,0
-2004-09-10,DeSales,Providence. IN,24,21,0,   ,0
+2004-09-10,DeSales,Out of State,24,21,0,   ,0
 2004-09-10,Dixie Heights,Lloyd Memorial,51,7,0,   ,0
 2004-09-10,DuPont Manual,Warren Central,26,14,1,   ,0
 2004-09-10,East Carter,Rowan County,34,0,0,   ,0
-2004-09-10,Fairland. OH,Sheldon Clark,47,44,1,   ,0
+2004-09-10,Out of State,Sheldon Clark,47,44,1,   ,0
 2004-09-10,Fairview,Lewis County,30,12,0,   ,0
 2004-09-10,Fern Creek,Moore,75,12,1,   ,0
 2004-09-10,Fleming County,Nicholas County,55,14,1,   ,0
@@ -366,7 +366,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-10,Kentucky Country Day,Bethlehem,47,33,1,   ,0
 2004-09-10,LaRue County,Grayson County,7,0,0,   ,0
 2004-09-10,Lafayette,Western,21,6,1,   ,0
-2004-09-10,Lake County. TN,Fulton County,51,0,0,   ,0
+2004-09-10,Out of State,Fulton County,51,0,0,   ,0
 2004-09-10,Leslie County,Perry County Central,20,14,1,  (overtime) ,1
 2004-09-10,Lexington Catholic,Scott County,33,28,1,   ,0
 2004-09-10,Lone Oak,Caldwell County,28,21,0,   ,0
@@ -377,10 +377,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-10,McCreary Central,Berea,14,12,0,  (overtime) ,1
 2004-09-10,Meade County,Seneca,35,0,0,   ,0
 2004-09-10,Mercer County,Anderson County,31,6,0,   ,0
-2004-09-10,Middlesboro,Lee County-Jonesville. VA,35,12,1,   ,0
+2004-09-10,Middlesboro,Out of State,35,12,1,   ,0
 2004-09-10,Muhlenberg North,McLean County,18,8,1,   ,0
 2004-09-10,Muhlenberg South,Webster County,12,6,0,   ,0
-2004-09-10,Murray,Massac County. IL,48,28,2,   ,0
+2004-09-10,Murray,Out of State,48,28,2,   ,0
 2004-09-10,Newport,Bellevue,26,13,0,   ,0
 2004-09-10,Newport Central Catholic,Campbell County,19,0,1,   ,0
 2004-09-10,North Bullitt,Bullitt Central,33,21,1,   ,0
@@ -398,12 +398,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-10,Russell,Boyd County,23,8,1,   ,0
 2004-09-10,Russell County,Taylor County,54,32,0,   ,0
 2004-09-10,Scott,Grant County,29,7,1,   ,0
-2004-09-10,South Floyd,Phelps,46,40,0,  (double overtime) ,0
-2004-09-10,South Fulton. TN,Fulton City,12,6,0,   ,0
+2004-09-10,South Floyd,Phelps,46,40,0,  (double overtime) ,1
+2004-09-10,Out of State,Fulton City,12,6,0,   ,0
 2004-09-10,South Laurel,Wayne County,38,14,1,   ,0
 2004-09-10,South Oldham,Shelby County,22,12,0,   ,0
 2004-09-10,Trigg County,Reidland,56,0,1,   ,0
-2004-09-10,Trinity (Louisville),Chaminade Julienne. OH,43,29,1,   ,0
+2004-09-10,Trinity (Louisville),Out of State,43,29,1,   ,0
 2004-09-10,Union County,Crittenden County,52,49,0,   ,0
 2004-09-10,Washington County,Marion County,25,19,0,  (overtime) ,1
 2004-09-10,West Jessamine,Woodford County,14,0,0,   ,0
@@ -416,11 +416,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-16,Campbellsville,Green County,27,0,0,   ,0
 2004-09-16,Evarts,Pineville,26,0,0,   ,0
 2004-09-16,Fairview,Bath County,58,14,1,   ,0
-2004-09-16,Greenup County,South Point. OH,51,6,1,   ,0
-2004-09-16,Grundy. VA,Paintsville,62,6,1,   ,0
+2004-09-16,Greenup County,Out of State,51,6,1,   ,0
+2004-09-16,Out of State,Paintsville,62,6,1,   ,0
 2004-09-16,Harrison County,Anderson County,48,7,1,   ,0
-2004-09-16,Hurley. VA,East Ridge,24,18,1,   ,0
-2004-09-16,Ironton. OH,Boyd County,56,7,1,   ,0
+2004-09-16,Out of State,East Ridge,24,18,1,   ,0
+2004-09-16,Out of State,Boyd County,56,7,1,   ,0
 2004-09-16,Lawrence County,Shelby Valley,38,19,1,   ,0
 2004-09-16,Pikeville,South Floyd,40,16,1,   ,0
 2004-09-17,Apollo,John Hardin,28,6,1,   ,0
@@ -463,7 +463,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-17,Knott County Central,Betsy Layne,13,0,1,   ,0
 2004-09-17,LaRue County,Washington County,21,13,0,   ,0
 2004-09-17,Lafayette,Bryan Station,26,0,0,   ,0
-2004-09-17,Lake County. TN,Fulton City,40,18,1,   ,0
+2004-09-17,Out of State,Fulton City,40,18,1,   ,0
 2004-09-17,Lexington Catholic,Franklin County,62,28,0,   ,0
 2004-09-17,Lincoln County,Casey County,20,12,1,   ,0
 2004-09-17,Lloyd Memorial,Mason County,28,0,1,   ,0
@@ -481,7 +481,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-17,Paducah Tilghman,Marshall County,39,10,0,   ,0
 2004-09-17,Paul Laurence Dunbar,Woodford County,43,7,0,   ,0
 2004-09-17,Phelps,Jenkins,26,12,0,   ,0
-2004-09-17,Portageville. MO,Fulton County,41,0,1,   ,0
+2004-09-17,Out of State,Fulton County,41,0,1,   ,0
 2004-09-17,Prestonsburg,Ashland Blazer,27,21,1,   ,0
 2004-09-17,Pulaski County,Leslie County,22,21,1,   ,0
 2004-09-17,Shawnee,Moore,26,0,1,   ,0
@@ -542,7 +542,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-24,Dixie Heights,Scott,48,7,1,   ,0
 2004-09-24,Doss,Valley,34,27,1,   ,0
 2004-09-24,East Jessamine,Western Hills,26,14,0,   ,0
-2004-09-24,East Prairie. MO,Fulton County,62,30,0,   ,0
+2004-09-24,Out of State,Fulton County,62,30,0,   ,0
 2004-09-24,Eastern,Seneca,42,21,0,   ,0
 2004-09-24,Elizabethtown,Moore,56,0,0,   ,0
 2004-09-24,Eminence,Betsy Layne,60,6,1,   ,0
@@ -565,7 +565,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-24,Henry County,Pendleton County,33,14,1,   ,0
 2004-09-24,Holy Cross (Covington),Bellevue,27,14,1,   ,0
 2004-09-24,Hopkinsville,Christian County,36,21,1,   ,0
-2004-09-24,Ironton. OH,Ashland Blazer,34,7,1,   ,0
+2004-09-24,Out of State,Ashland Blazer,34,7,1,   ,0
 2004-09-24,Knox Central,Madison Southern,26,14,1,   ,0
 2004-09-24,LaRue County,Western,14,13,1,   ,0
 2004-09-24,Lafayette,Woodford County,18,7,1,   ,0
@@ -597,9 +597,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-09-24,South Floyd,Fleming-Neon,52,6,0,   ,0
 2004-09-24,South Laurel,Johnson Central,52,35,0,   ,0
 2004-09-24,Southwestern,Rockcastle County,48,0,0,   ,0
-2004-09-24,St. Xavier,Trinity,36,18,2,   ,0
+2004-09-24,St. Xavier,Trinity (Louisville),36,18,2,   ,0
 2004-09-24,Tates Creek,Paul Laurence Dunbar,20,13,2,   ,0
-2004-09-24,Thomas Walker. VA,Pineville,33,12,0,   ,0
+2004-09-24,Out of State,Pineville,33,12,0,   ,0
 2004-09-24,Trigg County,Caldwell County,45,7,0,   ,0
 2004-09-24,Union County,Calloway County,49,14,0,   ,0
 2004-09-24,Waggener,North Bullitt,42,6,0,   ,0
@@ -628,7 +628,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-01,Bardstown,Campbellsville,48,14,0,   ,0
 2004-10-01,Bell County,Madison Southern,48,0,1,   ,0
 2004-10-01,Bethlehem,Christian Academy-Louisville,6,0,0,   ,0
-2004-10-01,Betsy Layne,JJ Kelly. VA,36,28,1,   ,0
+2004-10-01,Betsy Layne,Out of State,36,28,1,   ,0
 2004-10-01,Boone County,Scott,58,14,1,   ,0
 2004-10-01,Bowling Green,Warren East,57,7,1,   ,0
 2004-10-01,Boyd County,Mason County,28,14,1,   ,0
@@ -647,7 +647,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-01,DeSales,Moore,54,14,2,   ,0
 2004-10-01,Dixie Heights,Simon Kenton,42,0,1,   ,0
 2004-10-01,Elizabethtown,Shawnee,56,12,1,   ,0
-2004-10-01,Eminence,Franklin Classical. TN,46,0,1,   ,0
+2004-10-01,Eminence,Out of State,46,0,1,   ,0
 2004-10-01,Fairview,Nicholas County,48,7,0,   ,0
 2004-10-01,Fleming County,Estill County,42,20,1,   ,0
 2004-10-01,Fort Campbell,Caldwell County,34,6,1,   ,0
@@ -666,7 +666,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-01,Holy Cross (Covington),Dayton,27,12,0,   ,0
 2004-10-01,Holy Cross (Louisville),Fort Knox,50,15,1,   ,0
 2004-10-01,Hopkinsville,Union County,54,42,0,   ,0
-2004-10-01,Ironton. OH,Lawrence County,41,6,0,   ,0
+2004-10-01,Out of State,Lawrence County,41,6,0,   ,0
 2004-10-01,John Hardin,Meade County,40,29,0,   ,0
 2004-10-01,Kentucky Country Day,Green County,46,20,0,   ,0
 2004-10-01,LaRue County,Allen County-Scottsville,48,20,1,   ,0
@@ -690,7 +690,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-01,Pendleton County,Letcher,97,0,1,   ,0
 2004-10-01,Perry County Central,Knox Central,35,14,1,   ,0
 2004-10-01,Prestonsburg,Magoffin County,61,12,0,   ,0
-2004-10-01,Providence. IN,Evangel Christian,55,20,1,   ,0
+2004-10-01,Out of State,Evangel Christian,55,20,1,   ,0
 2004-10-01,Pulaski County,Taylor County,62,6,1,   ,0
 2004-10-01,Rockcastle County,Clay County,56,28,0,   ,0
 2004-10-01,Russell,West Carter,41,6,1,   ,0
@@ -700,7 +700,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-01,Somerset,Cumberland,42,18,0,   ,0
 2004-10-01,South Floyd,Jenkins,58,18,0,   ,0
 2004-10-01,South Oldham,Highlands,1,0,1,  (forfeit) ,0
-2004-10-01,South Spencer. IN,Owensboro Catholic,28,15,0,   ,0
+2004-10-01,Out of State,Owensboro Catholic,28,15,0,   ,0
 2004-10-01,St. Xavier,Iroquois,62,0,0,   ,0
 2004-10-01,Tates Creek,Lafayette,34,9,1,   ,0
 2004-10-01,Todd County Central,Muhlenberg North,51,7,1,   ,0
@@ -714,9 +714,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-01,Williamsburg,Pineville,54,0,1,   ,0
 2004-10-02,Beechwood,Newport Central Catholic,21,20,0,   ,0
 2004-10-02,Covington Catholic,Oldham County,30,6,1,   ,0
-2004-10-02,Evansville Bosse. IN,Paul Laurence Dunbar,27,17,2,   ,0
+2004-10-02,Out of State,Paul Laurence Dunbar,27,17,2,   ,0
 2004-10-02,Spencer County,Beth Haven,41,26,1,   ,0
-2004-10-07,Big Creek. WV,Fleming-Neon,58,14,1,   ,0
+2004-10-07,Out of State,Fleming-Neon,58,14,1,   ,0
 2004-10-07,Clay County,Perry County Central,46,14,1,   ,0
 2004-10-07,Conner,Dixie Heights,29,28,0,   ,0
 2004-10-07,Pikeville,Jenkins,56,16,0,   ,0
@@ -737,7 +737,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-08,Caldwell County,Reidland,46,0,0,   ,0
 2004-10-08,Campbell County,Scott,14,7,0,   ,0
 2004-10-08,Campbellsville,Bethlehem,42,15,1,   ,0
-2004-10-08,Cawood,Lee County-Jonesville. VA,35,6,2,   ,0
+2004-10-08,Cawood,Out of State,35,6,2,   ,0
 2004-10-08,Central,Doss,19,6,0,   ,0
 2004-10-08,Christian County,Barren County,55,7,0,   ,0
 2004-10-08,Corbin,Casey County,41,19,1,   ,0
@@ -783,7 +783,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-08,Lone Oak,Muhlenberg South,43,7,1,   ,0
 2004-10-08,Madison Southern,Evarts,35,22,1,   ,0
 2004-10-08,Male,Butler,52,14,0,   ,0
-2004-10-08,Martin Westview. TN,Ballard Memorial,61,0,1,   ,0
+2004-10-08,Out of State,Ballard Memorial,61,0,1,   ,0
 2004-10-08,Mercer County,North Oldham,35,0,0,   ,0
 2004-10-08,Morgan County,Estill County,27,8,0,   ,0
 2004-10-08,Murray,Fulton City,41,6,2,   ,0
@@ -796,7 +796,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-08,Paris,Berea,36,0,0,   ,0
 2004-10-08,Phelps,Allen Central,32,28,0,   ,0
 2004-10-08,Pike County Central,East Ridge,28,20,0,   ,0
-2004-10-08,Providence. IN,Moore,62,8,0,   ,0
+2004-10-08,Out of State,Moore,62,8,0,   ,0
 2004-10-08,Raceland,Bath County,39,14,0,   ,0
 2004-10-08,Russell,Lewis County,48,7,0,   ,0
 2004-10-08,Scott County,Woodford County,36,14,1,   ,0
@@ -814,11 +814,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-08,Western,Shawnee,52,16,0,   ,0
 2004-10-08,Whitesburg,Knott County Central,30,7,1,   ,0
 2004-10-08,Williamsburg,Cumberland,57,7,1,   ,0
-2004-10-09,Evansville North. IN,Mayfield,63,10,1,   ,0
+2004-10-09,Out of State,Mayfield,63,10,1,   ,0
 2004-10-09,Holy Cross (Covington),Bracken County,62,6,1,   ,0
-2004-10-09,Newport,Cincinnati Harmony. OH,52,50,1,   ,0
+2004-10-09,Newport,Out of State,52,50,1,   ,0
 2004-10-09,Russellville,Caverna,13,12,1,   ,0
-2004-10-11,Haysi. VA,Jenkins,56,8,1,   ,0
+2004-10-11,Out of State,Jenkins,56,8,1,   ,0
 2004-10-15,Adair County,Breckinridge County,34,0,1,   ,0
 2004-10-15,Ashland Blazer,Lawrence County,34,16,1,   ,0
 2004-10-15,Ballard,Seneca,41,7,1,   ,0
@@ -830,14 +830,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-15,Bellevue,Bracken County,51,8,0,   ,0
 2004-10-15,Bowling Green,Allen County-Scottsville,35,0,0,   ,0
 2004-10-15,Boyle County,Marion County,50,0,0,   ,0
-2004-10-15,Brentwood Academy. TN,Lone Oak,42,6,1,   ,0
+2004-10-15,Out of State,Lone Oak,42,6,1,   ,0
 2004-10-15,Butler,Iroquois,47,0,0,   ,0
 2004-10-15,Caldwell County,Webster County,55,34,1,   ,0
 2004-10-15,Campbell County,Simon Kenton,34,6,0,   ,0
 2004-10-15,Central,Valley,48,0,0,   ,0
 2004-10-15,Christian Academy-Louisville,Fort Knox,21,7,0,   ,0
 2004-10-15,Christian County,Marshall County,59,6,1,   ,0
-2004-10-15,Cincinnati Elder. OH,Covington Catholic,10,9,1,   ,0
+2004-10-15,Out of State,Covington Catholic,10,9,1,   ,0
 2004-10-15,Clay County,Knox Central,38,32,0,   ,0
 2004-10-15,Conner,Ryle,28,7,0,   ,0
 2004-10-15,Corbin,Russell County,41,6,1,   ,0
@@ -848,7 +848,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-15,East Carter,Powell County,35,22,0,   ,0
 2004-10-15,East Jessamine,Anderson County,51,0,0,   ,0
 2004-10-15,Elizabethtown,Western,42,21,0,   ,0
-2004-10-15,Eminence,Ahrenes Academy. TN,52,12,0,   ,0
+2004-10-15,Eminence,Out of State,52,12,0,   ,0
 2004-10-15,Fairdale,Doss,29,26,0,   ,0
 2004-10-15,Fairview,Berea,67,7,0,   ,0
 2004-10-15,Fern Creek,Eastern,22,6,0,   ,0
@@ -897,7 +897,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-15,Paintsville,Hazard,29,22,1,   ,0
 2004-10-15,Phelps,Letcher,56,20,1,   ,0
 2004-10-15,Pikeville,Fleming-Neon,60,8,0,   ,0
-2004-10-15,Portageville. MO,Fulton City,30,28,0,   ,0
+2004-10-15,Out of State,Fulton City,30,28,0,   ,0
 2004-10-15,Prestonsburg,Pike County Central,53,6,1,   ,0
 2004-10-15,Pulaski County,Lincoln County,38,20,1,   ,0
 2004-10-15,Raceland,Nicholas County,32,29,0,   ,0
@@ -924,7 +924,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-16,Bethlehem,Evangel Christian,75,0,1,   ,0
 2004-10-16,Ludlow,Holy Cross (Covington),35,21,0,   ,0
 2004-10-16,Newport Central Catholic,Lloyd Memorial,55,7,1,   ,0
-2004-10-16,Rowan County,Cincinnati Christian. OH,36,12,0,   ,0
+2004-10-16,Rowan County,Out of State,36,12,0,   ,0
 2004-10-16,Spencer County,Beth Haven,43,0,0,   ,0
 2004-10-21,Ballard,Eastern,34,13,0,   ,0
 2004-10-21,Central Hardin,Bullitt Central,19,13,1,   ,0
@@ -980,7 +980,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-22,Henderson County,Owensboro,42,7,1,   ,0
 2004-10-22,Henry Clay,Lafayette,28,13,1,   ,0
 2004-10-22,Hopkinsville,Hopkins County Central,35,18,1,   ,0
-2004-10-22,Ironton. OH,Belfry,31,10,1,   ,0
+2004-10-22,Out of State,Belfry,31,10,1,   ,0
 2004-10-22,Johnson Central,Montgomery County,46,7,0,   ,0
 2004-10-22,Kentucky Country Day,Bardstown,14,13,0,   ,0
 2004-10-22,Lawrence County,Mason County,32,22,0,   ,0
@@ -993,7 +993,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-22,Madison Central,North Laurel,35,6,1,   ,0
 2004-10-22,Madisonville-North Hopkins,Union County,23,0,0,   ,0
 2004-10-22,Magoffin County,East Ridge,44,41,1,   ,0
-2004-10-22,Massac County. IL,Ballard Memorial,62,6,0,   ,0
+2004-10-22,Out of State,Ballard Memorial,62,6,0,   ,0
 2004-10-22,Mayfield,Fulton City,41,8,0,   ,0
 2004-10-22,Mercer County,Lloyd Memorial,21,19,1,   ,0
 2004-10-22,Monroe County,Todd County Central,15,7,1,   ,0
@@ -1008,7 +1008,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-22,Paris,Nicholas County,34,14,1,   ,0
 2004-10-22,Pendleton County,Rowan County,34,20,1,   ,0
 2004-10-22,Phelps,Fleming-Neon,28,0,1,   ,0
-2004-10-22,Pike County Central,Sheldon Clark,22,14,1,  (double overtime) ,0
+2004-10-22,Pike County Central,Sheldon Clark,22,14,1,  (double overtime) ,1
 2004-10-22,Pikeville,Allen Central,67,8,0,   ,0
 2004-10-22,Powell County,Lewis County,33,21,0,   ,0
 2004-10-22,Prestonsburg,Shelby Valley,62,12,0,   ,0
@@ -1079,7 +1079,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-29,Henry County,North Oldham,12,7,1,   ,0
 2004-10-29,Holy Cross (Louisville),Kentucky Country Day,55,0,0,   ,0
 2004-10-29,Iroquois,Atherton,42,30,0,   ,0
-2004-10-29,Jackson Liberty. TN,Murray,40,14,1,   ,0
+2004-10-29,Out of State,Murray,40,14,1,   ,0
 2004-10-29,Jenkins,Fleming-Neon,58,20,0,   ,0
 2004-10-29,John Hardin,Central Hardin,38,2,0,   ,0
 2004-10-29,LaRue County,Shawnee,28,12,1,   ,0
@@ -1088,7 +1088,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-29,Lexington Catholic,Anderson County,51,0,0,   ,0
 2004-10-29,Lloyd Memorial,Newport,42,27,1,   ,0
 2004-10-29,Logan County,Adair County,51,28,0,   ,0
-2004-10-29,Ludlow,Cincinnati Country Day. OH,52,34,1,   ,0
+2004-10-29,Ludlow,Out of State,52,34,1,   ,0
 2004-10-29,Lynn Camp,Pineville,59,12,1,   ,0
 2004-10-29,Madison Central,Johnson Central,49,30,0,   ,0
 2004-10-29,Madisonville-North Hopkins,Calloway County,53,20,1,   ,0
@@ -1097,7 +1097,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-29,Meade County,Bullitt Central,20,15,0,   ,0
 2004-10-29,Metcalfe County,McLean County,20,12,0,   ,0
 2004-10-29,Middlesboro,Leslie County,33,14,1,   ,0
-2004-10-29,Middletown. OH,Mason County,34,0,0,   ,0
+2004-10-29,Out of State,Mason County,34,0,0,   ,0
 2004-10-29,Montgomery County,Pendleton County,39,21,1,   ,0
 2004-10-29,Morgan County,East Carter,27,25,0,   ,0
 2004-10-29,Newport Central Catholic,Bracken County,56,0,1,   ,0
@@ -1134,7 +1134,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-10-29,Western Hills,West Jessamine,28,14,1,   ,0
 2004-10-29,Williamsburg,Harlan,15,8,0,   ,0
 2004-10-30,Bardstown,Bethlehem,41,0,0,   ,0
-2004-10-30,Big Creek. WV,Letcher,45,12,0,   ,0
+2004-10-30,Out of State,Letcher,45,12,0,   ,0
 2004-10-30,Spencer County,Evangel Christian,12,8,0,   ,0
 2004-11-05,Bardstown,Carroll County,42,21,1,  Class A Football State Tournament  ,0
 2004-11-05,Beechwood,Paris,60,12,1,  Class A Football State Tournament  ,0
@@ -1216,7 +1216,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-11-12,Owensboro Catholic,Trigg County,26,14,1,  Class AA Football State Tournament  ,0
 2004-11-12,Prestonsburg,Breathitt County,40,29,0,  Class AA Football State Tournament  ,0
 2004-11-12,Russell,Morgan County,50,19,1,  Class AA Football State Tournament  ,0
-2004-11-12,Ashland Blazer,Rockcastle County,34,27,1,  Class AAA Football State Tournament (double overtime) ,0
+2004-11-12,Ashland Blazer,Rockcastle County,34,27,1,  Class AAA Football State Tournament (double overtime) ,1
 2004-11-12,Bell County,Boyd County,42,6,1,  Class AAA Football State Tournament  ,0
 2004-11-12,Boyle County,Waggener,55,10,1,  Class AAA Football State Tournament  ,0
 2004-11-12,Central,Bullitt East,47,14,1,  Class AAA Football State Tournament  ,0
@@ -1230,7 +1230,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2004-11-12,North Hardin,Male,26,20,1,  Class AAAA Football State Tournament  ,0
 2004-11-12,Scott County,Henry Clay,45,42,2,  Class AAAA Football State Tournament  ,0
 2004-11-12,St. Xavier,Nelson County,59,7,2,  Class AAAA Football State Tournament  ,0
-2004-11-12,Warren Central,Christian County,30,24,0,  Class AAAA Football State Tournament (triple overtime) ,0
+2004-11-12,Warren Central,Christian County,30,24,0,  Class AAAA Football State Tournament (triple overtime) ,1
 2004-11-13,Hopkinsville,Paducah Tilghman,28,7,1,  Class AAA Football State Tournament  ,0
 2004-11-19,Beechwood,Newport Central Catholic,14,9,1,  Class A Football State Tournament  ,0
 2004-11-19,Danville,Holy Cross (Louisville),28,23,1,  Class A Football State Tournament  ,0

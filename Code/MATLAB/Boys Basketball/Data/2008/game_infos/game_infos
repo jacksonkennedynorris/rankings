@@ -8,10 +8,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-11-18,Owsley County,Letcher,104,75,1,   ,0
 1997-11-18,Providence,Lyon County,81,63,0,   ,0
 1997-11-18,Walton-Verona,Villa Madonna,84,56,1,   ,0
-1997-11-18,Cloverport,Trinity,-,-,2,7:00 PM   ,0
+1997-11-18,Cloverport,Trinity (Whitesville),-,-,2,7:00 PM   ,0
 1997-11-18,Lee County,Menifee County,-,-,0,8:30 PM   ,0
 1997-11-19,June Buchanan,Oneida Baptist Institute,57,48,1,   ,0
-1997-11-20,Red Bird,Alumni,75,53,0,   ,0
+1997-11-20,Red Bird,Out of State,75,53,0,   ,0
 1997-11-21,Clinton County,Monticello,83,59,1,   ,0
 1997-11-21,Elliott County,Menifee County,63,53,1,   ,0
 1997-11-21,Lee County,Letcher,80,74,0,   ,0
@@ -20,13 +20,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-11-21,Providence,Dawson Springs,80,69,1,   ,0
 1997-11-21,Red Bird,June Buchanan,65,47,0,   ,0
 1997-11-21,Rose Hill Christian,Augusta,68,67,0,   ,0
-1997-11-21,Trinity (Whitesville),New Harmony. IN,89,53,1,   ,0
+1997-11-21,Trinity (Whitesville),Out of State,89,53,1,   ,0
 1997-11-21,Cloverport,Brown,-,-,2,8:30 PM   ,0
 1997-11-21,Piarist School,Oneida Baptist Institute,-,-,0,7:15 PM   ,0
 1997-11-22,June Buchanan,Riverside Christian,73,43,1,   ,0
 1997-11-22,Red Bird,Oneida Baptist Institute,68,42,0,  ChampionshipThree Rivers Tournament ,0
 1997-11-22,Burgin,Villa Madonna,-,-,0,7:00 PM   ,0
-1997-11-24,Campbell County,Red Bird,84,44,2,  Jellico,0
+1997-11-24,Campbell County,Red Bird,84,44, TN Invitational Tournament ,  Jellico,0
 1997-11-24,Millersburg Military,Deming,109,81,0,   ,0
 1997-11-24,Evangel Christian,Heritage Academy,-,-,0,8:30 PM   ,0
 1997-11-25,Augusta,Covington Latin,79,41,1,   ,0
@@ -36,7 +36,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-11-25,Dawson Springs,Lyon County,65,40,0,   ,0
 1997-11-25,Elliott County,Rose Hill Christian,79,59,0,   ,0
 1997-11-25,Gallatin County,Walton-Verona,56,54,1,   ,0
-1997-11-25,Livingston Academy. TN,Clinton County,84,68,1,   ,0
+1997-11-25,Out of State,Clinton County,84,68,1,   ,0
 1997-11-25,Millersburg Military,Burgin,71,51,2,   ,0
 1997-11-25,Monticello,Cumberland County,72,61,1,   ,0
 1997-11-25,Providence,Livingston Central,69,53,1,   ,0
@@ -45,24 +45,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-11-25,Villa Madonna,Heritage Academy,-,-,0,8:30 PM   ,0
 1997-11-25,Buckhorn,Lee County,-,-,0,   ,0
 1997-11-25,Brown,Model,-,-,0,8:30 PM   ,0
-1997-11-25,Restoration Christian. IN,Walden,-,-,0,8:30 PM   ,0
-1997-11-26,Red Bird,Cosby,70,57,2,  Jellico,0
-1997-11-28,Clinton County,Pickett County. TN,90,78,2,   ,0
-1997-11-28,Red Bird,Jellico. TN,68,52,0,  Jellico,0
-1997-11-28,University Heights,Pinckeyville. IL,61,46,0,   ,0
+1997-11-25,Out of State,Walden,-,-,0,8:30 PM   ,0
+1997-11-26,Red Bird,Out of State,70,57, TN Invitational Tournament ,  Jellico,0
+1997-11-28,Clinton County,Out of State,90,78,2,   ,0
+1997-11-28,Red Bird,Out of State,68,52, TN Invitational Tournament ,  Jellico,0
+1997-11-28,University Heights,Out of State,61,46,0,   ,0
 1997-11-28,Menifee County,Owsley County,-,-,0,7:00 PM   ,0
-1997-11-29,Campbell County,Red Bird,72,65,2,  Jellico,0
+1997-11-29,Campbell County,Red Bird,72,65, TN Invitational Tournament ,  Jellico,0
 1997-11-29,Carlisle County,Livingston Central,74,53,0,   ,0
 1997-11-29,Elliott County,Riverside Christian,83,55,0,   ,0
 1997-11-29,Gallatin County,Williamstown,83,53,0,   ,0
-1997-11-29,Jeffersonville. IN,Shelbyville. IN,75,53,1,   ,0
+1997-11-29,Out of State,Out of State,75,53,1,   ,0
 1997-11-29,Whitefield Academy,Heritage Academy,-,-,0,8:30 PM   ,0
 1997-11-29,Menifee County,Wolfe County,-,-,0,7:00 PM   ,0
 1997-12-01,Ballard,Eastern,67,59,0,   ,0
 1997-12-01,Bowling Green,Warren Central,79,60,1,   ,0
 1997-12-01,Caverna,Fort Knox,87,66,1,   ,0
 1997-12-01,Covington Catholic,Dixie Heights,92,37,2,  Turfway Park Tournament ,0
-1997-12-01,Evarts,Jellico. TN,70,45,0,   ,0
+1997-12-01,Evarts,Out of State,70,45,0,   ,0
 1997-12-01,Fairdale,Whitefield Academy,89,59,2,   ,0
 1997-12-01,Fern Creek,Evangel Christian,81,43,0,   ,0
 1997-12-01,Graves County,Fulton City,98,80,1,   ,0
@@ -88,10 +88,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-02,Bryan Station,Powell County,70,53,1,   ,0
 1997-12-02,Bullitt Central,Meade County,68,49,0,   ,0
 1997-12-02,Christian Academy-Louisville,Louisville Collegiate,104,62,1,   ,0
-1997-12-02,Christian County,Evansville Day. IN,85,83,1,   ,0
+1997-12-02,Christian County,Out of State,85,83,1,   ,0
 1997-12-02,Clay County,Oneida Baptist Institute,93,41,1,   ,0
 1997-12-02,Clinton County,Metcalfe County,87,85,1,   ,0
-1997-12-02,Conner,Harrison County,60,56,0,  Double Overtime ,0
+1997-12-02,Conner,Harrison County,60,56,0,  Double Overtime ,1
 1997-12-02,Cordia,Whitesburg,85,43,1,   ,0
 1997-12-02,Cumberland,Harlan,77,73,1,   ,0
 1997-12-02,Cumberland County,Russell County,91,59,1,   ,0
@@ -109,7 +109,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-02,Greenwood,Todd County Central,76,63,0,   ,0
 1997-12-02,Hancock County,McLean County,71,63,0,   ,0
 1997-12-02,Hazard,Letcher,95,42,1,   ,0
-1997-12-02,Henderson County,Evansville FJ Reitz. IN,77,63,2,   ,0
+1997-12-02,Henderson County,Out of State,77,63,2,   ,0
 1997-12-02,Holy Cross (Louisville),Beth Haven,53,40,0,   ,0
 1997-12-02,Hopkins County Central,Lyon County,73,28,0,   ,0
 1997-12-02,Hopkinsville,Fort Campbell,99,75,1,   ,0
@@ -153,7 +153,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-02,St. Mary,Reidland,67,41,0,   ,0
 1997-12-02,St. Patrick,Montgomery County,66,59,0,   ,0
 1997-12-02,Taylor County,Washington County,81,62,1,   ,0
-1997-12-02,Trigg County,Owensboro Majesty,113,75,1,   ,0
+1997-12-02,Trigg County,Out of State,113,75,1,   ,0
 1997-12-02,Trimble County,Spencer County,83,62,1,   ,0
 1997-12-02,Union County,Madisonville-North Hopkins,85,61,0,   ,0
 1997-12-02,Valley,Bullitt East,52,50,0,   ,0
@@ -161,7 +161,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-02,Warren East,Monroe County,68,67,1,   ,0
 1997-12-02,Western,DuPont Manual,92,81,0,   ,0
 1997-12-02,Western Hills,West Jessamine,81,51,1,   ,0
-1997-12-02,Whitley County,Jellico. TN,77,57,1,   ,0
+1997-12-02,Whitley County,Out of State,77,57,1,   ,0
 1997-12-02,Woodford County,East Jessamine,68,52,1,   ,0
 1997-12-02,Magoffin County,Betsy Layne,-,-,0,8:30 PM   ,0
 1997-12-02,St. Xavier,Central,-,-,0,8:30 PM   ,0
@@ -172,28 +172,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-02,Phelps,Millard,-,-,0,8:30 PM   ,0
 1997-12-02,Franklin County,Model,-,-,0,8:30 PM   ,0
 1997-12-02,Russell,Morgan County,-,-,0,7:00 PM   ,0
-1997-12-02,Mountain Mission. WV,Fleming-Neon,-,-,2,8:30 PM   ,0
+1997-12-02,Out of State,Fleming-Neon,-,-,2,8:30 PM   ,0
 1997-12-02,Central Hardin,Nelson County,-,-,0,8:30 PM  (Postponed) ,0
 1997-12-02,Corbin,North Laurel,-,-,0,8:30 PM   ,0
-1997-12-02,Russellville,Portland. TN,-,-,0,7:00 PM   ,0
+1997-12-02,Russellville,Out of State,-,-,0,7:00 PM   ,0
 1997-12-02,Holy Cross (Covington),Dixie Heights,-,-,2,8:30 PM  Turfway Park Tournament ,0
-1997-12-02,Carroll County,Southwestern. IN,-,-,0,8:30 PM   ,0
+1997-12-02,Carroll County,Out of State,-,-,0,8:30 PM   ,0
 1997-12-02,Eminence,St. Francis,-,-,0,8:00 PM   ,0
 1997-12-02,Kentucky Country Day,Walden,-,-,0,8:30 PM   ,0
 1997-12-03,Betsy Layne,Feds Creek,79,72,2,   ,0
 1997-12-03,Frankfort,Kentucky School f/t Deaf,82,49,0,   ,0
 1997-12-03,Millersburg Military,Berea,77,68,0,   ,0
 1997-12-03,Simon Kenton,Scott,70,61,0,   ,0
-1997-12-04,Boone County,Holy Cross,69,38,2,   ,0
+1997-12-04,Boone County,Holy Cross (Covington),69,38,2,   ,0
 1997-12-04,Bourbon County,Bracken County,90,77,1,   ,0
 1997-12-04,Casey County,Harrodsburg,70,63,2,   ,0
 1997-12-04,Cawood,Bell County,45,43,2,   ,0
 1997-12-04,Cordia,June Buchanan,71,66,0,   ,0
-1997-12-04,Elkhorn City,Mt. Mission. VA,84,54,1,   ,0
-1997-12-04,Fulton City,Lake County. TN,104,63,0,   ,0
-1997-12-04,Fulton County,Halls. TN,57,54,0,   ,0
+1997-12-04,Elkhorn City,Out of State,84,54,1,   ,0
+1997-12-04,Fulton City,Out of State,104,63,0,   ,0
+1997-12-04,Fulton County,Out of State,57,54,0,   ,0
 1997-12-04,Greenup County,Pike County Central,58,26,2,   ,0
-1997-12-04,Greenwood,Portland. TN,72,57,2,   ,0
+1997-12-04,Greenwood,Out of State,72,57,2,   ,0
 1997-12-04,Hopkinsville,Dawson Springs,86,77,0,   ,0
 1997-12-04,Knox Central,Middlesboro,55,51,0,   ,0
 1997-12-04,Madison Central,Monticello,76,37,2,   ,0
@@ -219,7 +219,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-05,Butler,Jeffersontown,64,53,0,   ,0
 1997-12-05,Campbell County,St. Henry,59,55,1,   ,0
 1997-12-05,Campbellsville,Marion County,78,60,1,   ,0
-1997-12-05,Carbondale. IL,Paducah Tilghman,76,75,0,   ,0
+1997-12-05,Out of State,Paducah Tilghman,76,75,0,   ,0
 1997-12-05,Carroll County,Oldham County,71,58,0,   ,0
 1997-12-05,Caverna,Hart County,67,62,0,   ,0
 1997-12-05,Christian Academy-Louisville,Kentucky Country Day,76,51,0,  Ray Bauer Classic ,0
@@ -240,7 +240,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-05,Gallatin County,Owen County,75,57,1,   ,0
 1997-12-05,George Rogers Clark,Holmes,69,61,1,   ,0
 1997-12-05,Glasgow,Edmonson County,86,69,1,   ,0
-1997-12-05,Graves County,Charleston. MO,47,36,1,   ,0
+1997-12-05,Graves County,Out of State,47,36,1,   ,0
 1997-12-05,Grayson County,Ohio County,50,49,0,   ,0
 1997-12-05,Greenwood,Franklin-Simpson,85,61,0,   ,0
 1997-12-05,Harrison County,Pendleton County,51,47,0,   ,0
@@ -251,7 +251,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-05,LaRue County,Central Hardin,87,44,1,   ,0
 1997-12-05,Lafayette,Bryan Station,71,62,0,   ,0
 1997-12-05,Leslie County,Buckhorn,85,82,0,   ,0
-1997-12-05,Lone Oak,St. Mary,67,64,0,  Overtime ,0
+1997-12-05,Lone Oak,St. Mary,67,64,0,  Overtime ,1
 1997-12-05,Louisville Collegiate,Portland Christian,40,32,1,   ,0
 1997-12-05,Ludlow,Williamstown,51,46,1,   ,0
 1997-12-05,Mason County,Nicholas County,63,48,0,   ,0
@@ -264,7 +264,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-05,North Bullitt,Bullitt East,68,50,0,   ,0
 1997-12-05,North Hardin,Christian County,71,56,1,   ,0
 1997-12-05,North Laurel,Garrard County,65,63,1,   ,0
-1997-12-05,Oak Hill Academy. WV,University Heights,84,62,2,   ,0
+1997-12-05,Out of State,University Heights,84,62,2,   ,0
 1997-12-05,Owensboro,Hancock County,72,54,0,   ,0
 1997-12-05,Owsley County,Whitesburg,88,51,1,   ,0
 1997-12-05,Paintsville,Marshall County,80,66,0,   ,0
@@ -284,12 +284,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-05,Union County,Caldwell County,74,51,1,   ,0
 1997-12-05,Walton-Verona,Grant County,62,45,1,   ,0
 1997-12-05,Webster County,McLean County,51,38,0,   ,0
-1997-12-05,West Carter,Western Hills,73,65,2,  (Overtime)Commodore 4 Tournament ,0
-1997-12-05,Williamsburg,Jellico. TN,74,45,1,   ,0
+1997-12-05,West Carter,Western Hills,73,65,2,  (Overtime)Commodore 4 Tournament ,1
+1997-12-05,Williamsburg,Out of State,74,45,1,   ,0
 1997-12-05,Lloyd Memorial,Conner,-,-,0,7:00 PM   ,0
-1997-12-05,Covington Latin,HTR Christian. OH,-,-,0,6:30 PM   ,0
-1997-12-05,Whitefield Academy,Holy Cross,-,-,2,8:30 PM   ,0
-1997-12-05,Thomas Walker. VA,Lynn Camp,-,-,0,8:30 PM   ,0
+1997-12-05,Covington Latin,Out of State,-,-,0,6:30 PM   ,0
+1997-12-05,Whitefield Academy,Holy Cross (Louisville),-,-,2,8:30 PM   ,0
+1997-12-05,Out of State,Lynn Camp,-,-,0,8:30 PM   ,0
 1997-12-05,Phelps,Pikeville,-,-,0,8:30 PM   ,0
 1997-12-05,Jackson City,Rose Hill Christian,-,-,0,7:00 PM   ,0
 1997-12-05,Western,Seneca,-,-,0,   ,0
@@ -297,20 +297,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-05,Nelson County,Washington County,-,-,0,8:30 PM  (Postponsed) ,0
 1997-12-06,Ballard Memorial,Christian Fellowship,74,42,1,   ,0
 1997-12-06,Boyle County,Daviess County,67,45,2,   ,0
-1997-12-06,Bryan Station,Alcoa. TN,44,37,2,   ,0
+1997-12-06,Bryan Station,Out of State,44,37,2,   ,0
 1997-12-06,Campbell County,Bishop Brossart,61,54,2,   ,0
 1997-12-06,Cordia,Riverside Christian,84,48,0,   ,0
 1997-12-06,Doss,Whitefield Academy,83,58,2,   ,0
 1997-12-06,East Carter,Elliott County,69,55,0,   ,0
 1997-12-06,Evangel Christian,Beth Haven,66,64,0,   ,0
-1997-12-06,Harlan,Pinewood Prep. SC,76,68,1,  Harlan Classic ,0
+1997-12-06,Harlan,Out of State,76,68,1,  Harlan Classic ,0
 1997-12-06,Hazard,Corbin,62,59,2,  Shelby county Classic ,0
-1997-12-06,Hopkinsville,Clarksville. TN,73,68,1,   ,0
+1997-12-06,Hopkinsville,Out of State,73,68,1,   ,0
 1997-12-06,LaRue County,Eastern,63,61,1,   ,0
 1997-12-06,Lafayette,Boyd County,87,85,1,   ,0
 1997-12-06,Lewis County,Raceland,65,59,1,  Eastern Ky. Conference Tournament ,0
 1997-12-06,Madison Central,Pulaski County,62,52,2,  H & W Classic ,0
-1997-12-06,Marshall County,Pineyville. IL,67,62,2,   ,0
+1997-12-06,Marshall County,Out of State,67,62,2,   ,0
 1997-12-06,McLean County,Crittenden County,70,59,0,   ,0
 1997-12-06,Millersburg Military,Frankfort,80,67,2,   ,0
 1997-12-06,Monticello,Whitley County,56,52,2,  H & W Classic ,0
@@ -325,38 +325,38 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-06,Red Bird,Casey County,76,66,2,  McDonalds Classic ,0
 1997-12-06,Rockcastle County,Somerset,76,62,1,   ,0
 1997-12-06,Russell,Fairview,97,54,1,   ,0
-1997-12-06,School f/t Deaf. AL,Kentucky School f/t Deaf,77,51,0,   ,0
+1997-12-06,Out of State,Kentucky School f/t Deaf,77,51,0,   ,0
 1997-12-06,Scott County,Male,67,44,0,   ,0
 1997-12-06,Shelby County,Bullitt East,68,58,1,   ,0
 1997-12-06,St. Mary,Livingston Central,69,54,1,   ,0
 1997-12-06,St. Patrick,Deming,82,45,1,   ,0
 1997-12-06,Tates Creek,West Carter,77,63,1,  Commodore 4 Tournament ,0
-1997-12-06,University Heights,Northeast (Clarksville). TN,67,60,1,   ,0
+1997-12-06,University Heights,Out of State,67,60,1,   ,0
 1997-12-06,Woodford County,South Oldham,65,62,0,   ,0
-1997-12-06,Wyoming. OH,Villa Madonna,95,39,0,   ,0
+1997-12-06,Out of State,Villa Madonna,95,39,0,   ,0
 1997-12-06,Knott County Central,Jackson County,-,-,0,8:30 PM   ,0
 1997-12-06,Bath County,Menifee County,-,-,0,   ,0
-1997-12-06,Lexington Catholic,Oak Hill Academy,-,-,2,   ,0
-1997-12-06,Purcell Marian. OH,St. Henry,-,-,0,9:00 PM   ,0
-1997-12-07,Christian County,Clarksville Northwest. TN,91,71,1,   ,0
-1997-12-07,Cincinnati Elder. OH,Mason County,69,51,2,   ,0
-1997-12-07,North Hardin,Cincinnati. OH,64,60,2,   ,0
-1997-12-08,,Covington Latin,93,49,2,   ,0
+1997-12-06,Lexington Catholic,Out of State,-,-,2,   ,0
+1997-12-06,Out of State,St. Henry,-,-,0,9:00 PM   ,0
+1997-12-07,Christian County,Out of State,91,71,1,   ,0
+1997-12-07,Out of State,Mason County,69,51,2,   ,0
+1997-12-07,North Hardin,Out of State,64,60,2,   ,0
+1997-12-08,Out of State,Covington Latin,93,49,2,   ,0
 1997-12-08,Bellevue,Augusta,99,63,0,   ,0
 1997-12-08,Beth Haven,St. Francis,75,48,2,   ,0
 1997-12-08,Caldwell County,Livingston Central,72,53,0,   ,0
-1997-12-08,Dixie Heights,Wyoming. OH,63,55,1,   ,0
+1997-12-08,Dixie Heights,Out of State,63,55,1,   ,0
 1997-12-08,East Carter,Bath County,67,60,2,  Eastern Kentucky Conference Tournament ,0
 1997-12-08,Heath,Fulton County,64,60,1,  Makeup game from Dec. 2 ,0
 1997-12-08,Lewis County,Morgan County,81,56,1,  Eastern Kentucky Conference Tournament ,0
-1997-12-08,Restoration Christian. IN,Portland Christian,71,49,0,   ,0
+1997-12-08,Out of State,Portland Christian,71,49,0,   ,0
 1997-12-08,Russell,Lawrence County,72,54,1,   ,0
 1997-12-08,Silver Grove,Heritage Academy,86,76,0,   ,0
 1997-12-08,West Carter,Rowan County,71,68,2,  Eastern Kentucky Conference Tournament ,0
 1997-12-08,Williamsburg,Whitley County,70,58,0,   ,0
 1997-12-08,Fleming-Neon,Owsley County,-,-,0,8:30 PM   ,0
 1997-12-09,Allen Central,Pike County Central,94,72,1,   ,0
-1997-12-09,Allen County-Scottsville,Barren County,54,51,1,  Overtime ,0
+1997-12-09,Allen County-Scottsville,Barren County,54,51,1,  Overtime ,1
 1997-12-09,Apollo,Owensboro,86,65,1,   ,0
 1997-12-09,Ballard,Atherton,95,49,1,   ,0
 1997-12-09,Barbourville,Bell County,71,69,0,   ,0
@@ -380,7 +380,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-09,Christian Academy-Louisville,Brown,88,62,1,   ,0
 1997-12-09,Clay County,Middlesboro,54,42,0,   ,0
 1997-12-09,Corbin,Cawood,85,69,0,   ,0
-1997-12-09,Covington Catholic,Purcell Marian. OH,74,69,2,  Overtime ,0
+1997-12-09,Covington Catholic,Out of State,74,69,2,  Overtime ,1
 1997-12-09,Crittenden County,Caldwell County,68,62,0,   ,0
 1997-12-09,Daviess County,McLean County,49,44,0,   ,0
 1997-12-09,Dawson Springs,Trigg County,91,72,1,   ,0
@@ -390,14 +390,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-09,Evarts,Whitley County,68,49,0,   ,0
 1997-12-09,Fern Creek,Male,68,58,0,   ,0
 1997-12-09,Fleming-Neon,Jenkins,103,98,1,   ,0
-1997-12-09,Fulton City,Mayfield,75,72,1,  Overtime ,0
+1997-12-09,Fulton City,Mayfield,75,72,1,  Overtime ,1
 1997-12-09,Glasgow,Caverna,71,62,1,   ,0
 1997-12-09,Grant County,Dixie Heights,66,56,1,   ,0
 1997-12-09,Graves County,Ballard Memorial,34,31,1,   ,0
 1997-12-09,Harrison County,Nicholas County,55,37,0,   ,0
 1997-12-09,Hart County,Green County,90,79,0,   ,0
 1997-12-09,Hazard,Leslie County,77,35,0,   ,0
-1997-12-09,Henderson County,Evansville Bosse. IN,75,69,0,   ,0
+1997-12-09,Henderson County,Out of State,75,69,0,   ,0
 1997-12-09,Henry Clay,Madison Southern,68,51,1,   ,0
 1997-12-09,Hickman County,Carlisle County,71,50,1,   ,0
 1997-12-09,Hopkinsville,Russellville,72,62,1,   ,0
@@ -409,12 +409,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-09,Lincoln County,Harrodsburg,70,64,1,   ,0
 1997-12-09,Lloyd Memorial,Ludlow,53,39,0,   ,0
 1997-12-09,Logan County,Todd County Central,63,54,1,   ,0
-1997-12-09,Louisville Collegiate,Restoration Christian. IN,54,46,2,   ,0
+1997-12-09,Louisville Collegiate,Out of State,54,46,2,   ,0
 1997-12-09,Madison Central,Fleming County,58,43,0,   ,0
 1997-12-09,Madisonville-North Hopkins,Hopkins County Central,72,64,1,   ,0
 1997-12-09,Marion County,Adair County,72,65,1,   ,0
 1997-12-09,Marshall County,Christian Fellowship,82,40,1,   ,0
-1997-12-09,Massac County. IL,Heath,80,55,1,   ,0
+1997-12-09,Out of State,Heath,80,55,1,   ,0
 1997-12-09,Metcalfe County,Cumberland County,87,59,1,   ,0
 1997-12-09,Model,Kentucky School f/t Deaf,88,46,1,   ,0
 1997-12-09,Monroe County,Clinton County,73,62,0,   ,0
@@ -457,7 +457,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-09,Whitefield Academy,Fort Knox,57,46,0,   ,0
 1997-12-09,Whitesburg,Feds Creek,67,64,1,   ,0
 1997-12-09,South Laurel,Boyle County,-,-,0,8:30 PM   ,0
-1997-12-09,Pineville,Forge Ridge. TN,-,-,0,8:30 PM   ,0
+1997-12-09,Pineville,Out of State,-,-,0,8:30 PM   ,0
 1997-12-09,Millard,Johnson Central,-,-,0,8:30 PM   ,0
 1997-12-09,Rose Hill Christian,Menifee County,-,-,0,7:00 PM   ,0
 1997-12-09,Mercer County,North Laurel,-,-,0,8:30 PM   ,0
@@ -472,15 +472,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-11,Bardstown,Fort Knox,50,39,0,   ,0
 1997-12-11,Bowling Green,Warren East,71,48,1,   ,0
 1997-12-11,Carlisle County,Murray,82,70,1,   ,0
-1997-12-11,Cumberland County,Franklin-Simpson,84,81,2,  Greenwood/ Southern Kentucky Classic Double Overtime ,0
-1997-12-11,Forge Ridge. TN,Lynn Camp,74,57,1,   ,0
+1997-12-11,Cumberland County,Franklin-Simpson,84,81,2,  Greenwood/ Southern Kentucky Classic Double Overtime ,1
+1997-12-11,Out of State,Lynn Camp,74,57,1,   ,0
 1997-12-11,Franklin County,Western Hills,83,59,2,  Capital City Classic ,0
 1997-12-11,Greenwood,Butler County,93,60,2,  Greenwood/ Southern Kentucky Classic  ,0
 1997-12-11,Lee County,Riverside Christian,100,56,1,   ,0
 1997-12-11,Madisonville-North Hopkins,Dawson Springs,80,69,0,   ,0
 1997-12-11,Mayfield,Marshall County,46,43,1,   ,0
 1997-12-11,McLean County,Cloverport,52,46,2,   ,0
-1997-12-11,Paintsville,Governor Dummer Academy. MA,70,64,2,  Coca Cola/KMOX Shootout ,0
+1997-12-11,Paintsville,Out of State,70,64,2,  Coca Cola/KMOX Shootout ,0
 1997-12-11,Perry County Central,Sheldon Clark,70,48,1,   ,0
 1997-12-11,Rockcastle County,Oneida Baptist Institute,80,43,1,   ,0
 1997-12-11,Russell,West Carter,72,63,2,  Eastern Kentucky Conference Tournament ,0
@@ -492,7 +492,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-12,Anderson County,Eminence,69,37,1,   ,0
 1997-12-12,Atherton,Seneca,61,60,1,   ,0
 1997-12-12,Barbourville,Williamsburg,77,59,0,   ,0
-1997-12-12,Beechwood,Silver Grove,91,83,0,  Overtime ,0
+1997-12-12,Beechwood,Silver Grove,91,83,0,  Overtime ,1
 1997-12-12,Belfry,Phelps,50,47,1,   ,0
 1997-12-12,Bell County,Pineville,79,61,1,   ,0
 1997-12-12,Bellevue,Walton-Verona,59,51,1,   ,0
@@ -514,7 +514,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-12,Central,Shawnee,72,66,1,   ,0
 1997-12-12,Christian County,Hopkinsville,100,88,0,   ,0
 1997-12-12,Christian Fellowship,Beth Haven,63,60,1,   ,0
-1997-12-12,Clarksville. TN,Russellville,72,63,0,   ,0
+1997-12-12,Out of State,Russellville,72,63,0,   ,0
 1997-12-12,Clay County,Jackson County,74,68,0,   ,0
 1997-12-12,Corbin,Whitley County,92,69,1,   ,0
 1997-12-12,Covington Catholic,Holy Cross (Covington),90,52,1,   ,0
@@ -545,7 +545,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-12,Iroquois,Southern,73,63,1,   ,0
 1997-12-12,Jeffersontown,Moore,66,62,0,   ,0
 1997-12-12,Leslie County,June Buchanan,64,60,0,   ,0
-1997-12-12,Lexington Catholic,De La Salle. MN,66,65,0,   ,0
+1997-12-12,Lexington Catholic,Out of State,66,65,0,   ,0
 1997-12-12,Lincoln County,Casey County,67,62,0,   ,0
 1997-12-12,Lloyd Memorial,Villa Madonna,80,47,0,   ,0
 1997-12-12,Logan County,Trinity (Whitesville),78,53,1,   ,0
@@ -570,7 +570,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-12,Paducah Tilghman,Graves County,62,61,0,   ,0
 1997-12-12,Paris,Estill County,71,54,0,   ,0
 1997-12-12,Portland Christian,Walden,68,44,1,   ,0
-1997-12-12,Pound. VA,Jenkins,83,67,1,   ,0
+1997-12-12,Out of State,Jenkins,83,67,1,   ,0
 1997-12-12,Powell County,Wolfe County,97,87,1,   ,0
 1997-12-12,Pulaski County,Cordia,83,68,0,   ,0
 1997-12-12,Reidland,Lone Oak,70,65,1,   ,0
@@ -581,7 +581,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-12,South Oldham,Scott,62,61,1,   ,0
 1997-12-12,St. Patrick,Augusta,77,52,0,   ,0
 1997-12-12,St. Xavier,Ballard,69,65,1,   ,0
-1997-12-12,Sullivan North. TN,Cumberland,80,66,1,   ,0
+1997-12-12,Out of State,Cumberland,80,66,1,   ,0
 1997-12-12,Todd County Central,Fort Campbell,64,62,0,   ,0
 1997-12-12,Trigg County,Hopkins County Central,66,56,0,   ,0
 1997-12-12,University Heights,Madisonville-North Hopkins,93,53,0,   ,0
@@ -593,7 +593,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-12,Whitefield Academy,Kentucky Country Day,58,40,2,   ,0
 1997-12-12,Whitesburg,Letcher,73,66,1,   ,0
 1997-12-12,McCreary Central,Monticello,-,-,0,7:30 PM   ,0
-1997-12-12,Ironton. OH,Rose Hill Christian,-,-,0,7:00 PM   ,0
+1997-12-12,Out of State,Rose Hill Christian,-,-,0,7:00 PM   ,0
 1997-12-12,Millard,Shelby Valley,-,-,0,8:30 PM   ,0
 1997-12-12,Marion County,Washington County,-,-,0,8:30 PM   ,0
 1997-12-13,Augusta,Kentucky School f/t Deaf,77,56,1,   ,0
@@ -601,7 +601,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-13,Bethlehem,Mercer County,60,48,1,   ,0
 1997-12-13,Bryan Station,North Laurel,71,49,2,  Republic Bank Generals Classic ,0
 1997-12-13,Campbell County,Beechwood,89,52,1,   ,0
-1997-12-13,Crittenden County,Hardin County. TN,87,65,0,   ,0
+1997-12-13,Crittenden County,Out of State,87,65,0,   ,0
 1997-12-13,Feds Creek,Millard,79,62,0,   ,0
 1997-12-13,Fleming County,Holmes,64,54,1,   ,0
 1997-12-13,Fleming-Neon,Buckhorn,94,91,1,   ,0
@@ -620,7 +620,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-13,Lee County,Shelby Valley,78,74,1,   ,0
 1997-12-13,Madison Southern,Lexington Christian,91,49,2,   ,0
 1997-12-13,Magoffin County,Prestonsburg,57,55,0,   ,0
-1997-12-13,Minnetonka. MN,Lexington Catholic,63,53,1,  Triple-Header of Hoops ,0
+1997-12-13,Out of State,Lexington Catholic,63,53,1,  Triple-Header of Hoops ,0
 1997-12-13,Monroe County,Russell County,79,62,0,   ,0
 1997-12-13,Newport,Villa Madonna,60,43,1,   ,0
 1997-12-13,Paris,Bracken County,89,66,1,   ,0
@@ -634,9 +634,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-13,St. Henry,Boone County,58,49,1,   ,0
 1997-12-13,St. Patrick,Millersburg Military,61,59,2,   ,0
 1997-12-13,Tates Creek,Central Hardin,70,39,2,  Republic Bank Generals Classic ,0
-1997-12-13,Trigg County,Nashville Lighthouse. TN,87,50,1,   ,0
+1997-12-13,Trigg County,Out of State,87,50,1,   ,0
 1997-12-13,University Heights,Beth Haven,68,43,1,   ,0
-1997-12-13,Volunteer. TN,Cumberland,85,76,1,   ,0
+1997-12-13,Out of State,Cumberland,85,76,1,   ,0
 1997-12-13,Western Hills,Frankfort,68,60,0,  Third roundCapital City Classic ,0
 1997-12-13,Phelps,Elkhorn City,-,-,0,9:00 PM   ,0
 1997-12-13,Rose Hill Christian,Lawrence County,-,-,0,7:00 PM   ,0
@@ -654,7 +654,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-15,Hopkinsville,Muhlenberg South,74,67,0,   ,0
 1997-12-15,June Buchanan,Piarist School,86,41,0,   ,0
 1997-12-15,Marshall County,Carlisle County,67,51,0,   ,0
-1997-12-15,Pineville,Powell Valley. TN,69,68,1,   ,0
+1997-12-15,Pineville,Out of State,69,68,1,   ,0
 1997-12-15,Reidland,Lyon County,71,46,0,   ,0
 1997-12-15,Sheldon Clark,Johnson Central,55,51,1,   ,0
 1997-12-15,St. Mary,Murray,72,64,1,   ,0
@@ -689,23 +689,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-16,Cordia,Leslie County,86,69,1,   ,0
 1997-12-16,Crittenden County,Lone Oak,87,75,1,   ,0
 1997-12-16,Danville,Casey County,59,55,1,   ,0
-1997-12-16,Daviess County,Apollo,62,59,0,  (Overtime) ,0
+1997-12-16,Daviess County,Apollo,62,59,0,  (Overtime) ,1
 1997-12-16,Dayton,Covington Latin,89,46,1,   ,0
 1997-12-16,Doss,Shawnee,67,55,1,   ,0
 1997-12-16,Eastern,Trinity (Louisville),80,64,1,   ,0
 1997-12-16,Elizabethtown,Meade County,75,68,1,   ,0
 1997-12-16,Fairview,Rose Hill Christian,40,39,1,   ,0
 1997-12-16,Fern Creek,DuPont Manual,76,66,1,   ,0
-1997-12-16,Finneytown,Silver Grove,78,61,1,   ,0
+1997-12-16,Out of State,Silver Grove,78,61,1,   ,0
 1997-12-16,Fleming County,Rowan County,81,57,0,   ,0
 1997-12-16,Fort Campbell,Dawson Springs,74,67,1,   ,0
 1997-12-16,Franklin County,Oldham County,56,53,0,   ,0
 1997-12-16,George Rogers Clark,Montgomery County,56,53,0,   ,0
 1997-12-16,Graves County,Mayfield,51,41,0,   ,0
-1997-12-16,Greenwood,Warren East,48,47,0,  (Overtime) ,0
+1997-12-16,Greenwood,Warren East,48,47,0,  (Overtime) ,1
 1997-12-16,Harrodsburg,East Jessamine,59,50,0,   ,0
 1997-12-16,Hart County,Edmonson County,60,56,1,   ,0
-1997-12-16,Henry County. TN,Murray,77,46,0,   ,0
+1997-12-16,Out of State,Murray,77,46,0,   ,0
 1997-12-16,Holy Cross (Louisville),Evangel Christian,79,57,1,   ,0
 1997-12-16,Iroquois,Western,89,82,1,   ,0
 1997-12-16,Kentucky Country Day,Portland Christian,58,48,1,   ,0
@@ -765,18 +765,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-16,Jackson County,Knox Central,-,-,0,8:30 PM   ,0
 1997-12-16,Model,North Laurel,-,-,0,8:30 PM   ,0
 1997-12-16,Millard,Pike County Central,-,-,0,8:30 PM   ,0
-1997-12-16,Lynn Camp,Thomas Walker. VA,-,-,0,8:30 PM   ,0
+1997-12-16,Lynn Camp,Out of State,-,-,0,8:30 PM   ,0
 1997-12-17,Bath County,Elliott County,76,72,0,   ,0
 1997-12-17,Pendleton County,Lloyd Memorial,48,46,2,  Dixie Heights Invitational Tournament ,0
 1997-12-18,Barbourville,Middlesboro,65,57,1,   ,0
 1997-12-18,Boone County,Grant County,55,37,0,  Eagle Bank Classic ,0
 1997-12-18,Butler,Fleming County,74,49,2,  King of the Bluegrass Tournament ,0
-1997-12-18,Cloverport,Bullitt East,66,63,2,  Overtime ,0
+1997-12-18,Cloverport,Bullitt East,66,63,2,  Overtime ,1
 1997-12-18,Dixie Heights,Pendleton County,64,46,1,  Dixie Heights Invitational Tournament ,0
 1997-12-18,George Rogers Clark,Williamstown,87,36,2,  Eagle Bank Classic ,0
 1997-12-18,Hopkinsville,Hopkins County Central,107,97,1,   ,0
 1997-12-18,Iroquois,Warren East,65,54,2,  King of the Bluegrass ,0
-1997-12-18,Kentucky School f/t Deaf,School f/t Deaf. TN,62,59,2,   ,0
+1997-12-18,Kentucky School f/t Deaf,Out of State,62,59,2,   ,0
 1997-12-18,Lloyd Memorial,Villa Madonna,68,38,0,   ,0
 1997-12-18,Madison Southern,Millersburg Military,72,69,2,  Hardy Oil Classic ,0
 1997-12-18,Mayfield,Murray,60,41,0,   ,0
@@ -794,12 +794,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-19,Augusta,Silver Grove,77,75,0,   ,0
 1997-12-19,Barren County,Edmonson County,76,61,0,   ,0
 1997-12-19,Bell County,Cumberland,72,70,0,   ,0
-1997-12-19,Bellevue,Kentucky Country Day,65,59,1,  Overtime ,0
+1997-12-19,Bellevue,Kentucky Country Day,65,59,1,  Overtime ,1
 1997-12-19,Beth Haven,Whitefield Academy,60,59,2,   ,0
 1997-12-19,Bethlehem,Shawnee,68,57,0,   ,0
 1997-12-19,Betsy Layne,Leslie County,99,84,0,   ,0
 1997-12-19,Bourbon County,Hancock County,60,58,2,  Hopkinsville Invitational ,0
-1997-12-19,Boyd County,Ironton. OH,71,57,2,   ,0
+1997-12-19,Boyd County,Out of State,71,57,2,   ,0
 1997-12-19,Boyle County,Franklin County,69,66,0,   ,0
 1997-12-19,Bracken County,Campbell County,75,73,0,   ,0
 1997-12-19,Breathitt County,June Buchanan,79,75,0,   ,0
@@ -812,17 +812,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-19,Christian County,Breathitt County,115,87,2,   ,0
 1997-12-19,Clay County,Waggener,98,65,0,   ,0
 1997-12-19,Clinton County,Rockcastle County,81,77,1,   ,0
-1997-12-19,Compton. CA,Paul Laurence Dunbar,82,74,2,   ,0
+1997-12-19,Out of State,Paul Laurence Dunbar,82,74,2,   ,0
 1997-12-19,Crittenden County,Fort Campbell,84,63,1,   ,0
 1997-12-19,Danville,Lexington Christian,75,62,1,   ,0
 1997-12-19,Deming,Nicholas County,73,59,0,   ,0
 1997-12-19,East Carter,Madison Central,65,60,2,  Boyd County Classic ,0
-1997-12-19,Eastern,Choctawhatchee. FL,75,68,2,  King of the Bluegrass Tournament ,0
+1997-12-19,Eastern,Out of State,75,68,2,  King of the Bluegrass Tournament ,0
 1997-12-19,Elkhorn City,Feds Creek,63,57,0,   ,0
 1997-12-19,Evarts,Pineville,94,61,1,   ,0
 1997-12-19,Fairdale,Metcalfe County,71,65,1,  King of the Bluegrass Tournament ,0
 1997-12-19,Fleming-Neon,Letcher,82,79,0,   ,0
-1997-12-19,Fulton County,Halls. TN,58,48,1,   ,0
+1997-12-19,Fulton County,Out of State,58,48,1,   ,0
 1997-12-19,Gallatin County,South Oldham,60,51,0,   ,0
 1997-12-19,George Rogers Clark,Boone County,60,40,2,  Eagle Bank Classic ,0
 1997-12-19,Grant County,Williamstown,68,61,1,  Eagle Bank Classic ,0
@@ -830,11 +830,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-19,Green County,Taylor County,70,63,0,   ,0
 1997-12-19,Hart County,Fort Knox,54,43,0,   ,0
 1997-12-19,Heath,Lyon County,52,35,1,   ,0
-1997-12-19,Henderson County,Evansville North. IN,77,71,1,   ,0
+1997-12-19,Henderson County,Out of State,77,71,1,   ,0
 1997-12-19,Henry County,Eminence,57,55,0,   ,0
 1997-12-19,Hopkins County Central,Caldwell County,61,51,1,   ,0
 1997-12-19,Hopkinsville,Todd County Central,100,58,0,   ,0
-1997-12-19,Jenkins,Ervington. VA,104,64,0,   ,0
+1997-12-19,Jenkins,Out of State,104,64,0,   ,0
 1997-12-19,Lee County,Powell County,83,72,0,   ,0
 1997-12-19,Lincoln County,Estill County,87,26,0,  Hardy Oil Classic ,0
 1997-12-19,Lone Oak,Fulton City,78,66,0,   ,0
@@ -853,7 +853,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-19,Sayre,East Jessamine,72,45,1,   ,0
 1997-12-19,South Floyd,Johnson Central,74,71,1,   ,0
 1997-12-19,Spencer County,North Bullitt,76,75,1,   ,0
-1997-12-19,St. Mary,Calloway County,55,52,2,  Overtime ,0
+1997-12-19,St. Mary,Calloway County,55,52,2,  Overtime ,1
 1997-12-19,Tates Creek,Lafayette,68,58,0,   ,0
 1997-12-19,Trigg County,Livingston Central,80,66,0,   ,0
 1997-12-19,Trimble County,Brown,66,47,0,   ,0
@@ -868,7 +868,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-19,Central,Fern Creek,-,-,0,8:30 PM   ,0
 1997-12-19,Menifee County,Jackson City,-,-,0,8:30 PM   ,0
 1997-12-19,Pike County Central,Phelps,-,-,0,8:30 PM   ,0
-1997-12-19,Hannan. WV,Rose Hill Christian,-,-,0,7:00 PM   ,0
+1997-12-19,Out of State,Rose Hill Christian,-,-,0,7:00 PM   ,0
 1997-12-20,Allen Central,Lewis County,89,75,2,  Perry County Central Holiday Classic ,0
 1997-12-20,Anderson County,Bullitt Central,69,51,0,   ,0
 1997-12-20,Ashland Blazer,Elliott County,74,49,0,   ,0
@@ -876,35 +876,35 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-20,Bishop Brossart,Walton-Verona,77,71,0,   ,0
 1997-12-20,Boone County,Williamstown,65,55,2,  Eagle Bank Classic ,0
 1997-12-20,Boyd County,East Carter,73,56,0,   ,0
-1997-12-20,Bullitt East,Zephyr Hills. FL,59,46,2,  Papa Johns Classic ,0
-1997-12-20,Choctawhatchee. FL,Warren East,71,54,2,  King of the Bluegrass ,0
+1997-12-20,Bullitt East,Out of State,59,46,2,  Papa Johns Classic ,0
+1997-12-20,Out of State,Warren East,71,54,2,  King of the Bluegrass ,0
 1997-12-20,Cumberland,Buckhorn,65,53,2,  Perry County Central Holiday Classic ,0
-1997-12-20,Eastern,Iroquois,82,79,2,  OvertimeKing of the Bluegrass ,0
-1997-12-20,Eastern Commerce. Canada,Cathedral. Canada,75,69,2,  King of the Bluegrass ,0
+1997-12-20,Eastern,Iroquois,82,79,2,  OvertimeKing of the Bluegrass ,1
+1997-12-20,Out of State,Out of State,75,69,2,  King of the Bluegrass ,0
 1997-12-20,Edmonson County,Cumberland County,73,50,1,   ,0
 1997-12-20,Elizabethtown,Ohio County,83,63,1,   ,0
 1997-12-20,Fleming County,Fern Creek,52,47,2,  King of the Bluegrass ,0
 1997-12-20,George Rogers Clark,Grant County,61,44,0,  Eagle Bank Classic ,0
-1997-12-20,Graves County,Poway. CA,62,40,2,  Reebok Holiday Prep Classic ,0
+1997-12-20,Graves County,Out of State,62,40,2,  Reebok Holiday Prep Classic ,0
 1997-12-20,Harrison County,Campbell County,60,57,0,   ,0
 1997-12-20,Heath,Christian Fellowship,70,44,1,   ,0
 1997-12-20,Highlands,Breathitt County,97,57,2,  Northern Kentucky Classic ,0
 1997-12-20,Hopkinsville,Bourbon County,86,78,1,  Hopkinsville Invitational ,0
 1997-12-20,Lafayette,East Jessamine,90,59,1,   ,0
-1997-12-20,Lexington Catholic,Lakeland Kathleen. FL,78,45,0,  Great Florida Shootout ,0
+1997-12-20,Lexington Catholic,Out of State,78,45,0,  Great Florida Shootout ,0
 1997-12-20,Logan County,Butler County,88,63,0,   ,0
 1997-12-20,Madison Southern,Model,64,46,2,   ,0
 1997-12-20,Male,Fairdale,60,52,0,  King of the Bluegrass ,0
 1997-12-20,Meade County,Bethlehem,51,40,0,  Papa Johns Classic ,0
 1997-12-20,Moore,Washington County,54,45,2,  Wendys Central Kentucky Classic ,0
-1997-12-20,Nelson County,Brooksville. FL,64,43,2,  Papa Johns Classic ,0
+1997-12-20,Nelson County,Out of State,64,43,2,  Papa Johns Classic ,0
 1997-12-20,Newport Central Catholic,Bellevue,80,55,1,   ,0
 1997-12-20,North Hardin,Marshall County,64,48,2,  Hub City Classic ,0
 1997-12-20,Oldham County,South Oldham,56,51,1,   ,0
 1997-12-20,Owsley County,Fleming-Neon,89,55,0,   ,0
 1997-12-20,Paducah Tilghman,St. Mary,104,42,1,  Paducah Tilghman Christmas Tournament ,0
 1997-12-20,Paducah Tilghman,Ballard Memorial,72,49,1,  Paducah Tilghman Christmas Tournament ,0
-1997-12-20,Paul Laurence Dunbar,Greenville. NV,84,67,2,  Reebok Holiday Prep Classic ,0
+1997-12-20,Paul Laurence Dunbar,Out of State,84,67,2,  Reebok Holiday Prep Classic ,0
 1997-12-20,Perry County Central,Pikeville,87,59,1,  Perry County Central Holiday Classic ,0
 1997-12-20,Prestonsburg,Metcalfe County,74,65,2,  King of the Bluegrass ,0
 1997-12-20,Raceland,Menifee County,87,68,0,   ,0
@@ -913,28 +913,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-20,Ryle,Hazard,71,54,2,  Northern Kentucky Classic ,0
 1997-12-20,Ryle,Christian County,61,51,2,  Northern Kentucky Classic ,0
 1997-12-20,Sayre,Knox Central,50,40,1,   ,0
-1997-12-20,Science Hill. TN,Tennessee High,60,33,2,  King of the Bluegrass ,0
+1997-12-20,Out of State,Out of State,60,33,2,  King of the Bluegrass ,0
 1997-12-20,Scott,Ryle,57,51,2,  Northern Kentucky Classic ,0
 1997-12-20,Shawnee,Atherton,70,59,0,   ,0
 1997-12-20,Simon Kenton,Wolfe County,102,61,2,  Northern Kentucky Classic ,0
 1997-12-20,Simon Kenton,Christian County,85,81,2,  Northern Kentucky Classic ,0
 1997-12-20,South Laurel,Lincoln County,70,60,2,   ,0
-1997-12-20,St. Mary,Martin Westview. TN,60,50,2,  Paducah Tilghman Christmas Tournament ,0
-1997-12-20,St. Xavier,LaRue County,81,76,2,  OvertimePapa Johns Classic ,0
+1997-12-20,St. Mary,Out of State,60,50,2,  Paducah Tilghman Christmas Tournament ,0
+1997-12-20,St. Xavier,LaRue County,81,76,2,  OvertimePapa Johns Classic ,1
 1997-12-20,Trimble County,Henry County,72,57,1,   ,0
 1997-12-20,Union County,Monticello,43,36,2,  Toyoto Holiday Classic ,0
-1997-12-20,University Heights,Cleveland. TN,70,67,0,   ,0
-1997-12-20,Venice. FL,Wayne County,72,54,1,   ,0
+1997-12-20,University Heights,Out of State,70,67,0,   ,0
+1997-12-20,Out of State,Wayne County,72,54,1,   ,0
 1997-12-20,Warren Central,Harlan,63,58,0,   ,0
 1997-12-20,West Jessamine,Central Hardin,60,48,2,  Wendys Central Kentucky Classic ,0
 1997-12-20,Whitefield Academy,Villa Madonna,70,57,0,   ,0
 1997-12-20,North Laurel,Cawood,-,-,0,8:30 PM   ,0
-1997-12-20,Cincinnati Hughes. OH,Beechwood,-,-,2,7:00 PM   ,0
+1997-12-20,Out of State,Beechwood,-,-,2,7:00 PM   ,0
 1997-12-20,Frankfort,Elkhorn City,-,-,0,9:00 PM   ,0
 1997-12-20,Magoffin County,Shelby Valley,-,-,0,8:30 PM   ,0
 1997-12-21,Campbellsville,Ohio County,74,53,1,   ,0
 1997-12-21,Elizabethtown,Rowan County,85,69,1,   ,0
-1997-12-21,Jesuit. LA,DeSales,75,44,1,   ,0
+1997-12-21,Out of State,DeSales,75,44,1,   ,0
 1997-12-21,North Hardin,Warren Central,70,55,2,   ,0
 1997-12-21,Union County,McCreary Central,93,48,2,  ChampionshipToyoto Holiday Classic ,0
 1997-12-22,Apollo,Franklin-Simpson,81,51,0,   ,0
@@ -947,45 +947,45 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-22,Campbellsville,Marshall County,64,58,2,  Hub City Classic ,0
 1997-12-22,Carlisle County,Murray,70,66,2,  Racer Christmas Classic ,0
 1997-12-22,Central Hardin,Marion County,68,55,0,  Wendys Central Kentucky Classic ,0
-1997-12-22,Choctawhatchee. FL,Eastern Commerce. Canada,65,64,2,  King of the Bluegrass ,0
+1997-12-22,Out of State,Out of State,65,64,2,  King of the Bluegrass ,0
 1997-12-22,Cloverport,Butler County,69,66,2,  Bullitt Central Tournament ,0
-1997-12-22,Corbin,Duluth. GA,78,75,0,   ,0
-1997-12-22,Crittenden County,Calloway County,58,56,2,  OvertimeRacer Christmas Classic ,0
+1997-12-22,Corbin,Out of State,78,75,0,   ,0
+1997-12-22,Crittenden County,Calloway County,58,56,2,  OvertimeRacer Christmas Classic ,1
 1997-12-22,DeSales,Owensboro Catholic,47,45,1,  Louisville Catholic Invitational ,0
 1997-12-22,Edmonson County,Daviess County,54,49,2,  Bowling Green Invitational Tournament ,0
 1997-12-22,Elkhorn City,Phelps,54,47,0,   ,0
 1997-12-22,Fleming County,Prestonsburg,85,74,2,  King of the Bluegrass ,0
 1997-12-22,Greenup County,Millard,94,56,1,  Greenup Invitational ,0
 1997-12-22,Harlan,Ohio County,53,49,2,  Hub City Classic ,0
-1997-12-22,Huntington. WV,West Carter,75,64,1,  Huntington WV Classic ,0
-1997-12-22,Iroquois,Tennessee High,75,57,2,  King of the Bluegrass ,0
+1997-12-22,Out of State,West Carter,75,64,1,  Huntington WV Classic ,0
+1997-12-22,Iroquois,Out of State,75,57,2,  King of the Bluegrass ,0
 1997-12-22,Knott County Central,Perry County Central,70,65,1,   ,0
-1997-12-22,LaRue County,Brooksville. FL,98,63,2,  Papa Johns Classic ,0
-1997-12-22,Lexington Catholic,Kissimmee Osceola. FL,79,56,0,  Great Florida Shootout ,0
+1997-12-22,LaRue County,Out of State,98,63,2,  Papa Johns Classic ,0
+1997-12-22,Lexington Catholic,Out of State,79,56,0,  Great Florida Shootout ,0
 1997-12-22,Logan County,Cumberland County,80,70,0,   ,0
 1997-12-22,Louisville Collegiate,Covington Latin,75,45,1,   ,0
-1997-12-22,Meade County,Zephyr Hills. FL,72,60,2,  Papa Johns Classic ,0
+1997-12-22,Meade County,Out of State,72,60,2,  Papa Johns Classic ,0
 1997-12-22,Moore,Ballard,68,66,2,  Wendys Central Kentucky Classic ,0
-1997-12-22,Newberry Park. CA,Paul Laurence Dunbar,61,58,2,   ,0
+1997-12-22,Out of State,Paul Laurence Dunbar,61,58,2,   ,0
 1997-12-22,North Hardin,Elizabethtown,66,54,0,  Hub City Classic ,0
-1997-12-22,Pleasure Ridge Park,Galena. NV,72,57,2,  Reebok Holiday Classic ,0
-1997-12-22,Science Hill. TN,Eastern,88,65,2,  King of the Bluegrass ,0
+1997-12-22,Pleasure Ridge Park,Out of State,72,57,2,  Reebok Holiday Classic ,0
+1997-12-22,Out of State,Eastern,88,65,2,  King of the Bluegrass ,0
 1997-12-22,Scott County,Fairdale,75,58,0,  King of the Bluegrass ,0
 1997-12-22,Shawnee,Jeffersontown,50,40,0,   ,0
-1997-12-22,Trinity (Louisville),Jesuit. LA,43,42,1,  Louisville Catholic Invitational ,0
+1997-12-22,Trinity (Louisville),Out of State,43,42,1,  Louisville Catholic Invitational ,0
 1997-12-22,Trinity (Whitesville),Holy Cross (Louisville),50,47,0,  Louisville Catholic Invitational ,0
 1997-12-22,Union County,Webster County,43,39,1,   ,0
 1997-12-22,Warren Central,Rowan County,68,66,2,  Hub City Classic ,0
 1997-12-22,West Jessamine,Washington County,59,42,2,  Wendys Central Kentucky Classic ,0
-1997-12-22,Wayne County,Bay Shore. FL,-,-,0,8:30 PM   ,0
+1997-12-22,Wayne County,Out of State,-,-,0,8:30 PM   ,0
 1997-12-23,Allen Central,Betsy Layne,90,71,0,   ,0
 1997-12-23,Bethlehem,Nelson County,40,36,1,  ChampionshipPapa Johns Classic ,0
 1997-12-23,Bourbon County,Nicholas County,72,47,1,   ,0
 1997-12-23,Bowling Green,Edmonson County,98,46,1,  ChampionshipBowling Green Invitational ,0
 1997-12-23,Boyle County,South Laurel,95,74,0,   ,0
 1997-12-23,Breathitt County,Powell County,96,87,0,   ,0
-1997-12-23,Brooksville. FL,Meade County,60,52,2,  Papa Johns Classic ,0
-1997-12-23,Butler,Science Hill. TN,90,62,2,  ChampionshipKing of the Bluegrass ,0
+1997-12-23,Out of State,Meade County,60,52,2,  Papa Johns Classic ,0
+1997-12-23,Butler,Out of State,90,62,2,  ChampionshipKing of the Bluegrass ,0
 1997-12-23,Calloway County,Carlisle County,57,36,2,   ,0
 1997-12-23,Campbellsville,Marshall County,64,48,0,   ,0
 1997-12-23,Cawood,Barbourville,65,64,0,   ,0
@@ -995,90 +995,90 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-23,Eastern,Male,82,61,0,   ,0
 1997-12-23,Elkhorn City,South Floyd,61,46,1,   ,0
 1997-12-23,Evarts,Cumberland,79,65,1,   ,0
-1997-12-23,Fleming County,Choctawhatchee. FL,69,51,2,  King of the Bluegrass ,0
+1997-12-23,Fleming County,Out of State,69,51,2,  King of the Bluegrass ,0
 1997-12-23,Gallatin County,Eminence,89,75,1,   ,0
 1997-12-23,Greenup County,Belfry,64,59,1,  ChampionshipGreenup Classic ,0
 1997-12-23,Hazard,Whitesburg,89,42,1,   ,0
-1997-12-23,LaRue County,Zephyr Hills. FL,71,52,2,  Papa Johns Classic ,0
+1997-12-23,LaRue County,Out of State,71,52,2,  Papa Johns Classic ,0
 1997-12-23,Leslie County,Letcher,78,76,0,   ,0
-1997-12-23,Lexington Catholic,Jacksonville Ribault. FL,89,65,0,  ChampionshipGreat Florida Shootout ,0
+1997-12-23,Lexington Catholic,Out of State,89,65,0,  ChampionshipGreat Florida Shootout ,0
 1997-12-23,Louisville Collegiate,St. Francis,74,36,1,   ,0
 1997-12-23,Monroe County,Daviess County,53,41,2,  Bowling Green Invitational ,0
 1997-12-23,Newport,Silver Grove,91,57,1,   ,0
 1997-12-23,North Bullitt,Trimble County,75,58,1,   ,0
 1997-12-23,Owsley County,Wolfe County,77,67,0,   ,0
 1997-12-23,Pendleton County,Campbell County,55,54,1,   ,0
-1997-12-23,Ripley. WV,West Carter,75,71,2,  Huntington WV Classic ,0
+1997-12-23,Out of State,West Carter,75,71,2,  Huntington WV Classic ,0
 1997-12-23,Russell,Raceland,71,52,1,   ,0
 1997-12-23,Ryle,Beechwood,51,33,0,   ,0
 1997-12-23,Scott County,Iroquois,75,60,2,  King of the Bluegrass ,0
 1997-12-23,St. Patrick,Millard,86,60,2,  Greenup Classic ,0
 1997-12-23,Trinity (Whitesville),DeSales,48,32,1,   ,0
 1997-12-23,Williamstown,Dayton,80,74,0,   ,0
-1997-12-23,Holy Cross (Covington),Elder. OH,-,-,0,   ,0
-1997-12-23,Jenkins,Wise County Christian. VA,-,-,0,8:30 PM   ,0
+1997-12-23,Holy Cross (Covington),Out of State,-,-,0,   ,0
+1997-12-23,Jenkins,Out of State,-,-,0,8:30 PM   ,0
 1997-12-26,Ashland Blazer,Wolfe County,86,45,2,  Ashland Invitational Tournament ,0
-1997-12-26,Belfry,Dandenong. Australia,73,62,1,  Mountain Schoolboy Classic ,0
+1997-12-26,Belfry,Out of State,73,62,1,  Mountain Schoolboy Classic ,0
 1997-12-26,Bryan Station,Lewis County,96,50,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-26,Campbellsville,Mercer County,83,44,1,  Green River Holiday Classic ,0
-1997-12-26,Carlisle County,Martin Westview. TN,66,56,0,   ,0
+1997-12-26,Carlisle County,Out of State,66,56,0,   ,0
 1997-12-26,Cawood,Pineville,62,49,1,  Cawood Invitational ,0
 1997-12-26,Clay County,Russell,85,84,2,  Ashland Invitational Tournament ,0
-1997-12-26,Clinton County,Clarkrange. TN,71,69,2,   ,0
+1997-12-26,Clinton County,Out of State,71,69,2,   ,0
 1997-12-26,Doss,Apollo,88,67,2,  Bank of Marshall County Holiday Classic ,0
 1997-12-26,Evarts,Whitesburg,80,62,2,  Cawood Invitational ,0
 1997-12-26,Fleming County,Metcalfe County,86,79,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-26,George Rogers Clark,Trigg County,95,67,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-26,Green County,Allen County-Scottsville,59,55,0,   ,0
-1997-12-26,Greenfield. TN,Fulton County,59,52,2,  Martin TN Lions Tournament ,0
+1997-12-26,Out of State,Fulton County,59,52,2,  Martin TN Lions Tournament ,0
 1997-12-26,Iroquois,Adair County,76,55,2,  Green River Holiday Classic ,0
 1997-12-26,LaRue County,Hopkins County Central,63,60,2,  Green River Holiday Classic ,0
 1997-12-26,Lexington Catholic,Boyle County,97,72,1,  Third Bank Kentucky Holiday Classic ,0
 1997-12-26,Madisonville-North Hopkins,Marshall County,83,79,0,  Bank of Marshall County Holiday Classic ,0
 1997-12-26,Menifee County,Morgan County,80,77,1,   ,0
-1997-12-26,North Hardin,Cleveland. TN,68,60,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-26,North Hardin,Out of State,68,60,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-26,Paul Laurence Dunbar,Muhlenberg South,75,62,2,  Bank of Marshall County Holiday Classic ,0
-1997-12-26,Pope County. IL,Lone Oak,75,64,2,  Eldorado Holiday Tournament ,0
-1997-12-26,Port Charlotte. FL,South Oldham,70,42,2,  Pepsi Big Eight Tournament ,0
-1997-12-26,Port St. Luice. FL,Lafayette,70,65,1,  Florida Hall of Fame Classic ,0
-1997-12-26,Rockcastle County,Knott County Central,60,55,2,  OvertimeHooping It Up Holiday Classic ,0
-1997-12-26,Science Hill. TN,Eastern,82,62,2,  Arbys Classic ,0
-1997-12-26,Sheldon Clark,Tug Valley. WV,63,62,2,  Mountain Schoolboy Classic ,0
-1997-12-26,Tampa Berkeley Prep. FL,St. Xavier,57,48,2,  Third Bank Kentucky Holiday Classic ,0
-1997-12-26,Tates Creek,Lemon Bay. FL,82,43,2,  Pepsi Big Eight Tournament ,0
+1997-12-26,Out of State,Lone Oak,75,64,2,  Eldorado Holiday Tournament ,0
+1997-12-26,Out of State,South Oldham,70,42,2,  Pepsi Big Eight Tournament ,0
+1997-12-26,Out of State,Lafayette,70,65,1,  Florida Hall of Fame Classic ,0
+1997-12-26,Rockcastle County,Knott County Central,60,55,2,  OvertimeHooping It Up Holiday Classic ,1
+1997-12-26,Out of State,Eastern,82,62,2,  Arbys Classic ,0
+1997-12-26,Sheldon Clark,Out of State,63,62,2,  Mountain Schoolboy Classic ,0
+1997-12-26,Out of State,St. Xavier,57,48,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-26,Tates Creek,Out of State,82,43,2,  Pepsi Big Eight Tournament ,0
 1997-12-26,Trigg County,Metcalfe County,74,64,2,   ,0
 1997-12-26,Trinity (Louisville),Henderson County,78,72,2,  Bank of Marshall County Holiday Classic ,0
-1997-12-26,West Frankfort. IL,Heath,58,55,2,  Eldorado Holiday Tournament ,0
-1997-12-26,Russell County,St. Petersburg. FL,-,-,0,   ,0
+1997-12-26,Out of State,Heath,58,55,2,  Eldorado Holiday Tournament ,0
+1997-12-26,Russell County,Out of State,-,-,0,   ,0
 1997-12-27,Allen County-Scottsville,Mercer County,71,56,2,  Green River Holiday Classic ,0
 1997-12-27,Bardstown,DeSales,52,39,1,   ,0
 1997-12-27,Belfry,Sheldon Clark,61,55,1,  FinalsMountain Schoolboy Classic ,0
 1997-12-27,Bell County,Montgomery County,53,51,2,  Hooping It Up Holiday Classic ,0
 1997-12-27,Bishop Brossart,Conner,64,56,0,   ,0
-1997-12-27,Boyd County,St. Albans. Washington. DC,74,55,2,  Vero Beach Holiday Hoopla ,0
+1997-12-27,Boyd County,Out of State,74,55,2,  Vero Beach Holiday Hoopla ,0
 1997-12-27,Boyle County,St. Xavier,87,68,2,   ,0
-1997-12-27,Bracken County,Ripley. OH,77,76,0,  Ripley Pepsi Holiday Classic ,0
+1997-12-27,Bracken County,Out of State,77,76,0,  Ripley Pepsi Holiday Classic ,0
 1997-12-27,Brown,Louisville Collegiate,74,70,2,  Burgin Christmas Tournament ,0
-1997-12-27,Bryan Station,Patterson. NJ,71,70,1,   ,0
+1997-12-27,Bryan Station,Out of State,71,70,1,   ,0
 1997-12-27,Bullitt Central,Elliott County,62,60,2,  Burgin Christmas Tournament ,0
 1997-12-27,Campbellsville,Green County,74,49,1,  Green River Holiday Classic ,0
-1997-12-27,Clinton County,Pickett County. TN,72,55,2,   ,0
-1997-12-27,Danville,Lecanto. FL,72,57,2,  Port Ritchie Rotary Ram Classic ,0
-1997-12-27,Dixie Heights,Pacifica. CA,53,44,2,  Walter Wong Holiday Tournament ,0
+1997-12-27,Clinton County,Out of State,72,55,2,   ,0
+1997-12-27,Danville,Out of State,72,57,2,  Port Ritchie Rotary Ram Classic ,0
+1997-12-27,Dixie Heights,Out of State,53,44,2,  Walter Wong Holiday Tournament ,0
 1997-12-27,Doss,Paul Laurence Dunbar,69,63,2,  FinalsBank of Marshall County Holiday Classic ,0
 1997-12-27,Doss,Madisonville-North Hopkins,68,49,2,  Bank of Marshall County Holiday Classic ,0
 1997-12-27,Fleming County,Highlands,69,54,2,  Third Bank Holiday Classic ,0
 1997-12-27,Glasgow,Cumberland County,89,62,1,  Scottie Classic ,0
 1997-12-27,Greenup County,Mason County,57,50,2,  Ashland Invitational Tournament ,0
-1997-12-27,Greenwood,East Elgin. Canada,86,45,2,  Sunshine Classic ,0
+1997-12-27,Greenwood,Out of State,86,45,2,  Sunshine Classic ,0
 1997-12-27,Harrison County,Rockcastle County,63,60,2,   ,0
 1997-12-27,Hart County,Lincoln County,53,47,2,  Nelson County Classic ,0
 1997-12-27,Holy Cross (Covington),Holmes,64,53,1,  Covington City Championship ,0
 1997-12-27,Hopkins County Central,Adair County,55,53,2,  Green River Holiday Classic ,0
 1997-12-27,Iroquois,LaRue County,80,68,2,  Green River Holiday Classic ,0
-1997-12-27,Lafayette,Jupiter. FL,70,57,2,  Florida Hall of Fame Classic ,0
-1997-12-27,Lemon Bay. FL,South Oldham,51,36,2,   ,0
-1997-12-27,Lexington. SC,Williamsburg,50,42,2,  Cumberland Falls Invitational ,0
+1997-12-27,Lafayette,Out of State,70,57,2,  Florida Hall of Fame Classic ,0
+1997-12-27,Out of State,South Oldham,51,36,2,   ,0
+1997-12-27,Out of State,Williamsburg,50,42,2,  Cumberland Falls Invitational ,0
 1997-12-27,Logan County,Magoffin County,61,59,2,  Hooping It Up Holiday Classic ,0
 1997-12-27,Madison Central,Shelby Valley,70,53,2,  Berea Invitational ,0
 1997-12-27,Monroe County,Caverna,77,69,2,  Scottie Classic ,0
@@ -1089,10 +1089,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-27,North Laurel,Grant County,54,51,2,  Hooping It Up Holiday Classic ,0
 1997-12-27,Oldham County,Franklin-Simpson,81,46,2,  Scottie Classic ,0
 1997-12-27,Paris,Madison Southern,58,46,2,  Berea Invitational ,0
-1997-12-27,Paul Laurence Dunbar,Trinity,64,59,2,  Bank of Marshall County Holiday Classic ,0
-1997-12-27,Perry County Central,Oak Ridge. FL,56,55,2,  Vero Beach Holiday Hoopla ,0
+1997-12-27,Paul Laurence Dunbar,Trinity (Louisville),64,59,2,  Bank of Marshall County Holiday Classic ,0
+1997-12-27,Perry County Central,Out of State,56,55,2,  Vero Beach Holiday Hoopla ,0
 1997-12-27,Pleasure Ridge Park,George Rogers Clark,64,59,2,   ,0
-1997-12-27,Port Charlotte. FL,Tates Creek,53,51,2,  Pepsi Big Eight Tournament ,0
+1997-12-27,Out of State,Tates Creek,53,51,2,  Pepsi Big Eight Tournament ,0
 1997-12-27,Pulaski County,Model,65,57,2,  Berea Invitational ,0
 1997-12-27,Raceland,Lawrence County,77,57,0,   ,0
 1997-12-27,Scott County,Newport Central Catholic,66,64,2,  Ashland Invitational Tournament ,0
@@ -1100,9 +1100,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-27,Simon Kenton,Mayfield,73,55,2,  Hooping It Up Holiday Classic ,0
 1997-12-27,Somerset,Estill County,83,74,2,  Berea Invitational ,0
 1997-12-27,South Laurel,Whitley County,78,48,2,  Hooping It Up Holiday Classic ,0
-1997-12-27,St. Helens,West Jessamine,68,65,2,  Surf n Slam Tournament ,0
-1997-12-27,St. Patrick,Williamsburg. OH,62,45,2,  Ripley Pepsi Holiday Classic ,0
-1997-12-27,Union County,Landmark Christian. GA,51,37,2,  Cumberland Falls Invitational ,0
+1997-12-27,Out of State,West Jessamine,68,65,2,  Surf n Slam Tournament ,0
+1997-12-27,St. Patrick,Out of State,62,45,2,  Ripley Pepsi Holiday Classic ,0
+1997-12-27,Union County,Out of State,51,37,2,  Cumberland Falls Invitational ,0
 1997-12-27,Valley,Allen Central,96,74,1,   ,0
 1997-12-27,Warren East,Henry County,67,43,2,  Scottie Classic ,0
 1997-12-27,Wayne County,Central Hardin,52,46,2,  Hooping It Up Holiday Classic ,0
@@ -1114,57 +1114,57 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-28,Grant County,Montgomery County,70,63,2,   ,0
 1997-12-28,Green County,LaRue County,71,64,0,   ,0
 1997-12-28,Harrison County,South Laurel,51,50,2,   ,0
-1997-12-28,Hopkins County Central,Allen County-Scottsville,69,60,2,  Overtime ,0
+1997-12-28,Hopkins County Central,Allen County-Scottsville,69,60,2,  Overtime ,1
 1997-12-28,Iroquois,Campbellsville,70,61,0,   ,0
 1997-12-28,Knott County Central,Whitley County,61,52,2,   ,0
 1997-12-28,Lexington Catholic,Fleming County,81,34,1,   ,0
 1997-12-28,Ohio County,Owensboro Catholic,66,42,0,   ,0
 1997-12-28,Owen County,Gallatin County,75,66,0,   ,0
 1997-12-28,Pleasure Ridge Park,North Hardin,77,51,2,   ,0
-1997-12-28,University Heights,Mercer Island. WA,70,66,2,  Beach Ball Classic ,0
-1997-12-28,Williamsburg,Landmark Christian. GA,71,54,2,  Cumberland Falls Invitational ,0
+1997-12-28,University Heights,Out of State,70,66,2,  Beach Ball Classic ,0
+1997-12-28,Williamsburg,Out of State,71,54,2,  Cumberland Falls Invitational ,0
 1997-12-28,Franklin County,Jackson County,-,-,2,  Cumberland Falls Invitational ,0
 1997-12-28,McCreary Central,Corbin,-,-,0,  Cumberland Falls Invitational ,0
 1997-12-29,Allen Central,DeSales,82,61,2,  Valley Invitational ,0
 1997-12-29,Anderson County,East Jessamine,70,49,1,   ,0
 1997-12-29,Apollo,Daviess County,59,44,0,  Daviess County Invitational ,0
-1997-12-29,Apopka. FL,June Buchanan,75,32,1,   ,0
+1997-12-29,Out of State,June Buchanan,75,32,1,   ,0
 1997-12-29,Ashland Blazer,Clay County,83,61,2,  Ashland Invitational Tournament ,0
-1997-12-29,Ballard,Castle Hills,87,84,2,  OvertimeAlamo Shootout ,0
+1997-12-29,Ballard,Out of State,87,84,2,  OvertimeAlamo Shootout ,1
 1997-12-29,Barren County,McLean County,68,55,2,  Hancock County Bank Tournament ,0
 1997-12-29,Bracken County,St. Patrick,72,53,2,  Ripley Pepsi Holiday Classic ,0
 1997-12-29,Breckinridge County,Seneca,62,59,2,  Valley Invitational ,0
 1997-12-29,Bullitt Central,Silver Grove,90,50,2,  Burgin Christmas Tournament ,0
 1997-12-29,Burgin,Brown,91,79,1,  Burgin Christmas Tournament ,0
 1997-12-29,Caldwell County,Livingston Central,60,46,0,   ,0
-1997-12-29,Calloway County,Dyer County. TN,40,31,2,  Martin TN Lions Tournament ,0
-1997-12-29,Carlisle County,Greenfield. TN,62,52,2,  Martin TN Lions Tournament ,0
-1997-12-29,Central Park. AL,Whitefield Academy,62,46,2,  Coca-Cola Holiday Classic ,0
-1997-12-29,Christian County,Evansville Bosse. IN,90,75,2,   ,0
-1997-12-29,Christian County,Pine Bluff. AK,82,75,2,  Poplar Bluff Showdown ,0
-1997-12-29,Cleveland. TN,St. Xavier,72,49,2,  Third Bank Kentucky Holiday Classic ,0
-1997-12-29,Cordia,East Elgin. Canada,86,63,2,  Sunshine Classic ,0
-1997-12-29,Danville,Ridgewood. FL,73,65,2,  Port Ritchie Rotary Ram Classic ,0
-1997-12-29,Eastern,Daniel Boone,80,48,2,  Arbys Classic ,0
+1997-12-29,Calloway County,Out of State,40,31,2,  Martin TN Lions Tournament ,0
+1997-12-29,Carlisle County,Out of State,62,52,2,  Martin TN Lions Tournament ,0
+1997-12-29,Out of State,Whitefield Academy,62,46,2,  Coca-Cola Holiday Classic ,0
+1997-12-29,Christian County,Out of State,90,75,2,   ,0
+1997-12-29,Christian County,Out of State,82,75,2,  Poplar Bluff Showdown ,0
+1997-12-29,Out of State,St. Xavier,72,49,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-29,Cordia,Out of State,86,63,2,  Sunshine Classic ,0
+1997-12-29,Danville,Out of State,73,65,2,  Port Ritchie Rotary Ram Classic ,0
+1997-12-29,Eastern,Out of State,80,48,2,  Arbys Classic ,0
 1997-12-29,Elliott County,Eminence,97,68,2,  Burgin Christmas Tournament ,0
 1997-12-29,Estill County,Berea,62,53,0,  Berea Invitational ,0
-1997-12-29,Evangel Christian,Emanual Baptist,86,58,2,  Coca-Cola Holiday Classic ,0
-1997-12-29,Fleming County,Tampa Berkeley Prep. FL,56,52,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-29,Evangel Christian,Out of State,86,58,2,  Coca-Cola Holiday Classic ,0
+1997-12-29,Fleming County,Out of State,56,52,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-29,Franklin County,McCreary Central,69,59,2,  Cumberland Falls Invitational ,0
-1997-12-29,Fulton County,Martin Westview. TN,48,44,0,   ,0
+1997-12-29,Fulton County,Out of State,48,44,0,   ,0
 1997-12-29,Gallatin County,Walton-Verona,74,69,2,   ,0
 1997-12-29,George Rogers Clark,Trigg County,69,58,2,  Third Bank Kentucky Holiday Classic ,0
-1997-12-29,Graves County,Memphis Hillcrest. TN,74,44,2,  Poplar Bluff Showdown ,0
-1997-12-29,Greenwood,Cannon County. TN,71,65,2,  SemifinalsSunshine Classic ,0
-1997-12-29,Gulliver Prep. FL,South Oldham,64,54,2,  Pepsi Big Eight Tournament ,0
+1997-12-29,Graves County,Out of State,74,44,2,  Poplar Bluff Showdown ,0
+1997-12-29,Greenwood,Out of State,71,65,2,  SemifinalsSunshine Classic ,0
+1997-12-29,Out of State,South Oldham,64,54,2,  Pepsi Big Eight Tournament ,0
 1997-12-29,Hancock County,Todd County Central,64,55,1,  Hancock County Bank Tournament ,0
 1997-12-29,Highlands,Boyle County,57,51,2,   ,0
-1997-12-29,Hopkinsville,Pensacola-Tate. FL,82,70,2,  Florida Shootout ,0
-1997-12-29,Indianapolis Baptist. IN,Beth Haven,79,57,0,  Coca-Cola Holiday Classic ,0
+1997-12-29,Hopkinsville,Out of State,82,70,2,  Florida Shootout ,0
+1997-12-29,Out of State,Beth Haven,79,57,0,  Coca-Cola Holiday Classic ,0
 1997-12-29,Kentucky Country Day,Lexington Christian,67,47,2,  Coca-Cola Holiday Classic ,0
-1997-12-29,Lafayette,South Fork. FL,85,72,0,  Florida Hall of Fame Classic ,0
-1997-12-29,Lexington Catholic,Wheeling Park. WV,78,72,1,  Third Bank Kentucky Holiday Classic ,0
-1997-12-29,Lexington. SC,Union County,38,33,2,  Cumberland Falls Invitational ,0
+1997-12-29,Lafayette,Out of State,85,72,0,  Florida Hall of Fame Classic ,0
+1997-12-29,Lexington Catholic,Out of State,78,72,1,  Third Bank Kentucky Holiday Classic ,0
+1997-12-29,Out of State,Union County,38,33,2,  Cumberland Falls Invitational ,0
 1997-12-29,Lincoln County,Christian Academy-Louisville,68,56,2,  Nelson County Classic ,0
 1997-12-29,Madison Central,Woodford County,57,36,2,  Berea Invitational ,0
 1997-12-29,Madison Southern,Berea,53,37,0,  Berea Invitational ,0
@@ -1172,71 +1172,71 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-29,Model,Powell County,88,67,2,  Berea Invitational ,0
 1997-12-29,Monticello,Somerset,66,53,2,  Berea Invitational ,0
 1997-12-29,Moore,Bell County,72,50,2,  Hooping It Up Holiday Classic ,0
-1997-12-29,Muhlenberg North,Bainbridge. GA,66,43,2,  Fort Walton Beach Playground Classic ,0
+1997-12-29,Muhlenberg North,Out of State,66,43,2,  Fort Walton Beach Playground Classic ,0
 1997-12-29,Muhlenberg South,Owensboro Catholic,57,55,2,  Owensboro Invitational ,0
 1997-12-29,Nelson County,Hart County,85,57,1,  Nelson County Classic ,0
-1997-12-29,North Hardin,Paterson Catholic,63,55,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-29,North Hardin,Out of State,63,55,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-29,North Laurel,Logan County,43,41,1,   ,0
 1997-12-29,Owensboro,Henderson County,79,53,1,  Owensboro Invitational ,0
-1997-12-29,Paducah Tilghman,Bellville West. IL,69,46,2,   ,0
+1997-12-29,Paducah Tilghman,Out of State,69,46,2,   ,0
 1997-12-29,Paris,Western Hills,77,64,2,  Berea Invitational ,0
 1997-12-29,Pleasure Ridge Park,Bryan Station,79,48,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-29,Providence,Lyon County,84,57,2,  Druthers Holiday Classic ,0
 1997-12-29,Scott County,Greenup County,71,53,2,  Ashland Invitational Tournament ,0
-1997-12-29,Shelby County,Myrtle Beach. SC,80,42,0,  Beach Ball Classic ,0
+1997-12-29,Shelby County,Out of State,80,42,0,  Beach Ball Classic ,0
 1997-12-29,Simon Kenton,Harrison County,65,53,2,  Hooping It Up Holiday Classic ,0
-1997-12-29,Southwestern,Maryville. TN,75,64,0,  Maryville Classic ,0
-1997-12-29,Tates Creek,Cape Coral. FL,64,47,2,  Pepsi Big Eight Tournament ,0
-1997-12-29,University Heights,Colony. AL,67,57,2,  Beach Ball Classic ,0
-1997-12-29,Waggener,Jacksonville Clay. FL,67,47,0,  Grand Haven Holiday Classic ,0
+1997-12-29,Southwestern,Out of State,75,64,0,  Maryville Classic ,0
+1997-12-29,Tates Creek,Out of State,64,47,2,  Pepsi Big Eight Tournament ,0
+1997-12-29,University Heights,Out of State,67,57,2,  Beach Ball Classic ,0
+1997-12-29,Waggener,Out of State,67,47,0,  Grand Haven Holiday Classic ,0
 1997-12-29,Webster County,Pulaski County,52,45,2,  Berea Invitational ,0
-1997-12-29,West Carter,Holy Cross,63,54,2,  Derby City Tournament of Champions ,0
+1997-12-29,West Carter,Holy Cross (Louisville),63,54,2,  Derby City Tournament of Champions ,0
 1997-12-29,Western,Southern,62,50,2,  Valley Invitational ,0
 1997-12-30,Anderson County,East Carter,47,42,1,  Anderson County Invitational ,0
 1997-12-30,Ashland Blazer,Scott County,79,69,2,  Ashland Invitational Tournament ,0
 1997-12-30,Atherton,Bullitt East,86,66,1,  Derby City Tournament of Champions ,0
 1997-12-30,Barren County,Hancock County,63,58,2,  Hancock County Tournament ,0
-1997-12-30,Bellbrook. OH,Danville,72,69,2,   ,0
+1997-12-30,Out of State,Danville,72,69,2,   ,0
 1997-12-30,Beth Haven,Evangel Christian,67,66,1,  Beth Haven Holiday Classic ,0
 1997-12-30,Bishop Brossart,St. Henry,54,52,1,   ,0
-1997-12-30,Bishop-Lofflin,University Heights,63,54,2,  Beach Ball Classic ,0
+1997-12-30,Out of State,University Heights,63,54,2,  Beach Ball Classic ,0
 1997-12-30,Bowling Green,Ryle,64,57,2,  ChampionshipDaviess County Invitational ,0
 1997-12-30,Bowling Green,Apollo,85,72,2,  Daviess County Invitational ,0
-1997-12-30,Boyd County,Vero Beach. FL,54,48,0,  ChampionshipVero Beach Invitational ,0
+1997-12-30,Boyd County,Out of State,54,48,0,  ChampionshipVero Beach Invitational ,0
 1997-12-30,Breckinridge County,Allen Central,70,60,2,  Valley Invitational ,0
 1997-12-30,Brown,Silver Grove,75,58,2,  Burgin Christmas Tournament ,0
-1997-12-30,Bryan Station,Wheeling Park. WV,70,65,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-30,Bryan Station,Out of State,70,65,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-30,Bullitt Central,Burgin,80,50,0,  ChampionshipBurgin Christmas Tournament ,0
 1997-12-30,Caverna,Henry County,96,77,2,  Scottie Classic ,0
-1997-12-30,Central Park. AL,Beth Haven,75,58,0,  ChampionshipBeth Haven Holiday Classic ,0
-1997-12-30,Choctaw High. FL,Hopkinsville,76,60,2,   ,0
-1997-12-30,Christian County,Poplar Bluff. MO,63,59,0,  Poplar Bluff Showdown ,0
-1997-12-30,Cleveland. TN,Metcalfe County,88,64,2,  Third Bank Kentucky Holiday Classic ,0
+1997-12-30,Out of State,Beth Haven,75,58,0,  ChampionshipBeth Haven Holiday Classic ,0
+1997-12-30,Out of State,Hopkinsville,76,60,2,   ,0
+1997-12-30,Christian County,Out of State,63,59,0,  Poplar Bluff Showdown ,0
+1997-12-30,Out of State,Metcalfe County,88,64,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-30,Cloverport,Butler County,65,55,2,   ,0
 1997-12-30,Conner,Bracken County,76,48,0,   ,0
-1997-12-30,Corbin,Lexington. SC,63,48,1,  ChampionshipCumberland Falls Invitiational ,0
-1997-12-30,Cordia,Bishop Donahue. WV,82,65,2,  Sunshine Classic ,0
-1997-12-30,Covington Catholic,Father Ryan. TN,65,53,2,  Helias Christmas Tournament ,0
-1997-12-30,Covington. TN,Carlisle County,65,51,2,  Martin TN Lions Tournament ,0
+1997-12-30,Corbin,Out of State,63,48,1,  ChampionshipCumberland Falls Invitiational ,0
+1997-12-30,Cordia,Out of State,82,65,2,  Sunshine Classic ,0
+1997-12-30,Covington Catholic,Out of State,65,53,2,  Helias Christmas Tournament ,0
+1997-12-30,Out of State,Carlisle County,65,51,2,  Martin TN Lions Tournament ,0
 1997-12-30,DeSales,Seneca,69,61,0,   ,0
 1997-12-30,Doss,Russellville,59,56,2,  ChampionshipDerby City Tournament of Champions ,0
 1997-12-30,Doss,West Carter,69,55,2,  SemifinalDerby City Tournament of Champions ,0
 1997-12-30,East Jessamine,Frankfort,35,34,2,  Anderson County Invitational ,0
-1997-12-30,Eastern,Tennessee High,63,54,2,  Arbys Classic ,0
+1997-12-30,Eastern,Out of State,63,54,2,  Arbys Classic ,0
 1997-12-30,Evangel Christian,Kentucky Country Day,66,57,2,  Beth Haven Holiday Classic ,0
-1997-12-30,Fairdale,Crestview. FL,71,56,0,   ,0
+1997-12-30,Fairdale,Out of State,71,56,0,   ,0
 1997-12-30,Feds Creek,Pike County Central,68,62,2,   ,0
-1997-12-30,Fort Pierce. FL,June Buchanan,68,46,1,   ,0
+1997-12-30,Out of State,June Buchanan,68,46,1,   ,0
 1997-12-30,Franklin County,Williamsburg,74,62,2,  Cumberland Falls Invitational ,0
 1997-12-30,Gallatin County,Carroll County,74,63,2,  District 31-32 Shootout ,0
 1997-12-30,George Rogers Clark,Highlands,50,35,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-30,Glasgow,Oldham County,74,39,1,  SemifinalsScottie Classic ,0
-1997-12-30,Glynn Academny. GA,Male,65,57,2,  Fort Walton Beach Playground Classic ,0
-1997-12-30,Graves County,Booker T. Washington. OK,73,47,2,  Poplar Bluff Showdown ,0
-1997-12-30,Greenwood,Father Lopez. FL,59,49,2,  ChampionshipSunshine Classic ,0
+1997-12-30,Out of State,Male,65,57,2,  Fort Walton Beach Playground Classic ,0
+1997-12-30,Graves County,Out of State,73,47,2,  Poplar Bluff Showdown ,0
+1997-12-30,Greenwood,Out of State,59,49,2,  ChampionshipSunshine Classic ,0
 1997-12-30,Harrison County,Bell County,72,64,2,   ,0
 1997-12-30,Hart County,Christian Academy-Louisville,90,79,2,  Nelson County Classic ,0
-1997-12-30,Holmes,Cincinnati Woodward. OH,64,61,1,  Overtime ,0
+1997-12-30,Holmes,Out of State,64,61,1,  Overtime ,1
 1997-12-30,Holy Cross (Louisville),Lloyd Memorial,57,29,2,  Derby City Tournament of Champions ,0
 1997-12-30,Holy Cross (Louisville),Atherton,64,52,0,  Derby City Tournament of Champions ,0
 1997-12-30,Lexington Catholic,Pleasure Ridge Park,87,70,1,  ChampionshipThird Bank Kentucky Holiday Classic ,0
@@ -1244,11 +1244,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-30,Lloyd Memorial,Bullitt East,67,63,2,  Derby City Tournament of Champions ,0
 1997-12-30,Madison Central,Webster County,44,33,2,  Berea Invitational ,0
 1997-12-30,Madison Central,Paris,63,53,2,  ChampionshipBerea Invitational ,0
-1997-12-30,McCreary Central,Landmark Christian. GA,75,68,2,  Cumberland Falls Invitational ,0
-1997-12-30,Middlesboro,Seymore. TN,53,34,0,  Smokey Mountain Classic ,0
+1997-12-30,McCreary Central,Out of State,75,68,2,  Cumberland Falls Invitational ,0
+1997-12-30,Middlesboro,Out of State,53,34,0,  Smokey Mountain Classic ,0
 1997-12-30,Monroe County,Warren East,59,49,2,  SemifinalsScottie Classic ,0
-1997-12-30,Mt. Vernon. IL,Paducah Tilghman,66,52,2,  Centralia IL Holiday Tournament ,0
-1997-12-30,North Bullitt,St. Brendan. FL,72,55,2,  Pepsi Big Eight Tournament ,0
+1997-12-30,Out of State,Paducah Tilghman,66,52,2,  Centralia IL Holiday Tournament ,0
+1997-12-30,North Bullitt,Out of State,72,55,2,  Pepsi Big Eight Tournament ,0
 1997-12-30,North Hardin,Fleming County,59,55,2,  Third Bank Kentucky Holiday Classic ,0
 1997-12-30,Ohio County,Muhlenberg South,72,50,0,   ,0
 1997-12-30,Owen County,Walton-Verona,60,44,1,  District 31-32 Shootout ,0
@@ -1256,7 +1256,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-30,Pendleton County,Scott,62,47,0,   ,0
 1997-12-30,Russellville,Ballard Memorial,68,44,2,  SemifinalDerby City Tournament of Champions ,0
 1997-12-30,Ryle,Daviess County,56,42,0,  Daviess County Invitational ,0
-1997-12-30,Sacred Heart. CA,Ballard,62,47,2,  Alamo Shootout ,0
+1997-12-30,Out of State,Ballard,62,47,2,  Alamo Shootout ,0
 1997-12-30,Shawnee,Spencer County,71,46,0,  Spencer County Tournament ,0
 1997-12-30,Simon Kenton,Moore,65,57,2,  ChampionshipHoopin It Up Holiday Classic ,0
 1997-12-30,Southern,Bardstown,60,46,2,  Valley Invitational ,0
@@ -1266,7 +1266,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-30,Western,Valley,77,67,0,  ChampionshipValley Invitational ,0
 1997-12-30,Whitefield Academy,Lexington Christian,71,56,2,  Beth Haven Holiday Classic ,0
 1997-12-30,Morgan County,Bath County,-,-,0,   ,0
-1997-12-30,Lawrenceburg. IN,Beechwood,-,-,0,7:00 PM   ,0
+1997-12-30,Out of State,Beechwood,-,-,0,7:00 PM   ,0
 1997-12-30,Cumberland County,Franklin-Simpson,-,-,2,  Scottie Classic(Cumberland County forfeits because of road conditions ) ,0
 1997-12-30,Wayne County,Lawrence County,-,-,0,7:00 PM   ,0
 1997-12-30,Hazard,Wolfe County,-,-,0,8:30 PM   ,0
@@ -1275,14 +1275,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1997-12-31,Glasgow,Monroe County,85,63,1,  ChampionshipScottie Classic ,0
 1997-12-31,Graves County,Christian County,69,43,2,   ,0
 1997-12-31,June Buchanan,Fleming-Neon,76,68,2,  Kiwanis Holiday Classic ,0
-1997-12-31,Liberty. VA,Eastern,64,62,2,  Fifth Place Arbys Classic ,0
+1997-12-31,Out of State,Eastern,64,62,2,  Fifth Place Arbys Classic ,0
 1997-12-31,Muhlenberg North,Hopkinsville,69,60,2,  Fort Walton Beach Playground Classic ,0
 1997-12-31,Ohio County,Owensboro,73,63,0,  ChampionshipOwensboro Invitational ,0
-1997-12-31,Paducah Tilghman,Homewood-Flossmoor. IL,85,77,2,   ,0
-1997-12-31,Paducah Tilghman,McEachern. GA,76,70,2,   ,0
+1997-12-31,Paducah Tilghman,Out of State,85,77,2,   ,0
+1997-12-31,Paducah Tilghman,Out of State,76,70,2,   ,0
 1997-12-31,Warren East,Oldham County,54,36,2,  Third PlaceScottie Classic ,0
 1998-01-01,Bath County,Deming,62,58,0,   ,0
-1998-01-01,Dawson Springs,Evansville Day. IN,78,69,2,   ,0
+1998-01-01,Dawson Springs,Out of State,78,69,2,   ,0
 1998-01-01,Magoffin County,Feds Creek,67,54,2,   ,0
 1998-01-01,Montgomery County,Lawrence County,67,48,2,   ,0
 1998-01-01,Nicholas County,Menifee County,80,45,2,   ,0
@@ -1321,8 +1321,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-02,Magoffin County,Pike County Central,54,39,2,   ,0
 1998-01-02,Marion County,Adair County,66,61,0,   ,0
 1998-01-02,Mason County,Holy Cross (Covington),36,22,0,   ,0
-1998-01-02,Metcalfe County,Clinton County,100,97,1,  Overtime ,0
-1998-01-02,Middlesboro,Pittman. TN,54,44,2,  Smokey Mountain Classic ,0
+1998-01-02,Metcalfe County,Clinton County,100,97,1,  Overtime ,1
+1998-01-02,Middlesboro,Out of State,54,44,2,  Smokey Mountain Classic ,0
 1998-01-02,Montgomery County,Raceland,82,79,2,  Dairy Queen Classic ,0
 1998-01-02,Morgan County,Fairview,59,58,0,   ,0
 1998-01-02,Ohio County,Hancock County,61,50,0,   ,0
@@ -1337,9 +1337,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-02,St. Mary,Ballard Memorial,64,48,1,   ,0
 1998-01-02,Trimble County,Eminence,79,62,0,   ,0
 1998-01-02,Union County,Caldwell County,56,23,0,   ,0
-1998-01-02,Webster County,Evansville Day. IN,52,42,1,   ,0
+1998-01-02,Webster County,Out of State,52,42,1,   ,0
 1998-01-02,Western Hills,Berea,53,50,1,   ,0
-1998-01-02,McGregor. Canada,Beechwood,-,-,0,7:00 PM   ,0
+1998-01-02,Out of State,Beechwood,-,-,0,7:00 PM   ,0
 1998-01-02,Southwestern,Fleming-Neon,-,-,0,8:30 PM   ,0
 1998-01-02,Todd County Central,Franklin-Simpson,-,-,0,8:30 PM   ,0
 1998-01-02,Cloverport,Owensboro Catholic,-,-,2,7:00 PM   ,0
@@ -1349,7 +1349,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-02,Russell County,Taylor County,-,-,0,   ,0
 1998-01-03,Barbourville,Williamsburg,60,56,1,   ,0
 1998-01-03,Bath County,Montgomery County,57,50,1,  Dairy Queen Classic ,0
-1998-01-03,Bellevue,John McGregor. Canada,64,47,1,   ,0
+1998-01-03,Bellevue,Out of State,64,47,1,   ,0
 1998-01-03,Berea,Estill County,78,48,1,   ,0
 1998-01-03,Bishop Brossart,Pendleton County,44,32,0,   ,0
 1998-01-03,Boyd County,Greenup County,59,54,1,   ,0
@@ -1359,7 +1359,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-03,Campbell County,Conner,76,72,1,   ,0
 1998-01-03,Carlisle County,Mayfield,56,44,0,   ,0
 1998-01-03,Cawood,Pineville,72,49,1,  Cawood Invitational ,0
-1998-01-03,Clinton County,Oneida. TN,69,59,2,   ,0
+1998-01-03,Clinton County,Out of State,69,59,2,   ,0
 1998-01-03,Crittenden County,Trigg County,86,70,1,   ,0
 1998-01-03,Cumberland,Jenkins,80,56,2,  Cawood Invitational ,0
 1998-01-03,Dayton,Kentucky Country Day,74,63,0,   ,0
@@ -1379,22 +1379,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-03,Paintsville,Newport Central Catholic,75,68,1,   ,0
 1998-01-03,Phelps,Allen Central,74,70,1,   ,0
 1998-01-03,Prestonsburg,Harrison County,65,59,1,   ,0
-1998-01-03,Providence,Evansville Day. IN,72,65,2,   ,0
+1998-01-03,Providence,Out of State,72,65,2,   ,0
 1998-01-03,Red Bird,Leslie County,71,63,1,   ,0
 1998-01-03,Sayre,Woodford County,66,60,0,   ,0
 1998-01-03,Scott County,Anderson County,86,55,1,   ,0
 1998-01-03,Sheldon Clark,South Floyd,59,54,0,   ,0
 1998-01-03,Simon Kenton,St. Henry,84,76,1,   ,0
 1998-01-03,St. Patrick,Silver Grove,90,64,1,   ,0
-1998-01-03,University Heights,Williamson. WV,90,73,1,   ,0
+1998-01-03,University Heights,Out of State,90,73,1,   ,0
 1998-01-03,Washington County,Bethlehem,54,48,0,   ,0
 1998-01-03,Webster County,Dawson Springs,58,33,0,   ,0
-1998-01-03,Highlands,Fairfield. OH,-,-,0,7:00 PM   ,0
-1998-01-03,Trinity (Whitesville),New Harmony. IN,-,-,0,8:30 PM   ,0
+1998-01-03,Highlands,Out of State,-,-,0,7:00 PM   ,0
+1998-01-03,Trinity (Whitesville),Out of State,-,-,0,8:30 PM   ,0
 1998-01-03,Southwestern,Henry Clay,-,-,2,4:30 PM   ,0
 1998-01-04,Cumberland,Pineville,73,56,2,   ,0
 1998-01-05,Carlisle County,Mayfield,56,44,0,   ,0
-1998-01-05,Lynn Camp,Frank White. TN,-,-,0,8:30 PM   ,0
+1998-01-05,Lynn Camp,Out of State,-,-,0,8:30 PM   ,0
 1998-01-05,Bardstown,Nelson County,-,-,0,7:00 PM   ,0
 1998-01-06,Apollo,Grayson County,54,43,1,   ,0
 1998-01-06,Ashland Blazer,Russell,83,73,0,   ,0
@@ -1419,14 +1419,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-06,Christian County,Hopkins County Central,75,64,1,   ,0
 1998-01-06,Clay County,Rockcastle County,75,69,0,   ,0
 1998-01-06,Clinton County,Adair County,72,60,0,   ,0
-1998-01-06,Crittenden County,Dawson Springs,78,67,0,  Overtime ,0
+1998-01-06,Crittenden County,Dawson Springs,78,67,0,  Overtime ,1
 1998-01-06,Dayton,Beechwood,63,60,1,   ,0
 1998-01-06,Deming,Augusta,74,59,1,   ,0
 1998-01-06,East Carter,Morgan County,59,58,1,   ,0
 1998-01-06,Elizabethtown,Anderson County,81,52,1,   ,0
 1998-01-06,Elkhorn City,Belfry,49,41,1,   ,0
 1998-01-06,Evarts,Cawood,71,55,1,   ,0
-1998-01-06,Feds Creek,Matewan. WV,75,59,0,   ,0
+1998-01-06,Feds Creek,Out of State,75,59,0,   ,0
 1998-01-06,Fern Creek,Male,71,61,2,  Louisville Invitational Tournament ,0
 1998-01-06,Fleming County,Raceland,86,59,1,   ,0
 1998-01-06,Glasgow,Allen County-Scottsville,79,65,1,   ,0
@@ -1436,12 +1436,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-06,Harlan,Cumberland,73,65,1,   ,0
 1998-01-06,Hazard,Leslie County,92,38,1,   ,0
 1998-01-06,Henry Clay,Woodford County,65,63,0,   ,0
-1998-01-06,Henry County. TN,Murray,77,42,1,   ,0
+1998-01-06,Out of State,Murray,77,42,1,   ,0
 1998-01-06,Hickman County,Fulton County,66,54,1,   ,0
 1998-01-06,Highlands,Dixie Heights,68,37,1,   ,0
 1998-01-06,Holmes,Lloyd Memorial,39,36,0,   ,0
 1998-01-06,Hopkinsville,Livingston Central,77,43,0,   ,0
-1998-01-06,Iroquois,Ballard,78,72,2,  OvertimeLouisville Invitational Tournament ,0
+1998-01-06,Iroquois,Ballard,78,72,2,  OvertimeLouisville Invitational Tournament ,1
 1998-01-06,Kentucky Country Day,St. Francis,71,33,1,   ,0
 1998-01-06,Knott County Central,Cordia,73,53,1,   ,0
 1998-01-06,Lawrence County,Bath County,63,50,1,   ,0
@@ -1460,12 +1460,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-06,Meade County,Hart County,71,59,1,   ,0
 1998-01-06,Menifee County,Nicholas County,73,59,0,   ,0
 1998-01-06,Metcalfe County,Cumberland County,83,73,0,   ,0
-1998-01-06,Middlesboro,Thomas Walker. VA,72,48,1,   ,0
+1998-01-06,Middlesboro,Out of State,72,48,1,   ,0
 1998-01-06,Model,Berea,71,69,1,   ,0
 1998-01-06,Muhlenberg North,Muhlenberg South,66,54,0,   ,0
 1998-01-06,Newport Central Catholic,Bishop Brossart,59,51,1,   ,0
 1998-01-06,North Hardin,Central Hardin,70,46,1,   ,0
-1998-01-06,Northeast (Clarksville). TN,Fort Campbell,68,37,2,   ,0
+1998-01-06,Out of State,Fort Campbell,68,37,2,   ,0
 1998-01-06,Ohio County,Owensboro Catholic,65,54,0,   ,0
 1998-01-06,Oldham County,Gallatin County,74,59,1,   ,0
 1998-01-06,Owen County,Williamstown,52,48,0,   ,0
@@ -1475,8 +1475,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-06,Paintsville,Johnson Central,86,71,0,   ,0
 1998-01-06,Paris,Bourbon County,71,68,1,   ,0
 1998-01-06,Paul Laurence Dunbar,Lafayette,81,57,2,   ,0
-1998-01-06,Pikeville,Australian Team,62,57,1,   ,0
-1998-01-06,Pineville,Powell Valley. TN,64,63,2,   ,0
+1998-01-06,Pikeville,Out of State,62,57,1,   ,0
+1998-01-06,Pineville,Out of State,64,63,2,   ,0
 1998-01-06,Prestonsburg,South Floyd,73,62,1,   ,0
 1998-01-06,Providence,Butler County,82,63,0,   ,0
 1998-01-06,Pulaski County,Harrodsburg,68,66,1,   ,0
@@ -1493,7 +1493,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-06,Trimble County,Brown,82,65,1,   ,0
 1998-01-06,Trinity (Whitesville),McLean County,63,56,1,   ,0
 1998-01-06,Union County,Lyon County,84,33,0,   ,0
-1998-01-06,Valley,Trinity,65,58,2,  Louisville Invitational Tournament ,0
+1998-01-06,Valley,Trinity (Louisville),65,58,2,  Louisville Invitational Tournament ,0
 1998-01-06,Warren Central,Franklin-Simpson,96,68,1,   ,0
 1998-01-06,Wayne County,Monticello,53,50,1,   ,0
 1998-01-06,Webster County,Henderson County,66,63,0,   ,0
@@ -1502,8 +1502,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-06,Whitefield Academy,Christian Academy-Louisville,72,58,2,   ,0
 1998-01-06,Whitesburg,Fleming-Neon,83,71,1,   ,0
 1998-01-06,Williamsburg,Knox Central,69,65,0,   ,0
-1998-01-06,Dawson Bryant (Coal Grove). OH,Fairview,-,-,0,7:00 PM   ,0
-1998-01-06,Rose Hill Christian,Grace Christian,-,-,0,7:00 PM   ,0
+1998-01-06,Out of State,Fairview,-,-,0,7:00 PM   ,0
+1998-01-06,Rose Hill Christian,Out of State,-,-,0,7:00 PM   ,0
 1998-01-06,Newport,Heritage Academy,-,-,0,8:30 PM   ,0
 1998-01-06,Perry County Central,Letcher,-,-,0,7:30 PM   ,0
 1998-01-06,Spencer County,North Bullitt,-,-,0,9:00 PM   ,0
@@ -1518,7 +1518,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-07,Mason County,Pendleton County,70,48,1,  Mason County Invitational Tournament ,0
 1998-01-07,Owen County,Henry County,56,42,0,   ,0
 1998-01-07,Phelps,Pike County Central,63,51,2,  Pikeville Invitational Tournament ,0
-1998-01-07,Pikeville,Mingo Christian,83,53,1,  Pikeville Invitational Tournament ,0
+1998-01-07,Pikeville,Out of State,83,53,1,  Pikeville Invitational Tournament ,0
 1998-01-07,Pleasure Ridge Park,Valley,107,76,2,  Louisville Invitational Tournament ,0
 1998-01-08,Adair County,Allen County-Scottsville,66,59,1,   ,0
 1998-01-08,Bishop Brossart,Montgomery County,65,48,2,  Mason County Invitational Tournament ,0
@@ -1526,19 +1526,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-08,Gallatin County,Oldham County,58,42,2,  Henry County Invitational ,0
 1998-01-08,Henderson County,University Heights,91,79,1,   ,0
 1998-01-08,Jeffersontown,Spencer County,70,59,0,   ,0
-1998-01-08,Kentucky School f/t Deaf,School f/t Deaf. TN,52,44,1,   ,0
+1998-01-08,Kentucky School f/t Deaf,Out of State,52,44,1,   ,0
 1998-01-08,Madison Central,Tates Creek,72,56,0,   ,0
 1998-01-08,Seneca,Christian Academy-Louisville,68,67,0,   ,0
 1998-01-08,St. Patrick,Harrison County,59,43,2,  Mason County Invitational Tournament ,0
-1998-01-08,Thomas Walker. VA,Lynn Camp,72,61,1,   ,0
+1998-01-08,Out of State,Lynn Camp,72,61,1,   ,0
 1998-01-08,Trimble County,North Bullitt,57,51,2,  Henry County Invitational ,0
 1998-01-08,Waggener,DuPont Manual,76,57,0,   ,0
-1998-01-08,Warren East,Metcalfe County,49,47,1,  Overtime ,0
+1998-01-08,Warren East,Metcalfe County,49,47,1,  Overtime ,1
 1998-01-08,Whitefield Academy,Portland Christian,51,39,0,   ,0
 1998-01-08,Holy Cross (Louisville),Butler,-,-,0,8:30 PM   ,0
 1998-01-08,Washington County,Fort Knox,-,-,0,8:30 PM   ,0
 1998-01-08,Cloverport,Hancock County,-,-,2,7:00 PM   ,0
-1998-01-08,Dandenong. Australia,Greenup County,-,-,2,  Pikeville Invitational ,0
+1998-01-08,Out of State,Greenup County,-,-,2,  Pikeville Invitational ,0
 1998-01-08,Shelby Valley,Betsy Layne,-,-,2,  Pikeville Invitational ,0
 1998-01-09,Allen Central,Knott County Central,77,63,1,   ,0
 1998-01-09,Ashland Blazer,George Rogers Clark,55,54,2,   ,0
@@ -1568,8 +1568,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Corbin,Jackson County,76,50,1,   ,0
 1998-01-09,Cordia,Fleming-Neon,79,63,1,   ,0
 1998-01-09,Crittenden County,Caldwell County,70,44,1,   ,0
-1998-01-09,Cumberland,Wise. VA,88,71,0,   ,0
-1998-01-09,Dandenong. Australia,Shelby Valley,73,54,2,  Pikeville Invitational ,0
+1998-01-09,Cumberland,Out of State,88,71,0,   ,0
+1998-01-09,Out of State,Shelby Valley,73,54,2,  Pikeville Invitational ,0
 1998-01-09,Dawson Springs,Providence,72,64,1,   ,0
 1998-01-09,Edmonson County,Cloverport,88,72,1,   ,0
 1998-01-09,Evangel Christian,Christian Fellowship,71,60,1,   ,0
@@ -1579,7 +1579,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Grant County,Walton-Verona,90,59,1,   ,0
 1998-01-09,Graves County,Central,65,47,2,  Louisville Invitational Tournament ,0
 1998-01-09,Grayson County,Owensboro Catholic,67,51,1,   ,0
-1998-01-09,Hancock County,Cannelton. IN,69,64,0,   ,0
+1998-01-09,Hancock County,Out of State,69,64,0,   ,0
 1998-01-09,Harlan,Pineville,54,42,1,   ,0
 1998-01-09,Harrodsburg,Southwestern,70,63,1,   ,0
 1998-01-09,Hart County,Green County,86,71,1,   ,0
@@ -1591,7 +1591,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Hopkinsville,Madisonville-North Hopkins,83,68,0,   ,0
 1998-01-09,Johnson Central,South Floyd,80,68,1,   ,0
 1998-01-09,June Buchanan,Whitesburg,56,51,0,   ,0
-1998-01-09,Kentucky School f/t Deaf,Western Pennsylvania School F/T,42,31,1,   ,0
+1998-01-09,Kentucky School f/t Deaf,Out of State,42,31,1,   ,0
 1998-01-09,Lafayette,Wayne County,78,57,1,   ,0
 1998-01-09,Leslie County,Buckhorn,62,53,1,   ,0
 1998-01-09,Lexington Catholic,West Jessamine,72,46,1,   ,0
@@ -1603,10 +1603,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Marion County,Campbellsville,78,74,1,   ,0
 1998-01-09,Mayfield,Ballard Memorial,55,43,0,   ,0
 1998-01-09,McCreary Central,Monticello,52,51,1,   ,0
-1998-01-09,Memphis Bartlett. TN,University Heights,56,53,1,   ,0
+1998-01-09,Out of State,University Heights,56,53,1,   ,0
 1998-01-09,Menifee County,Jackson City,79,61,1,   ,0
 1998-01-09,Middlesboro,Bell County,58,54,1,   ,0
-1998-01-09,Muhlenberg South,McLean County,68,61,1,  Overtime ,0
+1998-01-09,Muhlenberg South,McLean County,68,61,1,  Overtime ,1
 1998-01-09,Newport Central Catholic,Lloyd Memorial,50,43,1,   ,0
 1998-01-09,Nicholas County,Augusta,60,47,0,   ,0
 1998-01-09,North Laurel,Russell County,72,45,0,   ,0
@@ -1616,7 +1616,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Pikeville,Phelps,73,60,1,  Pikeville Invitational ,0
 1998-01-09,Pleasure Ridge Park,Nelson County,91,63,2,  Louisville Invitational Tournament ,0
 1998-01-09,Powell County,Owsley County,91,77,0,   ,0
-1998-01-09,Prestonsburg,Perry County Central,97,96,0,  Triple Overtime ,0
+1998-01-09,Prestonsburg,Perry County Central,97,96,0,  Triple Overtime ,1
 1998-01-09,Red Bird,Cawood,70,47,1,   ,0
 1998-01-09,Rockcastle County,Garrard County,56,36,1,   ,0
 1998-01-09,Rose Hill Christian,Deming,49,40,1,   ,0
@@ -1626,7 +1626,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Simon Kenton,Conner,66,52,0,   ,0
 1998-01-09,Tates Creek,Paul Laurence Dunbar,63,60,2,   ,0
 1998-01-09,Trigg County,Livingston Central,90,53,1,   ,0
-1998-01-09,Trinity (Whitesville),Ohio County,62,58,1,  Overtime ,0
+1998-01-09,Trinity (Whitesville),Ohio County,62,58,1,  Overtime ,1
 1998-01-09,Villa Madonna,Silver Grove,85,67,1,   ,0
 1998-01-09,Warren Central,Elizabethtown,68,66,1,   ,0
 1998-01-09,Warren East,Allen County-Scottsville,63,45,0,   ,0
@@ -1641,7 +1641,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-09,Barbourville,Evarts,-,-,0,8:30 PM   ,0
 1998-01-09,Lyon County,Fort Campbell,-,-,0,8:30 PM   ,0
 1998-01-09,Letcher,Jenkins,-,-,0,8:30 PM   ,0
-1998-01-09,Millard,Matewan. WV,-,-,0,8:30 PM   ,0
+1998-01-09,Millard,Out of State,-,-,0,8:30 PM   ,0
 1998-01-09,Lawrence County,Morgan County,-,-,0,7:00 PM   ,0
 1998-01-09,Pulaski County,Somerset,-,-,0,7:00 PM   ,0
 1998-01-10,Ashland Blazer,Lawrence County,94,43,0,   ,0
@@ -1657,7 +1657,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-10,Crittenden County,McLean County,50,47,0,   ,0
 1998-01-10,Edmonson County,Beth Haven,57,56,1,   ,0
 1998-01-10,Elkhorn City,Eminence,66,44,1,   ,0
-1998-01-10,Feds Creek,Jenkins,93,91,1,  Overtime ,0
+1998-01-10,Feds Creek,Jenkins,93,91,1,  Overtime ,1
 1998-01-10,Fleming-Neon,Millard,58,53,1,   ,0
 1998-01-10,Harlan,Evarts,53,44,0,   ,0
 1998-01-10,Hazard,Bourbon County,85,81,1,  Hazard Shootout ,0
@@ -1669,13 +1669,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-10,Lincoln County,Southwestern,68,61,2,   ,0
 1998-01-10,Logan County,Barren County,53,51,0,   ,0
 1998-01-10,Millersburg Military,Louisville Collegiate,86,57,2,   ,0
-1998-01-10,Newport,Breathitt County,75,70,1,  Overtime ,0
+1998-01-10,Newport,Breathitt County,75,70,1,  Overtime ,1
 1998-01-10,North Hardin,Knox Central,86,56,2,   ,0
 1998-01-10,Oneida Baptist Institute,Piarist School,60,39,0,   ,0
 1998-01-10,Owsley County,Letcher,90,63,1,   ,0
 1998-01-10,Paintsville,Boyd County,66,62,0,   ,0
 1998-01-10,Paris,Williamstown,76,57,1,   ,0
-1998-01-10,Pikeville,Dandenong. Australia,56,49,1,  (Championship)Pikeville Invitational ,0
+1998-01-10,Pikeville,Out of State,56,49,1,  (Championship)Pikeville Invitational ,0
 1998-01-10,Portland Christian,Christian Fellowship,57,45,1,   ,0
 1998-01-10,Powell County,Estill County,76,54,0,   ,0
 1998-01-10,Raceland,Lewis County,69,53,1,   ,0
@@ -1685,15 +1685,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-10,Russellville,Greenwood,69,56,2,   ,0
 1998-01-10,Ryle,Boone County,76,50,0,   ,0
 1998-01-10,Sayre,Lexington Christian,77,55,2,   ,0
-1998-01-10,School f/t Deaf. NC,Kentucky School f/t Deaf,53,51,0,   ,0
-1998-01-10,School f/t Deaf. WI,Kentucky School f/t Deaf,45,40,0,   ,0
+1998-01-10,Out of State,Kentucky School f/t Deaf,53,51,0,   ,0
+1998-01-10,Out of State,Kentucky School f/t Deaf,45,40,0,   ,0
 1998-01-10,St. Henry,Holmes,56,47,1,   ,0
 1998-01-10,St. Mary,Reidland,69,62,1,   ,0
 1998-01-10,Whitefield Academy,Christian Fellowship,73,32,2,   ,0
-1998-01-10,Williamsburg,Campbell County. TN,81,53,1,   ,0
+1998-01-10,Williamsburg,Out of State,81,53,1,   ,0
 1998-01-10,Holy Cross (Covington),Beechwood,-,-,0,7:00 PM   ,0
 1998-01-10,Hickman County,Lone Oak,-,-,0,7:00 PM   ,0
-1998-01-10,,Covington Latin,-,-,2,8:30 PM   ,0
+1998-01-10,Out of State,Covington Latin,-,-,2,8:30 PM   ,0
 1998-01-10,Lafayette,West Jessamine,-,-,0,8:30 PM   ,0
 1998-01-12,Adair County,Green County,64,58,0,   ,0
 1998-01-12,Barbourville,Lynn Camp,100,80,1,   ,0
@@ -1709,11 +1709,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-13,Allen Central,South Floyd,104,65,0,   ,0
 1998-01-13,Ashland Blazer,West Carter,95,61,0,   ,0
 1998-01-13,Ballard,Moore,72,60,1,   ,0
-1998-01-13,Belfry,Williamson. WV,81,57,1,   ,0
+1998-01-13,Belfry,Out of State,81,57,1,   ,0
 1998-01-13,Berea,Burgin,54,50,0,   ,0
 1998-01-13,Bethlehem,Garrard County,91,39,1,   ,0
 1998-01-13,Bishop Brossart,Scott,60,57,0,   ,0
-1998-01-13,Breckinridge County,Daviess County,64,49,0,  Overtime ,0
+1998-01-13,Breckinridge County,Daviess County,64,49,0,  Overtime ,1
 1998-01-13,Brown,St. Francis,60,29,0,   ,0
 1998-01-13,Bryan Station,Lexington Catholic,48,46,1,   ,0
 1998-01-13,Buckhorn,Menifee County,74,47,0,   ,0
@@ -1724,7 +1724,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-13,Caverna,Washington County,63,48,1,   ,0
 1998-01-13,Christian Academy-Louisville,Heritage Academy,87,67,0,   ,0
 1998-01-13,Corbin,Wayne County,62,55,0,   ,0
-1998-01-13,Covington Catholic,Campbell County,81,73,1,  Double Overtime ,0
+1998-01-13,Covington Catholic,Campbell County,81,73,1,  Double Overtime ,1
 1998-01-13,Crittenden County,Webster County,65,63,0,   ,0
 1998-01-13,Cumberland County,Franklin-Simpson,68,55,0,   ,0
 1998-01-13,Dawson Springs,Caldwell County,57,55,0,   ,0
@@ -1748,7 +1748,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-13,Henderson County,Apollo,75,68,0,   ,0
 1998-01-13,Holmes,Boone County,61,49,1,   ,0
 1998-01-13,Hopkins County Central,Marshall County,75,59,0,   ,0
-1998-01-13,Ironton. OH,Boyd County,56,43,2,   ,0
+1998-01-13,Out of State,Boyd County,56,43,2,   ,0
 1998-01-13,Iroquois,Fairdale,79,68,0,   ,0
 1998-01-13,Knox Central,Oneida Baptist Institute,91,54,1,   ,0
 1998-01-13,Lincoln County,Danville,66,60,0,   ,0
@@ -1766,7 +1766,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-13,Newport,Dixie Heights,66,46,1,   ,0
 1998-01-13,North Hardin,Meade County,81,45,1,   ,0
 1998-01-13,North Laurel,Boyle County,75,53,0,   ,0
-1998-01-13,Owen County,Henry County,56,54,1,  Overtime ,0
+1998-01-13,Owen County,Henry County,56,54,1,  Overtime ,1
 1998-01-13,Owensboro,Ohio County,71,67,0,   ,0
 1998-01-13,Owsley County,Lee County,50,47,0,   ,0
 1998-01-13,Paducah Tilghman,Lone Oak,76,51,0,   ,0
@@ -1774,10 +1774,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-13,Pendleton County,Bracken County,63,38,1,   ,0
 1998-01-13,Perry County Central,Jenkins,98,68,0,   ,0
 1998-01-13,Pike County Central,Millard,87,58,0,   ,0
-1998-01-13,Pikeville,Paintsville,64,62,1,  Overtime ,0
+1998-01-13,Pikeville,Paintsville,64,62,1,  Overtime ,1
 1998-01-13,Pleasure Ridge Park,Holy Cross (Louisville),81,49,0,   ,0
 1998-01-13,Prestonsburg,Betsy Layne,89,74,1,   ,0
-1998-01-13,Providence,Evansville Day. IN,75,68,1,   ,0
+1998-01-13,Providence,Out of State,75,68,1,   ,0
 1998-01-13,Pulaski County,Whitley County,71,57,1,   ,0
 1998-01-13,Reidland,Livingston Central,72,51,1,   ,0
 1998-01-13,Riverside Christian,Jackson City,110,74,1,   ,0
@@ -1802,10 +1802,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-13,University Heights,Owensboro Catholic,73,56,0,   ,0
 1998-01-13,Valley,DeSales,71,70,0,   ,0
 1998-01-13,Warren East,Logan County,55,53,1,   ,0
-1998-01-13,West Jessamine,Madison Southern,83,73,0,  Triple Overtime ,0
+1998-01-13,West Jessamine,Madison Southern,83,73,0,  Triple Overtime ,1
 1998-01-13,Western,Central,79,65,1,   ,0
 1998-01-13,Western Hills,Frankfort,77,45,1,   ,0
-1998-01-13,White Oak. OH,Augusta,73,59,1,   ,0
+1998-01-13,Out of State,Augusta,73,59,1,   ,0
 1998-01-13,Wolfe County,Powell County,105,89,1,   ,0
 1998-01-13,Woodford County,Franklin County,70,63,1,   ,0
 1998-01-13,Bellevue,Beechwood,-,-,0,7:00 PM   ,0
@@ -1822,7 +1822,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-15,Cumberland,Pineville,87,72,1,   ,0
 1998-01-15,Doss,Christian Academy-Louisville,92,54,1,   ,0
 1998-01-15,Greenwood,Glasgow,81,75,2,   ,0
-1998-01-15,Knott County Central,Clay County,74,72,0,  Overtime ,0
+1998-01-15,Knott County Central,Clay County,74,72,0,  Overtime ,1
 1998-01-15,Model,Burgin,83,79,0,   ,0
 1998-01-15,Monroe County,Adair County,66,50,0,   ,0
 1998-01-15,University Heights,Paducah Tilghman,66,56,0,   ,0
@@ -1830,14 +1830,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-15,Shelby Valley,Leslie County,-,-,0,8:30 PM   ,0
 1998-01-15,Campbell County,Middlesboro,-,-,0,8:30 PM   ,0
 1998-01-15,Hancock County,Owensboro Catholic,-,-,0,7:00 PM   ,0
-1998-01-15,Jenkins,Pound. VA,-,-,0,8:30 PM   ,0
+1998-01-15,Jenkins,Out of State,-,-,0,8:30 PM   ,0
 1998-01-16,Allen Central,Phelps,70,65,1,   ,0
 1998-01-16,Anderson County,Bullitt East,44,40,1,   ,0
 1998-01-16,Apollo,Breckinridge County,57,54,0,   ,0
 1998-01-16,Augusta,Covington Latin,87,63,0,   ,0
 1998-01-16,Ballard Memorial,Fulton City,84,74,1,   ,0
 1998-01-16,Bardstown,Taylor County,53,43,0,   ,0
-1998-01-16,Bell County,Rockcastle County,60,59,1,  Overtime ,0
+1998-01-16,Bell County,Rockcastle County,60,59,1,  Overtime ,1
 1998-01-16,Bellevue,Silver Grove,77,64,0,   ,0
 1998-01-16,Bethlehem,Washington County,59,42,0,   ,0
 1998-01-16,Bourbon County,Woodford County,77,67,1,   ,0
@@ -1860,7 +1860,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-16,Fairdale,Doss,81,60,1,   ,0
 1998-01-16,Feds Creek,Millard,94,77,1,   ,0
 1998-01-16,Fern Creek,Jeffersontown,76,61,0,   ,0
-1998-01-16,Fleming-Neon,Wise County Christian. VA,84,71,0,   ,0
+1998-01-16,Fleming-Neon,Out of State,84,71,0,   ,0
 1998-01-16,Franklin County,Western Hills,78,66,1,   ,0
 1998-01-16,Franklin-Simpson,Todd County Central,60,53,0,   ,0
 1998-01-16,George Rogers Clark,Harrison County,54,44,1,   ,0
@@ -1873,7 +1873,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-16,Hancock County,Daviess County,56,51,1,   ,0
 1998-01-16,Harlan,Frankfort,51,31,0,   ,0
 1998-01-16,Hazard,Powell County,68,54,2,  SemifinalsWYMT Tournament ,0
-1998-01-16,Henderson County,Evansville Harrison. IN,88,83,1,   ,0
+1998-01-16,Henderson County,Out of State,88,83,1,   ,0
 1998-01-16,Henry Clay,Paris,63,61,0,   ,0
 1998-01-16,Hickman County,Heath,67,43,1,   ,0
 1998-01-16,Highlands,Holmes,61,47,1,   ,0
@@ -1926,7 +1926,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-16,St. Patrick,Bracken County,63,56,0,   ,0
 1998-01-16,St. Xavier,Atherton,79,62,1,   ,0
 1998-01-16,Tates Creek,Paul Laurence Dunbar,70,54,1,   ,0
-1998-01-16,Trigg County,Caldwell County,72,69,1,  Overtime ,0
+1998-01-16,Trigg County,Caldwell County,72,69,1,  Overtime ,1
 1998-01-16,Trinity (Louisville),DuPont Manual,57,52,1,   ,0
 1998-01-16,Union County,Webster County,41,33,0,   ,0
 1998-01-16,Villa Madonna,Beechwood,85,79,1,   ,0
@@ -1940,10 +1940,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-16,Conner,Dixie Heights,-,-,0,7:00 PM   ,0
 1998-01-16,Fort Campbell,Fulton County,-,-,0,8:30 PM   ,0
 1998-01-16,Eminence,Henry County,-,-,0,8:30 PM   ,0
-1998-01-16,Jellico. TN,Lynn Camp,-,-,0,8:30 PM   ,0
+1998-01-16,Out of State,Lynn Camp,-,-,0,8:30 PM   ,0
 1998-01-16,McCreary Central,North Laurel,-,-,0,7:00 PM   ,0
-1998-01-16,Restoration Christian. IN,St. Francis,-,-,0,7:00 PM   ,0
-1998-01-17,,St. Xavier,59,43,0,   ,0
+1998-01-16,Out of State,St. Francis,-,-,0,7:00 PM   ,0
+1998-01-17,Out of State,St. Xavier,59,43,0,   ,0
 1998-01-17,Ashland Blazer,Bourbon County,80,67,0,   ,0
 1998-01-17,Bell County,Model,95,69,0,   ,0
 1998-01-17,Beth Haven,Heritage Academy,59,51,1,   ,0
@@ -1977,27 +1977,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-17,Portland Christian,Evangel Christian,-,-,0,8:30 PM   ,0
 1998-01-17,Kentucky Country Day,Louisville Collegiate,-,-,0,5:30 PM   ,0
 1998-01-17,Bath County,Morgan County,-,-,0,   ,0
-1998-01-17,Matewan. WV,Phelps,-,-,0,8:30 PM   ,0
+1998-01-17,Out of State,Phelps,-,-,0,8:30 PM   ,0
 1998-01-17,Bardstown,Taylor County,-,-,0,7:00 PM   ,0
-1998-01-19,Cawood,Evarts,71,64,1,  Overtime ,0
+1998-01-19,Cawood,Evarts,71,64,1,  Overtime ,1
 1998-01-19,Corbin,Red Bird,83,63,0,"  All ""A"" Classic13th Region ",0
 1998-01-19,Dawson Springs,Lyon County,60,56,0,   ,0
 1998-01-19,East Carter,Rose Hill Christian,67,41,0,   ,0
-1998-01-19,Fulton County,Lake County. TN,53,39,1,   ,0
+1998-01-19,Fulton County,Out of State,53,39,1,   ,0
 1998-01-19,Hazard,June Buchanan,89,54,0,"  All ""A"" Classic14th Region ",0
 1998-01-19,Jenkins,Riverside Christian,89,81,0,"  All ""A"" Classic14th Region ",0
 1998-01-19,LaRue County,Fort Knox,75,52,1,   ,0
 1998-01-19,Middlesboro,Pineville,73,51,0,"  All ""A"" Classic13th Region ",0
 1998-01-19,Monroe County,Clinton County,78,74,1,   ,0
 1998-01-19,Owsley County,Fleming-Neon,80,64,0,   ,0
-1998-01-19,Paducah Tilghman,Sikeston. MO,92,35,2,   ,0
+1998-01-19,Paducah Tilghman,Out of State,92,35,2,   ,0
 1998-01-19,Russell County,Monticello,67,52,1,   ,0
 1998-01-19,Taylor County,Green County,55,47,0,   ,0
 1998-01-19,Wolfe County,Letcher,100,98,0,"  All ""A"" Classic14th Region ",0
 1998-01-19,Todd County Central,Allen County-Scottsville,-,-,0,8:30 PM   ,0
 1998-01-19,Central,DeSales,-,-,0,8:30 PM   ,0
 1998-01-19,Daviess County,Owensboro Catholic,-,-,0,8:30 PM   ,0
-1998-01-20,Ashland Blazer,Ironton. OH,85,57,2,   ,0
+1998-01-20,Ashland Blazer,Out of State,85,57,2,   ,0
 1998-01-20,Bardstown,North Bullitt,66,63,1,   ,0
 1998-01-20,Barren County,Adair County,60,58,1,   ,0
 1998-01-20,Belfry,Sheldon Clark,46,44,1,   ,0
@@ -2005,12 +2005,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-20,Bishop Brossart,Deming,78,59,0,  All A Classic10th Region ,0
 1998-01-20,Boyle County,Anderson County,56,43,0,   ,0
 1998-01-20,Breckinridge County,Meade County,56,47,0,   ,0
-1998-01-20,Bryan Station,Tates Creek,65,58,1,  Overtime ,0
+1998-01-20,Bryan Station,Tates Creek,65,58,1,  Overtime ,1
 1998-01-20,Bullitt Central,Evangel Christian,75,65,0,   ,0
 1998-01-20,Butler County,Edmonson County,78,72,1,   ,0
 1998-01-20,Calloway County,Marshall County,59,56,0,   ,0
 1998-01-20,Campbell County,Ryle,58,55,0,   ,0
-1998-01-20,Cincinnati Withrow. OH,Holmes,61,51,0,   ,0
+1998-01-20,Out of State,Holmes,61,51,0,   ,0
 1998-01-20,Clay County,Whitley County,71,67,0,   ,0
 1998-01-20,DuPont Manual,Jeffersontown,83,60,0,   ,0
 1998-01-20,Elizabethtown,Washington County,73,56,0,   ,0
@@ -2018,11 +2018,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-20,Fern Creek,Seneca,72,65,0,   ,0
 1998-01-20,Fleming County,Conner,84,47,0,   ,0
 1998-01-20,Fleming-Neon,South Floyd,73,66,1,   ,0
-1998-01-20,Fort Campbell,Academy of Execellence,92,58,1,   ,0
+1998-01-20,Fort Campbell,Out of State,92,58,1,   ,0
 1998-01-20,Fulton County,Murray,66,48,0,  All A Classic1st Region ,0
 1998-01-20,Gallatin County,Henry County,81,64,0,  All A Classic8th Region ,0
 1998-01-20,George Rogers Clark,Bourbon County,83,53,1,   ,0
-1998-01-20,Graves County,Obion County. TN,73,69,0,   ,0
+1998-01-20,Graves County,Out of State,73,69,0,   ,0
 1998-01-20,Grayson County,Muhlenberg South,49,47,1,   ,0
 1998-01-20,Greenwood,Franklin-Simpson,62,46,2,   ,0
 1998-01-20,Harlan,Oneida Baptist Institute,57,32,0,  All A Classic13th Region ,0
@@ -2046,7 +2046,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-20,McCreary Central,Wayne County,53,49,1,   ,0
 1998-01-20,Metcalfe County,Hart County,94,63,1,   ,0
 1998-01-20,Moore,Atherton,83,65,1,   ,0
-1998-01-20,Muhlenberg North,New Madrid. IL,59,45,2,  Superman Classic ,0
+1998-01-20,Muhlenberg North,Out of State,59,45,2,  Superman Classic ,0
 1998-01-20,Newport Central Catholic,Dayton,60,51,0,  All A Classic9th Region ,0
 1998-01-20,North Hardin,Campbellsville,57,51,0,   ,0
 1998-01-20,Owensboro,Apollo,68,66,1,   ,0
@@ -2057,7 +2057,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-20,Prestonsburg,Betsy Layne,81,64,0,   ,0
 1998-01-20,Providence,Trigg County,78,70,0,  All A Classic2nd Region ,0
 1998-01-20,Reidland,Caldwell County,68,65,0,   ,0
-1998-01-20,Restoration Christian. IN,Louisville Collegiate,68,58,0,   ,0
+1998-01-20,Out of State,Louisville Collegiate,68,58,0,   ,0
 1998-01-20,Rockcastle County,Madison Southern,56,52,1,   ,0
 1998-01-20,Rowan County,Montgomery County,62,61,1,   ,0
 1998-01-20,Russellville,Ohio County,88,68,0,   ,0
@@ -2069,7 +2069,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-20,South Oldham,Bullitt East,73,57,0,   ,0
 1998-01-20,St. Xavier,Eastern,75,65,1,   ,0
 1998-01-20,Todd County Central,Logan County,62,56,1,   ,0
-1998-01-20,Union County,Evansville Day. IN,59,43,1,   ,0
+1998-01-20,Union County,Out of State,59,43,1,   ,0
 1998-01-20,University Heights,Crittenden County,73,59,0,  All A Classic2nd Region ,0
 1998-01-20,Valley,Butler,58,56,1,   ,0
 1998-01-20,Waggener,Trinity (Louisville),68,64,1,   ,0
@@ -2114,13 +2114,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-22,Menifee County,Fairview,50,45,2,"  All ""A"" Classic16th Region ",0
 1998-01-22,Paintsville,South Floyd,82,49,2,"  All ""A"" Classic15th Region ",0
 1998-01-22,Phelps,Feds Creek,74,60,2,"  All ""A"" Classic15th Region ",0
-1998-01-22,Pound. VA,Whitesburg,79,71,0,   ,0
+1998-01-22,Out of State,Whitesburg,79,71,0,   ,0
 1998-01-22,Raceland,Rose Hill Christian,78,67,2,"  All ""A"" Classic16th Region ",0
-1998-01-22,School f/t Deaf. TL,Kentucky School f/t Deaf,77,51,0,   ,0
+1998-01-22,Out of State,Kentucky School f/t Deaf,77,51,0,   ,0
 1998-01-22,St. Patrick,Millersburg Military,69,54,1,"  All ""A"" Classic10th Region ",0
 1998-01-22,University Heights,Providence,80,58,0,  All  ,0
 1998-01-22,Wolfe County,Buckhorn,99,67,2,"  All ""A"" Classic14th Region ",0
-1998-01-22,Pike County Central,Matewan. WV,-,-,0,8:30 PM   ,0
+1998-01-22,Pike County Central,Out of State,-,-,0,8:30 PM   ,0
 1998-01-23,Anderson County,Mercer County,55,54,0,   ,0
 1998-01-23,Ashland Blazer,Greenup County,61,45,2,   ,0
 1998-01-23,Ballard,Trinity (Louisville),48,44,1,   ,0
@@ -2147,11 +2147,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-23,Caverna,Bardstown,58,54,0,  All  ,0
 1998-01-23,Central,South Oldham,53,47,0,   ,0
 1998-01-23,Christian County,Muhlenberg South,73,72,0,   ,0
-1998-01-23,Clarksville Kenwood. TN,Russellville,50,42,2,   ,0
+1998-01-23,Out of State,Russellville,50,42,2,   ,0
 1998-01-23,Clay County,Knott County Central,73,72,1,   ,0
 1998-01-23,Corbin,Williamsburg,74,59,0,"  All ""A"" Class Semifinals13th Region ",0
 1998-01-23,Covington Catholic,Conner,78,66,1,   ,0
-1998-01-23,Danville,Harrodsburg,76,63,0,"  OvertimeAll ""A"" Class Semifinals12th Region ",0
+1998-01-23,Danville,Harrodsburg,76,63,0,"  OvertimeAll ""A"" Class Semifinals12th Region ",1
 1998-01-23,Daviess County,Apollo,49,41,1,   ,0
 1998-01-23,DuPont Manual,Seneca,61,58,0,   ,0
 1998-01-23,Eastern,Atherton,87,54,1,   ,0
@@ -2164,8 +2164,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-23,Hazard,Wolfe County,75,66,0,"  All ""A"" Class Semifinals14th Region ",0
 1998-01-23,Henderson County,Hopkinsville,91,84,0,   ,0
 1998-01-23,Henry Clay,Lafayette,75,60,1,   ,0
-1998-01-23,Johnson Central,Breathitt County,87,82,0,  Overtime ,0
-1998-01-23,Kentucky School f/t Deaf,School f/t Deaf. VA,72,28,1,   ,0
+1998-01-23,Johnson Central,Breathitt County,87,82,0,  Overtime ,1
+1998-01-23,Kentucky School f/t Deaf,Out of State,72,28,1,   ,0
 1998-01-23,LaRue County,Hart County,99,91,1,   ,0
 1998-01-23,Leslie County,Letcher,90,59,1,   ,0
 1998-01-23,Lexington Catholic,Mason County,91,80,1,   ,0
@@ -2179,19 +2179,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-23,Millersburg Military,Jackson City,89,35,2,   ,0
 1998-01-23,Model,Berea,78,73,0,"  All ""A"" Classic Semifinals11th Region ",0
 1998-01-23,Montgomery County,Estill County,67,49,1,   ,0
-1998-01-23,Muhlenberg North,Massac County. IL,68,60,2,  Superman Classic ,0
+1998-01-23,Muhlenberg North,Out of State,68,60,2,  Superman Classic ,0
 1998-01-23,Newport,Heritage Academy,82,51,0,"  All ""A"" Class Semifinals9th Region ",0
-1998-01-23,Northeast (Clarksville). TN,Fort Campbell,78,51,0,   ,0
+1998-01-23,Out of State,Fort Campbell,78,51,0,   ,0
 1998-01-23,Ohio County,Central Hardin,65,45,1,   ,0
 1998-01-23,Oldham County,North Bullitt,81,64,1,   ,0
 1998-01-23,Owsley County,Cordia,64,44,0,"  All ""A"" Class Semifinals14th Region ",0
-1998-01-23,Paducah Tilghman,Charleston. MO,80,72,2,  Superman Classic ,0
+1998-01-23,Paducah Tilghman,Out of State,80,72,2,  Superman Classic ,0
 1998-01-23,Paintsville,Phelps,63,44,0,"  All ""A"" Class Semifinals15th Region ",0
 1998-01-23,Paul Laurence Dunbar,Wayne County,83,47,2,   ,0
 1998-01-23,Pikeville,Elkhorn City,56,48,0,"  All ""A"" Class Semifinals15th Region ",0
 1998-01-23,Pleasure Ridge Park,Shawnee,81,57,1,   ,0
 1998-01-23,Powell County,Whitesburg,82,70,1,   ,0
-1998-01-23,Prestonsburg,Shelby Valley,70,59,0,  Overtime ,0
+1998-01-23,Prestonsburg,Shelby Valley,70,59,0,  Overtime ,1
 1998-01-23,Rockcastle County,Oneida Baptist Institute,83,61,0,   ,0
 1998-01-23,Rowan County,West Carter,63,45,1,   ,0
 1998-01-23,Sayre,Frankfort,70,44,0,"  All ""A"" Class Semifinals11th Region ",0
@@ -2199,10 +2199,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-23,Sheldon Clark,Pike County Central,74,56,1,   ,0
 1998-01-23,Simon Kenton,Ryle,81,69,0,   ,0
 1998-01-23,South Laurel,Pulaski County,78,65,0,   ,0
-1998-01-23,St. Henry,Newport Central Catholic,62,61,0,"  OvertimeAll ""A"" Class Semifinals9th Region ",0
+1998-01-23,St. Henry,Newport Central Catholic,62,61,0,"  OvertimeAll ""A"" Class Semifinals9th Region ",1
 1998-01-23,St. Xavier,Male,73,62,1,   ,0
 1998-01-23,Tates Creek,Madison Central,69,66,1,   ,0
-1998-01-23,Union County,Owensboro Catholic,52,49,0,  Overtime ,0
+1998-01-23,Union County,Owensboro Catholic,52,49,0,  Overtime ,1
 1998-01-23,University Heights,Dawson Springs,68,42,0,"  All ""A"" Class Semifinals2nd Region ",0
 1998-01-23,Valley,Doss,62,55,1,   ,0
 1998-01-23,Waggener,Jeffersontown,70,55,0,   ,0
@@ -2213,9 +2213,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-23,Western,DeSales,60,43,0,   ,0
 1998-01-23,Whitley County,Lynn Camp,71,59,0,   ,0
 1998-01-23,Woodford County,Western Hills,81,74,1,   ,0
-1998-01-23,Lawrence County,Huntington St. Joseph. WV,-,-,0,7:00 PM   ,0
+1998-01-23,Lawrence County,Out of State,-,-,0,7:00 PM   ,0
 1998-01-23,Cawood,Jackson County,-,-,0,8:30 PM   ,0
-1998-01-23,Jellico. TN,McCreary Central,-,-,0,7:00 PM   ,0
+1998-01-23,Out of State,McCreary Central,-,-,0,7:00 PM   ,0
 1998-01-23,Highlands,Scott,-,-,0,7:00 PM   ,0
 1998-01-23,Cloverport,Trinity (Whitesville),-,-,0,   ,0
 1998-01-24,Apollo,Meade County,61,56,0,   ,0
@@ -2237,27 +2237,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-24,Metcalfe County,Edmonson County,76,55,0,"  All ""A""Classic Finals4th Region ",0
 1998-01-24,Millersburg Military,Mercer County,74,60,0,   ,0
 1998-01-24,Montgomery County,Marion County,51,49,1,   ,0
-1998-01-24,Owensboro,Evansville North. IN,59,55,1,   ,0
+1998-01-24,Owensboro,Out of State,59,55,1,   ,0
 1998-01-24,Paducah Tilghman,Muhlenberg North,67,54,2,  Superman Classic ,0
 1998-01-24,Paintsville,Pikeville,84,51,0,"  All ""A""Classic Finals15th Region ",0
 1998-01-24,Perry County Central,Knott County Central,68,51,1,   ,0
 1998-01-24,Russellville,Glasgow,94,65,0,   ,0
 1998-01-24,Sayre,Model,79,62,0,"  All ""A""Classic Finals11th Region ",0
-1998-01-24,School f/t Deaf. MS,Kentucky School f/t Deaf,55,48,0,   ,0
+1998-01-24,Out of State,Kentucky School f/t Deaf,55,48,0,   ,0
 1998-01-24,South Oldham,DeSales,56,45,1,   ,0
 1998-01-24,St. Henry,Newport,66,56,0,"  All ""A""Classic Finals9th Region ",0
 1998-01-24,Trigg County,Christian Fellowship,59,46,1,   ,0
 1998-01-24,Waggener,Central,72,60,1,   ,0
 1998-01-24,Warren Central,Grayson County,66,50,0,   ,0
 1998-01-24,Webster County,Lyon County,48,23,0,   ,0
-1998-01-24,Whitley County,Jellico. TN,74,53,0,   ,0
+1998-01-24,Whitley County,Out of State,74,53,0,   ,0
 1998-01-24,Beechwood,Dixie Heights,-,-,0,3:00 PM   ,0
-1998-01-24,Franklin-Simpson,Portland. TN,-,-,0,8:30 PM   ,0
+1998-01-24,Franklin-Simpson,Out of State,-,-,0,8:30 PM   ,0
 1998-01-24,Southwestern,North Laurel,-,-,2,8:30 PM   ,0
-1998-01-24,Norwood Baptist,Covington Latin,-,-,2,8:30 PM   ,0
+1998-01-24,Out of State,Covington Latin,-,-,2,8:30 PM   ,0
 1998-01-26,Bowling Green,Madisonville-North Hopkins,60,57,0,   ,0
 1998-01-26,Dayton,Villa Madonna,68,50,0,   ,0
-1998-01-26,Lynn Camp,Jellico. TN,58,58,0,   ,0
+1998-01-26,Lynn Camp,Out of State,58,58,0,   ,0
 1998-01-26,Marshall County,Murray,82,45,1,   ,0
 1998-01-26,Paintsville,Magoffin County,67,56,1,   ,0
 1998-01-26,Reidland,Christian Fellowship,74,53,0,   ,0
@@ -2286,9 +2286,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-27,Dawson Springs,Lyon County,64,46,1,   ,0
 1998-01-27,Doss,Moore,46,44,1,   ,0
 1998-01-27,Eastern,North Hardin,78,72,1,   ,0
-1998-01-27,Elder. OH,St. Henry,53,48,0,   ,0
+1998-01-27,Out of State,St. Henry,53,48,0,   ,0
 1998-01-27,Elizabethtown,Bullitt Central,81,74,0,   ,0
-1998-01-27,Eminence,Owen County,72,69,1,  Overtime ,0
+1998-01-27,Eminence,Owen County,72,69,1,  Overtime ,1
 1998-01-27,Evangel Christian,Louisville Collegiate,76,58,0,   ,0
 1998-01-27,Fairdale,Atherton,55,53,0,   ,0
 1998-01-27,Fern Creek,North Bullitt,70,45,1,   ,0
@@ -2306,7 +2306,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-27,Iroquois,DuPont Manual,81,64,0,   ,0
 1998-01-27,Jackson County,Oneida Baptist Institute,65,42,1,   ,0
 1998-01-27,Johnson Central,Pikeville,86,80,1,   ,0
-1998-01-27,Kentucky Country Day,Restoration Christian. IN,65,51,1,   ,0
+1998-01-27,Kentucky Country Day,Out of State,65,51,1,   ,0
 1998-01-27,Lee County,Berea,56,38,1,   ,0
 1998-01-27,Lewis County,Russell,71,67,0,   ,0
 1998-01-27,Lexington Catholic,West Jessamine,80,57,0,   ,0
@@ -2364,20 +2364,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-27,Shelby Valley,Millard,-,-,0,8:30 PM   ,0
 1998-01-27,Elkhorn City,Pike County Central,-,-,0,9:00 PM   ,0
 1998-01-27,Bell County,Pineville,-,-,0,8:30 PM   ,0
-1998-01-27,South Central (Union Mill). IN,Holy Cross,-,-,2,8:30 PM   ,0
+1998-01-27,Out of State,Holy Cross (Louisville),-,-,2,8:30 PM   ,0
 1998-01-27,Pleasure Ridge Park,Waggener,-,-,0,8:30 PM   ,0
 1998-01-27,Portland Christian,Walden,-,-,0,8:30 PM   ,0
 1998-01-27,Newport Central Catholic,Walton-Verona,-,-,0,8:30 PM   ,0
 1998-01-28,Fairview,Somerset,49,46,0,"  All ""A"" Classic ",0
 1998-01-28,George Rogers Clark,Paul Laurence Dunbar,66,56,2,   ,0
-1998-01-28,Holy Rosary,Brown,65,25,1,"  All ""A"" Classic ",0
+1998-01-28,Out of State,Brown,65,25,1,"  All ""A"" Classic ",0
 1998-01-28,Scott County,Boyle County,73,71,1,   ,0
 1998-01-28,Iroquois,Jeffersontown,-,-,0,   ,0
 1998-01-28,Covington Latin,Villa Madonna,-,-,0,7:00 PM   ,0
 1998-01-29,Boyle County,Paul Laurence Dunbar,90,82,2,   ,0
 1998-01-29,Carroll County,Danville,53,52,1,"  All ""A"" Classic ",0
 1998-01-29,Clinton County,Edmonson County,72,70,1,  Rescheduled ,0
-1998-01-29,Fulton City,Greenfield. TN,97,52,1,   ,0
+1998-01-29,Fulton City,Out of State,97,52,1,   ,0
 1998-01-29,Hazard,Bracken County,62,42,1,"  All ""A"" Classic ",0
 1998-01-29,Hickman County,Whitefield Academy,66,58,1,"  All ""A"" Classic ",0
 1998-01-29,Madisonville-North Hopkins,Muhlenberg South,62,55,0,   ,0
@@ -2388,7 +2388,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-29,Sayre,Trinity (Whitesville),51,49,1,"  All ""A"" Classic ",0
 1998-01-29,St. Henry,Bath County,59,45,0,"  All ""A"" Classic ",0
 1998-01-29,University Heights,Harlan,66,59,1,"  All ""A"" Classic ",0
-1998-01-29,Whitney Young School f/t Deaf,Kentucky School f/t Deaf,62,43,0,   ,0
+1998-01-29,Out of State,Kentucky School f/t Deaf,62,43,0,   ,0
 1998-01-29,Reidland,Ballard Memorial,-,-,0,8:45 PM   ,0
 1998-01-29,Bullitt East,Butler,-,-,0,8:30 PM   ,0
 1998-01-29,Adair County,Hart County,-,-,0,6:30 PM   ,0
@@ -2396,7 +2396,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-29,Heath,St. Mary,-,-,0,8:30 PM   ,0
 1998-01-30,Butler County,Providence,66,63,0, st District  ,0
 1998-01-30,Adair County,Eminence,90,71,0,   ,0
-1998-01-30,Aiken. OH,Fleming County,88,62,1,   ,0
+1998-01-30,Out of State,Fleming County,88,62,1,   ,0
 1998-01-30,Allen Central,Sheldon Clark,74,67,0,   ,0
 1998-01-30,Allen County-Scottsville,Franklin-Simpson,74,68,0,   ,0
 1998-01-30,Ashland Blazer,Boyd County,65,61,0,   ,0
@@ -2418,7 +2418,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,Doss,Waggener,64,58,1,   ,0
 1998-01-30,East Carter,West Carter,68,62,1,   ,0
 1998-01-30,Elizabethtown,Nelson County,73,72,0,   ,0
-1998-01-30,Evansville Reitz Memorial. IN,Madisonville-North Hopkins,82,65,0,   ,0
+1998-01-30,Out of State,Madisonville-North Hopkins,82,65,0,   ,0
 1998-01-30,Gallatin County,Williamstown,71,68,1,   ,0
 1998-01-30,Glasgow,Barren County,46,44,0,   ,0
 1998-01-30,Graves County,Reidland,41,39,1,   ,0
@@ -2428,9 +2428,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,Harrison County,Pendleton County,57,38,1,   ,0
 1998-01-30,Hart County,Fort Knox,55,54,0,   ,0
 1998-01-30,Holmes,Dixie Heights,71,49,0,   ,0
-1998-01-30,Hopkins County Central,Fort Campbell,90,89,0,  Double Overtime ,0
+1998-01-30,Hopkins County Central,Fort Campbell,90,89,0,  Double Overtime ,1
 1998-01-30,Iroquois,Fern Creek,65,56,0,   ,0
-1998-01-30,Kentucky School f/t Deaf,School f/t Deaf. MI,89,51,1,   ,0
+1998-01-30,Kentucky School f/t Deaf,Out of State,89,51,1,   ,0
 1998-01-30,Lafayette,Madison Central,75,64,2,   ,0
 1998-01-30,Lee County,South Floyd,55,45,1,   ,0
 1998-01-30,Lexington Catholic,Lexington Christian,88,24,1,   ,0
@@ -2449,7 +2449,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,North Hardin,Marion County,69,55,0,   ,0
 1998-01-30,Ohio County,Daviess County,58,52,0,   ,0
 1998-01-30,Oldham County,Bullitt Central,61,55,1,   ,0
-1998-01-30,Owensboro Catholic,Dawson Springs,64,62,0,  Overtime ,0
+1998-01-30,Owensboro Catholic,Dawson Springs,64,62,0,  Overtime ,1
 1998-01-30,Paintsville,Hazard,61,60,0,  All  ,0
 1998-01-30,Paris,Mercer County,75,60,0,   ,0
 1998-01-30,Piarist School,Jackson City,75,68,1,   ,0
@@ -2458,7 +2458,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,Rockcastle County,Whitley County,73,53,1,   ,0
 1998-01-30,Rose Hill Christian,Augusta,75,52,1,   ,0
 1998-01-30,Rowan County,Russell,85,79,1,   ,0
-1998-01-30,Russell County,Lincoln County,80,77,1,  Overtime ,0
+1998-01-30,Russell County,Lincoln County,80,77,1,  Overtime ,1
 1998-01-30,Russellville,Logan County,64,55,0,   ,0
 1998-01-30,Scott,Conner,52,38,0,   ,0
 1998-01-30,Scott County,George Rogers Clark,97,88,1,  Toyota Classic ,0
@@ -2473,7 +2473,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,University Heights,Hickman County,59,42,0,"  All ""A"" Classic ",0
 1998-01-30,Villa Madonna,St. Patrick,67,58,1,   ,0
 1998-01-30,Walden,Louisville Collegiate,56,55,1,   ,0
-1998-01-30,Warren East,Bowling Green,57,56,1,  Overtime ,0
+1998-01-30,Warren East,Bowling Green,57,56,1,  Overtime ,1
 1998-01-30,Wayne County,Jackson County,70,62,1,   ,0
 1998-01-30,Webster County,Henderson County,53,51,1,   ,0
 1998-01-30,Western,Valley,83,61,0,   ,0
@@ -2487,7 +2487,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,Taylor County,Garrard County,-,-,0,7:00 PM   ,0
 1998-01-30,Perry County Central,Leslie County,-,-,0,8:30 PM   ,0
 1998-01-30,Marshall County,Lone Oak,-,-,0,7:00 PM   ,0
-1998-01-30,Phelps,Matewan. WV,-,-,0,8:30 PM   ,0
+1998-01-30,Phelps,Out of State,-,-,0,8:30 PM   ,0
 1998-01-30,Powell County,Model,-,-,0,8:30 PM   ,0
 1998-01-30,Jenkins,North Laurel,-,-,0,9:00 PM   ,0
 1998-01-30,Grant County,Owen County,-,-,0,8:30 PM   ,0
@@ -2495,18 +2495,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-30,Washington County,Spencer County,-,-,0,8:30 PM   ,0
 1998-01-30,McLean County,Todd County Central,-,-,0,7:00 PM   ,0
 1998-01-31,Allen Central,Pikeville,67,56,0,   ,0
-1998-01-31,Ballard,Jeffersonville. IN,67,66,1,   ,0
+1998-01-31,Ballard,Out of State,67,66,1,   ,0
 1998-01-31,Betsy Layne,Feds Creek,60,53,1,   ,0
 1998-01-31,Boone County,Conner,53,48,1,   ,0
 1998-01-31,Bracken County,Harrison County,55,46,1,   ,0
 1998-01-31,Breckinridge County,Central Hardin,59,50,0,   ,0
 1998-01-31,Campbellsville,Nelson County,88,65,1,   ,0
-1998-01-31,Cloverport,Cannelton. IN,50,48,2,   ,0
-1998-01-31,Colegrove. OH,Raceland,62,49,1,   ,0
+1998-01-31,Cloverport,Out of State,50,48,2,   ,0
+1998-01-31,Out of State,Raceland,62,49,1,   ,0
 1998-01-31,Deming,Eminence,69,66,0,   ,0
-1998-01-31,Evangel Christian,Heritage Academy,77,63,1,  OvertimeHomecoming ,0
+1998-01-31,Evangel Christian,Heritage Academy,77,63,1,  OvertimeHomecoming ,1
 1998-01-31,Fairview,Augusta,61,46,1,   ,0
-1998-01-31,Fleming-Neon,Mountain Mission. WV,73,47,0,   ,0
+1998-01-31,Fleming-Neon,Out of State,73,47,0,   ,0
 1998-01-31,Fort Campbell,Lyon County,75,45,0,   ,0
 1998-01-31,George Rogers Clark,Prestonsburg,65,40,2,  Toyota Classic ,0
 1998-01-31,Glasgow,Kentucky Country Day,74,59,1,   ,0
@@ -2515,8 +2515,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-31,Hazard,Fairview,75,57,1,"  All ""A"" Classic ",0
 1998-01-31,Henderson County,Caldwell County,93,59,1,   ,0
 1998-01-31,Highlands,Mason County,95,47,0,  Trans Financial Royal Classic ,0
-1998-01-31,Holmes,Campbell County,42,41,0,  Overtime ,0
-1998-01-31,Ironton. OH,Rose Hill Christian,63,51,2,   ,0
+1998-01-31,Holmes,Campbell County,42,41,0,  Overtime ,1
+1998-01-31,Out of State,Rose Hill Christian,63,51,2,   ,0
 1998-01-31,Iroquois,Jeffersontown,78,75,0,   ,0
 1998-01-31,Jenkins,Whitesburg,75,52,0,   ,0
 1998-01-31,Knott County Central,Breathitt County,75,61,0,   ,0
@@ -2527,10 +2527,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-31,Paducah Tilghman,Marshall County,83,64,0,   ,0
 1998-01-31,Paul Laurence Dunbar,Madison Central,61,60,2,  Toyota Classic ,0
 1998-01-31,Perry County Central,Wolfe County,95,73,1,   ,0
-1998-01-31,Providence,New Harmony. IN,80,66,0,   ,0
+1998-01-31,Providence,Out of State,80,66,0,   ,0
 1998-01-31,Russellville,Muhlenberg South,62,47,1,   ,0
 1998-01-31,Ryle,Fleming County,77,75,1,  Raider Classic ,0
-1998-01-31,School f/t Deaf. WI,Kentucky School f/t Deaf,59,49,0,   ,0
+1998-01-31,Out of State,Kentucky School f/t Deaf,59,49,0,   ,0
 1998-01-31,Scott,Bourbon County,68,67,2,   ,0
 1998-01-31,Scott County,Owensboro,74,67,1,  Toyota Classic ,0
 1998-01-31,Southwestern,Pulaski County,79,68,0,   ,0
@@ -2542,7 +2542,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-01-31,Wayne County,McCreary Central,63,60,0,   ,0
 1998-01-31,Ashland Blazer,Bath County,-,-,0,   ,0
 1998-01-31,Hickman County,Carlisle County,-,-,0,5:30 PM   ,0
-1998-01-31,Miami Killian. OH,Daviess County,-,-,0,8:30 PM   ,0
+1998-01-31,Out of State,Daviess County,-,-,0,8:30 PM   ,0
 1998-01-31,Franklin-Simpson,Ohio County,-,-,0,7:00 PM   ,0
 1998-02-01,University Heights,St. Henry,59,42,2,  FinalAll  ,0
 1998-02-02,Greenwood,Butler County,76,38,2, st District  ,0
@@ -2551,7 +2551,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-02,Knott County Central,Leslie County,80,64,0,   ,0
 1998-02-02,Marion County,Washington County,52,48,0,   ,0
 1998-02-02,Mayfield,Murray,53,39,1,   ,0
-1998-02-02,Miami Killian. OH,Owensboro,72,66,0,   ,0
+1998-02-02,Out of State,Owensboro,72,66,0,   ,0
 1998-02-02,Perry County Central,Whitesburg,86,58,0,   ,0
 1998-02-02,Portland Christian,St. Francis,54,32,1,   ,0
 1998-02-02,South Oldham,Carroll County,-,-,0,8:30 PM   ,0
@@ -2588,7 +2588,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-03,Corbin,Pineville,83,60,0,   ,0
 1998-02-03,Daviess County,Muhlenberg South,50,45,1,   ,0
 1998-02-03,Dayton,Beechwood,79,67,0,   ,0
-1998-02-03,Eastern,Moore,64,61,1,  Overtime ,0
+1998-02-03,Eastern,Moore,64,61,1,  Overtime ,1
 1998-02-03,Edmonson County,Allen County-Scottsville,64,61,0,   ,0
 1998-02-03,Elkhorn City,Belfry,47,45,0,   ,0
 1998-02-03,Evangel Christian,Brown,92,75,1,   ,0
@@ -2600,7 +2600,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-03,George Rogers Clark,Montgomery County,61,43,1,   ,0
 1998-02-03,Glasgow,Monroe County,69,48,1,   ,0
 1998-02-03,Grant County,Pendleton County,56,46,0,   ,0
-1998-02-03,Grayson County,Owensboro,73,72,0,  Overtime ,0
+1998-02-03,Grayson County,Owensboro,73,72,0,  Overtime ,1
 1998-02-03,Greenup County,Fairview,84,59,1,   ,0
 1998-02-03,Greenwood,Barren County,55,50,0,   ,0
 1998-02-03,Hancock County,Cloverport,61,59,1,   ,0
@@ -2649,7 +2649,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-03,Shawnee,DeSales,52,47,1,   ,0
 1998-02-03,Shelby County,Bullitt Central,86,60,0,   ,0
 1998-02-03,Sheldon Clark,Magoffin County,54,44,1,   ,0
-1998-02-03,Simon Kenton,Bishop Brossart,76,71,0,  Overtime ,0
+1998-02-03,Simon Kenton,Bishop Brossart,76,71,0,  Overtime ,1
 1998-02-03,Somerset,Russell County,72,70,0,   ,0
 1998-02-03,South Floyd,Betsy Layne,78,63,1,   ,0
 1998-02-03,St. Patrick,Augusta,75,60,0,   ,0
@@ -2657,7 +2657,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-03,Taylor County,Adair County,73,65,1,   ,0
 1998-02-03,Trigg County,Lyon County,65,64,0,   ,0
 1998-02-03,Trinity (Louisville),Jeffersontown,65,59,1,   ,0
-1998-02-03,Vienna. IL,Heath,59,54,1,   ,0
+1998-02-03,Out of State,Heath,59,54,1,   ,0
 1998-02-03,Waggener,Atherton,68,60,0,   ,0
 1998-02-03,Warren East,Cumberland County,66,51,1,   ,0
 1998-02-03,Washington County,Spencer County,65,57,1,   ,0
@@ -2674,14 +2674,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-03,Marion County,LaRue County,-,-,0,7:00 PM   ,0
 1998-02-03,Fleming-Neon,Millard,-,-,0,8:30 PM   ,0
 1998-02-03,Phelps,Pike County Central,-,-,0,8:30 PM   ,0
-1998-02-03,Restoration Christian. IN,St. Francis,-,-,2,8:30 PM   ,0
-1998-02-03,Grace Christian,Rose Hill Christian,-,-,0,7:00 PM   ,0
+1998-02-03,Out of State,St. Francis,-,-,2,8:30 PM   ,0
+1998-02-03,Out of State,Rose Hill Christian,-,-,0,7:00 PM   ,0
 1998-02-03,Pikeville,Shelby Valley,-,-,0,8:30 PM   ,0
 1998-02-03,Hazard,Whitesburg,-,-,0,8:30 PM   ,0
 1998-02-04,Beechwood,Lloyd Memorial,-,-,0,7:00 PM   ,0
 1998-02-04,Ryle,Walton-Verona,-,-,0,8:30 PM   ,0
 1998-02-05,Caverna,Allen County-Scottsville,-,-,0,8:30 PM   ,0
-1998-02-05,Knoxville Baptist. TN,Lynn Camp,-,-,0,8:30 PM   ,0
+1998-02-05,Out of State,Lynn Camp,-,-,0,8:30 PM   ,0
 1998-02-05,Edmonson County,Russellville,-,-,0,7:00 PM   ,0
 1998-02-05,Fort Knox,Taylor County,-,-,0,8:30 PM   ,0
 1998-02-06,Allen Central,Betsy Layne,84,70,1,   ,0
@@ -2691,11 +2691,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-06,Campbell County,Boone County,82,59,1,   ,0
 1998-02-06,Cawood,Barbourville,80,55,1,   ,0
 1998-02-06,Christian Academy-Louisville,Beth Haven,77,74,0,   ,0
-1998-02-06,Clarksville. TN,Hopkinsville,79,60,1,   ,0
+1998-02-06,Out of State,Hopkinsville,79,60,1,   ,0
 1998-02-06,Crittenden County,Lyon County,75,57,0,   ,0
 1998-02-06,Elizabethtown,LaRue County,70,67,1,   ,0
 1998-02-06,Elkhorn City,Phelps,51,44,0,   ,0
-1998-02-06,Fort Campbell,Cheatham County. TN,68,64,0,   ,0
+1998-02-06,Fort Campbell,Out of State,68,64,0,   ,0
 1998-02-06,Fulton County,Carlisle County,62,58,0,   ,0
 1998-02-06,Glasgow,Hart County,76,63,0,   ,0
 1998-02-06,Graves County,Ballard Memorial,64,52,0,   ,0
@@ -2735,7 +2735,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-06,Montgomery County,Henry Clay,-,-,0,8:30 PM   ,0
 1998-02-06,Newport,Highlands,-,-,0,7:00 PM   ,0
 1998-02-06,McLean County,Hopkins County Central,-,-,0,7:00 PM   ,0
-1998-02-06,Williamsburg,Jellico. TN,-,-,0,   ,0
+1998-02-06,Williamsburg,Out of State,-,-,0,   ,0
 1998-02-06,Fleming-Neon,Jenkins,-,-,0,8:30 PM   ,0
 1998-02-06,Bethlehem,Kentucky Country Day,-,-,0,8:30 PM   ,0
 1998-02-06,Wayne County,Knox Central,-,-,0,8:30 PM   ,0
@@ -2751,8 +2751,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-06,Christian Fellowship,Marshall County,-,-,0,8:30 PM   ,0
 1998-02-06,Powell County,Menifee County,-,-,0,7:00 PM   ,0
 1998-02-06,June Buchanan,Oneida Baptist Institute,-,-,0,7:00 PM   ,0
-1998-02-06,Henryville,Portland Christian,-,-,0,8:30 PM   ,0
-1998-02-06,Restoration Christian. IN,Walden,-,-,2,8:30 PM   ,0
+1998-02-06,Out of State,Portland Christian,-,-,0,8:30 PM   ,0
+1998-02-06,Out of State,Walden,-,-,2,8:30 PM   ,0
 1998-02-06,Jackson County,Rockcastle County,-,-,0,8:30 PM   ,0
 1998-02-06,McCreary Central,Russell County,-,-,0,7:30 PM   ,0
 1998-02-06,Lexington Christian,Sayre,-,-,0,8:30 PM   ,0
@@ -2774,11 +2774,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-07,Corbin,Knox Central,71,61,1,   ,0
 1998-02-07,Covington Catholic,Newport,55,53,0,   ,0
 1998-02-07,Dawson Springs,McLean County,54,49,0,   ,0
-1998-02-07,Fort Campbell,Clarksville. TN,66,55,0,   ,0
+1998-02-07,Fort Campbell,Out of State,66,55,0,   ,0
 1998-02-07,Graves County,Christian County,56,41,1,   ,0
-1998-02-07,Harlan,Pound. VA,65,51,0,   ,0
+1998-02-07,Harlan,Out of State,65,51,0,   ,0
 1998-02-07,Jenkins,Buckhorn,66,49,1,   ,0
-1998-02-07,Louisville Collegiate,Eminence,74,65,1,  Overtime ,0
+1998-02-07,Louisville Collegiate,Eminence,74,65,1,  Overtime ,1
 1998-02-07,Madison Central,George Rogers Clark,65,57,0,   ,0
 1998-02-07,Newport Central Catholic,Scott,74,60,1,   ,0
 1998-02-07,Oneida Baptist Institute,June Buchanan,68,50,0,   ,0
@@ -2798,9 +2798,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-07,Paul Laurence Dunbar,Central,-,-,2,   ,0
 1998-02-07,Metcalfe County,Anderson County,-,-,2,4:30 PM   ,0
 1998-02-07,Pikeville,Greenup County,-,-,0,7:00 PM   ,0
-1998-02-07,Christian Fellowship,Jackson Trinity. TN,-,-,0,7:00 PM   ,0
-1998-02-07,Fulton County,Lake County. TN,-,-,0,7:30 PM   ,0
-1998-02-07,Pope County. IL,Lone Oak,-,-,0,7:00 PM   ,0
+1998-02-07,Christian Fellowship,Out of State,-,-,0,7:00 PM   ,0
+1998-02-07,Fulton County,Out of State,-,-,0,7:30 PM   ,0
+1998-02-07,Out of State,Lone Oak,-,-,0,7:00 PM   ,0
 1998-02-07,Frankfort,Model,-,-,0,8:30 PM   ,0
 1998-02-07,Millard,Phelps,-,-,0,8:30 PM   ,0
 1998-02-07,Shelby Valley,Sheldon Clark,-,-,0,8:30 PM   ,0
@@ -2813,7 +2813,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-09,Boyd County,West Carter,90,50,0,   ,0
 1998-02-09,Bullitt Central,Evangel Christian,72,61,1,   ,0
 1998-02-09,Calloway County,Crittenden County,64,57,0,   ,0
-1998-02-09,Cawood,Cumberland,85,77,0,  Overtime ,0
+1998-02-09,Cawood,Cumberland,85,77,0,  Overtime ,1
 1998-02-09,Cloverport,Louisville Collegiate,54,46,0,   ,0
 1998-02-09,Daviess County,Owensboro Catholic,51,50,1,   ,0
 1998-02-09,Fulton City,Murray,87,60,1,   ,0
@@ -2834,7 +2834,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-10,Ballard Memorial,Livingston Central,83,53,0,   ,0
 1998-02-10,Barbourville,Middlesboro,74,64,0,   ,0
 1998-02-10,Beechwood,Bellevue,85,66,0,   ,0
-1998-02-10,Belfry,Williamson. WV,70,62,0,   ,0
+1998-02-10,Belfry,Out of State,70,62,0,   ,0
 1998-02-10,Bell County,Evarts,73,56,0,   ,0
 1998-02-10,Bethlehem,Marion County,70,42,1,   ,0
 1998-02-10,Bishop Brossart,Mason County,58,40,1,   ,0
@@ -2860,7 +2860,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-10,Dayton,Silver Grove,91,70,1,   ,0
 1998-02-10,Eastern,Male,83,71,1,   ,0
 1998-02-10,Evangel Christian,Christian Academy-Louisville,71,69,1,  KCAC Tournament(First Round) ,0
-1998-02-10,Evansville Bosse. IN,Owensboro,82,80,1,   ,0
+1998-02-10,Out of State,Owensboro,82,80,1,   ,0
 1998-02-10,Fairdale,DeSales,61,57,0,   ,0
 1998-02-10,Fern Creek,Atherton,72,41,0,   ,0
 1998-02-10,Fleming County,Boyd County,69,60,1,   ,0
@@ -2877,7 +2877,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-10,Henderson County,Madisonville-North Hopkins,89,72,0,   ,0
 1998-02-10,Iroquois,Central,80,74,0,   ,0
 1998-02-10,Jeffersontown,Ballard,76,75,0,   ,0
-1998-02-10,Jeffersonville. IN,St. Xavier,73,55,1,   ,0
+1998-02-10,Out of State,St. Xavier,73,55,1,   ,0
 1998-02-10,Johnson Central,Pike County Central,102,87,1,   ,0
 1998-02-10,June Buchanan,Riverside Christian,67,57,1,   ,0
 1998-02-10,Kentucky Country Day,Brown,59,57,0,   ,0
@@ -2895,7 +2895,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-10,Muhlenberg North,Muhlenberg South,64,48,1,   ,0
 1998-02-10,Newport Central Catholic,Holmes,65,62,0,   ,0
 1998-02-10,North Hardin,Meade County,105,62,0,   ,0
-1998-02-10,Oak Hill Academy. VA,Hazard,115,59,0,   ,0
+1998-02-10,Out of State,Hazard,115,59,0,   ,0
 1998-02-10,Ohio County,Hancock County,74,58,1,   ,0
 1998-02-10,Oldham County,Trimble County,61,38,1,   ,0
 1998-02-10,Owsley County,Oneida Baptist Institute,75,46,0,   ,0
@@ -2907,7 +2907,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-10,Prestonsburg,Allen Central,80,67,0,   ,0
 1998-02-10,Raceland,Fairview,86,51,0,   ,0
 1998-02-10,Red Bird,Piarist School,100,52,1,   ,0
-1998-02-10,Rose Hill Christian,Hannan. WV,69,56,0,   ,0
+1998-02-10,Rose Hill Christian,Out of State,69,56,0,   ,0
 1998-02-10,Rowan County,Lewis County,71,55,0,   ,0
 1998-02-10,Ryle,Newport,68,46,0,   ,0
 1998-02-10,Sayre,Buckhorn,81,59,1,   ,0
@@ -2933,14 +2933,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-10,Whitesburg,Jenkins,69,57,1,   ,0
 1998-02-10,Woodford County,Lexington Christian,80,62,2,   ,0
 1998-02-10,Lloyd Memorial,Dixie Heights,-,-,0,8:30 PM   ,0
-1998-02-10,Covington Catholic,Elder. OH,-,-,0,8:30 PM   ,0
+1998-02-10,Covington Catholic,Out of State,-,-,0,8:30 PM   ,0
 1998-02-10,Betsy Layne,Elkhorn City,-,-,0,8:30 PM   ,0
-1998-02-10,Wise County Christian. VA,Fleming-Neon,-,-,0,8:30 PM   ,0
+1998-02-10,Out of State,Fleming-Neon,-,-,0,8:30 PM   ,0
 1998-02-10,Nelson County,Green County,-,-,0,8:00 PM   ,0
 1998-02-10,Campbell County,Highlands,-,-,0,   ,0
 1998-02-10,Conner,Holy Cross (Covington),-,-,0,7:00 PM   ,0
 1998-02-10,Lee County,Jackson City,-,-,0,7:00 PM   ,0
-1998-02-10,Mt. Mission. VA,Letcher,-,-,0,7:00 PM   ,0
+1998-02-10,Out of State,Letcher,-,-,0,7:00 PM   ,0
 1998-02-10,Villa Madonna,Ludlow,-,-,0,8:30 PM   ,0
 1998-02-10,Berea,Lynn Camp,-,-,0,8:30 PM   ,0
 1998-02-10,Rockcastle County,North Laurel,-,-,0,8:30 PM   ,0
@@ -2954,14 +2954,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-11,Shelby County,Oldham County,61,55,1,   ,0
 1998-02-11,Southern,DeSales,70,46,1,   ,0
 1998-02-12,Augusta,Covington Latin,59,35,1,   ,0
-1998-02-12,Belfry,Tug Valley. WV,63,48,0,   ,0
+1998-02-12,Belfry,Out of State,63,48,0,   ,0
 1998-02-12,Bell County,Knott County Central,72,58,1,   ,0
 1998-02-12,Beth Haven,Heritage Academy,77,58,0,  KCAC Tournament ,0
 1998-02-12,Clay County,Oneida Baptist Institute,78,48,0,   ,0
 1998-02-12,Glasgow,Cumberland County,78,49,1,   ,0
-1998-02-12,Kentucky School f/t Deaf,St. Rita School f/t Deaf,86,29,0,   ,0
+1998-02-12,Kentucky School f/t Deaf,Out of State,86,29,0,   ,0
 1998-02-12,Magoffin County,Prestonsburg,63,53,1,   ,0
-1998-02-12,Middlesboro,Cumberland,76,71,1,  Overtime ,0
+1998-02-12,Middlesboro,Cumberland,76,71,1,  Overtime ,1
 1998-02-12,Monroe County,Metcalfe County,73,68,0,   ,0
 1998-02-12,Montgomery County,Model,68,47,1,   ,0
 1998-02-12,Monticello,Garrard County,61,49,1,   ,0
@@ -3009,17 +3009,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-13,Dayton,Ludlow,61,44,1,   ,0
 1998-02-13,Deming,Rose Hill Christian,74,69,1,   ,0
 1998-02-13,Doss,DeSales,66,47,1,   ,0
-1998-02-13,Eastern,Seneca,54,49,1,  Overtime ,0
+1998-02-13,Eastern,Seneca,54,49,1,  Overtime ,1
 1998-02-13,Elizabethtown,Fort Knox,79,49,1,   ,0
 1998-02-13,Fairdale,Central,65,63,0,   ,0
-1998-02-13,Feds Creek,Matewan. WV,94,75,1,   ,0
+1998-02-13,Feds Creek,Out of State,94,75,1,   ,0
 1998-02-13,Fern Creek,Ballard,81,64,1,   ,0
-1998-02-13,Fort Campbell,Stewart County. TN,67,45,0,   ,0
+1998-02-13,Fort Campbell,Out of State,67,45,0,   ,0
 1998-02-13,Frankfort,Lexington Christian,78,59,1,   ,0
 1998-02-13,Franklin County,Pendleton County,75,58,1,   ,0
 1998-02-13,Fulton City,Fulton County,74,71,1,   ,0
 1998-02-13,Gallatin County,Owen County,64,59,0,   ,0
-1998-02-13,George Rogers Clark,Mason County,51,49,0,  Overtime ,0
+1998-02-13,George Rogers Clark,Mason County,51,49,0,  Overtime ,1
 1998-02-13,Glasgow,Caverna,80,69,0,   ,0
 1998-02-13,Grant County,Henry County,66,46,0,   ,0
 1998-02-13,Graves County,Calloway County,62,45,0,   ,0
@@ -3029,15 +3029,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-13,Highlands,Conner,77,50,0,   ,0
 1998-02-13,Hopkins County Central,Caldwell County,66,51,0,   ,0
 1998-02-13,Iroquois,Pleasure Ridge Park,76,63,1,   ,0
-1998-02-13,Jenkins,Wise County Christian. VA,70,53,1,   ,0
+1998-02-13,Jenkins,Out of State,70,53,1,   ,0
 1998-02-13,June Buchanan,Red Bird,65,52,1,   ,0
 1998-02-13,LaRue County,Green County,78,63,1,   ,0
 1998-02-13,Lafayette,Henry Clay,92,69,1,   ,0
 1998-02-13,Logan County,Hopkinsville,82,72,0,   ,0
 1998-02-13,Madison Southern,Southwestern,70,52,2,   ,0
-1998-02-13,Madisonville-North Hopkins,Evansville Harrison. IN,55,52,0,   ,0
+1998-02-13,Madisonville-North Hopkins,Out of State,55,52,0,   ,0
 1998-02-13,Magoffin County,Morgan County,65,47,1,   ,0
-1998-02-13,Male,Jeffersontown,69,60,1,  Overtime ,0
+1998-02-13,Male,Jeffersontown,69,60,1,  Overtime ,1
 1998-02-13,Marion County,Taylor County,65,60,0,   ,0
 1998-02-13,Marshall County,Murray,70,51,0,   ,0
 1998-02-13,McLean County,Cloverport,49,48,1,   ,0
@@ -3047,7 +3047,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-13,Millersburg Military,Riverside Christian,114,69,2,   ,0
 1998-02-13,Model,Estill County,67,47,0,   ,0
 1998-02-13,Monroe County,Todd County Central,60,54,1,   ,0
-1998-02-13,Monticello,North Laurel,54,53,1,  Overtime ,0
+1998-02-13,Monticello,North Laurel,54,53,1,  Overtime ,1
 1998-02-13,Muhlenberg South,Butler County,77,62,1,   ,0
 1998-02-13,Nelson County,Meade County,79,71,1,   ,0
 1998-02-13,North Hardin,North Bullitt,104,59,1,   ,0
@@ -3124,7 +3124,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-14,Muhlenberg South,Warren Central,62,55,1,   ,0
 1998-02-14,North Hardin,Prestonsburg,76,66,2,  Sweetheart Classic ,0
 1998-02-14,Perry County Central,Ashland Blazer,81,71,1,  Kentucky Legends Classic ,0
-1998-02-14,Providence,New Harmony. IN,79,60,1,   ,0
+1998-02-14,Providence,Out of State,79,60,1,   ,0
 1998-02-14,Pulaski County,Woodford County,78,76,0,   ,0
 1998-02-14,Raceland,Dayton,76,52,1,   ,0
 1998-02-14,Rockcastle County,Cordia,83,76,1,   ,0
@@ -3134,16 +3134,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-14,South Floyd,Fleming-Neon,101,66,1,   ,0
 1998-02-14,Southwestern,Danville,60,54,0,   ,0
 1998-02-14,St. Xavier,Shelby County,68,65,1,   ,0
-1998-02-14,Trinity (Louisville),,71,69,1,   ,0
-1998-02-14,Union County,Evansville Day. IN,67,53,2,   ,0
-1998-02-14,University School,Kentucky Country Day,60,41,1,   ,0
+1998-02-14,Trinity (Louisville),Out of State,71,69,1,   ,0
+1998-02-14,Union County,Out of State,67,53,2,   ,0
+1998-02-14,Out of State,Kentucky Country Day,60,41,1,   ,0
 1998-02-14,Williamsburg,Oneida Baptist Institute,68,43,1,   ,0
 1998-02-14,Wolfe County,Barbourville,85,77,1,   ,0
 1998-02-14,Lawrence County,Fairview,-,-,0,7:00 PM   ,0
 1998-02-14,Cloverport,Bardstown,-,-,2,7:00 PM   ,0
 1998-02-14,Paul Laurence Dunbar,Harrodsburg,-,-,2,  S.T. Roach Classic ,0
 1998-02-14,Paul Laurence Dunbar,Harrodsburg,-,-,2,   ,0
-1998-02-15,Barbourville,Jellico. TN,81,69,1,   ,0
+1998-02-15,Barbourville,Out of State,81,69,1,   ,0
 1998-02-15,Bowling Green,Franklin County,67,53,2,  Prep Classic ,0
 1998-02-15,Highlands,Scott County,89,85,2,  Prep Classic ,0
 1998-02-15,Knott County Central,Powell County,101,73,0,   ,0
@@ -3156,10 +3156,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-16,Clinton County,Southwestern,74,56,1,   ,0
 1998-02-16,Corbin,Evarts,95,67,0,   ,0
 1998-02-16,Eastern,Central,65,55,1,   ,0
-1998-02-16,Forge Ridge. TN,Lynn Camp,87,76,0,   ,0
+1998-02-16,Out of State,Lynn Camp,87,76,0,   ,0
 1998-02-16,Frankfort,Berea,65,57,0,   ,0
 1998-02-16,Gallatin County,Henry County,51,44,1,   ,0
-1998-02-16,Hancock County,Tell City. IN,60,52,1,   ,0
+1998-02-16,Hancock County,Out of State,60,52,1,   ,0
 1998-02-16,Harrodsburg,Garrard County,89,72,0,   ,0
 1998-02-16,Hickman County,Fulton City,91,78,0,   ,0
 1998-02-16,Holmes,Conner,91,48,0,   ,0
@@ -3167,7 +3167,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-16,Owsley County,Jackson County,70,68,0,   ,0
 1998-02-16,Pulaski County,Campbellsville,65,55,1,   ,0
 1998-02-16,Raceland,Nicholas County,74,59,0,   ,0
-1998-02-16,Reidland,Calloway County,64,59,1,  Double Overtime ,0
+1998-02-16,Reidland,Calloway County,64,59,1,  Double Overtime ,1
 1998-02-16,Scott County,Lafayette,110,85,0,   ,0
 1998-02-16,St. Mary,Carlisle County,60,48,0,   ,0
 1998-02-16,Union County,Hopkins County Central,63,46,1,   ,0
@@ -3194,7 +3194,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-17,Christian County,Caldwell County,85,71,0,   ,0
 1998-02-17,Cloverport,Bullitt Central,52,47,2,   ,0
 1998-02-17,Covington Catholic,Boone County,75,54,0,   ,0
-1998-02-17,Crittenden County,Dawson Springs,66,64,1,  Overtime ,0
+1998-02-17,Crittenden County,Dawson Springs,66,64,1,  Overtime ,1
 1998-02-17,Danville,Russell County,68,54,0,   ,0
 1998-02-17,Elkhorn City,Fleming-Neon,59,42,1,   ,0
 1998-02-17,Evangel Christian,Walden,91,50,1,   ,0
@@ -3205,7 +3205,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-17,Gallatin County,Eminence,102,75,0,   ,0
 1998-02-17,Garrard County,Estill County,73,72,1,   ,0
 1998-02-17,George Rogers Clark,Paul Laurence Dunbar,60,53,1,   ,0
-1998-02-17,Graceland,Portland Christian,79,29,1,   ,0
+1998-02-17,Out of State,Portland Christian,79,29,1,   ,0
 1998-02-17,Grant County,Trimble County,81,38,0,   ,0
 1998-02-17,Graves County,St. Mary,62,45,1,   ,0
 1998-02-17,Grayson County,Butler County,75,54,1,   ,0
@@ -3226,7 +3226,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-17,Lafayette,Harrodsburg,82,66,0,   ,0
 1998-02-17,Lee County,Elliott County,65,36,1,   ,0
 1998-02-17,Letcher,Buckhorn,92,75,1,   ,0
-1998-02-17,Lewis County,Portsmouth. OH,73,69,1,   ,0
+1998-02-17,Lewis County,Out of State,73,69,1,   ,0
 1998-02-17,Lexington Catholic,Fleming County,54,51,1,   ,0
 1998-02-17,Lincoln County,Mercer County,90,76,0,   ,0
 1998-02-17,Logan County,Trinity (Whitesville),53,46,0,   ,0
@@ -3286,17 +3286,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-17,Newport,Scott,-,-,0,8:30 PM   ,0
 1998-02-17,South Floyd,Shelby Valley,-,-,0,8:30 PM   ,0
 1998-02-17,Holy Cross (Covington),Walton-Verona,-,-,0,   ,0
-1998-02-18,Beechwood,Cincinnati Taylor. OH,-,-,0,7:00 PM   ,0
+1998-02-18,Beechwood,Out of State,-,-,0,7:00 PM   ,0
 1998-02-18,St. Henry,Lloyd Memorial,-,-,0,8:30 PM   ,0
-1998-02-19,,Ballard,69,66,0,   ,0
+1998-02-19,Out of State,Ballard,69,66,0,   ,0
 1998-02-19,Barbourville,Cumberland,81,77,1,   ,0
 1998-02-19,Barren County,Clinton County,65,58,1,   ,0
 1998-02-19,Berea,Kentucky School f/t Deaf,79,49,1,   ,0
 1998-02-19,Bishop Brossart,Newport,63,59,1,   ,0
 1998-02-19,Bullitt East,North Bullitt,65,64,0,   ,0
-1998-02-19,Cannelton. IN,Cloverport,54,53,1,   ,0
+1998-02-19,Out of State,Cloverport,54,53,1,   ,0
 1998-02-19,Clay County,North Laurel,54,50,1,   ,0
-1998-02-19,Conner,South Dearborn. IN,0,0,2,   ,0
+1998-02-19,Conner,Out of State,0,0,2,   ,0
 1998-02-19,Doss,Atherton,61,57,0,   ,0
 1998-02-19,Elkhorn City,Millard,76,61,1,   ,0
 1998-02-19,Franklin County,Lexington Christian,83,43,2,   ,0
@@ -3318,7 +3318,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-20,Butler,Male,71,58,0, st District  ,0
 1998-02-20,Adair County,Russell County,81,49,1,   ,0
 1998-02-20,Allen Central,Breathitt County,90,80,1,   ,0
-1998-02-20,Apollo,Hopkins County Central,72,68,0,  Overtime ,0
+1998-02-20,Apollo,Hopkins County Central,72,68,0,  Overtime ,1
 1998-02-20,Ashland Blazer,Pikeville,81,56,2,   ,0
 1998-02-20,Bardstown,Atherton,71,46,1,   ,0
 1998-02-20,Bell County,Whitley County,59,57,0,   ,0
@@ -3364,7 +3364,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-20,Henry County,Owen County,44,43,1,   ,0
 1998-02-20,Highlands,Simon Kenton,80,68,0,   ,0
 1998-02-20,Holmes,Newport,50,43,1,   ,0
-1998-02-20,Ironton. OH,Russell,57,47,0,   ,0
+1998-02-20,Out of State,Russell,57,47,0,   ,0
 1998-02-20,Jackson City,Rose Hill Christian,61,53,1,   ,0
 1998-02-20,Jenkins,Feds Creek,75,63,1,   ,0
 1998-02-20,Johnson Central,Millard,106,66,0,   ,0
@@ -3413,7 +3413,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-20,Villa Madonna,Heritage Academy,71,62,1,   ,0
 1998-02-20,Waggener,North Bullitt,60,50,0,   ,0
 1998-02-20,Warren East,Taylor County,63,45,1,   ,0
-1998-02-20,Webster County,Daviess County,46,40,1,  Overtime ,0
+1998-02-20,Webster County,Daviess County,46,40,1,  Overtime ,1
 1998-02-20,West Jessamine,Berea,61,55,0,   ,0
 1998-02-20,Western,Moore,73,70,0,   ,0
 1998-02-20,Wolfe County,Buckhorn,85,73,0,   ,0
@@ -3423,7 +3423,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-20,St. Henry,Holy Cross (Covington),-,-,0,   ,0
 1998-02-20,Covington Latin,Ludlow,-,-,0,7:00 PM   ,0
 1998-02-20,Millersburg Military,Nicholas County,-,-,2,8:30 PM   ,0
-1998-02-21,American School f/t Deaf,Kentucky School f/t Deaf,55,46,0,   ,0
+1998-02-21,Out of State,Kentucky School f/t Deaf,55,46,0,   ,0
 1998-02-21,Berea,Menifee County,61,47,1,   ,0
 1998-02-21,Beth Haven,Spencer County,66,61,1,   ,0
 1998-02-21,Central,Bryan Station,51,50,0,   ,0
@@ -3432,7 +3432,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-21,Fulton County,Fulton City,68,60,1,   ,0
 1998-02-21,Raceland,Bellevue,93,88,1,   ,0
 1998-02-21,Riverside Christian,Rose Hill Christian,62,61,1,   ,0
-1998-02-21,Whitney Young School f/t Deaf,Kentucky School f/t Deaf,69,57,0,   ,0
+1998-02-21,Out of State,Kentucky School f/t Deaf,69,57,0,   ,0
 1998-02-21,Silver Grove,East Carter,-,-,0,8:30 PM   ,0
 1998-02-21,Betsy Layne,Fairview,-,-,0,8:30 PM   ,0
 1998-02-21,Covington Latin,Heritage Academy,-,-,0,8:00 PM   ,0
@@ -3442,7 +3442,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-23,Lone Oak,Reidland,43,37,1, nd District 2nd District Tournament ,0
 1998-02-23,Marshall County,Murray,76,53,2, th District 4th District Tournament ,0
 1998-02-23,Lyon County,Livingston Central,56,51,0, th District 5th District Tournament ,0
-1998-02-23,Providence,Hopkins County Central,89,82,0, th District Overtime7th District Tournamnet ,0
+1998-02-23,Providence,Hopkins County Central,89,82,0, th District Overtime7th District Tournamnet ,1
 1998-02-23,Christian County,Fort Campbell,73,71,1, th District 8th District Tournament ,0
 1998-02-23,Russellville,Franklin-Simpson,63,47,2, th District 13th District Tournament ,0
 1998-02-23,Shawnee,Portland Christian,63,46,0, st District 21st District Tournament ,0
@@ -3473,7 +3473,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-24,Apollo,Daviess County,59,52,1, th District 9th District Tournament ,0
 1998-02-24,Muhlenberg South,Butler County,76,74,0, th District 10th District Tournament ,0
 1998-02-24,Breckinridge County,Hancock County,69,60,0, th District 11th District Tournament ,0
-1998-02-24,Cloverport,Trinity,74,64,2, th District 11th District Tournament ,0
+1998-02-24,Cloverport,Trinity (Whitesville),74,64,2, th District 11th District Tournament ,0
 1998-02-24,Ohio County,McLean County,58,39,2, th District 12th District Tournament ,0
 1998-02-24,Logan County,Todd County Central,50,49,1, th District 13th District Tournament ,0
 1998-02-24,Bowling Green,Warren East,67,49,1, th District 14th District Tournament. Caleb Smith led the Purples with 32 points. ,0
@@ -3491,7 +3491,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-24,Shelby County,Anderson County,48,39,2, th District 30th District Tournament ,0
 1998-02-24,South Oldham,Carroll County,79,46,2, st District 31st District Tournament ,0
 1998-02-24,Scott County,Grant County,63,49,2, nd District 32nd District Tournament ,0
-1998-02-24,Ryle,Conner,65,56,1, rd District 33rd District TournamentOvertime ,0
+1998-02-24,Ryle,Conner,65,56,1, rd District 33rd District TournamentOvertime ,1
 1998-02-24,Dixie Heights,Villa Madonna,77,53,2, th District 34th District Tournament ,0
 1998-02-24,Dayton,Bellevue,59,53,2, th District 36th District Tournament ,0
 1998-02-24,Fleming County,Deming,83,45,1, th District 39th District Tournament ,0
@@ -3515,11 +3515,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-24,Elliott County,Lewis County,69,64,2, nd District 62nd District Tournament ,0
 1998-02-24,Russell,Raceland,63,62,1, rd District 63rd District Tournament ,0
 1998-02-25,Hickman County,Fulton City,86,77,2, st District 1st District Tournament ,0
-1998-02-25,Owensboro Catholic,Owensboro,61,59,2, th District Double Overtime9th District Tournament ,0
+1998-02-25,Owensboro Catholic,Owensboro,61,59,2, th District Double Overtime9th District Tournament ,1
 1998-02-25,Metcalfe County,Clinton County,79,67,0, th District 16th District Tournament ,0
 1998-02-25,Washington County,Bardstown,58,55,2, th District 19th District Tournament ,0
 1998-02-25,Taylor County,Marion County,61,51,2, th District 20th District Tournament ,0
-1998-02-25,Butler,Holy Cross,69,40,2, nd District 22nd District Tournament ,0
+1998-02-25,Butler,Holy Cross (Louisville),69,40,2, nd District 22nd District Tournament ,0
 1998-02-25,Pleasure Ridge Park,Western,62,55,0, nd District 22nd District Tournament ,0
 1998-02-25,Fairdale,Doss,67,63,1, rd District 23rd District Tournament ,0
 1998-02-25,Southern,DeSales,63,43,0, th District 24th District Tournament ,0
@@ -3537,9 +3537,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-25,Newport,Newport Central Catholic,57,47,2, th District 36th District Tournament ,0
 1998-02-25,Bourbon County,Harrison County,47,43,1, th District 37th District Tournament ,0
 1998-02-25,Bishop Brossart,Silver Grove,81,53,2, th District 38th District Tournament ,0
-1998-02-25,Bracken County,Pendleton County,68,65,2, th District Double Overtime38th District Tournament ,0
+1998-02-25,Bracken County,Pendleton County,68,65,2, th District Double Overtime38th District Tournament ,1
 1998-02-25,Mason County,St. Patrick,65,56,2, th District 39th District Tournament ,0
-1998-02-25,Woodford County,Western Hills,71,68,0, st District 41st District TournamentOvertime ,0
+1998-02-25,Woodford County,Western Hills,71,68,0, st District 41st District TournamentOvertime ,1
 1998-02-25,Sayre,West Jessamine,66,53,2, nd District 42nd District Tournament ,0
 1998-02-25,Tates Creek,Paul Laurence Dunbar,86,56,2, rd District 43rd District Tournament ,0
 1998-02-25,Madison Southern,Berea,38,33,2, th District 44th District Tournament ,0
@@ -3566,7 +3566,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-26,Elizabethtown,Meade County,64,49,1, th District 17th District Tournament ,0
 1998-02-26,North Hardin,Central Hardin,59,27,2, th District 17th District Tournament ,0
 1998-02-26,LaRue County,Hart County,77,74,2, th District 18th District Tournament ,0
-1998-02-26,Bethlehem,Nelson County,63,60,1, th District 19th District TournamentOvertime ,0
+1998-02-26,Bethlehem,Nelson County,63,60,1, th District 19th District TournamentOvertime ,1
 1998-02-26,Campbellsville,Adair County,84,66,1, th District 20th District Tournament ,0
 1998-02-26,Central,Shawnee,65,47,2, st District 21st District Final ,0
 1998-02-26,Valley,Fairdale,70,67,0, rd District 23rd District Finals ,0
@@ -3584,7 +3584,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-26,Corbin,Lynn Camp,96,60,2, th District 50th District Tournament ,0
 1998-02-26,Bell County,Pineville,67,37,0, st District 51st District Tournament ,0
 1998-02-26,Jenkins,Letcher,71,54,2, rd District 53rd District Tournament ,0
-1998-02-26,Breathitt County,Cordia,92,86,2, th District Double Overtime55th District Tournament ,0
+1998-02-26,Breathitt County,Cordia,92,86,2, th District Double Overtime55th District Tournament ,1
 1998-02-26,Magoffin County,Sheldon Clark,66,55,2, th District 57th District Tournament ,0
 1998-02-26,Allen Central,South Floyd,69,49,2, th District 58th District Tournament ,0
 1998-02-26,Belfry,Phelps,60,50,0, th District 60th District Tournament ,0
@@ -3652,7 +3652,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-02-28,Breathitt County,Knott County Central,79,73,0, th District 55th District Finals ,0
 1998-02-28,Belfry,Elkhorn City,57,43,2, th District 60th District Finals ,0
 1998-03-02,Fleming County,Bracken County,90,47,2, th Region 10th Region  First Round ,0
-1998-03-02,George Rogers Clark,Paris,72,66,2, th Region Overtime10th Region  First Round ,0
+1998-03-02,George Rogers Clark,Paris,72,66,2, th Region Overtime10th Region  First Round ,1
 1998-03-03,Bishop Brossart,Montgomery County,54,46,2, th Region 10th Region  First Round ,0
 1998-03-03,Mason County,Bourbon County,64,58,1, th Region 10th Region  First Round ,0
 1998-03-04,Graves County,Calloway County,65,37,2, st Region 1st Region  First Round ,0
@@ -3696,7 +3696,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-03-05,Boyle County,Garrard County,94,44,2, th Region 12th Region  First Round ,0
 1998-03-05,South Laurel,Wayne County,47,45,2, th Region 12th Region  First Round ,0
 1998-03-05,Bell County,Harlan,66,54,2, th Region 13th Region  First Round ,0
-1998-03-05,Clay County,Corbin,73,72,1, th Region Overtime13th Region  First Round ,0
+1998-03-05,Clay County,Corbin,73,72,1, th Region Overtime13th Region  First Round ,1
 1998-03-05,Hazard,Jenkins,83,41,2, th Region 14th Region  First Round ,0
 1998-03-05,Powell County,Knott County Central,77,64,1, th Region 14th Region  First Round ,0
 1998-03-06,Bowling Green,Barren County,60,48,2, th Region 4th Region  First Round(also listen to Logan Co./Monroe Co. summary) ,0
@@ -3715,12 +3715,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-03-07,Ohio County,Apollo,59,50,1, rd Region 3rd Region  Semifinals ,0
 1998-03-07,Greenwood,Glasgow,64,52,2, th Region 4th Region  First Round ,0
 1998-03-07,Russellville,Metcalfe County,68,64,2, th Region 4th Region  First Round ,0
-1998-03-07,Pleasure Ridge Park,Butler,50,49,2, th Region Double Overtime6th Region  Finals ,0
+1998-03-07,Pleasure Ridge Park,Butler,50,49,2, th Region Double Overtime6th Region  Finals ,1
 1998-03-07,Eastern,St. Xavier,64,56,2, th Region 7th Region  Finals ,0
 1998-03-07,Madison Central,Tates Creek,66,51,2, th Region 11th Region  First Round ,0
 1998-03-07,Sayre,Franklin County,55,48,2, th Region 11th Region  First Round ,0
 1998-03-07,Belfry,Magoffin County,43,37,2, th Region 15th Region  First Round ,0
-1998-03-07,Shelby Valley,Allen Central,85,83,2, th Region Overtime15th Region  First Round ,0
+1998-03-07,Shelby Valley,Allen Central,85,83,2, th Region Overtime15th Region  First Round ,1
 1998-03-07,Boyd County,Morgan County,87,44,2, th Region 16th Region  First Round ,0
 1998-03-07,Russell,East Carter,72,56,2, th Region 16th Region  First Round ,0
 1998-03-09,Graves County,Paducah Tilghman,59,51,2, st Region 1st Region  Semifinals ,0
@@ -3730,7 +3730,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-03-09,Bowling Green,Logan County,66,52,2, th Region 4th Region  Semifinals ,0
 1998-03-09,Russellville,Greenwood,49,43,2, th Region 4th Region  Semifinals ,0
 1998-03-09,Elizabethtown,Bethlehem,72,59,2, th Region 5th Region  Semifinals ,0
-1998-03-09,North Hardin,Campbellsville,88,82,2, th Region Triple Overtime5th Region  Semifinals ,0
+1998-03-09,North Hardin,Campbellsville,88,82,2, th Region Triple Overtime5th Region  Semifinals ,1
 1998-03-09,Oldham County,Williamstown,65,54,2, th Region 8th Region  Semifinals ,0
 1998-03-09,Scott County,Shelby County,98,71,2, th Region 8th Region  Semifinals ,0
 1998-03-09,Highlands,Simon Kenton,70,61,2, th Region 9th Region  Semifinals ,0
@@ -3768,11 +3768,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1998-03-18,Pleasure Ridge Park,Muhlenberg North,61,45,2,  Boys Sweet 16®  ,0
 1998-03-18,Scott County,Union County,61,53,2,  Boys Sweet 16®  ,0
 1998-03-19,Boyd County,Hazard,58,53,2,  Boys Sweet 16®  ,0
-1998-03-19,Eastern,North Hardin,67,51,2,  Boys Sweet 16® Overtime ,0
+1998-03-19,Eastern,North Hardin,67,51,2,  Boys Sweet 16® Overtime ,1
 1998-03-19,Fleming County,Boyle County,57,49,2,  Boys Sweet 16®  ,0
 1998-03-19,Paintsville,Clay County,84,66,2,  Boys Sweet 16®  ,0
 1998-03-20,Fleming County,Eastern,77,58,2,  Boys Sweet 16®  ,0
-1998-03-20,Lexington Catholic,Pleasure Ridge Park,75,73,2,  Boys Sweet 16® Overtime ,0
+1998-03-20,Lexington Catholic,Pleasure Ridge Park,75,73,2,  Boys Sweet 16® Overtime ,1
 1998-03-20,Paintsville,Boyd County,55,50,2,  Boys Sweet 16®  ,0
 1998-03-20,Scott County,Highlands,72,67,2,  Boys Sweet 16®  ,0
 1998-03-21,Paintsville,Fleming County,80,61,2,  Boys Sweet 16®  ,0

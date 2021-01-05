@@ -34,7 +34,7 @@ class Season:
             if self.year >= 2007: 
                 url_pre = link + str(self.year)[2:4] + '?id='
             elif self.year >=1999:
-                url_pre = link + self.get_url_code + str(self.year)[3:4] + '?id='
+                url_pre = link + str(self.year)[3:4] + '?id='
             elif self.year == 1998:
                 url_pre = link + '?id='
         elif self.sport == "Boys Basketball": 

@@ -14,7 +14,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-11-30,Ashland Blazer,Lewis County,66,61,0,  (overtime) ,1
 2010-11-30,Atherton,Brown,72,30,1,   ,0
 2010-11-30,Ballard,Scott County,77,73,0,   ,0
-2010-11-30,Barbourville,Jellico. TN,62,48,0,   ,0
+2010-11-30,Barbourville,Out of State,62,48,0,   ,0
 2010-11-30,Barren County,Green County,45,44,0,   ,0
 2010-11-30,Bath County,Garrard County,68,51,0,   ,0
 2010-11-30,Berea,Lynn Camp,70,43,1,   ,0
@@ -40,32 +40,32 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-11-30,DuPont Manual,DeSales,62,52,1,   ,0
 2010-11-30,Eastern,St. Xavier,77,52,1,   ,0
 2010-11-30,Elizabethtown,Adair County,62,53,0,   ,0
-2010-11-30,Evansville Day School. IN,Cloverport,57,32,2,   ,0
+2010-11-30,Out of State,Cloverport,57,32,2,   ,0
 2010-11-30,Frankfort,Paris,79,74,0,   ,0
 2010-11-30,Fulton City,Murray,65,59,0,   ,0
 2010-11-30,Gallatin County,Collins,48,44,1,   ,0
 2010-11-30,Greenup County,St. Patrick,69,57,1,   ,0
 2010-11-30,Harlan County,Jackson County,82,66,1,   ,0
-2010-11-30,Henderson County,Evansville Reitz Memorial. IN,84,77,2,   ,0
-2010-11-30,Heritage Hills. IN,Hancock County,57,49,1,   ,0
+2010-11-30,Henderson County,Out of State,84,77,2,   ,0
+2010-11-30,Out of State,Hancock County,57,49,1,   ,0
 2010-11-30,Iroquois,Seneca,83,67,1,   ,0
 2010-11-30,Jeffersontown,Waggener,60,29,0,   ,0
 2010-11-30,Knott County Central,Jenkins,89,29,0,   ,0
-2010-11-30,Knox Central,Cumberland Gap. TN,75,73,0,   ,0
+2010-11-30,Knox Central,Out of State,75,73,0,   ,0
 2010-11-30,Lee County,Wolfe County,60,55,0,   ,0
 2010-11-30,Lloyd Memorial,Ludlow,70,32,1,   ,0
 2010-11-30,Logan County,Trinity (Whitesville),92,40,1,   ,0
 2010-11-30,Lyon County,Caldwell County,64,39,0,   ,0
 2010-11-30,Madison Central,Madison Southern,60,57,1,   ,0
 2010-11-30,Magoffin County,Rose Hill Christian,78,63,0,   ,0
-2010-11-30,McLean County,Cannelton IN,60,48,0,   ,0
+2010-11-30,McLean County,Out of State,60,48,0,   ,0
 2010-11-30,Mercer County,McCreary Central,76,71,0,   ,0
 2010-11-30,Metcalfe County,Warren East,60,49,1,   ,0
 2010-11-30,Model,Monticello,71,52,0,   ,0
 2010-11-30,Moore,Western,72,58,0,   ,0
-2010-11-30,Muhlenberg County,Cairo. IL,75,59,1,   ,0
+2010-11-30,Muhlenberg County,Out of State,75,59,1,   ,0
 2010-11-30,Oldham County,Grant County,72,54,1,   ,0
-2010-11-30,Owensboro Catholic,South Spencer. IN,35,34,0,   ,0
+2010-11-30,Owensboro Catholic,Out of State,35,34,0,   ,0
 2010-11-30,Paducah Tilghman,Fulton County,76,64,0,   ,0
 2010-11-30,Paul Laurence Dunbar,Shelby County,60,56,0,   ,0
 2010-11-30,Pikeville,Sheldon Clark,61,51,1,   ,0
@@ -104,16 +104,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-02,Boyd County,Rose Hill Christian,79,56,1,   ,0
 2010-12-02,Bracken County,St. Patrick,98,66,1,   ,0
 2010-12-02,Carroll County,Trimble County,56,51,1,   ,0
-2010-12-02,East Ridge,Grundy. VA,74,48,1,   ,0
+2010-12-02,East Ridge,Out of State,74,48,1,   ,0
 2010-12-02,Edmonson County,Todd County Central,55,53,0,   ,0
 2010-12-02,Elliott County,East Carter,70,51,0,   ,0
 2010-12-02,Glasgow,Greenwood,63,48,1,   ,0
 2010-12-02,Graves County,Fulton County,65,54,1,   ,0
 2010-12-02,Harlan,Pineville,74,66,1,   ,0
-2010-12-02,Harlan County,Lee. VA,78,55,1,   ,0
+2010-12-02,Harlan County,Out of State,78,55,1,   ,0
 2010-12-02,Henderson County,Owensboro,60,46,0,   ,0
 2010-12-02,Hickman County,Reidland,71,61,1,   ,0
-2010-12-02,Hurley. VA,Phelps,43,34,0,   ,0
+2010-12-02,Out of State,Phelps,43,34,0,   ,0
 2010-12-02,Iroquois,Brown,111,20,1,   ,0
 2010-12-02,Kentucky Country Day,Fort Knox,73,53,1,   ,0
 2010-12-02,Lexington Catholic,Paul Laurence Dunbar,88,45,1,   ,0
@@ -126,12 +126,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-02,South Laurel,Buckhorn,65,62,1,   ,0
 2010-12-02,Western Hills,Henry County,78,61,1,   ,0
 2010-12-02,Williamsburg,Owsley County,75,45,1,   ,0
-2010-12-03,Eastmoor Academy. OH,Bryan Station,64,63,2, Big Red Shoot-Out  ,0
+2010-12-03,Out of State,Bryan Station,64,63,2, Big Red Shoot-Out  ,0
 2010-12-03,Adair County,Green County,42,34,1,   ,0
 2010-12-03,Apollo,Hancock County,58,50,0,   ,0
 2010-12-03,Ashland Blazer,Fleming County,102,68,0,   ,0
 2010-12-03,Augusta,Calvary Christian,63,41,0,   ,0
-2010-12-03,Ballard,Duncanville. TX,85,81,2,  (overtime) ,1
+2010-12-03,Ballard,Out of State,85,81,2,  (overtime) ,1
 2010-12-03,Ballard Memorial,Heath,62,54,0,   ,0
 2010-12-03,Barbourville,Middlesboro,81,53,1,   ,0
 2010-12-03,Bardstown,Marion County,61,44,0,   ,0
@@ -143,7 +143,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-03,Butler,Central,63,60,0,   ,0
 2010-12-03,Carlisle County,Community Christian (Paducah),63,50,1,   ,0
 2010-12-03,Caverna,Hart County,58,47,1,   ,0
-2010-12-03,Clay County,Centennial (Columbus). OH,66,50,1,   ,0
+2010-12-03,Clay County,Out of State,66,50,1,   ,0
 2010-12-03,Collins,Shelby County,77,50,1,   ,0
 2010-12-03,Conner,Cooper,65,55,0,   ,0
 2010-12-03,Corbin,Pendleton County,64,46,1,   ,0
@@ -164,7 +164,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-03,Jackson County,Monticello,57,38,1,   ,0
 2010-12-03,Jeffersontown,Atherton,91,30,1,   ,0
 2010-12-03,Johnson Central,South Floyd,65,55,1,   ,0
-2010-12-03,Kentucky School f/t Deaf,Tennessee School for the Deaf,45,31,0,   ,0
+2010-12-03,Kentucky School f/t Deaf,Out of State,45,31,0,   ,0
 2010-12-03,Knox Central,Harlan,74,69,1,   ,0
 2010-12-03,Lee County,Garrard County,45,41,1,   ,0
 2010-12-03,Lexington Catholic,Covington Catholic,57,44,1,   ,0
@@ -173,7 +173,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-03,Logan County,Warren East,69,46,0,   ,0
 2010-12-03,Madisonville-North Hopkins,Caldwell County,75,21,1,   ,0
 2010-12-03,Male,Moore,49,47,1,   ,0
-2010-12-03,Marshall County,Memphis Middle College. TN,81,56,1,   ,0
+2010-12-03,Marshall County,Out of State,81,56,1,   ,0
 2010-12-03,Metcalfe County,Monroe County,47,45,0,   ,0
 2010-12-03,Montgomery County,Nicholas County,95,45,1,   ,0
 2010-12-03,North Bullitt,Louisville Collegiate,48,38,1,   ,0
@@ -185,9 +185,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-03,Pikeville,Prestonsburg,60,50,0,   ,0
 2010-12-03,Powell County,Cordia,76,48,1,   ,0
 2010-12-03,Pulaski County,Clinton County,66,48,1,   ,0
-2010-12-03,Rose Hill Christian,Dawson Bryant,57,54,2,   ,0
+2010-12-03,Rose Hill Christian,Out of State,57,54,2,   ,0
 2010-12-03,Russell,Greenup County,42,28,0,   ,0
-2010-12-03,Sayre,Paris,93,81,0,  (triple overtime) ,0
+2010-12-03,Sayre,Paris,93,81,0,  (triple overtime) ,1
 2010-12-03,Scott County,Trinity (Louisville),58,51,0,   ,0
 2010-12-03,Simon Kenton,Gallatin County,72,61,1,   ,0
 2010-12-03,South Warren,Barren County,48,38,0,   ,0
@@ -202,12 +202,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-03,Wayne County,Mercer County,71,68,0,   ,0
 2010-12-03,Western,Iroquois,72,64,0,   ,0
 2010-12-03,Whitley County,Owsley County,81,41,0,   ,0
-2010-12-04,Bryan Station,Centennial,58,55,2, Big Red Shoot-Out  ,0
+2010-12-04,Bryan Station,Out of State,58,55,2, Big Red Shoot-Out  ,0
 2010-12-04,Central Hardin,Henderson County,77,66,2, Campbellsville Tip Off Classic (overtime) ,1
 2010-12-04,Nelson County,North Hardin,63,62,2, Campbellsville Tip Off Classic (overtime) ,1
-2010-12-04,Duncanville. TX,Warren Central,66,51,2, Marshall County Hoopfest  ,0
-2010-12-04,Bradford. TN,St. Mary,49,44,2, Martin Westview Shootout  ,0
-2010-12-04,Seven Hills. OH,Berea,59,41,2, Wierwille Shootout  ,0
+2010-12-04,Out of State,Warren Central,66,51,2, Marshall County Hoopfest  ,0
+2010-12-04,Out of State,St. Mary,49,44,2, Martin Westview Shootout  ,0
+2010-12-04,Out of State,Berea,59,41,2, Wierwille Shootout  ,0
 2010-12-04,Allen County-Scottsville,Caverna,76,46,1,   ,0
 2010-12-04,Ballard,Fulton City,95,56,0,   ,0
 2010-12-04,Bellevue,Covington Latin,82,37,1,   ,0
@@ -217,9 +217,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-04,Buckhorn,Henry Clay,48,38,2,   ,0
 2010-12-04,Bullitt Central,Bethlehem,47,41,0,   ,0
 2010-12-04,Butler County,Cloverport,62,50,2,   ,0
-2010-12-04,Calloway County,Gibson County. TN,53,33,2,   ,0
+2010-12-04,Calloway County,Out of State,53,33,2,   ,0
 2010-12-04,Campbell County,Calvary Christian,71,31,0,   ,0
-2010-12-04,Clay County,Eastmoor Academy. OH,76,56,1,   ,0
+2010-12-04,Clay County,Out of State,76,56,1,   ,0
 2010-12-04,Clinton County,Warren East,68,35,1,   ,0
 2010-12-04,Collins,North Oldham,47,39,1,   ,0
 2010-12-04,Corbin,Sayre,62,47,1,   ,0
@@ -227,30 +227,30 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-04,Fort Knox,Trinity (Whitesville),65,41,0,   ,0
 2010-12-04,Grant County,Dayton,91,39,1,   ,0
 2010-12-04,Hopkins County Central,Todd County Central,75,59,1,   ,0
-2010-12-04,Ironton. OH,Ashland Blazer,93,73,1,   ,0
-2010-12-04,Jeffersontown,Memphis East. TN,73,65,2,   ,0
-2010-12-04,Kentucky School f/t Deaf,Georgia School for the Deaf,51,19,2,   ,0
+2010-12-04,Out of State,Ashland Blazer,93,73,1,   ,0
+2010-12-04,Jeffersontown,Out of State,73,65,2,   ,0
+2010-12-04,Kentucky School f/t Deaf,Out of State,51,19,2,   ,0
 2010-12-04,LaRue County,Casey County,49,36,1,   ,0
 2010-12-04,Lexington Christian,Franklin County,52,43,1,   ,0
 2010-12-04,Logan County,Hancock County,79,55,2,   ,0
-2010-12-04,Massac County. IL,Muhlenberg County,70,69,2,   ,0
+2010-12-04,Out of State,Muhlenberg County,70,69,2,   ,0
 2010-12-04,McLean County,Crittenden County,68,40,1,   ,0
-2010-12-04,McNairy Central. TN,Carlisle County,65,55,2,   ,0
+2010-12-04,Out of State,Carlisle County,65,55,2,   ,0
 2010-12-04,Meade County,Edmonson County,54,47,2,   ,0
-2010-12-04,Melrose (Memphis). TN,Christian County,57,49,2,   ,0
+2010-12-04,Out of State,Christian County,57,49,2,   ,0
 2010-12-04,Monticello,Eminence,52,43,1,   ,0
 2010-12-04,North Bullitt,Washington County,78,46,1,   ,0
 2010-12-04,Oneida Baptist Institute,St. Francis,64,37,1,   ,0
 2010-12-04,Pendleton County,South Laurel,54,49,0,   ,0
 2010-12-04,Pikeville,Knott County Central,74,64,2,   ,0
 2010-12-04,Russell County,Campbellsville,69,65,0,  (overtime) ,1
-2010-12-04,Scott County Central. MO,Graves County,71,45,2,   ,0
-2010-12-04,South Carolina School for the Deaf,Kentucky School f/t Deaf,66,56,2,   ,0
+2010-12-04,Out of State,Graves County,71,45,2,   ,0
+2010-12-04,Out of State,Kentucky School f/t Deaf,66,56,2,   ,0
 2010-12-04,South Oldham,Western Hills,64,51,1,   ,0
 2010-12-04,South Warren,Greenwood,50,32,1,   ,0
 2010-12-04,Trinity (Louisville),Elizabethtown,80,54,0,   ,0
 2010-12-04,Union County,Hopkinsville,70,50,1,   ,0
-2010-12-04,West Creek. TN,Russellville,64,59,0,   ,0
+2010-12-04,Out of State,Russellville,64,59,0,   ,0
 2010-12-04,Woodford County,Frankfort,64,58,0,   ,0
 2010-12-06,Bardstown,Anderson County,68,38,1,   ,0
 2010-12-06,Bath County,Rose Hill Christian,82,53,0,   ,0
@@ -364,8 +364,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-08,Magoffin County,Phelps,69,45,1,   ,0
 2010-12-08,Mason County,Pendleton County,67,42,0,   ,0
 2010-12-08,North Oldham,Louisville Collegiate,49,47,0,   ,0
-2010-12-08,Ryle,Colerain. OH,65,48,0,   ,0
-2010-12-09,Australian Travel Team,Madison Southern,59,54,2, Berea Invitational  ,0
+2010-12-08,Ryle,Out of State,65,48,0,   ,0
+2010-12-09,Out of State,Madison Southern,59,54,2, Berea Invitational  ,0
 2010-12-09,Rowan County,Lewis County,69,54,2, EKC Tournament  ,0
 2010-12-09,Bath County,Paris,72,62,1,   ,0
 2010-12-09,Butler County,Dawson Springs,70,53,0,   ,0
@@ -393,14 +393,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-09,University Heights,Hopkinsville,81,60,1,   ,0
 2010-12-09,Villa Madonna,Silver Grove,47,43,0,   ,0
 2010-12-10,Madison Southern,Paul Laurence Dunbar,72,69,2, Berea Invitational  ,0
-2010-12-10,Scott County,Lew Wallace. IN,88,80,2, Racin’ to the Rim  ,0
+2010-12-10,Scott County,Out of State,88,80,2, Racin’ to the Rim  ,0
 2010-12-10,Louisville Collegiate,Fort Knox,65,57,2, St. Francis Invitational  ,0
 2010-12-10,Spencer County,Trimble County,60,30,2, St. Francis Invitational  ,0
 2010-12-10,Adair County,Taylor County,42,34,0,   ,0
 2010-12-10,Allen County-Scottsville,Cumberland County,68,55,0,   ,0
 2010-12-10,Ashland Blazer,Boyd County,85,67,0,   ,0
-2010-12-10,Augusta,Bourbon County,74,66,0,  (Overtime) ,0
-2010-12-10,Australian National Team,Model,73,40,2,   ,0
+2010-12-10,Augusta,Bourbon County,74,66,0,  (Overtime) ,1
+2010-12-10,Out of State,Model,73,40,2,   ,0
 2010-12-10,Ballard,St. Xavier,76,62,0,   ,0
 2010-12-10,Ballard Memorial,Calloway County,48,42,1,   ,0
 2010-12-10,Beechwood,Heritage Academy,93,16,0,   ,0
@@ -442,11 +442,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-10,Holy Cross (Covington),Cooper,52,51,0,   ,0
 2010-12-10,Hopkins County Central,Fort Campbell,77,49,2,   ,0
 2010-12-10,Iroquois,Doss,88,43,0,   ,0
-2010-12-10,J Frank White Academy. TN,Red Bird,60,50,0,   ,0
+2010-12-10,Out of State,Red Bird,60,50,0,   ,0
 2010-12-10,Jackson County,Jackson City,50,48,0,  (overtime) ,1
 2010-12-10,Jeffersontown,Kentucky Country Day,90,36,1,   ,0
 2010-12-10,John Hardin,Bardstown,69,67,0,   ,0
-2010-12-10,Kentucky School f/t Deaf,Ohio School for the Deaf,42,32,0,   ,0
+2010-12-10,Kentucky School f/t Deaf,Out of State,42,32,0,   ,0
 2010-12-10,LaRue County,Hart County,51,47,0,   ,0
 2010-12-10,Leslie County,Jenkins,60,24,1,   ,0
 2010-12-10,Letcher County Central,Wolfe County,73,50,1,   ,0
@@ -459,10 +459,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-10,Lyon County,Crittenden County,47,42,0,   ,0
 2010-12-10,Madisonville-North Hopkins,Union County,58,34,2,   ,0
 2010-12-10,Marion County,Washington County,52,30,1,   ,0
-2010-12-10,Marshall County,Australian Travel Team,73,39,1,   ,0
+2010-12-10,Marshall County,Out of State,73,39,1,   ,0
 2010-12-10,Mason County,Scott,73,63,0,   ,0
 2010-12-10,McCreary Central,West Jessamine,55,51,1,   ,0
-2010-12-10,McLean County,Ohio County,60,59,1,  (Overtime) ,0
+2010-12-10,McLean County,Ohio County,60,59,1,  (Overtime) ,1
 2010-12-10,Mercer County,Anderson County,60,43,0,   ,0
 2010-12-10,Metcalfe County,Clinton County,47,41,1,   ,0
 2010-12-10,Monroe County,Barren County,49,34,1,   ,0
@@ -483,31 +483,31 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-10,Sheldon Clark,Pike County Central,90,75,0,   ,0
 2010-12-10,Simon Kenton,Grant County,66,48,1,   ,0
 2010-12-10,Somerset,Berea,58,47,0,   ,0
-2010-12-10,South Spencer. IN,Hancock County,55,43,1,   ,0
+2010-12-10,Out of State,Hancock County,55,43,1,   ,0
 2010-12-10,Trinity (Louisville),Waggener,68,37,1,   ,0
 2010-12-10,Walton-Verona,Williamstown,69,31,1,   ,0
 2010-12-10,Wayne County,Southwestern,56,51,0,   ,0
 2010-12-10,Western,Valley,70,58,0,   ,0
 2010-12-10,Western Hills,Frankfort,68,55,1,   ,0
 2010-12-10,Whitley County,Barbourville,66,44,1,   ,0
-2010-12-10,Williamsburg,Jellico. TN,63,62,1,   ,0
-2010-12-11,Mayfield,Australian National Team,58,41,2, 1st Kentucky Shootout  ,0
-2010-12-11,Australian Travel Team,Paul Laurence Dunbar,63,58,2, Berea Invitational  ,0
-2010-12-11,Australian Travel Team,Estill County,61,31,2, Berea Invitational  ,0
+2010-12-10,Williamsburg,Out of State,63,62,1,   ,0
+2010-12-11,Mayfield,Out of State,58,41,2, 1st Kentucky Shootout  ,0
+2010-12-11,Out of State,Paul Laurence Dunbar,63,58,2, Berea Invitational  ,0
+2010-12-11,Out of State,Estill County,61,31,2, Berea Invitational  ,0
 2010-12-11,Garrard County,Model,59,57,2, Berea Invitational  ,0
 2010-12-11,Madison Southern,Somerset,88,64,2, Berea Invitational  ,0
 2010-12-11,Paul Laurence Dunbar,Berea,61,55,0, Berea Invitational  ,0
 2010-12-11,Mercer County,Taylor County,88,78,2, Bob Graves/Clem Haskins Classic  ,0
 2010-12-11,Western,Seneca,79,66,1, Bob Graves/Clem Haskins Classic  ,0
-2010-12-11,Belfry,Westside. WV,68,54,2, Coalfield Shootout  ,0
+2010-12-11,Belfry,Out of State,68,54,2, Coalfield Shootout  ,0
 2010-12-11,Johnson Central,Breathitt County,75,63,2, Hyden Citizen Bank/Coal Mining Our Future Classic  ,0
 2010-12-11,Leslie County,Rockcastle County,55,52,1, Hyden Citizen Bank/Coal Mining Our Future Classic  ,0
 2010-12-11,Knott County Central,Bryan Station,44,33,2, Kentucky Bank Shootout  ,0
 2010-12-11,Newport,Paris,62,55,2, Kentucky Bank Shootout  ,0
-2010-12-11,Memphis Central. TN,Warren Central,52,44,0, Ky-Tenn Minit Mart Challenge  ,0
-2010-12-11,Butler,East Side. MS,61,50,2, Racin’ to the Rim  ,0
-2010-12-11,McCallie School. TN,Lafayette,68,53,2, Racin’ to the Rim  ,0
-2010-12-11,Scott County,Lawrence North. IN,92,78,2, Racin’ to the Rim  ,0
+2010-12-11,Out of State,Warren Central,52,44,0, Ky-Tenn Minit Mart Challenge  ,0
+2010-12-11,Butler,Out of State,61,50,2, Racin’ to the Rim  ,0
+2010-12-11,Out of State,Lafayette,68,53,2, Racin’ to the Rim  ,0
+2010-12-11,Scott County,Out of State,92,78,2, Racin’ to the Rim  ,0
 2010-12-11,Lexington Catholic,North Oldham,57,40,2, Ronald McDonald's Classic  ,0
 2010-12-11,Fort Knox,St. Francis,70,28,0, St. Francis Invitational  ,0
 2010-12-11,Louisville Collegiate,Trimble County,57,43,2, St. Francis Invitational  ,0
@@ -515,27 +515,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-11,Spencer County,Louisville Collegiate,81,65,2, St. Francis Invitational  ,0
 2010-12-11,Buckhorn,South Laurel,48,44,2, Wish We Were In Maui Classic  ,0
 2010-12-11,Whitley County,North Laurel,62,51,1, Wish We Were In Maui Classic  ,0
-2010-12-11,Aiken. OH,Holmes,72,71,2,   ,0
+2010-12-11,Out of State,Holmes,72,71,2,   ,0
 2010-12-11,Apollo,Nelson County,54,50,2,   ,0
-2010-12-11,Bath County,South Point. OH,64,57,0,   ,0
-2010-12-11,Bell County,JJ Kelly. VA,50,42,1,   ,0
+2010-12-11,Bath County,Out of State,64,57,0,   ,0
+2010-12-11,Bell County,Out of State,50,42,1,   ,0
 2010-12-11,Bellevue,Williamstown,59,56,0,   ,0
 2010-12-11,Berea,Garrard County,43,38,1,   ,0
 2010-12-11,Betsy Layne,University Heights,55,54,2,   ,0
 2010-12-11,Bullitt East,Shelby County,94,56,0,   ,0
-2010-12-11,Burch. WV,Phelps,79,48,1,   ,0
+2010-12-11,Out of State,Phelps,79,48,1,   ,0
 2010-12-11,Campbell County,Bishop Brossart,64,61,1,  (overtime) ,1
 2010-12-11,Campbellsville,Grayson County,58,56,2,   ,0
 2010-12-11,Central,Pikeville,61,46,2,   ,0
-2010-12-11,Christian County,Marshall County.TN,63,40,2,   ,0
+2010-12-11,Christian County,Out of State,63,40,2,   ,0
 2010-12-11,Conner,Beechwood,75,53,1,   ,0
 2010-12-11,Daviess County,Webster County,61,52,0,   ,0
-2010-12-11,Dixie Heights,Colerain. OH,54,46,2,   ,0
+2010-12-11,Dixie Heights,Out of State,54,46,2,   ,0
 2010-12-11,DuPont Manual,Highlands,65,55,2,   ,0
 2010-12-11,Estill County,Somerset,42,33,2,   ,0
 2010-12-11,Evangel Christian,Heritage Academy,85,44,0,   ,0
 2010-12-11,Fern Creek,Central Hardin,52,32,2,   ,0
-2010-12-11,Graves County,Peoria. IL,68,65,1,   ,0
+2010-12-11,Graves County,Out of State,68,65,1,   ,0
 2010-12-11,Greenup County,Rose Hill Christian,81,48,1,   ,0
 2010-12-11,Greenwood,Butler County,73,48,1,   ,0
 2010-12-11,Harlan,Jackson County,69,66,1,   ,0
@@ -544,15 +544,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-11,Holy Cross (Covington),East Jessamine,71,66,2,   ,0
 2010-12-11,Holy Cross (Louisville),Atherton,72,62,1,   ,0
 2010-12-11,Hopkinsville,Marshall County,55,54,1,   ,0
-2010-12-11,Huntington. WV,East Carter,76,28,1,   ,0
+2010-12-11,Out of State,East Carter,76,28,1,   ,0
 2010-12-11,John Hardin,Lone Oak,76,54,1,   ,0
 2010-12-11,Kentucky Country Day,Eminence,57,30,0,   ,0
-2010-12-11,Kentucky School f/t Deaf,West Pennsylvania School for the Deaf,48,33,2,   ,0
-2010-12-11,Letcher County Central,East Ridge,72,70,1,  (Overtime) ,0
+2010-12-11,Kentucky School f/t Deaf,Out of State,48,33,2,   ,0
+2010-12-11,Letcher County Central,East Ridge,72,70,1,  (Overtime) ,1
 2010-12-11,Lloyd Memorial,Fort Knox,71,55,2,   ,0
 2010-12-11,Logan County,Bardstown,71,65,1,   ,0
 2010-12-11,Madison Southern,Model,77,56,2,   ,0
-2010-12-11,Memphis East. TN,Bowling Green,60,56,2,   ,0
+2010-12-11,Out of State,Bowling Green,60,56,2,   ,0
 2010-12-11,Monticello,Cordia,58,36,1,   ,0
 2010-12-11,Moore,Perry County Central,45,34,2,   ,0
 2010-12-11,Muhlenberg County,Breckinridge County,71,58,0,   ,0
@@ -560,25 +560,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-11,Oldham County,Riverside Christian,89,28,1,   ,0
 2010-12-11,Pendleton County,Nicholas County,83,19,0,   ,0
 2010-12-11,Reidland,Caldwell County,53,46,1,   ,0
-2010-12-11,Rochester School for the Deaf,Kentucky School f/t Deaf,35,30,2,   ,0
+2010-12-11,Out of State,Kentucky School f/t Deaf,35,30,2,   ,0
 2010-12-11,Shelby Valley,Doss,65,64,2,   ,0
 2010-12-11,Sheldon Clark,Prestonsburg,74,44,1,   ,0
 2010-12-11,Silver Grove,Covington Latin,56,45,1,   ,0
 2010-12-11,South Oldham,Cooper,71,59,2,   ,0
-2010-12-11,St. Patrick,Augusta,86,85,1,  (double overtime) ,0
+2010-12-11,St. Patrick,Augusta,86,85,1,  (double overtime) ,1
 2010-12-11,Trimble County,St. Francis,63,33,0,   ,0
 2010-12-11,Walton-Verona,Henry County,62,36,0,   ,0
 2010-12-11,Warren East,Allen County-Scottsville,69,60,1,   ,0
-2010-12-11,White Station Memphis. TN,George Rogers Clark,71,46,1,   ,0
+2010-12-11,Out of State,George Rogers Clark,71,46,1,   ,0
 2010-12-11,Williamsburg,Raceland,50,30,2,   ,0
-2010-12-11,Winfield. WV,Pike County Central,85,74,1,   ,0
-2010-12-12,Covington Catholic,St. Xavier. OH,63,56,2, Bluegrass Buckeye Challenge  ,0
+2010-12-11,Out of State,Pike County Central,85,74,1,   ,0
+2010-12-12,Covington Catholic,Out of State,63,56,2, Bluegrass Buckeye Challenge  ,0
 2010-12-12,Scott County,Lafayette,71,56,2, Racin’ to the Rim  ,0
 2010-12-12,Bracken County,Powell County,56,49,2,   ,0
 2010-12-12,Frankfort,Sayre,77,50,2,   ,0
 2010-12-12,Lee County,Jackson City,68,38,2,   ,0
-2010-12-12,Princeton. OH,Mason County,62,52,2,   ,0
-2010-12-12,Ryle,Oak Hills. OH,54,41,0,   ,0
+2010-12-12,Out of State,Mason County,62,52,2,   ,0
+2010-12-12,Ryle,Out of State,54,41,0,   ,0
 2010-12-12,Wolfe County,Pikeville,42,40,2,   ,0
 2010-12-13,Beechwood,Bellevue,77,58,0,   ,0
 2010-12-13,Bell County,McCreary Central,55,46,0,   ,0
@@ -659,24 +659,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-15,Oldham County,Shawnee,70,28,1,   ,0
 2010-12-15,Paintsville,Lawrence County,72,45,1,   ,0
 2010-12-16,North Laurel,Lynn Camp,65,56,0, Bowman Memorial  Classic  ,0
-2010-12-16,Jackson County,St. Paul. VA,34,32,2, KSA Holiday Tournament  ,0
+2010-12-16,Jackson County,Out of State,34,32,2, KSA Holiday Tournament  ,0
 2010-12-16,Barbourville,Williamsburg,69,64,1,   ,0
 2010-12-16,Bowling Green,Franklin-Simpson,65,59,1,   ,0
 2010-12-16,Caldwell County,Dawson Springs,71,46,1,   ,0
 2010-12-16,Corbin,Madison Southern,70,64,1,   ,0
 2010-12-16,Graves County,Calloway County,74,46,1,   ,0
-2010-12-16,Harlan,Jellico. TN,72,44,2,   ,0
+2010-12-16,Harlan,Out of State,72,44,2,   ,0
 2010-12-16,Logan County,Hart County,62,49,0,   ,0
 2010-12-16,Marshall County,Murray,65,40,0,   ,0
 2010-12-16,Mayfield,Lone Oak,49,42,1,   ,0
 2010-12-16,Pineville,Middlesboro,55,45,0,   ,0
-2010-12-16,Russell County,Metcalfe County,56,54,1,  (Overtime) ,0
+2010-12-16,Russell County,Metcalfe County,56,54,1,  (Overtime) ,1
 2010-12-16,Russellville,Madisonville-North Hopkins,62,45,1,   ,0
-2010-12-16,Southwestern,Mullen. CO,49,47,2,   ,0
-2010-12-17,Lexington Catholic,Tsinghua. China,63,47,2, Iolani Prep Classic  ,0
-2010-12-17,Mason County,Kaimuki. HI,50,46,2, Iolani Prep Classic  ,0
-2010-12-17,Lincoln Park. PA,Jackson County,66,42,2, KSA Holiday Tournament  ,0
-2010-12-17,Rock Canyon. CO,Southwestern,43,42,1, Rock Canyon Holiday Shootout  ,0
+2010-12-16,Southwestern,Out of State,49,47,2,   ,0
+2010-12-17,Lexington Catholic,Out of State,63,47,2, Iolani Prep Classic  ,0
+2010-12-17,Mason County,Out of State,50,46,2, Iolani Prep Classic  ,0
+2010-12-17,Out of State,Jackson County,66,42,2, KSA Holiday Tournament  ,0
+2010-12-17,Out of State,Southwestern,43,42,1, Rock Canyon Holiday Shootout  ,0
 2010-12-17,Adair County,Cumberland County,57,35,0,   ,0
 2010-12-17,Bell County,Harlan County,55,42,0,   ,0
 2010-12-17,Bishop Brossart,Highlands,48,37,1,   ,0
@@ -695,7 +695,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-17,Heath,Reidland,60,46,1,   ,0
 2010-12-17,Henderson County,Webster County,67,50,0,   ,0
 2010-12-17,Henry County,Owen County,56,42,1,   ,0
-2010-12-17,Jellico. TN,Lynn Camp,68,61,0,   ,0
+2010-12-17,Out of State,Lynn Camp,68,61,0,   ,0
 2010-12-17,Kentucky Country Day,Sayre,59,47,1,   ,0
 2010-12-17,Knott County Central,Hazard,52,48,0,   ,0
 2010-12-17,LaRue County,Caverna,97,76,1,   ,0
@@ -708,7 +708,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-17,Marion County,Campbellsville,57,47,1,   ,0
 2010-12-17,Montgomery County,Western Hills,72,52,0,   ,0
 2010-12-17,Monticello,Bellevue,63,53,0,   ,0
-2010-12-17,Newport,SCPA. OH,69,50,1,   ,0
+2010-12-17,Newport,Out of State,69,50,1,   ,0
 2010-12-17,Oldham County,Trimble County,59,41,0,   ,0
 2010-12-17,Owensboro,Apollo,55,41,0,   ,0
 2010-12-17,Owensboro Catholic,Grayson County,69,59,0,   ,0
@@ -716,41 +716,41 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-17,Russell County,Clinton County,57,48,1,   ,0
 2010-12-17,Russellville,Warren East,68,63,1,   ,0
 2010-12-17,Ryle,Conner,74,53,1,   ,0
-2010-12-17,Scott County,Australian Travel Team,79,32,1,   ,0
+2010-12-17,Scott County,Out of State,79,32,1,   ,0
 2010-12-17,Simon Kenton,Walton-Verona,53,50,1,   ,0
 2010-12-17,South Warren,Greenwood,45,39,0,   ,0
-2010-12-17,Taylor County,Green County,59,54,0,  (double overtime) ,0
+2010-12-17,Taylor County,Green County,59,54,0,  (double overtime) ,1
 2010-12-17,Union County,Caldwell County,57,38,1,   ,0
 2010-12-18,Bryan Station,Butler,53,41,2, Fayette County Invitational  ,0
 2010-12-18,Clay County,Nelson County,59,36,2, Fayette County Invitational  ,0
 2010-12-18,Ballard,Pulaski County,94,85,2, Hoopin It Up Holiday Classic  ,0
 2010-12-18,Letcher County Central,Lee County,62,60,2, Hoopin It Up Holiday Classic (overtime) ,1
 2010-12-18,South Laurel,Meade County,67,55,2, Hoopin It Up Holiday Classic  ,0
-2010-12-18,Montverde Academy. FL,Lexington Catholic,59,47,2, Iolani Prep Classic  ,0
-2010-12-18,Mount Vernon. NY,Mason County,59,53,2, Iolani Prep Classic  ,0
-2010-12-18,Trinity. PA,Jackson County,61,33,2, KSA Holiday Tournament  ,0
-2010-12-18,Bob Jones. AL,Pleasure Ridge Park,70,68,2, King of the Bluegrass  ,0
-2010-12-18,Sacramento Sheldon. CA,Warren Central,84,62,2, King of the Bluegrass  ,0
+2010-12-18,Out of State,Lexington Catholic,59,47,2, Iolani Prep Classic  ,0
+2010-12-18,Out of State,Mason County,59,53,2, Iolani Prep Classic  ,0
+2010-12-18,Out of State,Jackson County,61,33,2, KSA Holiday Tournament  ,0
+2010-12-18,Out of State,Pleasure Ridge Park,70,68,2, King of the Bluegrass  ,0
+2010-12-18,Out of State,Warren Central,84,62,2, King of the Bluegrass  ,0
 2010-12-18,Middlesboro,Bellevue,65,44,0, Mike Swauger Classic  ,0
 2010-12-18,East Carter,Raceland,58,57,0, Raceland Derby Classic VI  ,0
-2010-12-18,Boulder. CO,Southwestern,75,49,2, Rock Canyon Holiday Shootout  ,0
-2010-12-18,Wilson Central. TN,Corbin,71,47,2, Smokey Mountain Classic  ,0
-2010-12-18,Graves County,Dyersberg. TN,69,53,1, TimePiece Classic  ,0
-2010-12-18,Graves County,Lake County. TN,89,76,1, TimePiece Classic  ,0
-2010-12-18,Heath,Union City. TN,75,68,2, TimePiece Classic  ,0
-2010-12-18,Heath,Dyersberg. TN,53,49,2, TimePiece Classic  ,0
-2010-12-18,Marshall County,Lake County. TN,81,54,2, TimePiece Classic  ,0
-2010-12-18,Marshall County,Union City. TN,66,51,2, TimePiece Classic  ,0
+2010-12-18,Out of State,Southwestern,75,49,2, Rock Canyon Holiday Shootout  ,0
+2010-12-18,Out of State,Corbin,71,47,2, Smokey Mountain Classic  ,0
+2010-12-18,Graves County,Out of State,69,53,1, TimePiece Classic  ,0
+2010-12-18,Graves County,Out of State,89,76,1, TimePiece Classic  ,0
+2010-12-18,Heath,Out of State,75,68,2, TimePiece Classic  ,0
+2010-12-18,Heath,Out of State,53,49,2, TimePiece Classic  ,0
+2010-12-18,Marshall County,Out of State,81,54,2, TimePiece Classic  ,0
+2010-12-18,Marshall County,Out of State,66,51,2, TimePiece Classic  ,0
 2010-12-18,Allen Central,Jenkins,79,40,1,   ,0
-2010-12-18,Australian Travel Team,Spencer County,61,60,0,   ,0
-2010-12-18,Beech. TN,Shelby Valley,62,29,2,   ,0
+2010-12-18,Out of State,Spencer County,61,60,0,   ,0
+2010-12-18,Out of State,Shelby Valley,62,29,2,   ,0
 2010-12-18,Bishop Brossart,Calvary Christian,52,37,1,   ,0
-2010-12-18,Bourbon County,Hilton Head. SC,49,40,0,   ,0
+2010-12-18,Bourbon County,Out of State,49,40,0,   ,0
 2010-12-18,Bracken County,Bath County,73,61,1,   ,0
 2010-12-18,Burgin,Covington Latin,79,36,2,   ,0
 2010-12-18,Campbell County,Cooper,61,56,1,   ,0
-2010-12-18,Central Hardin,Heritage High. TN,68,53,2,   ,0
-2010-12-18,Chaparral. AZ,Male,63,58,2,   ,0
+2010-12-18,Central Hardin,Out of State,68,53,2,   ,0
+2010-12-18,Out of State,Male,63,58,2,   ,0
 2010-12-18,Collins,Holy Cross (Covington),55,52,1,   ,0
 2010-12-18,Elizabethtown,Greenwood,68,42,1,   ,0
 2010-12-18,George Rogers Clark,Ryle,59,49,2,   ,0
@@ -759,8 +759,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-18,Harlan,Lynn Camp,63,43,0,   ,0
 2010-12-18,Hazard,Wolfe County,54,37,1,   ,0
 2010-12-18,Henry Clay,Muhlenberg County,57,41,2,   ,0
-2010-12-18,Ironton. OH,Russell,63,36,0,   ,0
-2010-12-18,Jeffersontown,Pearl. MS,95,49,2,   ,0
+2010-12-18,Out of State,Russell,63,36,0,   ,0
+2010-12-18,Jeffersontown,Out of State,95,49,2,   ,0
 2010-12-18,John Hardin,North Hardin,87,78,1,   ,0
 2010-12-18,Johnson Central,Knott County Central,47,45,2,   ,0
 2010-12-18,Livingston Central,Dawson Springs,53,45,0,   ,0
@@ -769,7 +769,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-18,McLean County,Cloverport,68,41,1,   ,0
 2010-12-18,Moore,Holmes,75,53,2,   ,0
 2010-12-18,Newport Central Catholic,Villa Madonna,86,19,1,   ,0
-2010-12-18,North Laurel,Pendleton County,77,71,2,  (Double overtime) ,0
+2010-12-18,North Laurel,Pendleton County,77,71,2,  (Double overtime) ,1
 2010-12-18,North Oldham,Scott,65,62,1,   ,0
 2010-12-18,Ohio County,Caverna,71,62,0,   ,0
 2010-12-18,Paducah Tilghman,Lone Oak,78,49,1,   ,0
@@ -786,7 +786,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-19,North Laurel,Letcher County Central,66,61,2, Hoopin It Up Holiday Classic  ,0
 2010-12-19,Pulaski County,Knox Central,52,51,2, Hoopin It Up Holiday Classic  ,0
 2010-12-19,South Laurel,Pendleton County,58,44,2, Hoopin It Up Holiday Classic  ,0
-2010-12-19,Boone County,Fairdale,82,77,0, King of the Bluegrass (Overtime) ,0
+2010-12-19,Boone County,Fairdale,82,77,0, King of the Bluegrass (Overtime) ,1
 2010-12-19,East Carter,Prestonsburg,59,42,2, Raceland Derby Classic VI  ,0
 2010-12-19,Fairview,Lawrence County,56,20,2, Raceland Derby Classic VI  ,0
 2010-12-19,South Floyd,Greenup County,64,62,2, Raceland Derby Classic VI  ,0
@@ -798,16 +798,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-19,Harlan County,Prestonsburg,61,54,2,   ,0
 2010-12-19,Madison Central,Moore,64,62,2,   ,0
 2010-12-19,Meade County,Lee County,78,77,2,  (overtime) ,1
-2010-12-19,Nation Ford. SC,Bourbon County,82,54,2,   ,0
-2010-12-19,Trinity (Louisville),Christian County,69,65,2,  (Overtime) ,0
-2010-12-20,Calvary Christian. FL,Henry County,71,66,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-20,Miami Senior. FL,Paintsville,82,61,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-19,Out of State,Bourbon County,82,54,2,   ,0
+2010-12-19,Trinity (Louisville),Christian County,69,65,2,  (Overtime) ,1
+2010-12-20,Out of State,Henry County,71,66,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-20,Out of State,Paintsville,82,61,2, Arby’s/KFC Holiday Classic  ,0
 2010-12-20,Wayne County,Anderson County,48,37,2, Arby’s/KFC Holiday Classic  ,0
 2010-12-20,Buckhorn,Owsley County,93,62,1, Buckhorn Invitational  ,0
 2010-12-20,Elliott County,Cordia,87,57,2, Buckhorn Invitational  ,0
 2010-12-20,Fern Creek,Woodford County,67,55,2, Capitol City Invitational  ,0
 2010-12-20,Western Hills,Grant County,70,68,1, Capitol City Invitational  ,0
-2010-12-20,Collins,Doctors Charter (Miami Shores). FL,82,47,1, Collins Invitational Tournament  ,0
+2010-12-20,Collins,Out of State,82,47,1, Collins Invitational Tournament  ,0
 2010-12-20,Southern,Valley,52,51,2, Collins Invitational Tournament  ,0
 2010-12-20,Butler,Shelby County,85,48,2, Fayette County Invitational  ,0
 2010-12-20,Clay County,Lafayette,59,58,2, Fayette County Invitational  ,0
@@ -816,51 +816,51 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-20,Muhlenberg County,Ryle,62,48,2, Fayette County Invitational  ,0
 2010-12-20,Tates Creek,West Jessamine,56,52,2, Fayette County Invitational (overtime) ,1
 2010-12-20,Frankfort,Washington County,85,47,2, First & Farmers Bank/Lindsey Wilson Classic  ,0
-2010-12-20,Australian Travel Team,Taylor County,66,47,2, Hardees/Warren East Holiday Classic  ,0
+2010-12-20,Out of State,Taylor County,66,47,2, Hardees/Warren East Holiday Classic  ,0
 2010-12-20,Logan County,Shawnee,60,57,2, Hardees/Warren East Holiday Classic  ,0
 2010-12-20,Ballard,South Laurel,89,48,2, Hoopin It Up Holiday Classic  ,0
 2010-12-20,Knox Central,Lee County,59,35,2, Hoopin It Up Holiday Classic  ,0
 2010-12-20,Madison Central,North Laurel,63,42,2, Hoopin It Up Holiday Classic  ,0
 2010-12-20,Pulaski County,Meade County,85,60,2, Hoopin It Up Holiday Classic  ,0
-2010-12-20,Seneca,Oakland. TN,66,55,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
+2010-12-20,Seneca,Out of State,66,55,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
 2010-12-20,Lexington Catholic,Mason County,83,59,2, Iolani Prep Classic  ,0
 2010-12-20,Butler County,Reidland,60,58,2, KME Classic  ,0
-2010-12-20,Stewart County. TN,Dawson Springs,68,50,2, KME Classic  ,0
-2010-12-20,Bowling Green,Trinity,61,59,2, King of the Bluegrass  ,0
+2010-12-20,Out of State,Dawson Springs,68,50,2, KME Classic  ,0
+2010-12-20,Bowling Green,Trinity (Louisville),61,59,2, King of the Bluegrass  ,0
 2010-12-20,Bullitt East,Fairdale,81,58,0, King of the Bluegrass  ,0
 2010-12-20,Eastern,Boone County,71,64,2, King of the Bluegrass  ,0
-2010-12-20,Jeffersontown,Sacramento Sheldon. CA,93,58,2, King of the Bluegrass  ,0
+2010-12-20,Jeffersontown,Out of State,93,58,2, King of the Bluegrass  ,0
 2010-12-20,Male,Pleasure Ridge Park,76,74,2, King of the Bluegrass  ,0
-2010-12-20,Warren Central,Pearl. MS,76,68,2, King of the Bluegrass  ,0
-2010-12-20,Red Boiling Springs. TN,Leslie County,66,49,2, Monticello Holiday All “A” Shootout  ,0
+2010-12-20,Warren Central,Out of State,76,68,2, King of the Bluegrass  ,0
+2010-12-20,Out of State,Leslie County,66,49,2, Monticello Holiday All “A” Shootout  ,0
 2010-12-20,Gallatin County,Ludlow,83,56,2, North American Stainless Classic  ,0
 2010-12-20,Brown,Covington Latin,76,63,2, Portland Christian Holiday Classic  ,0
 2010-12-20,Evangel Christian,Portland Christian,76,62,0, Portland Christian Holiday Classic  ,0
 2010-12-20,Fairview,South Floyd,61,47,2, Raceland Derby Classic VI  ,0
-2010-12-20,Allen County-Scottsville,Macon County. TN,68,54,2, Rafferty's/Double Dogs Classic  ,0
+2010-12-20,Allen County-Scottsville,Out of State,68,54,2, Rafferty's/Double Dogs Classic  ,0
 2010-12-20,Edmonson County,Todd County Central,63,43,1, Rafferty's/Double Dogs Classic  ,0
-2010-12-20,Greenwood,Pickett County. TN,67,43,2, Rafferty's/Double Dogs Classic  ,0
+2010-12-20,Greenwood,Out of State,67,43,2, Rafferty's/Double Dogs Classic  ,0
 2010-12-20,Bullitt Central,Louisville Collegiate,70,58,2, Sarah Major Barger Invitational  ,0
 2010-12-20,Whitefield Academy,Atherton,74,65,2, Sarah Major Barger Invitational  ,0
-2010-12-20,Beech. TN,Central Hardin,53,44,2, Smokey Mountain Classic  ,0
-2010-12-20,Corbin,Signal Mountain. TN,69,38,2, Smokey Mountain Classic  ,0
-2010-12-20,Shelby Valley,Heritage High. TN,79,60,2, Smokey Mountain Classic  ,0
+2010-12-20,Out of State,Central Hardin,53,44,2, Smokey Mountain Classic  ,0
+2010-12-20,Corbin,Out of State,69,38,2, Smokey Mountain Classic  ,0
+2010-12-20,Shelby Valley,Out of State,79,60,2, Smokey Mountain Classic  ,0
 2010-12-20,Grayson County,Barren County,55,52,2, TJ Samson Hospital Classic  ,0
 2010-12-20,Russell County,Monroe County,51,45,2, TJ Samson Hospital Classic  ,0
-2010-12-20,Graves County,Union City. TN,61,57,1, TimePiece Classic  ,0
+2010-12-20,Graves County,Out of State,61,57,1, TimePiece Classic  ,0
 2010-12-20,Marshall County,Heath,60,35,2, TimePiece Classic  ,0
-2010-12-20,Madison Southern,Holy Cross,71,67,2, Twin Lakes Holiday Classic  ,0
+2010-12-20,Madison Southern,Holy Cross (Louisville),71,67,2, Twin Lakes Holiday Classic  ,0
 2010-12-20,Danville,Whitley County,62,56,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
-2010-12-20,Fort Walton Beach. FL,Russellville,80,50,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
+2010-12-20,Out of State,Russellville,80,50,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-20,North Oldham,Marion County,68,42,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-20,Adair County,Rose Hill Christian,69,25,1,   ,0
 2010-12-20,Allen Central,Monticello,55,51,0,   ,0
 2010-12-20,Ashland Blazer,Pikeville,94,61,2,   ,0
 2010-12-20,Augusta,Nicholas County,76,39,0,   ,0
 2010-12-20,Ballard Memorial,Cumberland County,71,51,2,   ,0
-2010-12-20,Barbourville,Jellico. TN,63,61,1,   ,0
+2010-12-20,Barbourville,Out of State,63,61,1,   ,0
 2010-12-20,Bath County,Bellevue,73,39,2,   ,0
-2010-12-20,Belfry,Gilbert. WV,70,29,2,   ,0
+2010-12-20,Belfry,Out of State,70,29,2,   ,0
 2010-12-20,Berea,Powell County,65,56,1,   ,0
 2010-12-20,Bethlehem,Christian Academy-Louisville,63,51,1,   ,0
 2010-12-20,Calloway County,Casey County,46,44,2,   ,0
@@ -869,15 +869,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-20,Carroll County,Dayton,66,26,1,   ,0
 2010-12-20,Caverna,Warren East,48,41,0,   ,0
 2010-12-20,Christian County,Iroquois,83,73,2,   ,0
-2010-12-20,Clarksville Academy. TN,McLean County,62,44,2,   ,0
+2010-12-20,Out of State,McLean County,62,44,2,   ,0
 2010-12-20,Clinton County,Magoffin County,75,49,1,   ,0
 2010-12-20,Clinton County,Casey County,67,52,1,   ,0
 2010-12-20,Daviess County,South Warren,64,57,2,   ,0
 2010-12-20,DeSales,Perry County Central,62,45,2,   ,0
-2010-12-20,Dixie Heights,Montgomery County,104,96,2,  (double overtime) ,0
+2010-12-20,Dixie Heights,Montgomery County,104,96,2,  (double overtime) ,1
 2010-12-20,DuPont Manual,Lexington Christian,68,51,2,   ,0
 2010-12-20,East Ridge,Boyd County,74,47,2,   ,0
-2010-12-20,Elizabethtown,Trinity,82,38,2,   ,0
+2010-12-20,Elizabethtown,Trinity (Whitesville),82,38,2,   ,0
 2010-12-20,Frankfort,Hancock County,53,38,2,   ,0
 2010-12-20,Franklin County,Conner,73,50,2,   ,0
 2010-12-20,Glasgow,Campbellsville,64,31,2,   ,0
@@ -901,31 +901,31 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-20,Ohio County,Apollo,54,52,0,   ,0
 2010-12-20,Oldham County,North Hardin,65,52,2,   ,0
 2010-12-20,Owen County,Walton-Verona,56,48,1,  (overtime) ,1
-2010-12-20,Phelps,Matewan. WV,69,54,1,   ,0
+2010-12-20,Phelps,Out of State,69,54,1,   ,0
 2010-12-20,Scott,Beechwood,98,80,2,   ,0
 2010-12-20,Scott County,Bell County,79,56,0,   ,0
 2010-12-20,Simon Kenton,Fleming County,88,58,2,   ,0
 2010-12-20,Somerset,Eminence,47,36,2,   ,0
 2010-12-20,South Oldham,East Jessamine,75,68,2,   ,0
 2010-12-20,St. Xavier,Owensboro Catholic,60,37,2,   ,0
-2010-12-20,Trigg County,Stewart County. TN,50,44,1,   ,0
-2010-12-20,University Heights,Morristown East. TN,51,47,2,   ,0
+2010-12-20,Trigg County,Out of State,50,44,1,   ,0
+2010-12-20,University Heights,Out of State,51,47,2,   ,0
 2010-12-20,Waggener,Pike County Central,66,63,2,   ,0
 2010-12-20,Washington County,Rose Hill Christian,70,37,2,   ,0
 2010-12-20,Webster County,McLean County,63,42,1,   ,0
-2010-12-20,Wren. SC,Bourbon County,77,57,2,   ,0
-2010-12-21,Anderson County,Calvary Christian. FL,64,63,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-21,Dyer County. TN,Wayne County,83,64,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-21,Miami Senior. FL,Henry County,81,56,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-21,Rockcastle County,St. George. Bahamas,78,67,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-20,Out of State,Bourbon County,77,57,2,   ,0
+2010-12-21,Anderson County,Out of State,64,63,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-21,Out of State,Wayne County,83,64,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-21,Out of State,Henry County,81,56,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-21,Rockcastle County,Out of State,78,67,2, Arby’s/KFC Holiday Classic  ,0
 2010-12-21,Cordia,Owsley County,73,68,2, Buckhorn Invitational  ,0
 2010-12-21,Elliott County,Buckhorn,63,60,0, Buckhorn Invitational  ,0
-2010-12-21,DuPont Manual,Western Hills,102,94,0, Capitol City Invitational (double overtime) ,0
+2010-12-21,DuPont Manual,Western Hills,102,94,0, Capitol City Invitational (double overtime) ,1
 2010-12-21,Lexington Christian,Grant County,66,62,2, Capitol City Invitational  ,0
 2010-12-21,South Oldham,Fern Creek,70,69,2, Capitol City Invitational  ,0
 2010-12-21,Woodford County,East Jessamine,83,73,2, Capitol City Invitational  ,0
 2010-12-21,Collins,Southern,50,41,1, Collins Invitational Tournament  ,0
-2010-12-21,Valley,Doctors Charter,77,33,2, Collins Invitational Tournament  ,0
+2010-12-21,Valley,Out of State,77,33,2, Collins Invitational Tournament  ,0
 2010-12-21,Bryan Station,West Jessamine,58,51,2, Fayette County Invitational  ,0
 2010-12-21,Doss,Shelby County,75,45,2, Fayette County Invitational  ,0
 2010-12-21,Muhlenberg County,Nelson County,80,47,2, Fayette County Invitational  ,0
@@ -938,40 +938,40 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-21,Lee County,Pendleton County,54,53,2, Hoopin It Up Holiday Classic  ,0
 2010-12-21,Meade County,Letcher County Central,60,55,2, Hoopin It Up Holiday Classic  ,0
 2010-12-21,South Laurel,North Laurel,66,62,2, Hoopin It Up Holiday Classic  ,0
-2010-12-21,Iolani. HI,Mason County,48,45,2, Iolani Prep Classic  ,0
-2010-12-21,Lexington Catholic,Wheeler. GA,66,57,2, Iolani Prep Classic  ,0
+2010-12-21,Out of State,Mason County,48,45,2, Iolani Prep Classic  ,0
+2010-12-21,Lexington Catholic,Out of State,66,57,2, Iolani Prep Classic  ,0
 2010-12-21,Butler County,Dawson Springs,69,53,2, KME Classic  ,0
-2010-12-21,Butler County,Stewart County. TN,55,44,2, KME Classic  ,0
+2010-12-21,Butler County,Out of State,55,44,2, KME Classic  ,0
 2010-12-21,Pikeville,Montgomery County,65,60,2, Kenton County Classic  ,0
 2010-12-21,Bullitt East,Christian County,62,52,2, King of the Bluegrass  ,0
 2010-12-21,Eastern,Bowling Green,75,46,2, King of the Bluegrass  ,0
 2010-12-21,Iroquois,Fairdale,74,68,0, King of the Bluegrass  ,0
-2010-12-21,Jeffersontown,Chaparral. AZ,74,58,2, King of the Bluegrass  ,0
-2010-12-21,Pleasure Ridge Park,Pearl. MS,105,60,2, King of the Bluegrass  ,0
+2010-12-21,Jeffersontown,Out of State,74,58,2, King of the Bluegrass  ,0
+2010-12-21,Pleasure Ridge Park,Out of State,105,60,2, King of the Bluegrass  ,0
 2010-12-21,Trinity (Louisville),Boone County,67,59,2, King of the Bluegrass  ,0
 2010-12-21,Warren Central,Male,73,55,2, King of the Bluegrass  ,0
-2010-12-21,East Ridge,Gilbert. WV,94,44,2, Marty Keith Casey Tournament  ,0
+2010-12-21,East Ridge,Out of State,94,44,2, Marty Keith Casey Tournament  ,0
 2010-12-21,Eminence,Bellevue,58,32,2, Monticello Holiday All “A” Shootout  ,0
 2010-12-21,Leslie County,Monticello,50,49,0, Monticello Holiday All “A” Shootout  ,0
 2010-12-21,Leslie County,Bellevue,79,46,2, Monticello Holiday All “A” Shootout  ,0
-2010-12-21,Red Boiling Springs. TN,Allen Central,57,52,2, Monticello Holiday All “A” Shootout  ,0
+2010-12-21,Out of State,Allen Central,57,52,2, Monticello Holiday All “A” Shootout  ,0
 2010-12-21,Ludlow,Dayton,71,61,2, North American Stainless Classic  ,0
 2010-12-21,Evangel Christian,Brown,79,44,2, Portland Christian Holiday Classic  ,0
 2010-12-21,Portland Christian,Covington Latin,81,68,1, Portland Christian Holiday Classic  ,0
 2010-12-21,East Carter,South Floyd,57,48,2, Raceland Derby Classic VI  ,0
 2010-12-21,Prestonsburg,Lawrence County,67,36,2, Raceland Derby Classic VI  ,0
-2010-12-21,South Warren,Macon County. TN,57,49,2, Rafferty's/Double Dogs Classic  ,0
-2010-12-21,Todd County Central,Pickett County. TN,65,38,2, Rafferty's/Double Dogs Classic  ,0
+2010-12-21,South Warren,Out of State,57,49,2, Rafferty's/Double Dogs Classic  ,0
+2010-12-21,Todd County Central,Out of State,65,38,2, Rafferty's/Double Dogs Classic  ,0
 2010-12-21,Bullitt Central,Waggener,50,42,2, Sarah Major Barger Invitational  ,0
 2010-12-21,North Bullitt,Whitefield Academy,50,41,1, Sarah Major Barger Invitational  ,0
 2010-12-21,Pike County Central,Louisville Collegiate,65,49,2, Sarah Major Barger Invitational  ,0
 2010-12-21,Corbin,Shelby Valley,59,44,2, Smokey Mountain Classic  ,0
-2010-12-21,Wilson Central. TN,Central Hardin,57,55,2, Smokey Mountain Classic  ,0
+2010-12-21,Out of State,Central Hardin,57,55,2, Smokey Mountain Classic  ,0
 2010-12-21,Lewis County,Barren County,57,56,2, TJ Samson Hospital Classic  ,0
-2010-12-21,Heath,Dyersberg. TN,49,41,2, TimePiece Classic  ,0
+2010-12-21,Heath,Out of State,49,41,2, TimePiece Classic  ,0
 2010-12-21,Marshall County,Graves County,63,57,0, TimePiece Classic (overtime) ,1
 2010-12-21,Madison Southern,Ballard Memorial,55,48,2, Twin Lakes Holiday Classic  ,0
-2010-12-21,Fort Walton Beach. FL,North Oldham,62,53,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
+2010-12-21,Out of State,North Oldham,62,53,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-21,Highlands,Conner,57,47,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-21,Lincoln County,Franklin County,73,69,2, Whitaker Bank/Fort Harrod Holiday Classic (overtime) ,1
 2010-12-21,Oldham County,DeSales,45,44,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
@@ -980,11 +980,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-21,Whitley County,Deming,61,56,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-21,Adair County,Hancock County,45,29,1,   ,0
 2010-12-21,Atherton,St. Francis,82,51,2,   ,0
-2010-12-21,Australian Travel Team,Caverna,55,32,2,   ,0
-2010-12-21,Ballard Memorial,Holy Cross,57,41,2,   ,0
+2010-12-21,Out of State,Caverna,55,32,2,   ,0
+2010-12-21,Ballard Memorial,Holy Cross (Louisville),57,41,2,   ,0
 2010-12-21,Barbourville,Villa Madonna,60,35,2,   ,0
 2010-12-21,Bardstown,Green County,45,42,1,   ,0
-2010-12-21,Bath County,Red Boiling Springs. TN,74,58,2,   ,0
+2010-12-21,Bath County,Out of State,74,58,2,   ,0
 2010-12-21,Bath County,Somerset,61,58,2,   ,0
 2010-12-21,Bethlehem,Trinity (Whitesville),55,29,1,   ,0
 2010-12-21,Boyd County,Belfry,64,60,2,   ,0
@@ -993,7 +993,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-21,Campbellsville,Monroe County,66,65,2,   ,0
 2010-12-21,Carlisle County,Lone Oak,60,55,0,  (overtime) ,1
 2010-12-21,Casey County,Magoffin County,53,31,2,   ,0
-2010-12-21,Clarksville Academy. TN,Lyon County,66,30,2,   ,0
+2010-12-21,Out of State,Lyon County,66,30,2,   ,0
 2010-12-21,Clinton County,Calloway County,59,41,1,   ,0
 2010-12-21,Daviess County,Allen County-Scottsville,68,57,2,   ,0
 2010-12-21,Dixie Heights,Ashland Blazer,87,77,2,   ,0
@@ -1021,19 +1021,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-21,Metcalfe County,Grayson County,51,49,1,   ,0
 2010-12-21,Monticello,Eminence,63,53,1,   ,0
 2010-12-21,Moore,Pulaski County,81,66,2,   ,0
-2010-12-21,Morristown East. TN,Owensboro Catholic,40,34,2,   ,0
+2010-12-21,Out of State,Owensboro Catholic,40,34,2,   ,0
 2010-12-21,Murray,Hickman County,57,51,1,   ,0
-2010-12-21,Oakland. TN,Apollo,46,39,0,   ,0
+2010-12-21,Out of State,Apollo,46,39,0,   ,0
 2010-12-21,Paducah Tilghman,Union County,73,48,1,   ,0
 2010-12-21,Paducah Tilghman,Livingston Central,97,52,1,   ,0
-2010-12-21,Phelps,Burch. WV,58,50,1,   ,0
-2010-12-21,Pineville,Thomas Walker. VA,73,48,0,   ,0
+2010-12-21,Phelps,Out of State,58,50,1,   ,0
+2010-12-21,Pineville,Out of State,73,48,0,   ,0
 2010-12-21,Raceland,Prestonsburg,56,41,1,   ,0
 2010-12-21,Russell,Morgan County,48,35,0,   ,0
 2010-12-21,Scott,Simon Kenton,71,70,2,   ,0
 2010-12-21,Scott County,Harlan,85,54,0,   ,0
 2010-12-21,Seneca,Ohio County,73,57,2,   ,0
-2010-12-21,Sheldon Clark,Williamson. WV,77,67,0,   ,0
+2010-12-21,Sheldon Clark,Out of State,77,67,0,   ,0
 2010-12-21,Somerset,Allen Central,61,54,2,   ,0
 2010-12-21,Spencer County,Trimble County,59,37,0,   ,0
 2010-12-21,St. Patrick,Nicholas County,61,32,1,   ,0
@@ -1045,18 +1045,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-21,West Carter,Rowan County,51,41,1,   ,0
 2010-12-21,Williamsburg,Lynn Camp,73,65,0,   ,0
 2010-12-21,Wolfe County,Powell County,74,55,0,   ,0
-2010-12-22,Calvary Christian. FL,Rockcastle County,79,61,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-22,Out of State,Rockcastle County,79,61,2, Arby’s/KFC Holiday Classic  ,0
 2010-12-22,McCreary Central,Anderson County,41,36,1, Arby’s/KFC Holiday Classic  ,0
-2010-12-22,Paintsville,St. George. Bahamas,67,62,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-22,Paintsville,Out of State,67,62,2, Arby’s/KFC Holiday Classic  ,0
 2010-12-22,Wayne County,Henry County,94,62,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-22,Christian Academy-Louisville,Trinity,76,24,2, Bethlehem's Coit/Subway Classic  ,0
+2010-12-22,Christian Academy-Louisville,Trinity (Whitesville),76,24,2, Bethlehem's Coit/Subway Classic  ,0
 2010-12-22,Buckhorn,Cordia,74,47,1, Buckhorn Invitational  ,0
 2010-12-22,DuPont Manual,South Oldham,68,63,2, Capitol City Invitational (championship) ,0
 2010-12-22,East Jessamine,Grant County,63,60,2, Capitol City Invitational  ,0
 2010-12-22,Fern Creek,Western Hills,65,45,0, Capitol City Invitational  ,0
 2010-12-22,Lexington Christian,Woodford County,61,47,2, Capitol City Invitational  ,0
-2010-12-22,Collins,Valley,81,79,1, Collins Invitational Tournament (double overtime)(championship) ,0
-2010-12-22,Southern,Doctors Charter,51,31,2, Collins Invitational Tournament  ,0
+2010-12-22,Collins,Valley,81,79,1, Collins Invitational Tournament (double overtime)(championship) ,1
+2010-12-22,Southern,Out of State,51,31,2, Collins Invitational Tournament  ,0
 2010-12-22,Bryan Station,Paul Laurence Dunbar,61,47,2, Fayette County Invitational  ,0
 2010-12-22,Butler,Nelson County,47,45,2, Fayette County Invitational  ,0
 2010-12-22,Muhlenberg County,Doss,74,47,2, Fayette County Invitational  ,0
@@ -1064,16 +1064,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-22,Tates Creek,Clay County,53,24,2, Fayette County Invitational  ,0
 2010-12-22,West Jessamine,Lafayette,72,55,2, Fayette County Invitational  ,0
 2010-12-22,Hancock County,Rose Hill Christian,65,54,2, First & Farmers Bank/Lindsey Wilson Classic  ,0
-2010-12-22,John Hardin,Australian Travel Team,65,61,2, Hardees/Warren East Holiday Classic  ,0
+2010-12-22,John Hardin,Out of State,65,61,2, Hardees/Warren East Holiday Classic  ,0
 2010-12-22,Logan County,Caverna,76,52,2, Hardees/Warren East Holiday Classic  ,0
 2010-12-22,Taylor County,Shawnee,81,66,2, Hardees/Warren East Holiday Classic  ,0
-2010-12-22,St. Xavier,Morristown East. TN,41,39,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
-2010-12-22,Stewart County. TN,Reidland,47,43,2, KME Classic  ,0
+2010-12-22,St. Xavier,Out of State,41,39,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
+2010-12-22,Out of State,Reidland,47,43,2, KME Classic  ,0
 2010-12-22,Trigg County,Dawson Springs,61,51,1, KME Classic  ,0
 2010-12-22,Pikeville,Fleming County,53,50,2, Kenton County Classic  ,0
-2010-12-22,Bowling Green,Chaparral. AZ,54,51,2, King of the Bluegrass  ,0
+2010-12-22,Bowling Green,Out of State,54,51,2, King of the Bluegrass  ,0
 2010-12-22,Jeffersontown,Eastern,69,61,2, King of the Bluegrass  ,0
-2010-12-22,Trinity (Louisville),Bob Jones. AL,70,58,2, King of the Bluegrass  ,0
+2010-12-22,Trinity (Louisville),Out of State,70,58,2, King of the Bluegrass  ,0
 2010-12-22,Warren Central,Bullitt East,71,61,2, King of the Bluegrass  ,0
 2010-12-22,Gallatin County,Harrison County,71,45,2, North American Stainless Classic (championship) ,0
 2010-12-22,LaRue County,Carroll County,53,36,0, North American Stainless Classic  ,0
@@ -1087,7 +1087,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-22,Campbellsville,Lewis County,61,54,2, TJ Samson Hospital Classic  ,0
 2010-12-22,Cumberland County,Magoffin County,64,53,2, Twin Lakes Holiday Classic  ,0
 2010-12-22,Holy Cross (Louisville),Casey County,59,56,2, Twin Lakes Holiday Classic  ,0
-2010-12-22,Clarksville Academy. TN,Hopkins County Central,84,62,2, Webster County Holiday Classic  ,0
+2010-12-22,Out of State,Hopkins County Central,84,62,2, Webster County Holiday Classic  ,0
 2010-12-22,Conner,Marion County,51,34,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-22,Danville,DeSales,68,65,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-22,Franklin County,North Oldham,55,46,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
@@ -1099,7 +1099,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-22,Ballard Memorial,Calloway County,50,48,2,   ,0
 2010-12-22,Barbourville,Ludlow,62,40,2,   ,0
 2010-12-22,Boyd County,Phelps,65,52,0,   ,0
-2010-12-22,Clarksville Academy. TN,Webster County,59,57,0,  (championship) ,0
+2010-12-22,Out of State,Webster County,59,57,0,  (championship) ,0
 2010-12-22,Clinton County,Madison Southern,50,40,1,  (championship) ,0
 2010-12-22,Cooper,Newport,73,38,1,   ,0
 2010-12-22,Covington Catholic,Campbell County,82,48,1,   ,0
@@ -1108,7 +1108,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-22,Dixie Heights,Scott,85,75,2,   ,0
 2010-12-22,East Ridge,Belfry,75,57,2,   ,0
 2010-12-22,Elizabethtown,Bethlehem,63,38,0,   ,0
-2010-12-22,Fort Walton Beach. FL,Lincoln County,55,45,2,   ,0
+2010-12-22,Out of State,Lincoln County,55,45,2,   ,0
 2010-12-22,Glasgow,Metcalfe County,65,48,0,  (championship) ,0
 2010-12-22,Henry Clay,George Rogers Clark,55,54,2,   ,0
 2010-12-22,Lyon County,McLean County,41,23,2,   ,0
@@ -1116,7 +1116,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-22,Monroe County,Barren County,70,62,2,  (overtime) ,1
 2010-12-22,Montgomery County,Beechwood,79,57,2,   ,0
 2010-12-22,Newport Central Catholic,Holy Cross (Covington),52,39,1,   ,0
-2010-12-22,Oakland. TN,Ohio County,58,55,2,   ,0
+2010-12-22,Out of State,Ohio County,58,55,2,   ,0
 2010-12-22,Oldham County,Mercer County,77,57,0,   ,0
 2010-12-22,Owensboro,Warren East,71,55,0,   ,0
 2010-12-22,Paducah Tilghman,Franklin-Simpson,69,57,1,   ,0
@@ -1124,17 +1124,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-22,Seneca,Apollo,55,45,0,   ,0
 2010-12-22,Trigg County,Butler County,66,60,1,  (overtime)(championship) ,1
 2010-12-22,University Heights,Owensboro Catholic,72,52,2,   ,0
-2010-12-23,Anderson County,Miami Senior. FL,58,54,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-23,Dyer County. TN,McCreary Central,63,57,0, Arby’s/KFC Holiday Classic  ,0
+2010-12-23,Anderson County,Out of State,58,54,2, Arby’s/KFC Holiday Classic  ,0
+2010-12-23,Out of State,McCreary Central,63,57,0, Arby’s/KFC Holiday Classic  ,0
 2010-12-23,Henry County,Rockcastle County,64,48,2, Arby’s/KFC Holiday Classic  ,0
 2010-12-23,Wayne County,Paintsville,68,48,2, Arby’s/KFC Holiday Classic  ,0
-2010-12-23,Ohio County,Morristown East. TN,49,46,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
+2010-12-23,Ohio County,Out of State,49,46,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
 2010-12-23,St. Xavier,Seneca,70,63,2, Inland Industrial/Kentucky 811/Apollo Classic (overtime) ,1
-2010-12-23,University Heights,Oakland. TN,55,44,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
-2010-12-23,North Bullitt,Bullitt Central,66,63,1, Sarah Major Barger Invitational (double overtime) ,0
+2010-12-23,University Heights,Out of State,55,44,2, Inland Industrial/Kentucky 811/Apollo Classic  ,0
+2010-12-23,North Bullitt,Bullitt Central,66,63,1, Sarah Major Barger Invitational (double overtime) ,1
 2010-12-23,Grayson County,Russell County,59,56,2, TJ Samson Hospital Classic  ,0
 2010-12-23,Danville,Franklin County,67,60,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
-2010-12-23,Fort Walton Beach. FL,Oldham County,47,42,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
+2010-12-23,Out of State,Oldham County,47,42,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-23,Highlands,Whitley County,44,36,2, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-23,Lincoln County,Mercer County,62,46,0, Whitaker Bank/Fort Harrod Holiday Classic  ,0
 2010-12-23,Marion County,Deming,68,64,2, Whitaker Bank/Fort Harrod Holiday Classic (overtime) ,1
@@ -1147,11 +1147,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-23,Hazard,Owsley County,81,52,0,  (canceled) ,0
 2010-12-23,Johnson Central,Lawrence County,76,44,0,   ,0
 2010-12-23,Knott County Central,Betsy Layne,53,51,0,   ,0
-2010-12-23,McNicholas. OH,St. Henry,73,65,1,  (overtime) ,1
-2010-12-23,Roger Bacon. OH,Newport Central Catholic,49,42,1,   ,0
+2010-12-23,Out of State,St. Henry,73,65,1,  (overtime) ,1
+2010-12-23,Out of State,Newport Central Catholic,49,42,1,   ,0
 2010-12-23,Russell,Raceland,62,55,1,   ,0
-2010-12-23,Sheldon Clark,South Point. OH,78,62,1,   ,0
-2010-12-26,Fayette County. GA,Central,76,67,2, Republic Bank Classic  ,0
+2010-12-23,Sheldon Clark,Out of State,78,62,1,   ,0
+2010-12-26,Out of State,Central,76,67,2, Republic Bank Classic  ,0
 2010-12-26,Sheldon Clark,Oldham County,64,55,2, Republic Bank Classic  ,0
 2010-12-26,University Heights,DeSales,48,46,2, Republic Bank Classic  ,0
 2010-12-26,Elliott County,Knox Central,73,59,2,   ,0
@@ -1159,29 +1159,29 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-26,Mercer County,Seneca,72,63,2,   ,0
 2010-12-27,Ashland Blazer,West Carter,75,70,1, Ashland Invitational Tournament  ,0
 2010-12-27,Male,Highlands,57,29,2, Ashland Invitational Tournament  ,0
-2010-12-27,Pleasure Ridge Park,Parkview Christian Academy. AL,61,52,2, Bay High Barnstorm Classic  ,0
+2010-12-27,Pleasure Ridge Park,Out of State,61,52,2, Bay High Barnstorm Classic  ,0
 2010-12-27,Beth Haven,Hart County,65,46,1, Beth Haven Holiday Classic  ,0
 2010-12-27,Portland Christian,Evangel Christian,68,63,2, Beth Haven Holiday Classic  ,0
 2010-12-27,St. Mary,Paintsville,71,56,2, Beth Haven Holiday Classic  ,0
-2010-12-27,Cannelton IN,Cloverport,60,56,2, Cannelton Bulldog Classic  ,0
+2010-12-27,Out of State,Cloverport,60,56,2, Cannelton Bulldog Classic  ,0
 2010-12-27,Iroquois,Grayson County,75,53,2, Eagle Classic  ,0
 2010-12-27,Logan County,Caverna,59,52,1, First. Southern Bank/Roy's BBQ Classic  ,0
-2010-12-27,Meade County,Australian Travel Team,63,44,2, First. Southern Bank/Roy's BBQ Classic  ,0
+2010-12-27,Meade County,Out of State,63,44,2, First. Southern Bank/Roy's BBQ Classic  ,0
 2010-12-27,Russellville,Mayfield,76,51,2, First. Southern Bank/Roy's BBQ Classic  ,0
 2010-12-27,South Warren,Russell County,63,55,2, First. Southern Bank/Roy's BBQ Classic  ,0
 2010-12-27,Bardstown,Owensboro Catholic,59,50,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-27,Owensboro,H.B. Beal. London. Ontario,65,63,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-27,Owensboro,Out of State,65,63,2, Franklin Bank & Trust Best of the Best  ,0
 2010-12-27,Owensboro,Hopkins County Central,92,54,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-27,White House. TN,Hopkins County Central,71,50,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-27,Holy Trinity Episcopal Academy. FL,Christian County,56,53,2, Great Florida Shootout  ,0
-2010-12-27,East Jessamine,Milken. CA,61,57,2, KSA Holiday Tournament  ,0
+2010-12-27,Out of State,Hopkins County Central,71,50,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-27,Out of State,Christian County,56,53,2, Great Florida Shootout  ,0
+2010-12-27,East Jessamine,Out of State,61,57,2, KSA Holiday Tournament  ,0
 2010-12-27,Conner,Newport,77,56,2, Lloyd Memorial Invitational  ,0
 2010-12-27,Fern Creek,Boone County,74,72,2, Lloyd Memorial Invitational (overtime) ,1
 2010-12-27,Newport Central Catholic,Lloyd Memorial,70,50,0, Lloyd Memorial Invitational  ,0
 2010-12-27,Ryle,Bishop Brossart,55,44,2, Lloyd Memorial Invitational  ,0
-2010-12-27,Henry County. TN,Hickman County,84,43,2, Martin Lions Club Tournament  ,0
-2010-12-27,Pulaski County,Clinton. TN,72,53,2, Monticello Banking Company Classic  ,0
-2010-12-27,Southwestern,Clay County. TN,65,53,2, Monticello Banking Company Classic  ,0
+2010-12-27,Out of State,Hickman County,84,43,2, Martin Lions Club Tournament  ,0
+2010-12-27,Pulaski County,Out of State,72,53,2, Monticello Banking Company Classic  ,0
+2010-12-27,Southwestern,Out of State,65,53,2, Monticello Banking Company Classic  ,0
 2010-12-27,Wayne County,Cumberland County,85,53,1, Monticello Banking Company Classic  ,0
 2010-12-27,John Hardin,Casey County,74,59,2, Norton Suburban Hospital Classic  ,0
 2010-12-27,Kentucky Country Day,Nelson County,50,46,0, Norton Suburban Hospital Classic  ,0
@@ -1190,105 +1190,105 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-27,Woodford County,East Carter,67,60,2, Red River Classic  ,0
 2010-12-27,Caldwell County,Murray,56,51,2, Reidland Christmas Tournament  ,0
 2010-12-27,Ballard,Paducah Tilghman,86,77,2, Republic Bank Classic  ,0
-2010-12-27,Fayette County. GA,Warren Central,83,45,2, Republic Bank Classic  ,0
+2010-12-27,Out of State,Warren Central,83,45,2, Republic Bank Classic  ,0
 2010-12-27,Oldham County,Central,55,52,2, Republic Bank Classic  ,0
 2010-12-27,Scott,Knox Central,70,56,2, Republic Bank Classic  ,0
-2010-12-27,Haines City. FL,Graves County,58,45,2, Rumble on the Ridge  ,0
-2010-12-27,Fleming County,Paxton. FL,83,78,2, Sandestin Hilton Blowout (overtime) ,1
-2010-12-27,Bardstown,Elkmont. AL,63,47,2,   ,0
-2010-12-27,Bourbon County,Holy Cross,68,67,2,   ,0
+2010-12-27,Out of State,Graves County,58,45,2, Rumble on the Ridge  ,0
+2010-12-27,Fleming County,Out of State,83,78,2, Sandestin Hilton Blowout (overtime) ,1
+2010-12-27,Bardstown,Out of State,63,47,2,   ,0
+2010-12-27,Bourbon County,Holy Cross (Louisville),68,67,2,   ,0
 2010-12-27,Bowling Green,Sheldon Clark,65,42,2,   ,0
 2010-12-27,Bracken County,Morgan County,60,38,1,   ,0
 2010-12-27,Breckinridge County,Pendleton County,55,52,2,  (overtime) ,1
 2010-12-27,Campbell County,Grant County,61,56,2,   ,0
-2010-12-27,Corbin,Pigeon Forge. TN,60,50,1,   ,0
+2010-12-27,Corbin,Out of State,60,50,1,   ,0
 2010-12-27,Covington Catholic,University Heights,65,53,2,   ,0
 2010-12-27,Deming,Augusta,67,64,2,   ,0
 2010-12-27,Franklin-Simpson,Owensboro Catholic,52,40,2,   ,0
-2010-12-27,Franklin-Simpson,Elkmont. AL,69,43,2,   ,0
-2010-12-27,Fulton City,Gleason. TN,65,30,2,   ,0
+2010-12-27,Franklin-Simpson,Out of State,69,43,2,   ,0
+2010-12-27,Fulton City,Out of State,65,30,2,   ,0
 2010-12-27,Fulton County,Crittenden County,64,44,2,   ,0
 2010-12-27,Holmes,Spencer County,81,64,2,   ,0
-2010-12-27,Kenwood. TN,Calloway County,62,52,0,   ,0
+2010-12-27,Out of State,Calloway County,62,52,0,   ,0
 2010-12-27,Knott County Central,Bullitt East,77,68,2,   ,0
 2010-12-27,Lafayette,Cooper,51,48,2,   ,0
 2010-12-27,Lewis County,Harrison County,64,58,2,   ,0
 2010-12-27,Lexington Catholic,Betsy Layne,82,50,1,   ,0
-2010-12-27,Liberty. NV,Hazard,66,59,2,   ,0
-2010-12-27,Livingston Central,Community Christian,57,56,2,   ,0
+2010-12-27,Out of State,Hazard,66,59,2,   ,0
+2010-12-27,Livingston Central,Community Christian (Paducah),57,56,2,   ,0
 2010-12-27,Madisonville-North Hopkins,Apollo,39,36,2,   ,0
 2010-12-27,North Laurel,Whitley County,44,43,2,   ,0
 2010-12-27,Ohio County,Bourbon County,78,65,1,   ,0
-2010-12-27,Ohio County,Australian Travel Team,54,53,1,   ,0
+2010-12-27,Ohio County,Out of State,54,53,1,   ,0
 2010-12-27,Paris,Prestonsburg,71,49,2,   ,0
-2010-12-27,Raceland,Ironton St. Joseph. OH,71,55,1,   ,0
+2010-12-27,Raceland,Out of State,71,55,1,   ,0
 2010-12-27,Reidland,Christian Fellowship,58,26,1,   ,0
 2010-12-27,Seneca,DeSales,68,54,2,   ,0
 2010-12-27,Simon Kenton,Russell,66,45,2,   ,0
 2010-12-27,South Laurel,Leslie County,58,45,2,   ,0
-2010-12-27,Trinity (Louisville),Southlake Carroll. TX,60,48,2,   ,0
+2010-12-27,Trinity (Louisville),Out of State,60,48,2,   ,0
 2010-12-27,Wolfe County,Monticello,56,48,2,   ,0
-2010-12-28,Marshall County,Pensacola Catholic. FL,61,32,2, Area Glass Marlin Classic  ,0
+2010-12-28,Marshall County,Out of State,61,32,2, Area Glass Marlin Classic  ,0
 2010-12-28,Ashland Blazer,Male,70,54,1, Ashland Invitational Tournament  ,0
 2010-12-28,Highlands,West Carter,65,59,2, Ashland Invitational Tournament  ,0
-2010-12-28,Pleasure Ridge Park,Port St. Joe High. FL,71,55,2, Bay High Barnstorm Classic  ,0
-2010-12-28,Boys and Girls of Brooklyn. NY,George Rogers Clark,51,39,2, Beach Ball Classic  ,0
+2010-12-28,Pleasure Ridge Park,Out of State,71,55,2, Bay High Barnstorm Classic  ,0
+2010-12-28,Out of State,George Rogers Clark,51,39,2, Beach Ball Classic  ,0
 2010-12-28,Beth Haven,Paintsville,58,43,1, Beth Haven Holiday Classic  ,0
 2010-12-28,Evangel Christian,Hart County,69,67,2, Beth Haven Holiday Classic  ,0
 2010-12-28,St. Mary,Portland Christian,61,32,2, Beth Haven Holiday Classic  ,0
-2010-12-28,Cloverport,New Harmony. IN,2,0,2, Cannelton Bulldog Classic (forfeit) ,0
+2010-12-28,Cloverport,Out of State,2,0,2, Cannelton Bulldog Classic (forfeit) ,0
 2010-12-28,Danville,Adair County,49,45,2, Citizens Bank/Campbellsville University Classic  ,0
-2010-12-28,Clay County,Laurens District. SC,64,55,2, Cumberland Falls Invitational  ,0
-2010-12-28,Scott County,Sevier County. TN,82,64,2, Cumberland Falls Invitational  ,0
-2010-12-28,Whitley County,Pigeon Forge. TN,66,51,2, Cumberland Falls Invitational  ,0
+2010-12-28,Clay County,Out of State,64,55,2, Cumberland Falls Invitational  ,0
+2010-12-28,Scott County,Out of State,82,64,2, Cumberland Falls Invitational  ,0
+2010-12-28,Whitley County,Out of State,66,51,2, Cumberland Falls Invitational  ,0
 2010-12-28,Breckinridge County,Iroquois,62,61,2, Eagle Classic  ,0
 2010-12-28,Grayson County,Pendleton County,51,49,2, Eagle Classic  ,0
 2010-12-28,Grayson County,Breckinridge County,56,44,2, Eagle Classic  ,0
-2010-12-28,Holy Cross (Louisville),Australian Travel Team,47,45,2, Eagle Classic  ,0
+2010-12-28,Holy Cross (Louisville),Out of State,47,45,2, Eagle Classic  ,0
 2010-12-28,Iroquois,Pendleton County,66,42,2, Eagle Classic  ,0
 2010-12-28,Augusta,South Laurel,72,43,2, First National Bank/Bracken County Invitational  ,0
 2010-12-28,Logan County,Meade County,66,57,1, First. Southern Bank/Roy's BBQ Classic (overtime) ,1
 2010-12-28,Russell County,Mayfield,55,30,2, First. Southern Bank/Roy's BBQ Classic  ,0
 2010-12-28,Russellville,South Warren,57,50,2, First. Southern Bank/Roy's BBQ Classic  ,0
-2010-12-28,Bardstown,White House. TN,57,48,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-28,Elkmont. AL,Hopkins County Central,64,62,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-28,Bardstown,Out of State,57,48,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-28,Out of State,Hopkins County Central,64,62,2, Franklin Bank & Trust Best of the Best  ,0
 2010-12-28,Franklin-Simpson,Bardstown,61,59,2, Franklin Bank & Trust Best of the Best  ,0
 2010-12-28,Franklin-Simpson,Owensboro,59,56,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-28,H.B. Beal. London. Ontario,Hopkins County Central,70,57,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-28,Owensboro,White House. TN,64,58,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-28,Owensboro Catholic,H.B. Deal. Canada,47,46,2, Franklin Bank & Trust Best of the Best  ,0
-2010-12-28,Middletown. OH,Bryan Station,57,54,2, Gaslight Holiday Classic (overtime) ,1
-2010-12-28,North Oldham,Holy Cross,60,54,2, Gaslight Holiday Classic  ,0
-2010-12-28,Christian County,Fort Myers. FL,60,55,2, Great Florida Shootout  ,0
+2010-12-28,Out of State,Hopkins County Central,70,57,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-28,Owensboro,Out of State,64,58,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-28,Owensboro Catholic,Out of State,47,46,2, Franklin Bank & Trust Best of the Best  ,0
+2010-12-28,Out of State,Bryan Station,57,54,2, Gaslight Holiday Classic (overtime) ,1
+2010-12-28,North Oldham,Holy Cross (Covington),60,54,2, Gaslight Holiday Classic  ,0
+2010-12-28,Christian County,Out of State,60,55,2, Great Florida Shootout  ,0
 2010-12-28,South Oldham,Boyle County,52,35,2, Henry County Invitational  ,0
 2010-12-28,Western Hills,North Bullitt,59,49,2, Henry County Invitational  ,0
-2010-12-28,Eastern,South Dade. FL,58,32,2, Junior Orange Bowl Classic  ,0
-2010-12-28,Lake Worth Christian. FL,Berea,58,53,2, Jupiter Christian Holiday Classic  ,0
-2010-12-28,Chaparral (Las Vegas). NV,Hazard,42,40,2, Las Vegas Prep Championship  ,0
-2010-12-28,Hazard,Carson. NV,59,50,2, Las Vegas Prep Championship  ,0
+2010-12-28,Eastern,Out of State,58,32,2, Junior Orange Bowl Classic  ,0
+2010-12-28,Out of State,Berea,58,53,2, Jupiter Christian Holiday Classic  ,0
+2010-12-28,Out of State,Hazard,42,40,2, Las Vegas Prep Championship  ,0
+2010-12-28,Hazard,Out of State,59,50,2, Las Vegas Prep Championship  ,0
 2010-12-28,Boone County,Grant County,74,51,2, Lloyd Memorial Invitational  ,0
-2010-12-28,Newport,Whitham-Hanson Regional. MA,62,51,2, Lloyd Memorial Invitational  ,0
+2010-12-28,Newport,Out of State,62,51,2, Lloyd Memorial Invitational  ,0
 2010-12-28,Newport Central Catholic,Lafayette,66,55,2, Lloyd Memorial Invitational  ,0
 2010-12-28,Spencer County,Bishop Brossart,48,47,2, Lloyd Memorial Invitational  ,0
 2010-12-28,Collins,Greenwood,61,55,2, Max Performance Invitational  ,0
 2010-12-28,Muhlenberg County,Union County,71,61,2, Max Performance Invitational  ,0
-2010-12-28,McCreary Central,York Institute. TN,66,45,2, Monticello Banking Company Classic  ,0
+2010-12-28,McCreary Central,Out of State,66,45,2, Monticello Banking Company Classic  ,0
 2010-12-28,Monticello,Cumberland County,66,60,2, Monticello Banking Company Classic  ,0
 2010-12-28,Pulaski County,Southwestern,57,44,2, Monticello Banking Company Classic  ,0
-2010-12-28,South Miami. FL,Warren East,76,38,2, Monticello Banking Company Classic  ,0
+2010-12-28,Out of State,Warren East,76,38,2, Monticello Banking Company Classic  ,0
 2010-12-28,Wayne County,Wolfe County,69,46,1, Monticello Banking Company Classic  ,0
 2010-12-28,East Ridge,Phelps,91,49,2, Mountain Schoolboy Classic  ,0
-2010-12-28,Perry County Central,Tug Valley. WV,47,42,2, Mountain Schoolboy Classic  ,0
-2010-12-28,Doss,Columbia Central. TN,68,65,2, Mustang Holiday Classic  ,0
-2010-12-28,DuPont Manual,Sir Allan MacNab. Ontario Canada,90,77,2, Mustang Holiday Classic  ,0
+2010-12-28,Perry County Central,Out of State,47,42,2, Mountain Schoolboy Classic  ,0
+2010-12-28,Doss,Out of State,68,65,2, Mustang Holiday Classic  ,0
+2010-12-28,DuPont Manual,Out of State,90,77,2, Mustang Holiday Classic  ,0
 2010-12-28,Bullitt Central,Washington County,68,57,2, National Guard Holiday Classic  ,0
 2010-12-28,LaRue County,Atherton,72,48,1, National Guard Holiday Classic  ,0
 2010-12-28,Taylor County,Lone Oak,51,46,2, National Guard Holiday Classic  ,0
 2010-12-28,Casey County,Nelson County,56,50,0, Norton Suburban Hospital Classic  ,0
 2010-12-28,John Hardin,Kentucky Country Day,68,48,2, Norton Suburban Hospital Classic  ,0
-2010-12-28,Barbourville,Brindlee Mountain. AL,89,36,2, Oneonta Christmas Classic  ,0
-2010-12-28,Choctawhatchee. FL,Buckhorn,62,45,1, Playground Area Shootout  ,0
-2010-12-28,Fairdale,Navarre. FL,62,38,2, Playground Area Shootout  ,0
+2010-12-28,Barbourville,Out of State,89,36,2, Oneonta Christmas Classic  ,0
+2010-12-28,Out of State,Buckhorn,62,45,1, Playground Area Shootout  ,0
+2010-12-28,Fairdale,Out of State,62,38,2, Playground Area Shootout  ,0
 2010-12-28,East Carter,Magoffin County,59,51,2, Red River Classic  ,0
 2010-12-28,Powell County,Paris,55,33,1, Red River Classic  ,0
 2010-12-28,Prestonsburg,Jackson City,86,57,2, Red River Classic  ,0
@@ -1298,68 +1298,68 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-28,Betsy Layne,Scott,63,62,2, Republic Bank Classic  ,0
 2010-12-28,Lexington Catholic,Elliott County,69,45,1, Republic Bank Classic  ,0
 2010-12-28,Warren Central,Paducah Tilghman,71,57,2, Republic Bank Classic  ,0
-2010-12-28,Graves County,University. FL,74,28,2, Rumble on the Ridge  ,0
-2010-12-28,Fleming County,Nashville Christian. TN,52,40,2, Sandestin Hilton Blowout  ,0
-2010-12-28,White County. TN,Menifee County,66,59,1, Sonic Shootout  ,0
+2010-12-28,Graves County,Out of State,74,28,2, Rumble on the Ridge  ,0
+2010-12-28,Fleming County,Out of State,52,40,2, Sandestin Hilton Blowout  ,0
+2010-12-28,Out of State,Menifee County,66,59,1, Sonic Shootout  ,0
 2010-12-28,Allen County-Scottsville,Carlisle County,39,34,1, South Central Bank/Halton Classic  ,0
 2010-12-28,Daviess County,Franklin County,67,62,2, South Central Bank/Halton Classic  ,0
 2010-12-28,Heath,Gallatin County,65,47,2, South Central Bank/Halton Classic  ,0
 2010-12-28,Henderson County,Christian Academy-Louisville,57,54,2, South Central Bank/Halton Classic  ,0
-2010-12-28,Bell County,Loudon. TN,48,36,2, Webb Spartan/Kesslers Holiday Classic  ,0
-2010-12-28,Cedar Hill. TX,Trinity,68,35,2, Whataburger Tournament  ,0
+2010-12-28,Bell County,Out of State,48,36,2, Webb Spartan/Kesslers Holiday Classic  ,0
+2010-12-28,Out of State,Trinity (Louisville),68,35,2, Whataburger Tournament  ,0
 2010-12-28,Anderson County,Sayre,57,48,0,   ,0
-2010-12-28,Avella Area. PA,Lawrence County,61,29,2,   ,0
-2010-12-28,Ballard Memorial,Hernando Brooksville. FL,64,61,2,   ,0
+2010-12-28,Out of State,Lawrence County,61,29,2,   ,0
+2010-12-28,Ballard Memorial,Out of State,64,61,2,   ,0
 2010-12-28,Barren County,Waggener,59,58,2,   ,0
-2010-12-28,Belfry,Matewan. WV,92,45,1,   ,0
-2010-12-28,Bourbon County,Australian Travel Team,63,42,2,   ,0
+2010-12-28,Belfry,Out of State,92,45,1,   ,0
+2010-12-28,Bourbon County,Out of State,63,42,2,   ,0
 2010-12-28,Bowling Green,Mercer County,76,60,2,   ,0
 2010-12-28,Bracken County,Lewis County,63,60,1,   ,0
 2010-12-28,Bullitt East,Russell,68,55,2,   ,0
 2010-12-28,Calloway County,Apollo,66,50,1,   ,0
 2010-12-28,Campbellsville,Monroe County,74,62,1,  (overtime) ,1
-2010-12-28,Caverna,Australian Travel Team,63,62,2,   ,0
+2010-12-28,Caverna,Out of State,63,62,2,   ,0
 2010-12-28,Community Christian (Paducah),Caldwell County,56,40,2,   ,0
 2010-12-28,Deming,Leslie County,70,40,2,   ,0
-2010-12-28,Dyer County. TN,Fulton City,97,48,2,   ,0
+2010-12-28,Out of State,Fulton City,97,48,2,   ,0
 2010-12-28,Estill County,Rockcastle County,65,46,2,   ,0
 2010-12-28,Fairview,St. Patrick,51,41,2,   ,0
-2010-12-28,Fayette County. GA,Henry Clay,72,67,2,   ,0
+2010-12-28,Out of State,Henry Clay,72,67,2,   ,0
 2010-12-28,Fern Creek,Campbell County,61,51,2,   ,0
 2010-12-28,Frankfort,Henry County,60,53,0,   ,0
 2010-12-28,Fulton County,Reidland,52,26,0,   ,0
 2010-12-28,Fulton County,Christian Fellowship,59,14,2,   ,0
 2010-12-28,Garrard County,Pineville,40,39,2,   ,0
 2010-12-28,Glasgow,McCreary Central,79,56,2,   ,0
-2010-12-28,Gleason. TN,Hickman County,41,36,2,   ,0
+2010-12-28,Out of State,Hickman County,41,36,2,   ,0
 2010-12-28,Harlan County,Somerset,77,46,2,   ,0
 2010-12-28,Harrison County,Morgan County,66,47,2,   ,0
 2010-12-28,Holmes,Ryle,63,54,2,   ,0
 2010-12-28,Jackson County,Carroll County,54,51,1,   ,0
-2010-12-28,Jeffersontown,George Washington Carver. TN,80,30,1,   ,0
-2010-12-28,Johnson Central,Hurley. VA,55,53,2,   ,0
-2010-12-28,Kenwood. TN,Madisonville-North Hopkins,60,52,2,   ,0
+2010-12-28,Jeffersontown,Out of State,80,30,1,   ,0
+2010-12-28,Johnson Central,Out of State,55,53,2,   ,0
+2010-12-28,Out of State,Madisonville-North Hopkins,60,52,2,   ,0
 2010-12-28,Letcher County Central,Williamstown,69,61,2,   ,0
 2010-12-28,Livingston Central,Murray,48,36,2,   ,0
 2010-12-28,Livingston Central,Caldwell County,64,40,2,   ,0
 2010-12-28,Lloyd Memorial,Conner,55,52,1,   ,0
 2010-12-28,Madison Central,Rowan County,69,58,2,   ,0
-2010-12-28,Maryville. TN,Boyd County,59,23,1,   ,0
+2010-12-28,Out of State,Boyd County,59,23,1,   ,0
 2010-12-28,Mason County,West Jessamine,54,53,2,   ,0
 2010-12-28,Metcalfe County,Green County,57,55,2,   ,0
 2010-12-28,Model,Eminence,74,34,1,   ,0
 2010-12-28,Montgomery County,Lincoln County,60,56,1,   ,0
 2010-12-28,Moore,Webster County,52,36,1,   ,0
-2010-12-28,Murray,Community Christian,69,54,2,   ,0
+2010-12-28,Murray,Community Christian (Paducah),69,54,2,   ,0
 2010-12-28,North Hardin,Greenup County,66,37,2,   ,0
 2010-12-28,Ohio County,Holy Cross (Louisville),72,47,1,   ,0
 2010-12-28,Owen County,Clinton County,65,56,2,   ,0
-2010-12-28,Owensboro Catholic,Elkmont. AL,52,37,2,   ,0
-2010-12-28,Pikeville,Tolsia.WV,72,45,1,   ,0
-2010-12-28,Raceland,Dawson Bryant (Coal Grove). OH,42,32,1,   ,0
+2010-12-28,Owensboro Catholic,Out of State,52,37,2,   ,0
+2010-12-28,Pikeville,Out of State,72,45,1,   ,0
+2010-12-28,Raceland,Out of State,42,32,1,   ,0
 2010-12-28,Reidland,Crittenden County,48,47,1,   ,0
-2010-12-28,Rock Creek Academy. IN,Edmonson County,50,49,2,   ,0
-2010-12-28,Scott. WV,Allen Central,55,28,2,   ,0
+2010-12-28,Out of State,Edmonson County,50,49,2,   ,0
+2010-12-28,Out of State,Allen Central,55,28,2,   ,0
 2010-12-28,Seneca,Oldham County,65,57,2,   ,0
 2010-12-28,Shelby County,Harlan,59,48,2,   ,0
 2010-12-28,Simon Kenton,Knott County Central,67,58,2,   ,0
@@ -1367,15 +1367,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-28,St. Xavier,Southern,58,40,2,   ,0
 2010-12-28,Tates Creek,Butler,64,47,2,   ,0
 2010-12-28,University Heights,Sheldon Clark,63,54,2,   ,0
-2010-12-28,Walton-Verona,Unatego. NY,54,49,2,   ,0
+2010-12-28,Walton-Verona,Out of State,54,49,2,   ,0
 2010-12-28,Williamsburg,Whitefield Academy,44,29,2,   ,0
-2010-12-28,Woodland Hills. PA,Western,70,65,2,   ,0
-2010-12-29,Marshall County,Starr's Mill. GA,50,43,2, Area Glass Marlin Classic  ,0
+2010-12-28,Out of State,Western,70,65,2,   ,0
+2010-12-29,Marshall County,Out of State,50,43,2, Area Glass Marlin Classic  ,0
 2010-12-29,Bullitt East,Highlands,71,41,2, Ashland Invitational Tournament  ,0
 2010-12-29,Male,Knott County Central,58,46,2, Ashland Invitational Tournament  ,0
 2010-12-29,West Carter,Russell,65,58,2, Ashland Invitational Tournament  ,0
-2010-12-29,Pleasure Ridge Park,Berkmar. GA,77,68,2, Bay High Barnstorm Classic  ,0
-2010-12-29,George Rogers Clark,North Myrtle Beach. SC,78,47,2, Beach Ball Classic  ,0
+2010-12-29,Pleasure Ridge Park,Out of State,77,68,2, Bay High Barnstorm Classic  ,0
+2010-12-29,George Rogers Clark,Out of State,78,47,2, Beach Ball Classic  ,0
 2010-12-29,Evangel Christian,Paintsville,70,59,2, Beth Haven Holiday Classic  ,0
 2010-12-29,Hart County,Portland Christian,71,51,2, Beth Haven Holiday Classic  ,0
 2010-12-29,St. Mary,Beth Haven,48,32,0, Beth Haven Holiday Classic  ,0
@@ -1383,89 +1383,89 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-29,North Hardin,Danville,69,62,2, Citizens Bank/Campbellsville University Classic  ,0
 2010-12-29,Corbin,North Laurel,72,67,1, Cumberland Falls Invitational  ,0
 2010-12-29,Scott County,Clay County,84,64,2, Cumberland Falls Invitational  ,0
-2010-12-29,Breckinridge County,Holy Cross,57,54,2, Eagle Classic  ,0
+2010-12-29,Breckinridge County,Holy Cross (Louisville),57,54,2, Eagle Classic  ,0
 2010-12-29,Grayson County,Bourbon County,59,47,2, Eagle Classic  ,0
-2010-12-29,Pendleton County,Australian Travel Team,69,55,2, Eagle Classic  ,0
+2010-12-29,Pendleton County,Out of State,69,55,2, Eagle Classic  ,0
 2010-12-29,Deming,South Laurel,68,62,2, First National Bank/Bracken County Invitational  ,0
 2010-12-29,Leslie County,Augusta,61,53,2, First National Bank/Bracken County Invitational  ,0
 2010-12-29,Lewis County,Morgan County,73,64,2, First National Bank/Bracken County Invitational  ,0
-2010-12-29,Mayfield,Australian Travel Team,50,35,2, First. Southern Bank/Roy's BBQ Classic  ,0
+2010-12-29,Mayfield,Out of State,50,35,2, First. Southern Bank/Roy's BBQ Classic  ,0
 2010-12-29,Russellville,Logan County,67,52,0, First. Southern Bank/Roy's BBQ Classic (championship) ,0
 2010-12-29,South Warren,Meade County,58,40,2, First. Southern Bank/Roy's BBQ Classic  ,0
-2010-12-29,Bryan Station,Holy Cross,71,45,2, Gaslight Holiday Classic  ,0
-2010-12-29,Middletown. OH,North Oldham,73,49,2, Gaslight Holiday Classic  ,0
-2010-12-29,Western,George Washington Carver. TN,83,53,2, Gaslight Holiday Classic  ,0
+2010-12-29,Bryan Station,Holy Cross (Covington),71,45,2, Gaslight Holiday Classic  ,0
+2010-12-29,Out of State,North Oldham,73,49,2, Gaslight Holiday Classic  ,0
+2010-12-29,Western,Out of State,83,53,2, Gaslight Holiday Classic  ,0
 2010-12-29,Butler,Lincoln County,55,51,2, Gateway Classic  ,0
 2010-12-29,Madison Central,Mason County,56,50,2, Gateway Classic  ,0
 2010-12-29,Rowan County,West Jessamine,52,38,2, Gateway Classic  ,0
-2010-12-29,Lexington. SC,Christian County,78,73,2, Great Florida Shootout (overtime) ,1
-2010-12-29,Boyle County,Western Hills,63,62,2, Henry County Invitational (double overtime) ,0
+2010-12-29,Out of State,Christian County,78,73,2, Great Florida Shootout (overtime) ,1
+2010-12-29,Boyle County,Western Hills,63,62,2, Henry County Invitational (double overtime) ,1
 2010-12-29,Boyle County,North Bullitt,36,35,2, Henry County Invitational  ,0
 2010-12-29,Henry County,Williamstown,67,48,1, Henry County Invitational  ,0
 2010-12-29,South Oldham,North Bullitt,70,38,2, Henry County Invitational  ,0
 2010-12-29,South Oldham,Western Hills,70,59,2, Henry County Invitational  ,0
-2010-12-29,Eastern,Coral Gables Senior. FL,61,59,2, Junior Orange Bowl Classic  ,0
-2010-12-29,Berea,King's. WA,41,31,2, Jupiter Christian Holiday Classic  ,0
-2010-12-29,East Jessamine,Mifflinburg. PA,69,63,2, KSA Holiday Tournament  ,0
-2010-12-29,Walton-Verona,South Beauregard. LA,67,29,2, KSA Holiday Tournament  ,0
-2010-12-29,El Dorado. NV,Hazard,62,61,2, Las Vegas Prep Championship  ,0
-2010-12-29,Hazard,Palos Verdes. CA,70,49,2, Las Vegas Prep Championship  ,0
+2010-12-29,Eastern,Out of State,61,59,2, Junior Orange Bowl Classic  ,0
+2010-12-29,Berea,Out of State,41,31,2, Jupiter Christian Holiday Classic  ,0
+2010-12-29,East Jessamine,Out of State,69,63,2, KSA Holiday Tournament  ,0
+2010-12-29,Walton-Verona,Out of State,67,29,2, KSA Holiday Tournament  ,0
+2010-12-29,Out of State,Hazard,62,61,2, Las Vegas Prep Championship  ,0
+2010-12-29,Hazard,Out of State,70,49,2, Las Vegas Prep Championship  ,0
 2010-12-29,Boone County,Newport,64,56,2, Lloyd Memorial Invitational  ,0
 2010-12-29,Campbell County,Conner,63,54,2, Lloyd Memorial Invitational  ,0
 2010-12-29,Cooper,Spencer County,51,50,2, Lloyd Memorial Invitational  ,0
 2010-12-29,Fern Creek,Lloyd Memorial,66,45,0, Lloyd Memorial Invitational  ,0
-2010-12-29,Grant County,Whitham-Hanson Regional. MA,52,29,2, Lloyd Memorial Invitational  ,0
+2010-12-29,Grant County,Out of State,52,29,2, Lloyd Memorial Invitational  ,0
 2010-12-29,Lafayette,Ryle,61,55,2, Lloyd Memorial Invitational  ,0
 2010-12-29,Muhlenberg County,Collins,51,46,2, Max Performance Invitational  ,0
-2010-12-29,Rock Creek Academy. IN,Shelby County,68,57,2, Max Performance Invitational  ,0
+2010-12-29,Out of State,Shelby County,68,57,2, Max Performance Invitational  ,0
 2010-12-29,Union County,Greenwood,57,50,2, Max Performance Invitational  ,0
-2010-12-29,Franklin Road Academy. TN,Monticello,57,39,2, Monticello Banking Company Classic  ,0
+2010-12-29,Out of State,Monticello,57,39,2, Monticello Banking Company Classic  ,0
 2010-12-29,McCreary Central,Wolfe County,61,50,2, Monticello Banking Company Classic  ,0
 2010-12-29,Southwestern,Warren East,63,51,2, Monticello Banking Company Classic  ,0
-2010-12-29,Wayne County,South Miami. FL,75,71,1, Monticello Banking Company Classic  ,0
-2010-12-29,Tug Valley. WV,East Ridge,89,48,2, Mountain Schoolboy Classic  ,0
-2010-12-29,Archbishop Alter. OH,DuPont Manual,75,66,2, Mustang Holiday Classic  ,0
-2010-12-29,Columbia Central. TN,St. Xavier,68,63,2, Mustang Holiday Classic  ,0
+2010-12-29,Wayne County,Out of State,75,71,1, Monticello Banking Company Classic  ,0
+2010-12-29,Out of State,East Ridge,89,48,2, Mountain Schoolboy Classic  ,0
+2010-12-29,Out of State,DuPont Manual,75,66,2, Mustang Holiday Classic  ,0
+2010-12-29,Out of State,St. Xavier,68,63,2, Mustang Holiday Classic  ,0
 2010-12-29,Atherton,Washington County,83,73,2, National Guard Holiday Classic  ,0
 2010-12-29,Barren County,Taylor County,60,42,2, National Guard Holiday Classic  ,0
 2010-12-29,LaRue County,Bullitt Central,59,43,1, National Guard Holiday Classic  ,0
 2010-12-29,Waggener,Lone Oak,62,51,2, National Guard Holiday Classic  ,0
-2010-12-29,John Hardin,Nelson County,68,66,0, Norton Suburban Hospital Classic (double overtime) ,0
-2010-12-29,Barbourville,Hartselle. AL,69,54,2, Oneonta Christmas Classic  ,0
+2010-12-29,John Hardin,Nelson County,68,66,0, Norton Suburban Hospital Classic (double overtime) ,1
+2010-12-29,Barbourville,Out of State,69,54,2, Oneonta Christmas Classic  ,0
 2010-12-29,Carroll County,Owsley County,72,47,2, PRTC Holiday Classic  ,0
 2010-12-29,Estill County,Breathitt County,63,56,2, PRTC Holiday Classic  ,0
-2010-12-29,Hurley. VA,Allen Central,52,43,2, Pikeville Invitational  ,0
-2010-12-29,Johnson Central,Scott. WV,58,51,2, Pikeville Invitational  ,0
-2010-12-29,Pikeville,Avella Area. PA,70,49,1, Pikeville Invitational  ,0
-2010-12-29,Tolsia.WV,Lawrence County,68,34,2, Pikeville Invitational  ,0
-2010-12-29,Buckhorn,Sullivan Central. TN,49,35,2, Playground Area Shootout  ,0
-2010-12-29,Pine Forest. FL,Fairdale,67,59,2, Playground Area Shootout  ,0
+2010-12-29,Out of State,Allen Central,52,43,2, Pikeville Invitational  ,0
+2010-12-29,Johnson Central,Out of State,58,51,2, Pikeville Invitational  ,0
+2010-12-29,Pikeville,Out of State,70,49,1, Pikeville Invitational  ,0
+2010-12-29,Out of State,Lawrence County,68,34,2, Pikeville Invitational  ,0
+2010-12-29,Buckhorn,Out of State,49,35,2, Playground Area Shootout  ,0
+2010-12-29,Out of State,Fairdale,67,59,2, Playground Area Shootout  ,0
 2010-12-29,East Carter,Prestonsburg,54,41,2, Red River Classic  ,0
 2010-12-29,Lee County,Paris,45,43,2, Red River Classic  ,0
 2010-12-29,Magoffin County,Jackson City,61,51,2, Red River Classic  ,0
 2010-12-29,Woodford County,Powell County,78,43,0, Red River Classic (championship) ,0
 2010-12-29,Caldwell County,Christian Fellowship,79,22,2, Reidland Christmas Tournament  ,0
 2010-12-29,Murray,Crittenden County,58,49,2, Reidland Christmas Tournament  ,0
-2010-12-29,Ballard,Fayette County. GA,98,77,2, Republic Bank Classic  ,0
+2010-12-29,Ballard,Out of State,98,77,2, Republic Bank Classic  ,0
 2010-12-29,Central,DeSales,40,38,2, Republic Bank Classic  ,0
 2010-12-29,Covington Catholic,Henry Clay,67,57,2, Republic Bank Classic  ,0
 2010-12-29,Lexington Catholic,Bowling Green,69,57,1, Republic Bank Classic  ,0
 2010-12-29,Paducah Tilghman,Knox Central,58,47,2, Republic Bank Classic  ,0
 2010-12-29,Seneca,Betsy Layne,70,57,2, Republic Bank Classic  ,0
 2010-12-29,Warren Central,University Heights,58,47,2, Republic Bank Classic  ,0
-2010-12-29,Felicity-Franklin. OH,St. Patrick,92,84,2, Ripley Pepsi Classic  ,0
-2010-12-29,Ripley. OH,Fairview,77,60,2, Ripley Pepsi Classic  ,0
-2010-12-29,Graves County,East Lake. FL,59,47,2, Rumble on the Ridge  ,0
-2010-12-29,Fleming County,Glencoe. AL,66,58,2, Sandestin Hilton Blowout (overtime) ,1
-2010-12-29,Franklin. TN,Menifee County,66,55,2, Sonic Shootout  ,0
+2010-12-29,Out of State,St. Patrick,92,84,2, Ripley Pepsi Classic  ,0
+2010-12-29,Out of State,Fairview,77,60,2, Ripley Pepsi Classic  ,0
+2010-12-29,Graves County,Out of State,59,47,2, Rumble on the Ridge  ,0
+2010-12-29,Fleming County,Out of State,66,58,2, Sandestin Hilton Blowout (overtime) ,1
+2010-12-29,Out of State,Menifee County,66,55,2, Sonic Shootout  ,0
 2010-12-29,Christian Academy-Louisville,Carlisle County,80,47,2, South Central Bank/Halton Classic  ,0
 2010-12-29,Franklin County,Gallatin County,58,48,2, South Central Bank/Halton Classic  ,0
 2010-12-29,Henderson County,Allen County-Scottsville,56,50,0, South Central Bank/Halton Classic  ,0
-2010-12-29,Bell County,Buckhorn. AL,56,43,2, Webb Spartan/Kesslers Holiday Classic  ,0
-2010-12-29,Houston Wheatley. TX,Trinity,63,59,2, Whataburger Tournament  ,0
+2010-12-29,Bell County,Out of State,56,43,2, Webb Spartan/Kesslers Holiday Classic  ,0
+2010-12-29,Out of State,Trinity (Louisville),63,59,2, Whataburger Tournament  ,0
 2010-12-29,Adair County,Greenup County,59,54,2,  (overtime) ,1
 2010-12-29,Anderson County,Somerset,44,39,2,   ,0
-2010-12-29,Ballard Memorial,Lecanto. FL,60,44,0,   ,0
+2010-12-29,Ballard Memorial,Out of State,60,44,0,   ,0
 2010-12-29,Bracken County,Harrison County,68,63,1,   ,0
 2010-12-29,Campbellsville,Metcalfe County,71,58,1,   ,0
 2010-12-29,Clinton County,Williamsburg,44,42,2,  (overtime) ,1
@@ -1479,19 +1479,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-29,Garrard County,Eminence,58,42,2,   ,0
 2010-12-29,Henry County,Letcher County Central,41,39,1,  (overtime) ,1
 2010-12-29,Iroquois,Ohio County,71,53,0,  (championship) ,0
-2010-12-29,Jeffersontown,Woodland Hills. PA,84,38,1,   ,0
+2010-12-29,Jeffersontown,Out of State,84,38,1,   ,0
 2010-12-29,Kentucky Country Day,Casey County,73,54,2,   ,0
-2010-12-29,Kenwood. TN,Apollo,67,39,2,   ,0
+2010-12-29,Out of State,Apollo,67,39,2,   ,0
 2010-12-29,Madisonville-North Hopkins,Calloway County,50,39,0,   ,0
-2010-12-29,Mariemont. OH,Bellevue,77,30,2,   ,0
-2010-12-29,McMinn County. TN,Boyd County,61,45,2,   ,0
+2010-12-29,Out of State,Bellevue,77,30,2,   ,0
+2010-12-29,Out of State,Boyd County,61,45,2,   ,0
 2010-12-29,Mercer County,Elliott County,88,70,2,   ,0
 2010-12-29,Model,Pineville,57,42,1,   ,0
 2010-12-29,Model,Garrard County,62,55,1,   ,0
 2010-12-29,Newport Central Catholic,Holmes,55,53,2,   ,0
 2010-12-29,Owen County,Williamsburg,71,48,2,   ,0
 2010-12-29,Perry County Central,Belfry,45,35,0,   ,0
-2010-12-29,Phelps,Gilbert. WV,60,58,2,   ,0
+2010-12-29,Phelps,Out of State,60,58,2,   ,0
 2010-12-29,Pineville,Eminence,52,44,2,   ,0
 2010-12-29,Pulaski County,Glasgow,78,71,2,   ,0
 2010-12-29,Russell County,Caverna,67,51,2,   ,0
@@ -1501,67 +1501,67 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-29,Tates Creek,Montgomery County,60,50,0,   ,0
 2010-12-29,Webster County,Southern,51,38,2,   ,0
 2010-12-29,Whitefield Academy,Owen County,40,38,2,   ,0
-2010-12-30,Marist School. GA,Marshall County,52,40,2, Area Glass Marlin Classic  ,0
-2010-12-30,Christian Brothers. TN,Pleasure Ridge Park,66,64,2, Bay High Barnstorm Classic (overtime) ,1
-2010-12-30,George Rogers Clark,Chicago St. Rita. IL,69,56,2, Beach Ball Classic  ,0
-2010-12-30,Danville,Metcalfe County,78,71,2, Citizens Bank/Campbellsville University Classic (double overtime) ,0
-2010-12-30,Monroe County,Adair County,51,49,2, Citizens Bank/Campbellsville University Classic (triple overtime) ,0
+2010-12-30,Out of State,Marshall County,52,40,2, Area Glass Marlin Classic  ,0
+2010-12-30,Out of State,Pleasure Ridge Park,66,64,2, Bay High Barnstorm Classic (overtime) ,1
+2010-12-30,George Rogers Clark,Out of State,69,56,2, Beach Ball Classic  ,0
+2010-12-30,Danville,Metcalfe County,78,71,2, Citizens Bank/Campbellsville University Classic (double overtime) ,1
+2010-12-30,Monroe County,Adair County,51,49,2, Citizens Bank/Campbellsville University Classic (triple overtime) ,1
 2010-12-30,North Laurel,Clay County,68,56,2, Cumberland Falls Invitational  ,0
 2010-12-30,Scott County,Corbin,85,47,0, Cumberland Falls Invitational  ,0
-2010-12-30,Whitley County,Sevier County. TN,72,62,2, Cumberland Falls Invitational  ,0
+2010-12-30,Whitley County,Out of State,72,62,2, Cumberland Falls Invitational  ,0
 2010-12-30,Augusta,Lewis County,60,55,2, First National Bank/Bracken County Invitational  ,0
 2010-12-30,South Laurel,Morgan County,61,27,2, First National Bank/Bracken County Invitational  ,0
 2010-12-30,Bryan Station,Western,85,81,2, Gaslight Holiday Classic (overtime) ,1
-2010-12-30,Holy Cross (Covington),George Washington Carver. TN,68,46,2, Gaslight Holiday Classic  ,0
-2010-12-30,Woodland Hills. PA,North Oldham,64,62,2, Gaslight Holiday Classic (overtime) ,1
+2010-12-30,Holy Cross (Covington),Out of State,68,46,2, Gaslight Holiday Classic  ,0
+2010-12-30,Out of State,North Oldham,64,62,2, Gaslight Holiday Classic (overtime) ,1
 2010-12-30,Butler,Rowan County,42,40,2, Gateway Classic  ,0
 2010-12-30,West Jessamine,Lincoln County,54,44,2, Gateway Classic  ,0
 2010-12-30,Henry County,Boyle County,49,36,1, Henry County Invitational  ,0
-2010-12-30,Western Hills,Letcher County Central,75,72,2, Henry County Invitational (double overtime) ,0
-2010-12-30,Eastern,Montverde Academy. FL,60,54,2, Junior Orange Bowl Classic  ,0
-2010-12-30,Seminole Ridge. FL,Berea,51,46,2, Jupiter Christian Holiday Classic  ,0
-2010-12-30,Northwood. LA,East Jessamine,55,52,2, KSA Holiday Tournament  ,0
-2010-12-30,Walton-Verona,Landmark Christian. GA,47,41,2, KSA Holiday Tournament  ,0
+2010-12-30,Western Hills,Letcher County Central,75,72,2, Henry County Invitational (double overtime) ,1
+2010-12-30,Eastern,Out of State,60,54,2, Junior Orange Bowl Classic  ,0
+2010-12-30,Out of State,Berea,51,46,2, Jupiter Christian Holiday Classic  ,0
+2010-12-30,Out of State,East Jessamine,55,52,2, KSA Holiday Tournament  ,0
+2010-12-30,Walton-Verona,Out of State,47,41,2, KSA Holiday Tournament  ,0
 2010-12-30,Bishop Brossart,Grant County,72,29,2, Lloyd Memorial Invitational  ,0
 2010-12-30,Boone County,Cooper,67,53,2, Lloyd Memorial Invitational  ,0
 2010-12-30,Lafayette,Campbell County,98,72,2, Lloyd Memorial Invitational  ,0
 2010-12-30,Newport Central Catholic,Fern Creek,53,46,2, Lloyd Memorial Invitational  ,0
 2010-12-30,Ryle,Conner,61,47,2, Lloyd Memorial Invitational  ,0
 2010-12-30,Spencer County,Newport,59,57,2, Lloyd Memorial Invitational  ,0
-2010-12-30,South Fulton. TN,Fulton City,58,46,2, Martin Lions Club Tournament  ,0
+2010-12-30,Out of State,Fulton City,58,46,2, Martin Lions Club Tournament  ,0
 2010-12-30,Collins,Shelby County,73,56,2, Max Performance Invitational  ,0
 2010-12-30,Greenwood,Harlan,59,50,2, Max Performance Invitational  ,0
-2010-12-30,Muhlenberg County,Rock Creek Academy. IN,67,54,2, Max Performance Invitational  ,0
-2010-12-30,Clay County. TN,Cumberland County,79,45,2, Monticello Banking Company Classic  ,0
+2010-12-30,Muhlenberg County,Out of State,67,54,2, Max Performance Invitational  ,0
+2010-12-30,Out of State,Cumberland County,79,45,2, Monticello Banking Company Classic  ,0
 2010-12-30,McCreary Central,Southwestern,70,46,2, Monticello Banking Company Classic  ,0
 2010-12-30,Warren East,Wolfe County,71,70,2, Monticello Banking Company Classic (overtime) ,1
 2010-12-30,Wayne County,Pulaski County,77,68,1, Monticello Banking Company Classic  ,0
-2010-12-30,East Ridge,Williamson. WV,74,44,2, Mountain Schoolboy Classic  ,0
+2010-12-30,East Ridge,Out of State,74,44,2, Mountain Schoolboy Classic  ,0
 2010-12-30,Perry County Central,Phelps,84,27,2, Mountain Schoolboy Classic  ,0
-2010-12-30,St. Xavier,Archbishop Alter. OH,63,52,2, Mustang Holiday Classic  ,0
-2010-12-30,Worthington Kilbourne. OH,Southern,50,41,2, Mustang Holiday Classic  ,0
+2010-12-30,St. Xavier,Out of State,63,52,2, Mustang Holiday Classic  ,0
+2010-12-30,Out of State,Southern,50,41,2, Mustang Holiday Classic  ,0
 2010-12-30,Bullitt Central,Taylor County,71,44,2, National Guard Holiday Classic  ,0
 2010-12-30,LaRue County,Barren County,61,50,1, National Guard Holiday Classic  ,0
 2010-12-30,Lone Oak,Washington County,68,59,2, National Guard Holiday Classic  ,0
-2010-12-30,Barbourville,Fort Payne. AL,71,62,2, Oneonta Christmas Classic  ,0
+2010-12-30,Barbourville,Out of State,71,62,2, Oneonta Christmas Classic  ,0
 2010-12-30,Jackson County,Estill County,58,56,1, PRTC Holiday Classic (overtime) ,1
 2010-12-30,Rockcastle County,Breathitt County,90,82,2, PRTC Holiday Classic  ,0
 2010-12-30,Allen Central,Lawrence County,74,34,2, Pikeville Invitational  ,0
 2010-12-30,Pikeville,Johnson Central,55,49,1, Pikeville Invitational  ,0
-2010-12-30,Buckhorn,Harpeth. TN,59,58,2, Playground Area Shootout  ,0
-2010-12-30,Choctawhatchee. FL,Fairdale,72,69,1, Playground Area Shootout  ,0
+2010-12-30,Buckhorn,Out of State,59,58,2, Playground Area Shootout  ,0
+2010-12-30,Out of State,Fairdale,72,69,1, Playground Area Shootout  ,0
 2010-12-30,Ballard,Lexington Catholic,89,76,0, Republic Bank Classic  ,0
-2010-12-30,Fayette County. GA,Bowling Green,77,61,2, Republic Bank Classic  ,0
+2010-12-30,Out of State,Bowling Green,77,61,2, Republic Bank Classic  ,0
 2010-12-30,Warren Central,Central,75,65,2, Republic Bank Classic  ,0
-2010-12-30,Faith Academy. AL,Fleming County,59,42,2, Sandestin Hilton Blowout  ,0
+2010-12-30,Out of State,Fleming County,59,42,2, Sandestin Hilton Blowout  ,0
 2010-12-30,Owen County,Model,62,45,0, Shirley Kearns Invitational (championship) ,0
-2010-12-30,Menifee County,Cumberland County. TN,69,54,2, Sonic Shootout  ,0
+2010-12-30,Menifee County,Out of State,69,54,2, Sonic Shootout  ,0
 2010-12-30,Allen County-Scottsville,Heath,54,52,1, South Central Bank/Halton Classic  ,0
 2010-12-30,Franklin County,Christian Academy-Louisville,67,45,2, South Central Bank/Halton Classic  ,0
 2010-12-30,Gallatin County,Carlisle County,80,58,2, South Central Bank/Halton Classic  ,0
 2010-12-30,Henderson County,Daviess County,73,72,2, South Central Bank/Halton Classic  ,0
-2010-12-30,Bob Jones. AL,Bellevue,65,40,2, Warrior Holiday Invitational  ,0
-2010-12-30,Halls. TN,Bell County,55,47,2, Webb Spartan Tournament  ,0
+2010-12-30,Out of State,Bellevue,65,40,2, Warrior Holiday Invitational  ,0
+2010-12-30,Out of State,Bell County,55,47,2, Webb Spartan Tournament  ,0
 2010-12-30,Bath County,Nicholas County,82,27,1,   ,0
 2010-12-30,Breathitt County,Owsley County,98,77,2,   ,0
 2010-12-30,Campbellsville,North Hardin,64,56,1,   ,0
@@ -1575,7 +1575,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-30,Henry Clay,Elliott County,73,63,2,   ,0
 2010-12-30,Holmes,Lloyd Memorial,67,43,0,   ,0
 2010-12-30,Jackson County,Owsley County,84,71,1,   ,0
-2010-12-30,Jeffersontown,Middletown. OH,86,63,1,   ,0
+2010-12-30,Jeffersontown,Out of State,86,63,1,   ,0
 2010-12-30,Leslie County,Harrison County,50,48,2,   ,0
 2010-12-30,Lexington Christian,Paul Laurence Dunbar,66,58,1,   ,0
 2010-12-30,Mason County,Montgomery County,56,46,0,   ,0
@@ -1584,27 +1584,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2010-12-30,Pike County Central,Middlesboro,84,48,1,   ,0
 2010-12-30,Rockcastle County,Carroll County,56,52,2,   ,0
 2010-12-30,Somerset,Sayre,55,53,0,  (overtime) ,1
-2010-12-30,South Fulton. TN,Hickman County,62,54,2,   ,0
-2010-12-30,South Miami. FL,Glasgow,70,62,2,   ,0
+2010-12-30,Out of State,Hickman County,62,54,2,   ,0
+2010-12-30,Out of State,Glasgow,70,62,2,   ,0
 2010-12-30,South Oldham,Frankfort,52,44,2,   ,0
 2010-12-30,St. Xavier,Valley,69,57,2,   ,0
 2010-12-30,Tates Creek,Madison Central,55,48,2,   ,0
-2010-12-30,Tug Valley. WV,Belfry,62,54,0,   ,0
+2010-12-30,Out of State,Belfry,62,54,0,   ,0
 2010-12-30,Waggener,Atherton,65,54,2,   ,0
 2010-12-30,Webster County,Doss,56,43,2,   ,0
 2010-12-30,Whitefield Academy,Eminence,65,45,2,   ,0
-2010-12-30,William Blount. TN,Boyd County,64,59,2,   ,0
+2010-12-30,Out of State,Boyd County,64,59,2,   ,0
 2010-12-30,Williamsburg,Pineville,52,42,2,   ,0
-2010-12-31,Wheeler. GA,George Rogers Clark,64,52,2, Beach Ball Classic  ,0
-2010-12-31,Jenkins,Pound. VA,46,41,2, Greenwave Classic  ,0
-2010-12-31,St. Paul. VA,Jenkins,50,44,2, Greenwave Classic  ,0
-2010-12-31,Eagle's Landing Christian. GA,Barbourville,54,46,2, Oneonta Christmas Classic  ,0
+2010-12-31,Out of State,George Rogers Clark,64,52,2, Beach Ball Classic  ,0
+2010-12-31,Jenkins,Out of State,46,41,2, Greenwave Classic  ,0
+2010-12-31,Out of State,Jenkins,50,44,2, Greenwave Classic  ,0
+2010-12-31,Out of State,Barbourville,54,46,2, Oneonta Christmas Classic  ,0
 2011-01-01,Glasgow,Barren County,71,50,0,   ,0
 2011-01-01,Pike County Central,Shelby Valley,77,55,1,   ,0
 2011-01-02,Green County,Hart County,58,50,1,   ,0
 2011-01-03,Beechwood,Calvary Christian,69,53,1,   ,0
 2011-01-03,Community Christian (Paducah),Christian Fellowship,69,47,0,   ,0
-2011-01-03,Corbin,Jellico. TN,74,59,1,   ,0
+2011-01-03,Corbin,Out of State,74,59,1,   ,0
 2011-01-03,Cordia,Jenkins,74,46,1,   ,0
 2011-01-03,Daviess County,Owensboro Catholic,54,53,0,   ,0
 2011-01-03,Dayton,Heritage Academy,70,39,1,   ,0
@@ -1613,16 +1613,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-03,Johnson Central,Magoffin County,73,50,0,   ,0
 2011-01-03,Ludlow,Silver Grove,76,43,1,   ,0
 2011-01-03,Lyon County,Caldwell County,64,42,1,   ,0
-2011-01-03,Newport Central Catholic,North College Hill. OH,55,47,0,   ,0
+2011-01-03,Newport Central Catholic,Out of State,55,47,0,   ,0
 2011-01-03,Pulaski County,Somerset,85,67,0,   ,0
-2011-01-03,Rose Hill Christian,Dawson Bryant (Coal Grove). OH,48,42,1,   ,0
-2011-01-03,South Oldham,Australian National Team,79,41,1,   ,0
+2011-01-03,Rose Hill Christian,Out of State,48,42,1,   ,0
+2011-01-03,South Oldham,Out of State,79,41,1,   ,0
 2011-01-03,Union County,Dawson Springs,79,55,1,   ,0
 2011-01-03,Villa Madonna,Bellevue,59,36,0,   ,0
-2011-01-03,Wayne County,Australian Travel Team,77,59,1,   ,0
-2011-01-04,,Meade County,57,48,2,   ,0
+2011-01-03,Wayne County,Out of State,77,59,1,   ,0
+2011-01-04,Out of State,Meade County,57,48,2,   ,0
 2011-01-04,Adair County,Green County,45,39,0,   ,0
-2011-01-04,Ashland Blazer,Spring Valley. WV,74,44,0,   ,0
+2011-01-04,Ashland Blazer,Out of State,74,44,0,   ,0
 2011-01-04,Ballard,Atherton,88,62,1,   ,0
 2011-01-04,Barbourville,Pineville,63,59,1,   ,0
 2011-01-04,Bardstown,Washington County,95,59,0,   ,0
@@ -1645,7 +1645,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-04,Corbin,Middlesboro,71,40,1,   ,0
 2011-01-04,Covington Catholic,Highlands,61,48,0,   ,0
 2011-01-04,Deming,St. Patrick,80,56,1,   ,0
-2011-01-04,Dixie Heights,Australian Travel Team,73,58,1,   ,0
+2011-01-04,Dixie Heights,Out of State,73,58,1,   ,0
 2011-01-04,Doss,Valley,59,54,1,   ,0
 2011-01-04,East Carter,Russell,46,43,0,   ,0
 2011-01-04,East Jessamine,Burgin,81,46,0,   ,0
@@ -1668,11 +1668,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-04,Hopkinsville,Madisonville-North Hopkins,64,60,1,   ,0
 2011-01-04,Iroquois,Bullitt East,72,70,1,  (overtime) ,1
 2011-01-04,Kentucky Country Day,Whitefield Academy,67,49,1,   ,0
-2011-01-04,Kentucky School f/t Deaf,Danville Christian Academy (KSD only),49,23,1,   ,0
+2011-01-04,Kentucky School f/t Deaf,Out of State,49,23,1,   ,0
 2011-01-04,Knox Central,Lynn Camp,54,49,1,   ,0
 2011-01-04,LaRue County,Campbellsville,63,58,1,   ,0
 2011-01-04,Lafayette,Paul Laurence Dunbar,63,50,0,   ,0
-2011-01-04,Lake County. TN,Fulton City,83,59,1,   ,0
+2011-01-04,Out of State,Fulton City,83,59,1,   ,0
 2011-01-04,Lee County,Estill County,38,35,1,   ,0
 2011-01-04,Leslie County,Jackson City,60,32,0,   ,0
 2011-01-04,Letcher County Central,Shelby Valley,54,46,2,   ,0
@@ -1686,7 +1686,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-04,Marion County,Nelson County,52,47,1,   ,0
 2011-01-04,Marshall County,Lone Oak,69,39,1,   ,0
 2011-01-04,Mason County,Campbell County,59,57,0,   ,0
-2011-01-04,McCreary Central,Australian Travel Team,64,49,1,   ,0
+2011-01-04,McCreary Central,Out of State,64,49,1,   ,0
 2011-01-04,Mercer County,West Jessamine,73,58,0,   ,0
 2011-01-04,Metcalfe County,Cumberland County,72,49,1,   ,0
 2011-01-04,Model,Nicholas County,48,26,1,   ,0
@@ -1711,7 +1711,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-04,Scott County,Henry Clay,75,62,1,   ,0
 2011-01-04,Seneca,Butler,62,53,0,   ,0
 2011-01-04,Somerset,Rockcastle County,59,49,0,   ,0
-2011-01-04,South Fulton. TN,Hickman County,60,33,1,   ,0
+2011-01-04,Out of State,Hickman County,60,33,1,   ,0
 2011-01-04,South Laurel,Harlan,67,61,0,  (overtime) ,1
 2011-01-04,South Warren,Todd County Central,58,36,0,   ,0
 2011-01-04,Southwestern,Monticello,83,42,0,   ,0
@@ -1730,11 +1730,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-04,Wolfe County,Menifee County,73,69,1,   ,0
 2011-01-05,Central,St. Francis,98,16,0,   ,0
 2011-01-05,Clay County,Knott County Central,61,44,2,   ,0
-2011-01-05,Conner,Australian National Team,59,40,1,   ,0
+2011-01-05,Conner,Out of State,59,40,1,   ,0
 2011-01-05,Cooper,St. Henry,59,37,1,   ,0
-2011-01-05,East Ridge,Williamson. WV,70,51,0,   ,0
+2011-01-05,East Ridge,Out of State,70,51,0,   ,0
 2011-01-05,Fern Creek,DuPont Manual,63,46,0,   ,0
-2011-01-05,North Bullitt,Australian Travel Team,58,49,1,   ,0
+2011-01-05,North Bullitt,Out of State,58,49,1,   ,0
 2011-01-05,North Oldham,Kentucky Country Day,50,32,1,   ,0
 2011-01-05,Perry County Central,Betsy Layne,53,42,1,   ,0
 2011-01-05,Trinity (Louisville),Newport Central Catholic,56,42,1,   ,0
@@ -1749,16 +1749,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-06,Frankfort,Williamstown,70,50,0,   ,0
 2011-01-06,Hopkins County Central,McLean County,65,64,1,   ,0
 2011-01-06,Jackson County,Riverside Christian,75,35,1,   ,0
-2011-01-06,Kentucky School f/t Deaf,Michigan School for the Deaf,49,25,2,   ,0
-2011-01-06,Lee. VA,Harlan,53,44,1,   ,0
+2011-01-06,Kentucky School f/t Deaf,Out of State,49,25,2,   ,0
+2011-01-06,Out of State,Harlan,53,44,1,   ,0
 2011-01-06,Lexington Catholic,Lafayette,81,58,1,   ,0
 2011-01-06,Lloyd Memorial,Augusta,76,66,0,   ,0
 2011-01-06,Ludlow,Bellevue,50,41,1,   ,0
 2011-01-06,Madisonville-North Hopkins,Muhlenberg County,66,60,1,   ,0
 2011-01-06,Newport Central Catholic,Newport,73,36,1,   ,0
 2011-01-06,Owensboro,Apollo,75,66,1,   ,0
-2011-01-06,Pleasure Ridge Park,Australian Travel Team,80,36,1,   ,0
-2011-01-06,SCPA. OH,Covington Latin,60,42,1,   ,0
+2011-01-06,Pleasure Ridge Park,Out of State,80,36,1,   ,0
+2011-01-06,Out of State,Covington Latin,60,42,1,   ,0
 2011-01-06,Silver Grove,Heritage Academy,66,55,0,   ,0
 2011-01-06,Spencer County,Louisville Collegiate,65,57,1,   ,0
 2011-01-06,Trigg County,Christian Fellowship,71,41,1,   ,0
@@ -1811,13 +1811,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-07,Holmes,Holy Cross (Covington),63,54,1,   ,0
 2011-01-07,Iroquois,North Oldham,79,65,1,   ,0
 2011-01-07,John Hardin,Meade County,67,41,0,   ,0
-2011-01-07,Kentucky School f/t Deaf,Ohio School for the Deaf,40,39,2,   ,0
+2011-01-07,Kentucky School f/t Deaf,Out of State,40,39,2,   ,0
 2011-01-07,Knox Central,Pineville,64,54,1,   ,0
 2011-01-07,LaRue County,Green County,59,44,1,   ,0
 2011-01-07,Lincoln County,Garrard County,51,22,1,   ,0
 2011-01-07,Livingston Central,Crittenden County,50,44,0,   ,0
 2011-01-07,Madison Central,Woodford County,68,59,0,   ,0
-2011-01-07,Marion County,Australian Travel Team,76,54,1,   ,0
+2011-01-07,Marion County,Out of State,76,54,1,   ,0
 2011-01-07,Marshall County,Calloway County,71,64,1,   ,0
 2011-01-07,Mason County,Paul Laurence Dunbar,78,65,0,   ,0
 2011-01-07,Model,Berea,59,55,0,   ,0
@@ -1864,35 +1864,35 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-08,Collins,Madisonville-North Hopkins,70,57,1,   ,0
 2011-01-08,Cooper,Bishop Brossart,43,40,1,   ,0
 2011-01-08,Covington Catholic,Beechwood,79,55,0,   ,0
-2011-01-08,Eastern,Trotwood Madison. OH,75,55,2,   ,0
+2011-01-08,Eastern,Out of State,75,55,2,   ,0
 2011-01-08,Elizabethtown,Daviess County,86,85,0,   ,0
 2011-01-08,Evangel Christian,Portland Christian,71,62,0,   ,0
 2011-01-08,Fairdale,North Bullitt,63,42,1,   ,0
 2011-01-08,Fern Creek,St. Xavier,47,44,1,   ,0
 2011-01-08,Fleming County,Raceland,73,68,0,   ,0
 2011-01-08,Frankfort,Danville,68,66,1,   ,0
-2011-01-08,Fulton County,Joppa. IL,83,48,1,   ,0
+2011-01-08,Fulton County,Out of State,83,48,1,   ,0
 2011-01-08,George Rogers Clark,Scott County,79,62,1,   ,0
 2011-01-08,Grayson County,Russellville,84,58,2,   ,0
 2011-01-08,Harrison County,Paris,70,68,0,   ,0
-2011-01-08,Jeffersontown,Roger Bacon. OH,52,45,2,   ,0
+2011-01-08,Jeffersontown,Out of State,52,45,2,   ,0
 2011-01-08,Kentucky Country Day,Trimble County,74,58,0,   ,0
-2011-01-08,Kentucky School f/t Deaf,Georgia School for the Deaf,55,35,2,   ,0
+2011-01-08,Kentucky School f/t Deaf,Out of State,55,35,2,   ,0
 2011-01-08,Lincoln County,Wolfe County,75,46,2,   ,0
 2011-01-08,Lynn Camp,Oneida Baptist Institute,50,44,0,   ,0
 2011-01-08,Marshall County,Community Christian (Paducah),70,40,0,   ,0
 2011-01-08,Mason County,Deming,71,57,1,   ,0
-2011-01-08,Meade County,Australian Travel Team,69,48,1,   ,0
+2011-01-08,Meade County,Out of State,69,48,1,   ,0
 2011-01-08,Monroe County,Allen County-Scottsville,49,48,0,   ,0
 2011-01-08,North Hardin,Fort Knox,86,61,0,   ,0
-2011-01-08,Northwest (Clarksville). TN,Fort Campbell,90,54,0,   ,0
+2011-01-08,Out of State,Fort Campbell,90,54,0,   ,0
 2011-01-08,Ohio County,McLean County,48,35,1,   ,0
 2011-01-08,Paducah Tilghman,Graves County,90,81,0,   ,0
 2011-01-08,Red Bird,Brown,61,59,1,   ,0
 2011-01-08,South Laurel,North Laurel,64,61,1,   ,0
 2011-01-08,Tates Creek,Lexington Christian,56,34,0,   ,0
-2011-01-08,Tell City. IN,Hancock County,44,35,1,   ,0
-2011-01-08,Tolsia.WV,Lawrence County,67,27,1,   ,0
+2011-01-08,Out of State,Hancock County,44,35,1,   ,0
+2011-01-08,Out of State,Lawrence County,67,27,1,   ,0
 2011-01-08,Walton-Verona,Grant County,62,51,1,   ,0
 2011-01-08,Wayne County,Monticello,95,48,0,   ,0
 2011-01-08,Webster County,Hopkins County Central,66,45,1,   ,0
@@ -1948,7 +1948,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-12,Holmes,Covington Catholic,64,60,0,   ,0
 2011-01-12,Ryle,St. Henry,56,33,1,   ,0
 2011-01-12,Scott,Dixie Heights,62,60,1,  (overtime) ,1
-2011-01-12,Villa Madonna,Cincinnati St. Bernard. OH,51,49,0,   ,0
+2011-01-12,Villa Madonna,Out of State,51,49,0,   ,0
 2011-01-13,DuPont Manual,Male,60,52,2, Louisville Invitational Tournament  ,0
 2011-01-13,Anderson County,Eminence,79,53,0,   ,0
 2011-01-13,Apollo,Breckinridge County,68,58,0,   ,0
@@ -1959,7 +1959,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-13,Beth Haven,Evangel Christian,70,53,0,   ,0
 2011-01-13,Bourbon County,Paris,65,58,0,   ,0
 2011-01-13,Bullitt East,Western,69,62,2,   ,0
-2011-01-13,Campbell County,Conner,69,67,0,  (triple overtime) ,0
+2011-01-13,Campbell County,Conner,69,67,0,  (triple overtime) ,1
 2011-01-13,Community Christian (Paducah),Caldwell County,62,50,0,   ,0
 2011-01-13,Cooper,Carroll County,45,38,1,   ,0
 2011-01-13,Cumberland County,Warren East,55,48,1,   ,0
@@ -1972,7 +1972,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-13,Holy Cross (Louisville),Louisville Collegiate,50,49,0,   ,0
 2011-01-13,John Hardin,Central Hardin,51,48,1,   ,0
 2011-01-13,Kentucky Country Day,St. Francis,94,42,1,   ,0
-2011-01-13,Kentucky School f/t Deaf,Somerset Christian Academy (KSD only),61,48,1,   ,0
+2011-01-13,Kentucky School f/t Deaf,Out of State,61,48,1,   ,0
 2011-01-13,Lexington Christian,Lafayette,77,52,0,   ,0
 2011-01-13,Ludlow,Dayton,60,51,1,   ,0
 2011-01-13,McCreary Central,Monticello,73,44,1,   ,0
@@ -2018,7 +2018,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-14,Clay County,North Laurel,62,51,0,   ,0
 2011-01-14,Clinton County,Russell County,57,55,1,  (overtime) ,1
 2011-01-14,Collins,Shelby County,76,57,0,   ,0
-2011-01-14,Community Christian (Paducah),,71,39,1,   ,0
+2011-01-14,Community Christian (Paducah),Out of State,71,39,1,   ,0
 2011-01-14,Corbin,Whitley County,56,48,1,   ,0
 2011-01-14,Covington Latin,Walden,64,40,0,   ,0
 2011-01-14,Danville,Garrard County,52,43,1,   ,0
@@ -2076,7 +2076,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-14,Tates Creek,Lexington Catholic,54,49,0,   ,0
 2011-01-14,Taylor County,North Hardin,64,52,1,   ,0
 2011-01-14,Trigg County,Livingston Central,70,68,0,  (overtime) ,1
-2011-01-14,Trimble County,Christian Academy Indiana. IN,65,61,0,   ,0
+2011-01-14,Trimble County,Out of State,65,61,0,   ,0
 2011-01-14,Union County,Webster County,48,33,1,   ,0
 2011-01-14,Wayne County,Knox Central,54,43,0,   ,0
 2011-01-14,Wolfe County,Estill County,43,41,1,   ,0
@@ -2084,10 +2084,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-15,Elliott County,Fairview,77,74,1," 16th Region All ""A"" Classic  ",0
 2011-01-15,Menifee County,Rose Hill Christian,75,63,1," 16th Region All ""A"" Classic  ",0
 2011-01-15,West Carter,Bath County,75,57,0," 16th Region All ""A"" Classic  ",0
-2011-01-15,Carlisle County,Community Christian,78,49,2," 1st Region All ""A"" Classic  ",0
-2011-01-15,Belfry,Spring Valley. WV,66,54,2, KY/WV Shootout (overtime) ,1
-2011-01-15,East Ridge,Tolsia.WV,66,48,2, KY/WV Shootout  ,0
-2011-01-15,Ballard,Trinity,69,48,2, Louisville Invitational Tournament  ,0
+2011-01-15,Carlisle County,Community Christian (Paducah),78,49,2," 1st Region All ""A"" Classic  ",0
+2011-01-15,Belfry,Out of State,66,54,2, KY/WV Shootout (overtime) ,1
+2011-01-15,East Ridge,Out of State,66,48,2, KY/WV Shootout  ,0
+2011-01-15,Ballard,Trinity (Louisville),69,48,2, Louisville Invitational Tournament  ,0
 2011-01-15,Eastern,Bullitt East,88,52,2, Louisville Invitational Tournament  ,0
 2011-01-15,Eastern,Ballard,71,63,2, Louisville Invitational Tournament  ,0
 2011-01-15,Bryan Station,Ryle,54,47,2, S.T. Roach Classic  ,0
@@ -2103,7 +2103,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-15,Crittenden County,Dawson Springs,79,33,1,   ,0
 2011-01-15,Dixie Heights,Gallatin County,68,64,2,   ,0
 2011-01-15,East Jessamine,Henry County,53,51,2,   ,0
-2011-01-15,Edmonson County,Trinity,73,42,2,   ,0
+2011-01-15,Edmonson County,Trinity (Whitesville),73,42,2,   ,0
 2011-01-15,Eminence,Covington Latin,75,56,1,   ,0
 2011-01-15,Frankfort,Lewis County,67,56,2,   ,0
 2011-01-15,Fulton City,Reidland,48,47,2,   ,0
@@ -2118,12 +2118,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-15,Holmes,West Jessamine,73,63,0,   ,0
 2011-01-15,Hopkinsville,Union County,64,58,1,   ,0
 2011-01-15,Jackson County,Allen Central,69,54,1,   ,0
-2011-01-15,John I. Burton. VA,Jenkins,44,39,1,   ,0
+2011-01-15,Out of State,Jenkins,44,39,1,   ,0
 2011-01-15,Johnson Central,Prestonsburg,79,44,1,   ,0
 2011-01-15,Knott County Central,Cordia,61,41,0,   ,0
 2011-01-15,Lafayette,Mason County,62,60,0,  (overtime) ,1
-2011-01-15,Letcher County Central,Powell Valley. VA,66,57,1,   ,0
-2011-01-15,Matewan. WV,Phelps,67,65,2,   ,0
+2011-01-15,Letcher County Central,Out of State,66,57,1,   ,0
+2011-01-15,Out of State,Phelps,67,65,2,   ,0
 2011-01-15,Mercer County,Lexington Christian,67,62,1,   ,0
 2011-01-15,Monroe County,Logan County,66,54,1,   ,0
 2011-01-15,Murray,Hickman County,51,41,2,   ,0
@@ -2139,7 +2139,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-15,Webster County,Fort Campbell,78,33,0,   ,0
 2011-01-17,West Carter,Elliott County,56,49,2," 16th Region All ""A"" Classic  ",0
 2011-01-17,Bardstown,Bethlehem,64,53,1," 5th Region All ""A"" Classic  ",0
-2011-01-17,Washington County,Fort Knox,73,71,1," 5th Region All ""A"" Classic (double overtime) ",0
+2011-01-17,Washington County,Fort Knox,73,71,1," 5th Region All ""A"" Classic (double overtime) ",1
 2011-01-17,Holy Cross (Covington),Dayton,81,39,2," 9th Region All ""A"" Classic  ",0
 2011-01-17,Lloyd Memorial,Heritage Academy,87,26,2," 9th Region All ""A"" Classic  ",0
 2011-01-17,Newport,Villa Madonna,83,57,2," 9th Region All ""A"" Classic  ",0
@@ -2149,19 +2149,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-17,Campbellsville,Green County,58,49,2,   ,0
 2011-01-17,Corbin,South Laurel,65,56,1,   ,0
 2011-01-17,Deming,Silver Grove,90,45,2,   ,0
-2011-01-17,Estill County,Bourbon County,102,99,1,  (six overtimes) ,0
+2011-01-17,Estill County,Bourbon County,102,99,1,  (six overtimes) ,1
 2011-01-17,Harlan County,Lynn Camp,62,60,1,   ,0
-2011-01-17,Jo Byrns. TN,Fort Campbell,71,47,1,   ,0
+2011-01-17,Out of State,Fort Campbell,71,47,1,   ,0
 2011-01-17,Metcalfe County,Todd County Central,69,52,1,   ,0
 2011-01-17,Monroe County,Cumberland County,65,53,1,   ,0
 2011-01-17,Monticello,Burgin,63,59,2,   ,0
 2011-01-17,Owen County,Grant County,61,49,1,   ,0
 2011-01-17,Owsley County,Riverside Christian,93,41,0,   ,0
-2011-01-17,Providence. IN,Holy Cross (Louisville),59,55,0,  (overtime) ,1
+2011-01-17,Out of State,Holy Cross (Louisville),59,55,0,  (overtime) ,1
 2011-01-17,Pulaski County,Lincoln County,73,65,1,   ,0
 2011-01-17,Russellville,Clinton County,72,53,1,   ,0
 2011-01-17,Wayne County,McCreary Central,54,52,1,   ,0
-2011-01-17,Westview. TN,Calloway County,61,47,2,   ,0
+2011-01-17,Out of State,Calloway County,61,47,2,   ,0
 2011-01-18,Menifee County,Raceland,43,40,1," 16th Region All ""A"" Classic  ",0
 2011-01-18,Carlisle County,Fulton County,60,58,2," 1st Region All ""A"" Classic  ",0
 2011-01-18,DeSales,Beth Haven,69,43,1," 6th Region All ""A"" Classic  ",0
@@ -2184,7 +2184,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-18,Christian County,Bowling Green,95,66,1,   ,0
 2011-01-18,Cooper,Ryle,45,42,1,   ,0
 2011-01-18,Corbin,North Laurel,55,45,1,   ,0
-2011-01-18,Cumberland Gap. TN,Middlesboro,71,44,0,   ,0
+2011-01-18,Out of State,Middlesboro,71,44,0,   ,0
 2011-01-18,Danville,Somerset,66,34,1,   ,0
 2011-01-18,Daviess County,Henderson County,58,54,1,   ,0
 2011-01-18,Doss,Shawnee,78,49,1,   ,0
@@ -2197,7 +2197,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-18,Fleming County,East Carter,76,69,1,   ,0
 2011-01-18,Frankfort,Model,70,47,1,   ,0
 2011-01-18,Greenwood,Franklin-Simpson,67,55,1,   ,0
-2011-01-18,Highlands,Shroder. OH,50,48,1,   ,0
+2011-01-18,Highlands,Out of State,50,48,1,   ,0
 2011-01-18,Hopkinsville,Lone Oak,63,48,0,   ,0
 2011-01-18,Iroquois,Fairdale,58,52,0,   ,0
 2011-01-18,Jenkins,Riverside Christian,85,28,1,   ,0
@@ -2223,7 +2223,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-18,Oldham County,Henry County,57,50,0,   ,0
 2011-01-18,Owensboro,Grayson County,89,85,0,  (overtime) ,1
 2011-01-18,Owensboro Catholic,Butler County,64,44,2,   ,0
-2011-01-18,Paducah Tilghman,Vienna. IL,60,32,2,   ,0
+2011-01-18,Paducah Tilghman,Out of State,60,32,2,   ,0
 2011-01-18,Pendleton County,St. Patrick,65,49,0,   ,0
 2011-01-18,Perry County Central,Clay County,45,40,1,   ,0
 2011-01-18,Piarist School,June Buchanan,65,62,0,   ,0
@@ -2261,7 +2261,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-19,Hopkinsville,Fort Campbell,93,43,0,   ,0
 2011-01-19,Letcher County Central,Knott County Central,55,45,1,   ,0
 2011-01-19,Lexington Christian,Sayre,51,44,1,   ,0
-2011-01-19,Male,Jeffersonville. IN,65,56,1,   ,0
+2011-01-19,Male,Out of State,65,56,1,   ,0
 2011-01-19,Mayfield,St. Mary,65,56,2,   ,0
 2011-01-19,Mercer County,East Jessamine,87,77,0,   ,0
 2011-01-19,Moore,Shawnee,72,33,1,   ,0
@@ -2280,7 +2280,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-20,Paris,St. Patrick,66,50,2,   ,0
 2011-01-20,Shelby Valley,Phelps,75,52,1,   ,0
 2011-01-20,Southwestern,McCreary Central,48,43,0,   ,0
-2011-01-20,Tolsia.WV,Lawrence County,72,48,0,   ,0
+2011-01-20,Out of State,Lawrence County,72,48,0,   ,0
 2011-01-20,Williamsburg,Lynn Camp,68,64,1,   ,0
 2011-01-21,Bishop Brossart,Augusta,38,36,2," 10th Region All ""A"" Classic  ",0
 2011-01-21,Frankfort,Berea,66,42,0," 11th Region All ""A"" Classic  ",0
@@ -2289,7 +2289,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-21,Bardstown,Caverna,90,66,0," 5th Region All ""A"" Classic  ",0
 2011-01-21,Holy Cross (Covington),Lloyd Memorial,84,55,2," 9th Region All ""A"" Classic  ",0
 2011-01-21,Newport Central Catholic,Newport,68,30,1," 9th Region All ""A"" Classic  ",0
-2011-01-21,Paducah Tilghman,Massac County. IL,70,68,2, Superman Classic (overtime) ,1
+2011-01-21,Paducah Tilghman,Out of State,70,68,2, Superman Classic (overtime) ,1
 2011-01-21,Christian County,Boyle County,75,59,2, Toyota Classic  ,0
 2011-01-21,Dixie Heights,Paul Laurence Dunbar,81,67,2, Toyota Classic  ,0
 2011-01-21,George Rogers Clark,Covington Catholic,73,46,2, Toyota Classic  ,0
@@ -2309,18 +2309,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-21,Jenkins,Red Bird,74,45,0,   ,0
 2011-01-21,Lewis County,Raceland,66,62,0,   ,0
 2011-01-21,Lexington Catholic,Clay County,73,53,1,   ,0
-2011-01-21,Marshall County,Arnold (Panama Beach). FL,52,23,1,   ,0
+2011-01-21,Marshall County,Out of State,52,23,1,   ,0
 2011-01-21,Mercer County,West Jessamine,85,79,1,   ,0
-2011-01-21,Pikeville,Williamson. WV,54,40,1,   ,0
+2011-01-21,Pikeville,Out of State,54,40,1,   ,0
 2011-01-21,Pineville,Middlesboro,45,43,1,   ,0
 2011-01-21,Prestonsburg,Allen Central,78,65,0,   ,0
 2011-01-21,Pulaski County,Madison Southern,70,46,1,   ,0
 2011-01-21,Rockcastle County,Casey County,66,62,1,   ,0
 2011-01-21,Rowan County,Russell,58,50,0,  (overtime) ,1
 2011-01-21,Russellville,Glasgow,70,67,0,   ,0
-2011-01-21,Ryle,Conner,58,54,0,  (double overtime) ,0
+2011-01-21,Ryle,Conner,58,54,0,  (double overtime) ,1
 2011-01-21,Simon Kenton,Grant County,67,55,0,   ,0
-2011-01-21,Trinity (Louisville),St. Xavier,60,57,2,  (double overtime) ,0
+2011-01-21,Trinity (Louisville),St. Xavier,60,57,2,  (double overtime) ,1
 2011-01-21,Warren Central,Greenwood,60,42,1,   ,0
 2011-01-21,Western Hills,Anderson County,60,56,0,   ,0
 2011-01-21,Whitley County,Jackson County,76,66,0,   ,0
@@ -2340,7 +2340,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-22,Whitefield Academy,St. Francis,65,27,2," 7th Region All ""A"" Classic  ",0
 2011-01-22,Newport Central Catholic,Holy Cross (Covington),76,47,1," 9th Region All ""A"" Classic  ",0
 2011-01-22,North Hardin,Danville,73,62,2, Al Prewitt Classic  ,0
-2011-01-22,Paducah Tilghman,Carbondale. IL,75,47,2, Superman Classic  ,0
+2011-01-22,Paducah Tilghman,Out of State,75,47,2, Superman Classic  ,0
 2011-01-22,Covington Catholic,Boyle County,75,50,2, Toyota Classic  ,0
 2011-01-22,Dixie Heights,Covington Catholic,62,41,2, Toyota Classic  ,0
 2011-01-22,George Rogers Clark,Christian County,71,57,2, Toyota Classic  ,0
@@ -2354,7 +2354,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-22,Bourbon County,Garrard County,66,42,0,   ,0
 2011-01-22,Breathitt County,Cordia,86,72,0,   ,0
 2011-01-22,Burgin,Riverside Christian,83,29,2,   ,0
-2011-01-22,Calloway County,Vienna. IL,60,27,2,   ,0
+2011-01-22,Calloway County,Out of State,60,27,2,   ,0
 2011-01-22,Calvary Christian,Heritage Academy,74,20,0,   ,0
 2011-01-22,Clinton County,Cumberland County,75,35,0,   ,0
 2011-01-22,Daviess County,Apollo,64,61,0,   ,0
@@ -2372,28 +2372,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-22,Leslie County,Jenkins,65,54,2,   ,0
 2011-01-22,Lexington Catholic,McCreary Central,76,56,0,   ,0
 2011-01-22,Madison Central,Elliott County,69,60,2,   ,0
-2011-01-22,Madisonville-North Hopkins,Arnold,66,60,2,   ,0
-2011-01-22,Marshall County,Harding Academy. AR,61,49,1,   ,0
+2011-01-22,Madisonville-North Hopkins,Out of State,66,60,2,   ,0
+2011-01-22,Marshall County,Out of State,61,49,1,   ,0
 2011-01-22,Mason County,John Hardin,60,49,2,   ,0
 2011-01-22,Muhlenberg County,Meade County,63,48,0,   ,0
 2011-01-22,Nelson County,Adair County,44,39,0,   ,0
 2011-01-22,North Laurel,Shelby County,51,49,2,   ,0
 2011-01-22,Oldham County,Collins,60,56,1,   ,0
-2011-01-22,Perry County Central,Winfield. WV,51,40,1,   ,0
+2011-01-22,Perry County Central,Out of State,51,40,1,   ,0
 2011-01-22,Pike County Central,Phelps,72,53,0,   ,0
 2011-01-22,Pikeville,East Ridge,80,67,0,   ,0
 2011-01-22,Portland Christian,Cloverport,60,46,1,   ,0
-2011-01-22,Princeton. OH,Holmes,72,52,1,   ,0
+2011-01-22,Out of State,Holmes,72,52,1,   ,0
 2011-01-22,Pulaski County,Wayne County,57,56,0,   ,0
 2011-01-22,Rose Hill Christian,Morgan County,77,74,1,   ,0
 2011-01-22,Rowan County,Montgomery County,47,39,0,   ,0
-2011-01-22,Scott. TN,Bell County,54,51,1,   ,0
+2011-01-22,Out of State,Bell County,54,51,1,   ,0
 2011-01-22,South Floyd,Piarist School,99,51,1,   ,0
 2011-01-22,Tates Creek,Jeffersontown,57,44,2,   ,0
 2011-01-22,University Heights,Caldwell County,71,37,2,   ,0
 2011-01-22,West Carter,East Carter,71,59,1,   ,0
 2011-01-22,Western Hills,Model,67,41,0,   ,0
-2011-01-22,Woodford County,Pendleton County,74,72,1,  (triple overtime) ,0
+2011-01-22,Woodford County,Pendleton County,74,72,1,  (triple overtime) ,1
 2011-01-23,Bishop Brossart,Deming,59,56,2," 10th Region All ""A"" Classic (championship) ",0
 2011-01-23,Christian Academy-Louisville,Louisville Collegiate,61,47,0," 7th Region All ""A"" Classic (championship) ",0
 2011-01-23,DeSales,Holy Cross (Louisville),74,68,1,  (championship) ,0
@@ -2464,13 +2464,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-25,Eastern,Seneca,70,54,0,   ,0
 2011-01-25,Estill County,Breathitt County,52,50,1,   ,0
 2011-01-25,Fairdale,Valley,76,56,1,   ,0
-2011-01-25,Franklin-Simpson,White House. TN,53,51,1,   ,0
+2011-01-25,Franklin-Simpson,Out of State,53,51,1,   ,0
 2011-01-25,George Rogers Clark,Rowan County,54,52,1,   ,0
 2011-01-25,Greenup County,Fairview,52,41,0,   ,0
 2011-01-25,Hancock County,Cloverport,53,41,2,   ,0
 2011-01-25,Hazard,Cordia,75,41,1,   ,0
 2011-01-25,Heath,Graves County,74,64,0,   ,0
-2011-01-25,Henderson County,Evansville North. IN,57,53,1,   ,0
+2011-01-25,Henderson County,Out of State,57,53,1,   ,0
 2011-01-25,Henry Clay,Lafayette,66,60,1,   ,0
 2011-01-25,Holy Cross (Louisville),North Bullitt,72,60,0,   ,0
 2011-01-25,Hopkins County Central,Dawson Springs,69,60,1,   ,0
@@ -2544,7 +2544,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-27,Holmes,Cooper,58,51,1,   ,0
 2011-01-27,Holy Cross (Louisville),Caverna,85,73,0,  (overtime) ,1
 2011-01-27,Iroquois,Atherton,80,68,0,   ,0
-2011-01-27,J Frank White Academy. TN,Red Bird,59,45,1,   ,0
+2011-01-27,Out of State,Red Bird,59,45,1,   ,0
 2011-01-27,John Hardin,Fort Knox,88,50,0,   ,0
 2011-01-27,June Buchanan,Riverside Christian,84,55,0,   ,0
 2011-01-27,Lewis County,Boyd County,54,46,0,   ,0
@@ -2552,7 +2552,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-27,Livingston Central,Caldwell County,61,52,0,   ,0
 2011-01-27,Ludlow,Calvary Christian,62,55,1,   ,0
 2011-01-27,Magoffin County,Morgan County,57,48,0,   ,0
-2011-01-27,Mississippi School for the Deaf. MS,Kentucky School f/t Deaf,48,45,2,   ,0
+2011-01-27,Out of State,Kentucky School f/t Deaf,48,45,2,   ,0
 2011-01-27,Model,Berea,50,43,1,   ,0
 2011-01-27,Montgomery County,Bourbon County,84,53,1,   ,0
 2011-01-27,North Hardin,Central Hardin,69,63,1,   ,0
@@ -2567,7 +2567,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-28,Barbourville,Harlan,44,35,2," 13th Region All ""A"" Classic  ",0
 2011-01-28,Buckhorn,Jackson City,67,38,2," 14th Region All ""A"" Classic  ",0
 2011-01-28,Hazard,Leslie County,50,37,2," 14th Region All ""A"" Classic  ",0
-2011-01-28,South Carolina School for the Deaf,Kentucky School f/t Deaf,42,35,1, 59th Annual Boys Deaf  Mason-Dixon Tournament  ,0
+2011-01-28,Out of State,Kentucky School f/t Deaf,42,35,1, 59th Annual Boys Deaf  Mason-Dixon Tournament  ,0
 2011-01-28,Atherton,Valley,87,58,0,   ,0
 2011-01-28,Betsy Layne,Prestonsburg,52,42,0,   ,0
 2011-01-28,Bishop Brossart,Newport Central Catholic,49,42,1,  (overtime) ,1
@@ -2592,7 +2592,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-28,Eminence,Trimble County,79,72,1,   ,0
 2011-01-28,Estill County,Somerset,59,50,0,   ,0
 2011-01-28,Evangel Christian,Portland Christian,84,81,1,  (overtime) ,1
-2011-01-28,Evansville Bosse IN,Owensboro,98,82,0,   ,0
+2011-01-28,Out of State,Owensboro,98,82,0,   ,0
 2011-01-28,Fern Creek,Iroquois,72,50,1,   ,0
 2011-01-28,Fleming County,Bath County,84,68,0,   ,0
 2011-01-28,Fort Knox,Washington County,77,50,1,   ,0
@@ -2629,7 +2629,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-28,Muhlenberg County,Apollo,69,51,1,   ,0
 2011-01-28,North Laurel,Shelby Valley,59,40,1,   ,0
 2011-01-28,North Oldham,Henry County,44,32,1,   ,0
-2011-01-28,Ohio County,Tell City. IN,57,46,1,   ,0
+2011-01-28,Ohio County,Out of State,57,46,1,   ,0
 2011-01-28,Oldham County,Shelby County,70,52,0,   ,0
 2011-01-28,Owen County,Carroll County,61,32,0,   ,0
 2011-01-28,Paducah Tilghman,Marshall County,69,68,1,   ,0
@@ -2650,7 +2650,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-28,St. Patrick,Augusta,82,69,0,   ,0
 2011-01-28,St. Xavier,Waggener,58,32,1,   ,0
 2011-01-28,Tates Creek,Henry Clay,53,42,0,   ,0
-2011-01-28,Tug Valley. WV,Ashland Blazer,92,79,1,   ,0
+2011-01-28,Out of State,Ashland Blazer,92,79,1,   ,0
 2011-01-28,Villa Madonna,Silver Grove,67,54,1,   ,0
 2011-01-28,Walden,Riverside Christian,52,44,2,   ,0
 2011-01-28,Walton-Verona,Williamstown,67,44,0,   ,0
@@ -2662,21 +2662,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-29,Edmonson County,Owensboro Catholic,56,48,2," 3rd Region All ""A"" Classic  ",0
 2011-01-29,Berea,Paris,70,52,2, Bluegrass Conference Tournament  ,0
 2011-01-29,Sayre,Model,78,68,0, Bluegrass Conference Tournament  ,0
-2011-01-29,Moore,Gary Roosevelt. IN,77,61,2, Panther Shootout  ,0
-2011-01-29,Pleasure Ridge Park,Chicago Urban Prep-East Garfield Park. I,92,28,1, Panther Shootout  ,0
+2011-01-29,Moore,Out of State,77,61,2, Panther Shootout  ,0
+2011-01-29,Pleasure Ridge Park,Out of State,92,28,1, Panther Shootout  ,0
 2011-01-29,Bath County,Wolfe County,55,50,0, Shriners Classic  ,0
 2011-01-29,Harlan County,Lee County,50,36,2, Shriners Classic  ,0
 2011-01-29,Adair County,Whitefield Academy,56,33,1,   ,0
 2011-01-29,Ashland Blazer,Fairview,75,64,1,   ,0
-2011-01-29,Belfry,Matewan. WV,75,53,1,   ,0
+2011-01-29,Belfry,Out of State,75,53,1,   ,0
 2011-01-29,Bell County,Middlesboro,67,45,0,   ,0
 2011-01-29,Beth Haven,Trimble County,57,48,0,   ,0
 2011-01-29,Betsy Layne,Breathitt County,63,50,1,   ,0
 2011-01-29,Caldwell County,Crittenden County,58,53,0,   ,0
 2011-01-29,Calloway County,Community Christian (Paducah),57,41,1,   ,0
 2011-01-29,Carroll County,Eminence,48,46,1,   ,0
-2011-01-29,Chicago Morgan Park Academy. IL,Western,75,62,1,   ,0
-2011-01-29,Christian County,West Creek. TN,71,62,1,   ,0
+2011-01-29,Out of State,Western,75,62,1,   ,0
+2011-01-29,Christian County,Out of State,71,62,1,   ,0
 2011-01-29,Clay County,Whitley County,77,59,1,   ,0
 2011-01-29,Clinton County,Logan County,69,61,1,   ,0
 2011-01-29,Conner,Highlands,59,45,0,   ,0
@@ -2685,7 +2685,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-29,Cumberland County,Butler County,70,60,1,   ,0
 2011-01-29,Eastern,Greenwood,69,18,1,   ,0
 2011-01-29,Elizabethtown,Marion County,73,60,1,   ,0
-2011-01-29,Fairland (Proctorville). OH,Raceland,64,29,1,   ,0
+2011-01-29,Out of State,Raceland,64,29,1,   ,0
 2011-01-29,Franklin-Simpson,Hopkinsville,53,49,2,   ,0
 2011-01-29,Gallatin County,Oldham County,55,44,1,   ,0
 2011-01-29,George Rogers Clark,Male,61,56,0,   ,0
@@ -2702,7 +2702,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-29,Lyon County,Reidland,57,39,0,   ,0
 2011-01-29,Magoffin County,Jackson City,70,55,1,   ,0
 2011-01-29,Mason County,Grant County,66,44,0,   ,0
-2011-01-29,McNicholas. OH,Walton-Verona,63,44,0,   ,0
+2011-01-29,Out of State,Walton-Verona,63,44,0,   ,0
 2011-01-29,Monroe County,Hart County,56,29,1,   ,0
 2011-01-29,North Bullitt,Evangel Christian,62,46,0,   ,0
 2011-01-29,North Oldham,Shelby County,57,48,0,   ,0
@@ -2714,12 +2714,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-29,Powell County,Knott County Central,86,77,1,   ,0
 2011-01-29,Simon Kenton,Anderson County,72,60,1,   ,0
 2011-01-29,South Laurel,Williamsburg,54,52,1,   ,0
-2011-01-29,St. Patrick,Eastern Brown. OH,49,47,0,   ,0
+2011-01-29,St. Patrick,Out of State,49,47,0,   ,0
 2011-01-29,Taylor County,Barren County,68,58,1,   ,0
 2011-01-29,Union County,Hopkins County Central,76,69,0,   ,0
 2011-01-29,University Heights,Madisonville-North Hopkins,70,50,2,   ,0
 2011-01-29,Warren Central,Muhlenberg County,78,73,2,   ,0
-2011-01-29,Wayne County,Clinton. TN,78,56,1,   ,0
+2011-01-29,Wayne County,Out of State,78,56,1,   ,0
 2011-01-29,Woodford County,Frankfort,57,46,1,   ,0
 2011-01-30,Bullitt East,Spencer County,74,47,1,   ,0
 2011-01-31,Shelby Valley,Riverside Christian,91,21,2, Riverside Prep Showcase  ,0
@@ -2750,7 +2750,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-01-31,Scott,Covington Catholic,74,67,1,   ,0
 2011-01-31,Southwestern,McCreary Central,63,46,1,   ,0
 2011-01-31,Taylor County,Campbellsville,54,48,1,   ,0
-2011-01-31,Trigg County,Stewart County. TN,64,55,1,   ,0
+2011-01-31,Trigg County,Out of State,64,55,1,   ,0
 2011-01-31,Whitefield Academy,Atherton,46,35,0,   ,0
 2011-01-31,Wolfe County,Jackson City,64,30,0,   ,0
 2011-02-01,Allen Central,Sheldon Clark,66,55,1,   ,0
@@ -2791,14 +2791,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-01,Greenwood,Barren County,52,45,1,   ,0
 2011-02-01,Harlan County,Bell County,68,59,0,   ,0
 2011-02-01,Henry Clay,Madison Central,59,54,0,   ,0
-2011-02-01,Highlands,Seven Hills. OH,55,50,1,   ,0
+2011-02-01,Highlands,Out of State,55,50,1,   ,0
 2011-02-01,Holy Cross (Covington),Campbell County,68,66,0,   ,0
 2011-02-01,Hopkinsville,Caldwell County,66,39,0,   ,0
-2011-02-01,Hurley. VA,Phelps,70,49,1,   ,0
+2011-02-01,Out of State,Phelps,70,49,1,   ,0
 2011-02-01,Iroquois,DuPont Manual,67,65,1,   ,0
 2011-02-01,Jackson City,Riverside Christian,86,46,2,   ,0
 2011-02-01,John Hardin,Elizabethtown,64,63,0,   ,0
-2011-02-01,Kentucky School f/t Deaf,St. Rita School for the Deaf. OH,52,43,1,   ,0
+2011-02-01,Kentucky School f/t Deaf,Out of State,52,43,1,   ,0
 2011-02-01,Knott County Central,Letcher County Central,50,43,1,   ,0
 2011-02-01,LaRue County,Meade County,55,54,1,   ,0
 2011-02-01,Livingston Central,Fulton City,67,56,0,   ,0
@@ -2813,7 +2813,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-01,Oneida Baptist Institute,Red Bird,78,51,0,   ,0
 2011-02-01,Paducah Tilghman,Graves County,69,59,1,   ,0
 2011-02-01,Paris,Burgin,76,52,1,   ,0
-2011-02-01,Perry County Central,Winfield. WV,51,43,0,   ,0
+2011-02-01,Perry County Central,Out of State,51,43,0,   ,0
 2011-02-01,Pike County Central,Belfry,54,46,0,   ,0
 2011-02-01,Pikeville,East Ridge,61,46,1,   ,0
 2011-02-01,Powell County,Owsley County,68,62,1,   ,0
@@ -2824,7 +2824,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-01,Russell County,Casey County,63,49,0,   ,0
 2011-02-01,Russellville,Franklin-Simpson,67,64,1,   ,0
 2011-02-01,Ryle,Boone County,51,47,1,   ,0
-2011-02-01,SCPA. OH,Covington Latin,63,62,1,   ,0
+2011-02-01,Out of State,Covington Latin,63,62,1,   ,0
 2011-02-01,Sayre,Louisville Collegiate,67,54,0,   ,0
 2011-02-01,Scott County,Bryan Station,77,51,1,   ,0
 2011-02-01,Seneca,Trinity (Louisville),65,47,1,   ,0
@@ -2851,11 +2851,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-02,Lloyd Memorial,Villa Madonna,69,52,0,   ,0
 2011-02-02,Menifee County,Rowan County,45,44,1,   ,0
 2011-02-02,Newport,Ludlow,49,25,1,   ,0
-2011-02-02,SCPA. OH,Dayton,61,60,0,   ,0
+2011-02-02,Out of State,Dayton,61,60,0,   ,0
 2011-02-02,Shelby County,Anderson County,55,54,0,   ,0
 2011-02-02,Tates Creek,Eastern,52,46,1,   ,0
 2011-02-02,Williamstown,Bellevue,67,51,0,   ,0
-2011-02-03,Newport,Cincinnati Christian. OH,72,56,2, Cougar Classic  ,0
+2011-02-03,Newport,Out of State,72,56,2, Cougar Classic  ,0
 2011-02-03,Betsy Layne,Gallatin County,53,44,2," Touchstone Energy All ""A"" Classic  ",0
 2011-02-03,Danville,Metcalfe County,67,64,2," Touchstone Energy All ""A"" Classic  ",0
 2011-02-03,DeSales,Bardstown,56,53,2," Touchstone Energy All ""A"" Classic  ",0
@@ -2885,14 +2885,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-03,Knox Central,South Laurel,60,54,1,   ,0
 2011-02-03,Lee County,Riverside Christian,85,46,1,   ,0
 2011-02-03,Lyon County,Hopkins County Central,60,49,0,   ,0
-2011-02-03,Matewan. WV,Phelps,64,47,1,   ,0
+2011-02-03,Out of State,Phelps,64,47,1,   ,0
 2011-02-03,Mercer County,Burgin,71,52,0,   ,0
 2011-02-03,Murray,Dawson Springs,52,44,0,   ,0
 2011-02-03,Pike County Central,Breathitt County,67,53,2,   ,0
-2011-02-03,Red Bird,J Frank White Academy. TN,71,55,0,   ,0
+2011-02-03,Red Bird,Out of State,71,55,0,   ,0
 2011-02-03,Sheldon Clark,Paintsville,64,58,0,   ,0
 2011-02-03,Somerset,Southwestern,56,51,1,   ,0
-2011-02-03,Somerset Christian Academy (KSD only),Kentucky School f/t Deaf,67,45,1,   ,0
+2011-02-03,Out of State,Kentucky School f/t Deaf,67,45,1,   ,0
 2011-02-03,South Warren,Glasgow,61,58,1,   ,0
 2011-02-03,Trigg County,Fort Campbell,98,78,0,   ,0
 2011-02-03,Waggener,North Bullitt,67,64,0,   ,0
@@ -2939,7 +2939,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-04,Iroquois,Butler,52,47,0,   ,0
 2011-02-04,Jackson County,Pineville,58,50,0,   ,0
 2011-02-04,Jeffersontown,Seneca,59,45,0,   ,0
-2011-02-04,Jellico. TN,Williamsburg,52,48,1,   ,0
+2011-02-04,Out of State,Williamsburg,52,48,1,   ,0
 2011-02-04,John Hardin,Grayson County,68,65,1,   ,0
 2011-02-04,Knott County Central,Louisville Collegiate,54,51,2,   ,0
 2011-02-04,LaRue County,Green County,43,39,0,   ,0
@@ -2984,7 +2984,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-04,Western Hills,Oldham County,53,50,1,   ,0
 2011-02-04,Wolfe County,Southwestern,57,52,1,   ,0
 2011-02-04,Woodford County,Anderson County,57,44,1,   ,0
-2011-02-05,Calvary Christian,Cincinnati Christian. OH,55,43,1, Cougar Classic  ,0
+2011-02-05,Calvary Christian,Out of State,55,43,1, Cougar Classic  ,0
 2011-02-05,Cooper,Newport,57,37,2, Cougar Classic  ,0
 2011-02-05,Johnson Central,Oneida Baptist Institute,80,57,2, Riverside Prep Showcase  ,0
 2011-02-05,Knox Central,Evangel Christian,76,38,2, Riverside Prep Showcase  ,0
@@ -2994,7 +2994,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-05,DeSales,Newport Central Catholic,67,43,2," Touchstone Energy All ""A"" Classic  ",0
 2011-02-05,Adair County,Casey County,55,48,0,   ,0
 2011-02-05,Ashland Blazer,Mason County,76,68,1,   ,0
-2011-02-05,Belfry,Matewan. WV,68,53,0,   ,0
+2011-02-05,Belfry,Out of State,68,53,0,   ,0
 2011-02-05,Bell County,Apollo,64,57,0,   ,0
 2011-02-05,Berea,St. Francis,57,28,0,   ,0
 2011-02-05,Beth Haven,Red Bird,93,28,2,   ,0
@@ -3002,7 +3002,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-05,Boyd County,Breathitt County,85,74,2,   ,0
 2011-02-05,Breathitt County,Southwestern,61,57,2,   ,0
 2011-02-05,Burgin,Jenkins,43,30,2,   ,0
-2011-02-05,Campbell County,SCPA. OH,74,46,1,   ,0
+2011-02-05,Campbell County,Out of State,74,46,1,   ,0
 2011-02-05,Christian Academy-Louisville,Fort Knox,87,60,0,   ,0
 2011-02-05,Clinton County,Allen Central,55,46,2,   ,0
 2011-02-05,Cordia,Garrard County,69,59,2,   ,0
@@ -3014,8 +3014,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-05,Fairview,Menifee County,66,58,0,   ,0
 2011-02-05,Fulton County,Dawson Springs,68,54,1,   ,0
 2011-02-05,Grayson County,Butler County,68,60,1,   ,0
-2011-02-05,Hancock County,Cannelton IN,53,38,1,   ,0
-2011-02-05,Henderson County,Evansville Reitz Memorial. IN,62,40,1,   ,0
+2011-02-05,Hancock County,Out of State,53,38,1,   ,0
+2011-02-05,Henderson County,Out of State,62,40,1,   ,0
 2011-02-05,Holmes,Beechwood,91,64,1,   ,0
 2011-02-05,Knott County Central,Oneida Baptist Institute,81,41,2,   ,0
 2011-02-05,Letcher County Central,Powell County,79,55,1,   ,0
@@ -3025,14 +3025,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-05,Meade County,Cloverport,72,27,1,   ,0
 2011-02-05,Muhlenberg County,Central Hardin,65,56,1,   ,0
 2011-02-05,North Bullitt,Washington County,56,40,0,   ,0
-2011-02-05,Obion County Central. TN,Hickman County,61,51,1,   ,0
+2011-02-05,Out of State,Hickman County,61,51,1,   ,0
 2011-02-05,Owen County,Grant County,73,67,0,   ,0
 2011-02-05,Paintsville,Lawrence County,83,46,0,   ,0
 2011-02-05,Perry County Central,Pikeville,50,33,1,   ,0
 2011-02-05,Piarist School,Riverside Christian,71,50,2,   ,0
 2011-02-05,Pike County Central,Phelps,68,59,1,   ,0
 2011-02-05,Prestonsburg,Jackson County,60,59,2,   ,0
-2011-02-05,Ripley. OH,Fleming County,60,59,1,   ,0
+2011-02-05,Out of State,Fleming County,60,59,1,   ,0
 2011-02-05,Ryle,Scott,62,59,1,   ,0
 2011-02-05,Scott County,Sayre,87,67,1,   ,0
 2011-02-05,South Floyd,Lynn Camp,86,76,2,   ,0
@@ -3049,18 +3049,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-07,Betsy Layne,Allen Central,47,31,1,   ,0
 2011-02-07,Boone County,Holmes,72,65,1,   ,0
 2011-02-07,Calvary Christian,Heritage Academy,59,34,1,   ,0
-2011-02-07,Cloverport,Cannelton IN,56,54,2,   ,0
+2011-02-07,Cloverport,Out of State,56,54,2,   ,0
 2011-02-07,Corbin,Pineville,66,57,0,   ,0
 2011-02-07,Dixie Heights,Ryle,74,69,1,   ,0
 2011-02-07,Elliott County,East Carter,72,54,1,   ,0
 2011-02-07,Fern Creek,Whitefield Academy,75,50,0,   ,0
 2011-02-07,Jackson County,Williamsburg,62,61,1,   ,0
 2011-02-07,Jeffersontown,South Oldham,64,60,0,   ,0
-2011-02-07,Lee. VA,Harlan County,79,64,1,   ,0
+2011-02-07,Out of State,Harlan County,79,64,1,   ,0
 2011-02-07,Leslie County,North Laurel,59,51,1,   ,0
 2011-02-07,Marion County,Taylor County,45,43,0,   ,0
 2011-02-07,Red Bird,Kentucky School f/t Deaf,71,57,1,   ,0
-2011-02-07,Rock Creek Academy. IN,Western,87,81,0,   ,0
+2011-02-07,Out of State,Western,87,81,0,   ,0
 2011-02-07,Scott,Silver Grove,89,35,1,   ,0
 2011-02-07,Shawnee,Portland Christian,69,64,0,   ,0
 2011-02-07,Sheldon Clark,Magoffin County,69,63,0,   ,0
@@ -3082,7 +3082,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-08,Breathitt County,Powell County,90,78,0,   ,0
 2011-02-08,Butler,Fairdale,72,57,1,   ,0
 2011-02-08,Campbell County,Simon Kenton,59,57,0,   ,0
-2011-02-08,Campbellsville,North Hardin,74,71,1,  (double overtime) ,0
+2011-02-08,Campbellsville,North Hardin,74,71,1,  (double overtime) ,1
 2011-02-08,Caverna,Monticello,78,45,1,   ,0
 2011-02-08,Central,Pleasure Ridge Park,76,72,0,   ,0
 2011-02-08,Clay County,Oneida Baptist Institute,90,72,1,   ,0
@@ -3115,7 +3115,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-08,Iroquois,Shawnee,89,55,0,   ,0
 2011-02-08,Jackson City,Owsley County,54,41,1,   ,0
 2011-02-08,Jackson County,Lee County,52,46,1,   ,0
-2011-02-08,Jellico. TN,Lynn Camp,82,60,1,   ,0
+2011-02-08,Out of State,Lynn Camp,82,60,1,   ,0
 2011-02-08,Johnson Central,Pike County Central,76,74,0,   ,0
 2011-02-08,Kentucky School f/t Deaf,St. Francis,48,35,0,   ,0
 2011-02-08,Knox Central,Pulaski County,73,72,1,  (overtime) ,1
@@ -3140,8 +3140,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-08,Seneca,DuPont Manual,78,63,0,   ,0
 2011-02-08,Silver Grove,Ludlow,58,54,1,   ,0
 2011-02-08,South Floyd,Phelps,54,51,0,   ,0
-2011-02-08,South Fulton. TN,Fulton City,67,56,1,   ,0
-2011-02-08,South Point. OH,Greenup County,60,54,1,   ,0
+2011-02-08,Out of State,Fulton City,67,56,1,   ,0
+2011-02-08,Out of State,Greenup County,60,54,1,   ,0
 2011-02-08,South Warren,Warren East,43,33,1,   ,0
 2011-02-08,Spencer County,Shelby County,61,56,1,   ,0
 2011-02-08,St. Patrick,Bourbon County,77,69,1,   ,0
@@ -3252,7 +3252,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-11,Oldham County,Simon Kenton,57,49,1,   ,0
 2011-02-11,Owensboro Catholic,Trinity (Whitesville),59,34,0,   ,0
 2011-02-11,Paducah Tilghman,Lone Oak,81,54,0,   ,0
-2011-02-11,Peebles. OH,St. Patrick,109,82,1,   ,0
+2011-02-11,Out of State,St. Patrick,109,82,1,   ,0
 2011-02-11,Piarist School,Red Bird,65,63,1,   ,0
 2011-02-11,Pike County Central,Betsy Layne,73,69,0,   ,0
 2011-02-11,Pikeville,Shelby Valley,42,38,0,   ,0
@@ -3265,7 +3265,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-11,Russell,Fleming County,67,52,0,   ,0
 2011-02-11,Russell County,Adair County,52,42,0,   ,0
 2011-02-11,Russellville,Todd County Central,69,55,0,   ,0
-2011-02-11,SCPA. OH,Trimble County,49,48,1,   ,0
+2011-02-11,Out of State,Trimble County,49,48,1,   ,0
 2011-02-11,Sheldon Clark,Lawrence County,71,46,1,   ,0
 2011-02-11,Silver Grove,Heritage Academy,63,51,1,   ,0
 2011-02-11,Somerset,McCreary Central,74,67,1,   ,0
@@ -3281,7 +3281,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-11,Western,Southern,88,61,1,   ,0
 2011-02-11,Western Hills,Madison Southern,56,52,1,   ,0
 2011-02-11,Whitefield Academy,St. Francis,76,39,1,   ,0
-2011-02-11,Williamstown,Carroll County,51,48,0,  (double overtime) ,0
+2011-02-11,Williamstown,Carroll County,51,48,0,  (double overtime) ,1
 2011-02-12,Anderson County,Grant County,63,44,1,   ,0
 2011-02-12,Bath County,Monticello,67,51,1,   ,0
 2011-02-12,Beth Haven,Brown,70,23,0,   ,0
@@ -3293,10 +3293,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-12,Central Hardin,Deming,54,47,2,   ,0
 2011-02-12,Christian County,Hopkinsville,77,59,0,   ,0
 2011-02-12,Christian Fellowship,Riverside Christian,62,35,0,   ,0
-2011-02-12,Council. VA,Phelps,63,60,1,   ,0
+2011-02-12,Out of State,Phelps,63,60,1,   ,0
 2011-02-12,Covington Catholic,Boone County,73,66,0,   ,0
 2011-02-12,Edmonson County,Butler County,59,50,1,   ,0
-2011-02-12,Evansville Day School. IN,Hancock County,51,35,1,   ,0
+2011-02-12,Out of State,Hancock County,51,35,1,   ,0
 2011-02-12,Fleming County,Rose Hill Christian,80,46,1,   ,0
 2011-02-12,Frankfort,Whitefield Academy,61,52,1,   ,0
 2011-02-12,Garrard County,Lynn Camp,102,51,1,   ,0
@@ -3307,8 +3307,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-12,Holy Cross (Covington),Conner,54,50,1,   ,0
 2011-02-12,Holy Cross (Louisville),Kentucky Country Day,56,54,0,   ,0
 2011-02-12,Jenkins,Piarist School,62,35,1,   ,0
-2011-02-12,Kentucky School f/t Deaf,Atlanta Area School for the Deaf,66,45,1,   ,0
-2011-02-12,Knox Central,Cumberland Gap. TN,70,53,1,   ,0
+2011-02-12,Kentucky School f/t Deaf,Out of State,66,45,1,   ,0
+2011-02-12,Knox Central,Out of State,70,53,1,   ,0
 2011-02-12,Letcher County Central,Sayre,73,72,2,  (overtime) ,1
 2011-02-12,Lexington Christian,Montgomery County,59,53,2,   ,0
 2011-02-12,Livingston Central,Dawson Springs,67,45,1,   ,0
@@ -3339,7 +3339,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-12,Wayne County,East Jessamine,78,67,1,   ,0
 2011-02-12,Webster County,McLean County,61,56,0,   ,0
 2011-02-12,West Carter,Fairview,65,57,0,   ,0
-2011-02-12,Whitley County,Wolfe County,74,71,2,  (three overtimes) ,0
+2011-02-12,Whitley County,Wolfe County,74,71,2,  (three overtimes) ,1
 2011-02-12,Woodford County,Boyle County,58,55,0,   ,0
 2011-02-13,Spencer County,Fort Knox,88,78,0,   ,0
 2011-02-14,Bardstown,Nelson County,70,50,1,   ,0
@@ -3376,7 +3376,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-14,Powell County,Owsley County,96,63,0,   ,0
 2011-02-14,Rowan County,Menifee County,68,37,1,   ,0
 2011-02-14,Sayre,Whitefield Academy,66,48,0,   ,0
-2011-02-14,Sheldon Clark,Williamson. WV,74,48,1,   ,0
+2011-02-14,Sheldon Clark,Out of State,74,48,1,   ,0
 2011-02-14,South Oldham,Gallatin County,75,66,1,   ,0
 2011-02-14,South Warren,Logan County,63,43,0,   ,0
 2011-02-14,Southwestern,Somerset,46,42,1,   ,0
@@ -3395,7 +3395,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-15,Bellevue,Heritage Academy,75,30,1,   ,0
 2011-02-15,Berea,Monticello,57,43,1,   ,0
 2011-02-15,Betsy Layne,East Ridge,59,45,0,   ,0
-2011-02-15,Boone County,Indian Hill. OH,63,44,1,   ,0
+2011-02-15,Boone County,Out of State,63,44,1,   ,0
 2011-02-15,Bowling Green,Russellville,89,68,1,   ,0
 2011-02-15,Boyd County,Raceland,59,42,0,   ,0
 2011-02-15,Boyle County,Casey County,59,39,0,   ,0
@@ -3415,9 +3415,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-15,Christian County,Muhlenberg County,103,76,1,   ,0
 2011-02-15,Clinton County,Southwestern,50,48,1,   ,0
 2011-02-15,Collins,Western Hills,66,54,1,   ,0
-2011-02-15,Community Christian (Paducah),Joppa. IL,69,42,1,   ,0
+2011-02-15,Community Christian (Paducah),Out of State,69,42,1,   ,0
 2011-02-15,Covington Catholic,Simon Kenton,73,66,1,   ,0
-2011-02-15,Cumberland Gap. TN,Middlesboro,73,51,1,   ,0
+2011-02-15,Out of State,Middlesboro,73,51,1,   ,0
 2011-02-15,Danville,Woodford County,71,60,1,   ,0
 2011-02-15,Daviess County,Union County,71,54,0,   ,0
 2011-02-15,Dawson Springs,Crittenden County,59,53,1,   ,0
@@ -3485,8 +3485,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-15,Taylor County,Nelson County,68,63,1,  (overtime) ,1
 2011-02-15,Trigg County,Todd County Central,59,46,0,   ,0
 2011-02-15,Trinity (Louisville),Holy Cross (Covington),66,31,1,   ,0
-2011-02-15,Trinity (Whitesville),Cannelton IN,81,66,1,   ,0
-2011-02-15,Tug Valley. WV,Belfry,76,57,1,   ,0
+2011-02-15,Trinity (Whitesville),Out of State,81,66,1,   ,0
+2011-02-15,Out of State,Belfry,76,57,1,   ,0
 2011-02-15,University Heights,Logan County,68,54,0,   ,0
 2011-02-15,Villa Madonna,Dayton,72,52,1,   ,0
 2011-02-15,Warren Central,Allen County-Scottsville,64,53,0,   ,0
@@ -3510,13 +3510,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-16,Spencer County,Henry County,65,64,0,  (overtime) ,1
 2011-02-16,St. Xavier,Fairdale,43,42,0,   ,0
 2011-02-17,Ballard,Holmes,101,41,1,   ,0
-2011-02-17,Ballard Memorial,Union County,85,81,0,  (triple overtime) ,0
+2011-02-17,Ballard Memorial,Union County,85,81,0,  (triple overtime) ,1
 2011-02-17,Barbourville,Oneida Baptist Institute,106,75,0,   ,0
 2011-02-17,Bell County,Jackson County,60,40,1,   ,0
 2011-02-17,Betsy Layne,Pikeville,36,28,0,   ,0
 2011-02-17,Bishop Brossart,Newport,70,46,1,   ,0
 2011-02-17,Bowling Green,University Heights,84,75,0,   ,0
-2011-02-17,Boyd County,Wayne. WV,76,56,1,   ,0
+2011-02-17,Boyd County,Out of State,76,56,1,   ,0
 2011-02-17,Bracken County,Calvary Christian,53,45,0,   ,0
 2011-02-17,Buckhorn,Jenkins,75,32,1,   ,0
 2011-02-17,Butler County,Hancock County,47,42,0,   ,0
@@ -3527,7 +3527,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-17,Daviess County,Madisonville-North Hopkins,84,63,1,   ,0
 2011-02-17,Dixie Heights,Boone County,67,58,1,   ,0
 2011-02-17,Elliott County,Rose Hill Christian,94,43,1,   ,0
-2011-02-17,Estill County,Menifee County,58,52,1,  (two overtime) ,0
+2011-02-17,Estill County,Menifee County,58,52,1,  (two overtime) ,1
 2011-02-17,Evangel Christian,Brown,82,42,1,   ,0
 2011-02-17,Franklin-Simpson,Glasgow,60,59,0,   ,0
 2011-02-17,Fulton County,Reidland,86,44,0,   ,0
@@ -3538,7 +3538,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-17,Henry County,Williamstown,70,38,0,   ,0
 2011-02-17,Holy Cross (Covington),St. Henry,81,65,1,   ,0
 2011-02-17,Hopkinsville,Hopkins County Central,77,59,0,   ,0
-2011-02-17,Ironton St. Joseph. OH,Raceland,59,45,1,   ,0
+2011-02-17,Out of State,Raceland,59,45,1,   ,0
 2011-02-17,Jackson City,Cordia,69,66,0,   ,0
 2011-02-17,Kentucky School f/t Deaf,Riverside Christian,88,59,0,   ,0
 2011-02-17,Lewis County,Bath County,83,76,1,   ,0
@@ -3550,7 +3550,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-17,Muhlenberg County,Owensboro Catholic,56,51,0,   ,0
 2011-02-17,Newport Central Catholic,Conner,69,51,0,   ,0
 2011-02-17,Ohio County,Breckinridge County,60,50,1,   ,0
-2011-02-17,Paul Laurence Dunbar,West Jessamine,48,40,1,  (triple overtime) ,0
+2011-02-17,Paul Laurence Dunbar,West Jessamine,48,40,1,  (triple overtime) ,1
 2011-02-17,Perry County Central,Shelby Valley,45,29,0,   ,0
 2011-02-17,Pineville,Williamsburg,58,57,0,   ,0
 2011-02-17,Pulaski County,McCreary Central,70,48,1,   ,0
@@ -3560,7 +3560,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-17,Scott,Cooper,77,63,1,   ,0
 2011-02-17,Sheldon Clark,Phelps,73,62,0,   ,0
 2011-02-17,South Oldham,Spencer County,57,48,0,   ,0
-2011-02-17,St. Patrick,West Union. OH,61,54,1,   ,0
+2011-02-17,St. Patrick,Out of State,61,54,1,   ,0
 2011-02-17,Todd County Central,Caldwell County,59,40,0,   ,0
 2011-02-17,Villa Madonna,Heritage Academy,63,29,0,   ,0
 2011-02-17,Walton-Verona,Carroll County,75,66,0,   ,0
@@ -3574,7 +3574,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-18,Ashland Blazer,Russell,74,62,1,   ,0
 2011-02-18,Bardstown,North Hardin,69,60,1,   ,0
 2011-02-18,Beechwood,Silver Grove,64,22,1,   ,0
-2011-02-18,Belfry,Williamson. WV,53,51,1,   ,0
+2011-02-18,Belfry,Out of State,53,51,1,   ,0
 2011-02-18,Berea,Paris,54,38,1,   ,0
 2011-02-18,Beth Haven,Portland Christian,87,38,1,   ,0
 2011-02-18,Bourbon County,Rose Hill Christian,113,59,1,   ,0
@@ -3637,7 +3637,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-18,Pleasure Ridge Park,Fairdale,88,73,1,   ,0
 2011-02-18,Powell County,Hazard,72,61,0,   ,0
 2011-02-18,Red Bird,Riverside Christian,92,64,1,   ,0
-2011-02-18,SCPA. OH,Covington Latin,52,32,1,   ,0
+2011-02-18,Out of State,Covington Latin,52,32,1,   ,0
 2011-02-18,Sayre,Western Hills,71,58,1,   ,0
 2011-02-18,Scott County,Western,88,65,1,   ,0
 2011-02-18,South Laurel,Rockcastle County,75,62,1,   ,0
@@ -3653,7 +3653,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-19,Beth Haven,Evangel Christian,74,48,1,   ,0
 2011-02-19,Breathitt County,Estill County,60,59,1,   ,0
 2011-02-19,East Jessamine,Model,99,70,0,   ,0
-2011-02-19,Gilbert. WV,Phelps,72,64,1,   ,0
+2011-02-19,Out of State,Phelps,72,64,1,   ,0
 2011-02-19,Nicholas County,Riverside Christian,97,28,1,   ,0
 2011-02-19,Western Hills,South Floyd,78,54,1,   ,0
 2011-02-21,Fulton County,Hickman County,74,58,2,  1st District  ,0
@@ -3723,7 +3723,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-22,Oldham County,Trimble County,57,39,2,  29th District  ,0
 2011-02-22,Spencer County,Anderson County,60,47,1,  30th District  ,0
 2011-02-22,Walton-Verona,Grant County,60,48,2,  32nd District  ,0
-2011-02-22,Covington Catholic,Holy Cross,70,56,2,  35th District  ,0
+2011-02-22,Covington Catholic,Holy Cross (Covington),70,56,2,  35th District  ,0
 2011-02-22,Holmes,Beechwood,83,78,1,  35th District  ,0
 2011-02-22,Newport Central Catholic,Bellevue,85,30,0,  36th District  ,0
 2011-02-22,Pendleton County,Deming,49,37,2,  38th District  ,0
@@ -3758,7 +3758,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-22,Boyd County,Fairview,59,54,2,  64th District  ,0
 2011-02-23,Bowling Green,Greenwood,59,41,1,  14th District  ,0
 2011-02-23,Warren Central,South Warren,61,35,2,  14th District  ,0
-2011-02-23,Monroe County,Allen County-Scottsville,85,78,1,  15th District (five overtimes) ,0
+2011-02-23,Monroe County,Allen County-Scottsville,85,78,1,  15th District (five overtimes) ,1
 2011-02-23,Bardstown,Washington County,74,52,2,  19th District  ,0
 2011-02-23,Bethlehem,Nelson County,60,41,0,  19th District  ,0
 2011-02-23,Taylor County,Adair County,58,48,2,  20th District  ,0
@@ -3815,7 +3815,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-25,Breckinridge County,Meade County,63,57,2,  11th District Championship ,0
 2011-02-25,Grayson County,Edmonson County,68,57,0,  12th District Championship ,0
 2011-02-25,Franklin-Simpson,Russellville,65,62,2,  13th District Championship ,0
-2011-02-25,Warren Central,Bowling Green,81,79,0,  14th District Championship (quadruple overtime) ,0
+2011-02-25,Warren Central,Bowling Green,81,79,0,  14th District Championship (quadruple overtime) ,1
 2011-02-25,Glasgow,Monroe County,66,41,0,  15th District Championship ,0
 2011-02-25,Russell County,Metcalfe County,48,37,0,  16th District Championship ,0
 2011-02-25,LaRue County,Caverna,57,39,1,  18th District Championship ,0
@@ -3850,7 +3850,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-02-25,Elliott County,West Carter,70,67,0,  62nd District Championship ,0
 2011-02-25,Lewis County,Russell,73,54,1,  63rd District Championship ,0
 2011-02-25,Ashland Blazer,Boyd County,79,59,1,  64th District Championship ,0
-2011-02-26,Elizabethtown,John Hardin,81,76,2,  17th District Championship (quadruple overtime) ,0
+2011-02-26,Elizabethtown,John Hardin,81,76,2,  17th District Championship (quadruple overtime) ,1
 2011-02-26,Bardstown,Bethlehem,65,54,2,  19th District Championship ,0
 2011-02-26,Taylor County,Marion County,49,44,0,  20th District Championship ,0
 2011-02-26,Spencer County,Collins,55,49,1,  30th District Championship ,0
@@ -3898,7 +3898,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-03-02,Elliott County,Fleming County,80,69,2,  16th Region  ,0
 2011-03-03,Graves County,Heath,48,36,2,  1st Region  ,0
 2011-03-03,Marshall County,Carlisle County,70,47,2,  1st Region  ,0
-2011-03-03,Madisonville-North Hopkins,Lyon County,72,67,2,  2nd Region (double overtime) ,0
+2011-03-03,Madisonville-North Hopkins,Lyon County,72,67,2,  2nd Region (double overtime) ,1
 2011-03-03,Union County,University Heights,49,46,2,  2nd Region  ,0
 2011-03-03,Muhlenberg County,Owensboro,84,66,2,  3rd Region  ,0
 2011-03-03,Monroe County,Russell County,63,55,2,  4th Region  ,0
@@ -3938,7 +3938,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-03-05,Madison Central,Tates Creek,42,41,2,  11th Region  ,0
 2011-03-05,Bell County,Knox Central,47,44,2,  13th Region  ,0
 2011-03-05,Corbin,Clay County,56,51,2,  13th Region (overtime) ,1
-2011-03-06,Dixie Heights,Newport Central Catholic,79,76,2,  9th Region Championship (four overtimes) ,0
+2011-03-06,Dixie Heights,Newport Central Catholic,79,76,2,  9th Region Championship (four overtimes) ,1
 2011-03-07,Marshall County,Graves County,53,44,2,  1st Region  ,0
 2011-03-07,Paducah Tilghman,Fulton County,68,58,2,  1st Region  ,0
 2011-03-07,Christian County,Henderson County,80,60,2,  2nd Region  ,0
@@ -3983,5 +3983,5 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2011-03-18,Eastern,George Rogers Clark,65,50,2,  PNC/KHSAA Boys Sweet Sixteen® Basketball Tournament  ,0
 2011-03-18,Rowan County,Wayne County,64,47,2,  PNC/KHSAA Boys Sweet Sixteen® Basketball Tournament  ,0
 2011-03-19,Christian County,Eastern,46,43,2,  PNC/KHSAA Boys Sweet Sixteen® Basketball Tournament  ,0
-2011-03-19,Christian County,Rowan County,65,63,2,  PNC/KHSAA Boys Sweet Sixteen® Basketball Tournament (Championship)(double overtime) ,0
+2011-03-19,Christian County,Rowan County,65,63,2,  PNC/KHSAA Boys Sweet Sixteen® Basketball Tournament (Championship)(double overtime) ,1
 2011-03-19,Rowan County,Bullitt East,51,49,2,  PNC/KHSAA Boys Sweet Sixteen® Basketball Tournament  ,0

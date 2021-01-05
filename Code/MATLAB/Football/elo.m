@@ -12,14 +12,11 @@ HFA = 11;
 %%%% END TAKE OUT 
 %% Iterate through game matrix 
 for game= 1:length(Games)
-    winner = Games(game).win_team;
-    loser = Games(game).lose_team;
-    if winner == "Out_State" || loser == "Out_State"
-       continue
-    end
 
-    i = find([Teams.name]' == winner);
-    j = find([Teams.name]' == loser);
+    i = Games(game).win_id; 
+    j = Games(game).lose_id; 
+%     i = find([Teams.name]' == winner);
+%     j = find([Teams.name]' == loser);
 
     pd = Games(game).win_score - Games(game).lose_score;
     loc = Games(game).location;

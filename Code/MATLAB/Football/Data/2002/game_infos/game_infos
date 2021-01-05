@@ -14,7 +14,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-23,Eastern,Butler,28,7,0,   ,0
 2002-08-23,Estill County,Adair County,38,16,0,   ,0
 2002-08-23,Fairdale,Moore,34,20,1,   ,0
-2002-08-23,Fairview,Green. OH,38,0,0,   ,0
+2002-08-23,Fairview,Out of State,38,0,0,   ,0
 2002-08-23,Frankfort,Dayton,28,18,1,   ,0
 2002-08-23,Garrard County,Marion County,53,41,1,   ,0
 2002-08-23,Grant County,Henry County,29,0,0,   ,0
@@ -35,7 +35,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-23,McLean County,Todd County Central,37,7,0,   ,0
 2002-08-23,Meade County,Christian County,24,18,0,   ,0
 2002-08-23,Mercer County,Scott,35,14,1,   ,0
-2002-08-23,Metcalfe County,Red Boiling Springs. TN,37,0,0,   ,0
+2002-08-23,Metcalfe County,Out of State,37,0,0,   ,0
 2002-08-23,Monroe County,Warren East,28,6,1,   ,0
 2002-08-23,Newport Central Catholic,Lloyd Memorial,28,21,1,   ,0
 2002-08-23,Nicholas County,Bath County,44,6,0,   ,0
@@ -56,7 +56,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-23,Trinity (Louisville),North Hardin,43,0,1,   ,0
 2002-08-23,West Carter,Paintsville,28,0,1,   ,0
 2002-08-23,West Jessamine,Berea,58,13,0,   ,0
-2002-08-23,Whitley County,Cincinnati Aiken. OH,35,12,1,   ,0
+2002-08-23,Whitley County,Out of State,35,12,1,   ,0
 2002-08-23,Williamsburg,McCreary Central,44,13,0,   ,0
 2002-08-23,Woodford County,Anderson County,24,14,0,   ,0
 2002-08-24,Ashland Blazer,Johnson Central,43,0,1,   ,0
@@ -65,7 +65,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-24,Breathitt County,Fleming County,67,0,2,   ,0
 2002-08-24,Casey County,Bethlehem,27,22,0,   ,0
 2002-08-24,Christian Academy-Louisville,Lexington Christian,48,7,0,   ,0
-2002-08-24,Cincinnati Elder. OH,Dixie Heights,42,7,2,   ,0
+2002-08-24,Out of State,Dixie Heights,42,7,2,   ,0
 2002-08-24,Danville,Washington County,64,0,1,   ,0
 2002-08-24,DuPont Manual,South Oldham,42,14,0,   ,0
 2002-08-24,East Jessamine,Bell County,13,6,2,   ,0
@@ -74,17 +74,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-24,Green County,Middlesboro,40,14,0,   ,0
 2002-08-24,Harlan,South Floyd,33,0,1,   ,0
 2002-08-24,Hazard,Pineville,49,20,0,   ,0
-2002-08-24,Kentucky School f/t Deaf,School f/t Deaf. NC,42,6,0,   ,0
+2002-08-24,Kentucky School f/t Deaf,Out of State,42,6,0,   ,0
 2002-08-24,LaRue County,Bowling Green,28,9,0,   ,0
 2002-08-24,Lawrence County,Prestonsburg,30,14,2,   ,0
 2002-08-24,Leslie County,Montgomery County,35,7,2,   ,0
 2002-08-24,Madison Southern,Elizabethtown,32,28,2,   ,0
 2002-08-24,Male,Hopkinsville,42,20,2,   ,0
 2002-08-24,Mason County,Rockcastle County,19,12,2,   ,0
-2002-08-24,Mayfield,Evansville Mater Dei. IN,20,7,0,   ,0
+2002-08-24,Mayfield,Out of State,20,7,0,   ,0
 2002-08-24,Nelson County,Lexington Catholic,1,0,0,  (forfeit) ,0
-2002-08-24,Newburg Castle. IN,Apollo,40,33,2,   ,0
-2002-08-24,Paducah Tilghman,Union City. TN,26,13,1,   ,0
+2002-08-24,Out of State,Apollo,40,33,2,   ,0
+2002-08-24,Paducah Tilghman,Out of State,26,13,1,   ,0
 2002-08-24,Pikeville,Campbellsville,31,8,1,   ,0
 2002-08-24,Pleasure Ridge Park,Warren Central,26,13,2,   ,0
 2002-08-24,Sheldon Clark,Clay County,46,0,0,   ,0
@@ -92,11 +92,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-24,St. Xavier,Oldham County,24,13,2,   ,0
 2002-08-24,Trigg County,Calloway County,42,21,1,   ,0
 2002-08-24,Whitesburg,Magoffin County,56,14,1,   ,0
-2002-08-29,School f/t Deaf. TN,Kentucky School f/t Deaf,28,14,1,   ,0
+2002-08-29,Out of State,Kentucky School f/t Deaf,28,14,1,   ,0
 2002-08-30,Adair County,Clay County,33,13,0,   ,0
 2002-08-30,Apollo,Hancock County,61,27,0,   ,0
 2002-08-30,Ashland Blazer,Pikeville,49,14,1,   ,0
-2002-08-30,Ballard Memorial,South Fulton. TN,34,19,0,   ,0
+2002-08-30,Ballard Memorial,Out of State,34,19,0,   ,0
 2002-08-30,Bell County,Middlesboro,49,14,1,   ,0
 2002-08-30,Bellevue,Dayton,13,7,0,   ,0
 2002-08-30,Bourbon County,Johnson Central,36,14,0,   ,0
@@ -109,7 +109,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-30,Christian County,Russellville,54,19,0,   ,0
 2002-08-30,Conner,Southwestern,27,26,2,  (overtime) ,1
 2002-08-30,Crittenden County,Caldwell County,8,7,0,   ,0
-2002-08-30,Cumberland,Thomas Walker. VA,61,0,0,   ,0
+2002-08-30,Cumberland,Out of State,61,0,0,   ,0
 2002-08-30,DeSales,Iroquois,25,22,0,   ,0
 2002-08-30,DuPont Manual,Eastern,21,14,0,   ,0
 2002-08-30,East Carter,Knott County Central,48,21,0,   ,0
@@ -122,26 +122,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-30,Fleming County,Rowan County,46,21,0,   ,0
 2002-08-30,Fort Campbell,Fulton County,56,22,0,   ,0
 2002-08-30,Fort Knox,Henry County,19,14,1,   ,0
-2002-08-30,Fulton City,Lake County. TN,23,19,1,   ,0
+2002-08-30,Fulton City,Out of State,23,19,1,   ,0
 2002-08-30,Glasgow,Barren County,31,0,1,   ,0
 2002-08-30,Green County,Hart County,57,6,1,   ,0
-2002-08-30,Grundy. VA,Jenkins,66,6,1,   ,0
+2002-08-30,Out of State,Jenkins,66,6,1,   ,0
 2002-08-30,Harrodsburg,Lincoln County,10,9,0,   ,0
 2002-08-30,Hazard,Paris,24,6,1,   ,0
-2002-08-30,Henderson County,Evansville North. IN,39,20,1,   ,0
+2002-08-30,Henderson County,Out of State,39,20,1,   ,0
 2002-08-30,Holmes,Campbell County,27,3,0,   ,0
-2002-08-30,Holy Cross (Covington),Summit Country Day. OH,57,7,1,   ,0
+2002-08-30,Holy Cross (Covington),Out of State,57,7,1,   ,0
 2002-08-30,Holy Cross (Louisville),Shawnee,48,8,1,   ,0
 2002-08-30,John Hardin,Warren East,45,0,1,   ,0
 2002-08-30,LaRue County,Daviess County,14,7,1,   ,0
 2002-08-30,Lafayette,East Jessamine,33,19,0,   ,0
-2002-08-30,Lewis County,Greentownship. OH,35,0,1,   ,0
+2002-08-30,Lewis County,Out of State,35,0,1,   ,0
 2002-08-30,Lexington Christian,Powell County,43,28,1,   ,0
 2002-08-30,Lloyd Memorial,Scott,33,20,0,   ,0
 2002-08-30,Lone Oak,Reidland,7,0,0,   ,0
 2002-08-30,Marion County,Taylor County,34,8,0,   ,0
 2002-08-30,Mason County,Montgomery County,54,22,1,   ,0
-2002-08-30,Massac County. IL,Heath,41,21,0,   ,0
+2002-08-30,Out of State,Heath,41,21,0,   ,0
 2002-08-30,Mayfield,Marshall County,56,7,1,   ,0
 2002-08-30,McLean County,Muhlenberg South,38,22,0,   ,0
 2002-08-30,Mercer County,Anderson County,27,13,0,   ,0
@@ -154,25 +154,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-30,North Bullitt,Atherton,44,32,0,   ,0
 2002-08-30,Ohio County,Logan County,49,26,1,   ,0
 2002-08-30,Oldham County,Central,28,20,1,   ,0
-2002-08-30,Onieda. TN,McCreary Central,20,15,1,   ,0
+2002-08-30,Out of State,McCreary Central,20,15,1,   ,0
 2002-08-30,Owensboro Catholic,Owensboro,40,10,1,   ,0
 2002-08-30,Paintsville,Allen Central,58,0,2,   ,0
 2002-08-30,Paul Laurence Dunbar,Nelson County,26,14,0,   ,0
 2002-08-30,Perry County Central,Magoffin County,54,21,0,   ,0
 2002-08-30,Pleasure Ridge Park,Doss,27,3,0,   ,0
-2002-08-30,Powell Valley. TN,Pineville,50,14,1,   ,0
+2002-08-30,Out of State,Pineville,50,14,1,   ,0
 2002-08-30,Raceland,South Floyd,45,6,0,   ,0
 2002-08-30,Rockcastle County,South Laurel,48,0,0,   ,0
 2002-08-30,Russell,Greenup County,28,10,0,   ,0
-2002-08-30,Shelby Valley,Twin Valley. VA,26,14,2,   ,0
+2002-08-30,Shelby Valley,Out of State,26,14,2,   ,0
 2002-08-30,Somerset,Pulaski County,24,14,0,   ,0
 2002-08-30,South Oldham,Seneca,33,20,1,   ,0
-2002-08-30,Spring Valley. WV,Boyd County,24,18,0,   ,0
+2002-08-30,Out of State,Boyd County,24,18,0,   ,0
 2002-08-30,St. Xavier,Butler,46,12,1,   ,0
 2002-08-30,Tates Creek,George Rogers Clark,20,14,0,   ,0
 2002-08-30,Trigg County,Todd County Central,68,0,0,   ,0
 2002-08-30,Trimble County,Eminence,31,0,1,   ,0
-2002-08-30,Waggener,Providence. IN,45,18,1,   ,0
+2002-08-30,Waggener,Out of State,45,18,1,   ,0
 2002-08-30,Warren Central,Breckinridge County,47,0,0,   ,0
 2002-08-30,Washington County,Campbellsville,16,12,1,   ,0
 2002-08-30,Wayne County,North Laurel,33,7,0,   ,0
@@ -180,11 +180,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-30,West Jessamine,Garrard County,30,8,1,   ,0
 2002-08-30,Western,Valley,55,28,0,   ,0
 2002-08-30,Whitesburg,East Ridge,37,0,0,   ,0
-2002-08-30,Williamsburg,Jellico. TN,33,13,1,   ,0
-2002-08-30,Williamson. WV,Pike County Central,46,14,1,   ,0
+2002-08-30,Williamsburg,Out of State,33,13,1,   ,0
+2002-08-30,Out of State,Pike County Central,46,14,1,   ,0
 2002-08-30,Woodford County,Franklin County,38,7,1,   ,0
-2002-08-31,Archbishop Moeller. OH,Covington Catholic,14,10,0,   ,0
-2002-08-31,Beechwood,Indianapolis Scecina. IN,25,13,1,   ,0
+2002-08-31,Out of State,Covington Catholic,14,10,0,   ,0
+2002-08-31,Beechwood,Out of State,25,13,1,   ,0
 2002-08-31,Bethlehem,Owen County,22,17,1,   ,0
 2002-08-31,Boone County,Allen County-Scottsville,39,18,1,   ,0
 2002-08-31,Bowling Green,Monroe County,20,0,2,   ,0
@@ -198,14 +198,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-08-31,Prestonsburg,Whitley County,21,6,2,   ,0
 2002-08-31,Ryle,Harrison County,34,0,1,   ,0
 2002-08-31,Scott County,Meade County,15,0,1,   ,0
-2002-08-31,Trinity (Louisville),Cincinnati Elder. OH,44,20,2,   ,0
+2002-08-31,Trinity (Louisville),Out of State,44,20,2,   ,0
 2002-09-05,Frankfort,Kentucky Country Day,68,13,0,   ,0
-2002-09-05,Roger Bacon. OH,Holy Cross (Covington),41,0,1,   ,0
+2002-09-05,Out of State,Holy Cross (Covington),41,0,1,   ,0
 2002-09-06,Allen County-Scottsville,Bardstown,46,0,0,   ,0
 2002-09-06,Ashland Blazer,Russell,28,19,1,   ,0
 2002-09-06,Ballard Memorial,Reidland,35,0,0,   ,0
 2002-09-06,Bath County,Morgan County,28,21,1,   ,0
-2002-09-06,Bell County,Lee County-Jonesville. VA,49,14,2,   ,0
+2002-09-06,Bell County,Out of State,49,14,2,   ,0
 2002-09-06,Bellevue,Grant County,28,7,0,   ,0
 2002-09-06,Boone County,Bryan Station,27,0,1,   ,0
 2002-09-06,Bourbon County,Fleming County,60,27,1,   ,0
@@ -220,7 +220,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-06,Central,Valley,42,14,0,   ,0
 2002-09-06,Central Hardin,Breckinridge County,30,12,1,   ,0
 2002-09-06,Christian County,Union County,64,0,1,   ,0
-2002-09-06,Conner,South Dearborn. IN,47,0,1,   ,0
+2002-09-06,Conner,Out of State,47,0,1,   ,0
 2002-09-06,Corbin,South Laurel,28,13,1,   ,0
 2002-09-06,Crittenden County,Fulton County,30,6,0,   ,0
 2002-09-06,Cumberland,Phelps,56,8,0,   ,0
@@ -229,14 +229,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-06,East Jessamine,Woodford County,29,6,1,   ,0
 2002-09-06,East Ridge,Jenkins,40,6,1,   ,0
 2002-09-06,Eastern,Ballard,29,24,0,   ,0
-2002-09-06,Evarts,Hurley. VA,40,8,0,   ,0
+2002-09-06,Evarts,Out of State,40,8,0,   ,0
 2002-09-06,Fairdale,North Bullitt,63,7,0,   ,0
 2002-09-06,Fort Campbell,Todd County Central,63,0,1,   ,0
 2002-09-06,Fort Knox,Shawnee,56,22,0,   ,0
-2002-09-06,Franklin County. IN,Ryle,7,3,0,   ,0
+2002-09-06,Out of State,Ryle,7,3,0,   ,0
 2002-09-06,Franklin-Simpson,Madisonville-North Hopkins,17,13,1,   ,0
 2002-09-06,Garrard County,Estill County,47,0,1,   ,0
-2002-09-06,Glasgow,Gallatin Station Camp. TN,39,0,1,   ,0
+2002-09-06,Glasgow,Out of State,39,0,1,   ,0
 2002-09-06,Graves County,Paducah Tilghman,24,7,0,   ,0
 2002-09-06,Grayson County,Muhlenberg South,27,13,1,   ,0
 2002-09-06,Green County,Adair County,56,27,0,   ,0
@@ -300,7 +300,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-07,Dixie Heights,Covington Catholic,28,0,0,   ,0
 2002-09-07,Holy Cross (Louisville),DeSales,48,7,1,   ,0
 2002-09-07,Newport Central Catholic,Scott,35,14,1,   ,0
-2002-09-07,School f/t Deaf. AR,Kentucky School f/t Deaf,34,14,0,   ,0
+2002-09-07,Out of State,Kentucky School f/t Deaf,34,14,0,   ,0
 2002-09-12,Madison Central,Tates Creek,27,14,2,   ,0
 2002-09-13,Allen Central,Jenkins,46,6,0,   ,0
 2002-09-13,Allen County-Scottsville,Warren East,48,20,1,   ,0
@@ -329,12 +329,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-13,DeSales,Valley,40,13,1,   ,0
 2002-09-13,East Carter,Morgan County,48,16,1,   ,0
 2002-09-13,Edmonson County,Hart County,26,15,1,   ,0
-2002-09-13,Evarts,Thomas Walker. VA,52,20,1,   ,0
+2002-09-13,Evarts,Out of State,52,20,1,   ,0
 2002-09-13,Fairview,Lewis County,28,12,0,   ,0
 2002-09-13,Fleming County,Nicholas County,30,18,1,   ,0
 2002-09-13,Fort Campbell,McLean County,20,13,1,   ,0
 2002-09-13,Frankfort,Powell County,50,0,1,   ,0
-2002-09-13,Franklin-Simpson,Portland. TN,43,40,1,   ,0
+2002-09-13,Franklin-Simpson,Out of State,43,40,1,   ,0
 2002-09-13,Garrard County,Grant County,41,0,0,   ,0
 2002-09-13,George Rogers Clark,Montgomery County,37,12,1,   ,0
 2002-09-13,Grayson County,Lone Oak,55,6,1,   ,0
@@ -360,7 +360,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-13,Marion County,Campbellsville,59,34,1,   ,0
 2002-09-13,Marshall County,Logan County,56,14,1,   ,0
 2002-09-13,Mason County,Lafayette,35,28,0,   ,0
-2002-09-13,Massac County. IL,Murray,35,6,0,   ,0
+2002-09-13,Out of State,Murray,35,6,0,   ,0
 2002-09-13,Mayfield,Graves County,33,12,0,   ,0
 2002-09-13,Mercer County,Estill County,57,12,0,   ,0
 2002-09-13,Metcalfe County,Adair County,14,7,1,   ,0
@@ -372,7 +372,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-13,North Laurel,Knott County Central,63,0,1,   ,0
 2002-09-13,Ohio County,Russellville,63,28,1,   ,0
 2002-09-13,Owensboro Catholic,Daviess County,14,13,1,  (overtime) ,1
-2002-09-13,Paducah Tilghman,Harrisburg. IL,41,21,1,   ,0
+2002-09-13,Paducah Tilghman,Out of State,41,21,1,   ,0
 2002-09-13,Paintsville,Fleming-Neon,15,14,0,   ,0
 2002-09-13,Paul Laurence Dunbar,Whitley County,49,14,2,   ,0
 2002-09-13,Pike County Central,West Carter,22,20,1,   ,0
@@ -386,13 +386,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-13,Seneca,Fern Creek,42,6,1,   ,0
 2002-09-13,Shelby County,Anderson County,37,10,0,   ,0
 2002-09-13,Shelby Valley,Berea,36,28,1,   ,0
-2002-09-13,Sheldon Clark,Tug Valley. WV,49,6,1,   ,0
+2002-09-13,Sheldon Clark,Out of State,49,6,1,   ,0
 2002-09-13,Simon Kenton,Scott,13,10,0,   ,0
 2002-09-13,South Floyd,Phelps,42,20,0,   ,0
-2002-09-13,South Fulton. TN,Fulton City,34,0,0,   ,0
+2002-09-13,Out of State,Fulton City,34,0,0,   ,0
 2002-09-13,Southern,Moore,21,20,0,   ,0
 2002-09-13,Southwestern,Somerset,30,0,0,   ,0
-2002-09-13,St. Francis Desales. OH,Covington Catholic,34,6,1,   ,0
+2002-09-13,Out of State,Covington Catholic,34,6,1,   ,0
 2002-09-13,St. Xavier,Central,16,12,0,   ,0
 2002-09-13,Trigg County,Reidland,50,0,1,  (game called in 3rd quarter due to lightning) ,0
 2002-09-13,Trinity (Louisville),Oldham County,52,14,0,   ,0
@@ -403,10 +403,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-13,Woodford County,West Jessamine,28,26,1,   ,0
 2002-09-14,Boyle County,Prestonsburg,55,0,0,   ,0
 2002-09-14,Dixie Heights,Lloyd Memorial,47,19,2,   ,0
-2002-09-14,Kentucky School f/t Deaf,School f/t Deaf. SC,44,6,1,   ,0
+2002-09-14,Kentucky School f/t Deaf,Out of State,44,6,1,   ,0
 2002-09-14,Newport Central Catholic,Campbell County,20,2,2,   ,0
 2002-09-19,Green County,Taylor County,37,7,1,   ,0
-2002-09-19,School f/t Deaf. GA,Kentucky School f/t Deaf,36,24,0,   ,0
+2002-09-19,Out of State,Kentucky School f/t Deaf,36,24,0,   ,0
 2002-09-20,Adair County,Caverna,36,0,0,   ,0
 2002-09-20,Anderson County,Western Hills,29,24,0,   ,0
 2002-09-20,Ballard Memorial,Crittenden County,25,6,1,   ,0
@@ -417,10 +417,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-20,Bourbon County,Franklin County,36,0,0,   ,0
 2002-09-20,Bowling Green,Logan County,31,8,0,   ,0
 2002-09-20,Boyd County,Magoffin County,68,8,0,   ,0
-2002-09-20,Breckinridge County,North Bullitt,22,16,1,  (double overtime) ,0
+2002-09-20,Breckinridge County,North Bullitt,22,16,1,  (double overtime) ,1
 2002-09-20,Bullitt East,Fairdale,18,0,0,   ,0
 2002-09-20,Butler,Nelson County,10,7,1,   ,0
-2002-09-20,Caldwell County,West Carroll. TN,35,22,0,   ,0
+2002-09-20,Caldwell County,Out of State,35,22,0,   ,0
 2002-09-20,Calloway County,Lone Oak,25,0,1,   ,0
 2002-09-20,Carroll County,Garrard County,23,20,0,   ,0
 2002-09-20,Cawood,Knott County Central,45,20,0,   ,0
@@ -435,7 +435,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-20,Fleming-Neon,Allen Central,26,18,0,   ,0
 2002-09-20,Fort Knox,McLean County,20,6,0,   ,0
 2002-09-20,Frankfort,Grant County,22,6,1,   ,0
-2002-09-20,Franklin Classical. TN,Beth Haven,1,0,0,  (forfeit) ,0
+2002-09-20,Out of State,Beth Haven,1,0,0,  (forfeit) ,0
 2002-09-20,George Rogers Clark,Clay County,35,12,0,   ,0
 2002-09-20,Greenup County,Johnson Central,43,22,0,   ,0
 2002-09-20,Greenwood,Warren East,30,20,0,   ,0
@@ -446,7 +446,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-20,Holy Cross (Louisville),Nicholas County,28,0,1,   ,0
 2002-09-20,Hopkins County Central,Hancock County,47,0,1,   ,0
 2002-09-20,Hopkinsville,Graves County,19,9,0,   ,0
-2002-09-20,Ironton. OH,Campbell County,28,0,0,   ,0
+2002-09-20,Out of State,Campbell County,28,0,0,   ,0
 2002-09-20,John Hardin,Glasgow,27,26,0,   ,0
 2002-09-20,Kentucky Country Day,Trimble County,34,6,0,   ,0
 2002-09-20,LaRue County,Washington County,42,0,0,   ,0
@@ -472,7 +472,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-20,Pike County Central,Shelby Valley,38,20,1,   ,0
 2002-09-20,Pikeville,South Floyd,54,16,1,   ,0
 2002-09-20,Pleasure Ridge Park,Central Hardin,19,6,0,   ,0
-2002-09-20,Portageville. MO,Fulton County,55,0,1,   ,0
+2002-09-20,Out of State,Fulton County,55,0,1,   ,0
 2002-09-20,Powell County,Bath County,51,34,1,   ,0
 2002-09-20,Pulaski County,Lincoln County,46,24,0,   ,0
 2002-09-20,Raceland,Ludlow,41,8,1,   ,0
@@ -507,7 +507,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-26,Beth Haven,Kentucky School f/t Deaf,1,0,0,  (forfeit) ,0
 2002-09-26,Casey County,McCreary Central,41,18,1,   ,0
 2002-09-26,Perry County Central,Powell County,50,12,1,   ,0
-2002-09-27,Allen County-Scottsville,Westmoreland. TN,44,14,1,   ,0
+2002-09-27,Allen County-Scottsville,Out of State,44,14,1,   ,0
 2002-09-27,Bardstown,DeSales,59,40,1,   ,0
 2002-09-27,Belfry,Pikeville,20,13,0,   ,0
 2002-09-27,Bourbon County,Western Hills,52,17,1,   ,0
@@ -536,17 +536,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-27,Fleming-Neon,South Floyd,26,6,1,   ,0
 2002-09-27,Fort Knox,Fort Campbell,28,0,1,   ,0
 2002-09-27,Frankfort,Lexington Christian,49,7,0,   ,0
-2002-09-27,Fulton County,East Prairie. MO,21,18,1,   ,0
+2002-09-27,Fulton County,Out of State,21,18,1,   ,0
 2002-09-27,Glasgow,Hart County,49,20,0,   ,0
 2002-09-27,Greenup County,Magoffin County,52,8,1,   ,0
 2002-09-27,Greenwood,Ohio County,27,13,1,   ,0
 2002-09-27,Henderson County,Madisonville-North Hopkins,46,18,0,   ,0
 2002-09-27,Henry Clay,Bryan Station,34,13,1,   ,0
-2002-09-27,Henry County. TN,Marshall County,21,7,1,   ,0
+2002-09-27,Out of State,Marshall County,21,7,1,   ,0
 2002-09-27,Holy Cross (Covington),Paris,30,12,0,   ,0
 2002-09-27,Hopkins County Central,Lone Oak,21,7,1,   ,0
 2002-09-27,Hopkinsville,Christian County,15,7,1,   ,0
-2002-09-27,Jackson. MO,Graves County,34,12,1,   ,0
+2002-09-27,Out of State,Graves County,34,12,1,   ,0
 2002-09-27,Lafayette,Woodford County,34,15,1,   ,0
 2002-09-27,Leslie County,Shelby Valley,36,0,0,   ,0
 2002-09-27,Lewis County,Morgan County,13,8,0,   ,0
@@ -570,12 +570,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-27,Paintsville,Phelps,30,0,1,   ,0
 2002-09-27,Paul Laurence Dunbar,Tates Creek,28,21,2,   ,0
 2002-09-27,Pike County Central,Betsy Layne,46,0,1,   ,0
-2002-09-27,Pineville,Thomas Walker. VA,60,0,1,   ,0
+2002-09-27,Pineville,Out of State,60,0,1,   ,0
 2002-09-27,Pleasure Ridge Park,Bullitt Central,41,0,1,   ,0
 2002-09-27,Prestonsburg,Whitesburg,30,0,1,   ,0
 2002-09-27,Reidland,Fulton City,20,18,0,   ,0
 2002-09-27,Russell County,Campbellsville,21,7,0,   ,0
-2002-09-27,Rutledge. TN,Cawood,18,6,1,   ,0
+2002-09-27,Out of State,Cawood,18,6,1,   ,0
 2002-09-27,Seneca,Atherton,57,3,1,   ,0
 2002-09-27,Shelby County,Jeffersontown,57,0,1,   ,0
 2002-09-27,Southwestern,George Rogers Clark,27,18,2,   ,0
@@ -592,9 +592,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-28,Conner,Holmes,22,18,0,   ,0
 2002-09-28,East Jessamine,Pulaski County,32,26,0,   ,0
 2002-09-28,Harrison County,Franklin County,54,0,1,   ,0
-2002-09-28,Ironton. OH,Ashland Blazer,53,18,1,   ,0
+2002-09-28,Out of State,Ashland Blazer,53,18,1,   ,0
 2002-09-28,LaRue County,Moore,56,14,1,   ,0
-2002-09-28,Lawrence County,Sheldon Clark,20,14,0,  (double overtime) ,0
+2002-09-28,Lawrence County,Sheldon Clark,20,14,0,  (double overtime) ,1
 2002-09-28,Meade County,Butler,26,6,1,   ,0
 2002-09-28,Newport,Garrard County,21,18,1,   ,0
 2002-09-28,Owensboro Catholic,Todd County Central,58,13,1,   ,0
@@ -604,7 +604,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-09-28,Wayne County,Knox Central,34,0,0,   ,0
 2002-09-29,Covington Catholic,Newport Central Catholic,38,7,0,   ,0
 2002-10-02,Eminence,Kentucky School f/t Deaf,1,0,1,  (forfeit) ,0
-2002-10-03,Cape Central. MO,Graves County,46,7,1,   ,0
+2002-10-03,Out of State,Graves County,46,7,1,   ,0
 2002-10-03,Central,North Bullitt,48,41,1,   ,0
 2002-10-03,DuPont Manual,Atherton,48,13,0,   ,0
 2002-10-03,East Jessamine,West Jessamine,38,27,1,   ,0
@@ -647,7 +647,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-04,DeSales,Western,21,14,1,   ,0
 2002-10-04,Dixie Heights,Conner,24,6,1,   ,0
 2002-10-04,East Ridge,Clay County,16,14,1,   ,0
-2002-10-04,Eastern,Oldham County,6,3,1,  (double overtime) ,0
+2002-10-04,Eastern,Oldham County,6,3,1,  (double overtime) ,1
 2002-10-04,Estill County,Morgan County,62,12,1,   ,0
 2002-10-04,Fairview,Berea,28,8,0,   ,0
 2002-10-04,Fern Creek,Jeffersontown,28,12,1,   ,0
@@ -664,7 +664,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-04,Holy Cross (Louisville),Trimble County,21,6,0,   ,0
 2002-10-04,Hopkins County Central,McLean County,27,6,1,   ,0
 2002-10-04,Hopkinsville,Union County,55,13,0,   ,0
-2002-10-04,Ironton. OH,Holmes,39,14,1,   ,0
+2002-10-04,Out of State,Holmes,39,14,1,   ,0
 2002-10-04,Kentucky Country Day,Bethlehem,34,0,1,   ,0
 2002-10-04,LaRue County,Elizabethtown,50,0,0,   ,0
 2002-10-04,Lafayette,Tates Creek,14,0,0,   ,0
@@ -682,8 +682,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-04,North Hardin,Butler,20,17,1,   ,0
 2002-10-04,Owensboro,Greenwood,15,12,1,   ,0
 2002-10-04,Paducah Tilghman,Lone Oak,30,8,0,   ,0
-2002-10-04,Portsmouth West. OH,Russell,28,14,0,   ,0
-2002-10-04,Providence. IN,Iroquois,41,0,1,   ,0
+2002-10-04,Out of State,Russell,28,14,0,   ,0
+2002-10-04,Out of State,Iroquois,41,0,1,   ,0
 2002-10-04,Pulaski County,McCreary Central,46,8,0,   ,0
 2002-10-04,Raceland,Paris,31,0,0,   ,0
 2002-10-04,Rockcastle County,Knott County Central,71,0,0,   ,0
@@ -699,14 +699,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-04,Trinity (Louisville),South Oldham,45,0,1,   ,0
 2002-10-04,Warren Central,Warren East,42,12,0,   ,0
 2002-10-04,Washington County,Moore,42,0,1,   ,0
-2002-10-04,Wayne County,Taylor County,20,19,1,  (double overtime) ,0
+2002-10-04,Wayne County,Taylor County,20,19,1,  (double overtime) ,1
 2002-10-04,Webster County,Crittenden County,14,7,1,   ,0
 2002-10-04,Whitesburg,Fleming-Neon,27,0,0,   ,0
 2002-10-04,Williamsburg,Pineville,34,26,0,   ,0
-2002-10-04,Williamson. WV,Shelby Valley,36,8,0,   ,0
+2002-10-04,Out of State,Shelby Valley,36,8,0,   ,0
 2002-10-05,Boyd County,Sheldon Clark,19,8,1,   ,0
 2002-10-05,Highlands,Covington Catholic,28,14,1,   ,0
-2002-10-05,Owensboro Catholic,South Spencer. IN,25,6,1,   ,0
+2002-10-05,Owensboro Catholic,Out of State,25,6,1,   ,0
 2002-10-05,Perry County Central,Knox Central,49,7,1,   ,0
 2002-10-05,Somerset,Harrodsburg,34,19,1,   ,0
 2002-10-10,Dayton,Ludlow,31,8,1,   ,0
@@ -727,9 +727,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-11,Butler,Bullitt Central,49,6,1,   ,0
 2002-10-11,Caldwell County,Reidland,42,0,0,   ,0
 2002-10-11,Casey County,Adair County,27,0,0,   ,0
-2002-10-11,Cawood,Lee County-Jonesville. VA,14,7,2,   ,0
+2002-10-11,Cawood,Out of State,14,7,2,   ,0
 2002-10-11,Christian Academy-Louisville,Fort Knox,8,6,0,   ,0
-2002-10-11,Christian County,Evansville Central. IN,12,0,0,   ,0
+2002-10-11,Christian County,Out of State,12,0,0,   ,0
 2002-10-11,Conner,Ryle,21,14,0,   ,0
 2002-10-11,Corbin,Taylor County,18,6,0,   ,0
 2002-10-11,Crittenden County,Russellville,19,3,1,   ,0
@@ -740,11 +740,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-11,Eastern,Waggener,38,21,0,   ,0
 2002-10-11,Elizabethtown,Shawnee,56,0,0,   ,0
 2002-10-11,Eminence,Beth Haven,1,0,1,  (forfeit) ,0
-2002-10-11,Evansville North. IN,Owensboro,35,7,0,   ,0
+2002-10-11,Out of State,Owensboro,35,7,0,   ,0
 2002-10-11,Evarts,Williamsburg,22,16,0,   ,0
-2002-10-11,Fairdale,Providence. IN,21,17,0,   ,0
+2002-10-11,Fairdale,Out of State,21,17,0,   ,0
 2002-10-11,Fort Campbell,Heath,49,16,0,   ,0
-2002-10-11,Fulton County,Lake County. TN,48,20,0,   ,0
+2002-10-11,Fulton County,Out of State,48,20,0,   ,0
 2002-10-11,George Rogers Clark,North Laurel,32,0,1,   ,0
 2002-10-11,Glasgow,Butler County,34,0,1,   ,0
 2002-10-11,Grayson County,Apollo,13,12,1,   ,0
@@ -757,7 +757,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-11,Henderson County,Graves County,33,7,0,   ,0
 2002-10-11,Henry Clay,Tates Creek,35,7,1,   ,0
 2002-10-11,Highlands,Grant County,54,6,0,   ,0
-2002-10-11,Holy Cross (Louisville),Clarksville. IN,37,20,1,   ,0
+2002-10-11,Holy Cross (Louisville),Out of State,37,20,1,   ,0
 2002-10-11,Hopkinsville,Calloway County,48,9,1,   ,0
 2002-10-11,Kentucky Country Day,Caverna,67,8,0,   ,0
 2002-10-11,Knott County Central,Betsy Layne,1,0,0,  (forfeit) ,0
@@ -771,7 +771,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-11,Madisonville-North Hopkins,Marshall County,16,0,0,   ,0
 2002-10-11,Male,Central,46,7,0,   ,0
 2002-10-11,Mason County,Lewis County,47,13,1,   ,0
-2002-10-11,Mayfield,Jackson North Side. TN,21,0,0,   ,0
+2002-10-11,Mayfield,Out of State,21,0,0,   ,0
 2002-10-11,McLean County,Hancock County,33,7,1,   ,0
 2002-10-11,Meade County,Central Hardin,35,0,0,   ,0
 2002-10-11,Mercer County,Carroll County,39,24,0,   ,0
@@ -792,7 +792,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-11,Raceland,Lexington Christian,53,3,1,   ,0
 2002-10-11,Rockcastle County,Perry County Central,54,0,1,   ,0
 2002-10-11,Russell,West Carter,34,8,1,   ,0
-2002-10-11,Scott,Holmes,27,26,1,  (double overtime) ,0
+2002-10-11,Scott,Holmes,27,26,1,  (double overtime) ,1
 2002-10-11,Scott County,Woodford County,27,15,1,   ,0
 2002-10-11,Somerset,Campbellsville,24,21,0,  (overtime) ,1
 2002-10-11,Southern,North Bullitt,19,18,0,   ,0
@@ -812,7 +812,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-17,Breathitt County,Morgan County,62,18,0,   ,0
 2002-10-17,Owen County,Henry County,47,6,1,   ,0
 2002-10-17,Paris,Lexington Christian,48,3,0,   ,0
-2002-10-17,School f/t Deaf. TN,Kentucky School f/t Deaf,-,-,0,7:30 PM  (canceled) ,0
+2002-10-17,Out of State,Kentucky School f/t Deaf,-,-,0,7:30 PM  (canceled) ,0
 2002-10-18,Allen County-Scottsville,Bowling Green,31,19,1,   ,0
 2002-10-18,Ballard,Oldham County,23,15,1,   ,0
 2002-10-18,Ballard Memorial,Fulton County,45,22,1,   ,0
@@ -849,7 +849,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-18,Fleming County,West Carter,45,30,0,   ,0
 2002-10-18,Fort Campbell,Muhlenberg South,34,7,1,   ,0
 2002-10-18,Fort Knox,Trimble County,42,6,0,   ,0
-2002-10-18,Franklin Classical. TN,Beth Haven,1,0,2,  (forfeit) ,0
+2002-10-18,Out of State,Beth Haven,1,0,2,  (forfeit) ,0
 2002-10-18,Franklin-Simpson,Warren East,55,33,0,   ,0
 2002-10-18,George Rogers Clark,Whitley County,40,28,0,   ,0
 2002-10-18,Glasgow,Todd County Central,65,0,1,   ,0
@@ -942,7 +942,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-25,Estill County,Leslie County,26,19,0,   ,0
 2002-10-25,Evarts,Cumberland,30,6,0,   ,0
 2002-10-25,Fairdale,Central,42,22,1,   ,0
-2002-10-25,Fayette Christian. GA,Beth Haven,1,0,0,  (forfeit) ,0
+2002-10-25,Out of State,Beth Haven,1,0,0,  (forfeit) ,0
 2002-10-25,Franklin County,Lexington Catholic,1,0,1,  (forfeit) ,0
 2002-10-25,Franklin-Simpson,Logan County,61,27,1,   ,0
 2002-10-25,George Rogers Clark,South Laurel,40,18,1,   ,0
@@ -954,7 +954,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-25,Holy Cross (Covington),Dayton,40,21,0,   ,0
 2002-10-25,Holy Cross (Louisville),Fort Knox,27,8,1,   ,0
 2002-10-25,Hopkinsville,Hopkins County Central,19,7,1,   ,0
-2002-10-25,Ironton. OH,Belfry,42,28,1,   ,0
+2002-10-25,Out of State,Belfry,42,28,1,   ,0
 2002-10-25,Iroquois,Atherton,24,10,0,   ,0
 2002-10-25,John Hardin,Bowling Green,26,16,0,   ,0
 2002-10-25,Kentucky Country Day,Eminence,44,14,1,   ,0
@@ -1005,11 +1005,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-10-25,Webster County,Fort Campbell,21,14,1,   ,0
 2002-10-25,Western,Moore,26,20,0,   ,0
 2002-10-25,Western Hills,Trimble County,34,0,1,   ,0
-2002-10-25,Whitley County,Cincinnati Aiken. OH,28,20,0,   ,0
+2002-10-25,Whitley County,Out of State,28,20,0,   ,0
 2002-10-26,Boone County,Campbell County,42,13,1,   ,0
 2002-10-26,Covington Catholic,Grant County,49,14,1,   ,0
 2002-10-26,Dixie Heights,Ryle,34,21,1,   ,0
-2002-10-26,Eastern School f/t Deaf. NC,Kentucky School f/t Deaf,1,0,1,  (forfeit) ,0
+2002-10-26,Out of State,Kentucky School f/t Deaf,1,0,1,  (forfeit) ,0
 2002-11-01,Anderson County,Franklin County,38,8,1,   ,0
 2002-11-01,Apollo,Barren County,41,26,0,   ,0
 2002-11-01,Ashland Blazer,Greenup County,36,0,1,   ,0
@@ -1102,7 +1102,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-11-01,Southwestern,Whitley County,55,6,2,   ,0
 2002-11-01,St. Xavier,Atherton,76,0,1,   ,0
 2002-11-01,Taylor County,Adair County,32,14,0,   ,0
-2002-11-01,Trigg County,South Fulton. TN,41,7,0,   ,0
+2002-11-01,Trigg County,Out of State,41,7,0,   ,0
 2002-11-01,Trinity (Louisville),Eastern,35,3,0,   ,0
 2002-11-01,Warren Central,Franklin-Simpson,57,33,1,   ,0
 2002-11-01,West Jessamine,Marion County,59,28,1,   ,0

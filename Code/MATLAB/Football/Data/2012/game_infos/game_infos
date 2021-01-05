@@ -19,25 +19,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-17,Cooper,Ryle,35,6,1,   ,0
 2012-08-17,Corbin,George Rogers Clark,13,12,1,   ,0
 2012-08-17,Covington Catholic,Campbell County,37,0,2,   ,0
-2012-08-17,Eastern,Jeffersonville. IN,29,25,0,   ,0
+2012-08-17,Eastern,Out of State,29,25,0,   ,0
 2012-08-17,Edmonson County,McLean County,55,6,0,   ,0
 2012-08-17,Elizabethtown,Fort Knox,23,15,1,   ,0
 2012-08-17,Eminence,Caverna,22,0,0,   ,0
-2012-08-17,Evansville F.J. Reitz. IN,Henderson County,29,23,0,   ,0
+2012-08-17,Out of State,Henderson County,29,23,0,   ,0
 2012-08-17,Fleming County,Bath County,33,6,1,   ,0
-2012-08-17,Fort Campbell,Clarksville. TN,26,20,0,  (double overtime) ,0
+2012-08-17,Fort Campbell,Out of State,26,20,0,  (double overtime) ,1
 2012-08-17,Frankfort,Newport,30,9,1,   ,0
 2012-08-17,Franklin County,Nelson County,62,41,0,   ,0
 2012-08-17,Gallatin County,Ludlow,44,22,1,   ,0
 2012-08-17,Garrard County,Clay County,15,14,1,   ,0
 2012-08-17,Grayson County,Hancock County,34,22,1,   ,0
-2012-08-17,Greenwood,Trousdale County. TN,34,13,2,   ,0
+2012-08-17,Greenwood,Out of State,34,13,2,   ,0
 2012-08-17,Harlan,Pikeville,41,21,1,   ,0
 2012-08-17,Hart County,Breckinridge County,45,6,1,   ,0
 2012-08-17,Highlands,Boyle County,52,31,1,   ,0
 2012-08-17,Holy Cross (Covington),Dayton,69,20,1,   ,0
 2012-08-17,John Hardin,Henry Clay,44,27,0,   ,0
-2012-08-17,Johnson Central,Hayesville. NC,39,7,1,   ,0
+2012-08-17,Johnson Central,Out of State,39,7,1,   ,0
 2012-08-17,Kentucky Country Day,Shawnee,35,9,1,   ,0
 2012-08-17,Knox Central,South Laurel,40,21,2,   ,0
 2012-08-17,LaRue County,Adair County,47,7,2,   ,0
@@ -47,9 +47,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-17,Lincoln County,Casey County,35,23,1,   ,0
 2012-08-17,Lloyd Memorial,Owen County,25,21,1,   ,0
 2012-08-17,Lynn Camp,East Ridge,40,14,1,   ,0
-2012-08-17,Male,,48,7,1,   ,0
+2012-08-17,Male,Out of State,48,7,1,   ,0
 2012-08-17,Monroe County,Franklin-Simpson,12,0,0,   ,0
-2012-08-17,Murray,Lake County. TN,36,6,1,   ,0
+2012-08-17,Murray,Out of State,36,6,1,   ,0
 2012-08-17,Newport Central Catholic,Dixie Heights,37,22,0,   ,0
 2012-08-17,North Laurel,Pineville,42,20,0,   ,0
 2012-08-17,Ohio County,Muhlenberg County,41,13,1,   ,0
@@ -65,7 +65,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-17,Russell County,Campbellsville,51,0,2,   ,0
 2012-08-17,Russellville,Trigg County,25,14,1,   ,0
 2012-08-17,Scott County,Seneca,46,14,1,   ,0
-2012-08-17,Scott's Hill. TN,Fulton City,35,0,0,   ,0
+2012-08-17,Out of State,Fulton City,35,0,0,   ,0
 2012-08-17,Simon Kenton,Danville,12,7,2,   ,0
 2012-08-17,Somerset,East Jessamine,20,6,2,   ,0
 2012-08-17,South Oldham,Bullitt Central,41,35,0,   ,0
@@ -73,24 +73,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-17,St. Xavier,Fern Creek,52,7,1,   ,0
 2012-08-17,Tates Creek,West Jessamine,28,9,0,   ,0
 2012-08-17,Taylor County,McCreary Central,42,12,1,   ,0
-2012-08-17,Trinity (Louisville),Brentwood Academy. TN,52,23,1,   ,0
+2012-08-17,Trinity (Louisville),Out of State,52,23,1,   ,0
 2012-08-17,Valley,Holy Cross (Louisville),42,39,1,   ,0
 2012-08-17,Walton-Verona,Bellevue,21,6,1,   ,0
 2012-08-17,Warren Central,Mayfield,42,28,1,   ,0
 2012-08-17,Wayne County,Clinton County,52,6,0,   ,0
 2012-08-17,Webster County,Hopkins County Central,15,7,1,   ,0
-2012-08-17,West Carter,Fairview,1,0,0,  Forfeit,0
-2012-08-17,Williamsburg,Jellico. TN,68,8,0,   ,0
+2012-08-17,West Carter,Fairview,1,0, original score F42,  Forfeit,0
+2012-08-17,Williamsburg,Out of State,68,8,0,   ,0
 2012-08-17,Woodford County,Western Hills,49,13,1,   ,0
 2012-08-18,Barren County,Metcalfe County,28,0,2,   ,0
 2012-08-18,Bowling Green,Allen County-Scottsville,45,0,2,   ,0
 2012-08-18,Bracken County,Betsy Layne,26,6,1,   ,0
-2012-08-18,Evansville Central. IN,Marion County,55,16,2,   ,0
+2012-08-18,Out of State,Marion County,55,16,2,   ,0
 2012-08-18,Glasgow,Todd County Central,60,22,2,   ,0
 2012-08-18,Jenkins,Phelps,43,6,0,   ,0
 2012-08-18,Madison Central,Boone County,42,33,2,   ,0
 2012-08-18,Montgomery County,Rowan County,25,16,1,   ,0
-2012-08-18,Morristown-Hamblen West. TN,Harlan County,35,25,1,   ,0
+2012-08-18,Out of State,Harlan County,35,25,1,   ,0
 2012-08-18,Nicholas County,Lewis County,32,16,2,   ,0
 2012-08-18,North Bullitt,Green County,34,28,2,   ,0
 2012-08-18,North Oldham,Henry County,38,7,1,   ,0
@@ -115,15 +115,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-24,Breathitt County,Letcher County Central,54,16,1,   ,0
 2012-08-24,Butler County,Breckinridge County,33,10,0,   ,0
 2012-08-24,Caldwell County,Union County,45,15,2,   ,0
-2012-08-24,Campbell County,Milford. OH,34,14,0,   ,0
+2012-08-24,Campbell County,Out of State,34,14,0,   ,0
 2012-08-24,Carroll County,Lewis County,33,27,0,  (overtime) ,1
-2012-08-24,Christian Academy-Louisville,West Washington. IN,21,6,0,   ,0
+2012-08-24,Christian Academy-Louisville,Out of State,21,6,0,   ,0
 2012-08-24,Conner,Boone County,31,19,0,   ,0
 2012-08-24,Cooper,Holy Cross (Covington),49,7,1,   ,0
 2012-08-24,DeSales,Elizabethtown,63,14,0,   ,0
 2012-08-24,Doss,Seneca,28,17,0,   ,0
 2012-08-24,DuPont Manual,Fern Creek,14,7,1,   ,0
-2012-08-24,East Carter,Fairview,1,0,0,  Forfeit,0
+2012-08-24,East Carter,Fairview,1,0, original score F32,  Forfeit,0
 2012-08-24,Edmonson County,Muhlenberg County,47,14,0,   ,0
 2012-08-24,Eminence,Shawnee,40,15,0,   ,0
 2012-08-24,Fleming County,Nicholas County,53,14,1,   ,0
@@ -134,8 +134,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-24,Glasgow,Bullitt Central,28,7,1,   ,0
 2012-08-24,Grayson County,Central Hardin,21,14,0,   ,0
 2012-08-24,Hancock County,Ohio County,41,6,1,   ,0
-2012-08-24,Hazard,Clintwood. VA,23,17,1,   ,0
-2012-08-24,Henderson County,Evansville North. IN,24,21,0,   ,0
+2012-08-24,Hazard,Out of State,23,17,1,   ,0
+2012-08-24,Henderson County,Out of State,24,21,0,   ,0
 2012-08-24,Henry County,Walton-Verona,27,24,1,   ,0
 2012-08-24,Highlands,Scott County,60,37,1,   ,0
 2012-08-24,Holmes,Scott,21,15,1,   ,0
@@ -144,14 +144,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-24,Jenkins,Allen Central,38,16,1,   ,0
 2012-08-24,Johnson Central,Perry County Central,44,36,0,   ,0
 2012-08-24,Kentucky Country Day,Atherton,45,7,1,   ,0
-2012-08-24,Lake County. TN,Fulton County,61,18,1,   ,0
+2012-08-24,Out of State,Fulton County,61,18,1,   ,0
 2012-08-24,Lawrence County,Jackson County,42,8,1,   ,0
 2012-08-24,Leslie County,Magoffin County,38,22,1,   ,0
 2012-08-24,Lloyd Memorial,Dayton,21,6,0,   ,0
 2012-08-24,Ludlow,Pendleton County,48,37,1,   ,0
 2012-08-24,Male,Butler,14,8,0,   ,0
 2012-08-24,Marshall County,McLean County,56,7,1,   ,0
-2012-08-24,Middlesboro,Hancock County. TN,59,26,0,   ,0
+2012-08-24,Middlesboro,Out of State,59,26,0,   ,0
 2012-08-24,Monroe County,Metcalfe County,48,21,0,   ,0
 2012-08-24,Montgomery County,Mason County,21,14,0,   ,0
 2012-08-24,Moore,Holy Cross (Louisville),33,28,1,   ,0
@@ -161,7 +161,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-24,North Oldham,Oldham County,16,10,1,   ,0
 2012-08-24,Owensboro,Apollo,21,7,1,   ,0
 2012-08-24,Owensboro Catholic,Daviess County,28,14,0,   ,0
-2012-08-24,Paducah Tilghman,West Creek. TN,51,21,1,   ,0
+2012-08-24,Paducah Tilghman,Out of State,51,21,1,   ,0
 2012-08-24,Paris,Paintsville,20,12,0,   ,0
 2012-08-24,Pike County Central,Phelps,62,6,2,   ,0
 2012-08-24,Pineville,McCreary Central,46,6,0,   ,0
@@ -179,31 +179,31 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-24,Taylor County,Casey County,46,18,1,   ,0
 2012-08-24,Trigg County,Todd County Central,48,14,1,  (corrected score) ,0
 2012-08-24,Trimble County,Clinton County,10,8,1,   ,0
-2012-08-24,Trinity (Louisville),Montgomery Bell. TN,27,23,0,   ,0
+2012-08-24,Trinity (Louisville),Out of State,27,23,0,   ,0
 2012-08-24,Warren Central,Franklin-Simpson,40,14,0,   ,0
 2012-08-24,Warren East,Barren County,32,0,0,   ,0
 2012-08-24,Wayne County,Estill County,54,8,1,   ,0
 2012-08-24,Williamsburg,Harlan,36,0,1,   ,0
 2012-08-24,Woodford County,Nelson County,42,27,1,   ,0
 2012-08-25,Anderson County,Garrard County,24,16,2,   ,0
-2012-08-25,Archbishop McNicholas. OH,Newport Central Catholic,27,24,1,   ,0
-2012-08-25,Bishop Brossart,,42,20,1,   ,0
+2012-08-25,Out of State,Newport Central Catholic,27,24,1,   ,0
+2012-08-25,Bishop Brossart,Out of State,42,20,1,   ,0
 2012-08-25,Boyle County,Collins,49,26,1,   ,0
-2012-08-25,Central,Evansville F.J. Reitz. IN,47,27,2,   ,0
-2012-08-25,Christian County,Clarksville. TN,38,27,2,   ,0
+2012-08-25,Central,Out of State,47,27,2,   ,0
+2012-08-25,Christian County,Out of State,38,27,2,   ,0
 2012-08-25,Clay County,Washington County,56,14,1,   ,0
 2012-08-25,Covington Catholic,Dixie Heights,54,0,1,   ,0
 2012-08-25,Crittenden County,Hopkins County Central,21,6,1,   ,0
 2012-08-25,Danville,Lincoln County,51,7,1,   ,0
 2012-08-25,Eastern,Paul Laurence Dunbar,45,6,2,   ,0
-2012-08-25,Ensworth. TN,Lexington Catholic,62,14,0,   ,0
+2012-08-25,Out of State,Lexington Catholic,62,14,0,   ,0
 2012-08-25,Gallatin County,Berea,40,6,2,   ,0
-2012-08-25,Graves County,Evansville Harrison. IN,58,36,1,   ,0
+2012-08-25,Graves County,Out of State,58,36,1,   ,0
 2012-08-25,Green County,Marion County,43,28,0,   ,0
 2012-08-25,Greenwood,North Hardin,56,33,0,   ,0
 2012-08-25,Harlan County,Tates Creek,65,54,2,   ,0
 2012-08-25,John Hardin,West Jessamine,70,27,2,   ,0
-2012-08-25,Knox Central,Karns. TN,14,7,2,   ,0
+2012-08-25,Knox Central,Out of State,14,7,2,   ,0
 2012-08-25,Lexington Christian,Corbin,21,14,0,   ,0
 2012-08-25,Lone Oak,Hopkinsville,48,13,2,   ,0
 2012-08-25,Mayfield,Madisonville-North Hopkins,63,21,1,   ,0
@@ -212,13 +212,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-25,North Laurel,Campbellsville,40,7,1,   ,0
 2012-08-25,Owen County,Grant County,44,14,0,   ,0
 2012-08-25,Pikeville,Powell County,53,12,2,   ,0
-2012-08-25,Riverdale. TN,Ballard,47,7,2,   ,0
+2012-08-25,Out of State,Ballard,47,7,2,   ,0
 2012-08-25,Ryle,Henry Clay,28,20,2,   ,0
 2012-08-25,Shelby Valley,East Ridge,54,22,2,   ,0
 2012-08-25,South Laurel,Lynn Camp,54,6,2,   ,0
-2012-08-25,St. Xavier,Dutch Fork. SC,49,48,2,  (overtime) ,1
-2012-08-30,Colerain. OH,Ryle,35,0,0,   ,0
-2012-08-30,Eminence,Riverview East Academy. OH,44,6,0,   ,0
+2012-08-25,St. Xavier,Out of State,49,48,2,  (overtime) ,1
+2012-08-30,Out of State,Ryle,35,0,0,   ,0
+2012-08-30,Eminence,Out of State,44,6,0,   ,0
 2012-08-30,Lone Oak,Marshall County,52,7,0,   ,0
 2012-08-30,Magoffin County,Paintsville,46,12,1,   ,0
 2012-08-30,Reidland,Fulton County,21,18,1,   ,0
@@ -226,7 +226,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-31,Allen County-Scottsville,South Warren,15,8,1,   ,0
 2012-08-31,Anderson County,Shelby County,35,34,0,   ,0
 2012-08-31,Apollo,Daviess County,20,7,1,   ,0
-2012-08-31,Ashland Blazer,George Washington. WV,21,14,0,   ,0
+2012-08-31,Ashland Blazer,Out of State,21,14,0,   ,0
 2012-08-31,Atherton,Shawnee,36,19,1,  (corrected score) ,0
 2012-08-31,Ballard,Seneca,27,6,1,   ,0
 2012-08-31,Bath County,Lewis County,20,18,1,   ,0
@@ -244,23 +244,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-31,Butler,Eastern,33,30,0,   ,0
 2012-08-31,Butler County,Fort Knox,28,14,1,   ,0
 2012-08-31,Caldwell County,Ohio County,56,20,1,   ,0
-2012-08-31,Calloway County,Massac. IL,43,28,1,   ,0
+2012-08-31,Calloway County,Out of State,43,28,1,   ,0
 2012-08-31,Campbell County,Newport Central Catholic,42,16,1,   ,0
 2012-08-31,Carroll County,Ludlow,31,6,0,   ,0
 2012-08-31,Central,DeSales,27,14,0,   ,0
 2012-08-31,Central Hardin,Elizabethtown,51,20,0,   ,0
-2012-08-31,Cincinnati Country Day. OH,Pendleton County,32,22,0,   ,0
+2012-08-31,Out of State,Pendleton County,32,22,0,   ,0
 2012-08-31,Clay County,Perry County Central,28,19,1,   ,0
 2012-08-31,Collins,Oldham County,28,14,1,   ,0
 2012-08-31,Conner,Holy Cross (Covington),67,21,1,   ,0
 2012-08-31,Cooper,Boone County,10,0,1,   ,0
 2012-08-31,Danville,Boyle County,28,21,0,   ,0
 2012-08-31,East Ridge,Phelps,60,28,1,   ,0
-2012-08-31,Fleming County,Fairview,1,0,0,  Forfeit,0
+2012-08-31,Fleming County,Fairview,1,0, original score F21,  Forfeit,0
 2012-08-31,Frankfort,Green County,34,20,0,   ,0
 2012-08-31,Franklin County,Letcher County Central,77,28,1,   ,0
-2012-08-31,Franklin-Simpson,West Creek. TN,25,17,0,   ,0
-2012-08-31,Fulton City,Jackson Preparatory School. TN,40,12,1,   ,0
+2012-08-31,Franklin-Simpson,Out of State,25,17,0,   ,0
+2012-08-31,Fulton City,Out of State,40,12,1,   ,0
 2012-08-31,Gallatin County,Bellevue,52,16,0,   ,0
 2012-08-31,Garrard County,Lloyd Memorial,35,14,1,   ,0
 2012-08-31,Glasgow,Barren County,28,8,1,   ,0
@@ -268,24 +268,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-31,Grayson County,Edmonson County,15,13,0,   ,0
 2012-08-31,Greenwood,Hopkinsville,45,17,2,   ,0
 2012-08-31,Hancock County,Muhlenberg County,53,6,1,   ,0
-2012-08-31,Harlan County,Gate City. VA,55,0,1,   ,0
+2012-08-31,Harlan County,Out of State,55,0,1,   ,0
 2012-08-31,Heath,Caverna,33,24,1,   ,0
-2012-08-31,Henderson County,Christian County,37,36,0,  (double overtime) ,0
+2012-08-31,Henderson County,Christian County,37,36,0,  (double overtime) ,1
 2012-08-31,Henry Clay,Belfry,40,20,0,   ,0
 2012-08-31,Holmes,Beechwood,33,21,0,   ,0
-2012-08-31,Ironton. OH,Russell,47,21,0,   ,0
+2012-08-31,Out of State,Russell,47,21,0,   ,0
 2012-08-31,Jeffersontown,Moore,47,26,0,   ,0
 2012-08-31,John Hardin,Meade County,28,10,0,   ,0
 2012-08-31,Kentucky Country Day,Waggener,60,26,0,   ,0
 2012-08-31,Knox Central,Johnson Central,39,29,2,   ,0
 2012-08-31,LaRue County,Spencer County,14,12,1,   ,0
-2012-08-31,Lasalle. OH,Covington Catholic,27,11,1,   ,0
+2012-08-31,Out of State,Covington Catholic,27,11,1,   ,0
 2012-08-31,Lawrence County,Prestonsburg,42,41,1,   ,0
 2012-08-31,Leslie County,Allen Central,37,8,0,   ,0
 2012-08-31,Lexington Catholic,Lafayette,42,7,1,   ,0
 2012-08-31,Lexington Christian,Harlan,28,25,0,   ,0
 2012-08-31,Lincoln County,Washington County,53,0,1,   ,0
-2012-08-31,Madison Central,Mercer County,19,13,1,  (double overtime) ,0
+2012-08-31,Madison Central,Mercer County,19,13,1,  (double overtime) ,1
 2012-08-31,Madison Southern,Lynn Camp,47,0,0,   ,0
 2012-08-31,Male,Western,28,0,0,   ,0
 2012-08-31,Mayfield,Paducah Tilghman,42,21,1,   ,0
@@ -303,12 +303,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-08-31,Paul Laurence Dunbar,Fern Creek,20,15,0,   ,0
 2012-08-31,Pike County Central,Powell County,45,27,1,   ,0
 2012-08-31,Pleasure Ridge Park,Doss,56,16,1,   ,0
-2012-08-31,Providence. IN,Holy Cross (Louisville),28,7,0,   ,0
+2012-08-31,Out of State,Holy Cross (Louisville),28,7,0,   ,0
 2012-08-31,Raceland,Pikeville,54,14,1,   ,0
 2012-08-31,Rowan County,Mason County,33,19,1,   ,0
 2012-08-31,Russell County,South Laurel,62,13,1,   ,0
 2012-08-31,Russellville,Hopkins County Central,54,0,1,   ,0
-2012-08-31,Scott,Taylor. OH,35,9,0,   ,0
+2012-08-31,Scott,Out of State,35,9,0,   ,0
 2012-08-31,Scott County,Harrison County,61,6,1,   ,0
 2012-08-31,Simon Kenton,Pulaski County,50,7,1,   ,0
 2012-08-31,South Floyd,Jenkins,50,36,1,   ,0
@@ -347,7 +347,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-07,Casey County,Clinton County,52,8,1,   ,0
 2012-09-07,Central,Ballard,19,14,0,   ,0
 2012-09-07,Christian County,Lone Oak,42,41,1,   ,0
-2012-09-07,Cincinnati Hills Christian Academy. OH,Lexington Christian,21,7,0,   ,0
+2012-09-07,Out of State,Lexington Christian,21,7,0,   ,0
 2012-09-07,Clay County,South Laurel,38,20,0,   ,0
 2012-09-07,Cooper,Campbell County,27,16,0,   ,0
 2012-09-07,Danville,Corbin,28,21,1,   ,0
@@ -372,7 +372,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-07,Iroquois,Southern,16,8,1,   ,0
 2012-09-07,Jenkins,Paintsville,28,22,1,   ,0
 2012-09-07,John Hardin,Boyle County,34,14,0,   ,0
-2012-09-07,Knox Central,Gatlinburg-Pittman. TN,34,6,1,   ,0
+2012-09-07,Knox Central,Out of State,34,6,1,   ,0
 2012-09-07,Lewis County,Powell County,28,7,0,   ,0
 2012-09-07,Lexington Catholic,Male,28,7,0,   ,0
 2012-09-07,Lincoln County,Garrard County,19,18,0,   ,0
@@ -409,14 +409,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-07,Simon Kenton,Holmes,31,7,1,  (called at halftime - lightning) ,0
 2012-09-07,Somerset,Hazard,17,9,1,   ,0
 2012-09-07,South Floyd,Knott County Central,54,20,1,   ,0
-2012-09-07,South Fulton. TN,Fulton City,20,0,0,   ,0
+2012-09-07,Out of State,Fulton City,20,0,0,   ,0
 2012-09-07,South Oldham,Oldham County,42,18,0,   ,0
 2012-09-07,South Warren,Russellville,20,0,1,   ,0
 2012-09-07,Southwestern,Marion County,28,21,1,   ,0
 2012-09-07,Spencer County,Bullitt East,27,0,1,   ,0
 2012-09-07,St. Xavier,Doss,58,6,1,   ,0
 2012-09-07,Trigg County,Caldwell County,38,37,0,  (called with 5:42 remaining) ,0
-2012-09-07,Trinity (Louisville),Cincinnati Elder. OH,45,21,1,   ,0
+2012-09-07,Trinity (Louisville),Out of State,45,21,1,   ,0
 2012-09-07,Warren Central,Meade County,21,7,1,   ,0
 2012-09-07,Warren East,Daviess County,42,7,0,   ,0
 2012-09-07,Wayne County,Madison Southern,22,21,0,  (overtime) ,1
@@ -425,14 +425,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-08,Covington Catholic,Boone County,34,0,1,   ,0
 2012-09-08,Crittenden County,Union County,35,6,1,   ,0
 2012-09-08,Graves County,Paducah Tilghman,20,15,0,   ,0
-2012-09-08,Lake County. TN,Reidland,54,14,0,   ,0
+2012-09-08,Out of State,Reidland,54,14,0,   ,0
 2012-09-08,Madisonville-North Hopkins,Hopkinsville,36,14,2,   ,0
 2012-09-08,Morgan County,Pendleton County,54,12,1,   ,0
-2012-09-08,Owensboro Catholic,South Spencer. IN,24,14,0,   ,0
+2012-09-08,Owensboro Catholic,Out of State,24,14,0,   ,0
 2012-09-13,Green County,Campbellsville,58,28,2,   ,0
 2012-09-14,Adair County,Hart County,37,16,0,   ,0
 2012-09-14,Anderson County,Mercer County,48,7,0,   ,0
-2012-09-14,Archbishop Moeller. OH,St. Xavier,34,27,0,   ,0
+2012-09-14,Out of State,St. Xavier,34,27,0,   ,0
 2012-09-14,Ballard,DuPont Manual,21,0,1,   ,0
 2012-09-14,Ballard Memorial,Fulton County,62,12,0,   ,0
 2012-09-14,Bardstown,Elizabethtown,55,20,0,   ,0
@@ -444,17 +444,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-14,Bourbon County,Harrison County,51,8,0,   ,0
 2012-09-14,Bowling Green,Owensboro,31,3,0,   ,0
 2012-09-14,Boyle County,Dixie Heights,37,21,1,   ,0
-2012-09-14,Bracken County,Fayetteville. OH,25,0,1,   ,0
+2012-09-14,Bracken County,Out of State,25,0,1,   ,0
 2012-09-14,Breathitt County,Somerset,24,13,0,   ,0
 2012-09-14,Bullitt Central,East Jessamine,39,23,0,   ,0
 2012-09-14,Bullitt East,Waggener,57,14,0,   ,0
 2012-09-14,Butler,Doss,35,6,1,   ,0
 2012-09-14,Caldwell County,Franklin-Simpson,49,13,0,   ,0
-2012-09-14,Casey County,Fairview,1,0,0,  Forfeit,0
+2012-09-14,Casey County,Fairview,1,0, original score F68,  Forfeit,0
 2012-09-14,Caverna,Clinton County,45,6,0,   ,0
 2012-09-14,Central,Western,28,6,1,   ,0
 2012-09-14,Central Hardin,North Hardin,24,21,0,   ,0
-2012-09-14,Christian Academy-Louisville,Providence. IN,31,7,1,   ,0
+2012-09-14,Christian Academy-Louisville,Out of State,31,7,1,   ,0
 2012-09-14,Christian County,Fort Campbell,41,22,0,   ,0
 2012-09-14,Conner,Campbell County,35,28,0,   ,0
 2012-09-14,Cooper,Holmes,29,0,1,   ,0
@@ -467,22 +467,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-14,Fleming County,East Carter,35,14,1,   ,0
 2012-09-14,Frankfort,Western Hills,40,12,1,   ,0
 2012-09-14,Franklin County,Scott,63,31,0,   ,0
-2012-09-14,Franklin Road Academy. TN,Holy Cross (Louisville),29,28,1,   ,0
+2012-09-14,Out of State,Holy Cross (Louisville),29,28,1,   ,0
 2012-09-14,Grant County,Greenup County,26,0,0,   ,0
 2012-09-14,Grayson County,Butler County,51,26,1,   ,0
 2012-09-14,Greenwood,Logan County,62,34,0,   ,0
 2012-09-14,Harlan,Lynn Camp,53,7,0,   ,0
-2012-09-14,Harlan County,Lee County-Jonesville. VA,36,6,0,   ,0
+2012-09-14,Harlan County,Out of State,36,6,0,   ,0
 2012-09-14,Henderson County,Apollo,53,16,0,   ,0
 2012-09-14,Henry Clay,George Rogers Clark,53,36,1,   ,0
 2012-09-14,Highlands,Mason County,61,3,1,   ,0
 2012-09-14,Hopkinsville,Allen County-Scottsville,20,14,1,  (overtime) ,1
-2012-09-14,Hurley. VA,East Ridge,22,14,0,   ,0
-2012-09-14,Ironton. OH,Ashland Blazer,27,17,1,   ,0
+2012-09-14,Out of State,East Ridge,22,14,0,   ,0
+2012-09-14,Out of State,Ashland Blazer,27,17,1,   ,0
 2012-09-14,Jackson County,Trimble County,18,0,0,   ,0
-2012-09-14,Johnson Central,Logan. WV,46,12,1,   ,0
+2012-09-14,Johnson Central,Out of State,46,12,1,   ,0
 2012-09-14,Kentucky Country Day,Iroquois,28,13,0,   ,0
-2012-09-14,Knox Central,Clinton. TN,48,28,1,   ,0
+2012-09-14,Knox Central,Out of State,48,28,1,   ,0
 2012-09-14,Lafayette,Paul Laurence Dunbar,55,21,0,   ,0
 2012-09-14,Leslie County,McCreary Central,43,6,1,   ,0
 2012-09-14,Letcher County Central,Lawrence County,46,23,0,   ,0
@@ -498,7 +498,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-14,Mayfield,Graves County,56,28,0,   ,0
 2012-09-14,Meade County,Jeffersontown,32,13,1,   ,0
 2012-09-14,Monroe County,Glasgow,28,0,1,   ,0
-2012-09-14,Montcalm. WV,Phelps,42,28,0,   ,0
+2012-09-14,Out of State,Phelps,42,28,0,   ,0
 2012-09-14,Moore,Atherton,47,6,0,   ,0
 2012-09-14,Morgan County,South Floyd,46,0,0,   ,0
 2012-09-14,Murray,Heath,49,13,0,   ,0
@@ -508,8 +508,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-14,North Bullitt,Valley,50,7,1,   ,0
 2012-09-14,Ohio County,Webster County,41,7,0,   ,0
 2012-09-14,Oldham County,Holy Cross (Covington),48,21,1,   ,0
-2012-09-14,Oneida. TN,Williamsburg,23,20,1,   ,0
-2012-09-14,Oyler. OH,Eminence,31,20,0,   ,0
+2012-09-14,Out of State,Williamsburg,23,20,1,   ,0
+2012-09-14,Out of State,Eminence,31,20,0,   ,0
 2012-09-14,Paducah Tilghman,Crittenden County,54,0,0,   ,0
 2012-09-14,Paintsville,Allen Central,33,6,1,   ,0
 2012-09-14,Pendleton County,Bishop Brossart,35,28,1,   ,0
@@ -517,19 +517,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-14,Pleasure Ridge Park,DeSales,60,27,1,   ,0
 2012-09-14,Prestonsburg,Pike County Central,83,49,1,   ,0
 2012-09-14,Pulaski County,Rockcastle County,30,2,1,   ,0
-2012-09-14,Raceland,Sciotoville Community. OH,60,8,1,   ,0
+2012-09-14,Raceland,Out of State,60,8,1,   ,0
 2012-09-14,Russell,Boyd County,35,6,1,   ,0
 2012-09-14,Russell County,North Laurel,45,35,0,   ,0
 2012-09-14,Russellville,Todd County Central,39,14,0,   ,0
-2012-09-14,Ryle,St Francis DeSales (Columbus). OH,21,10,0,   ,0
+2012-09-14,Ryle,Out of State,21,10,0,   ,0
 2012-09-14,Scott County,Tates Creek,71,13,0,   ,0
 2012-09-14,Shelby County,Henry County,21,0,1,   ,0
 2012-09-14,Shelby Valley,Magoffin County,52,14,0,   ,0
-2012-09-14,South Oldham,North Oldham,43,42,1,  (double overtime) ,0
+2012-09-14,South Oldham,North Oldham,43,42,1,  (double overtime) ,1
 2012-09-14,South Warren,Edmonson County,42,14,0,   ,0
 2012-09-14,Spencer County,Woodford County,32,7,1,   ,0
 2012-09-14,Taylor County,Breckinridge County,40,0,1,   ,0
-2012-09-14,Trinity (Louisville),Cincinnati St. Xavier. OH,14,13,1,   ,0
+2012-09-14,Trinity (Louisville),Out of State,14,13,1,   ,0
 2012-09-14,Warren Central,Barren County,50,8,1,   ,0
 2012-09-14,Warren East,Metcalfe County,47,6,1,   ,0
 2012-09-14,Wayne County,Lincoln County,37,19,1,   ,0
@@ -580,7 +580,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-21,Gallatin County,Trimble County,48,0,1,   ,0
 2012-09-21,Graves County,Apollo,42,16,1,   ,0
 2012-09-21,Grayson County,North Hardin,35,13,0,   ,0
-2012-09-21,Greenup County,Fairview,1,0,1,  Forfeit,0
+2012-09-21,Greenup County,Fairview,1,0, original score F72,  Forfeit,0
 2012-09-21,Hancock County,Union County,34,6,0,   ,0
 2012-09-21,Harlan,Leslie County,24,21,1,   ,0
 2012-09-21,Henderson County,Meade County,16,8,1,   ,0
@@ -593,7 +593,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-21,Kentucky Country Day,Breckinridge County,46,8,1,   ,0
 2012-09-21,Knox Central,Harlan County,12,6,1,   ,0
 2012-09-21,Lafayette,Henry Clay,42,21,1,   ,0
-2012-09-21,Lake County. TN,Fulton City,52,12,1,   ,0
+2012-09-21,Out of State,Fulton City,52,12,1,   ,0
 2012-09-21,Lexington Catholic,Mercer County,34,16,0,   ,0
 2012-09-21,Lloyd Memorial,Holy Cross (Covington),36,35,0,   ,0
 2012-09-21,Lone Oak,Calloway County,54,7,1,   ,0
@@ -632,20 +632,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-21,South Warren,Caverna,42,6,0,   ,0
 2012-09-21,St. Xavier,Central,27,13,1,   ,0
 2012-09-21,Todd County Central,McLean County,53,7,1,   ,0
-2012-09-21,Trinity (Louisville),Indianapolis Cathedral. IN,24,16,0,   ,0
+2012-09-21,Trinity (Louisville),Out of State,24,16,0,   ,0
 2012-09-21,Waggener,Atherton,34,22,0,   ,0
 2012-09-21,Walton-Verona,Carroll County,27,7,0,   ,0
 2012-09-21,Warren Central,Greenwood,36,0,0,   ,0
 2012-09-21,Warren East,LaRue County,38,7,1,   ,0
 2012-09-21,Western,Moore,31,6,1,   ,0
-2012-09-21,Westmoreland. TN,Allen County-Scottsville,26,0,0,   ,0
+2012-09-21,Out of State,Allen County-Scottsville,26,0,0,   ,0
 2012-09-21,Whitley County,Lynn Camp,49,0,1,   ,0
 2012-09-21,Williamsburg,Allen Central,54,6,1,   ,0
-2012-09-22,Swain County. NC,Pikeville,54,7,0,   ,0
+2012-09-22,Out of State,Pikeville,54,7,0,   ,0
 2012-09-27,Green County,Metcalfe County,44,0,0,   ,0
 2012-09-27,Hart County,Edmonson County,26,13,1,   ,0
 2012-09-27,Pulaski County,North Laurel,28,21,0,   ,0
-2012-09-27,Southwestern,South Laurel,42,41,0,  In Overtime ,0
+2012-09-27,Southwestern,South Laurel,42,41,0,  In Overtime ,1
 2012-09-28,Allen County-Scottsville,Breckinridge County,40,0,0,   ,0
 2012-09-28,Anderson County,Woodford County,21,7,1,   ,0
 2012-09-28,Ashland Blazer,Boyd County,56,16,1,   ,0
@@ -680,7 +680,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-28,Graves County,Muhlenberg County,62,19,0,   ,0
 2012-09-28,Grayson County,Iroquois,44,0,1,   ,0
 2012-09-28,Greenwood,Barren County,47,8,1,   ,0
-2012-09-28,Grove City Christian. OH,Fairview,1,0,1,  Forfeit,0
+2012-09-28,Out of State,Fairview,1,0, original score F53,  Forfeit,0
 2012-09-28,Hancock County,McLean County,53,0,1,   ,0
 2012-09-28,Harlan County,George Rogers Clark,23,14,1,   ,0
 2012-09-28,Hazard,Prestonsburg,38,20,1,   ,0
@@ -690,7 +690,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-28,Hopkinsville,Apollo,48,27,0,   ,0
 2012-09-28,Jeffersontown,North Hardin,41,36,1,   ,0
 2012-09-28,John Hardin,Central Hardin,48,0,0,   ,0
-2012-09-28,Johnson Central,Ironton. OH,44,31,1,   ,0
+2012-09-28,Johnson Central,Out of State,44,31,1,   ,0
 2012-09-28,Knott County Central,Jenkins,28,21,1,   ,0
 2012-09-28,Knox Central,Clay County,42,6,0,   ,0
 2012-09-28,Lafayette,Bryan Station,33,29,1,   ,0
@@ -724,7 +724,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-09-28,Tates Creek,Paul Laurence Dunbar,34,16,0,   ,0
 2012-09-28,Trigg County,Webster County,35,0,0,   ,0
 2012-09-28,Trinity (Louisville),St. Xavier,34,7,1,   ,0
-2012-09-28,Twin Valley. VA,Phelps,48,14,1,   ,0
+2012-09-28,Out of State,Phelps,48,14,1,   ,0
 2012-09-28,Union County,Butler County,49,35,0,   ,0
 2012-09-28,Walton-Verona,Owen County,21,14,0,   ,0
 2012-09-28,Warren Central,Ballard,34,17,1,   ,0
@@ -743,10 +743,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-04,Fleming County,West Carter,18,7,0,   ,0
 2012-10-04,Monroe County,South Warren,41,0,0,   ,0
 2012-10-04,Morgan County,Knott County Central,42,0,0,   ,0
-2012-10-04,Paintsville,Fairview,1,0,1,  Forfeit,0
+2012-10-04,Paintsville,Fairview,1,0, original score F68,  Forfeit,0
 2012-10-04,Pleasure Ridge Park,Seneca,53,18,0,   ,0
 2012-10-04,Valley,Moore,41,7,1,   ,0
-2012-10-05,,Clinton County,42,20,0,   ,0
+2012-10-05,Out of State,Clinton County,42,20,0,   ,0
 2012-10-05,Allen Central,Phelps,22,20,1,   ,0
 2012-10-05,Anderson County,West Jessamine,41,39,0,   ,0
 2012-10-05,Ashland Blazer,Belfry,35,20,1,   ,0
@@ -771,7 +771,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-05,Eminence,Bracken County,18,13,1,   ,0
 2012-10-05,Frankfort,Paris,38,0,0,   ,0
 2012-10-05,Franklin County,Woodford County,76,55,1,   ,0
-2012-10-05,Gleason. TN,Fulton City,20,0,1,   ,0
+2012-10-05,Out of State,Fulton City,20,0,1,   ,0
 2012-10-05,Graves County,Ohio County,58,28,1,   ,0
 2012-10-05,Harlan County,Letcher County Central,49,0,0,   ,0
 2012-10-05,Hazard,Harlan,56,19,1,   ,0
@@ -845,7 +845,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-12,Belfry,Lawrence County,41,6,0,   ,0
 2012-10-12,Bell County,Corbin,34,0,0,   ,0
 2012-10-12,Bellevue,Ludlow,52,0,1,   ,0
-2012-10-12,Betsy Layne,Hannan. WV,69,22,1,   ,0
+2012-10-12,Betsy Layne,Out of State,69,22,1,   ,0
 2012-10-12,Bourbon County,Powell County,70,7,1,   ,0
 2012-10-12,Bowling Green,Warren Central,24,0,0,   ,0
 2012-10-12,Boyd County,Magoffin County,35,8,0,   ,0
@@ -873,7 +873,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-12,Glasgow,Green County,25,16,1,   ,0
 2012-10-12,Graves County,Christian County,42,37,0,   ,0
 2012-10-12,Greenwood,Apollo,45,6,1,   ,0
-2012-10-12,Grundy. VA,East Ridge,34,14,1,   ,0
+2012-10-12,Out of State,East Ridge,34,14,1,   ,0
 2012-10-12,Hancock County,Todd County Central,58,26,1,   ,0
 2012-10-12,Harlan,Pineville,33,26,1,   ,0
 2012-10-12,Harlan County,Whitley County,40,13,1,   ,0
@@ -905,14 +905,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-12,North Oldham,Atherton,53,7,0,   ,0
 2012-10-12,Owen County,Carroll County,59,41,0,   ,0
 2012-10-12,Owensboro Catholic,Union County,52,25,0,   ,0
-2012-10-12,Paducah Tilghman,Northeast (Clarksville). TN,13,9,1,   ,0
+2012-10-12,Paducah Tilghman,Out of State,13,9,1,   ,0
 2012-10-12,Paris,Eminence,42,38,0,   ,0
 2012-10-12,Perry County Central,Letcher County Central,41,22,1,   ,0
 2012-10-12,Pike County Central,Sheldon Clark,39,24,1,   ,0
 2012-10-12,Pikeville,Phelps,54,8,1,   ,0
 2012-10-12,Pleasure Ridge Park,Butler,40,27,1,   ,0
 2012-10-12,Pulaski County,South Laurel,34,9,1,   ,0
-2012-10-12,Raceland,Fairview,1,0,0,  Forfeit,0
+2012-10-12,Raceland,Fairview,1,0, original score F40,  Forfeit,0
 2012-10-12,Russell,Lewis County,33,18,0,   ,0
 2012-10-12,Russell County,Clay County,56,14,0,   ,0
 2012-10-12,Scott County,Bryan Station,40,20,0,   ,0
@@ -939,13 +939,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-19,Anderson County,East Jessamine,63,19,1,   ,0
 2012-10-19,Apollo,Ohio County,58,14,0,   ,0
 2012-10-19,Ballard,Oldham County,21,14,0,   ,0
-2012-10-19,Ballard Memorial,Massac. IL,42,14,1,   ,0
+2012-10-19,Ballard Memorial,Out of State,42,14,1,   ,0
 2012-10-19,Bardstown,DeSales,27,16,1,   ,0
 2012-10-19,Beechwood,Ludlow,61,0,0,   ,0
 2012-10-19,Belfry,Pike County Central,48,12,1,   ,0
 2012-10-19,Bellevue,Dayton,58,8,1,   ,0
 2012-10-19,Betsy Layne,Shelby Valley,40,14,1,   ,0
-2012-10-19,Bourbon County,Bath County,28,27,1,  (double overtime) ,0
+2012-10-19,Bourbon County,Bath County,28,27,1,  (double overtime) ,1
 2012-10-19,Bowling Green,Greenwood,53,0,1,   ,0
 2012-10-19,Boyd County,Greenup County,47,7,1,   ,0
 2012-10-19,Boyle County,Mercer County,59,19,1,   ,0
@@ -957,7 +957,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-19,Carroll County,Trimble County,59,14,0,   ,0
 2012-10-19,Central,LaRue County,16,8,1,   ,0
 2012-10-19,Christian Academy-Louisville,Fort Knox,46,0,0,   ,0
-2012-10-19,Cincinnati Elder. OH,Highlands,38,24,0,   ,0
+2012-10-19,Out of State,Highlands,38,24,0,   ,0
 2012-10-19,Clay County,Rockcastle County,27,8,1,   ,0
 2012-10-19,Collins,Atherton,41,10,1,   ,0
 2012-10-19,Conner,Scott,39,32,0,   ,0
@@ -1008,7 +1008,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-19,Morgan County,Magoffin County,22,16,0,   ,0
 2012-10-19,Murray,Reidland,62,0,0,   ,0
 2012-10-19,Nelson County,Central Hardin,28,27,1,   ,0
-2012-10-19,Nicholas County,Fairview,1,0,1,  Forfeit,0
+2012-10-19,Nicholas County,Fairview,1,0, original score F36,  Forfeit,0
 2012-10-19,North Laurel,Lincoln County,35,14,0,   ,0
 2012-10-19,Owen County,Gallatin County,59,22,1,   ,0
 2012-10-19,Owensboro,Hopkins County Central,55,7,1,   ,0
@@ -1063,7 +1063,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-26,Campbellsville,Fort Knox,37,0,0,   ,0
 2012-10-26,Carroll County,Dayton,32,14,0,   ,0
 2012-10-26,Christian County,Pulaski County,34,20,0,   ,0
-2012-10-26,Cincinnati St. Xavier. OH,St. Xavier,23,9,1,   ,0
+2012-10-26,Out of State,St. Xavier,23,9,1,   ,0
 2012-10-26,Conner,Covington Catholic,13,12,1,   ,0
 2012-10-26,Cooper,Dixie Heights,36,13,1,   ,0
 2012-10-26,Corbin,Harlan,42,13,1,   ,0
@@ -1085,7 +1085,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-26,Green County,Lexington Christian,12,6,0,   ,0
 2012-10-26,Hancock County,Breckinridge County,57,13,0,   ,0
 2012-10-26,Harlan County,Bell County,40,34,1,   ,0
-2012-10-26,Haysi. VA,Phelps,62,24,1,   ,0
+2012-10-26,Out of State,Phelps,62,24,1,   ,0
 2012-10-26,Hazard,Sheldon Clark,50,28,1,   ,0
 2012-10-26,Henderson County,Owensboro,49,21,1,   ,0
 2012-10-26,Highlands,Ryle,58,13,0,   ,0
@@ -1121,7 +1121,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-26,Pikeville,Shelby Valley,48,8,0,   ,0
 2012-10-26,Pineville,Leslie County,42,12,1,   ,0
 2012-10-26,Pleasure Ridge Park,Central,15,14,1,   ,0
-2012-10-26,Powell County,Fairview,1,0,1,  Forfeit,0
+2012-10-26,Powell County,Fairview,1,0, original score F53,  Forfeit,0
 2012-10-26,Prestonsburg,Pike County Central,41,18,1,   ,0
 2012-10-26,Raceland,Russell,25,14,0,   ,0
 2012-10-26,Reidland,Fulton City,35,6,1,   ,0
@@ -1142,10 +1142,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-10-26,Warren Central,Southwestern,58,7,0,   ,0
 2012-10-26,Warren East,Bullitt Central,35,6,0,   ,0
 2012-10-26,Wayne County,East Jessamine,31,14,0,   ,0
-2012-10-26,Williamsburg,Oliver Springs. TN,21,0,0,   ,0
+2012-10-26,Williamsburg,Out of State,21,0,0,   ,0
 2012-10-26,Woodford County,Harrison County,38,10,0,   ,0
-2012-10-27,Archbishop Moeller. OH,Trinity (Louisville),45,42,1,   ,0
-2012-11-01,Phelps,Fairview,1,0,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (forfeit original score: F 69,0
+2012-10-27,Out of State,Trinity (Louisville),45,42,1,   ,0
+2012-11-01,Phelps,Fairview,1,0, P 0) ,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (forfeit original score: F 69,0
 2012-11-02,Beechwood,Bracken County,45,8,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-02,Bellevue,Eminence,48,8,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-02,Frankfort,Ludlow,78,0,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1245,14 +1245,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-11-09,Hazard,Pineville,47,14,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Kentucky Country Day,Russellville,27,12,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Mayfield,Holy Cross (Louisville),38,14,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2012-11-09,Nicholas County,Fairview,1,0,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (forfeit original score: F 48,0
+2012-11-09,Nicholas County,Fairview,1,0, NC 20) ,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (forfeit original score: F 48,0
 2012-11-09,Pikeville,Raceland,26,20,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (overtime) ,1
 2012-11-09,Williamsburg,Harlan,34,15,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Caldwell County,Hancock County,52,25,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Danville,Prestonsburg,16,14,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,DeSales,Christian Academy-Louisville,21,16,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Glasgow,Bardstown,42,33,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2012-11-09,Murray,Owensboro Catholic,29,22,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (double overtime) ,0
+2012-11-09,Murray,Owensboro Catholic,29,22,0,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl (double overtime) ,1
 2012-11-09,Somerset,Lexington Christian,42,19,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Walton-Verona,Lloyd Memorial,33,26,1,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Belfry,Lawrence County,48,6,1,  Class 3A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
@@ -1287,7 +1287,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2012-11-09,Simon Kenton,Campbell County,29,21,0,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,St. Xavier,Male,55,14,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-09,Trinity (Louisville),Madison Central,62,8,1,  Class 6A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
-2012-11-10,Newport Central Catholic,Holy Cross,52,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
+2012-11-10,Newport Central Catholic,Holy Cross (Covington),52,0,2,  Class 2A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-16,Beechwood,Frankfort,35,13,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-16,Hazard,Williamsburg,7,0,1,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0
 2012-11-16,Mayfield,Kentucky Country Day,35,14,0,  Class 1A Russell Athletic/KHSAA Commonwealth Gridiron Bowl  ,0

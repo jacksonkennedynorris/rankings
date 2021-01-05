@@ -17,29 +17,11 @@ from teams import *
 def create_game_infos(season):
 ## Football
 
-    edit = True 
+    edit = True  
 
     html_directory = season.get_year_path() + "/HTML/"
     infos_directory = season.get_year_path() + "/game_infos/"
-    # teams_file = season.get_teams_path()
-    # teams = []
-    # with open(teams_file, 'r') as f: 
-    #     id = 0
-    #     for line in f: 
-    #         if id == 0:
-    #             id = 1
-    #             continue 
-    #         team_split = line.rstrip('\n').split(',')
-    #         assert len(team_split) == 2, "Should be 2, not " + len(team_split)
-    #         name = team_split[0]
-    #         region = team_split[1]
-    #         team = Team(name,region,id)
-    #         teams.append(team)
-    #         id = id + 1
-    # num_teams = id 
-    #print(teams[0].name, teams[0].region, teams[0].id)
-    # for i in range(num_teams-1):
-    #     print(teams[i].name,teams[i].region,teams[i].id)
+
     if not os.path.exists(infos_directory):  
         os.makedirs(infos_directory)
 
@@ -72,21 +54,42 @@ def create_game_infos(season):
                 i = 0
                 continue
             i = 0
-            for td in tr.findAll('td'):
+            for td in tr.findAll('td'):              
                 if i == 0: 
-                    win_team = td.get_text()
+                    #print(td)
+                    link = td.find('a')
+                    if link != None:
+                        win_team = link.get_text()
+                    else: 
+                        win_team = "Out of State"                   
                     win_team = win_team.replace(',','.')
                 if i == 1: 
                     win_score = td.get_text()
-                if i == 2: 
-                    lose_team = td.get_text()
+                if i == 2: # Calculate losing team and the location 
+
+                    #Calculate the losing team 
+                    link = td.find('a')
+                    if link != None:
+                        lose_team = link.get_text()
+                    else: 
+                        lose_team = "Out of State"                   
                     lose_team = lose_team.replace(',','.')
-                if i == 3:
+
+                    # Calculate the location 
+                    the_text = td.get_text()
+                    location = 0 # Default with the home team losing
+                    if the_text[:2] == "vs":
+                        if "(at" in the_text: 
+                            location = 2
+                        else: 
+                            location = 1
+                        
+                if i == 3: 
                     lose_score = td.get_text()
                 if i == 4: 
                     date_comments = td.get_text()
                 i = i + 1
-            games.append(win_team + "," + lose_team  + "," + win_score + "," + lose_score + "," + date_comments)
+            games.append(win_team + "," + lose_team  + "," + win_score + "," + lose_score + "," + date_comments + ',' + str(location))
         big_array = []
         for game in games: 
             split = game.split(',')
@@ -98,39 +101,18 @@ def create_game_infos(season):
             writer = csv.writer(csvfile)
             location = 0
             for day in big_array:
-                if "(at" in day[1]: 
-                    location = 2
-                    index = 0
-                    for char in day[1]:
-                        if char == ("("): 
-                            break
-                        index = index + 1
-                    day[1] = day[1][:index-1]
-                elif "at" == day[1][:2]: #"at" in day[1]: 
-                    location = 0
-                elif "vs." in day[1]: 
-                    location = 1
-                string = ""
-                ## This is for the INCREDIBLY annoying case that KHSAA doesn't include a space
-                try: 
-                    if day[1][:3] == "vs.":
-                        if day[1][3] != " ": 
-                            day[1] = day[1][:3] + " " + day[1][3:]
-                except: 
-                    pass
-                split = day[1].split()
-                for elements in split[1:]: 
-                    string = string + elements + " "
-                if "(overtime)" in day[4]: 
+                ot_flag = "overtime" in day[4] or "Overtime" in day[4]
+                
+                if ot_flag: 
                     overtime = 1
                 else: 
                     overtime = 0
+
                 date_split = file_name.split('_') 
                 date = date_split[-1][:-4]
 
-                game = [date,str(day[0]),str(string[:-1]),day[2],day[3],location,day[4],overtime]
-                
+                game = [date,str(day[0]),str(day[1]),day[2],day[3],day[5],day[4],overtime]
+
                 writer.writerow(game)
-                #writer.writerow({"date": file_name[14:24], "win_team": str(day[0]), "lose_team": str(string[:-1]), "win_score": day[2], "lose_score": day[3], "location": location, "date_comments": day[4], "overtime": overtime})
     print("Created Game Infos!")
     return

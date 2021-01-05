@@ -16,7 +16,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-23,Central Hardin,Daviess County,49,10,1,   ,0
 2019-08-23,Christian Academy-Louisville,South Oldham,6,0,1,  (overtime) ,1
 2019-08-23,Clay County,Floyd Central,44,20,1,   ,0
-2019-08-23,Clay County (Celina). TN,Monroe County,33,0,1,   ,0
+2019-08-23,Out of State,Monroe County,33,0,1,   ,0
 2019-08-23,Cooper,Dixie Heights,7,0,1,   ,0
 2019-08-23,Corbin,Whitley County,35,21,1,   ,0
 2019-08-23,Covington Catholic,Ryle,37,0,1,   ,0
@@ -24,27 +24,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-23,DuPont Manual,Central,7,0,1,   ,0
 2019-08-23,East Carter,Fairview,54,12,1,   ,0
 2019-08-23,Elizabethtown,Allen County-Scottsville,42,0,2,   ,0
-2019-08-23,Fern Creek,Jeffersonville. IN,25,6,0,   ,0
+2019-08-23,Fern Creek,Out of State,25,6,0,   ,0
 2019-08-23,Fleming County,Nicholas County,54,26,0,   ,0
 2019-08-23,Franklin County,East Jessamine,35,28,0,   ,0
 2019-08-23,Frederick Douglass,Bryan Station,43,0,1,   ,0
-2019-08-23,Fulton County,Gleason. TN,42,14,1,   ,0
+2019-08-23,Fulton County,Out of State,42,14,1,   ,0
 2019-08-23,Glasgow,LaRue County,35,13,1,   ,0
 2019-08-23,Grant County,Owen County,50,14,0,   ,0
 2019-08-23,Graves County,Murray,38,35,0,   ,0
 2019-08-23,Grayson County,Hancock County,23,6,0,   ,0
-2019-08-23,Greenfield. TN,Fulton City,41,6,0,   ,0
+2019-08-23,Out of State,Fulton City,41,6,0,   ,0
 2019-08-23,Greenwood,Franklin-Simpson,28,14,0,   ,0
 2019-08-23,Harlan County,Harlan,1,0,1,  (forfeit) ,0
 2019-08-23,Hart County,Caverna,44,12,0,   ,0
-2019-08-23,Henderson County,Evansville Reitz (Evansville). IN,20,7,1,   ,0
+2019-08-23,Henderson County,Out of State,20,7,1,   ,0
 2019-08-23,Henry County,Thomas Nelson,34,28,1,   ,0
 2019-08-23,Highlands,Scott,42,13,0,   ,0
 2019-08-23,Holy Cross (Covington),Bellevue,30,12,1,   ,0
-2019-08-23,Hopkinsville,Kenwood (Clarksville). TN,35,21,0,   ,0
+2019-08-23,Hopkinsville,Out of State,35,21,0,   ,0
 2019-08-23,Johnson Central,Lafayette,49,12,0,   ,0
 2019-08-23,Kentucky Country Day,Atherton,23,7,0,   ,0
-2019-08-23,Landmark Christian (Cincinnati). OH,Bracken County,20,0,0,   ,0
+2019-08-23,Out of State,Bracken County,20,0,0,   ,0
 2019-08-23,Leslie County,Perry County Central,32,20,1,   ,0
 2019-08-23,Lexington Catholic,Pulaski County,21,14,0,   ,0
 2019-08-23,Lexington Christian,Moore,34,16,1,   ,0
@@ -54,11 +54,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-23,Lynn Camp,Frankfort,20,18,0,   ,0
 2019-08-23,Madisonville-North Hopkins,Union County,41,0,0,   ,0
 2019-08-23,Magoffin County,Knott County Central,51,22,1,   ,0
-2019-08-23,Male,Floyd Central (Floyds Knobs). IN,42,13,1,   ,0
+2019-08-23,Male,Out of State,42,13,1,   ,0
 2019-08-23,Marion County,Western,33,14,1,   ,0
 2019-08-23,Marshall County,Ballard Memorial,37,6,1,   ,0
 2019-08-23,Martin County,Betsy Layne,56,12,0,   ,0
-2019-08-23,Mayfield,Lausanne Collegiate (Memphis). TN,45,22,1,   ,0
+2019-08-23,Mayfield,Out of State,45,22,1,   ,0
 2019-08-23,Middlesboro,Garrard County,34,32,0,   ,0
 2019-08-23,Newport,Harrison County,19,14,0,   ,0
 2019-08-23,Newport Central Catholic,Campbell County,29,13,0,   ,0
@@ -73,8 +73,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-23,Pike County Central,Prestonsburg,53,7,1,   ,0
 2019-08-23,Pineville,McCreary Central,28,14,0,   ,0
 2019-08-23,Pleasure Ridge Park,Valley,50,29,0,   ,0
-2019-08-23,Portland. TN,Edmonson County,35,6,2,   ,0
-2019-08-23,Providence (Clarksville). IN,Bethlehem,29,20,0,   ,0
+2019-08-23,Out of State,Edmonson County,35,6,2,   ,0
+2019-08-23,Out of State,Bethlehem,29,20,0,   ,0
 2019-08-23,Rowan County,Morgan County,55,0,0,   ,0
 2019-08-23,Russell,Mason County,49,13,0,   ,0
 2019-08-23,Russell County,Adair County,28,25,1,   ,0
@@ -86,12 +86,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-23,St. Xavier,DeSales,38,7,1,   ,0
 2019-08-23,Todd County Central,Calloway County,21,20,0,   ,0
 2019-08-23,Trigg County,Muhlenberg County,40,0,0,   ,0
-2019-08-23,Trinity (Louisville),Carmel. IN,41,14,1,   ,0
+2019-08-23,Trinity (Louisville),Out of State,41,14,1,   ,0
 2019-08-23,Warren East,Russellville,48,0,1,   ,0
 2019-08-23,Washington County,Nelson County,56,0,0,   ,0
 2019-08-23,Wayne County,Shelby County,41,30,2,   ,0
 2019-08-23,Webster County,Hopkins County Central,20,14,1,   ,0
-2019-08-23,Williamsburg,Jellico. TN,42,0,0,   ,0
+2019-08-23,Williamsburg,Out of State,42,0,0,   ,0
 2019-08-24,Anderson County,Spencer County,42,13,2,   ,0
 2019-08-24,Bell County,Collins,37,14,2,   ,0
 2019-08-24,Boyle County,Iroquois,36,0,2,   ,0
@@ -100,7 +100,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-24,Conner,Madison Central,27,6,0,   ,0
 2019-08-24,Danville,John Hardin,48,14,1,   ,0
 2019-08-24,Eminence,McLean County,51,22,1,   ,0
-2019-08-24,Father Ryan (Nashville). TN,Bowling Green,24,21,2,   ,0
+2019-08-24,Out of State,Bowling Green,24,21,2,   ,0
 2019-08-24,Holy Cross (Louisville),Green County,37,0,2,   ,0
 2019-08-24,Mercer County,West Carter,21,0,1,   ,0
 2019-08-24,Montgomery County,Powell County,33,14,1,   ,0
@@ -113,7 +113,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-24,Tates Creek,Madison Southern,39,7,2,   ,0
 2019-08-24,Taylor County,Western Hills,37,8,2,   ,0
 2019-08-29,Lynn Camp,Jackson County,32,16,0,   ,0
-2019-08-30,Anderson (Cincinnati). OH,Simon Kenton,44,16,0,   ,0
+2019-08-30,Out of State,Simon Kenton,44,16,0,   ,0
 2019-08-30,Anderson County,Madison Central,23,21,1,   ,0
 2019-08-30,Ashland Blazer,Boyd County,53,7,1,   ,0
 2019-08-30,Bardstown,Danville,28,7,1,   ,0
@@ -134,7 +134,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-30,Caverna,Shawnee,51,0,1,   ,0
 2019-08-30,Central Hardin,John Hardin,50,6,0,   ,0
 2019-08-30,Christian Academy-Louisville,Christian County,36,0,2,   ,0
-2019-08-30,Clay County (Celina). TN,Clinton County,25,0,1,   ,0
+2019-08-30,Out of State,Clinton County,25,0,1,   ,0
 2019-08-30,Cooper,Newport Central Catholic,13,7,0,   ,0
 2019-08-30,Covington Catholic,Campbell County,49,0,0,   ,0
 2019-08-30,Crittenden County,Webster County,48,21,0,   ,0
@@ -146,25 +146,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-30,Edmonson County,Butler County,54,12,1,   ,0
 2019-08-30,Eminence,Owen County,44,7,1,   ,0
 2019-08-30,Estill County,Powell County,36,14,0,   ,0
-2019-08-30,Evansville Central (Evansville). IN,Owensboro,10,8,0,   ,0
+2019-08-30,Out of State,Owensboro,10,8,0,   ,0
 2019-08-30,Fairdale,Hancock County,51,14,1,   ,0
 2019-08-30,Franklin County,Western Hills,55,6,1,   ,0
 2019-08-30,Frederick Douglass,Tates Creek,62,14,1,   ,0
 2019-08-30,Garrard County,Marion County,24,12,0,   ,0
 2019-08-30,Glasgow,Russellville,56,0,0,   ,0
-2019-08-30,Gleason. TN,Fulton City,40,16,0,   ,0
+2019-08-30,Out of State,Fulton City,40,16,0,   ,0
 2019-08-30,Grayson County,Nelson County,49,0,1,   ,0
 2019-08-30,Greenup County,Fleming County,40,36,0,   ,0
 2019-08-30,Greenwood,Warren Central,59,42,2,   ,0
 2019-08-30,Harlan County,Hazard,22,20,0,   ,0
 2019-08-30,Harrison County,Mason County,27,21,0,   ,0
-2019-08-30,Henderson County,Evansville North (Evansville). IN,39,35,0,   ,0
+2019-08-30,Henderson County,Out of State,39,35,0,   ,0
 2019-08-30,Holmes,Grant County,34,18,0,   ,0
 2019-08-30,Jeffersontown,Western,37,16,0,   ,0
-2019-08-30,Johnson Central,Capital (Charleston). WV,28,13,0,   ,0
+2019-08-30,Johnson Central,Out of State,28,13,0,   ,0
 2019-08-30,Kentucky Country Day,Thomas Nelson,43,12,1,   ,0
 2019-08-30,Lawrence County,Prestonsburg,42,12,0,   ,0
-2019-08-30,Lexington Catholic,Indianapolis Howe (Indianapolis). IN,43,9,1,   ,0
+2019-08-30,Lexington Catholic,Out of State,43,9,1,   ,0
 2019-08-30,Logan County,Muhlenberg County,59,0,1,   ,0
 2019-08-30,Ludlow,Bracken County,36,0,0,   ,0
 2019-08-30,Madisonville-North Hopkins,Marshall County,43,6,0,   ,0
@@ -189,44 +189,44 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-08-30,Rockcastle County,Casey County,41,33,1,   ,0
 2019-08-30,Rowan County,Bath County,40,7,0,   ,0
 2019-08-30,Russell County,Green County,47,14,0,   ,0
-2019-08-30,Rye Cove (Clinchport). VA,Jenkins,1,0,0,  (forfeit) ,0
+2019-08-30,Out of State,Jenkins,1,0,0,  (forfeit) ,0
 2019-08-30,Ryle,Conner,34,10,1,   ,0
 2019-08-30,Scott,Lloyd Memorial,17,0,1,   ,0
 2019-08-30,Scott County,Lafayette,28,19,0,   ,0
 2019-08-30,Shelby County,Collins,23,9,1,   ,0
 2019-08-30,Somerset,Montgomery County,75,13,0,   ,0
-2019-08-30,South Fulton. TN,Fulton County,36,30,1,   ,0
+2019-08-30,Out of State,Fulton County,36,30,1,   ,0
 2019-08-30,South Oldham,Eastern,49,7,0,   ,0
 2019-08-30,South Warren,Warren East,50,6,2,   ,0
 2019-08-30,Southern,Moore,32,16,1,   ,0
 2019-08-30,Southwestern,Madison Southern,35,34,0,  (overtime) ,1
 2019-08-30,St. Xavier,Henry Clay,48,7,2,   ,0
-2019-08-30,Switzerland County (Vevay). IN,Gallatin County,15,12,0,   ,0
+2019-08-30,Out of State,Gallatin County,15,12,0,   ,0
 2019-08-30,Taylor County,LaRue County,34,13,0,   ,0
 2019-08-30,Todd County Central,Fort Knox,1,0,0,   ,0
 2019-08-30,Trigg County,Fort Campbell,51,14,1,   ,0
-2019-08-30,Trinity (Louisville),Warren Central (Indianapolis). IN,17,14,0,   ,0
+2019-08-30,Trinity (Louisville),Out of State,17,14,0,   ,0
 2019-08-30,Union County,Hopkins County Central,42,0,0,   ,0
 2019-08-30,Waggener,Valley,50,0,1,   ,0
 2019-08-30,Walton-Verona,Holy Cross (Covington),17,0,0,   ,0
 2019-08-30,Washington County,Atherton,48,0,1,   ,0
-2019-08-30,Whitley County,Scott (Huntsville). TN,33,14,1,   ,0
+2019-08-30,Whitley County,Out of State,33,14,1,   ,0
 2019-08-30,Williamsburg,Middlesboro,55,28,0,   ,0
 2019-08-30,Woodford County,Barren County,37,7,0,   ,0
 2019-08-31,Boyle County,Bullitt Central,56,7,1,   ,0
 2019-08-31,Central,Iroquois,46,0,1,   ,0
-2019-08-31,Corbin,Notre Dame (Chattanooga). TN,35,17,1,   ,0
+2019-08-31,Corbin,Out of State,35,17,1,   ,0
 2019-08-31,Dayton,Bellevue,36,12,0,   ,0
 2019-08-31,Doss,Pleasure Ridge Park,37,34,1,   ,0
 2019-08-31,Frankfort,Paris,35,14,2,   ,0
-2019-08-31,Knoxville Catholic (Knoxville). TN,Highlands,31,28,2,   ,0
+2019-08-31,Out of State,Highlands,31,28,2,   ,0
 2019-08-31,Letcher County Central,Bourbon County,20,19,0,   ,0
 2019-08-31,Mercer County,Allen County-Scottsville,32,19,2,   ,0
-2019-08-31,Paducah Tilghman,Holy Cross,50,21,2,   ,0
-2019-08-31,Pikeville,Mingo Central,47,7,2,   ,0
+2019-08-31,Paducah Tilghman,Holy Cross (Louisville),50,21,2,   ,0
+2019-08-31,Pikeville,Out of State,47,7,2,   ,0
 2019-08-31,Russell,Raceland,41,0,1,   ,0
 2019-08-31,Shelby Valley,Pike County Central,12,7,2,   ,0
-2019-09-06,Ashland Blazer,George Washington (Charleston). WV,49,16,1,   ,0
+2019-09-06,Ashland Blazer,Out of State,49,16,1,   ,0
 2019-09-06,Atherton,Southern,35,12,1,   ,0
 2019-09-06,Bardstown,Marion County,49,6,0,   ,0
 2019-09-06,Barren County,Adair County,26,14,1,   ,0
@@ -275,14 +275,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-06,Holmes,Owen County,58,6,1,   ,0
 2019-09-06,Holy Cross (Louisville),North Oldham,42,15,0,   ,0
 2019-09-06,Hopkinsville,Caldwell County,42,14,1,   ,0
-2019-09-06,Ironton. OH,Russell,10,0,1,   ,0
+2019-09-06,Out of State,Russell,10,0,1,   ,0
 2019-09-06,Jeffersontown,Iroquois,26,20,1,   ,0
 2019-09-06,Kentucky Country Day,Washington County,41,39,0,   ,0
 2019-09-06,Knox Central,Southwestern,22,7,2,   ,0
 2019-09-06,LaRue County,Casey County,28,7,0,   ,0
 2019-09-06,Lawrence County,Boyd County,21,7,0,   ,0
 2019-09-06,Letcher County Central,Estill County,40,36,0,   ,0
-2019-09-06,Lexington Christian,Cincinnati Hills Christian Academy (Cincinnati). OH,47,37,0,   ,0
+2019-09-06,Lexington Christian,Out of State,47,37,0,   ,0
 2019-09-06,Lincoln County,West Jessamine,42,15,0,   ,0
 2019-09-06,Lloyd Memorial,Boone County,22,14,1,   ,0
 2019-09-06,Logan County,Warren East,35,17,0,   ,0
@@ -310,24 +310,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-06,Pineville,Paris,47,14,1,   ,0
 2019-09-06,Pulaski County,Corbin,23,22,0,   ,0
 2019-09-06,Raceland,Rowan County,42,7,0,   ,0
-2019-09-06,Ridgeview (Clintwood). VA,Shelby Valley,63,32,1,   ,0
-2019-09-06,Roger Bacon (Cincinnati). OH,Newport Central Catholic,41,14,1,   ,0
+2019-09-06,Out of State,Shelby Valley,63,32,1,   ,0
+2019-09-06,Out of State,Newport Central Catholic,41,14,1,   ,0
 2019-09-06,Russell County,Metcalfe County,28,26,1,   ,0
 2019-09-06,Ryle,Cooper,20,16,0,   ,0
-2019-09-06,Sayre,Rock Creek Academy (Sellersburg). IN,34,0,1,   ,0
+2019-09-06,Sayre,Out of State,34,0,1,   ,0
 2019-09-06,Scott,Holy Cross (Covington),42,6,0,   ,0
 2019-09-06,Scott County,DuPont Manual,48,35,1,   ,0
 2019-09-06,Seneca,Shawnee,58,0,0,   ,0
-2019-09-06,Simon Kenton,Oak Hills (Cincinnati). OH,13,10,0,   ,0
+2019-09-06,Simon Kenton,Out of State,13,10,0,   ,0
 2019-09-06,Somerset,Beechwood,46,14,1,   ,0
 2019-09-06,South Oldham,Bullitt Central,52,0,1,   ,0
 2019-09-06,South Warren,Franklin-Simpson,41,14,1,   ,0
 2019-09-06,Spencer County,Nelson County,40,0,0,   ,0
-2019-09-06,Switzerland County (Vevay). IN,Trimble County,40,22,1,   ,0
+2019-09-06,Out of State,Trimble County,40,22,1,   ,0
 2019-09-06,Taylor County,Campbellsville,29,20,1,   ,0
 2019-09-06,Todd County Central,Fort Campbell,51,27,1,   ,0
 2019-09-06,Trigg County,Calloway County,57,7,0,   ,0
-2019-09-06,Trinity (Louisville),Archbishop Moeller (Cincinnati). OH,41,0,1,   ,0
+2019-09-06,Trinity (Louisville),Out of State,41,0,1,   ,0
 2019-09-06,Union County,McLean County,34,0,0,   ,0
 2019-09-06,Waggener,Moore,48,18,0,   ,0
 2019-09-06,Walton-Verona,North Laurel,22,21,1,   ,0
@@ -338,15 +338,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-06,Woodford County,Bourbon County,47,20,1,   ,0
 2019-09-07,Berea,Caverna,44,21,1,   ,0
 2019-09-13,Adair County,Metcalfe County,24,20,1,   ,0
-2019-09-13,Archbishop Alter (Kettering). OH,Belfry,14,0,1,   ,0
-2019-09-13,Archbishop Moeller (Cincinnati). OH,Lafayette,68,7,1,   ,0
+2019-09-13,Out of State,Belfry,14,0,1,   ,0
+2019-09-13,Out of State,Lafayette,68,7,1,   ,0
 2019-09-13,Atherton,Shawnee,42,0,0,   ,0
 2019-09-13,Ballard,Christian Academy-Louisville,40,37,0,  (overtime) ,1
 2019-09-13,Bardstown,Washington County,43,6,1,   ,0
 2019-09-13,Barren County,Monroe County,52,6,0,   ,0
-2019-09-13,Battle Ground Academy (Franklin). TN,Franklin-Simpson,35,16,1,   ,0
+2019-09-13,Out of State,Franklin-Simpson,35,16,1,   ,0
 2019-09-13,Beechwood,Corbin,26,10,1,   ,0
-2019-09-13,Bethel-Tate (Bethel). OH,Scott,38,33,0,   ,0
+2019-09-13,Out of State,Scott,38,33,0,   ,0
 2019-09-13,Bethlehem,Nelson County,48,6,1,   ,0
 2019-09-13,Bourbon County,Harrison County,15,8,1,   ,0
 2019-09-13,Bowling Green,Pleasure Ridge Park,56,0,1,   ,0
@@ -358,7 +358,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-13,Caldwell County,Crittenden County,36,14,0,   ,0
 2019-09-13,Casey County,Russell County,34,19,1,   ,0
 2019-09-13,Central Hardin,Elizabethtown,57,40,0,   ,0
-2019-09-13,Cincinnati Country Day (Cincinnati). OH,Holy Cross (Covington),38,20,1,   ,0
+2019-09-13,Out of State,Holy Cross (Covington),38,20,1,   ,0
 2019-09-13,Clay County,Lynn Camp,51,13,0,   ,0
 2019-09-13,Collins,Spencer County,41,28,1,   ,0
 2019-09-13,Cooper,Campbell County,36,0,1,   ,0
@@ -386,9 +386,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-13,Highlands,Simon Kenton,28,7,0,   ,0
 2019-09-13,Holy Cross (Louisville),Holmes,21,14,1,   ,0
 2019-09-13,Jackson County,Jenkins,30,0,1,   ,0
-2019-09-13,Jellico. TN,McCreary Central,28,24,0,   ,0
+2019-09-13,Out of State,McCreary Central,28,24,0,   ,0
 2019-09-13,John Hardin,Meade County,28,20,0,   ,0
-2019-09-13,Johnson Central,South Charleston. WV,59,29,0,   ,0
+2019-09-13,Johnson Central,Out of State,59,29,0,   ,0
 2019-09-13,Kentucky Country Day,Seneca,49,6,1,   ,0
 2019-09-13,LaRue County,Campbellsville,36,35,1,   ,0
 2019-09-13,Lexington Catholic,DeSales,34,31,1,   ,0
@@ -404,7 +404,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-13,McCracken County,Mayfield,45,35,0,   ,0
 2019-09-13,McLean County,Muhlenberg County,20,8,1,   ,0
 2019-09-13,Middlesboro,Harlan,42,6,1,   ,0
-2019-09-13,Minford. OH,Greenup County,45,27,0,   ,0
+2019-09-13,Out of State,Greenup County,45,27,0,   ,0
 2019-09-13,Moore,Bullitt East,46,43,1,   ,0
 2019-09-13,Murray,Union County,21,7,0,   ,0
 2019-09-13,Newport,Bracken County,63,8,1,   ,0
@@ -414,7 +414,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-13,North Laurel,Lincoln County,25,24,1,  (overtime) ,1
 2019-09-13,Owen County,Henry County,33,28,0,   ,0
 2019-09-13,Owensboro,Apollo,46,0,0,   ,0
-2019-09-13,Owensboro Catholic,South Spencer (Rockport). IN,54,14,0,   ,0
+2019-09-13,Owensboro Catholic,Out of State,54,14,0,   ,0
 2019-09-13,Paducah Tilghman,Graves County,34,13,0,   ,0
 2019-09-13,Paintsville,East Jessamine,41,35,1,   ,0
 2019-09-13,Pike County Central,Perry County Central,44,28,1,   ,0
@@ -427,22 +427,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-13,Scott County,Bryan Station,49,7,0,   ,0
 2019-09-13,Shelby County,Iroquois,36,0,1,   ,0
 2019-09-13,Shelby Valley,Knott County Central,37,6,0,   ,0
-2019-09-13,South Fulton. TN,Fulton City,56,22,0,   ,0
+2019-09-13,Out of State,Fulton City,56,22,0,   ,0
 2019-09-13,South Laurel,West Jessamine,44,14,1,   ,0
 2019-09-13,South Oldham,North Oldham,38,0,0,   ,0
 2019-09-13,South Warren,Warren Central,53,14,1,   ,0
-2019-09-13,St. Bernard-Elmwood Place (St. Bernard). OH,Bellevue,42,28,0,   ,0
+2019-09-13,Out of State,Bellevue,42,28,0,   ,0
 2019-09-13,St. Xavier,Central,23,0,0,   ,0
 2019-09-13,Taylor County,Green County,45,8,0,   ,0
 2019-09-13,Todd County Central,Hopkins County Central,60,34,1,   ,0
 2019-09-13,Trigg County,Ballard Memorial,46,8,0,   ,0
-2019-09-13,Trinity (Louisville),Waubonsie Valley (Aurora). IL,60,6,1,   ,0
-2019-09-13,Union [Appalachia/Powell Valley] (Appalachia). VA,Letcher County Central,42,20,0,   ,0
+2019-09-13,Trinity (Louisville),Out of State,60,6,1,   ,0
+2019-09-13,Out of State,Letcher County Central,42,20,0,   ,0
 2019-09-13,Valley,Western,18,16,1,   ,0
 2019-09-13,Waggener,Doss,55,9,1,   ,0
 2019-09-13,Wayne County,Southwestern,44,6,0,   ,0
 2019-09-13,Western Hills,Paris,44,14,1,   ,0
-2019-09-13,Wheelersburg. OH,Ashland Blazer,34,33,1,  (overtime) ,1
+2019-09-13,Out of State,Ashland Blazer,34,33,1,  (overtime) ,1
 2019-09-13,Williamsburg,Frankfort,48,6,1,   ,0
 2019-09-13,Woodford County,Great Crossing,37,14,0,   ,0
 2019-09-14,Conner,Lloyd Memorial,24,12,1,   ,0
@@ -450,7 +450,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Allen County-Scottsville,Warren Central,47,38,0,   ,0
 2019-09-20,Anderson County,Henderson County,21,17,1,   ,0
 2019-09-20,Apollo,Meade County,49,28,1,   ,0
-2019-09-20,Ashland Blazer,Ironton. OH,16,10,1,  (overtime) ,1
+2019-09-20,Ashland Blazer,Out of State,16,10,1,  (overtime) ,1
 2019-09-20,Atherton,Henry County,21,13,1,   ,0
 2019-09-20,Bardstown,Spencer County,54,0,2,   ,0
 2019-09-20,Barren County,Hancock County,41,7,1,   ,0
@@ -466,7 +466,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Caldwell County,Union County,50,13,1,   ,0
 2019-09-20,Campbellsville,Green County,43,24,1,   ,0
 2019-09-20,Casey County,McCreary Central,48,16,0,   ,0
-2019-09-20,Cincinnati Hills Christian Academy (Cincinnati). OH,Walton-Verona,42,7,1,   ,0
+2019-09-20,Out of State,Walton-Verona,42,7,1,   ,0
 2019-09-20,Clay County,Leslie County,47,30,0,   ,0
 2019-09-20,Conner,Campbell County,28,0,1,   ,0
 2019-09-20,Covington Catholic,Beechwood,49,3,0,   ,0
@@ -484,17 +484,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Franklin County,Woodford County,50,14,0,   ,0
 2019-09-20,Franklin-Simpson,Russellville,42,0,1,   ,0
 2019-09-20,Frederick Douglass,Henry Clay,27,0,1,   ,0
-2019-09-20,Fulton County,Humboldt. TN,48,12,1,   ,0
+2019-09-20,Fulton County,Out of State,48,12,1,   ,0
 2019-09-20,Glasgow,Hart County,42,0,1,   ,0
 2019-09-20,Grant County,Carroll County,40,30,1,   ,0
 2019-09-20,Grayson County,Breckinridge County,24,12,0,   ,0
-2019-09-20,Grundy. VA,East Ridge,48,0,0,   ,0
+2019-09-20,Out of State,East Ridge,48,0,0,   ,0
 2019-09-20,Hazard,Danville,30,29,0,   ,0
 2019-09-20,Highlands,Ryle,27,0,1,   ,0
 2019-09-20,Holy Cross (Louisville),Moore,17,8,1,   ,0
 2019-09-20,Hopkinsville,Christian County,41,13,0,   ,0
 2019-09-20,Jackson County,Bracken County,30,0,1,   ,0
-2019-09-20,Johnson Central,Bishop Sycamore (Columbus). OH,34,8,1,   ,0
+2019-09-20,Johnson Central,Out of State,34,8,1,   ,0
 2019-09-20,Kentucky Country Day,Iroquois,47,8,0,   ,0
 2019-09-20,Knott County Central,Betsy Layne,28,22,0,   ,0
 2019-09-20,LaRue County,Nelson County,54,20,1,   ,0
@@ -505,7 +505,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Ludlow,Bishop Brossart,21,6,0,   ,0
 2019-09-20,Madison Central,Lafayette,24,18,0,   ,0
 2019-09-20,Madisonville-North Hopkins,Ballard Memorial,41,7,1,   ,0
-2019-09-20,Male,Trinity (Louisville),20,17,1,  (double overtime) ,0
+2019-09-20,Male,Trinity (Louisville),20,17,1,  (double overtime) ,1
 2019-09-20,Mayfield,Graves County,48,7,1,   ,0
 2019-09-20,McCracken County,Marshall County,42,6,0,   ,0
 2019-09-20,McLean County,Butler County,55,32,1,   ,0
@@ -532,7 +532,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Rowan County,Lewis County,45,12,0,   ,0
 2019-09-20,Russell,Montgomery County,49,8,1,   ,0
 2019-09-20,Scott,Boone County,30,8,0,   ,0
-2019-09-20,Scott County,Emmerich Manual (Indianapolis). IN,52,16,1,   ,0
+2019-09-20,Scott County,Out of State,52,16,1,   ,0
 2019-09-20,Shelby County,North Bullitt,34,14,0,   ,0
 2019-09-20,Shelby Valley,Phelps,50,12,1,   ,0
 2019-09-20,Simon Kenton,Taylor County,39,7,1,   ,0
@@ -542,7 +542,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Southern,Seneca,32,26,0,   ,0
 2019-09-20,Southwestern,George Rogers Clark,29,20,0,   ,0
 2019-09-20,St. Xavier,Bowling Green,28,14,0,   ,0
-2019-09-20,Symmes Valley (Willow Wood). OH,Fairview,50,6,0,   ,0
+2019-09-20,Out of State,Fairview,50,6,0,   ,0
 2019-09-20,Tates Creek,Bryan Station,33,27,1,   ,0
 2019-09-20,Todd County Central,Caverna,57,27,1,   ,0
 2019-09-20,Waggener,Jeffersontown,46,7,0,   ,0
@@ -552,7 +552,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-20,Webster County,Fulton City,50,6,1,   ,0
 2019-09-20,West Carter,Boyd County,29,0,0,   ,0
 2019-09-20,Western Hills,Frankfort,34,28,1,   ,0
-2019-09-20,Wheelersburg. OH,Greenup County,38,7,0,   ,0
+2019-09-20,Out of State,Greenup County,38,7,0,   ,0
 2019-09-26,North Laurel,South Laurel,27,12,1,   ,0
 2019-09-27,Adair County,Hart County,35,13,0,   ,0
 2019-09-27,Anderson County,Lincoln County,28,14,1,   ,0
@@ -580,34 +580,34 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-27,Doss,Iroquois,40,0,0,   ,0
 2019-09-27,DuPont Manual,North Bullitt,42,3,1,   ,0
 2019-09-27,East Jessamine,West Jessamine,56,18,0,   ,0
-2019-09-27,Elder (Cincinnati). OH,Ryle,49,7,1,   ,0
+2019-09-27,Out of State,Ryle,49,7,1,   ,0
 2019-09-27,Elizabethtown,Nelson County,61,14,0,   ,0
 2019-09-27,Eminence,Paris,45,28,0,   ,0
 2019-09-27,Fairdale,Bullitt Central,27,7,0,   ,0
-2019-09-27,Fairview,Green (Franklin Furnace). OH,26,22,1,   ,0
+2019-09-27,Fairview,Out of State,26,22,1,   ,0
 2019-09-27,Fern Creek,Eastern,43,8,1,   ,0
 2019-09-27,Franklin County,Shelby County,27,7,0,   ,0
 2019-09-27,Franklin-Simpson,Allen County-Scottsville,31,21,0,   ,0
 2019-09-27,Frederick Douglass,Scott County,36,0,1,   ,0
-2019-09-27,Fulton County,Greenfield. TN,20,14,0,   ,0
+2019-09-27,Fulton County,Out of State,20,14,0,   ,0
 2019-09-27,Garrard County,Jackson County,56,26,1,   ,0
 2019-09-27,Graves County,Breckinridge County,51,16,1,   ,0
 2019-09-27,Grayson County,Muhlenberg County,22,14,0,   ,0
-2019-09-27,Greenup County,Notre Dame (Portsmouth). OH,45,0,0,   ,0
-2019-09-27,Halls. TN,Fulton City,57,20,1,   ,0
+2019-09-27,Greenup County,Out of State,45,0,0,   ,0
+2019-09-27,Out of State,Fulton City,57,20,1,   ,0
 2019-09-27,Hancock County,Butler County,37,8,0,   ,0
 2019-09-27,Harlan,Jenkins,1,0,1,  (forfeit) ,0
 2019-09-27,Harlan County,Clay County,21,7,0,   ,0
 2019-09-27,Harrison County,Boyd County,20,17,1,   ,0
 2019-09-27,Hazard,Paintsville,23,14,1,   ,0
 2019-09-27,Holy Cross (Covington),Bishop Brossart,22,19,0,   ,0
-2019-09-27,Holy Cross (Louisville),Providence (Clarksville). IN,29,15,0,   ,0
+2019-09-27,Holy Cross (Louisville),Out of State,29,15,0,   ,0
 2019-09-27,Hopkinsville,Calloway County,43,0,1,   ,0
 2019-09-27,John Hardin,Valley,17,14,1,   ,0
 2019-09-27,Johnson Central,Simon Kenton,49,11,1,   ,0
 2019-09-27,Kentucky Country Day,Southern,27,7,1,   ,0
 2019-09-27,Knott County Central,Morgan County,27,8,0,   ,0
-2019-09-27,Knoxville Central (Knoxville). TN,Knox Central,43,7,1,   ,0
+2019-09-27,Out of State,Knox Central,43,7,1,   ,0
 2019-09-27,Lafayette,Bryan Station,21,13,1,   ,0
 2019-09-27,Leslie County,Owen County,43,27,0,   ,0
 2019-09-27,Letcher County Central,Perry County Central,21,20,1,   ,0
@@ -634,13 +634,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-27,Phelps,Betsy Layne,42,14,1,   ,0
 2019-09-27,Pike County Central,Floyd Central,19,12,0,   ,0
 2019-09-27,Pikeville,Lawrence County,49,26,0,   ,0
-2019-09-27,Pineville,Thomas Walker (Ewing). VA,26,6,1,   ,0
+2019-09-27,Pineville,Out of State,26,6,1,   ,0
 2019-09-27,Pleasure Ridge Park,Western,54,6,0,   ,0
-2019-09-27,Pope John Paul II (Hendersonville). TN,Christian County,56,8,1,   ,0
+2019-09-27,Out of State,Christian County,56,8,1,   ,0
 2019-09-27,Powell County,Lewis County,39,18,1,   ,0
 2019-09-27,Prestonsburg,East Ridge,54,8,1,   ,0
 2019-09-27,Pulaski County,Whitley County,21,18,0,   ,0
-2019-09-27,Raceland,Portsmouth West (West Portsmouth). OH,56,15,1,   ,0
+2019-09-27,Raceland,Out of State,56,15,1,   ,0
 2019-09-27,Rockcastle County,Estill County,18,13,1,   ,0
 2019-09-27,Russell,Fleming County,55,7,1,   ,0
 2019-09-27,Russell County,Warren Central,51,22,1,   ,0
@@ -658,7 +658,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-09-27,Washington County,Thomas Nelson,40,6,0,   ,0
 2019-09-27,Webster County,Caverna,49,6,0,   ,0
 2019-09-27,West Carter,Shelby Valley,33,7,1,   ,0
-2019-09-28,Taft (Cincinnati). OH,Beechwood,7,3,0,   ,0
+2019-09-28,Out of State,Beechwood,7,3,0,   ,0
 2019-10-03,Bullitt Central,Doss,42,39,0,   ,0
 2019-10-03,Campbellsville,Metcalfe County,39,0,0,   ,0
 2019-10-03,Central Hardin,Butler,47,22,1,   ,0
@@ -687,7 +687,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-04,Bowling Green,South Warren,14,3,0,   ,0
 2019-10-04,Breathitt County,Morgan County,35,6,1,   ,0
 2019-10-04,Bryan Station,Henry Clay,19,17,1,   ,0
-2019-10-04,Cathedral (Indianapolis). IN,Trinity (Louisville),28,7,1,   ,0
+2019-10-04,Out of State,Trinity (Louisville),28,7,1,   ,0
 2019-10-04,Central,Shelby County,14,0,0,   ,0
 2019-10-04,Christian Academy-Louisville,Henry County,49,7,0,   ,0
 2019-10-04,Clinton County,Green County,34,22,0,   ,0
@@ -698,7 +698,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-04,Crittenden County,Trigg County,32,0,1,   ,0
 2019-10-04,Danville,Allen County-Scottsville,41,13,1,   ,0
 2019-10-04,DeSales,Paducah Tilghman,49,14,0,   ,0
-2019-10-04,East Carter,Tolsia (Fort Gay). WV,43,6,0,   ,0
+2019-10-04,East Carter,Out of State,43,6,0,   ,0
 2019-10-04,East Jessamine,Madison Southern,49,35,1,   ,0
 2019-10-04,Fern Creek,Oldham County,38,15,1,   ,0
 2019-10-04,Fleming County,Powell County,47,11,1,   ,0
@@ -720,7 +720,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-04,McCracken County,Daviess County,50,36,1,   ,0
 2019-10-04,Mercer County,Western Hills,44,6,1,   ,0
 2019-10-04,Middlesboro,Leslie County,28,27,0,   ,0
-2019-10-04,Mt. Healthy (Cincinnati). OH,Campbell County,21,7,0,   ,0
+2019-10-04,Out of State,Campbell County,21,7,0,   ,0
 2019-10-04,Murray,Fort Campbell,49,17,1,   ,0
 2019-10-04,Newport,Bellevue,51,21,1,   ,0
 2019-10-04,Nicholas County,Bishop Brossart,28,6,0,   ,0
@@ -729,11 +729,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-04,North Laurel,Southwestern,21,13,0,   ,0
 2019-10-04,Owen County,Gallatin County,61,26,0,   ,0
 2019-10-04,Owensboro Catholic,McLean County,55,21,0,   ,0
-2019-10-04,Paintsville,Union [Appalachia/Powell Valley] (Appalachia). VA,21,14,0,   ,0
+2019-10-04,Paintsville,Out of State,21,14,0,   ,0
 2019-10-04,Paris,Bracken County,30,28,0,   ,0
 2019-10-04,Pendleton County,Lewis County,42,0,0,   ,0
-2019-10-04,Perry County Central,Lee (Jonesville). VA,41,20,0,   ,0
-2019-10-04,Pike County Central,Tug Valley (Williamson). WV,80,48,0,   ,0
+2019-10-04,Perry County Central,Out of State,41,20,0,   ,0
+2019-10-04,Pike County Central,Out of State,80,48,0,   ,0
 2019-10-04,Pulaski County,South Laurel,48,0,1,   ,0
 2019-10-04,Russellville,Fulton County,34,31,1,   ,0
 2019-10-04,Scott,Harrison County,33,7,0,   ,0
@@ -741,8 +741,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-04,Somerset,Hazard,21,9,0,   ,0
 2019-10-04,South Oldham,Atherton,50,6,0,   ,0
 2019-10-04,Taylor County,Hart County,57,0,1,   ,0
-2019-10-04,Thomas Walker (Ewing). VA,Harlan,44,26,1,   ,0
-2019-10-04,Twin Springs (Nickelsville). VA,Jenkins,1,0,1,  (forfeit) ,0
+2019-10-04,Out of State,Harlan,44,26,1,   ,0
+2019-10-04,Out of State,Jenkins,1,0,1,  (forfeit) ,0
 2019-10-04,Union County,Webster County,45,10,1,   ,0
 2019-10-04,Walton-Verona,Carroll County,33,14,1,   ,0
 2019-10-04,West Carter,Bath County,26,6,1,   ,0
@@ -771,12 +771,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-11,Central,Waggener,26,14,1,   ,0
 2019-10-11,Central Hardin,Barren County,38,0,0,   ,0
 2019-10-11,Clay County,Letcher County Central,28,7,1,   ,0
-2019-10-11,Clinton County,Red Boiling Springs. TN,1,0,0,  (forfeit) ,0
+2019-10-11,Clinton County,Out of State,1,0,0,  (forfeit) ,0
 2019-10-11,Conner,Cooper,35,29,1,   ,0
 2019-10-11,Corbin,Knox Central,38,21,2,   ,0
-2019-10-11,Covington Catholic,La Salle (Cincinnati). OH,27,7,1,   ,0
+2019-10-11,Covington Catholic,Out of State,27,7,1,   ,0
 2019-10-11,Crittenden County,Caverna,54,0,1,   ,0
-2019-10-11,DeSales,Christian Academy-Louisville,35,28,0,  (double overtime) ,0
+2019-10-11,DeSales,Christian Academy-Louisville,35,28,0,  (double overtime) ,1
 2019-10-11,DuPont Manual,St. Xavier,20,19,1,   ,0
 2019-10-11,East Jessamine,Collins,43,13,0,   ,0
 2019-10-11,Elizabethtown,Meade County,34,13,1,   ,0
@@ -833,7 +833,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-11,Walton-Verona,Owen County,49,19,1,   ,0
 2019-10-11,Wayne County,Lincoln County,55,21,0,   ,0
 2019-10-11,West Carter,Prestonsburg,19,0,0,   ,0
-2019-10-11,Western Hills,Henry County,46,45,1,  (double overtime) ,0
+2019-10-11,Western Hills,Henry County,46,45,1,  (double overtime) ,1
 2019-10-11,Whitley County,Southwestern,14,0,0,   ,0
 2019-10-11,Williamsburg,Harlan,47,6,0,   ,0
 2019-10-17,Whitley County,North Laurel,28,22,1,   ,0
@@ -880,7 +880,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-18,Frederick Douglass,Great Crossing,50,0,1,   ,0
 2019-10-18,George Rogers Clark,Madison Central,42,34,1,   ,0
 2019-10-18,Glasgow,Taylor County,31,28,1,   ,0
-2019-10-18,Hollow Rock-Bruceton Central (Bruceton). TN,Fulton City,35,6,1,   ,0
+2019-10-18,Out of State,Fulton City,35,6,1,   ,0
 2019-10-18,Holmes,Harrison County,8,7,1,   ,0
 2019-10-18,Holy Cross (Louisville),Fort Knox,54,6,0,   ,0
 2019-10-18,John Hardin,Marion County,24,6,0,   ,0
@@ -897,7 +897,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-18,Male,Fern Creek,34,21,0,   ,0
 2019-10-18,Mason County,Lewis County,59,6,0,   ,0
 2019-10-18,Mayfield,Ballard Memorial,63,6,1,   ,0
-2019-10-18,McCracken County,Dyer County (Newbern). TN,46,28,1,   ,0
+2019-10-18,McCracken County,Out of State,46,28,1,   ,0
 2019-10-18,McLean County,Todd County Central,46,20,0,   ,0
 2019-10-18,Mercer County,Henry County,50,7,0,   ,0
 2019-10-18,Monroe County,Metcalfe County,33,12,1,   ,0
@@ -974,7 +974,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-10-25,Frederick Douglass,Montgomery County,56,0,0,   ,0
 2019-10-25,Fulton County,Caverna,47,0,0,   ,0
 2019-10-25,George Rogers Clark,Oldham County,28,26,0,   ,0
-2019-10-25,Gibson County (Dyer). TN,Fulton City,46,8,1,   ,0
+2019-10-25,Out of State,Fulton City,46,8,1,   ,0
 2019-10-25,Glasgow,Casey County,21,14,0,   ,0
 2019-10-25,Graves County,Muhlenberg County,49,8,0,   ,0
 2019-10-25,Great Crossing,Grant County,28,20,0,   ,0
@@ -1049,7 +1049,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-11-01,Bardstown,Anderson County,48,14,1,   ,0
 2019-11-01,Barren County,Edmonson County,44,21,1,   ,0
 2019-11-01,Bell County,Harlan County,32,14,1,   ,0
-2019-11-01,Berea,Jellico. TN,42,14,1,   ,0
+2019-11-01,Berea,Out of State,42,14,1,   ,0
 2019-11-01,Bethlehem,Estill County,20,18,0,   ,0
 2019-11-01,Betsy Layne,Jenkins,1,0,0,  (forfeit) ,0
 2019-11-01,Bishop Brossart,Pendleton County,20,14,0,   ,0
@@ -1085,7 +1085,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-11-01,Grant County,Gallatin County,58,0,1,   ,0
 2019-11-01,Graves County,Marshall County,28,21,0,   ,0
 2019-11-01,Grayson County,Hart County,34,0,0,   ,0
-2019-11-01,Greenup County,Mason County,35,34,0,  (double overtime) ,0
+2019-11-01,Greenup County,Mason County,35,34,0,  (double overtime) ,1
 2019-11-01,Holmes,Bellevue,53,6,0,   ,0
 2019-11-01,Holy Cross (Louisville),Walton-Verona,41,21,1,   ,0
 2019-11-01,Hopkinsville,Paducah Tilghman,17,15,1,   ,0
@@ -1097,7 +1097,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-11-01,Leslie County,Harlan,28,14,0,   ,0
 2019-11-01,Letcher County Central,Floyd Central,41,14,1,   ,0
 2019-11-01,Lexington Christian,Paintsville,35,7,0,   ,0
-2019-11-01,Little Miami (Morrow). OH,Simon Kenton,48,35,1,   ,0
+2019-11-01,Out of State,Simon Kenton,48,35,1,   ,0
 2019-11-01,Ludlow,Holy Cross (Covington),26,25,1,   ,0
 2019-11-01,Lynn Camp,McCreary Central,29,14,1,   ,0
 2019-11-01,Magoffin County,Morgan County,48,22,1,   ,0
@@ -1119,7 +1119,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-11-01,Oldham County,Collins,27,13,0,   ,0
 2019-11-01,Owensboro,Henderson County,22,16,1,   ,0
 2019-11-01,Paul Laurence Dunbar,Bryan Station,36,27,0,   ,0
-2019-11-01,Pikeville,Ridgeview (Clintwood). VA,67,28,1,   ,0
+2019-11-01,Pikeville,Out of State,67,28,1,   ,0
 2019-11-01,Pineville,Sayre,44,9,0,   ,0
 2019-11-01,Powell County,Paris,44,28,1,   ,0
 2019-11-01,Raceland,Lawrence County,50,21,1,   ,0
@@ -1135,11 +1135,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-11-01,Southern,Valley,12,6,1,   ,0
 2019-11-01,Southwestern,Madison Central,37,6,1,   ,0
 2019-11-01,Spencer County,Henry County,49,28,2,   ,0
-2019-11-01,Spring Valley (Huntington). WV,Ashland Blazer,35,0,1,   ,0
-2019-11-01,St. Xavier (Cincinnati). OH,St. Xavier,35,30,0,   ,0
+2019-11-01,Out of State,Ashland Blazer,35,0,1,   ,0
+2019-11-01,Out of State,St. Xavier,35,30,0,   ,0
 2019-11-01,Tates Creek,Pulaski County,38,7,0,   ,0
 2019-11-01,Taylor County,Bourbon County,33,17,1,   ,0
-2019-11-01,Tolsia (Fort Gay). WV,Phelps,34,8,0,   ,0
+2019-11-01,Out of State,Phelps,34,8,0,   ,0
 2019-11-01,Trinity (Louisville),Bowling Green,49,21,0,   ,0
 2019-11-01,Union County,Calloway County,28,0,1,   ,0
 2019-11-01,Washington County,Adair County,28,7,1,   ,0
@@ -1318,7 +1318,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-11-29,Pikeville,Holy Cross (Louisville),36,7,1,  Class 1A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl  ,0
 2019-11-29,Mayfield,Beechwood,35,7,1,  Class 2A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl  ,0
 2019-11-29,Somerset,Breathitt County,40,25,1,  Class 2A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl  ,0
-2019-11-29,Belfry,DeSales,15,14,0,  Class 3A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl (double overtime) ,0
+2019-11-29,Belfry,DeSales,15,14,0,  Class 3A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl (double overtime) ,1
 2019-11-29,Bell County,Taylor County,46,28,1,  Class 3A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl  ,0
 2019-11-29,Boyle County,Central,31,14,1,  Class 4A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl  ,0
 2019-11-29,Johnson Central,Madisonville-North Hopkins,52,14,1,  Class 4A 2019 UK Orthopaedics/KHSAA Commonwealth Gridiron Bowl  ,0

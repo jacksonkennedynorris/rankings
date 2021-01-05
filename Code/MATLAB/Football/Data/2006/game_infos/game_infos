@@ -1,5 +1,5 @@
 date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-2006-08-18,Allen Central,Betsy Layne,26,20,0,  (triple overtime) ,0
+2006-08-18,Allen Central,Betsy Layne,26,20,0,  (triple overtime) ,1
 2006-08-18,Anderson County,Breckinridge County,43,6,1,   ,0
 2006-08-18,Apollo,Hopkins County Central,21,7,0,   ,0
 2006-08-18,Ballard,Greenwood,46,14,0,   ,0
@@ -16,21 +16,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-18,Butler County,Logan County,24,19,0,   ,0
 2006-08-18,Campbell County,Bourbon County,70,0,1,   ,0
 2006-08-18,Casey County,Grant County,28,14,1,   ,0
-2006-08-18,Castle. IN,Henderson County,45,19,1,   ,0
-2006-08-18,Caverna,Hart County,1,0,0,  (forfeit,0
+2006-08-18,Out of State,Henderson County,45,19,1,   ,0
+2006-08-18,Caverna,Hart County,1,0, was 28-27) ,  (forfeit,0
 2006-08-18,Christian Academy-Louisville,Kentucky Country Day,28,21,1,   ,0
 2006-08-18,Clay County,Wayne County,28,27,1,   ,0
-2006-08-18,Conner,South Dearborn. IN,14,7,0,   ,0
+2006-08-18,Conner,Out of State,14,7,0,   ,0
 2006-08-18,Dayton,Owen County,46,6,1,   ,0
 2006-08-18,DeSales,Southern,37,6,0,   ,0
-2006-08-18,Dyer County. TN,Murray,28,6,0,   ,0
+2006-08-18,Out of State,Murray,28,6,0,   ,0
 2006-08-18,East Jessamine,Pulaski County,48,8,2,   ,0
 2006-08-18,Edmonson County,Grayson County,39,36,1,   ,0
 2006-08-18,Fairview,Paintsville,28,14,0,   ,0
 2006-08-18,Fort Campbell,Paducah Tilghman,20,14,0,  (overtime) ,1
-2006-08-18,Fulton County,South Fulton. TN,56,18,1,   ,0
+2006-08-18,Fulton County,Out of State,56,18,1,   ,0
 2006-08-18,Gallatin County,Carroll County,7,6,0,   ,0
-2006-08-18,Greenfield. TN,Fulton City,1,0,1,  (forfeit,0
+2006-08-18,Out of State,Fulton City,1,0, was 30-8) ,  (forfeit,0
 2006-08-18,Greenup County,East Carter,38,20,0,   ,0
 2006-08-18,Harlan,Cawood,19,7,0,   ,0
 2006-08-18,Hazard,Perry County Central,28,24,0,   ,0
@@ -41,14 +41,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-18,Johnson Central,North Laurel,40,6,0,   ,0
 2006-08-18,Knott County Central,Jenkins,52,14,1,   ,0
 2006-08-18,Knox Central,Williamsburg,26,25,2,   ,0
-2006-08-18,Knoxville Central. TN,Middlesboro,42,7,0,   ,0
+2006-08-18,Out of State,Middlesboro,42,7,0,   ,0
 2006-08-18,Leslie County,Lynn Camp,27,20,0,   ,0
 2006-08-18,Letcher County Central,Estill County,48,6,0,   ,0
 2006-08-18,Marshall County,Daviess County,54,26,1,   ,0
-2006-08-18,Mater Dei. IN,Owensboro,21,7,1,   ,0
+2006-08-18,Out of State,Owensboro,21,7,1,   ,0
 2006-08-18,Mayfield,Caldwell County,35,7,2,   ,0
 2006-08-18,Meade County,Butler,35,14,1,   ,0
-2006-08-18,Montgomery Bell. TN,Paul Laurence Dunbar,24,7,2,   ,0
+2006-08-18,Out of State,Paul Laurence Dunbar,24,7,2,   ,0
 2006-08-18,Nelson County,Bullitt East,23,20,1,   ,0
 2006-08-18,Nicholas County,Lewis County,24,0,1,   ,0
 2006-08-18,North Bullitt,Spencer County,40,14,0,   ,0
@@ -62,7 +62,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-18,Sheldon Clark,Lawrence County,43,26,1,   ,0
 2006-08-18,Simon Kenton,Lloyd Memorial,51,3,1,   ,0
 2006-08-18,South Floyd,Magoffin County,18,14,0,   ,0
-2006-08-18,South Spencer. IN,Owensboro Catholic,35,8,1,   ,0
+2006-08-18,Out of State,Owensboro Catholic,35,8,1,   ,0
 2006-08-18,Tates Creek,George Rogers Clark,17,14,1,   ,0
 2006-08-18,Todd County Central,McLean County,35,14,1,   ,0
 2006-08-18,Trigg County,Madisonville-North Hopkins,26,6,1,   ,0
@@ -70,14 +70,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-18,Valley,Iroquois,20,6,0,   ,0
 2006-08-18,Warren East,Monroe County,56,26,0,   ,0
 2006-08-18,Washington County,Taylor County,46,19,1,   ,0
-2006-08-18,Westmoreland. TN,Allen County-Scottsville,35,0,0,   ,0
-2006-08-19,Brentwood. TN,DuPont Manual,49,6,2,   ,0
+2006-08-18,Out of State,Allen County-Scottsville,35,0,0,   ,0
+2006-08-19,Out of State,DuPont Manual,49,6,2,   ,0
 2006-08-19,Bullitt Central,Muhlenberg North,44,0,0,   ,0
 2006-08-19,Central Hardin,Campbellsville,23,12,1,   ,0
 2006-08-19,Clinton County,Berea,24,6,0,   ,0
 2006-08-19,Covington Catholic,Boone County,44,2,1,   ,0
 2006-08-19,Danville,Southwestern,33,30,1,   ,0
-2006-08-19,Dyersburg. TN,Calloway County,48,27,2,   ,0
+2006-08-19,Out of State,Calloway County,48,27,2,   ,0
 2006-08-19,Eastern,Doss,27,14,2,   ,0
 2006-08-19,Elizabethtown,Ohio County,28,14,2,   ,0
 2006-08-19,Frankfort,North Oldham,64,19,2,   ,0
@@ -91,7 +91,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-19,Lafayette,Mason County,21,6,2,   ,0
 2006-08-19,Lone Oak,Ballard Memorial,32,0,2,   ,0
 2006-08-19,Madison Central,West Jessamine,70,0,2,   ,0
-2006-08-19,Male,New Albany. IN,49,6,1,   ,0
+2006-08-19,Male,Out of State,49,6,1,   ,0
 2006-08-19,McCreary Central,Powell County,30,8,2,   ,0
 2006-08-19,Mercer County,Lexington Christian,63,0,2,   ,0
 2006-08-19,Metcalfe County,Glasgow,33,7,2,   ,0
@@ -109,25 +109,25 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-25,Allen County-Scottsville,Monroe County,20,6,0,   ,0
 2006-08-25,Apollo,Madisonville-North Hopkins,13,0,1,   ,0
 2006-08-25,Ashland Blazer,Belfry,28,27,1,  (overtime) ,1
-2006-08-25,Ballard Memorial,South Fulton. TN,48,41,0,   ,0
+2006-08-25,Ballard Memorial,Out of State,48,41,0,   ,0
 2006-08-25,Bardstown,Washington County,46,0,0,   ,0
 2006-08-25,Barren County,Glasgow,26,23,0,  (overtime) ,1
 2006-08-25,Bath County,Lewis County,21,0,1,   ,0
 2006-08-25,Beechwood,Dixie Heights,35,9,1,   ,0
-2006-08-25,Beth Haven,Mountain Empire. TN,72,48,1,   ,0
+2006-08-25,Beth Haven,Out of State,72,48,1,   ,0
 2006-08-25,Betsy Layne,Powell County,26,22,1,   ,0
 2006-08-25,Breathitt County,Madison Southern,39,12,0,   ,0
 2006-08-25,Bullitt East,Bullitt Central,55,6,0,   ,0
 2006-08-25,Butler,Nelson County,28,14,1,   ,0
 2006-08-25,Caldwell County,Crittenden County,48,21,1,   ,0
 2006-08-25,Campbell County,West Jessamine,37,6,0,   ,0
-2006-08-25,Cawood,Hancock County. TN,65,6,1,   ,0
+2006-08-25,Cawood,Out of State,65,6,1,   ,0
 2006-08-25,Central,Shelby County,56,28,0,   ,0
 2006-08-25,Clay County,Evarts,55,12,1,   ,0
 2006-08-25,Cumberland,Jenkins,45,13,0,   ,0
 2006-08-25,Danville,Pulaski County,54,3,2,   ,0
 2006-08-25,Daviess County,Hopkins County Central,30,20,1,   ,0
-2006-08-25,Dawson Bryant (Coal Grove). OH,Lawrence County,30,6,2,   ,0
+2006-08-25,Out of State,Lawrence County,30,6,2,   ,0
 2006-08-25,Dayton,Grant County,14,12,0,   ,0
 2006-08-25,DuPont Manual,Eastern,32,7,0,   ,0
 2006-08-25,East Carter,Fairview,13,6,0,   ,0
@@ -138,17 +138,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-25,Frankfort,Western Hills,48,15,1,   ,0
 2006-08-25,Fulton County,Reidland,57,35,0,   ,0
 2006-08-25,George Rogers Clark,Bryan Station,31,0,0,   ,0
-2006-08-25,Gleason. TN,Fulton City,1,0,1,  (forfeit,0
+2006-08-25,Out of State,Fulton City,1,0, was 34-8) ,  (forfeit,0
 2006-08-25,Grayson County,Butler County,28,14,0,   ,0
 2006-08-25,Green County,Hart County,48,20,1,   ,0
 2006-08-25,Harlan,Hazard,34,0,0,   ,0
-2006-08-25,Henderson County,Evansville North. IN,16,13,1,  (overtime) ,1
+2006-08-25,Henderson County,Out of State,16,13,1,  (overtime) ,1
 2006-08-25,Henry County,Trimble County,47,27,1,   ,0
 2006-08-25,Highlands,Conner,42,0,0,   ,0
 2006-08-25,Holy Cross (Covington),Holmes,27,26,0,   ,0
 2006-08-25,Holy Cross (Louisville),Christian Academy-Louisville,35,0,0,   ,0
 2006-08-25,Iroquois,Atherton,45,6,0,   ,0
-2006-08-25,Johnson Central,South Point. OH,35,7,1,   ,0
+2006-08-25,Johnson Central,Out of State,35,7,1,   ,0
 2006-08-25,Kentucky Country Day,Eminence,49,20,0,   ,0
 2006-08-25,Knott County Central,Magoffin County,51,6,0,   ,0
 2006-08-25,LaRue County,John Hardin,38,35,1,   ,0
@@ -162,15 +162,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-25,Marion County,Campbellsville,28,13,1,   ,0
 2006-08-25,Marshall County,Mayfield,21,14,0,   ,0
 2006-08-25,Mason County,Montgomery County,23,20,1,   ,0
-2006-08-25,Massac. IL,Heath,20,18,0,   ,0
-2006-08-25,Matewan. WV,Shelby Valley,48,43,2,   ,0
+2006-08-25,Out of State,Heath,20,18,0,   ,0
+2006-08-25,Out of State,Shelby Valley,48,43,2,   ,0
 2006-08-25,McLean County,Muhlenberg South,21,14,0,   ,0
 2006-08-25,Metcalfe County,Taylor County,48,7,0,   ,0
 2006-08-25,Middlesboro,Lynn Camp,48,14,0,   ,0
 2006-08-25,Moore,Evangel Christian,61,13,1,   ,0
 2006-08-25,Newport Central Catholic,Newport,20,0,0,   ,0
 2006-08-25,Ohio County,Hancock County,33,26,0,   ,0
-2006-08-25,Oneida. TN,McCreary Central,14,0,0,   ,0
+2006-08-25,Out of State,McCreary Central,14,0,0,   ,0
 2006-08-25,Owen County,Gallatin County,26,6,1,   ,0
 2006-08-25,Owensboro,Owensboro Catholic,51,20,0,   ,0
 2006-08-25,Paintsville,Allen Central,52,6,1,   ,0
@@ -178,13 +178,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-25,Pendleton County,Bracken County,53,12,0,   ,0
 2006-08-25,Pineville,Berea,42,7,0,   ,0
 2006-08-25,Pleasure Ridge Park,Doss,36,6,1,   ,0
-2006-08-25,Portland. TN,Greenwood,10,7,0,   ,0
+2006-08-25,Out of State,Greenwood,10,7,0,   ,0
 2006-08-25,Raceland,Rowan County,45,3,1,   ,0
 2006-08-25,Rockcastle County,Bourbon County,74,6,1,   ,0
 2006-08-25,Russell,Greenup County,33,6,0,   ,0
 2006-08-25,Russell County,Casey County,30,12,1,   ,0
 2006-08-25,Russellville,Logan County,35,14,0,   ,0
-2006-08-25,Scott County,Woodward. OH,57,28,1,   ,0
+2006-08-25,Scott County,Out of State,57,28,1,   ,0
 2006-08-25,Sheldon Clark,Boyd County,35,14,0,   ,0
 2006-08-25,South Floyd,Jackson County,44,20,1,   ,0
 2006-08-25,South Oldham,North Oldham,49,7,1,   ,0
@@ -193,24 +193,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-08-25,St. Xavier,Lexington Catholic,47,0,1,   ,0
 2006-08-25,Tates Creek,Ballard,27,20,0,   ,0
 2006-08-25,Valley,Breckinridge County,72,0,1,   ,0
-2006-08-25,Waggener,Providence. IN,13,0,1,   ,0
+2006-08-25,Waggener,Out of State,13,0,1,   ,0
 2006-08-25,Warren Central,Paducah Tilghman,35,20,0,   ,0
 2006-08-25,Warren East,Todd County Central,63,7,1,   ,0
 2006-08-25,Wayne County,Knox Central,26,14,0,   ,0
 2006-08-25,West Carter,Nicholas County,32,26,0,   ,0
-2006-08-25,Williamsburg,Jellico. TN,57,0,1,   ,0
+2006-08-25,Williamsburg,Out of State,57,0,1,   ,0
 2006-08-26,Bellevue,Shawnee,14,12,1,   ,0
-2006-08-26,Bowling Green,Christian County,24,21,2,  (triple overtime) ,0
-2006-08-26,Cincinnati Elder. OH,Covington Catholic,13,3,1,   ,0
+2006-08-26,Bowling Green,Christian County,24,21,2,  (triple overtime) ,1
+2006-08-26,Out of State,Covington Catholic,13,3,1,   ,0
 2006-08-26,East Jessamine,Pikeville,20,8,2,   ,0
 2006-08-26,Fort Campbell,Fort Knox,49,3,2,   ,0
-2006-08-26,Glen Este. OH,Ryle,28,7,2,   ,0
+2006-08-26,Out of State,Ryle,28,7,2,   ,0
 2006-08-26,Graves County,Calloway County,28,14,1,   ,0
 2006-08-26,Henry Clay,Boyle County,53,10,1,   ,0
 2006-08-26,Leslie County,Prestonsburg,12,3,2,   ,0
 2006-08-26,Letcher County Central,Perry County Central,41,22,2,   ,0
 2006-08-26,Mercer County,South Laurel,53,6,1,   ,0
-2006-08-26,Montgomery Bell. TN,Trinity (Louisville),23,21,0,   ,0
+2006-08-26,Out of State,Trinity (Louisville),23,21,0,   ,0
 2006-08-26,North Hardin,Whitley County,40,6,1,   ,0
 2006-08-26,Oldham County,Corbin,34,20,0,   ,0
 2006-08-26,Simon Kenton,Seneca,31,17,2,   ,0
@@ -235,11 +235,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-01,Calloway County,Murray,44,0,1,   ,0
 2006-09-01,Central,Valley,36,0,1,   ,0
 2006-09-01,Christian County,North Hardin,33,14,1,   ,0
-2006-09-01,Cincinnati Elder. OH,Highlands,21,18,0,   ,0
+2006-09-01,Out of State,Highlands,21,18,0,   ,0
 2006-09-01,Crittenden County,Logan County,43,38,1,   ,0
 2006-09-01,Cumberland,Betsy Layne,53,0,1,   ,0
 2006-09-01,Danville,Boyle County,35,33,0,   ,0
-2006-09-01,Dawson Bryant (Coal Grove). OH,Fairview,30,12,2,   ,0
+2006-09-01,Out of State,Fairview,30,12,2,   ,0
 2006-09-01,Doss,Fairdale,22,19,1,   ,0
 2006-09-01,East Ridge,South Floyd,40,0,0,   ,0
 2006-09-01,Elizabethtown,Fort Knox,33,18,0,   ,0
@@ -257,12 +257,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-01,Henry County,Owen County,21,10,0,   ,0
 2006-09-01,Holmes,Pendleton County,54,0,0,   ,0
 2006-09-01,Holy Cross (Louisville),DeSales,33,13,1,   ,0
-2006-09-01,Indian Hill. OH,Bellevue,42,0,1,   ,0
-2006-09-01,Jackson County,Hancock County. TN,46,12,0,   ,0
-2006-09-01,Johnson Central,Logan. WV,35,8,1,   ,0
+2006-09-01,Out of State,Bellevue,42,0,1,   ,0
+2006-09-01,Jackson County,Out of State,46,12,0,   ,0
+2006-09-01,Johnson Central,Out of State,35,8,1,   ,0
 2006-09-01,Knox Central,Cawood,30,8,0,   ,0
 2006-09-01,LaRue County,Central Hardin,26,0,0,   ,0
-2006-09-01,Lebanon. OH,Campbell County,24,14,1,   ,0
+2006-09-01,Out of State,Campbell County,24,14,1,   ,0
 2006-09-01,Lexington Christian,Christian Academy-Louisville,21,0,1,   ,0
 2006-09-01,Lincoln County,Garrard County,41,0,0,   ,0
 2006-09-01,Lynn Camp,Perry County Central,42,27,0,   ,0
@@ -302,7 +302,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-01,South Oldham,Oldham County,34,31,0,   ,0
 2006-09-01,Southwestern,George Rogers Clark,20,13,1,   ,0
 2006-09-01,St. Xavier,Fern Creek,58,13,1,   ,0
-2006-09-01,Tates Creek,Madison Central,34,31,1,  (double overtime) ,0
+2006-09-01,Tates Creek,Madison Central,34,31,1,  (double overtime) ,1
 2006-09-01,Taylor County,Campbellsville,20,14,0,   ,0
 2006-09-01,Trigg County,Hopkins County Central,55,12,0,   ,0
 2006-09-01,Trimble County,Nicholas County,39,6,1,   ,0
@@ -312,10 +312,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-01,West Carter,Lewis County,34,30,1,   ,0
 2006-09-01,Western,Breathitt County,35,15,0,   ,0
 2006-09-01,Western Hills,Kentucky Country Day,21,16,0,   ,0
-2006-09-01,White House. TN,Franklin-Simpson,31,13,1,   ,0
+2006-09-01,Out of State,Franklin-Simpson,31,13,1,   ,0
 2006-09-01,Williamsburg,McCreary Central,39,6,0,   ,0
 2006-09-01,Woodford County,East Jessamine,21,19,1,   ,0
-2006-09-02,Ashland Blazer,Russell,24,21,1,  (triple overtime) ,0
+2006-09-02,Ashland Blazer,Russell,24,21,1,  (triple overtime) ,1
 2006-09-02,Beth Haven,Evangel Christian,90,40,0,   ,0
 2006-09-02,Covington Catholic,Dixie Heights,28,7,1,   ,0
 2006-09-02,Lafayette,Fulton County,45,0,1,   ,0
@@ -324,14 +324,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-08,Adair County,Metcalfe County,38,33,1,   ,0
 2006-09-08,Anderson County,Pendleton County,48,7,1,   ,0
 2006-09-08,Apollo,Grayson County,33,6,0,   ,0
-2006-09-08,Ashland Blazer,Portsmouth West. OH,35,12,0,   ,0
+2006-09-08,Ashland Blazer,Out of State,35,12,0,   ,0
 2006-09-08,Bardstown,Glasgow,35,6,1,   ,0
 2006-09-08,Belfry,East Ridge,48,6,1,   ,0
 2006-09-08,Bell County,Letcher County Central,57,7,1,   ,0
 2006-09-08,Bellevue,Estill County,48,20,1,   ,0
 2006-09-08,Bethlehem,Kentucky Country Day,49,19,0,   ,0
 2006-09-08,Bowling Green,Greenwood,44,7,1,   ,0
-2006-09-08,Breathitt County,Powell Valley. VA,42,28,0,   ,0
+2006-09-08,Breathitt County,Out of State,42,28,0,   ,0
 2006-09-08,Bullitt Central,North Oldham,22,16,0,   ,0
 2006-09-08,Butler County,Todd County Central,29,8,0,   ,0
 2006-09-08,Caldwell County,Lone Oak,31,21,1,   ,0
@@ -363,12 +363,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-08,Heath,Ballard Memorial,41,20,0,   ,0
 2006-09-08,Henderson County,Paducah Tilghman,40,21,1,   ,0
 2006-09-08,Henry Clay,Christian County,50,46,1,   ,0
-2006-09-08,Holy Cross (Louisville),Providence. IN,26,13,0,   ,0
+2006-09-08,Holy Cross (Louisville),Out of State,26,13,0,   ,0
 2006-09-08,Hopkins County Central,Murray,32,7,0,   ,0
 2006-09-08,Johnson Central,Bryan Station,38,14,1,   ,0
-2006-09-08,Kettering Alter. OH,Beechwood,16,0,1,   ,0
+2006-09-08,Out of State,Beechwood,16,0,1,   ,0
 2006-09-08,Lafayette,Boyle County,36,33,1,   ,0
-2006-09-08,Lake County. TN,Fulton County,38,13,0,   ,0
+2006-09-08,Out of State,Fulton County,38,13,0,   ,0
 2006-09-08,Lawrence County,Pike County Central,28,12,0,   ,0
 2006-09-08,Leslie County,Perry County Central,27,13,1,   ,0
 2006-09-08,Lexington Catholic,Scott County,43,36,1,   ,0
@@ -382,9 +382,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-08,McCreary Central,Berea,42,6,0,   ,0
 2006-09-08,McLean County,Muhlenberg North,57,0,1,   ,0
 2006-09-08,Meade County,Boone County,27,24,1,   ,0
-2006-09-08,Memphis Ridgeway. TN,Hopkinsville,41,3,0,   ,0
+2006-09-08,Out of State,Hopkinsville,41,3,0,   ,0
 2006-09-08,Mercer County,Garrard County,49,0,0,   ,0
-2006-09-08,Middlesboro,Lee County-Jonesville. VA,41,7,1,   ,0
+2006-09-08,Middlesboro,Out of State,41,7,1,   ,0
 2006-09-08,Monroe County,Barren County,22,21,0,   ,0
 2006-09-08,Newport,Ludlow,13,6,1,   ,0
 2006-09-08,North Laurel,Madison Southern,35,34,0,   ,0
@@ -402,9 +402,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-08,Ryle,Paul Laurence Dunbar,17,3,2,   ,0
 2006-09-08,Shawnee,Iroquois,2,0,1,  forfeit (was 20-6) ,0
 2006-09-08,Shelby County,South Oldham,27,24,0,   ,0
-2006-09-08,Shelby Valley,Midland Trail. WV,34,20,1,   ,0
-2006-09-08,Sheldon Clark,Fairland,18,6,2,   ,0
-2006-09-08,South Fulton. TN,Fulton City,1,0,0,  (forfeit. was 56-14) ,0
+2006-09-08,Shelby Valley,Out of State,34,20,1,   ,0
+2006-09-08,Sheldon Clark,Out of State,18,6,2,   ,0
+2006-09-08,Out of State,Fulton City,1,0,0,  (forfeit. was 56-14) ,0
 2006-09-08,South Laurel,Southwestern,42,27,1,   ,0
 2006-09-08,Southern,Moore,34,15,0,   ,0
 2006-09-08,Spencer County,Jackson County,61,14,1,   ,0
@@ -418,11 +418,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-08,Webster County,Muhlenberg South,27,0,1,   ,0
 2006-09-08,Western,Butler,67,34,0,   ,0
 2006-09-08,Whitley County,Lynn Camp,49,20,1,   ,0
-2006-09-08,Williamsburg,Oneida. TN,21,0,1,   ,0
+2006-09-08,Williamsburg,Out of State,21,0,1,   ,0
 2006-09-08,Woodford County,West Jessamine,20,2,0,   ,0
-2006-09-09,Beth Haven,Pleasantview. TN,51,16,0,   ,0
+2006-09-09,Beth Haven,Out of State,51,16,0,   ,0
 2006-09-09,Covington Catholic,Newport Central Catholic,35,14,0,   ,0
-2006-09-09,Holy Cross (Covington),Cincinnati Country Day. OH,42,8,1,   ,0
+2006-09-09,Holy Cross (Covington),Out of State,42,8,1,   ,0
 2006-09-09,St. Xavier,Highlands,35,21,2,   ,0
 2006-09-09,Trimble County,Gallatin County,52,20,0,   ,0
 2006-09-14,Green County,Campbellsville,42,12,1,   ,0
@@ -434,12 +434,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-15,Bath County,Fairview,26,0,0,   ,0
 2006-09-15,Belfry,Magoffin County,48,0,1,   ,0
 2006-09-15,Bell County,Corbin,17,14,0,   ,0
-2006-09-15,Beth Haven,Pioneer. TN,80,50,1,   ,0
+2006-09-15,Beth Haven,Out of State,80,50,1,   ,0
 2006-09-15,Bethlehem,Fort Knox,35,7,1,   ,0
 2006-09-15,Boone County,Simon Kenton,29,14,0,   ,0
 2006-09-15,Bowling Green,Logan County,77,7,0,   ,0
 2006-09-15,Breathitt County,Harlan,19,7,0,   ,0
-2006-09-15,Bullitt Central,Marion County,26,20,1,  (triple overtime) ,0
+2006-09-15,Bullitt Central,Marion County,26,20,1,  (triple overtime) ,1
 2006-09-15,Bullitt East,Atherton,63,6,0,   ,0
 2006-09-15,Calloway County,Crittenden County,32,0,1,   ,0
 2006-09-15,Carroll County,Henry County,48,6,1,   ,0
@@ -448,7 +448,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-15,Central Hardin,Iroquois,2,0,0,  forfeit (was 24-20) ,0
 2006-09-15,Christian County,Madisonville-North Hopkins,37,7,1,   ,0
 2006-09-15,Clay County,Letcher County Central,44,30,0,   ,0
-2006-09-15,Clinton County,Hancock County. TN,72,0,1,   ,0
+2006-09-15,Clinton County,Out of State,72,0,1,   ,0
 2006-09-15,Covington Catholic,Beechwood,34,0,0,   ,0
 2006-09-15,Danville,North Oldham,56,0,1,   ,0
 2006-09-15,Dayton,Bracken County,48,0,0,   ,0
@@ -461,12 +461,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-15,Fleming County,Lewis County,42,12,0,   ,0
 2006-09-15,Fort Campbell,Trigg County,28,21,0,   ,0
 2006-09-15,Franklin-Simpson,Allen County-Scottsville,21,7,1,   ,0
-2006-09-15,Fulton County,Portageville. MO,37,7,0,   ,0
+2006-09-15,Fulton County,Out of State,37,7,0,   ,0
 2006-09-15,George Rogers Clark,Garrard County,49,27,1,   ,0
-2006-09-15,Gilbert. WV,East Ridge,56,28,0,   ,0
+2006-09-15,Out of State,East Ridge,56,28,0,   ,0
 2006-09-15,Grant County,Leslie County,27,20,1,   ,0
 2006-09-15,Graves County,Hancock County,29,6,0,   ,0
-2006-09-15,Greenup County,South Point. OH,36,12,1,   ,0
+2006-09-15,Greenup County,Out of State,36,12,1,   ,0
 2006-09-15,Greenwood,Hopkins County Central,24,7,0,   ,0
 2006-09-15,Harrison County,Anderson County,34,7,1,   ,0
 2006-09-15,Henderson County,North Hardin,10,3,0,   ,0
@@ -480,7 +480,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-15,Knox Central,McCreary Central,39,6,1,   ,0
 2006-09-15,LaRue County,DeSales,22,7,2,   ,0
 2006-09-15,Lafayette,Bryan Station,32,24,0,   ,0
-2006-09-15,Lasalle. OH,Butler,42,10,1,   ,0
+2006-09-15,Out of State,Butler,42,10,1,   ,0
 2006-09-15,Lexington Catholic,Franklin County,38,35,0,   ,0
 2006-09-15,Lexington Christian,Raceland,21,10,0,   ,0
 2006-09-15,Lincoln County,Whitley County,31,18,0,   ,0
@@ -523,20 +523,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-15,West Carter,Powell County,61,26,1,   ,0
 2006-09-15,Western,Christian Academy-Louisville,49,7,0,   ,0
 2006-09-15,Western Hills,Bourbon County,32,7,0,   ,0
-2006-09-15,Wheelersburg. OH,Boyd County,35,7,0,   ,0
+2006-09-15,Out of State,Boyd County,35,7,0,   ,0
 2006-09-15,Woodford County,Paul Laurence Dunbar,6,0,1,   ,0
 2006-09-16,Evarts,Gallatin County,34,27,1,   ,0
 2006-09-16,Holy Cross (Covington),Newport Central Catholic,10,7,0,   ,0
 2006-09-16,Hopkinsville,Pendleton County,62,0,1,   ,0
-2006-09-16,Metro Lutheran. IL,Fulton City,1,0,1,  (forfeit,0
+2006-09-16,Out of State,Fulton City,1,0, was 53-8) ,  (forfeit,0
 2006-09-16,Shelby Valley,Pike County Central,12,6,1,   ,0
 2006-09-21,Kentucky Country Day,Campbellsville,53,28,1,   ,0
 2006-09-22,Allen County-Scottsville,Logan County,26,14,1,   ,0
 2006-09-22,Bardstown,Fort Knox,36,0,0,   ,0
 2006-09-22,Belfry,Pikeville,24,20,0,   ,0
 2006-09-22,Bell County,Leslie County,7,0,0,   ,0
-2006-09-22,Beth Haven,South Haven. TN,46,6,1,   ,0
-2006-09-22,Bishop Ready. OH,Lloyd Memorial,65,0,1,   ,0
+2006-09-22,Beth Haven,Out of State,46,6,1,   ,0
+2006-09-22,Out of State,Lloyd Memorial,65,0,1,   ,0
 2006-09-22,Bowling Green,Adair County,55,0,1,   ,0
 2006-09-22,Breathitt County,Lawrence County,35,0,0,   ,0
 2006-09-22,Bullitt East,Doss,14,6,1,   ,0
@@ -550,7 +550,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-22,Fort Campbell,Lone Oak,17,14,1,   ,0
 2006-09-22,Frankfort,Garrard County,38,6,1,   ,0
 2006-09-22,Franklin County,Anderson County,34,0,1,   ,0
-2006-09-22,Fulton County,Gleason. TN,26,0,0,   ,0
+2006-09-22,Fulton County,Out of State,26,0,0,   ,0
 2006-09-22,George Rogers Clark,Montgomery County,23,15,0,   ,0
 2006-09-22,Glasgow,Hart County,40,25,0,   ,0
 2006-09-22,Grayson County,Ohio County,22,14,0,   ,0
@@ -573,7 +573,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-22,Newport Central Catholic,Dayton,28,0,0,   ,0
 2006-09-22,Paintsville,Phelps,51,22,0,   ,0
 2006-09-22,Paris,Fairview,40,22,0,   ,0
-2006-09-22,Pike County Central,River Valley. OH,20,13,0,   ,0
+2006-09-22,Pike County Central,Out of State,20,13,0,   ,0
 2006-09-22,Pleasure Ridge Park,Central,13,7,0,   ,0
 2006-09-22,Prestonsburg,Sheldon Clark,20,17,1,  (overtime) ,1
 2006-09-22,Raceland,Berea,61,8,1,   ,0
@@ -582,7 +582,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-22,Scott County,Wayne County,48,6,1,   ,0
 2006-09-22,Shelby Valley,East Ridge,20,12,0,   ,0
 2006-09-22,South Floyd,Betsy Layne,34,22,1,   ,0
-2006-09-22,St. Francis Desales. OH,Highlands,30,25,1,   ,0
+2006-09-22,Out of State,Highlands,30,25,1,   ,0
 2006-09-22,Taylor County,Russell County,13,6,1,   ,0
 2006-09-22,Trimble County,Bracken County,12,0,1,   ,0
 2006-09-22,Trinity (Louisville),St. Xavier,10,0,2,   ,0
@@ -591,16 +591,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-22,Warren Central,Barren County,53,0,1,   ,0
 2006-09-22,West Carter,Morgan County,20,14,0,   ,0
 2006-09-22,Western,Elizabethtown,27,7,1,   ,0
-2006-09-22,Whitehouse Heritage. TN,Caverna,42,20,0,   ,0
+2006-09-22,Out of State,Caverna,42,20,0,   ,0
 2006-09-22,Williamsburg,Pineville,39,15,0,   ,0
 2006-09-23,Apollo,Daviess County,17,10,1,   ,0
 2006-09-23,Ballard,Eastern,43,25,1,   ,0
 2006-09-23,Beechwood,Ludlow,45,7,0,   ,0
 2006-09-23,Boone County,Scott,32,3,1,   ,0
-2006-09-23,Cincinnati St. Xavier. OH,Covington Catholic,23,3,1,   ,0
-2006-09-23,Dixie Heights,Simon Kenton,37,34,1,  (triple overtime) ,0
+2006-09-23,Out of State,Covington Catholic,23,3,1,   ,0
+2006-09-23,Dixie Heights,Simon Kenton,37,34,1,  (triple overtime) ,1
 2006-09-23,East Jessamine,Western Hills,34,0,0,   ,0
-2006-09-23,Ervinton. VA,Jenkins,47,23,1,   ,0
+2006-09-23,Out of State,Jenkins,47,23,1,   ,0
 2006-09-23,Hancock County,Butler County,28,8,1,   ,0
 2006-09-23,Henry Clay,Bryan Station,42,0,1,   ,0
 2006-09-23,Newport,Grant County,29,14,1,   ,0
@@ -614,7 +614,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-24,Mayfield,Paducah Tilghman,14,7,1,  (overtime) ,1
 2006-09-24,Murray,Ballard Memorial,22,19,1,   ,0
 2006-09-24,Nelson County,Bullitt Central,26,7,0,   ,0
-2006-09-24,Reidland,Fulton City,1,0,0,  (forfeit,0
+2006-09-24,Reidland,Fulton City,1,0, was 32-8) ,  (forfeit,0
 2006-09-24,West Jessamine,Bourbon County,43,14,1,   ,0
 2006-09-25,Bethlehem,Holy Cross (Louisville),25,20,1,   ,0
 2006-09-25,DeSales,Moore,21,12,0,   ,0
@@ -629,7 +629,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-29,Anderson County,Western Hills,21,3,1,   ,0
 2006-09-29,Ashland Blazer,Greenup County,35,0,1,   ,0
 2006-09-29,Ballard,Southern,27,12,0,   ,0
-2006-09-29,Ballard Memorial,Fulton City,1,0,0,  (forfeit,0
+2006-09-29,Ballard Memorial,Fulton City,1,0, was 52-21) ,  (forfeit,0
 2006-09-29,Bardstown,Campbellsville,55,6,0,   ,0
 2006-09-29,Belfry,Pike County Central,56,18,1,   ,0
 2006-09-29,Bell County,Madison Southern,57,19,1,   ,0
@@ -643,7 +643,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-29,Central,Waggener,32,27,0,   ,0
 2006-09-29,Christian County,Greenwood,69,35,1,   ,0
 2006-09-29,Clinton County,Jackson County,57,8,1,   ,0
-2006-09-29,Cumberland,Thomas Walker. VA,40,0,0,   ,0
+2006-09-29,Cumberland,Out of State,40,0,0,   ,0
 2006-09-29,Danville,Owen County,48,0,0,   ,0
 2006-09-29,Dixie Heights,Conner,44,0,1,   ,0
 2006-09-29,Doss,Atherton,50,0,0,   ,0
@@ -660,7 +660,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-29,Garrard County,Grant County,38,31,1,   ,0
 2006-09-29,George Rogers Clark,North Laurel,39,6,1,   ,0
 2006-09-29,Glasgow,Edmonson County,27,25,0,   ,0
-2006-09-29,Grundy. VA,Shelby Valley,24,20,1,   ,0
+2006-09-29,Out of State,Shelby Valley,24,20,1,   ,0
 2006-09-29,Harrison County,Bourbon County,60,13,1,   ,0
 2006-09-29,Henderson County,Grayson County,55,6,0,   ,0
 2006-09-29,Henry Clay,Woodford County,40,7,0,   ,0
@@ -725,8 +725,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-09-29,Western,DeSales,42,24,2,   ,0
 2006-09-30,Beechwood,Newport Central Catholic,28,21,0,   ,0
 2006-09-30,Beth Haven,Eminence,29,14,1,   ,0
-2006-09-30,Bishop Watterson. OH,Covington Catholic,38,13,0,   ,0
-2006-09-30,Lehman Catholic. OH,Bellevue,37,19,1,   ,0
+2006-09-30,Out of State,Covington Catholic,38,13,0,   ,0
+2006-09-30,Out of State,Bellevue,37,19,1,   ,0
 2006-09-30,Pineville,Betsy Layne,42,14,1,   ,0
 2006-09-30,Trinity (Louisville),Seneca,55,21,0,   ,0
 2006-09-30,Wayne County,Pendleton County,34,14,0,   ,0
@@ -746,7 +746,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-06,Ashland Blazer,Mason County,20,13,0,   ,0
 2006-10-06,Beechwood,Bellevue,62,8,1,   ,0
 2006-10-06,Belfry,Prestonsburg,42,10,1,   ,0
-2006-10-06,Beth Haven,South Haven. TN,50,0,0,   ,0
+2006-10-06,Beth Haven,Out of State,50,0,0,   ,0
 2006-10-06,Bethlehem,Campbellsville,31,0,0,   ,0
 2006-10-06,Boone County,Dixie Heights,14,10,1,   ,0
 2006-10-06,Boyd County,Lawrence County,36,14,1,   ,0
@@ -767,7 +767,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-06,DuPont Manual,Butler,34,13,0,   ,0
 2006-10-06,East Jessamine,Franklin County,14,13,1,   ,0
 2006-10-06,Edmonson County,Muhlenberg North,49,7,0,   ,0
-2006-10-06,Eminence,South Haven. TN,56,8,1,   ,0
+2006-10-06,Eminence,Out of State,56,8,1,   ,0
 2006-10-06,Estill County,Morgan County,22,12,1,   ,0
 2006-10-06,Fleming County,Powell County,61,2,1,   ,0
 2006-10-06,Fort Campbell,Heath,40,13,0,   ,0
@@ -777,7 +777,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-06,Green County,Holy Cross (Louisville),14,6,1,   ,0
 2006-10-06,Harlan,Williamsburg,38,20,1,   ,0
 2006-10-06,Harrison County,Western Hills,37,0,0,   ,0
-2006-10-06,Haysi. VA,Betsy Layne,58,0,1,   ,0
+2006-10-06,Out of State,Betsy Layne,58,0,1,   ,0
 2006-10-06,Hazard,South Floyd,61,0,0,   ,0
 2006-10-06,Henderson County,Ohio County,62,14,1,   ,0
 2006-10-06,Henry Clay,Tates Creek,48,20,1,   ,0
@@ -789,7 +789,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-06,Knox Central,Letcher County Central,33,18,0,   ,0
 2006-10-06,LaRue County,Elizabethtown,55,14,1,   ,0
 2006-10-06,Lafayette,Paul Laurence Dunbar,35,24,1,   ,0
-2006-10-06,Lee County-Jonesville. VA,Cawood,27,21,0,   ,0
+2006-10-06,Out of State,Cawood,27,21,0,   ,0
 2006-10-06,Lexington Catholic,West Jessamine,69,8,1,   ,0
 2006-10-06,Lincoln County,George Rogers Clark,28,21,1,   ,0
 2006-10-06,Lloyd Memorial,Henry County,48,6,0,   ,0
@@ -799,7 +799,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-06,Middlesboro,Knott County Central,48,0,0,   ,0
 2006-10-06,Monroe County,Owensboro Catholic,27,21,1,   ,0
 2006-10-06,Montgomery County,North Laurel,25,7,0,   ,0
-2006-10-06,Murray,Fulton City,1,0,1,  (forfeit,0
+2006-10-06,Murray,Fulton City,1,0, was 28-14) ,  (forfeit,0
 2006-10-06,Nelson County,Central Hardin,16,0,1,   ,0
 2006-10-06,Newport Central Catholic,Ludlow,50,0,0,   ,0
 2006-10-06,North Hardin,Meade County,25,21,1,   ,0
@@ -816,19 +816,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-06,Sheldon Clark,Shelby Valley,40,6,1,   ,0
 2006-10-06,Somerset,Evarts,56,6,0,   ,0
 2006-10-06,South Laurel,Whitley County,21,20,0,   ,0
-2006-10-06,South Oldham,Providence. IN,26,7,1,   ,0
+2006-10-06,South Oldham,Out of State,26,7,1,   ,0
 2006-10-06,Southern,Fern Creek,32,19,0,   ,0
 2006-10-06,Southwestern,Marion County,27,14,1,   ,0
 2006-10-06,Spencer County,Newport,14,6,1,   ,0
 2006-10-06,St. Xavier,Pleasure Ridge Park,49,13,1,   ,0
 2006-10-06,Todd County Central,Hart County,21,6,1,   ,0
-2006-10-06,Tolsia. WV,East Ridge,42,0,0,   ,0
+2006-10-06,Out of State,East Ridge,42,0,0,   ,0
 2006-10-06,Trigg County,Webster County,29,7,1,   ,0
 2006-10-06,Trimble County,Jackson County,82,18,1,   ,0
 2006-10-06,Trinity (Louisville),Eastern,50,32,1,   ,0
 2006-10-06,Warren East,Logan County,55,14,0,   ,0
 2006-10-06,West Carter,East Carter,20,19,0,   ,0
-2006-10-07,Evansville North. IN,Apollo,21,7,1,   ,0
+2006-10-07,Out of State,Apollo,21,7,1,   ,0
 2006-10-07,Gallatin County,Clinton County,36,12,1,   ,0
 2006-10-07,Holy Cross (Covington),Bracken County,55,6,1,   ,0
 2006-10-13,Adair County,Breckinridge County,28,8,1,   ,0
@@ -965,7 +965,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-20,DuPont Manual,Iroquois,55,20,0,   ,0
 2006-10-20,East Jessamine,Harrison County,21,7,1,   ,0
 2006-10-20,Elizabethtown,DeSales,26,7,1,   ,0
-2006-10-20,Ensworth. TN,Clinton County,47,8,1,   ,0
+2006-10-20,Out of State,Clinton County,47,8,1,   ,0
 2006-10-20,Estill County,West Carter,36,15,1,   ,0
 2006-10-20,Fleming County,Morgan County,34,20,0,   ,0
 2006-10-20,Fort Campbell,Webster County,55,0,0,   ,0
@@ -994,7 +994,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-20,Marion County,Pulaski County,32,6,0,   ,0
 2006-10-20,Mason County,Lawrence County,45,6,1,   ,0
 2006-10-20,Mayfield,Fulton City,22,8,0,   ,0
-2006-10-20,McCreary Central,Jellico. TN,42,14,0,   ,0
+2006-10-20,McCreary Central,Out of State,42,14,0,   ,0
 2006-10-20,Meade County,Nelson County,35,7,1,   ,0
 2006-10-20,Mercer County,Lloyd Memorial,64,14,1,   ,0
 2006-10-20,Metcalfe County,Caverna,49,0,1,   ,0
@@ -1032,7 +1032,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-20,Trinity (Louisville),Fern Creek,51,23,1,   ,0
 2006-10-20,Warren Central,Marshall County,40,14,0,   ,0
 2006-10-20,Warren East,Adair County,70,7,1,   ,0
-2006-10-20,Wayne County,Garrard County,20,14,1,  (triple overtime) ,0
+2006-10-20,Wayne County,Garrard County,20,14,1,  (triple overtime) ,1
 2006-10-20,Western,Moore,59,38,1,   ,0
 2006-10-20,Williamsburg,Cumberland,48,41,0,   ,0
 2006-10-21,Ballard Memorial,Muhlenberg North,44,19,0,   ,0
@@ -1046,7 +1046,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-27,Beechwood,Holy Cross (Covington),30,14,1,   ,0
 2006-10-27,Belfry,Shelby Valley,49,6,1,   ,0
 2006-10-27,Bell County,Clay County,35,7,1,   ,0
-2006-10-27,Berea,Hancock County. TN,60,0,1,   ,0
+2006-10-27,Berea,Out of State,60,0,1,   ,0
 2006-10-27,Boone County,Conner,14,0,0,   ,0
 2006-10-27,Bowling Green,Franklin-Simpson,51,6,1,   ,0
 2006-10-27,Boyle County,Russell County,16,8,0,   ,0
@@ -1089,7 +1089,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-27,Lexington Catholic,Anderson County,37,0,0,   ,0
 2006-10-27,Lexington Christian,Fairview,38,0,2,   ,0
 2006-10-27,Lincoln County,Madison Central,41,7,1,   ,0
-2006-10-27,Ludlow,Summit Country Day. OH,27,6,0,   ,0
+2006-10-27,Ludlow,Out of State,27,6,0,   ,0
 2006-10-27,Madison Southern,Perry County Central,37,20,1,   ,0
 2006-10-27,Male,DuPont Manual,35,7,1,   ,0
 2006-10-27,Marion County,Taylor County,12,0,0,   ,0
@@ -1104,7 +1104,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-27,Murray,Ohio County,23,6,1,   ,0
 2006-10-27,Newport,Lloyd Memorial,13,7,0,   ,0
 2006-10-27,Newport Central Catholic,Bracken County,49,6,1,   ,0
-2006-10-27,North Bend Taylor. OH,Pendleton County,27,6,1,   ,0
+2006-10-27,Out of State,Pendleton County,27,6,1,   ,0
 2006-10-27,North Bullitt,Bullitt East,30,12,0,   ,0
 2006-10-27,North Hardin,Nelson County,20,14,0,   ,0
 2006-10-27,Owensboro,Apollo,55,14,1,   ,0
@@ -1140,7 +1140,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2006-10-27,Williamsburg,Lynn Camp,35,20,1,   ,0
 2006-10-27,Woodford County,Tates Creek,16,9,0,   ,0
 2006-10-28,Ashland Blazer,Boyd County,28,21,1,   ,0
-2006-10-28,Haysi. VA,Letcher County Central,28,26,1,   ,0
+2006-10-28,Out of State,Letcher County Central,28,26,1,   ,0
 2006-10-28,Madisonville-North Hopkins,Calloway County,21,6,1,   ,0
 2006-10-28,Ryle,Dixie Heights,16,14,1,   ,0
 2006-11-03,Bardstown,Kentucky Country Day,41,14,1,  Class A Football State Tournament  ,0

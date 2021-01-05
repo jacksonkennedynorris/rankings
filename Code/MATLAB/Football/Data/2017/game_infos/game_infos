@@ -3,7 +3,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-18,Apollo,Muhlenberg County,50,22,1,   ,0
 2017-08-18,Bell County,Middlesboro,42,21,1,   ,0
 2017-08-18,Bourbon County,Somerset,36,29,2,   ,0
-2017-08-18,Bracken County,Switzerland County (Vevay). IN,26,6,0,   ,0
+2017-08-18,Bracken County,Out of State,26,6,0,   ,0
 2017-08-18,Butler,Bullitt East,53,0,0,   ,0
 2017-08-18,Campbell County,Dixie Heights,27,23,1,   ,0
 2017-08-18,Casey County,Barren County,50,7,1,   ,0
@@ -12,7 +12,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-18,Christian County,Caldwell County,27,10,0,   ,0
 2017-08-18,Clinton County,Fort Knox,40,18,1,   ,0
 2017-08-18,Covington Catholic,Ryle,49,17,1,   ,0
-2017-08-18,Crittenden County,Stewart County (Dover). TN,62,27,0,   ,0
+2017-08-18,Crittenden County,Out of State,62,27,0,   ,0
 2017-08-18,DeSales,Ballard,37,22,1,   ,0
 2017-08-18,Doss,Jeffersontown,42,0,0,   ,0
 2017-08-18,East Carter,Magoffin County,36,6,0,   ,0
@@ -20,18 +20,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-18,Edmonson County,Caverna,54,6,1,   ,0
 2017-08-18,Elizabethtown,Franklin-Simpson,55,23,0,   ,0
 2017-08-18,Eminence,Trimble County,28,0,0,   ,0
-2017-08-18,Evansville Reitz (Evansville). IN,Henderson County,41,0,1,   ,0
+2017-08-18,Out of State,Henderson County,41,0,1,   ,0
 2017-08-18,Fern Creek,Seneca,52,0,1,   ,0
 2017-08-18,Floyd Central,Harlan,28,12,0,   ,0
 2017-08-18,Fort Campbell,Marshall County,18,12,1,   ,0
 2017-08-18,Frankfort,Thomas Nelson,35,20,1,   ,0
 2017-08-18,Franklin County,Western Hills,24,20,1,   ,0
-2017-08-18,Fulton County,Gleason. TN,46,26,1,   ,0
+2017-08-18,Fulton County,Out of State,46,26,1,   ,0
 2017-08-18,Garrard County,Powell County,38,0,1,   ,0
 2017-08-18,Glasgow,Russellville,21,13,1,   ,0
 2017-08-18,Graves County,Murray,40,24,0,   ,0
 2017-08-18,Green County,Adair County,14,6,2,   ,0
-2017-08-18,Greenfield. TN,Fulton City,20,0,0,   ,0
+2017-08-18,Out of State,Fulton City,20,0,0,   ,0
 2017-08-18,Greenup County,Lewis County,62,10,1,   ,0
 2017-08-18,Greenwood,Warren Central,37,12,0,   ,0
 2017-08-18,Hancock County,Grayson County,33,14,1,   ,0
@@ -49,9 +49,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-18,Lloyd Memorial,West Jessamine,34,14,2,   ,0
 2017-08-18,Logan County,Butler County,42,24,0,   ,0
 2017-08-18,Ludlow,Carroll County,56,39,0,   ,0
-2017-08-18,Male,Floyd Central (Floyds Knobs). IN,35,10,1,   ,0
-2017-08-18,Mason County,North Adams (Seaman). OH,68,7,1,   ,0
-2017-08-18,Mayfield,Union City. TN,41,0,0,   ,0
+2017-08-18,Male,Out of State,35,10,1,   ,0
+2017-08-18,Mason County,Out of State,68,7,1,   ,0
+2017-08-18,Mayfield,Out of State,41,0,0,   ,0
 2017-08-18,Monroe County,Trigg County,37,19,2,   ,0
 2017-08-18,Moore,Southern,35,6,0,   ,0
 2017-08-18,Newport Central Catholic,Scott,17,7,0,   ,0
@@ -64,34 +64,34 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-18,Paintsville,Estill County,41,14,0,   ,0
 2017-08-18,Paris,Bethlehem,26,7,0,   ,0
 2017-08-18,Pendleton County,Gallatin County,20,13,1,   ,0
-2017-08-18,Perry County Central,McCreary Central,64,58,0,  (Four overtimes) ,0
+2017-08-18,Perry County Central,McCreary Central,64,58,0,  (Four overtimes) ,1
 2017-08-18,Pikeville,Holy Cross (Covington),51,14,1,   ,0
 2017-08-18,Pleasure Ridge Park,Valley,41,6,0,   ,0
-2017-08-18,Pulaski County,Jeffersonville. IN,49,28,1,   ,0
+2017-08-18,Pulaski County,Out of State,49,28,1,   ,0
 2017-08-18,Rowan County,Morgan County,54,36,0,   ,0
 2017-08-18,Scott County,North Bullitt,56,19,1,   ,0
 2017-08-18,Shelby Valley,Jenkins,66,0,1,   ,0
 2017-08-18,Sheldon Clark,Betsy Layne,26,24,0,   ,0
 2017-08-18,Simon Kenton,Meade County,47,13,0,   ,0
-2017-08-18,South Fulton. TN,Ballard Memorial,58,54,0,   ,0
+2017-08-18,Out of State,Ballard Memorial,58,54,0,   ,0
 2017-08-18,South Warren,Hopkinsville,35,14,1,   ,0
-2017-08-18,Southwestern,Northwest,41,6,2,   ,0
+2017-08-18,Southwestern,Out of State,41,6,2,   ,0
 2017-08-18,Spencer County,Bardstown,36,14,1,   ,0
-2017-08-18,St. Xavier,Cathedral (Indianapolis). IN,35,28,1,   ,0
+2017-08-18,St. Xavier,Out of State,35,28,1,   ,0
 2017-08-18,Tates Creek,Henry Clay,48,0,1,   ,0
 2017-08-18,Taylor County,Metcalfe County,28,0,2,   ,0
 2017-08-18,Todd County Central,Breckinridge County,14,6,1,   ,0
-2017-08-18,Trinity (Louisville),Carmel. IN,31,3,1,   ,0
+2017-08-18,Trinity (Louisville),Out of State,31,3,1,   ,0
 2017-08-18,Walton-Verona,East Jessamine,43,20,0,   ,0
-2017-08-18,Warren East,Portland. TN,21,0,1,   ,0
+2017-08-18,Warren East,Out of State,21,0,1,   ,0
 2017-08-18,Western,North Oldham,41,9,0,   ,0
-2017-08-18,Williamsburg,Jellico. TN,60,8,1,   ,0
+2017-08-18,Williamsburg,Out of State,60,8,1,   ,0
 2017-08-19,Allen County-Scottsville,Hart County,39,7,2,   ,0
 2017-08-19,Bishop Brossart,Dayton,26,7,1,   ,0
 2017-08-19,Bowling Green,North Hardin,42,7,2,   ,0
 2017-08-19,Boyle County,John Hardin,41,6,2,   ,0
-2017-08-19,Bullitt Central,Holy Cross,7,0,2,   ,0
-2017-08-19,Central Hardin,Northeast,34,20,2,   ,0
+2017-08-19,Bullitt Central,Holy Cross (Louisville),7,0,2,   ,0
+2017-08-19,Central Hardin,Out of State,34,20,2,   ,0
 2017-08-19,Collins,Madison Southern,38,7,2,   ,0
 2017-08-19,Corbin,Whitley County,14,0,0,   ,0
 2017-08-19,Danville,Frederick Douglass,36,0,1,   ,0
@@ -119,8 +119,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-25,Central,Western,13,12,0,   ,0
 2017-08-25,Central Hardin,Bullitt East,44,10,1,   ,0
 2017-08-25,Christian Academy-Louisville,Eastern,33,9,1,   ,0
-2017-08-25,Christian County,Rossview,18,7,2,   ,0
-2017-08-25,Claiborne (New Tazewell). TN,Middlesboro,32,15,1,   ,0
+2017-08-25,Christian County,Out of State,18,7,2,   ,0
+2017-08-25,Out of State,Middlesboro,32,15,1,   ,0
 2017-08-25,Clinton County,Fulton County,38,8,0,   ,0
 2017-08-25,Collins,Moore,54,14,1,   ,0
 2017-08-25,Conner,Boone County,21,13,1,   ,0
@@ -130,28 +130,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-25,East Jessamine,Montgomery County,22,14,0,   ,0
 2017-08-25,Edmonson County,Butler County,42,13,1,   ,0
 2017-08-25,Eminence,Berea,58,0,1,   ,0
-2017-08-25,Evansville Central (Evansville). IN,Apollo,49,7,1,   ,0
-2017-08-25,Evansville Reitz (Evansville). IN,Owensboro Catholic,34,0,0,   ,0
+2017-08-25,Out of State,Apollo,49,7,1,   ,0
+2017-08-25,Out of State,Owensboro Catholic,34,0,0,   ,0
 2017-08-25,Fairview,Boyd County,36,14,0,   ,0
 2017-08-25,Fern Creek,DuPont Manual,14,10,1,   ,0
 2017-08-25,Fleming County,Mason County,18,14,0,   ,0
 2017-08-25,Floyd Central,Betsy Layne,43,0,1,   ,0
 2017-08-25,Franklin-Simpson,Monroe County,48,0,0,   ,0
 2017-08-25,Frederick Douglass,Tates Creek,49,22,1,   ,0
-2017-08-25,Gallatin County,Switzerland County (Vevay). IN,40,6,1,   ,0
+2017-08-25,Gallatin County,Out of State,40,6,1,   ,0
 2017-08-25,George Rogers Clark,Harrison County,50,6,0,   ,0
 2017-08-25,Glasgow,Bardstown,48,9,0,   ,0
-2017-08-25,Gleason. TN,Fulton City,58,7,0,   ,0
+2017-08-25,Out of State,Fulton City,58,7,0,   ,0
 2017-08-25,Grayson County,Breckinridge County,14,6,0,   ,0
 2017-08-25,Green County,Caverna,53,13,0,   ,0
 2017-08-25,Hancock County,Webster County,68,0,0,   ,0
 2017-08-25,Hazard,Harlan County,17,6,1,   ,0
-2017-08-25,Henderson County,Evansville North (Evansville). IN,21,3,0,   ,0
+2017-08-25,Henderson County,Out of State,21,3,0,   ,0
 2017-08-25,Highlands,Campbell County,27,20,1,  (overtime) ,1
 2017-08-25,Holy Cross (Louisville),Valley,36,6,1,   ,0
-2017-08-25,Huntington. WV,Belfry,45,34,2,   ,0
+2017-08-25,Out of State,Belfry,45,34,2,   ,0
 2017-08-25,Jeffersontown,Iroquois,7,6,1,   ,0
-2017-08-25,Johnson Central,Capital (Charleston). WV,31,20,1,   ,0
+2017-08-25,Johnson Central,Out of State,31,20,1,   ,0
 2017-08-25,Kentucky Country Day,Walton-Verona,21,20,1,   ,0
 2017-08-25,Knott County Central,Sheldon Clark,34,0,1,   ,0
 2017-08-25,LaRue County,Russell County,20,7,0,   ,0
@@ -166,15 +166,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-25,Meade County,Anderson County,48,0,1,   ,0
 2017-08-25,Metcalfe County,Hart County,46,13,0,   ,0
 2017-08-25,Murray,Calloway County,42,19,1,   ,0
-2017-08-25,Newport,Finneytown (Cincinnati). OH,30,15,0,   ,0
+2017-08-25,Newport,Out of State,30,15,0,   ,0
 2017-08-25,Newport Central Catholic,Cooper,29,7,1,   ,0
 2017-08-25,North Bullitt,Southern,47,20,1,   ,0
 2017-08-25,North Hardin,John Hardin,28,14,1,   ,0
 2017-08-25,North Laurel,Prestonsburg,28,6,0,   ,0
-2017-08-25,Northeast (Clarksville). TN,McCracken County,28,20,0,   ,0
+2017-08-25,Out of State,McCracken County,28,20,0,   ,0
 2017-08-25,Ohio County,Hopkins County Central,37,18,0,   ,0
 2017-08-25,Oldham County,North Oldham,35,24,1,   ,0
-2017-08-25,Paducah Tilghman,Liberty Tech Magnet (Jackson). TN,7,0,1,   ,0
+2017-08-25,Paducah Tilghman,Out of State,7,0,1,   ,0
 2017-08-25,Paintsville,Harlan,37,0,0,   ,0
 2017-08-25,Pendleton County,Nicholas County,18,15,1,   ,0
 2017-08-25,Perry County Central,Breathitt County,51,6,0,   ,0
@@ -197,8 +197,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-25,Todd County Central,Fort Knox,26,6,0,   ,0
 2017-08-25,Trigg County,McLean County,31,22,1,   ,0
 2017-08-25,Trimble County,Shawnee,53,18,1,   ,0
-2017-08-25,Trinity (Louisville),Warren Central (Indianapolis). IN,42,41,0,   ,0
-2017-08-25,Twin Valley (Pilgrims Knob). VA,Jenkins,54,0,0,   ,0
+2017-08-25,Trinity (Louisville),Out of State,42,41,0,   ,0
+2017-08-25,Out of State,Jenkins,54,0,0,   ,0
 2017-08-25,Union County,Marion County,49,21,0,   ,0
 2017-08-25,Washington County,Bethlehem,29,22,0,  (overtime) ,1
 2017-08-25,Wayne County,Pulaski County,29,27,1,   ,0
@@ -208,12 +208,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-25,Whitley County,Leslie County,41,13,0,   ,0
 2017-08-26,Bourbon County,Owen County,42,0,1,   ,0
 2017-08-26,Boyle County,Waggener,54,19,1,   ,0
-2017-08-26,Corbin,Alcoa. TN,22,21,1,   ,0
+2017-08-26,Corbin,Out of State,22,21,1,   ,0
 2017-08-26,Danville,Knox Central,52,28,2,   ,0
-2017-08-26,Evansville Mater Dei (Evansville). IN,Owensboro,21,20,2,  (overtime) ,1
-2017-08-26,Evansville Memorial (Evansville). IN,Daviess County,58,33,2,   ,0
+2017-08-26,Out of State,Owensboro,21,20,2,  (overtime) ,1
+2017-08-26,Out of State,Daviess County,58,33,2,   ,0
 2017-08-26,Frankfort,Grant County,42,6,2,   ,0
-2017-08-26,Goshen. OH,Holy Cross (Covington),56,9,1,   ,0
+2017-08-26,Out of State,Holy Cross (Covington),56,9,1,   ,0
 2017-08-26,Greenup County,Russell,34,28,0,  (overtime) ,1
 2017-08-26,Lexington Christian,Pikeville,49,21,2,   ,0
 2017-08-26,Mercer County,Franklin County,35,25,2,   ,0
@@ -241,10 +241,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-31,Fairdale,Nelson County,47,18,1,   ,0
 2017-08-31,Fleming County,Greenup County,21,17,1,   ,0
 2017-08-31,Franklin County,Woodford County,33,20,0,   ,0
-2017-08-31,Gallatin County,Finneytown (Cincinnati). OH,24,7,1,   ,0
+2017-08-31,Gallatin County,Out of State,24,7,1,   ,0
 2017-08-31,George Rogers Clark,Paul Laurence Dunbar,17,0,0,   ,0
-2017-08-31,George Washington (Charleston). WV,Ashland Blazer,14,7,0,   ,0
-2017-08-31,Hurricane. WV,Paintsville,17,13,0,   ,0
+2017-08-31,Out of State,Ashland Blazer,14,7,0,   ,0
+2017-08-31,Out of State,Paintsville,17,13,0,   ,0
 2017-08-31,Iroquois,Valley,6,2,0,   ,0
 2017-08-31,Jeffersontown,North Bullitt,40,25,1,   ,0
 2017-08-31,John Hardin,Daviess County,28,26,1,   ,0
@@ -260,10 +260,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-08-31,Phelps,Sheldon Clark,18,8,0,   ,0
 2017-08-31,Pleasure Ridge Park,Eastern,21,0,0,   ,0
 2017-08-31,Raceland,West Carter,35,0,0,   ,0
-2017-08-31,Ridgeview (Clintwood). VA,Shelby Valley,34,6,0,   ,0
+2017-08-31,Out of State,Shelby Valley,34,6,0,   ,0
 2017-08-31,Rockcastle County,Whitley County,43,35,1,   ,0
 2017-08-31,Scott County,Highlands,71,20,1,   ,0
-2017-08-31,South Point. OH,Boyd County,20,12,1,   ,0
+2017-08-31,Out of State,Boyd County,20,12,1,   ,0
 2017-08-31,Taylor County,Campbellsville,22,14,1,  (overtime) ,1
 2017-08-31,Union County,Webster County,49,0,0,   ,0
 2017-08-31,Waggener,North Oldham,65,13,1,   ,0
@@ -287,7 +287,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-01,Henry County,Grant County,22,0,1,   ,0
 2017-09-01,Lawrence County,Prestonsburg,37,32,0,   ,0
 2017-09-01,Lexington Catholic,Lafayette,25,0,1,   ,0
-2017-09-01,Lexington Christian,Vincennes Lincoln (Vincennes). IN,41,21,0,   ,0
+2017-09-01,Lexington Christian,Out of State,41,21,0,   ,0
 2017-09-01,Madisonville-North Hopkins,Murray,53,7,1,   ,0
 2017-09-01,Marshall County,Ballard Memorial,55,24,1,   ,0
 2017-09-01,Mayfield,Paducah Tilghman,47,14,0,   ,0
@@ -301,7 +301,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-01,Ryle,Boone County,48,0,1,   ,0
 2017-09-01,Simon Kenton,Conner,13,6,0,   ,0
 2017-09-01,Tates Creek,Harlan County,28,11,0,   ,0
-2017-09-01,Thomas Walker (Ewing). VA,Harlan,13,8,1,   ,0
+2017-09-01,Out of State,Harlan,13,8,1,   ,0
 2017-09-01,Trigg County,Crittenden County,29,20,0,   ,0
 2017-09-01,Walton-Verona,Holmes,41,0,1,   ,0
 2017-09-01,Wayne County,Warren East,41,16,0,   ,0
@@ -309,14 +309,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-02,Allen County-Scottsville,Greenwood,26,23,0,   ,0
 2017-09-02,Caldwell County,Hopkinsville,28,21,0,   ,0
 2017-09-02,Elizabethtown,North Hardin,50,14,1,   ,0
-2017-09-02,Frankfort,North College Hill (Cincinnati). OH,47,0,1,   ,0
+2017-09-02,Frankfort,Out of State,47,0,1,   ,0
 2017-09-02,Glasgow,Fort Campbell,41,3,1,   ,0
-2017-09-02,Ironton. OH,Russell,35,7,1,   ,0
+2017-09-02,Out of State,Russell,35,7,1,   ,0
 2017-09-02,Logan County,Breckinridge County,38,0,0,   ,0
 2017-09-02,Madison Southern,Bourbon County,37,7,1,   ,0
 2017-09-02,Mason County,Rowan County,51,16,0,   ,0
 2017-09-02,Metcalfe County,Calloway County,26,7,1,   ,0
-2017-09-02,Milford. OH,Dixie Heights,49,0,1,   ,0
+2017-09-02,Out of State,Dixie Heights,49,0,1,   ,0
 2017-09-02,Montgomery County,Harrison County,36,14,1,   ,0
 2017-09-02,Morgan County,Jenkins,60,0,0,   ,0
 2017-09-02,Muhlenberg County,Hopkins County Central,21,15,1,  (changed date/time) ,0
@@ -325,19 +325,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-02,South Warren,Franklin-Simpson,36,7,1,   ,0
 2017-09-02,Southwestern,Madison Central,24,15,2,   ,0
 2017-09-02,St. Xavier,Bowling Green,30,19,0,   ,0
-2017-09-02,Trinity (Louisville),Archbishop Moeller (Cincinnati). OH,38,30,1,   ,0
+2017-09-02,Trinity (Louisville),Out of State,38,30,1,   ,0
 2017-09-02,Williamsburg,Leslie County,46,41,0,   ,0
 2017-09-08,Allen County-Scottsville,Glasgow,39,35,1,   ,0
 2017-09-08,Anderson County,Valley,20,0,1,   ,0
 2017-09-08,Apollo,Butler County,47,6,1,   ,0
-2017-09-08,Archbishop Moeller (Cincinnati). OH,Scott County,38,28,0,   ,0
+2017-09-08,Out of State,Scott County,38,28,0,   ,0
 2017-09-08,Ashland Blazer,Russell,30,14,0,   ,0
 2017-09-08,Atherton,Eminence,27,18,1,   ,0
 2017-09-08,Ballard,Central,30,7,0,   ,0
 2017-09-08,Bardstown,Nelson County,47,27,0,   ,0
 2017-09-08,Beechwood,Corbin,36,29,1,   ,0
 2017-09-08,Belfry,Newport Central Catholic,54,29,0,   ,0
-2017-09-08,Bellevue,St. Bernard-Elmwood Place (St. Bernard). OH,46,14,1,   ,0
+2017-09-08,Bellevue,Out of State,46,14,1,   ,0
 2017-09-08,Bishop Brossart,Newport,30,16,1,   ,0
 2017-09-08,Boone County,Holmes,27,6,0,   ,0
 2017-09-08,Bowling Green,Owensboro,48,21,1,   ,0
@@ -349,10 +349,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-08,Campbellsville,Green County,39,28,1,   ,0
 2017-09-08,Christian Academy-Louisville,Elizabethtown,24,9,1,   ,0
 2017-09-08,Christian County,Hopkinsville,15,12,1,   ,0
-2017-09-08,Clinton County,Pickett County (Byrdstown). TN,68,0,1,   ,0
+2017-09-08,Clinton County,Out of State,68,0,1,   ,0
 2017-09-08,Collins,Oldham County,28,21,0,   ,0
 2017-09-08,Conner,Scott,47,27,0,   ,0
-2017-09-08,Covington Catholic,Kings (Kings Mill). OH,35,14,0,   ,0
+2017-09-08,Covington Catholic,Out of State,35,14,0,   ,0
 2017-09-08,Danville,Pulaski County,34,13,0,   ,0
 2017-09-08,Daviess County,Hancock County,63,28,1,   ,0
 2017-09-08,DuPont Manual,Western,7,6,1,   ,0
@@ -364,14 +364,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-08,Floyd Central,Lynn Camp,43,14,1,   ,0
 2017-09-08,Franklin-Simpson,Greenwood,63,6,1,   ,0
 2017-09-08,Frederick Douglass,Lafayette,29,14,0,   ,0
-2017-09-08,Gibson Southern (Fort Branch). IN,Henderson County,28,20,0,   ,0
+2017-09-08,Out of State,Henderson County,28,20,0,   ,0
 2017-09-08,Graves County,Paducah Tilghman,26,15,1,   ,0
 2017-09-08,Hart County,Caverna,63,13,0,   ,0
 2017-09-08,Henry Clay,Southwestern,48,16,0,   ,0
 2017-09-08,Henry County,Spencer County,34,33,0,  (overtime) ,1
 2017-09-08,Holy Cross (Louisville),Bethlehem,38,7,1,   ,0
 2017-09-08,John Hardin,Warren Central,33,18,1,   ,0
-2017-09-08,Johnson Central,South Charleston. WV,41,28,0,   ,0
+2017-09-08,Johnson Central,Out of State,41,28,0,   ,0
 2017-09-08,Kentucky Country Day,Carroll County,56,0,1,   ,0
 2017-09-08,Knott County Central,Shelby Valley,42,22,1,   ,0
 2017-09-08,Knox Central,Harlan County,43,23,0,   ,0
@@ -400,13 +400,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-08,North Laurel,Grant County,56,14,0,   ,0
 2017-09-08,Ohio County,Grayson County,60,7,0,   ,0
 2017-09-08,Owen County,Fairview,12,6,1,   ,0
-2017-09-08,Owensboro Catholic,South Spencer (Rockport). IN,55,14,0,   ,0
+2017-09-08,Owensboro Catholic,Out of State,55,14,0,   ,0
 2017-09-08,Paintsville,Pikeville,28,0,1,   ,0
 2017-09-08,Paris,Harrison County,41,7,1,   ,0
 2017-09-08,Pendleton County,Dayton,28,13,0,   ,0
 2017-09-08,Perry County Central,Clay County,35,12,1,   ,0
 2017-09-08,Phelps,Jackson County,49,14,1,   ,0
-2017-09-08,Pike County Central,Hurley. VA,42,16,0,   ,0
+2017-09-08,Pike County Central,Out of State,42,16,0,   ,0
 2017-09-08,Pineville,Berea,42,6,1,   ,0
 2017-09-08,Pleasure Ridge Park,North Hardin,41,7,1,   ,0
 2017-09-08,Prestonsburg,Breathitt County,60,26,1,   ,0
@@ -421,13 +421,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-08,South Warren,Central Hardin,27,17,0,   ,0
 2017-09-08,Southern,Seneca,39,14,0,   ,0
 2017-09-08,St. Xavier,Fairdale,56,14,1,   ,0
-2017-09-08,Stewart County (Dover). TN,Fulton County,46,14,0,   ,0
+2017-09-08,Out of State,Fulton County,46,14,0,   ,0
 2017-09-08,Tates Creek,Paul Laurence Dunbar,37,0,1,   ,0
 2017-09-08,Todd County Central,Hopkins County Central,6,0,1,   ,0
 2017-09-08,Trigg County,Ballard Memorial,55,37,0,   ,0
 2017-09-08,Trinity (Louisville),Male,22,0,0,   ,0
 2017-09-08,Union County,Madisonville-North Hopkins,28,14,1,   ,0
-2017-09-08,Union [Appalachia/Powell Valley] (Appalachia). VA,Letcher County Central,55,27,0,   ,0
+2017-09-08,Out of State,Letcher County Central,55,27,0,   ,0
 2017-09-08,Walton-Verona,Holy Cross (Covington),56,0,1,   ,0
 2017-09-08,Warren East,Edmonson County,21,10,0,   ,0
 2017-09-08,Washington County,Thomas Nelson,55,37,0,   ,0
@@ -438,8 +438,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-08,Williamsburg,Frankfort,52,32,1,   ,0
 2017-09-15,Anderson County,Franklin County,46,13,0,   ,0
 2017-09-15,Apollo,Owensboro Catholic,31,24,0,   ,0
-2017-09-15,Archbishop Moeller (Cincinnati). OH,Lafayette,55,6,1,   ,0
-2017-09-15,Ashland Blazer,Ironton. OH,35,0,1,   ,0
+2017-09-15,Out of State,Lafayette,55,6,1,   ,0
+2017-09-15,Ashland Blazer,Out of State,35,0,1,   ,0
 2017-09-15,Atherton,Henry County,31,21,1,   ,0
 2017-09-15,Bath County,Estill County,32,30,0,   ,0
 2017-09-15,Belfry,Pikeville,56,13,1,   ,0
@@ -451,7 +451,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-15,Caldwell County,Henderson County,42,28,0,   ,0
 2017-09-15,Casey County,Jeffersontown,36,0,0,   ,0
 2017-09-15,Central Hardin,John Hardin,27,12,0,   ,0
-2017-09-15,Cincinnati Hills Christian Academy (Cincinnati). OH,Holy Cross (Covington),48,6,0,   ,0
+2017-09-15,Out of State,Holy Cross (Covington),48,6,0,   ,0
 2017-09-15,Clinton County,Caverna,70,25,0,   ,0
 2017-09-15,Covington Catholic,Beechwood,45,9,0,   ,0
 2017-09-15,Crittenden County,Webster County,49,7,0,   ,0
@@ -480,7 +480,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-15,Iroquois,Shawnee,54,18,0,   ,0
 2017-09-15,Johnson Central,Moore,42,8,0,   ,0
 2017-09-15,Kentucky Country Day,Bethlehem,47,0,0,   ,0
-2017-09-15,La Salle (Cincinnati). OH,Scott County,28,14,1,   ,0
+2017-09-15,Out of State,Scott County,28,14,1,   ,0
 2017-09-15,LaRue County,Hart County,54,13,0,   ,0
 2017-09-15,Leslie County,Breathitt County,50,14,0,   ,0
 2017-09-15,Lexington Catholic,Highlands,21,18,0,   ,0
@@ -511,7 +511,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-15,Pike County Central,Letcher County Central,35,28,1,   ,0
 2017-09-15,Prestonsburg,Floyd Central,42,22,0,   ,0
 2017-09-15,Pulaski County,Allen County-Scottsville,36,20,1,   ,0
-2017-09-15,Raceland,Valley (Lucasville). OH,47,6,0,   ,0
+2017-09-15,Raceland,Out of State,47,6,0,   ,0
 2017-09-15,Rockcastle County,Harrison County,42,13,0,   ,0
 2017-09-15,Russell,Boyd County,40,7,0,   ,0
 2017-09-15,Russell County,Adair County,40,6,1,   ,0
@@ -520,22 +520,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-15,Shelby County,Bullitt East,22,21,1,   ,0
 2017-09-15,Shelby Valley,Morgan County,55,36,1,   ,0
 2017-09-15,Somerset,North Laurel,16,14,1,   ,0
-2017-09-15,South Fulton. TN,Fulton County,58,14,1,   ,0
+2017-09-15,Out of State,Fulton County,58,14,1,   ,0
 2017-09-15,South Oldham,Boone County,51,0,0,   ,0
 2017-09-15,South Warren,Grayson County,49,0,1,   ,0
 2017-09-15,Spencer County,Woodford County,49,7,0,   ,0
 2017-09-15,St. Xavier,Central,42,7,0,   ,0
 2017-09-15,Tates Creek,Bryan Station,38,8,1,   ,0
 2017-09-15,Todd County Central,Fulton City,54,6,1,   ,0
-2017-09-15,Trinity (Louisville),Champagnat Catholic (Hialeah). FL,28,7,1,   ,0
-2017-09-15,Tug Valley (Williamson). WV,Phelps,20,7,0,   ,0
+2017-09-15,Trinity (Louisville),Out of State,28,7,1,   ,0
+2017-09-15,Out of State,Phelps,20,7,0,   ,0
 2017-09-15,Union County,Ballard Memorial,47,6,0,   ,0
 2017-09-15,Washington County,Marion County,42,6,1,   ,0
 2017-09-15,Wayne County,Harlan County,47,14,1,   ,0
 2017-09-15,West Jessamine,Nelson County,41,19,1,   ,0
 2017-09-15,Western Hills,Frankfort,41,14,1,   ,0
 2017-09-15,Whitley County,Bell County,28,6,1,   ,0
-2017-09-16,Glenbard North (Carol Stream). IL,McCracken County,35,3,0,   ,0
+2017-09-16,Out of State,McCracken County,35,3,0,   ,0
 2017-09-16,Knox Central,Green County,50,8,2,   ,0
 2017-09-16,McCreary Central,Paul Laurence Dunbar,22,21,1,   ,0
 2017-09-16,Simon Kenton,Cooper,65,7,1,   ,0
@@ -563,12 +563,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-22,Central,Henry County,44,7,0,   ,0
 2017-09-22,Central Hardin,Warren Central,50,0,1,   ,0
 2017-09-22,Christian County,Marshall County,37,6,1,   ,0
-2017-09-22,Clarksville Academy (Clarksville). TN,Fulton City,64,6,0,   ,0
+2017-09-22,Out of State,Fulton City,64,6,0,   ,0
 2017-09-22,Collins,Spencer County,38,0,0,   ,0
 2017-09-22,Conner,Newport Central Catholic,35,27,1,   ,0
 2017-09-22,Corbin,Mayfield,20,17,1,   ,0
-2017-09-22,Covington Catholic,St. Francis de Sales (Columbus). OH,35,7,1,   ,0
-2017-09-22,Cumberland Gap. TN,Pineville,32,12,0,   ,0
+2017-09-22,Covington Catholic,Out of State,35,7,1,   ,0
+2017-09-22,Out of State,Pineville,32,12,0,   ,0
 2017-09-22,Danville,Garrard County,42,2,1,   ,0
 2017-09-22,DeSales,Lexington Catholic,38,26,0,   ,0
 2017-09-22,Dixie Heights,Boone County,30,0,1,   ,0
@@ -583,7 +583,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-22,Franklin-Simpson,Glasgow,35,19,0,   ,0
 2017-09-22,Frederick Douglass,Paul Laurence Dunbar,52,0,0,   ,0
 2017-09-22,Green County,Hart County,16,6,1,   ,0
-2017-09-22,Greenfield. TN,Fulton County,53,6,1,   ,0
+2017-09-22,Out of State,Fulton County,53,6,1,   ,0
 2017-09-22,Greenup County,East Carter,43,7,1,   ,0
 2017-09-22,Hancock County,Todd County Central,28,8,1,   ,0
 2017-09-22,Harlan,Jenkins,62,0,0,   ,0
@@ -601,7 +601,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-22,Lloyd Memorial,Grant County,46,18,1,   ,0
 2017-09-22,Logan County,Hopkins County Central,38,8,0,   ,0
 2017-09-22,Ludlow,Williamsburg,39,28,1,   ,0
-2017-09-22,Lynn Camp,Jellico. TN,45,6,0,   ,0
+2017-09-22,Lynn Camp,Out of State,45,6,0,   ,0
 2017-09-22,Madison Central,Bourbon County,52,7,1,   ,0
 2017-09-22,Madison Southern,Pulaski County,60,21,0,   ,0
 2017-09-22,Madisonville-North Hopkins,Calloway County,63,0,0,   ,0
@@ -616,9 +616,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-22,Paris,Berea,68,0,1,   ,0
 2017-09-22,Perry County Central,Letcher County Central,44,34,0,   ,0
 2017-09-22,Pike County Central,Floyd Central,35,34,0,   ,0
-2017-09-22,Portsmouth West (West Portsmouth). OH,Raceland,27,21,0,   ,0
+2017-09-22,Out of State,Raceland,27,21,0,   ,0
 2017-09-22,Powell County,Magoffin County,50,12,1,   ,0
-2017-09-22,Providence (Clarksville). IN,Holy Cross (Louisville),17,14,1,   ,0
+2017-09-22,Out of State,Holy Cross (Louisville),17,14,1,   ,0
 2017-09-22,Russell,West Carter,43,12,0,   ,0
 2017-09-22,Russellville,Murray,28,21,1,   ,0
 2017-09-22,Scott,Mason County,27,21,0,  (overtime) ,1
@@ -630,13 +630,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-22,South Oldham,Oldham County,16,6,1,   ,0
 2017-09-22,South Warren,Barren County,50,6,1,   ,0
 2017-09-22,St. Xavier,Pleasure Ridge Park,35,21,0,   ,0
-2017-09-22,Switzerland County (Vevay). IN,Trimble County,16,6,1,   ,0
+2017-09-22,Out of State,Trimble County,16,6,1,   ,0
 2017-09-22,Taylor County,West Jessamine,26,20,1,  (overtime) ,1
 2017-09-22,Trigg County,Fort Campbell,14,7,1,   ,0
 2017-09-22,Trinity (Louisville),Jeffersontown,40,6,0,   ,0
 2017-09-22,Union County,Crittenden County,33,6,1,   ,0
 2017-09-22,Valley,Moore,13,7,1,   ,0
-2017-09-22,Valley (Lucasville). OH,Fairview,40,6,0,   ,0
+2017-09-22,Out of State,Fairview,40,6,0,   ,0
 2017-09-22,Walton-Verona,Owen County,61,0,1,   ,0
 2017-09-22,Washington County,Caverna,48,6,1,   ,0
 2017-09-22,Wayne County,Clay County,49,20,0,   ,0
@@ -658,10 +658,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-29,Bullitt East,Bullitt Central,19,13,1,   ,0
 2017-09-29,Butler,DuPont Manual,19,13,1,   ,0
 2017-09-29,Caldwell County,Union County,39,7,0,   ,0
-2017-09-29,Campbell County,Mt. Healthy (Cincinnati). OH,41,6,1,   ,0
+2017-09-29,Campbell County,Out of State,41,6,1,   ,0
 2017-09-29,Carroll County,Trimble County,40,0,1,   ,0
 2017-09-29,Casey County,Bell County,49,28,0,   ,0
-2017-09-29,Cathedral (Indianapolis). IN,Ryle,23,17,0,   ,0
+2017-09-29,Out of State,Ryle,23,17,0,   ,0
 2017-09-29,Christian Academy-Louisville,Meade County,26,7,0,   ,0
 2017-09-29,Christian County,Owensboro,48,27,0,   ,0
 2017-09-29,Collins,Franklin County,45,7,1,   ,0
@@ -689,7 +689,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-29,Graves County,Marshall County,55,20,0,   ,0
 2017-09-29,Greenup County,Rowan County,40,0,0,   ,0
 2017-09-29,Hancock County,Butler County,52,14,0,   ,0
-2017-09-29,Hannan (Ashton). WV,Jenkins,41,0,1,   ,0
+2017-09-29,Out of State,Jenkins,41,0,1,   ,0
 2017-09-29,Harlan County,Letcher County Central,54,6,1,   ,0
 2017-09-29,Hazard,Pikeville,38,26,1,   ,0
 2017-09-29,Henderson County,Muhlenberg County,38,8,0,   ,0
@@ -735,7 +735,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-09-29,Southwestern,Central Hardin,34,21,0,   ,0
 2017-09-29,Taylor County,Barren County,55,0,1,   ,0
 2017-09-29,Thomas Nelson,Henry County,21,20,0,   ,0
-2017-09-29,Thomas Walker (Ewing). VA,Pineville,34,14,0,   ,0
+2017-09-29,Out of State,Pineville,34,14,0,   ,0
 2017-09-29,Todd County Central,Caverna,58,24,1,   ,0
 2017-09-29,Trinity (Louisville),St. Xavier,28,0,1,   ,0
 2017-09-29,Waggener,Bardstown,56,13,0,   ,0
@@ -765,7 +765,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-06,Ashland Blazer,East Carter,71,0,0,   ,0
 2017-10-06,Ballard Memorial,Crittenden County,74,70,0,   ,0
 2017-10-06,Bath County,Lewis County,47,6,0,   ,0
-2017-10-06,Belfry,Cabell Midland (Ona). WV,35,14,0,   ,0
+2017-10-06,Belfry,Out of State,35,14,0,   ,0
 2017-10-06,Bell County,Clay County,41,21,0,   ,0
 2017-10-06,Bethlehem,Caverna,42,8,1,   ,0
 2017-10-06,Bourbon County,Holmes,56,34,1,   ,0
@@ -777,12 +777,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-06,Casey County,McCreary Central,70,30,0,   ,0
 2017-10-06,Christian County,Apollo,43,21,1,   ,0
 2017-10-06,Clinton County,Berea,54,6,1,   ,0
-2017-10-06,Covington Catholic,Indianapolis Bishop Chatard (Indianapolis). IN,30,7,1,   ,0
+2017-10-06,Covington Catholic,Out of State,30,7,1,   ,0
 2017-10-06,Danville,Somerset,37,26,0,   ,0
 2017-10-06,Daviess County,Muhlenberg County,55,6,1,   ,0
 2017-10-06,DeSales,Christian Academy-Louisville,21,3,0,   ,0
 2017-10-06,East Jessamine,Taylor County,28,20,1,   ,0
-2017-10-06,East Ridge,Twin Valley (Pilgrims Knob). VA,35,25,1,   ,0
+2017-10-06,East Ridge,Out of State,35,25,1,   ,0
 2017-10-06,Elizabethtown,Adair County,63,0,0,   ,0
 2017-10-06,Floyd Central,Sheldon Clark,48,0,0,   ,0
 2017-10-06,Fort Knox,Webster County,44,0,1,   ,0
@@ -802,7 +802,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-06,Lynn Camp,Pineville,53,0,0,   ,0
 2017-10-06,Madison Southern,Montgomery County,36,30,0,   ,0
 2017-10-06,Male,Bryan Station,37,6,1,   ,0
-2017-10-06,Mason County,Harrison County,54,48,0,  (double overtime) ,0
+2017-10-06,Mason County,Harrison County,54,48,0,  (double overtime) ,1
 2017-10-06,McCracken County,Henderson County,40,25,0,   ,0
 2017-10-06,McLean County,Todd County Central,22,0,0,   ,0
 2017-10-06,Mercer County,West Jessamine,40,8,0,   ,0
@@ -816,7 +816,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-06,Pikeville,Calloway County,42,6,0,   ,0
 2017-10-06,Powell County,Estill County,41,30,0,   ,0
 2017-10-06,Pulaski County,Lincoln County,41,20,0,   ,0
-2017-10-06,Ravenwood (Brentwood). TN,South Warren,31,17,1,   ,0
+2017-10-06,Out of State,South Warren,31,17,1,   ,0
 2017-10-06,Rockcastle County,Russell County,46,21,1,   ,0
 2017-10-06,Rowan County,Boyd County,42,6,0,   ,0
 2017-10-06,Ryle,Cooper,34,14,0,   ,0
@@ -826,18 +826,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-06,South Oldham,Bullitt East,48,13,1,   ,0
 2017-10-06,Southwestern,South Laurel,64,23,1,   ,0
 2017-10-06,St. Xavier,DuPont Manual,56,34,0,   ,0
-2017-10-06,Taft (Cincinnati). OH,Scott,42,35,0,   ,0
+2017-10-06,Out of State,Scott,42,35,0,   ,0
 2017-10-06,Trinity (Louisville),Eastern,45,0,1,   ,0
 2017-10-06,Union County,Fort Campbell,25,21,0,   ,0
 2017-10-06,Walton-Verona,Trimble County,56,0,0,   ,0
 2017-10-06,Washington County,Shawnee,49,6,0,   ,0
 2017-10-06,Wayne County,Knox Central,51,28,1,   ,0
-2017-10-06,West Carroll (Atwood). TN,Fulton City,29,6,1,   ,0
+2017-10-06,Out of State,Fulton City,29,6,1,   ,0
 2017-10-06,Whitley County,Perry County Central,27,20,0,   ,0
 2017-10-06,Williamsburg,Harlan,30,6,0,   ,0
 2017-10-07,Newport Central Catholic,Holy Cross (Covington),49,0,0,   ,0
 2017-10-12,Cooper,Boone County,35,7,0,   ,0
-2017-10-13,Aiken (Cincinnati). OH,Grant County,24,16,0,   ,0
+2017-10-13,Out of State,Grant County,24,16,0,   ,0
 2017-10-13,Apollo,Owensboro,31,28,1,   ,0
 2017-10-13,Ashland Blazer,Greenup County,49,35,1,   ,0
 2017-10-13,Atherton,Fairdale,55,20,0,   ,0
@@ -884,7 +884,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-13,Jackson County,McCreary Central,26,12,1,   ,0
 2017-10-13,John Hardin,Breckinridge County,41,7,0,   ,0
 2017-10-13,Johnson Central,Rowan County,61,7,1,   ,0
-2017-10-13,Kentucky Country Day,Rock Creek Academy (Sellersburg). IN,64,6,0,   ,0
+2017-10-13,Kentucky Country Day,Out of State,64,6,0,   ,0
 2017-10-13,Knox Central,Franklin County,34,0,1,   ,0
 2017-10-13,Lexington Christian,Somerset,39,12,1,   ,0
 2017-10-13,Lloyd Memorial,Newport Central Catholic,46,14,0,   ,0
@@ -894,7 +894,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-13,Madison Southern,Woodford County,41,10,1,   ,0
 2017-10-13,Mason County,Holmes,20,16,0,   ,0
 2017-10-13,Mayfield,Ballard Memorial,73,19,1,   ,0
-2017-10-13,McCracken County,Dyer County (Newbern). TN,41,27,1,   ,0
+2017-10-13,McCracken County,Out of State,41,27,1,   ,0
 2017-10-13,McLean County,Butler County,56,12,1,   ,0
 2017-10-13,Metcalfe County,Green County,17,14,0,   ,0
 2017-10-13,Montgomery County,Anderson County,33,23,0,   ,0
@@ -917,7 +917,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-13,Rockcastle County,Clay County,47,8,1,   ,0
 2017-10-13,Russell,Lewis County,52,8,0,   ,0
 2017-10-13,Russellville,Fulton City,41,6,0,   ,0
-2017-10-13,Rye Cove (Clinchport). VA,Jenkins,48,0,0,   ,0
+2017-10-13,Out of State,Jenkins,48,0,0,   ,0
 2017-10-13,Scott,Bourbon County,29,20,1,   ,0
 2017-10-13,Scott County,Paul Laurence Dunbar,42,8,0,   ,0
 2017-10-13,Shelby County,Spencer County,35,14,1,   ,0
@@ -977,8 +977,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-20,East Jessamine,West Jessamine,21,16,0,   ,0
 2017-10-20,Eastern,Seneca,50,0,1,   ,0
 2017-10-20,Elizabethtown,Bardstown,48,0,1,   ,0
-2017-10-20,Eminence,Oasis,46,0,2,   ,0
-2017-10-20,Fairview,Lincoln County (Hamlin). WV,30,14,0,   ,0
+2017-10-20,Eminence,Out of State,46,0,2,   ,0
+2017-10-20,Fairview,Out of State,30,14,0,   ,0
 2017-10-20,Fern Creek,Fairdale,50,13,1,   ,0
 2017-10-20,Fleming County,Pendleton County,41,0,0,   ,0
 2017-10-20,Floyd Central,Lawrence County,43,30,0,   ,0
@@ -1022,7 +1022,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-20,Paintsville,Raceland,32,18,1,   ,0
 2017-10-20,Paris,Carroll County,55,21,1,   ,0
 2017-10-20,Phelps,Jenkins,50,0,1,   ,0
-2017-10-20,Pikeville,Grundy. VA,41,13,1,   ,0
+2017-10-20,Pikeville,Out of State,41,13,1,   ,0
 2017-10-20,Powell County,Morgan County,41,14,0,   ,0
 2017-10-20,Prestonsburg,Betsy Layne,49,0,0,   ,0
 2017-10-20,Rowan County,East Carter,13,6,1,   ,0
@@ -1031,7 +1031,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-20,Scott,Holmes,36,6,0,   ,0
 2017-10-20,Scott County,Pleasure Ridge Park,48,21,0,   ,0
 2017-10-20,Shelby Valley,East Ridge,42,12,0,   ,0
-2017-10-20,Sherman (Seth). WV,Sheldon Clark,49,8,0,   ,0
+2017-10-20,Out of State,Sheldon Clark,49,8,0,   ,0
 2017-10-20,Somerset,Middlesboro,53,0,1,   ,0
 2017-10-20,South Laurel,Lincoln County,33,27,1,   ,0
 2017-10-20,South Oldham,North Bullitt,57,6,0,   ,0
@@ -1092,7 +1092,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-27,Holy Cross (Louisville),Fairdale,42,14,0,   ,0
 2017-10-27,Hopkinsville,Greenwood,31,6,1,   ,0
 2017-10-27,Iroquois,Seneca,16,0,1,   ,0
-2017-10-27,Jellico. TN,Berea,44,7,0,   ,0
+2017-10-27,Out of State,Berea,44,7,0,   ,0
 2017-10-27,Kentucky Country Day,Waggener,27,6,1,   ,0
 2017-10-27,LaRue County,Campbellsville,43,14,0,   ,0
 2017-10-27,Lexington Christian,Estill County,75,28,1,   ,0
@@ -1119,11 +1119,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-27,Paris,Ludlow,52,32,1,   ,0
 2017-10-27,Pendleton County,Bishop Brossart,14,13,1,   ,0
 2017-10-27,Perry County Central,Prestonsburg,28,18,1,   ,0
-2017-10-27,Phelps,Hannan (Ashton). WV,50,0,1,   ,0
-2017-10-27,Pikeville,Tolsia (Fort Gay). WV,54,12,0,   ,0
+2017-10-27,Phelps,Out of State,50,0,1,   ,0
+2017-10-27,Pikeville,Out of State,54,12,0,   ,0
 2017-10-27,Powell County,East Carter,61,28,0,   ,0
 2017-10-27,Raceland,Russell,26,14,0,   ,0
-2017-10-27,Ridgeview (Clintwood). VA,Pike County Central,45,21,1,   ,0
+2017-10-27,Out of State,Pike County Central,45,21,1,   ,0
 2017-10-27,Rockcastle County,Garrard County,34,28,0,   ,0
 2017-10-27,Russell County,Hart County,54,25,1,   ,0
 2017-10-27,Ryle,Dixie Heights,43,18,0,   ,0
@@ -1134,7 +1134,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2017-10-27,South Oldham,Shelby County,42,0,1,   ,0
 2017-10-27,South Warren,Owensboro Catholic,21,16,0,   ,0
 2017-10-27,Southwestern,Lexington Catholic,53,47,1,  (overtime) ,1
-2017-10-27,St. Xavier (Cincinnati). OH,St. Xavier,16,14,0,   ,0
+2017-10-27,Out of State,St. Xavier,16,14,0,   ,0
 2017-10-27,Tates Creek,Franklin County,14,9,0,   ,0
 2017-10-27,Thomas Nelson,Bethlehem,26,0,1,   ,0
 2017-10-27,Union County,Murray,39,29,1,   ,0

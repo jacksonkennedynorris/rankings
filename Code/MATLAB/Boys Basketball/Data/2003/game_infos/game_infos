@@ -1,22 +1,22 @@
 date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-02,Buckhorn,Riverside Christian,98,79,1,   ,0
 2002-12-02,Calvary Christian,Bracken County,65,62,1,   ,0
-2002-12-02,Clarksville. TN,University Heights,63,56,1,   ,0
+2002-12-02,Out of State,University Heights,63,56,1,   ,0
 2002-12-02,Doss,Beth Haven,86,34,1,   ,0
 2002-12-02,Hopkins County Central,Fort Campbell,75,36,1,   ,0
-2002-12-02,McLean County,Cannelton. IN,74,63,0,   ,0
+2002-12-02,McLean County,Out of State,74,63,0,   ,0
 2002-12-02,Pulaski County,Corbin,77,68,1,   ,0
 2002-12-02,Red Bird,Oneida Baptist Institute,86,54,1,   ,0
-2002-12-02,Restoration Christian. IN,Evangel Christian,58,51,1,   ,0
+2002-12-02,Out of State,Evangel Christian,58,51,1,   ,0
 2002-12-02,Shawnee,North Bullitt,113,87,0,   ,0
-2002-12-02,Whitley County,Jellico. TN,68,54,1,   ,0
+2002-12-02,Whitley County,Out of State,68,54,1,   ,0
 2002-12-02,Magoffin County,Betsy Layne,-,-,0,6:00 PM   ,0
 2002-12-03,Allen County-Scottsville,Logan County,52,36,0,   ,0
 2002-12-03,Anderson County,Danville,74,35,1,   ,0
 2002-12-03,Apollo,Muhlenberg South,66,51,0,   ,0
 2002-12-03,Augusta,Deming,57,55,0,   ,0
 2002-12-03,Ballard Memorial,Reidland,62,43,1,   ,0
-2002-12-03,Barbourville,J. Frank White Academy. TN,94,43,0,   ,0
+2002-12-03,Barbourville,Out of State,94,43,0,   ,0
 2002-12-03,Bath County,Nicholas County,51,45,0,   ,0
 2002-12-03,Belfry,Phelps,76,64,0,   ,0
 2002-12-03,Bell County,Lynn Camp,64,59,0,   ,0
@@ -25,7 +25,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-03,Breckinridge County,McLean County,56,53,1,   ,0
 2002-12-03,Butler County,Cloverport,68,50,1,   ,0
 2002-12-03,Calloway County,Lone Oak,69,52,0,   ,0
-2002-12-03,Calvary Christian,Milford Christian. OH,65,59,0,   ,0
+2002-12-03,Calvary Christian,Out of State,65,59,0,   ,0
 2002-12-03,Campbell County,Silver Grove,59,47,1,   ,0
 2002-12-03,Campbellsville,Green County,84,70,0,   ,0
 2002-12-03,Carlisle County,St. Mary,65,46,0,   ,0
@@ -37,7 +37,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-03,Cumberland,Whitesburg,73,60,1,   ,0
 2002-12-03,Cumberland County,Monticello,83,58,0,   ,0
 2002-12-03,Daviess County,Owensboro,86,78,1,   ,0
-2002-12-03,Dixie Heights,Western Hills. OH,85,64,1,   ,0
+2002-12-03,Dixie Heights,Out of State,85,64,1,   ,0
 2002-12-03,Doss,DuPont Manual,68,63,1,   ,0
 2002-12-03,East Carter,Menifee County,70,56,0,   ,0
 2002-12-03,Elizabethtown,Shelby County,74,45,0,   ,0
@@ -48,10 +48,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-03,Gallatin County,Covington Latin,73,24,1,   ,0
 2002-12-03,Hart County,Bethlehem,67,66,1,   ,0
 2002-12-03,Heath,Fulton City,96,69,0,   ,0
-2002-12-03,Henderson County,Evansville Memorial. IN,53,52,1,   ,0
+2002-12-03,Henderson County,Out of State,53,52,1,   ,0
 2002-12-03,Henry County,Carroll County,48,37,1,   ,0
 2002-12-03,Hickman County,Livingston Central,68,48,1,   ,0
-2002-12-03,Holy Cross (Covington),Cincinnati Purcell Marian. OH,52,47,1,   ,0
+2002-12-03,Holy Cross (Covington),Out of State,52,47,1,   ,0
 2002-12-03,Holy Cross (Louisville),Southern,65,60,1,   ,0
 2002-12-03,Hopkinsville,Lyon County,105,58,1,   ,0
 2002-12-03,Iroquois,Moore,56,53,1,   ,0
@@ -70,7 +70,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-03,Model,Burgin,71,50,0,   ,0
 2002-12-03,Monroe County,Warren East,57,52,1,   ,0
 2002-12-03,Muhlenberg North,Owensboro Catholic,57,45,0,   ,0
-2002-12-03,New Albany. IN,Ballard,83,81,0,  (double overtime) ,0
+2002-12-03,Out of State,Ballard,83,81,0,  (double overtime) ,1
 2002-12-03,Newport,Bellevue,74,61,1,   ,0
 2002-12-03,North Laurel,Harrodsburg,93,63,1,   ,0
 2002-12-03,Ohio County,Providence,70,47,1,   ,0
@@ -90,7 +90,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-03,South Laurel,Knox Central,83,43,1,   ,0
 2002-12-03,South Oldham,Jeffersontown,71,48,1,   ,0
 2002-12-03,Southwestern,McCreary Central,59,56,2,  (overtime) ,1
-2002-12-03,St. Bernard. OH,Ludlow,66,59,1,   ,0
+2002-12-03,Out of State,Ludlow,66,59,1,   ,0
 2002-12-03,St. Francis,Walden,58,49,0,   ,0
 2002-12-03,St. Henry,Scott,68,36,0,   ,0
 2002-12-03,St. Patrick,Montgomery County,46,36,1,   ,0
@@ -119,10 +119,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-06,Bishop Brossart,Pendleton County,58,41,0,   ,0
 2002-12-06,Bourbon County,Nicholas County,68,54,0,   ,0
 2002-12-06,Boyd County,West Carter,72,69,1,   ,0
-2002-12-06,Calvary Christian,Christian Center,46,34,0,   ,0
+2002-12-06,Calvary Christian,Out of State,46,34,0,   ,0
 2002-12-06,Cawood,Cumberland,59,43,0,   ,0
-2002-12-06,Christian Fellowship,Community Christian (Paducah),57,28,1,   ,0
-2002-12-06,Clarksville Rossview. TN,Logan County,61,48,1,   ,0
+2002-12-06,Christian Fellowship,Out of State,57,28,1,   ,0
+2002-12-06,Out of State,Logan County,61,48,1,   ,0
 2002-12-06,Clay County,Harlan,68,56,1,   ,0
 2002-12-06,Clinton County,Russell County,89,73,1,   ,0
 2002-12-06,Conner,Harrison County,64,45,2,   ,0
@@ -132,9 +132,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-06,Estill County,Prestonsburg,85,61,2,   ,0
 2002-12-06,Frankfort,Western Hills,60,55,0,   ,0
 2002-12-06,George Rogers Clark,Boone County,75,69,1,   ,0
-2002-12-06,George Washington Carver. TN,Central,75,62,0,   ,0
+2002-12-06,Out of State,Central,75,62,0,   ,0
 2002-12-06,Glasgow,Edmonson County,67,62,0,   ,0
-2002-12-06,Graves County,Pope County. IL,58,34,1,   ,0
+2002-12-06,Graves County,Out of State,58,34,1,   ,0
 2002-12-06,Heath,Ballard Memorial,57,54,1,   ,0
 2002-12-06,Henry County,Gallatin County,64,63,1,   ,0
 2002-12-06,Hickman County,St. Mary,63,42,1,   ,0
@@ -146,8 +146,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-06,Lewis County,Bracken County,62,55,0,   ,0
 2002-12-06,Lloyd Memorial,Ludlow,61,53,1,   ,0
 2002-12-06,Lone Oak,Murray,67,56,0,   ,0
-2002-12-06,Madison. IL,Calloway County,75,59,2,   ,0
-2002-12-06,Marshall County,Obion Central. TN,84,60,1,   ,0
+2002-12-06,Out of State,Calloway County,75,59,2,   ,0
+2002-12-06,Marshall County,Out of State,84,60,1,   ,0
 2002-12-06,Mercer County,Anderson County,64,62,1,   ,0
 2002-12-06,Muhlenberg North,Henderson County,65,54,1,   ,0
 2002-12-06,Newport,Dayton,93,63,1,   ,0
@@ -157,7 +157,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-06,Oneida Baptist Institute,June Buchanan,63,47,1,   ,0
 2002-12-06,Owen County,Trimble County,68,45,1,   ,0
 2002-12-06,Paul Laurence Dunbar,Hopkins County Central,82,59,2,   ,0
-2002-12-06,Peoria Notre Dame. IL,Paducah Tilghman,64,50,2,   ,0
+2002-12-06,Out of State,Paducah Tilghman,64,50,2,   ,0
 2002-12-06,Powell County,Madison Southern,95,75,1,   ,0
 2002-12-06,Rose Hill Christian,Russell,57,54,0,   ,0
 2002-12-06,Sayre,Paris,56,51,2,   ,0
@@ -166,24 +166,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-06,Somerset,Lynn Camp,70,60,0,  (overtime) ,1
 2002-12-06,South Floyd,Knott County Central,85,64,1,   ,0
 2002-12-06,South Laurel,McCreary Central,65,57,1,   ,0
-2002-12-06,St. Henry,Cincinnati Elder. OH,75,66,0,   ,0
+2002-12-06,St. Henry,Out of State,75,66,0,   ,0
 2002-12-06,Tates Creek,LaRue County,64,56,1,   ,0
 2002-12-06,Trinity (Whitesville),Butler County,49,48,1,   ,0
 2002-12-06,Union County,Hancock County,79,72,0,   ,0
-2002-12-06,Villa Madonna,Immaculate Conception. OH,59,29,1,   ,0
+2002-12-06,Villa Madonna,Out of State,59,29,1,   ,0
 2002-12-06,Whitesburg,Middlesboro,81,73,2,   ,0
 2002-12-06,Wolfe County,Jenkins,62,50,1,   ,0
 2002-12-06,Woodford County,Lexington Christian,85,69,1,   ,0
 2002-12-06,Todd County Central,Russellville,-,-,0,7:30 PM  (rescheduled for 01/04) ,0
 2002-12-07,Allen Central,Lawrence County,92,88,2,   ,0
-2002-12-07,Beth Haven,Restoration Christian. IN,73,47,2,   ,0
+2002-12-07,Beth Haven,Out of State,73,47,2,   ,0
 2002-12-07,Bethlehem,Bardstown,65,57,0,   ,0
 2002-12-07,Betsy Layne,Knott County Central,73,72,2,  (overtime) ,1
 2002-12-07,Bourbon County,Campbell County,64,60,1,   ,0
 2002-12-07,Bowling Green,Cumberland County,52,42,0,   ,0
 2002-12-07,Bullitt East,North Bullitt,102,80,0,   ,0
 2002-12-07,Campbellsville,Meade County,88,77,1,   ,0
-2002-12-07,Carlisle County,South Fulton. TN,86,64,2,   ,0
+2002-12-07,Carlisle County,Out of State,86,64,2,   ,0
 2002-12-07,Carroll County,Eminence,50,48,1,   ,0
 2002-12-07,DeSales,South Laurel,74,70,2,  (overtime) ,1
 2002-12-07,Deming,St. Francis,75,56,0,   ,0
@@ -194,31 +194,31 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-07,George Rogers Clark,Estill County,88,34,1,   ,0
 2002-12-07,Green County,Central Hardin,55,53,2,   ,0
 2002-12-07,Greenup County,Elliott County,44,28,1,   ,0
-2002-12-07,Hickman County,Lake County. TN,56,43,1,   ,0
-2002-12-07,Highlands,Bartlett. TN,61,51,2,   ,0
+2002-12-07,Hickman County,Out of State,56,43,1,   ,0
+2002-12-07,Highlands,Out of State,61,51,2,   ,0
 2002-12-07,Holy Cross (Covington),Conner,66,41,2,   ,0
 2002-12-07,Hopkinsville,Central,73,70,0,   ,0
-2002-12-07,Jackson Lanier. MS,Lexington Catholic,2,0,2,  (forfeit) ,0
+2002-12-07,Out of State,Lexington Catholic,2,0,2,  (forfeit) ,0
 2002-12-07,Lafayette,Holmes,80,65,1,   ,0
-2002-12-07,Memphis White Station. TN,Warren Central,77,54,2,   ,0
-2002-12-07,Mt. Mission. VA,Phelps,82,69,2,   ,0
+2002-12-07,Out of State,Warren Central,77,54,2,   ,0
+2002-12-07,Out of State,Phelps,82,69,2,   ,0
 2002-12-07,Nelson County,Greenwood,73,65,2,   ,0
 2002-12-07,North Laurel,Clay County,72,65,0,   ,0
 2002-12-07,Paul Laurence Dunbar,LaRue County,66,47,2,   ,0
-2002-12-07,Peoria Richwoods. IL,Graves County,73,31,2,   ,0
+2002-12-07,Out of State,Graves County,73,31,2,   ,0
 2002-12-07,Pikeville,Wolfe County,54,37,2,   ,0
 2002-12-07,Pleasure Ridge Park,Bryan Station,92,48,1,   ,0
 2002-12-07,Portland Christian,Heritage Academy,69,60,0,   ,0
-2002-12-07,Proviso East. IL,Ballard,80,52,2,   ,0
+2002-12-07,Out of State,Ballard,80,52,2,   ,0
 2002-12-07,Raceland,East Carter,59,55,1,   ,0
 2002-12-07,Red Bird,June Buchanan,65,59,0,   ,0
-2002-12-07,Robinson. IL,Mayfield,62,51,2,   ,0
+2002-12-07,Out of State,Mayfield,62,51,2,   ,0
 2002-12-07,Rowan County,Bath County,68,56,1,   ,0
 2002-12-07,Russell,Fairview,68,53,1,   ,0
 2002-12-07,Sayre,Berea,66,36,2,  (championship) ,0
 2002-12-07,Scott County,Perry County Central,75,72,2,   ,0
-2002-12-07,Shawnee,George Washington Carver. TN,59,58,2,   ,0
-2002-12-07,Simon Kenton,Springfield Lanphier. IL,57,34,2,   ,0
+2002-12-07,Shawnee,Out of State,59,58,2,   ,0
+2002-12-07,Simon Kenton,Out of State,57,34,2,   ,0
 2002-12-07,South Floyd,Fleming-Neon,93,44,0,   ,0
 2002-12-07,St. Patrick,Nicholas County,66,43,1,   ,0
 2002-12-07,St. Xavier,Pulaski County,72,69,0,   ,0
@@ -241,7 +241,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-10,Allen County-Scottsville,Barren County,61,60,0,   ,0
 2002-12-10,Apollo,Owensboro,82,67,0,   ,0
 2002-12-10,Ballard,Seneca,105,62,1,   ,0
-2002-12-10,Barbourville,Forge Ridge. TN,87,38,1,   ,0
+2002-12-10,Barbourville,Out of State,87,38,1,   ,0
 2002-12-10,Bellevue,Augusta,57,47,1,   ,0
 2002-12-10,Bethlehem,LaRue County,58,50,1,   ,0
 2002-12-10,Boone County,Conner,66,60,1,   ,0
@@ -292,7 +292,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-10,Jenkins,Fleming-Neon,56,46,1,   ,0
 2002-12-10,Johnson Central,Lawrence County,80,67,1,   ,0
 2002-12-10,Kentucky Country Day,Walden,77,41,0,   ,0
-2002-12-10,Kenwood. TN,Russellville,68,60,1,   ,0
+2002-12-10,Out of State,Russellville,68,60,1,   ,0
 2002-12-10,Leslie County,Letcher,85,72,1,   ,0
 2002-12-10,Lexington Christian,Lexington Catholic,2,0,1,  (forfeit) ,0
 2002-12-10,Lincoln County,Harrodsburg,76,42,0,   ,0
@@ -301,12 +301,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-10,Madison Central,Pulaski County,72,57,0,   ,0
 2002-12-10,Male,Atherton,72,61,1,   ,0
 2002-12-10,Mason County,St. Patrick,84,51,1,   ,0
-2002-12-10,Massac County. IL,Marshall County,46,43,0,   ,0
+2002-12-10,Out of State,Marshall County,46,43,0,   ,0
 2002-12-10,Meade County,John Hardin,63,55,1,   ,0
 2002-12-10,Menifee County,Jackson City,65,55,0,   ,0
 2002-12-10,Moore,Waggener,59,47,0,   ,0
 2002-12-10,Muhlenberg North,University Heights,71,54,1,   ,0
-2002-12-10,Newport,Hillcrest. OH,91,56,0,   ,0
+2002-12-10,Newport,Out of State,91,56,0,   ,0
 2002-12-10,Newport Central Catholic,Lloyd Memorial,64,57,1,   ,0
 2002-12-10,North Laurel,Madison Southern,95,73,1,   ,0
 2002-12-10,Ohio County,Butler County,59,39,1,   ,0
@@ -345,14 +345,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-10,Wayne County,McCreary Central,75,59,0,   ,0
 2002-12-10,West Jessamine,Paul Laurence Dunbar,62,60,1,   ,0
 2002-12-10,Whitley County,Monticello,88,48,1,   ,0
-2002-12-10,Williamsburg,Jellico. TN,63,50,0,   ,0
+2002-12-10,Williamsburg,Out of State,63,50,0,   ,0
 2002-12-10,Wolfe County,Lee County,64,47,0,   ,0
 2002-12-11,Morgan County,Russell,59,49,1,   ,0
 2002-12-11,Ryle,Holmes,50,41,1,   ,0
 2002-12-11,South Oldham,Gallatin County,91,66,1,   ,0
 2002-12-12,Belfry,Sheldon Clark,55,50,1,   ,0
 2002-12-12,Christian Academy-Louisville,Spencer County,98,72,0,   ,0
-2002-12-12,Clinton County,Pickett County. TN,76,62,1,   ,0
+2002-12-12,Clinton County,Out of State,76,62,1,   ,0
 2002-12-12,Daviess County,Hancock County,86,39,1,   ,0
 2002-12-12,Franklin County,Western Hills,60,58,1,   ,0
 2002-12-12,Henry Clay,Bryan Station,88,60,0,   ,0
@@ -369,7 +369,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-12,Rose Hill Christian,Lawrence County,100,61,1,   ,0
 2002-12-12,Shelby County,Trimble County,60,50,0,   ,0
 2002-12-12,St. Henry,Newport,81,64,0,   ,0
-2002-12-12,Covington Latin,Hillcrest. OH,-,-,0,6:00 PM   ,0
+2002-12-12,Covington Latin,Out of State,-,-,0,6:00 PM   ,0
 2002-12-13,Allen County-Scottsville,Todd County Central,52,45,0,   ,0
 2002-12-13,Anderson County,Harrodsburg,57,42,0,   ,0
 2002-12-13,Ashland Blazer,Boyd County,75,62,0,   ,0
@@ -388,7 +388,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-13,Campbell County,Beechwood,73,44,0,   ,0
 2002-12-13,Campbellsville,Bardstown,87,68,0,   ,0
 2002-12-13,Cawood,Cumberland,83,64,1,   ,0
-2002-12-13,Clarksville Kenwood. TN,Fort Campbell,64,41,0,   ,0
+2002-12-13,Out of State,Fort Campbell,64,41,0,   ,0
 2002-12-13,Cloverport,Walden,78,55,2,   ,0
 2002-12-13,Corbin,Somerset,69,54,0,   ,0
 2002-12-13,Covington Catholic,Holy Cross (Covington),62,47,1,   ,0
@@ -413,7 +413,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-13,Heath,Hickman County,69,56,1,   ,0
 2002-12-13,Henry County,Eminence,69,66,1,   ,0
 2002-12-13,Highlands,Eastern,82,79,2,   ,0
-2002-12-13,Holy Cross (Louisville),Clarksville. IN,76,64,2,   ,0
+2002-12-13,Holy Cross (Louisville),Out of State,76,64,2,   ,0
 2002-12-13,Hopkinsville,University Heights,78,57,1,   ,0
 2002-12-13,Jeffersontown,DuPont Manual,50,45,0,   ,0
 2002-12-13,John Hardin,Brown,63,41,1,   ,0
@@ -432,7 +432,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-13,Marshall County,Murray,64,63,0,   ,0
 2002-12-13,Mason County,Bourbon County,88,43,1,   ,0
 2002-12-13,McCreary Central,Beth Haven,73,55,1,   ,0
-2002-12-13,Model,Restoration Christian. IN,75,72,1,   ,0
+2002-12-13,Model,Out of State,75,72,1,   ,0
 2002-12-13,Montgomery County,Harrison County,68,43,1,   ,0
 2002-12-13,Moore,Atherton,58,52,0,   ,0
 2002-12-13,Muhlenberg North,Hancock County,82,45,1,   ,0
@@ -447,7 +447,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-13,Paintsville,Magoffin County,82,45,1,   ,0
 2002-12-13,Paris,Nicholas County,74,72,1,  (overtime) ,1
 2002-12-13,Perry County Central,Leslie County,89,81,1,   ,0
-2002-12-13,Pineville,J. Frank White Academy. TN,48,38,0,   ,0
+2002-12-13,Pineville,Out of State,48,38,0,   ,0
 2002-12-13,Pleasure Ridge Park,Doss,87,52,0,   ,0
 2002-12-13,Pulaski County,Casey County,71,41,0,   ,0
 2002-12-13,Red Bird,Riverside Christian,109,65,0,   ,0
@@ -456,7 +456,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-13,Russell,Greenup County,55,42,1,   ,0
 2002-12-13,Russell County,Monticello,82,54,0,   ,0
 2002-12-13,Sayre,St. Francis,79,21,1,   ,0
-2002-12-13,School f/t Deaf. VA,Kentucky School f/t Deaf,68,51,2,   ,0
+2002-12-13,Out of State,Kentucky School f/t Deaf,68,51,2,   ,0
 2002-12-13,Shelby Valley,Phelps,74,54,0,   ,0
 2002-12-13,Silver Grove,Pendleton County,80,78,1,   ,0
 2002-12-13,Simon Kenton,Dixie Heights,62,42,1,   ,0
@@ -483,34 +483,34 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-14,Breathitt County,Middlesboro,71,57,2,   ,0
 2002-12-14,Breckinridge County,Cloverport,57,44,2,   ,0
 2002-12-14,Calloway County,North Bullitt,72,64,2,   ,0
-2002-12-14,Carlisle County,Greenfield. TN,71,70,2,   ,0
+2002-12-14,Carlisle County,Out of State,71,70,2,   ,0
 2002-12-14,Christian Academy-Louisville,Trimble County,67,39,1,   ,0
 2002-12-14,Christian County,Russellville,104,68,0,   ,0
-2002-12-14,Clay County,Shroder Paideia. OH,74,60,1,   ,0
+2002-12-14,Clay County,Out of State,74,60,1,   ,0
 2002-12-14,Clinton County,Lynn Camp,66,65,0,   ,0
-2002-12-14,Covington Catholic,Cincinnati McNicholas. OH,72,59,2,   ,0
+2002-12-14,Covington Catholic,Out of State,72,59,2,   ,0
 2002-12-14,East Carter,Bath County,72,50,0,   ,0
-2002-12-14,Evansville Memorial. IN,Hopkins County Central,69,66,0,  (overtime) ,1
-2002-12-14,Evansville Reitz. IN,Henderson County,59,44,1,   ,0
+2002-12-14,Out of State,Hopkins County Central,69,66,0,  (overtime) ,1
+2002-12-14,Out of State,Henderson County,59,44,1,   ,0
 2002-12-14,Fairview,June Buchanan,71,63,1,   ,0
 2002-12-14,Fern Creek,Oldham County,60,44,0,  (championship) ,0
 2002-12-14,Fern Creek,South Oldham,73,59,2,   ,0
 2002-12-14,Garrard County,Southwestern,76,64,1,   ,0
 2002-12-14,George Rogers Clark,Prestonsburg,66,33,2,   ,0
-2002-12-14,Gibson Southern. IN,Madisonville-North Hopkins,57,23,2,   ,0
-2002-12-14,Graves County,Union City. TN,58,48,1,   ,0
-2002-12-14,Green. OH,Elliott County,68,64,2,   ,0
+2002-12-14,Out of State,Madisonville-North Hopkins,57,23,2,   ,0
+2002-12-14,Graves County,Out of State,58,48,1,   ,0
+2002-12-14,Out of State,Elliott County,68,64,2,   ,0
 2002-12-14,Holmes,Western Hills,75,59,2,   ,0
 2002-12-14,Holmes,Calloway County,57,56,2,   ,0
-2002-12-14,Kentucky School f/t Deaf,School f/t Deaf. TN,54,50,2,   ,0
+2002-12-14,Kentucky School f/t Deaf,Out of State,54,50,2,   ,0
 2002-12-14,LaRue County,Powell County,67,55,1,   ,0
-2002-12-14,Lewis County,Rock Hill. OH,61,55,0,   ,0
+2002-12-14,Lewis County,Out of State,61,55,0,   ,0
 2002-12-14,Lexington Catholic,Rose Hill Christian,90,75,1,   ,0
 2002-12-14,Logan County,Butler County,64,52,1,   ,0
 2002-12-14,Lyon County,St. Mary,84,57,2,   ,0
 2002-12-14,Mayfield,Glasgow,72,67,2,   ,0
 2002-12-14,Mercer County,Iroquois,88,86,2,  (overtime) ,1
-2002-12-14,Morgan County,Portsmouth. OH,66,57,2,   ,0
+2002-12-14,Morgan County,Out of State,66,57,2,   ,0
 2002-12-14,Murray,Dawson Springs,52,42,2,   ,0
 2002-12-14,Newport,Williamstown,75,63,1,   ,0
 2002-12-14,Oldham County,Franklin-Simpson,79,58,1,   ,0
@@ -518,13 +518,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-14,Owensboro,Greenwood,65,64,0,   ,0
 2002-12-14,Owensboro Catholic,Warren East,58,43,2,   ,0
 2002-12-14,Owsley County,Buckhorn,129,44,1,   ,0
-2002-12-14,Pickett County. TN,Monroe County,91,83,1,   ,0
+2002-12-14,Out of State,Monroe County,91,83,1,   ,0
 2002-12-14,Pikeville,Jenkins,82,44,0,   ,0
-2002-12-14,Raceland,South Gallia.OH,59,40,1,   ,0
-2002-12-14,Rowan County,Manchester. OH,89,81,2,   ,0
+2002-12-14,Raceland,Out of State,59,40,1,   ,0
+2002-12-14,Rowan County,Out of State,89,81,2,   ,0
 2002-12-14,Ryle,Boyle County,67,57,1,   ,0
-2002-12-14,Sayre,East Jessamine,73,68,0,  (double overtime) ,0
-2002-12-14,School f/t Deaf. SC,Kentucky School f/t Deaf,68,60,2,   ,0
+2002-12-14,Sayre,East Jessamine,73,68,0,  (double overtime) ,1
+2002-12-14,Out of State,Kentucky School f/t Deaf,68,60,2,   ,0
 2002-12-14,Shelby County,Harrodsburg,72,46,2,   ,0
 2002-12-14,Silver Grove,Augusta,67,56,1,   ,0
 2002-12-14,Simon Kenton,Scott,73,50,0,   ,0
@@ -532,9 +532,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-14,South Oldham,Franklin-Simpson,84,63,2,   ,0
 2002-12-14,St. Henry,Shawnee,66,52,2,   ,0
 2002-12-14,Todd County Central,Providence,78,47,2,   ,0
-2002-12-14,Trigg County,Holy Cross,67,63,2,   ,0
+2002-12-14,Trigg County,Holy Cross (Louisville),67,63,2,   ,0
 2002-12-14,Villa Madonna,St. Francis,54,47,0,  (overtime) ,1
-2002-12-14,Webster County,Evansville Day School. IN,80,66,2,   ,0
+2002-12-14,Webster County,Out of State,80,66,2,   ,0
 2002-12-14,Western Hills,North Bullitt,59,47,2,   ,0
 2002-12-16,Clinton County,Cumberland County,78,76,1,   ,0
 2002-12-16,Danville,Casey County,67,54,1,   ,0
@@ -544,7 +544,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-16,North Hardin,Nelson County,91,62,1,   ,0
 2002-12-16,Red Bird,Model,105,69,1,   ,0
 2002-12-16,Rockcastle County,Oneida Baptist Institute,68,55,0,   ,0
-2002-12-16,Todd County Central,Joe Burns. TN,61,41,0,   ,0
+2002-12-16,Todd County Central,Out of State,61,41,0,   ,0
 2002-12-16,Webster County,Fort Campbell,73,44,1,   ,0
 2002-12-17,Adair County,Caverna,78,71,0,   ,0
 2002-12-17,Apollo,Fairdale,59,52,0,   ,0
@@ -569,7 +569,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-17,Central,Western,84,79,1,   ,0
 2002-12-17,Central Hardin,John Hardin,68,53,0,   ,0
 2002-12-17,Christian County,Madisonville-North Hopkins,97,69,1,   ,0
-2002-12-17,Cincinnati Taylor. OH,Newport,61,57,1,   ,0
+2002-12-17,Out of State,Newport,61,57,1,   ,0
 2002-12-17,Clay County,Cumberland,78,51,1,   ,0
 2002-12-17,Clinton County,McCreary Central,73,59,1,   ,0
 2002-12-17,Conner,Walton-Verona,77,53,1,   ,0
@@ -625,7 +625,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-17,Owsley County,Wolfe County,65,49,1,   ,0
 2002-12-17,Paducah Tilghman,Lone Oak,66,57,1,   ,0
 2002-12-17,Paintsville,Belfry,90,57,1,   ,0
-2002-12-17,Paris,Bourbon County,69,66,0,  (double overtime) ,0
+2002-12-17,Paris,Bourbon County,69,66,0,  (double overtime) ,1
 2002-12-17,Pike County Central,East Ridge,71,61,0,   ,0
 2002-12-17,Pikeville,Phelps,76,56,0,   ,0
 2002-12-17,Pleasure Ridge Park,Holy Cross (Louisville),98,41,1,   ,0
@@ -649,59 +649,59 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-17,Williamsburg,Whitley County,83,59,1,   ,0
 2002-12-17,Williamstown,Henry County,85,66,0,   ,0
 2002-12-18,Cumberland,Jenkins,73,51,0,   ,0
-2002-12-18,Letcher,Mt. Mission. VA,57,50,2,   ,0
+2002-12-18,Letcher,Out of State,57,50,2,   ,0
 2002-12-18,Male,Hopkinsville,85,75,2,   ,0
 2002-12-18,Rose Hill Christian,DeSales,75,62,2,   ,0
-2002-12-18,Santa Ana Mater Dei. CA,Corbin,87,61,2,   ,0
+2002-12-18,Out of State,Corbin,87,61,2,   ,0
 2002-12-18,Silver Grove,Bracken County,76,64,1,   ,0
 2002-12-18,Southern,Waggener,48,47,0,   ,0
 2002-12-18,West Carter,Rowan County,71,63,1,   ,0
 2002-12-19,Apollo,Male,58,54,2,   ,0
 2002-12-19,Barren County,Lincoln County,61,50,1,   ,0
-2002-12-19,Bethlehem,Livingston Academy. TN,74,58,1,   ,0
-2002-12-19,Bowling Green,Trinity,49,35,2,   ,0
+2002-12-19,Bethlehem,Out of State,74,58,1,   ,0
+2002-12-19,Bowling Green,Trinity (Louisville),49,35,2,   ,0
 2002-12-19,Bryan Station,Sheldon Clark,39,38,2,   ,0
 2002-12-19,Central,Brown,95,45,0,   ,0
-2002-12-19,Cincinnati Shroder Paideia. OH,Boyd County,69,54,2,   ,0
+2002-12-19,Out of State,Boyd County,69,54,2,   ,0
 2002-12-19,Cumberland,Fleming-Neon,72,46,2,   ,0
 2002-12-19,Dawson Springs,Providence,65,48,1,   ,0
-2002-12-19,Doss,American Heritage. FL,53,50,2,   ,0
+2002-12-19,Doss,Out of State,53,50,2,   ,0
 2002-12-19,DuPont Manual,Butler,56,54,0,   ,0
-2002-12-19,East Ridge,Campbell County. TN,58,52,2,   ,0
+2002-12-19,East Ridge,Out of State,58,52,2,   ,0
 2002-12-19,Estill County,Montgomery County,65,57,1,   ,0
 2002-12-19,Franklin County,Harlan,88,47,2,   ,0
 2002-12-19,Gallatin County,Eminence,63,60,0,   ,0
-2002-12-19,Gatlinburg-Pittman. TN,Buckhorn,81,25,1,   ,0
-2002-12-19,Graves County,Lucasville Valley. OH,50,46,2,   ,0
-2002-12-19,Hancock County,Cannelton. IN,64,53,1,   ,0
+2002-12-19,Out of State,Buckhorn,81,25,1,   ,0
+2002-12-19,Graves County,Out of State,50,46,2,   ,0
+2002-12-19,Hancock County,Out of State,64,53,1,   ,0
 2002-12-19,Hart County,Trigg County,74,70,2,   ,0
 2002-12-19,Hazard,Jackson County,71,53,2,   ,0
 2002-12-19,Hopkinsville,Fairdale,86,61,0,   ,0
-2002-12-19,Jenkins,Mt. Mission. VA,92,82,1,   ,0
-2002-12-19,Lexington Catholic,Poinciana. FL,79,59,2,   ,0
+2002-12-19,Jenkins,Out of State,92,82,1,   ,0
+2002-12-19,Lexington Catholic,Out of State,79,59,2,   ,0
 2002-12-19,Mason County,North Hardin,95,81,2,   ,0
-2002-12-19,Memphis Christian Brothers. TN,Whitefield Academy,62,43,2,   ,0
+2002-12-19,Out of State,Whitefield Academy,62,43,2,   ,0
 2002-12-19,Muhlenberg North,Russellville,57,45,2,   ,0
 2002-12-19,Muhlenberg South,Greenwood,59,55,0,   ,0
 2002-12-19,Nelson County,Valley,67,63,2,   ,0
-2002-12-19,New Madrid Central. MO,St. Mary,68,52,2,   ,0
-2002-12-19,Newport Central Catholic,Holy Cross,62,49,2,   ,0
-2002-12-19,North Laurel,Palm Harbor. FL,64,53,2,   ,0
+2002-12-19,Out of State,St. Mary,68,52,2,   ,0
+2002-12-19,Newport Central Catholic,Holy Cross (Louisville),62,49,2,   ,0
+2002-12-19,North Laurel,Out of State,64,53,2,   ,0
 2002-12-19,Ohio County,Marion County,51,50,2,   ,0
 2002-12-19,Oneida Baptist Institute,Cawood,54,49,2,   ,0
 2002-12-19,Owsley County,Lee County,77,47,0,   ,0
 2002-12-19,Paducah Tilghman,Ballard Memorial,50,46,1,   ,0
 2002-12-19,Pendleton County,Newport,67,58,0,   ,0
-2002-12-19,Perry County Central,Cimarron-Memorial. NV,60,30,2,   ,0
-2002-12-19,Pineville,Thomas Walker. VA,65,46,0,   ,0
-2002-12-19,Pleasure Ridge Park,Carson. CA,86,64,2,   ,0
+2002-12-19,Perry County Central,Out of State,60,30,2,   ,0
+2002-12-19,Pineville,Out of State,65,46,0,   ,0
+2002-12-19,Pleasure Ridge Park,Out of State,86,64,2,   ,0
 2002-12-19,Powell County,Casey County,74,52,1,   ,0
 2002-12-19,Rose Hill Christian,Ballard,85,84,2,  (overtime) ,1
 2002-12-19,Sayre,Walden,56,28,1,   ,0
-2002-12-19,Shipley School. PA,Christian County,65,51,2,   ,0
+2002-12-19,Out of State,Christian County,65,51,2,   ,0
 2002-12-19,South Laurel,Scott,67,42,2,   ,0
 2002-12-19,St. Xavier,Adair County,76,74,2,   ,0
-2002-12-19,Tanner. AL,June Buchanan,85,54,2,   ,0
+2002-12-19,Out of State,June Buchanan,85,54,2,   ,0
 2002-12-19,Tates Creek,DeSales,68,59,2,   ,0
 2002-12-19,Todd County Central,Pulaski County,64,56,2,   ,0
 2002-12-19,University Heights,Somerset,44,43,2,   ,0
@@ -713,8 +713,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-20,Adair County,Valley,74,58,2,   ,0
 2002-12-20,Apollo,Rose Hill Christian,65,62,2,   ,0
 2002-12-20,Ballard,Male,74,59,2,   ,0
-2002-12-20,Barren County,Tanner. AL,76,48,1,   ,0
-2002-12-20,Beech. TN,East Ridge,67,42,2,   ,0
+2002-12-20,Barren County,Out of State,76,48,1,   ,0
+2002-12-20,Out of State,East Ridge,67,42,2,   ,0
 2002-12-20,Bellevue,Calvary Christian,51,48,0,   ,0
 2002-12-20,Bowling Green,University Heights,56,41,2,   ,0
 2002-12-20,Boyle County,Pikeville,79,50,0,   ,0
@@ -723,23 +723,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-20,Bullitt Central,North Bullitt,70,38,0,   ,0
 2002-12-20,Bullitt East,Spencer County,84,62,0,   ,0
 2002-12-20,Butler,Washington County,66,54,2,   ,0
-2002-12-20,Butler County,Morgantown Oakridge Christian Ac,80,63,1,   ,0
+2002-12-20,Butler County,Out of State,80,63,1,   ,0
 2002-12-20,Carlisle County,Allen County-Scottsville,64,52,2,   ,0
 2002-12-20,Carroll County,Trimble County,73,68,1,   ,0
 2002-12-20,Caverna,LaRue County,48,41,0,   ,0
 2002-12-20,Cawood,Casey County,62,48,2,   ,0
-2002-12-20,Christian County,Handen Hall Prep. CT,73,64,2,   ,0
-2002-12-20,Cincinnati Elder. OH,Holy Cross (Covington),66,37,0,   ,0
+2002-12-20,Christian County,Out of State,73,64,2,   ,0
+2002-12-20,Out of State,Holy Cross (Covington),66,37,0,   ,0
 2002-12-20,Clay County,McLean County,83,40,1,   ,0
-2002-12-20,Cleveland. CA,Perry County Central,59,57,2,   ,0
-2002-12-20,Corbin,Andrew Jackson. FL,78,77,2,   ,0
+2002-12-20,Out of State,Perry County Central,59,57,2,   ,0
+2002-12-20,Corbin,Out of State,78,77,2,   ,0
 2002-12-20,Cordia,Fleming-Neon,78,75,2,   ,0
-2002-12-20,Crittenden County,Hardin County. IL,69,44,1,   ,0
+2002-12-20,Crittenden County,Out of State,69,44,1,   ,0
 2002-12-20,Cumberland,Belfry,60,55,0,   ,0
 2002-12-20,Danville,Model,65,62,1,   ,0
 2002-12-20,Daviess County,Grayson County,50,46,0,   ,0
 2002-12-20,Dixie Heights,Boone County,57,50,0,   ,0
-2002-12-20,Doss,Western. FL,64,47,2,   ,0
+2002-12-20,Doss,Out of State,64,47,2,   ,0
 2002-12-20,East Carter,Boyd County,64,49,2,   ,0
 2002-12-20,East Jessamine,Madison Southern,78,73,0,  (overtime) ,1
 2002-12-20,Elizabethtown,South Floyd,76,61,2,   ,0
@@ -756,33 +756,33 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-20,Hart County,Todd County Central,74,57,2,   ,0
 2002-12-20,Hazard,Montgomery County,61,55,2,   ,0
 2002-12-20,Heath,Murray,52,49,2,   ,0
-2002-12-20,Henderson County,Evansville North. IN,72,57,1,   ,0
+2002-12-20,Henderson County,Out of State,72,57,1,   ,0
 2002-12-20,Henry Clay,Woodford County,95,63,1,   ,0
 2002-12-20,Henry County,Walton-Verona,65,58,0,   ,0
 2002-12-20,Heritage Academy,Dayton,72,70,0,   ,0
 2002-12-20,Hickman County,Fulton County,70,43,1,   ,0
-2002-12-20,Holy Cross (Louisville),Livingston Academy. TN,78,50,2,   ,0
-2002-12-20,Hopkins County Central,Union City. TN,56,48,2,   ,0
+2002-12-20,Holy Cross (Louisville),Out of State,78,50,2,   ,0
+2002-12-20,Hopkins County Central,Out of State,56,48,2,   ,0
 2002-12-20,Hopkinsville,Tates Creek,72,69,2,   ,0
-2002-12-20,Ironton. OH,Lewis County,50,48,0,   ,0
+2002-12-20,Out of State,Lewis County,50,48,0,   ,0
 2002-12-20,Iroquois,Shawnee,67,62,1,   ,0
 2002-12-20,Jackson County,Montgomery County,52,41,2,   ,0
 2002-12-20,Jeffersontown,Kentucky Country Day,77,42,1,   ,0
-2002-12-20,Jellico. TN,Buckhorn,79,40,2,   ,0
+2002-12-20,Out of State,Buckhorn,79,40,2,   ,0
 2002-12-20,John Hardin,Brown,1,0,2,  (forfeit) ,0
 2002-12-20,Johnson Central,Phelps,71,39,2,   ,0
 2002-12-20,Lawrence County,Betsy Layne,72,55,0,   ,0
-2002-12-20,Lexington Catholic,Laurinburg Charter. NC,73,52,2,   ,0
+2002-12-20,Lexington Catholic,Out of State,73,52,2,   ,0
 2002-12-20,Lincoln County,June Buchanan,68,46,2,   ,0
-2002-12-20,Lloyd Memorial,Bethel Tate. OH,61,54,1,   ,0
+2002-12-20,Lloyd Memorial,Out of State,61,54,1,   ,0
 2002-12-20,Lone Oak,Christian Fellowship,71,45,2,   ,0
 2002-12-20,Louisville Collegiate,Portland Christian,55,51,0,   ,0
-2002-12-20,Lucasville Valley. OH,Ryle,59,49,2,   ,0
+2002-12-20,Out of State,Ryle,59,49,2,   ,0
 2002-12-20,Ludlow,Villa Madonna,64,35,0,   ,0
 2002-12-20,Lyon County,Caldwell County,76,63,1,   ,0
-2002-12-20,Madisonville-North Hopkins,Clarksville Kenwood. TN,76,52,1,   ,0
+2002-12-20,Madisonville-North Hopkins,Out of State,76,52,1,   ,0
 2002-12-20,Marshall County,Meade County,61,43,2,   ,0
-2002-12-20,Mason County,Miami Senior. FL,74,65,2,   ,0
+2002-12-20,Mason County,Out of State,74,65,2,   ,0
 2002-12-20,Mayfield,Livingston Central,68,41,2,   ,0
 2002-12-20,McCreary Central,Monticello,66,47,1,   ,0
 2002-12-20,Mercer County,Harrodsburg,76,58,1,   ,0
@@ -791,19 +791,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-20,Muhlenberg South,Marion County,71,64,2,   ,0
 2002-12-20,Newport Central Catholic,Bethlehem,46,40,0,   ,0
 2002-12-20,Nicholas County,Deming,62,44,0,   ,0
-2002-12-20,North Hardin,Granby. VA,48,44,2,   ,0
-2002-12-20,North Laurel,Vero Beach. FL,52,51,2,  (overtime) ,1
+2002-12-20,North Hardin,Out of State,48,44,2,   ,0
+2002-12-20,North Laurel,Out of State,52,51,2,  (overtime) ,1
 2002-12-20,Oldham County,Owen County,55,48,0,  (overtime) ,1
 2002-12-20,Owensboro Catholic,Hancock County,52,38,1,   ,0
 2002-12-20,Paintsville,Shelby Valley,48,46,0,   ,0
 2002-12-20,Paul Laurence Dunbar,Holmes,77,61,0,   ,0
 2002-12-20,Pendleton County,Paris,87,63,1,   ,0
-2002-12-20,Pike County Central,Tug Valley. WV,71,65,2,   ,0
+2002-12-20,Pike County Central,Out of State,71,65,2,   ,0
 2002-12-20,Powell County,Oneida Baptist Institute,85,52,1,   ,0
 2002-12-20,Pulaski County,Trigg County,79,51,2,   ,0
 2002-12-20,Raceland,Menifee County,73,49,1,   ,0
 2002-12-20,Red Bird,Barbourville,82,79,0,   ,0
-2002-12-20,Restoration Christian. IN,Evangel Christian,66,54,2,   ,0
+2002-12-20,Out of State,Evangel Christian,66,54,2,   ,0
 2002-12-20,Rockcastle County,Knox Central,74,71,0,   ,0
 2002-12-20,Russell,Fairview,69,53,1,   ,0
 2002-12-20,Russellville,Greenwood,49,36,0,   ,0
@@ -813,26 +813,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-20,Simon Kenton,Ashland Blazer,49,46,0,   ,0
 2002-12-20,St. Henry,Atherton,79,66,2,   ,0
 2002-12-20,St. Xavier,Nelson County,71,60,2,   ,0
-2002-12-20,Thunder Ridge. CO,Pleasure Ridge Park,54,40,2,   ,0
+2002-12-20,Out of State,Pleasure Ridge Park,54,40,2,   ,0
 2002-12-20,Trinity (Louisville),Somerset,75,40,2,   ,0
 2002-12-20,Trinity (Whitesville),Breckinridge County,61,60,1,   ,0
 2002-12-20,Union County,Webster County,57,49,0,   ,0
-2002-12-20,Upperman. TN,Campbellsville,60,49,2,   ,0
+2002-12-20,Out of State,Campbellsville,60,49,2,   ,0
 2002-12-20,Warren Central,Graves County,48,47,2,   ,0
-2002-12-20,Wayne County,Cincinnati Shroder Paideia. OH,81,60,2,   ,0
-2002-12-20,West End. AL,West Jessamine,45,41,2,   ,0
-2002-12-20,Whitefield Academy,Memphis Catholic. TN,68,43,2,   ,0
+2002-12-20,Wayne County,Out of State,81,60,2,   ,0
+2002-12-20,Out of State,West Jessamine,45,41,2,   ,0
+2002-12-20,Whitefield Academy,Out of State,68,43,2,   ,0
 2002-12-20,Whitesburg,Allen Central,85,66,2,   ,0
 2002-12-20,Whitley County,Garrard County,59,56,0,   ,0
 2002-12-20,Williamsburg,Lynn Camp,63,46,0,   ,0
-2002-12-21,Adair County,Holy Cross,85,81,2,   ,0
+2002-12-21,Adair County,Holy Cross (Louisville),85,81,2,   ,0
 2002-12-21,Allen Central,Letcher,89,47,2,   ,0
-2002-12-21,Apollo,Mason County,75,71,2,   overtime (championship) ,0
-2002-12-21,Ashland Blazer,Southpoint. Ohio,77,44,1,   ,0
+2002-12-21,Apollo,Mason County,75,71,2,   overtime (championship) ,1
+2002-12-21,Ashland Blazer,Out of State,77,44,1,   ,0
 2002-12-21,Ballard,North Hardin,60,45,2,   ,0
 2002-12-21,Barren County,Hart County,87,66,1,  (championship) ,0
 2002-12-21,Belfry,Phelps,65,60,1,   ,0
-2002-12-21,Bell County,Powell Valley. TN,53,34,2,   ,0
+2002-12-21,Bell County,Out of State,53,34,2,   ,0
 2002-12-21,Berea,Paris,60,59,2,   ,0
 2002-12-21,Bethlehem,Nelson County,59,50,1,   ,0
 2002-12-21,Bishop Brossart,Christian Academy-Louisville,62,31,2,   ,0
@@ -841,38 +841,38 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-21,Breathitt County,Leslie County,93,74,0,   ,0
 2002-12-21,Butler County,Brown,1,0,1,  (forfeit) ,0
 2002-12-21,Calloway County,Allen County-Scottsville,49,46,2,   ,0
-2002-12-21,Campbell County,Cincinnati Shroder Paideia. OH,73,70,2,   ,0
-2002-12-21,Campbell County. TN,Buckhorn,98,23,2,   ,0
-2002-12-21,Campbellsville,Warner Christian. FL,87,42,2,   ,0
+2002-12-21,Campbell County,Out of State,73,70,2,   ,0
+2002-12-21,Out of State,Buckhorn,98,23,2,   ,0
+2002-12-21,Campbellsville,Out of State,87,42,2,   ,0
 2002-12-21,Carlisle County,Heath,84,76,0,   ,0
 2002-12-21,Carroll County,Spencer County,52,43,1,   ,0
 2002-12-21,Casey County,Harlan,56,45,2,   ,0
 2002-12-21,Cawood,Sheldon Clark,71,63,2,   ,0
-2002-12-21,Christian County,North Broward Prep. FL,68,60,2,   ,0
-2002-12-21,Clarksville Northeast. TN,Whitefield Academy,81,59,2,   ,0
-2002-12-21,Clearwater. FL,North Laurel,68,65,1,  (championship) ,0
-2002-12-21,Covington Catholic,Cincinnati Purcell Marian. OH,54,48,2,   ,0
+2002-12-21,Christian County,Out of State,68,60,2,   ,0
+2002-12-21,Out of State,Whitefield Academy,81,59,2,   ,0
+2002-12-21,Out of State,North Laurel,68,65,1,  (championship) ,0
+2002-12-21,Covington Catholic,Out of State,54,48,2,   ,0
 2002-12-21,Cumberland County,Logan County,49,46,0,   ,0
-2002-12-21,East Ridge,Gatlinburg-Pittman. TN,71,68,0,   ,0
+2002-12-21,East Ridge,Out of State,71,68,0,   ,0
 2002-12-21,Elizabethtown,Butler,90,52,2,   ,0
-2002-12-21,Fort Myers. FL,Corbin,67,58,1,   ,0
+2002-12-21,Out of State,Corbin,67,58,1,   ,0
 2002-12-21,Frankfort,Madison Central,54,51,2,   ,0
 2002-12-21,Gallatin County,Williamstown,64,53,0,   ,0
 2002-12-21,Garrard County,Madison Southern,76,51,2,   ,0
-2002-12-21,Giles County. TN,Western,77,61,0,   ,0
+2002-12-21,Out of State,Western,77,61,0,   ,0
 2002-12-21,Glasgow,Model,68,52,2,   ,0
 2002-12-21,Harrison County,Prestonsburg,63,48,1,   ,0
 2002-12-21,Hazard,Estill County,75,64,0,   ,0
 2002-12-21,Henry Clay,Atherton,84,61,1,   ,0
 2002-12-21,Henry Clay,St. Henry,55,51,1,   ,0
-2002-12-21,Highlands,Cincinnati Indian Hills. OH,49,32,2,   ,0
+2002-12-21,Highlands,Out of State,49,32,2,   ,0
 2002-12-21,Holmes,George Rogers Clark,49,46,2,   ,0
 2002-12-21,Jeffersontown,Marshall County,61,58,1,   ,0
-2002-12-21,John Hardin,Morgantown Oakridge Christian Ac,79,57,2,   ,0
+2002-12-21,John Hardin,Out of State,79,57,2,   ,0
 2002-12-21,John Hardin,Butler County,70,57,0,   ,0
 2002-12-21,Johnson Central,Cumberland,88,64,2,  (championship) ,0
 2002-12-21,Kentucky Country Day,Meade County,60,56,2,  (overtime) ,1
-2002-12-21,Lexington Catholic,St. Thomas More. LA,72,69,2,   ,0
+2002-12-21,Lexington Catholic,Out of State,72,69,2,   ,0
 2002-12-21,Lincoln County,Pulaski County,59,52,2,   ,0
 2002-12-21,Lloyd Memorial,Walton-Verona,61,52,0,   ,0
 2002-12-21,Lynn Camp,Riverside Christian,85,74,0,   ,0
@@ -880,122 +880,122 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-21,Magoffin County,Bath County,66,61,0,   ,0
 2002-12-21,Marion County,Greenwood,55,50,0,   ,0
 2002-12-21,Mayfield,Lone Oak,77,59,2,   ,0
-2002-12-21,Mayfield,New Madrid Central. MO,62,52,2,  (championship) ,0
-2002-12-21,Moore,Union City. TN,49,37,2,   ,0
-2002-12-21,Morgantown Oakridge Christian Ac,Brown,1,0,2,  (forfeit) ,0
+2002-12-21,Mayfield,Out of State,62,52,2,  (championship) ,0
+2002-12-21,Moore,Out of State,49,37,2,   ,0
+2002-12-21,Out of State,Brown,1,0,2,  (forfeit) ,0
 2002-12-21,Muhlenberg North,Muhlenberg South,75,52,2,  (championship) ,0
 2002-12-21,Murray,Beth Haven,58,44,2,   ,0
-2002-12-21,New Madrid Central. MO,Paducah Tilghman,67,50,0,   ,0
+2002-12-21,Out of State,Paducah Tilghman,67,50,0,   ,0
 2002-12-21,Oneida Baptist Institute,Bryan Station,63,60,2,   ,0
-2002-12-21,Perry County Central,Sierra Vista. NV,100,70,2,   ,0
-2002-12-21,Perry County Central,Las Vegas. NV,67,56,0,   ,0
-2002-12-21,Pikeville,Tug Valley. WV,70,59,1,   ,0
+2002-12-21,Perry County Central,Out of State,100,70,2,   ,0
+2002-12-21,Perry County Central,Out of State,67,56,0,   ,0
+2002-12-21,Pikeville,Out of State,70,59,1,   ,0
 2002-12-21,Pineville,Burgin,63,46,0,   ,0
-2002-12-21,Pleasure Ridge Park,Carver. LA,64,58,2,   ,0
-2002-12-21,Pleasure Ridge Park,Oakland Fremont. CA,91,50,2,   ,0
+2002-12-21,Pleasure Ridge Park,Out of State,64,58,2,   ,0
+2002-12-21,Pleasure Ridge Park,Out of State,91,50,2,   ,0
 2002-12-21,Portland Christian,Evangel Christian,68,63,1,   ,0
 2002-12-21,Powell County,Franklin County,84,60,1,  (championship) ,0
-2002-12-21,Restoration Christian. IN,Louisville Collegiate,54,39,2,  (championship) ,0
-2002-12-21,Rose Hill Christian,Miami Senior. FL,71,68,2,   ,0
+2002-12-21,Out of State,Louisville Collegiate,54,39,2,  (championship) ,0
+2002-12-21,Rose Hill Christian,Out of State,71,68,2,   ,0
 2002-12-21,Russellville,Ohio County,76,67,2,   ,0
 2002-12-21,Ryle,Somerset,73,45,2,   ,0
 2002-12-21,Sayre,Harrodsburg,56,43,0,   ,0
 2002-12-21,Scott County,Anderson County,69,62,0,   ,0
-2002-12-21,Shelby. PA,Doss,62,57,2,  (championship) ,0
+2002-12-21,Out of State,Doss,62,57,2,  (championship) ,0
 2002-12-21,Simon Kenton,Greenup County,53,48,0,   ,0
 2002-12-21,South Floyd,Washington County,65,54,2,   ,0
 2002-12-21,South Laurel,East Carter,81,63,2,   ,0
 2002-12-21,St. Henry,Woodford County,73,61,2,   ,0
 2002-12-21,St. Xavier,Newport Central Catholic,49,47,2,  (championship) ,0
-2002-12-21,Todd County Central,Tanner. AL,65,53,2,   ,0
+2002-12-21,Todd County Central,Out of State,65,53,2,   ,0
 2002-12-21,Trigg County,June Buchanan,73,35,2,   ,0
-2002-12-21,Trinity (Louisville),Lucasville Valley. OH,76,29,2,   ,0
+2002-12-21,Trinity (Louisville),Out of State,76,29,2,   ,0
 2002-12-21,University Heights,Graves County,49,48,2,   ,0
-2002-12-21,University High. TN,Evarts,72,53,2,   ,0
-2002-12-21,Valley,Livingston Academy. TN,67,59,2,   ,0
+2002-12-21,Out of State,Evarts,72,53,2,   ,0
+2002-12-21,Valley,Out of State,67,59,2,   ,0
 2002-12-21,Warren Central,Bowling Green,87,52,2,  (championship) ,0
 2002-12-21,Wayne County,Grant County,66,54,0,  (championship) ,0
 2002-12-21,Webster County,Providence,73,43,1,   ,0
-2002-12-21,West End. AL,Hopkinsville,53,51,2,   ,0
+2002-12-21,Out of State,Hopkinsville,53,51,2,   ,0
 2002-12-21,Whitesburg,Cordia,101,89,2,   ,0
-2002-12-21,Winton Woods. OH,Dixie Heights,66,51,2,   ,0
+2002-12-21,Out of State,Dixie Heights,66,51,2,   ,0
 2002-12-21,Woodford County,Atherton,75,66,2,   ,0
 2002-12-23,Bishop Brossart,Scott,59,53,1,   ,0
 2002-12-23,Butler,Marshall County,85,65,2,   ,0
-2002-12-23,Campbellsville,Upperman. TN,68,56,2,   ,0
+2002-12-23,Campbellsville,Out of State,68,56,2,   ,0
 2002-12-23,Dixie Heights,Beechwood,63,52,0,   ,0
 2002-12-23,Elizabethtown,Jeffersontown,74,69,0,  (championship) ,0
 2002-12-23,Elliott County,Menifee County,78,67,0,   ,0
 2002-12-23,Meade County,Washington County,65,42,2,   ,0
-2002-12-23,Miami Northwestern. FL,Corbin,84,46,2,   ,0
+2002-12-23,Out of State,Corbin,84,46,2,   ,0
 2002-12-23,South Floyd,Kentucky Country Day,76,68,2,   ,0
-2002-12-23,St. Benedict's Prep. NJ,Lexington Catholic,78,66,2,  (championship) ,0
-2002-12-26,Allen County-Scottsville,New Madrid Central. MO,60,53,2,   ,0
+2002-12-23,Out of State,Lexington Catholic,78,66,2,  (championship) ,0
+2002-12-26,Allen County-Scottsville,Out of State,60,53,2,   ,0
 2002-12-26,Ashland Blazer,Elliott County,72,55,2,   ,0
-2002-12-26,Atlanta Lakeside. GA,Henderson County,60,57,2,  (overtime) ,1
+2002-12-26,Out of State,Henderson County,60,57,2,  (overtime) ,1
 2002-12-26,Bath County,Riverside Christian,83,59,1,   ,0
-2002-12-26,Boynton Beach. FL,Frankfort,84,63,2,   ,0
+2002-12-26,Out of State,Frankfort,84,63,2,   ,0
 2002-12-26,Breathitt County,Somerset,65,45,2,   ,0
-2002-12-26,Brentwood Academy. TN,Knott County Central,53,50,2,   ,0
+2002-12-26,Out of State,Knott County Central,53,50,2,   ,0
 2002-12-26,Bryan Station,Williamstown,63,61,0,   ,0
 2002-12-26,Bullitt East,Trimble County,92,52,1,   ,0
-2002-12-26,Butler,Union. SC,71,60,2,   ,0
-2002-12-26,Campbellsville,Richland. TN,82,47,1,   ,0
+2002-12-26,Butler,Out of State,71,60,2,   ,0
+2002-12-26,Campbellsville,Out of State,82,47,1,   ,0
 2002-12-26,Carlisle County,Livingston Central,72,44,2,   ,0
 2002-12-26,Carroll County,Burgin,59,44,2,   ,0
 2002-12-26,Caverna,Dawson Springs,76,34,1,   ,0
 2002-12-26,Christian County,Franklin-Simpson,94,51,2,   ,0
-2002-12-26,Cincinnati Roger Bacon. OH,Atherton,81,43,2,   ,0
-2002-12-26,Cincinnati Woodford. OH,Wolfe County,55,40,2,   ,0
+2002-12-26,Out of State,Atherton,81,43,2,   ,0
+2002-12-26,Out of State,Wolfe County,55,40,2,   ,0
 2002-12-26,Clay County,Edmonson County,110,68,1,   ,0
-2002-12-26,Cookeville. TN,Clinton County,87,68,2,   ,0
+2002-12-26,Out of State,Clinton County,87,68,2,   ,0
 2002-12-26,Covington Catholic,Caldwell County,103,72,2,   ,0
-2002-12-26,Crestview. FL,Graves County,55,48,2,   ,0
+2002-12-26,Out of State,Graves County,55,48,2,   ,0
 2002-12-26,Dayton,Louisville Collegiate,66,51,2,   ,0
 2002-12-26,DuPont Manual,Breckinridge County,63,52,2,   ,0
 2002-12-26,East Carter,Nicholas County,72,53,2,   ,0
 2002-12-26,Eastern,Grant County,63,47,2,   ,0
 2002-12-26,Elizabethtown,Seneca,84,61,2,   ,0
 2002-12-26,Evarts,Deming,95,72,2,   ,0
-2002-12-26,Fairdale,Mansfield. TX,56,48,2,   ,0
+2002-12-26,Fairdale,Out of State,56,48,2,   ,0
 2002-12-26,Fern Creek,Central,60,59,2,   ,0
-2002-12-26,Gainesville. FL,Doss,66,60,2,   ,0
+2002-12-26,Out of State,Doss,66,60,2,   ,0
 2002-12-26,Gallatin County,Monticello,74,51,1,   ,0
 2002-12-26,George Rogers Clark,Lexington Christian,66,35,2,   ,0
 2002-12-26,Hickman County,Ballard Memorial,68,64,2,  (overtime) ,1
 2002-12-26,Holmes,Daviess County,65,51,2,   ,0
-2002-12-26,Holy Cross (Covington),Choctowhatchee. FL,72,51,2,   ,0
+2002-12-26,Holy Cross (Covington),Out of State,72,51,2,   ,0
 2002-12-26,Hopkins County Central,Spencer County,75,59,2,   ,0
-2002-12-26,Hopkinsville,Obion Central. TN,99,89,2,   ,0
-2002-12-26,Iroquois,Cumberland County. TN,86,73,1,   ,0
+2002-12-26,Hopkinsville,Out of State,99,89,2,   ,0
+2002-12-26,Iroquois,Out of State,86,73,1,   ,0
 2002-12-26,Kentucky Country Day,Villa Madonna,75,64,2,   ,0
 2002-12-26,LaRue County,Bowling Green,51,47,2,   ,0
 2002-12-26,Lafayette,East Ridge,76,41,2,   ,0
 2002-12-26,Lee County,Augusta,58,54,2,   ,0
 2002-12-26,Leslie County,Bellevue,82,72,2,   ,0
 2002-12-26,Lewis County,Russell County,78,63,2,   ,0
-2002-12-26,Lyon County,Henry County. TN,65,55,2,   ,0
+2002-12-26,Lyon County,Out of State,65,55,2,   ,0
 2002-12-26,Madison Central,Pulaski County,69,46,2,   ,0
-2002-12-26,Male,Brandon. FL,73,71,2,   ,0
-2002-12-26,Marion County,East Limestone. AL,65,42,1,   ,0
+2002-12-26,Male,Out of State,73,71,2,   ,0
+2002-12-26,Marion County,Out of State,65,42,1,   ,0
 2002-12-26,Marshall County,Lyon County,68,62,1,   ,0
 2002-12-26,Mason County,University Heights,76,55,2,   ,0
 2002-12-26,Mayfield,Union County,66,50,1,   ,0
 2002-12-26,McCreary Central,Harlan,81,59,2,   ,0
 2002-12-26,Meade County,Cumberland County,68,46,2,   ,0
 2002-12-26,Model,Heritage Academy,80,73,1,   ,0
-2002-12-26,Moore,Niceville. FL,40,36,2,   ,0
+2002-12-26,Moore,Out of State,40,36,2,   ,0
 2002-12-26,Morgan County,Lexington Catholic,2,0,0,  (forfeit) ,0
-2002-12-26,Murray,Clarksville Rossview. TN,64,55,2,   ,0
-2002-12-26,Ontario Saltfleet. Canada,Anderson County,64,46,2,   ,0
+2002-12-26,Murray,Out of State,64,55,2,   ,0
+2002-12-26,Out of State,Anderson County,64,46,2,   ,0
 2002-12-26,Owen County,Letcher,75,57,2,   ,0
-2002-12-26,Paducah Tilghman,Chicago Marist. IL,73,56,2,   ,0
+2002-12-26,Paducah Tilghman,Out of State,73,56,2,   ,0
 2002-12-26,Powell County,Johnson Central,89,88,2,   ,0
-2002-12-26,Prestonsburg,Scott. TN,69,52,2,   ,0
+2002-12-26,Prestonsburg,Out of State,69,52,2,   ,0
 2002-12-26,Raceland,Logan County,50,49,2,   ,0
 2002-12-26,Ryle,Russell,52,43,2,   ,0
-2002-12-26,South Doyle. TN,Pineville,66,39,2,   ,0
-2002-12-26,South Gwinnett. GA,Butler County,85,49,2,   ,0
+2002-12-26,Out of State,Pineville,66,39,2,   ,0
+2002-12-26,Out of State,Butler County,85,49,2,   ,0
 2002-12-26,St. Henry,Newport Central Catholic,60,50,0,   ,0
 2002-12-26,St. Mary,Fulton City,78,57,2,   ,0
 2002-12-26,Taylor County,Central Hardin,64,51,2,   ,0
@@ -1004,28 +1004,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-26,Wayne County,Paintsville,58,41,2,   ,0
 2002-12-26,Webster County,Fulton County,71,51,2,   ,0
 2002-12-26,West Carter,Jackson City,78,54,2,   ,0
-2002-12-26,West Jessamine,Atlanta Washington. GA,90,59,2,   ,0
-2002-12-26,Whitesburg,Cloudland. TN,86,78,2,   ,0
+2002-12-26,West Jessamine,Out of State,90,59,2,   ,0
+2002-12-26,Whitesburg,Out of State,86,78,2,   ,0
 2002-12-26,Whitley County,Casey County,63,46,2,   ,0
 2002-12-27,Anderson County,Bryan Station,54,46,2,   ,0
 2002-12-27,Apollo,Pike County Central,66,56,2,   ,0
-2002-12-27,Arlington. TX,Fairdale,59,45,2,   ,0
-2002-12-27,Atlanta Douglas. GA,West Jessamine,98,84,2,   ,0
-2002-12-27,Ballard,Westminster Catawba. SC,91,37,2,   ,0
+2002-12-27,Out of State,Fairdale,59,45,2,   ,0
+2002-12-27,Out of State,West Jessamine,98,84,2,   ,0
+2002-12-27,Ballard,Out of State,91,37,2,   ,0
 2002-12-27,Ballard Memorial,Livingston Central,52,41,2,   ,0
 2002-12-27,Bell County,Lynn Camp,70,40,2,   ,0
-2002-12-27,Belleville West. IL,Paducah Tilghman,55,49,2,   ,0
+2002-12-27,Out of State,Paducah Tilghman,55,49,2,   ,0
 2002-12-27,Beth Haven,Cloverport,63,45,1,   ,0
-2002-12-27,Birmingham Central Park Christia,Bardstown,93,53,2,   ,0
-2002-12-27,Bonnabelle. LA,Holy Cross,62,46,2,   ,0
+2002-12-27,Out of State,Bardstown,93,53,2,   ,0
+2002-12-27,Out of State,Holy Cross (Covington),62,46,2,   ,0
 2002-12-27,Bourbon County,Garrard County,74,61,2,   ,0
-2002-12-27,Bowling Green,Richland. TN,88,41,2,   ,0
-2002-12-27,Boyle County,George Jenkins. FL,62,50,2,   ,0
+2002-12-27,Bowling Green,Out of State,88,41,2,   ,0
+2002-12-27,Boyle County,Out of State,62,50,2,   ,0
 2002-12-27,Breathitt County,Ashland Blazer,54,42,2,   ,0
 2002-12-27,Breckinridge County,Trimble County,58,38,2,   ,0
 2002-12-27,Bullitt East,DuPont Manual,90,77,1,   ,0
 2002-12-27,Burgin,Monticello,44,43,2,   ,0
-2002-12-27,Butler,Cairo. GA,74,72,2,  (overtime) ,1
+2002-12-27,Butler,Out of State,74,72,2,  (overtime) ,1
 2002-12-27,Campbellsville,LaRue County,67,63,1,   ,0
 2002-12-27,Carlisle County,Reidland,88,63,2,   ,0
 2002-12-27,Carroll County,Owen County,50,43,2,   ,0
@@ -1036,121 +1036,121 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-27,Central Hardin,Green County,67,59,2,   ,0
 2002-12-27,Christian Academy-Louisville,Fleming County,74,57,2,   ,0
 2002-12-27,Christian County,Murray,67,48,2,   ,0
-2002-12-27,Cincinnati Hills. OH,St. Patrick,60,54,2,   ,0
-2002-12-27,Cincinnati Roger Bacon. OH,Fern Creek,53,34,2,   ,0
-2002-12-27,Cincinnati Woodford. OH,Prestonsburg,66,63,2,   ,0
-2002-12-27,Clarksville Rossview. TN,Franklin-Simpson,51,47,2,   ,0
+2002-12-27,Out of State,St. Patrick,60,54,2,   ,0
+2002-12-27,Out of State,Fern Creek,53,34,2,   ,0
+2002-12-27,Out of State,Prestonsburg,66,63,2,   ,0
+2002-12-27,Out of State,Franklin-Simpson,51,47,2,   ,0
 2002-12-27,Clay County,Johnson Central,75,67,1,   ,0
 2002-12-27,Cloverport,Evangel Christian,60,54,2,   ,0
 2002-12-27,Conner,Southwestern,107,54,2,   ,0
 2002-12-27,Corbin,Franklin County,72,60,1,   ,0
 2002-12-27,Covington Catholic,Hopkins County Central,87,66,2,   ,0
-2002-12-27,Cumberland County. TN,Seneca,53,52,2,   ,0
+2002-12-27,Out of State,Seneca,53,52,2,   ,0
 2002-12-27,Deming,Louisville Collegiate,62,44,2,   ,0
 2002-12-27,Doss,Marion County,69,47,0,   ,0
 2002-12-27,East Carter,Bath County,46,45,0,   ,0
 2002-12-27,East Jessamine,Scott,70,51,2,   ,0
 2002-12-27,East Ridge,Russell,60,53,2,   ,0
-2002-12-27,East Side. GA,Butler County,71,42,2,   ,0
+2002-12-27,Out of State,Butler County,71,42,2,   ,0
 2002-12-27,Eastern,Simon Kenton,77,74,2,   ,0
 2002-12-27,Elizabethtown,Iroquois,87,84,0,  (overtime) ,1
 2002-12-27,Eminence,St. Francis,71,54,1,   ,0
 2002-12-27,Evarts,Dayton,85,82,2,   ,0
 2002-12-27,Fort Knox,Evangel Christian,74,54,0,   ,0
-2002-12-27,Frankfort,Mobile LaFlore. LA,62,54,2,   ,0
+2002-12-27,Frankfort,Out of State,62,54,2,   ,0
 2002-12-27,Gallatin County,Letcher,75,59,1,   ,0
-2002-12-27,Goodpasture. TN,Owensboro Catholic,59,52,2,   ,0
-2002-12-27,Graves County,Montgomery Jefferson Davis. AL,56,48,2,   ,0
-2002-12-27,Gulfcoast. FL,Middlesboro,77,57,2,   ,0
-2002-12-27,Hart County,Bullitt Central,106,99,2,  (quadruple overtime) ,0
-2002-12-27,Hatsboro-Hasham. PA,George Rogers Clark,57,45,2,   ,0
-2002-12-27,Henderson County,Murfreesboro Riverdale. TN,53,42,2,   ,0
+2002-12-27,Out of State,Owensboro Catholic,59,52,2,   ,0
+2002-12-27,Graves County,Out of State,56,48,2,   ,0
+2002-12-27,Out of State,Middlesboro,77,57,2,   ,0
+2002-12-27,Hart County,Bullitt Central,106,99,2,  (quadruple overtime) ,1
+2002-12-27,Out of State,George Rogers Clark,57,45,2,   ,0
+2002-12-27,Henderson County,Out of State,53,42,2,   ,0
 2002-12-27,Henry Clay,Owsley County,81,47,2,   ,0
-2002-12-27,Heritage Hills. IN,Ohio County,84,51,2,   ,0
+2002-12-27,Out of State,Ohio County,84,51,2,   ,0
 2002-12-27,Hickman County,Heath,77,55,2,   ,0
 2002-12-27,Highlands,Madison Central,52,39,2,   ,0
 2002-12-27,Holmes,Glasgow,62,51,2,   ,0
 2002-12-27,Hopkinsville,Paul Laurence Dunbar,93,65,2,   ,0
-2002-12-27,Jeffersontown,Largo. FL,89,81,2,  (overtime) ,1
+2002-12-27,Jeffersontown,Out of State,89,81,2,  (overtime) ,1
 2002-12-27,Kentucky Country Day,Model,90,58,0,   ,0
 2002-12-27,Knott County Central,Clinton County,75,68,2,   ,0
 2002-12-27,Knox Central,Valley,72,58,2,   ,0
 2002-12-27,Lafayette,Ryle,72,66,2,  (overtime) ,1
-2002-12-27,Lawrence County,Mercer Christian. WV,80,76,2,   ,0
+2002-12-27,Lawrence County,Out of State,80,76,2,   ,0
 2002-12-27,Lexington Christian,Grant County,63,52,2,   ,0
 2002-12-27,Logan County,Cumberland County,66,47,2,   ,0
-2002-12-27,Loveland. OH,Boone County,70,60,1,   ,0
+2002-12-27,Out of State,Boone County,70,60,1,   ,0
 2002-12-27,Ludlow,Newport,72,63,0,   ,0
-2002-12-27,Male,Pahokee. FL,69,67,2,   ,0
-2002-12-27,Marshall County,Henry County. TN,64,63,1,   ,0
+2002-12-27,Male,Out of State,69,67,2,   ,0
+2002-12-27,Marshall County,Out of State,64,63,1,   ,0
 2002-12-27,Mayfield,Allen County-Scottsville,67,41,1,   ,0
 2002-12-27,McCreary Central,Whitley County,61,51,2,   ,0
 2002-12-27,Meade County,Raceland,44,37,2,   ,0
 2002-12-27,Mercer County,Waggener,78,64,2,   ,0
-2002-12-27,Millington. TN,Calloway County,63,57,2,   ,0
-2002-12-27,Moore,Shelbyville. TN,55,40,2,   ,0
-2002-12-27,Mt. Vernon. IL,Calloway County,48,36,2,   ,0
+2002-12-27,Out of State,Calloway County,63,57,2,   ,0
+2002-12-27,Moore,Out of State,55,40,2,   ,0
+2002-12-27,Out of State,Calloway County,48,36,2,   ,0
 2002-12-27,Muhlenberg South,Walden,85,42,1,   ,0
 2002-12-27,Nelson County,Grayson County,52,47,1,   ,0
-2002-12-27,New Madrid Central. MO,Union County,46,39,2,   ,0
-2002-12-27,Nitro. WV,Fleming County,48,44,2,   ,0
+2002-12-27,Out of State,Union County,46,39,2,   ,0
+2002-12-27,Out of State,Fleming County,48,44,2,   ,0
 2002-12-27,North Laurel,Bell County,83,69,2,   ,0
-2002-12-27,Owensboro,Knoxville Austin-East. TN,61,56,2,   ,0
-2002-12-27,Paul Laurence Dunbar,Obion Central. TN,69,58,2,   ,0
+2002-12-27,Owensboro,Out of State,61,56,2,   ,0
+2002-12-27,Paul Laurence Dunbar,Out of State,69,58,2,   ,0
 2002-12-27,Pendleton County,Estill County,75,74,2,   ,0
-2002-12-27,Pikeville,Egg Harbor Township. PA,48,45,2,   ,0
+2002-12-27,Pikeville,Out of State,48,45,2,   ,0
 2002-12-27,Portland Christian,Brown,54,43,2,   ,0
 2002-12-27,Powell County,Edmonson County,97,85,2,   ,0
 2002-12-27,Pulaski County,Paintsville,78,73,2,   ,0
 2002-12-27,Rockcastle County,Boyd County,71,41,2,   ,0
 2002-12-27,Rowan County,Berea,63,44,0,   ,0
 2002-12-27,Russell County,Dawson Springs,57,55,2,   ,0
-2002-12-27,Scott. TN,Wolfe County,63,51,2,   ,0
+2002-12-27,Out of State,Wolfe County,63,51,2,   ,0
 2002-12-27,Shelby County,Monroe County,59,37,2,   ,0
 2002-12-27,Shelby Valley,Oldham County,55,53,2,   ,0
 2002-12-27,Somerset,Elliott County,77,64,2,   ,0
 2002-12-27,South Floyd,Hazard,89,79,1,   ,0
 2002-12-27,South Laurel,Williamsburg,73,36,1,   ,0
 2002-12-27,South Oldham,John Hardin,54,48,2,   ,0
-2002-12-27,South Spencer. IN,Hancock County,87,63,1,   ,0
-2002-12-27,Southern,Etibocoke Collegiate. Canada,42,28,2,   ,0
-2002-12-27,Spartanburg. SC,Butler,70,68,1,  (championship) ,0
+2002-12-27,Out of State,Hancock County,87,63,1,   ,0
+2002-12-27,Southern,Out of State,42,28,2,   ,0
+2002-12-27,Out of State,Butler,70,68,1,  (championship) ,0
 2002-12-27,Spencer County,Caldwell County,79,70,2,   ,0
 2002-12-27,St. Henry,DeSales,61,48,1,   ,0
-2002-12-27,St. John Neumann. PA,Scott County,103,98,2,  (triple overtime) ,0
+2002-12-27,Out of State,Scott County,103,98,2,  (triple overtime) ,1
 2002-12-27,Tates Creek,Beechwood,72,41,2,   ,0
 2002-12-27,Taylor County,Washington County,85,78,2,   ,0
-2002-12-27,Tennessee High. TN,North Hardin,45,43,2,   ,0
+2002-12-27,Out of State,North Hardin,45,43,2,   ,0
 2002-12-27,Trigg County,St. Mary,72,67,2,   ,0
 2002-12-27,Trinity (Louisville),Rose Hill Christian,82,63,2,   ,0
 2002-12-27,Trinity (Whitesville),Henry County,59,47,2,   ,0
 2002-12-27,Villa Madonna,Heritage Academy,47,38,2,   ,0
-2002-12-27,Walker. LA,Betsy Layne,72,52,2,   ,0
+2002-12-27,Out of State,Betsy Layne,72,52,2,   ,0
 2002-12-27,Walton-Verona,Madison Southern,73,68,2,  (overtime) ,1
-2002-12-27,Wayne,Lloyd Memorial,76,54,0,   ,0
-2002-12-27,Wayne County,Oak Ridge. TN,62,46,2,   ,0
+2002-12-27,Out of State,Lloyd Memorial,76,54,0,   ,0
+2002-12-27,Wayne County,Out of State,62,46,2,   ,0
 2002-12-27,Webster County,Lone Oak,68,64,0,  (overtime) ,1
 2002-12-27,West Carter,Lee County,79,52,2,   ,0
-2002-12-27,Westminster. GA,Western Hills,44,39,2,   ,0
-2002-12-27,Whitesburg,Hampton. TN,78,72,0,   ,0
-2002-12-27,William Blount. TN,Pineville,80,40,2,   ,0
+2002-12-27,Out of State,Western Hills,44,39,2,   ,0
+2002-12-27,Whitesburg,Out of State,78,72,0,   ,0
+2002-12-27,Out of State,Pineville,80,40,2,   ,0
 2002-12-27,Williamsburg,Greenup County,61,57,2,   ,0
-2002-12-27,Williamson. WV,Belfry,75,43,1,   ,0
+2002-12-27,Out of State,Belfry,75,43,1,   ,0
 2002-12-27,Williamstown,Bellevue,80,57,1,   ,0
 2002-12-28,Allen County-Scottsville,Murray,60,49,2,   ,0
 2002-12-28,Anderson County,Williamstown,65,59,0,   ,0
 2002-12-28,Anderson County,Leslie County,66,55,2,   ,0
 2002-12-28,Apollo,Mercer County,97,75,2,   ,0
-2002-12-28,Ballard,West Charlotte. NC,88,58,2,   ,0
+2002-12-28,Ballard,Out of State,88,58,2,   ,0
 2002-12-28,Bardstown,Cloverport,65,58,2,   ,0
 2002-12-28,Bardstown,Bullitt Central,64,60,2,   ,0
-2002-12-28,Battery Creek. SC,Jackson County,55,49,2,   ,0
+2002-12-28,Out of State,Jackson County,55,49,2,   ,0
 2002-12-28,Beechwood,Berea,49,46,0,   ,0
 2002-12-28,Beth Haven,Hart County,72,68,1,   ,0
-2002-12-28,Betsy Layne,Miami Dade. FL,68,61,2,   ,0
-2002-12-28,Birmingham Central Park Christia,Fort Knox,68,44,2,  (championship) ,0
-2002-12-28,Birmingham Central Park Christia,Hart County,95,55,2,   ,0
-2002-12-28,Bishop Brossart,Cincinnati Purcell Marian. OH,53,50,0,   ,0
+2002-12-28,Betsy Layne,Out of State,68,61,2,   ,0
+2002-12-28,Out of State,Fort Knox,68,44,2,  (championship) ,0
+2002-12-28,Out of State,Hart County,95,55,2,   ,0
+2002-12-28,Bishop Brossart,Out of State,53,50,0,   ,0
 2002-12-28,Breathitt County,Lafayette,65,60,2,  (championship) ,0
 2002-12-28,Breckinridge County,Spencer County,87,53,2,   ,0
 2002-12-28,Brown,St. Francis,72,38,2,   ,0
@@ -1158,41 +1158,41 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-28,Caldwell County,Trimble County,80,76,2,   ,0
 2002-12-28,Campbellsville,Taylor County,71,60,1,  (championship) ,0
 2002-12-28,Carlisle County,Hickman County,73,65,2,   ,0
-2002-12-28,Casey County,Scott. TN,63,49,2,   ,0
+2002-12-28,Casey County,Out of State,63,49,2,   ,0
 2002-12-28,Cawood,Walton-Verona,67,59,2,  (overtime) ,1
-2002-12-28,Central,Cumberland County. TN,81,77,2,   ,0
-2002-12-28,Champaign Centennial. IL,Paducah Tilghman,71,50,2,   ,0
-2002-12-28,Christian Academy-Louisville,Logan. WV,67,65,0,   ,0
+2002-12-28,Central,Out of State,81,77,2,   ,0
+2002-12-28,Out of State,Paducah Tilghman,71,50,2,   ,0
+2002-12-28,Christian Academy-Louisville,Out of State,67,65,0,   ,0
 2002-12-28,Christian County,Mayfield,83,82,0,  (championship) ,0
-2002-12-28,Cincinnati Woodford. OH,McCreary Central,68,48,2,   ,0
-2002-12-28,Clinton County,Huntland. TN,64,52,2,   ,0
-2002-12-28,Collins Hill. GA,Butler County,75,59,2,   ,0
-2002-12-28,Columbia Lake City,Southern,43,38,2,   ,0
+2002-12-28,Out of State,McCreary Central,68,48,2,   ,0
+2002-12-28,Clinton County,Out of State,64,52,2,   ,0
+2002-12-28,Out of State,Butler County,75,59,2,   ,0
+2002-12-28,Out of State,Southern,43,38,2,   ,0
 2002-12-28,Covington Catholic,Bullitt East,76,62,0,  (championship) ,0
 2002-12-28,Cumberland County,Dawson Springs,59,46,2,   ,0
 2002-12-28,Daviess County,Lincoln County,75,70,2,   ,0
-2002-12-28,Dixie Heights,Greenwood. SC,71,61,2,   ,0
-2002-12-28,Doss,East Limestone. AL,96,44,2,   ,0
+2002-12-28,Dixie Heights,Out of State,71,61,2,   ,0
+2002-12-28,Doss,Out of State,96,44,2,   ,0
 2002-12-28,East Carter,West Carter,59,55,2,  (championship) ,0
-2002-12-28,Elizabethtown,Cincinnati Roger Bacon. OH,55,46,2,  (championship) ,0
+2002-12-28,Elizabethtown,Out of State,55,46,2,  (championship) ,0
 2002-12-28,Eminence,Portland Christian,59,55,1,  (champsionship) ,0
 2002-12-28,Estill County,Owsley County,69,40,2,   ,0
 2002-12-28,Fort Knox,Beth Haven,55,48,0,   ,0
-2002-12-28,Gainesville. FL,Marion County,62,52,0,   ,0
+2002-12-28,Out of State,Marion County,62,52,0,   ,0
 2002-12-28,Gallatin County,Carroll County,53,46,1,  (championship) ,0
 2002-12-28,Gallatin County,Burgin,55,44,1,   ,0
 2002-12-28,Garrard County,Williamsburg,71,58,2,   ,0
 2002-12-28,George Rogers Clark,University Heights,73,59,2,   ,0
 2002-12-28,Glasgow,Morgan County,63,50,2,   ,0
-2002-12-28,Green County,Richland. TN,71,59,2,   ,0
+2002-12-28,Green County,Out of State,71,59,2,   ,0
 2002-12-28,Greenup County,Valley,76,59,2,   ,0
 2002-12-28,Greenup County,Lynn Camp,71,41,2,   ,0
-2002-12-28,Hatsboro-Hasham. PA,Eastern,65,61,2,  overtime ,0
+2002-12-28,Out of State,Eastern,65,61,2,  overtime ,1
 2002-12-28,Heath,Ballard Memorial,72,66,2,   ,0
 2002-12-28,Heath,Reidland,75,69,2,   ,0
 2002-12-28,Henry Clay,Pendleton County,99,61,2,   ,0
 2002-12-28,Henry County,Walden,73,45,2,   ,0
-2002-12-28,Holy Cross (Covington),Shelbyville. TN,57,52,2,   ,0
+2002-12-28,Holy Cross (Covington),Out of State,57,52,2,   ,0
 2002-12-28,Hopkins County Central,DuPont Manual,69,68,2,   ,0
 2002-12-28,Hopkinsville,Lyon County,101,86,2,   ,0
 2002-12-28,Hopkinsville,Paul Laurence Dunbar,78,53,2,  (championship) ,0
@@ -1200,63 +1200,63 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-28,John Hardin,Grayson County,52,45,2,   ,0
 2002-12-28,Johnson Central,Edmonson County,89,76,2,   ,0
 2002-12-28,Kentucky Country Day,Evarts,71,56,2,  (championship) ,0
-2002-12-28,Knott County Central,Station Camp. TN,84,52,2,   ,0
-2002-12-28,Lebanon. OH,Boone County,73,52,2,   ,0
+2002-12-28,Knott County Central,Out of State,84,52,2,   ,0
+2002-12-28,Out of State,Boone County,73,52,2,   ,0
 2002-12-28,Leslie County,Bellevue,80,56,2,   ,0
 2002-12-28,Letcher,Carroll County,58,56,2,   ,0
 2002-12-28,Logan County,Russell County,64,60,2,   ,0
 2002-12-28,Madison Southern,Metcalfe County,77,49,2,   ,0
-2002-12-28,Male,Trinity. NH,62,48,2,   ,0
+2002-12-28,Male,Out of State,62,48,2,   ,0
 2002-12-28,Marshall County,Lyon County,63,56,1,   ,0
 2002-12-28,Mason County,Highlands,48,47,2,   ,0
 2002-12-28,Meade County,Caverna,61,45,0,  (championship) ,0
 2002-12-28,Model,Dayton,94,88,1,   ,0
 2002-12-28,Monroe County,Franklin County,75,54,2,   ,0
-2002-12-28,Moore,Bonnabelle. LA,50,43,2,   ,0
+2002-12-28,Moore,Out of State,50,43,2,   ,0
 2002-12-28,Muhlenberg South,Trinity (Whitesville),67,55,1,  (championship) ,0
-2002-12-28,Naples. FL,Jeffersontown,80,75,1,   ,0
-2002-12-28,Newnan. GA,Henderson County,66,51,2,   ,0
+2002-12-28,Out of State,Jeffersontown,80,75,1,   ,0
+2002-12-28,Out of State,Henderson County,66,51,2,   ,0
 2002-12-28,Newport Central Catholic,DeSales,41,32,1,   ,0
-2002-12-28,North Christian. FL,Pikeville,63,54,2,   ,0
-2002-12-28,North Hardin,Rimini. Italy,65,48,2,   ,0
+2002-12-28,Out of State,Pikeville,63,54,2,   ,0
+2002-12-28,North Hardin,Out of State,65,48,2,   ,0
 2002-12-28,North Laurel,Bourbon County,69,58,2,   ,0
 2002-12-28,Ohio County,Hancock County,64,46,2,   ,0
-2002-12-28,Ohio County,South Spencer. IN,69,64,2,   ,0
+2002-12-28,Ohio County,Out of State,69,64,2,   ,0
 2002-12-28,Oldham County,Southwestern,61,51,2,   ,0
-2002-12-28,Ontario Saltfleet. Canada,Williamstown,70,47,0,   ,0
-2002-12-28,Ontario Saltfleet. Canada,Bryan Station,52,50,2,   ,0
+2002-12-28,Out of State,Williamstown,70,47,0,   ,0
+2002-12-28,Out of State,Bryan Station,52,50,2,   ,0
 2002-12-28,Owen County,Monticello,64,48,2,   ,0
-2002-12-28,Owensboro Catholic,Overlake. WA,70,41,2,   ,0
+2002-12-28,Owensboro Catholic,Out of State,70,41,2,   ,0
 2002-12-28,Paul Laurence Dunbar,Marshall County,58,41,0,   ,0
-2002-12-28,Pensecola Tate. FL,Holy Cross,61,49,2,   ,0
+2002-12-28,Out of State,Holy Cross (Covington),61,49,2,   ,0
 2002-12-28,Pike County Central,Waggener,67,50,2,   ,0
-2002-12-28,Piqua. OH,Lloyd Memorial,63,34,0,   ,0
+2002-12-28,Out of State,Lloyd Memorial,63,34,0,   ,0
 2002-12-28,Powell County,Clay County,69,63,0,   ,0
 2002-12-28,Pulaski County,Lexington Christian,67,53,2,   ,0
 2002-12-28,Raceland,Lewis County,46,41,2,  (overtime) ,1
-2002-12-28,Ridgewood. FL,Boyle County,80,59,2,   ,0
+2002-12-28,Out of State,Boyle County,80,59,2,   ,0
 2002-12-28,Rockcastle County,East Jessamine,84,65,2,   ,0
 2002-12-28,Ryle,Ashland Blazer,60,53,2,   ,0
 2002-12-28,Scott,Boyd County,68,60,2,   ,0
-2002-12-28,Scott County,Myrtle Beach. SC,80,59,0,   ,0
-2002-12-28,Seymour. TN,Pineville,49,41,2,   ,0
-2002-12-28,Simon Kenton,Oak Ridge. TN,71,50,2,   ,0
+2002-12-28,Scott County,Out of State,80,59,0,   ,0
+2002-12-28,Out of State,Pineville,49,41,2,   ,0
+2002-12-28,Simon Kenton,Out of State,71,50,2,   ,0
 2002-12-28,Somerset,East Ridge,77,63,2,   ,0
-2002-12-28,South Lake Carroll. TX,Fairdale,71,63,2,   ,0
+2002-12-28,Out of State,Fairdale,71,63,2,   ,0
 2002-12-28,South Laurel,Knox Central,96,60,1,   ,0
 2002-12-28,South Oldham,Nelson County,77,73,0,   ,0
 2002-12-28,Southern,Sayre,42,40,2,   ,0
-2002-12-28,St. Patrick,Huntington Ross. AL,55,50,2,   ,0
-2002-12-28,Stow. OH,Owensboro,70,50,2,   ,0
+2002-12-28,St. Patrick,Out of State,55,50,2,   ,0
+2002-12-28,Out of State,Owensboro,70,50,2,   ,0
 2002-12-28,Tates Creek,Rowan County,75,57,2,   ,0
-2002-12-28,Tolsia. WV,Lawrence County,76,52,1,   ,0
+2002-12-28,Out of State,Lawrence County,76,52,1,   ,0
 2002-12-28,Trinity (Louisville),Holmes,67,59,2,   ,0
-2002-12-28,Tug Valley. WV,Belfry,77,36,2,   ,0
+2002-12-28,Out of State,Belfry,77,36,2,   ,0
 2002-12-28,Union County,Franklin-Simpson,65,42,2,   ,0
-2002-12-28,University High. TN,Whitesburg,68,62,2,   ,0
+2002-12-28,Out of State,Whitesburg,68,62,2,   ,0
 2002-12-28,Wayne County,Lexington Catholic,2,0,0,  (forfeit) ,0
 2002-12-28,Webster County,Trigg County,70,67,2,  (overtime) ,1
-2002-12-28,Western Hills,Hyde Park. TX,65,51,2,   ,0
+2002-12-28,Western Hills,Out of State,65,51,2,   ,0
 2002-12-28,Whitley County,Prestonsburg,64,49,2,   ,0
 2002-12-28,Williamsburg,Bell County,57,43,2,   ,0
 2002-12-28,Wolfe County,Harlan,83,42,2,   ,0
@@ -1264,75 +1264,75 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2002-12-29,Bowling Green,Central Hardin,46,33,2,   ,0
 2002-12-29,Corbin,Shelby County,72,52,1,   ,0
 2002-12-29,Daviess County,Madison Central,67,39,2,   ,0
-2002-12-29,Dixie Heights,Battery Creek. SC,58,32,2,   ,0
+2002-12-29,Dixie Heights,Out of State,58,32,2,   ,0
 2002-12-29,East Jessamine,Pendleton County,64,60,2,   ,0
 2002-12-29,Garrard County,Pike County Central,51,46,2,   ,0
-2002-12-29,Greenwood. SC,Jackson County,55,51,2,   ,0
+2002-12-29,Out of State,Jackson County,55,51,2,   ,0
 2002-12-29,Henry Clay,Rockcastle County,84,54,2,   ,0
 2002-12-29,Highlands,Holmes,56,44,2,   ,0
 2002-12-29,Knox Central,Shelby Valley,65,61,2,   ,0
 2002-12-29,LaRue County,Washington County,66,55,2,   ,0
-2002-12-29,Lexington Catholic,Hatsboro-Hasham. PA,69,59,1,  semifinal ,0
+2002-12-29,Lexington Catholic,Out of State,69,59,1,  semifinal ,0
 2002-12-29,Madison Southern,Beechwood,69,47,2,   ,0
-2002-12-29,Mason County,Trinity,73,53,2,  semifinal ,0
+2002-12-29,Mason County,Trinity (Louisville),73,53,2,  semifinal ,0
 2002-12-29,Mercer County,Bourbon County,73,61,2,   ,0
 2002-12-29,Oldham County,Greenup County,78,56,2,   ,0
-2002-12-29,Owensboro Catholic,Carothers. CA,62,39,2,   ,0
+2002-12-29,Owensboro Catholic,Out of State,62,39,2,   ,0
 2002-12-29,Rose Hill Christian,George Rogers Clark,72,62,2,   ,0
 2002-12-29,Scott,Estill County,67,50,2,   ,0
-2002-12-29,Scott County,Calhoun County. SC,64,62,2,   ,0
+2002-12-29,Scott County,Out of State,64,62,2,   ,0
 2002-12-29,Simon Kenton,Glasgow,53,40,2,   ,0
 2002-12-29,South Laurel,Conner,58,43,1,   ,0
-2002-12-29,South Miami. FL,Owensboro,73,68,2,  (overtime) ,1
+2002-12-29,Out of State,Owensboro,73,68,2,  (overtime) ,1
 2002-12-29,Tates Creek,Cawood,70,55,2,   ,0
 2002-12-29,Walton-Verona,Rowan County,61,57,2,   ,0
-2002-12-29,Wayne County,Eastern,88,83,2,  overtime ,0
-2002-12-30,Ballard,Charlotte Christian. NC,93,75,2,  (championship) ,0
-2002-12-30,Battery Creek. SC,Shelby County,64,61,2,   ,0
-2002-12-30,Boyle County,South Dade. FL,68,60,2,   ,0
+2002-12-29,Wayne County,Eastern,88,83,2,  overtime ,1
+2002-12-30,Ballard,Out of State,93,75,2,  (championship) ,0
+2002-12-30,Out of State,Shelby County,64,61,2,   ,0
+2002-12-30,Boyle County,Out of State,68,60,2,   ,0
 2002-12-30,Daviess County,Pulaski County,70,63,2,   ,0
 2002-12-30,Dixie Heights,Corbin,62,56,0,   ,0
 2002-12-30,East Jessamine,Walton-Verona,64,50,2,   ,0
-2002-12-30,Edgewater. FL,Male,81,61,2,  (championship) ,0
-2002-12-30,Egg Harbor Township. PA,Western Hills,66,56,2,   ,0
+2002-12-30,Out of State,Male,81,61,2,  (championship) ,0
+2002-12-30,Out of State,Western Hills,66,56,2,   ,0
 2002-12-30,Franklin County,Jackson County,65,60,2,   ,0
 2002-12-30,Garrard County,Oldham County,51,49,2,   ,0
 2002-12-30,Graves County,Frankfort,62,53,2,   ,0
-2002-12-30,Greenwood. SC,Monroe County,79,71,2,   ,0
+2002-12-30,Out of State,Monroe County,79,71,2,   ,0
 2002-12-30,Highlands,Wayne County,65,50,2,  fifth place game ,0
 2002-12-30,John Hardin,Nelson County,63,55,0,   ,0
 2002-12-30,Knox Central,Mercer County,67,65,2,   ,0
 2002-12-30,Madison Southern,Scott,70,63,2,   ,0
 2002-12-30,Mason County,Lexington Catholic,93,89,0,  championship ,0
 2002-12-30,Metcalfe County,Berea,79,46,0,   ,0
-2002-12-30,Moore,Minton. FL,56,51,2,   ,0
+2002-12-30,Moore,Out of State,56,51,2,   ,0
 2002-12-30,Murray,Fulton County,52,42,1,   ,0
 2002-12-30,North Laurel,Conner,71,65,2,   ,0
 2002-12-30,Owsley County,Boyd County,78,65,2,   ,0
-2002-12-30,Pikeville,North Lake Christian. LA,51,47,2,   ,0
-2002-12-30,Renn. SC,Betsy Layne,72,62,2,   ,0
+2002-12-30,Pikeville,Out of State,51,47,2,   ,0
+2002-12-30,Out of State,Betsy Layne,72,62,2,   ,0
 2002-12-30,Rockcastle County,Cawood,74,45,2,   ,0
 2002-12-30,Rose Hill Christian,Simon Kenton,58,55,2,   ,0
 2002-12-30,South Laurel,Apollo,60,57,1,  (championship) ,0
 2002-12-30,South Oldham,Grayson County,63,55,2,   ,0
-2002-12-30,St. George. Bahamas,Southern,50,43,2,   ,0
-2002-12-30,Stoneman Douglas. FL,Jeffersontown,67,56,2,   ,0
-2002-12-30,Tates Creek,Henry Clay,88,87,2,  (championship) (double overtime) ,0
-2002-12-30,Trinity (Louisville),Hatsboro-Hasham. PA,47,44,2,  third place game ,0
-2002-12-30,Urspring. Germany,North Hardin,58,50,2,   ,0
+2002-12-30,Out of State,Southern,50,43,2,   ,0
+2002-12-30,Out of State,Jeffersontown,67,56,2,   ,0
+2002-12-30,Tates Creek,Henry Clay,88,87,2,  (championship) (double overtime) ,1
+2002-12-30,Trinity (Louisville),Out of State,47,44,2,  third place game ,0
+2002-12-30,Out of State,North Hardin,58,50,2,   ,0
 2002-12-31,Ludlow,Bracken County,73,50,1,   ,0
-2002-12-31,Middlesboro,Upper Room Academy. FL,62,41,2,   ,0
-2002-12-31,TBA,Graves County,46,44,2,  Bay Co.,0
+2002-12-31,Middlesboro,Out of State,62,41,2,   ,0
+2002-12-31,Out of State,Graves County,46,44, FL ,  Bay Co.,0
 2003-01-01,Allen Central,Magoffin County,60,58,2,   ,0
 2003-01-01,Pike County Central,Cordia,72,54,1,   ,0
 2003-01-02,Adair County,Warren East,67,46,1,   ,0
-2003-01-02,Atlantic. FL,Sayre,58,43,1,   ,0
+2003-01-02,Out of State,Sayre,58,43,1,   ,0
 2003-01-02,Barren County,North Bullitt,59,45,2,   ,0
 2003-01-02,Bishop Brossart,Fleming County,47,42,1,   ,0
 2003-01-02,Bullitt East,Hazard,66,64,2,   ,0
 2003-01-02,Calvary Christian,Silver Grove,55,42,1,   ,0
 2003-01-02,Crittenden County,Greenwood,68,60,2,   ,0
-2003-01-02,Daviess County,Central Elgin Collegiate. Canada,88,46,1,   ,0
+2003-01-02,Daviess County,Out of State,88,46,1,   ,0
 2003-01-02,Dayton,Villa Madonna,78,64,0,   ,0
 2003-01-02,Edmonson County,Webster County,59,49,2,   ,0
 2003-01-02,Iroquois,DuPont Manual,81,78,2,   ,0
@@ -1340,10 +1340,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-02,Ludlow,Bellevue,54,43,0,   ,0
 2003-01-02,Madisonville-North Hopkins,McLean County,66,46,2,   ,0
 2003-01-02,Magoffin County,Cordia,69,66,2,   ,0
-2003-01-02,Owensboro,Cincinnati Shroder Paideia. OH,75,63,1,   ,0
+2003-01-02,Owensboro,Out of State,75,63,1,   ,0
 2003-01-02,Owensboro Catholic,Moore,53,35,2,   ,0
 2003-01-02,Pleasure Ridge Park,Muhlenberg North,72,62,2,   ,0
-2003-01-02,Sayre,Garden Valley. Canada,69,41,2,   ,0
+2003-01-02,Sayre,Out of State,69,41,2,   ,0
 2003-01-02,South Floyd,Belfry,77,45,2,   ,0
 2003-01-03,Adair County,North Bullitt,77,72,1,   ,0
 2003-01-03,Barren County,Bullitt East,47,37,2,   ,0
@@ -1355,14 +1355,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-03,Casey County,Danville,55,45,1,   ,0
 2003-01-03,Caverna,Cumberland County,65,48,1,   ,0
 2003-01-03,Christian Academy-Louisville,Whitefield Academy,76,49,1,   ,0
-2003-01-03,Cincinnati Withrow. OH,Holmes,65,62,1,   ,0
+2003-01-03,Out of State,Holmes,65,62,1,   ,0
 2003-01-03,Conner,Holy Cross (Covington),63,60,1,   ,0
 2003-01-03,Corbin,Whitley County,77,51,0,   ,0
 2003-01-03,Cumberland,Evarts,68,61,1,   ,0
 2003-01-03,Daviess County,Webster County,87,52,1,   ,0
-2003-01-03,DuPont Manual,Cincinnati Shroder Paideia. OH,73,53,2,   ,0
+2003-01-03,DuPont Manual,Out of State,73,53,2,   ,0
 2003-01-03,East Jessamine,Marion County,59,58,0,   ,0
-2003-01-03,Edmonson County,Central Elgin Collegiate. Canada,68,53,2,   ,0
+2003-01-03,Edmonson County,Out of State,68,53,2,   ,0
 2003-01-03,Estill County,Lee County,81,68,0,   ,0
 2003-01-03,Fairview,June Buchanan,67,48,0,   ,0
 2003-01-03,Franklin County,Frankfort,69,68,1,   ,0
@@ -1375,7 +1375,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-03,Hazard,Warren East,62,52,2,   ,0
 2003-01-03,Heath,Lone Oak,63,61,0,  (overtime) ,1
 2003-01-03,Highlands,Bishop Brossart,59,43,0,   ,0
-2003-01-03,Indianapolis Pike. IN,Lexington Catholic,72,59,2,   ,0
+2003-01-03,Out of State,Lexington Catholic,72,59,2,   ,0
 2003-01-03,Iroquois,Owensboro,72,71,0,   ,0
 2003-01-03,Jackson City,Riverside Christian,85,55,1,   ,0
 2003-01-03,LaRue County,Bardstown,56,36,0,   ,0
@@ -1423,7 +1423,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-03,Woodford County,Western Hills,79,67,1,   ,0
 2003-01-04,Allen Central,Lawrence County,93,91,2,   ,0
 2003-01-04,Barren County,Adair County,65,53,0,  (championship) ,0
-2003-01-04,Beech. TN,Franklin-Simpson,70,55,1,   ,0
+2003-01-04,Out of State,Franklin-Simpson,70,55,1,   ,0
 2003-01-04,Belfry,Cordia,66,64,2,   ,0
 2003-01-04,Betsy Layne,Phelps,78,59,0,   ,0
 2003-01-04,Bishop Brossart,George Rogers Clark,45,42,0,   ,0
@@ -1440,27 +1440,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-04,Fairview,Lewis County,74,56,1,   ,0
 2003-01-04,Fleming-Neon,Buckhorn,84,65,0,   ,0
 2003-01-04,Grayson County,Butler County,50,36,1,   ,0
-2003-01-04,Greenup County,Wheelersburg. OH,54,41,0,   ,0
+2003-01-04,Greenup County,Out of State,54,41,0,   ,0
 2003-01-04,Greenwood,Edmonson County,90,69,2,   ,0
 2003-01-04,Harrison County,Pendleton County,76,66,1,   ,0
 2003-01-04,Hart County,Caverna,52,50,0,   ,0
 2003-01-04,Hazard,North Bullitt,60,50,2,   ,0
-2003-01-04,Hickman County,Bradford. TN,69,45,1,   ,0
+2003-01-04,Hickman County,Out of State,69,45,1,   ,0
 2003-01-04,Jackson City,Burgin,72,53,1,   ,0
 2003-01-04,Lee County,Riverside Christian,88,28,0,   ,0
 2003-01-04,Madison Southern,Allen County-Scottsville,57,51,0,   ,0
 2003-01-04,Madisonville-North Hopkins,Greenwood,69,52,2,   ,0
 2003-01-04,Magoffin County,Pikeville,66,65,2,   ,0
 2003-01-04,Mason County,Fleming County,89,52,0,   ,0
-2003-01-04,McLean County,Central Elgin Collegiate. Canada,65,53,2,   ,0
+2003-01-04,McLean County,Out of State,65,53,2,   ,0
 2003-01-04,McLean County,Crittenden County,62,57,2,   ,0
-2003-01-04,Moore,Cincinnati Shroder Paideia. OH,87,55,2,   ,0
+2003-01-04,Moore,Out of State,87,55,2,   ,0
 2003-01-04,Muhlenberg North,DuPont Manual,63,53,2,   ,0
 2003-01-04,Oldham County,South Oldham,60,57,1,   ,0
 2003-01-04,Owensboro Catholic,Owensboro,41,39,0,   ,0
 2003-01-04,Perry County Central,North Laurel,68,61,1,   ,0
 2003-01-04,Pleasure Ridge Park,Iroquois,81,54,2,  (championship) ,0
-2003-01-04,Providence,New Harmony. IN,68,66,1,   ,0
+2003-01-04,Providence,Out of State,68,66,1,   ,0
 2003-01-04,Raceland,Elliott County,66,55,1,   ,0
 2003-01-04,Scott,Holy Cross (Covington),76,71,1,   ,0
 2003-01-04,Shelby Valley,Johnson Central,62,61,0,   ,0
@@ -1471,7 +1471,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-04,Union County,Trinity (Whitesville),67,64,1,   ,0
 2003-01-04,Warren Central,Glasgow,70,45,1,   ,0
 2003-01-04,Webster County,Crittenden County,57,49,2,   ,0
-2003-01-04,Webster County,Central Elgin Collegiate. Canada,50,36,2,   ,0
+2003-01-04,Webster County,Out of State,50,36,2,   ,0
 2003-01-04,Williamstown,Grant County,68,66,1,   ,0
 2003-01-06,Bellevue,Beechwood,74,73,0,   ,0
 2003-01-06,Burgin,Harrodsburg,75,69,1,   ,0
@@ -1490,10 +1490,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-06,Ryle,Campbell County,65,53,1,   ,0
 2003-01-06,Silver Grove,Heritage Academy,81,69,1,   ,0
 2003-01-06,Spencer County,Bullitt Central,72,65,0,   ,0
-2003-01-06,Whitley County,Jellico. TN,68,51,0,   ,0
+2003-01-06,Whitley County,Out of State,68,51,0,   ,0
 2003-01-07,Apollo,Owensboro Catholic,62,49,0,   ,0
 2003-01-07,Ballard,Christian Academy-Louisville,77,68,1,  (overtime)(overtime) ,1
-2003-01-07,Barbourville,Jellico. TN,78,50,1,   ,0
+2003-01-07,Barbourville,Out of State,78,50,1,   ,0
 2003-01-07,Bardstown,Green County,75,71,1,   ,0
 2003-01-07,Barren County,Logan County,66,56,1,   ,0
 2003-01-07,Bell County,Letcher,77,59,1,   ,0
@@ -1503,10 +1503,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-07,Bullitt Central,Southern,54,49,1,   ,0
 2003-01-07,Calloway County,Fulton County,54,46,1,   ,0
 2003-01-07,Campbellsville,Adair County,91,90,1,   ,0
-2003-01-07,Carlisle County,Lone Oak,81,77,0,  (double overtime) ,0
+2003-01-07,Carlisle County,Lone Oak,81,77,0,  (double overtime) ,1
 2003-01-07,Casey County,Monticello,76,38,1,   ,0
 2003-01-07,Christian County,University Heights,68,63,1,   ,0
-2003-01-07,Cloverport,Cannelton. IN,66,53,2,   ,0
+2003-01-07,Cloverport,Out of State,66,53,2,   ,0
 2003-01-07,Covington Catholic,Shelby County,67,57,0,   ,0
 2003-01-07,Crittenden County,Lyon County,63,61,0,   ,0
 2003-01-07,Doss,Central,70,59,1,   ,0
@@ -1515,13 +1515,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-07,East Ridge,Jenkins,101,51,1,   ,0
 2003-01-07,Eastern,Jeffersontown,72,66,1,   ,0
 2003-01-07,Edmonson County,Metcalfe County,71,67,0,   ,0
-2003-01-07,Estill County,Madison Southern,80,78,0,  (double overtime) ,0
+2003-01-07,Estill County,Madison Southern,80,78,0,  (double overtime) ,1
 2003-01-07,Fairdale,Carroll County,66,50,1,   ,0
-2003-01-07,Frankfort,Western Hills,73,70,1,  (double overtime) ,0
+2003-01-07,Frankfort,Western Hills,73,70,1,  (double overtime) ,1
 2003-01-07,Franklin County,Woodford County,63,55,1,   ,0
 2003-01-07,Fulton City,Murray,45,37,1,   ,0
 2003-01-07,Glasgow,Caverna,61,48,0,   ,0
-2003-01-07,Graceland. IN,Portland Christian,56,48,0,   ,0
+2003-01-07,Out of State,Portland Christian,56,48,0,   ,0
 2003-01-07,Grant County,Lexington Catholic,2,0,1,  (forfeit) ,0
 2003-01-07,Greenup County,Boyd County,61,48,1,   ,0
 2003-01-07,Greenwood,Todd County Central,68,65,1,   ,0
@@ -1542,13 +1542,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-07,Lewis County,West Carter,82,77,1,   ,0
 2003-01-07,Ludlow,Augusta,76,43,0,   ,0
 2003-01-07,Madisonville-North Hopkins,Caldwell County,63,51,0,   ,0
-2003-01-07,Marshall County,Pope County. IL,80,59,1,   ,0
+2003-01-07,Marshall County,Out of State,80,59,1,   ,0
 2003-01-07,Mercer County,Garrard County,64,63,1,   ,0
 2003-01-07,Model,Berea,70,54,0,   ,0
 2003-01-07,Monroe County,Cumberland County,72,70,0,   ,0
 2003-01-07,Moore,Valley,80,56,1,   ,0
 2003-01-07,Muhlenberg North,Grayson County,61,50,1,   ,0
-2003-01-07,Newport,Bethel Tate. OH,72,68,0,   ,0
+2003-01-07,Newport,Out of State,72,68,0,   ,0
 2003-01-07,Newport Central Catholic,Fleming County,35,32,1,   ,0
 2003-01-07,North Hardin,Central Hardin,80,55,0,   ,0
 2003-01-07,North Laurel,Middlesboro,104,98,2,  (overtime) ,1
@@ -1596,7 +1596,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-09,Cawood,Cumberland,62,54,0,   ,0
 2003-01-09,Covington Catholic,Boone County,63,49,0,   ,0
 2003-01-09,Dixie Heights,Scott,59,39,0,   ,0
-2003-01-09,Fleming-Neon,Mt. Mission. VA,73,64,1,   ,0
+2003-01-09,Fleming-Neon,Out of State,73,64,1,   ,0
 2003-01-09,Gallatin County,Owen County,47,32,0,   ,0
 2003-01-09,Jenkins,June Buchanan,57,43,1,   ,0
 2003-01-09,Kentucky Country Day,St. Francis,79,65,1,   ,0
@@ -1632,7 +1632,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-10,Butler County,Dawson Springs,49,39,0,   ,0
 2003-01-10,Calloway County,Murray,68,63,1,  (overtime) ,1
 2003-01-10,Campbellsville,Marion County,80,69,0,   ,0
-2003-01-10,Christian Academy-Louisville,Graceland. IN,95,67,1,   ,0
+2003-01-10,Christian Academy-Louisville,Out of State,95,67,1,   ,0
 2003-01-10,Christian County,Henderson County,68,65,1,   ,0
 2003-01-10,Crittenden County,Caldwell County,69,57,0,   ,0
 2003-01-10,DeSales,Doss,57,53,1,  (overtime) ,1
@@ -1695,7 +1695,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-10,Rowan County,Elliott County,78,64,0,   ,0
 2003-01-10,Russell,Boyd County,62,52,0,   ,0
 2003-01-10,Sayre,Eminence,64,40,0,   ,0
-2003-01-10,School f/t Deaf. AL,Kentucky School f/t Deaf,62,36,0,   ,0
+2003-01-10,Out of State,Kentucky School f/t Deaf,62,36,0,   ,0
 2003-01-10,Shawnee,Southern,83,71,0,   ,0
 2003-01-10,Shelby Valley,Bryan Station,62,47,1,   ,0
 2003-01-10,St. Mary,Christian Fellowship,68,54,1,   ,0
@@ -1709,11 +1709,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-10,Western Hills,Lexington Christian,53,46,0,   ,0
 2003-01-10,Whitefield Academy,Portland Christian,55,39,2,   ,0
 2003-01-10,Whitesburg,Letcher,76,67,0,   ,0
-2003-01-10,Williamson. WV,Belfry,80,50,1,   ,0
+2003-01-10,Out of State,Belfry,80,50,1,   ,0
 2003-01-10,Williamstown,Carroll County,69,60,0,   ,0
 2003-01-11,Adair County,Metcalfe County,78,58,1,   ,0
 2003-01-11,Beth Haven,Kentucky Country Day,51,45,0,   ,0
-2003-01-11,Boone County,New Richmond. OH,58,41,1,   ,0
+2003-01-11,Boone County,Out of State,58,41,1,   ,0
 2003-01-11,Bourbon County,Harrodsburg,92,45,2,   ,0
 2003-01-11,Burgin,Eminence,68,57,1,   ,0
 2003-01-11,Clay County,Hazard,59,58,2,   ,0
@@ -1725,7 +1725,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-11,Evarts,Riverside Christian,94,52,0,   ,0
 2003-01-11,Fairview,Deming,74,65,0,   ,0
 2003-01-11,Frankfort,Grant County,71,66,1,   ,0
-2003-01-11,Fulton County,Lake County. TN,63,49,1,   ,0
+2003-01-11,Fulton County,Out of State,63,49,1,   ,0
 2003-01-11,Heritage Academy,Augusta,89,87,1,   ,0
 2003-01-11,Hopkinsville,Trigg County,99,76,0,   ,0
 2003-01-11,Leslie County,Fleming-Neon,77,55,1,   ,0
@@ -1739,8 +1739,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-11,Rockcastle County,Pike County Central,82,72,2,   ,0
 2003-01-11,Ryle,Taylor County,71,47,1,   ,0
 2003-01-11,Sayre,Evangel Christian,72,43,1,   ,0
-2003-01-11,School f/t Deaf. IN,Kentucky School f/t Deaf,80,16,0,   ,0
-2003-01-11,School f/t Deaf. Western PA,Kentucky School f/t Deaf,57,47,0,   ,0
+2003-01-11,Out of State,Kentucky School f/t Deaf,80,16,0,   ,0
+2003-01-11,Out of State,Kentucky School f/t Deaf,57,47,0,   ,0
 2003-01-11,Scott County,Corbin,95,77,1,   ,0
 2003-01-11,Simon Kenton,Sheldon Clark,72,49,1,   ,0
 2003-01-11,South Oldham,Trimble County,70,56,0,   ,0
@@ -1801,7 +1801,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-14,Harrison County,Bourbon County,69,68,1,   ,0
 2003-01-14,Hart County,Bardstown,76,69,0,   ,0
 2003-01-14,Heath,St. Mary,85,63,1,   ,0
-2003-01-14,Henderson County,Evansville Day School. IN,79,45,1,   ,0
+2003-01-14,Henderson County,Out of State,79,45,1,   ,0
 2003-01-14,Henry Clay,Shelby County,79,43,1,   ,0
 2003-01-14,Hopkins County Central,Providence,87,42,0,   ,0
 2003-01-14,Iroquois,Fern Creek,54,52,2,   ,0
@@ -1830,7 +1830,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-14,Russell,East Carter,55,40,1,   ,0
 2003-01-14,Sayre,Paris,60,56,0,   ,0
 2003-01-14,Scott County,Paul Laurence Dunbar,69,62,2,   ,0
-2003-01-14,Spring Valley. WV,Ashland Blazer,48,40,1,   ,0
+2003-01-14,Out of State,Ashland Blazer,48,40,1,   ,0
 2003-01-14,St. Francis,Walden,70,47,1,   ,0
 2003-01-14,St. Henry,Covington Catholic,58,49,1,   ,0
 2003-01-14,St. Patrick,Deming,80,49,0,   ,0
@@ -1849,24 +1849,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-14,Whitley County,Knox Central,68,67,0,   ,0
 2003-01-14,Williamsburg,Somerset,62,57,1,   ,0
 2003-01-14,Woodford County,Danville,73,69,0,  (overtime) ,1
-2003-01-14,Covington Latin,Christian Center,-,-,0,7:30 PM   ,0
+2003-01-14,Covington Latin,Out of State,-,-,0,7:30 PM   ,0
 2003-01-14,Middlesboro,Cumberland,-,-,0,7:30 PM  (postponed) ,0
 2003-01-15,Ballard,St. Xavier,65,62,2,   ,0
-2003-01-15,Eastern,Trinity,66,46,2,   ,0
-2003-01-15,Iroquois,Male,70,68,2,  (double overtime) ,0
+2003-01-15,Eastern,Trinity (Louisville),66,46,2,   ,0
+2003-01-15,Iroquois,Male,70,68,2,  (double overtime) ,1
 2003-01-15,June Buchanan,Buckhorn,66,42,1,   ,0
 2003-01-15,Magoffin County,Pikeville,61,49,0,   ,0
 2003-01-15,Pleasure Ridge Park,Doss,74,52,2,   ,0
 2003-01-15,South Floyd,Betsy Layne,78,59,0,   ,0
-2003-01-15,St. Bernard. OH,Bellevue,75,62,1,   ,0
+2003-01-15,Out of State,Bellevue,75,62,1,   ,0
 2003-01-16,Holy Cross (Covington),Boone County,59,52,1,   ,0
 2003-01-16,Louisville Collegiate,St. Francis,50,40,1,   ,0
 2003-01-16,Carroll County,Kentucky Country Day,-,-,0,7:30 PM   ,0
 2003-01-16,Owen County,Trimble County,-,-,0,7:30 PM  (postponed) ,0
 2003-01-17,Ashland Blazer,Russell,49,40,0,   ,0
 2003-01-17,Breckinridge County,Butler County,51,47,1,   ,0
-2003-01-17,Champlain St. Lambert. Canada,Lexington Catholic,70,64,2,   ,0
-2003-01-17,Christian Fellowship,Community Christian,76,48,2,   ,0
+2003-01-17,Out of State,Lexington Catholic,70,64,2,   ,0
+2003-01-17,Christian Fellowship,Out of State,76,48,2,   ,0
 2003-01-17,Covington Catholic,Campbell County,84,63,1,   ,0
 2003-01-17,Eastern,Elizabethtown,69,68,2,   ,0
 2003-01-17,Eminence,Brown,58,49,1,   ,0
@@ -1886,12 +1886,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-17,North Hardin,Ballard,60,58,2,   ,0
 2003-01-17,Paris,Nicholas County,54,52,0,   ,0
 2003-01-17,Pleasure Ridge Park,Daviess County,68,52,2,   ,0
-2003-01-17,Restoration Christian. IN,Walden,69,39,0,   ,0
+2003-01-17,Out of State,Walden,69,39,0,   ,0
 2003-01-17,Simon Kenton,Conner,59,58,0,   ,0
-2003-01-17,South Oldham,Charlestown. IN,81,54,0,   ,0
+2003-01-17,South Oldham,Out of State,81,54,0,   ,0
 2003-01-17,St. Francis,Covington Latin,66,43,1,   ,0
 2003-01-17,Tates Creek,Lafayette,74,59,1,   ,0
-2003-01-17,Trinity (Whitesville),New Harmony. IN,74,42,1,   ,0
+2003-01-17,Trinity (Whitesville),Out of State,74,42,1,   ,0
 2003-01-17,Washington County,Bethlehem,65,62,0,   ,0
 2003-01-17,West Carter,Menifee County,59,48,1,   ,0
 2003-01-17,Williamstown,Pendleton County,97,89,1,  (overtime) ,1
@@ -1902,8 +1902,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-18,Bishop Brossart,Holy Cross (Covington),65,53,1,   ,0
 2003-01-18,Boyle County,Danville,68,60,0,   ,0
 2003-01-18,Calvary Christian,Beechwood,80,75,0,   ,0
-2003-01-18,Cincinnati Elder. OH,Covington Catholic,73,59,2,   ,0
-2003-01-18,Cincinnati Princeton. OH,Knox Central,86,75,0,   ,0
+2003-01-18,Out of State,Covington Catholic,73,59,2,   ,0
+2003-01-18,Out of State,Knox Central,86,75,0,   ,0
 2003-01-18,Dixie Heights,Paul Laurence Dunbar,54,49,2,   ,0
 2003-01-18,Eastern,Iroquois,64,58,2,  (championship) ,0
 2003-01-18,Eastern,Pleasure Ridge Park,84,74,2,   ,0
@@ -1911,16 +1911,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-18,Glasgow,Warren East,68,52,1,   ,0
 2003-01-18,Henry Clay,Holmes,85,76,2,   ,0
 2003-01-18,Highlands,Newport Central Catholic,49,38,1,   ,0
-2003-01-18,Ironton St. Joe. OH,Fairview,71,66,1,   ,0
+2003-01-18,Out of State,Fairview,71,66,1,   ,0
 2003-01-18,Iroquois,North Hardin,64,53,2,   ,0
 2003-01-18,June Buchanan,Fleming-Neon,67,35,1,   ,0
 2003-01-18,Kentucky Country Day,Dayton,78,65,0,   ,0
 2003-01-18,LaRue County,Green County,64,41,1,   ,0
 2003-01-18,Lafayette,Russell,57,53,2,   ,0
 2003-01-18,Ludlow,Scott,74,55,1,   ,0
-2003-01-18,Oak Hill Academy. VA,North Laurel,86,63,0,   ,0
+2003-01-18,Out of State,North Laurel,86,63,0,   ,0
 2003-01-18,Oneida Baptist Institute,Middlesboro,75,70,1,   ,0
-2003-01-18,Our Savior New American. NY,Lexington Catholic,68,46,2,   ,0
+2003-01-18,Out of State,Lexington Catholic,68,46,2,   ,0
 2003-01-18,Owen County,Spencer County,61,44,1,   ,0
 2003-01-18,Raceland,Boyd County,44,38,1,   ,0
 2003-01-18,Rose Hill Christian,Lawrence County,85,70,0,   ,0
@@ -1928,7 +1928,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-18,Tates Creek,Ryle,67,58,2,   ,0
 2003-01-18,Todd County Central,Russellville,67,41,1,   ,0
 2003-01-18,Williamstown,Trimble County,79,64,0,   ,0
-2003-01-18,Portland Christian,Borden. IN,-,-,0,7:30 PM   ,0
+2003-01-18,Portland Christian,Out of State,-,-,0,7:30 PM   ,0
 2003-01-18,Henderson County,Lyon County,-,-,0,7:30 PM  (postponed) ,0
 2003-01-18,Letcher,Owsley County,-,-,0,7:30 PM  canceled - will not be rescheduled ,0
 2003-01-20,Beechwood,Dayton,79,66,0,   ,0
@@ -1943,7 +1943,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-20,Henry County,Eminence,64,54,0,   ,0
 2003-01-20,Hickman County,Murray,65,51,0,   ,0
 2003-01-20,Holy Cross (Louisville),Gallatin County,90,76,0,   ,0
-2003-01-20,Laurinburg Charter. NC,Lexington Catholic,79,75,2,   ,0
+2003-01-20,Out of State,Lexington Catholic,79,75,2,   ,0
 2003-01-20,Livingston Central,Fulton County,51,49,0,   ,0
 2003-01-20,Ludlow,Calvary Christian,54,40,0,   ,0
 2003-01-20,Menifee County,Jackson City,78,62,1,   ,0
@@ -1955,7 +1955,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-21,Adair County,Russell County,83,67,1,   ,0
 2003-01-21,Allen Central,Betsy Layne,71,53,1,   ,0
 2003-01-21,Anderson County,Boyle County,59,46,0,   ,0
-2003-01-21,Ashland Blazer,Ironton. OH,56,55,0,   ,0
+2003-01-21,Ashland Blazer,Out of State,56,55,0,   ,0
 2003-01-21,Atherton,Walden,98,38,1,   ,0
 2003-01-21,Ballard Memorial,Heath,58,51,1,   ,0
 2003-01-21,Barbourville,Evarts,103,90,0,   ,0
@@ -1969,16 +1969,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-21,Cawood,Harlan,94,57,1,   ,0
 2003-01-21,Central,Male,66,51,0,   ,0
 2003-01-21,Christian County,Fort Campbell,89,34,0,   ,0
-2003-01-21,Christian Fellowship,Eastwood Christian,77,74,0,   ,0
+2003-01-21,Christian Fellowship,Out of State,77,74,0,   ,0
 2003-01-21,Clinton County,Cumberland County,68,54,0,   ,0
 2003-01-21,Crittenden County,Trigg County,56,50,1,  (overtime) ,1
 2003-01-21,Daviess County,Breckinridge County,66,52,0,   ,0
 2003-01-21,Dawson Springs,Providence,60,48,0,   ,0
-2003-01-21,Doss,Trinity (Louisville),64,62,0,  (double overtime) ,0
+2003-01-21,Doss,Trinity (Louisville),64,62,0,  (double overtime) ,1
 2003-01-21,East Ridge,Belfry,98,81,1,   ,0
 2003-01-21,Elizabethtown,Central Hardin,82,38,0,   ,0
 2003-01-21,Estill County,Fleming County,51,46,0,   ,0
-2003-01-21,Evansville Day. IN,Union County,53,47,0,   ,0
+2003-01-21,Out of State,Union County,53,47,0,   ,0
 2003-01-21,Fairdale,Bullitt Central,81,64,1,   ,0
 2003-01-21,Frankfort,Berea,76,45,1,   ,0
 2003-01-21,Fulton County,Reidland,74,62,1,   ,0
@@ -1994,16 +1994,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-21,Iroquois,Seneca,59,52,1,   ,0
 2003-01-21,John Hardin,Spencer County,70,58,0,   ,0
 2003-01-21,Johnson Central,Sheldon Clark,55,45,0,   ,0
-2003-01-21,Kentucky Country Day,Restoration Christian. IN,58,42,1,   ,0
-2003-01-21,Kentucky School f/t Deaf,St. Rita School f/t Deaf,66,29,1,   ,0
+2003-01-21,Kentucky Country Day,Out of State,58,42,1,   ,0
+2003-01-21,Kentucky School f/t Deaf,Out of State,66,29,1,   ,0
 2003-01-21,Knott County Central,Letcher,72,45,0,   ,0
 2003-01-21,Knox Central,Corbin,89,80,1,   ,0
-2003-01-21,Lawrence County,Tolsia. WV,78,74,1,   ,0
+2003-01-21,Lawrence County,Out of State,78,74,1,   ,0
 2003-01-21,Lewis County,East Carter,65,62,1,   ,0
 2003-01-21,Lyon County,Caldwell County,82,71,0,   ,0
 2003-01-21,Marshall County,Lone Oak,69,52,1,   ,0
 2003-01-21,Mason County,Campbell County,88,63,0,   ,0
-2003-01-21,Massac County. IL,Paducah Tilghman,70,47,2,   ,0
+2003-01-21,Out of State,Paducah Tilghman,70,47,2,   ,0
 2003-01-21,Mayfield,Carlisle County,73,69,1,   ,0
 2003-01-21,Mercer County,Danville,79,64,1,   ,0
 2003-01-21,Metcalfe County,Todd County Central,64,59,1,   ,0
@@ -2064,12 +2064,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-23,Conner,Scott,61,51,0,   ,0
 2003-01-23,Dixie Heights,St. Henry,52,50,0,   ,0
 2003-01-23,Highlands,Holmes,76,63,0,   ,0
-2003-01-23,Paducah Tilghman,Caruthersville. MO,63,51,2,   ,0
+2003-01-23,Paducah Tilghman,Out of State,63,51,2,   ,0
 2003-01-23,Russellville,Fort Campbell,72,48,1,   ,0
-2003-01-23,School f/t Deaf. AL,Kentucky School f/t Deaf,70,23,2,   ,0
+2003-01-23,Out of State,Kentucky School f/t Deaf,70,23,2,   ,0
 2003-01-23,Silver Grove,Ludlow,53,47,1,   ,0
-2003-01-23,Villa Madonna,Heritage Academy,70,63,0,  overtime ,0
-2003-01-23,Monroe County,Hermitage Springs. TN,-,-,0,8:00 PM   ,0
+2003-01-23,Villa Madonna,Heritage Academy,70,63,0,  overtime ,1
+2003-01-23,Monroe County,Out of State,-,-,0,8:00 PM   ,0
 2003-01-23,Jackson County,Oneida Baptist Institute,-,-,0,7:30 PM   ,0
 2003-01-24,Allen Central,June Buchanan,69,51,0,   ,0
 2003-01-24,Anderson County,Bardstown,56,33,1,   ,0
@@ -2098,17 +2098,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-24,Franklin County,Western Hills,59,47,0,   ,0
 2003-01-24,Glasgow,Allen County-Scottsville,62,50,0,   ,0
 2003-01-24,Grant County,Williamstown,66,48,1,   ,0
-2003-01-24,Graves County,Carlisle County,61,57,0,  (double overtime) ,0
+2003-01-24,Graves County,Carlisle County,61,57,0,  (double overtime) ,1
 2003-01-24,Grayson County,Edmonson County,58,38,1,   ,0
-2003-01-24,Hancock County,Tell City. IN,56,50,0,   ,0
+2003-01-24,Hancock County,Out of State,56,50,0,   ,0
 2003-01-24,Harrison County,St. Patrick,56,53,0,   ,0
 2003-01-24,Hazard,Knott County Central,61,42,0,   ,0
 2003-01-24,Heath,Fulton City,78,67,1,   ,0
 2003-01-24,Hopkinsville,Henderson County,76,55,0,   ,0
-2003-01-24,Ironton. OH,Russell,54,48,1,  (overtime) ,1
+2003-01-24,Out of State,Russell,54,48,1,  (overtime) ,1
 2003-01-24,Iroquois,DeSales,66,53,1,   ,0
 2003-01-24,John Hardin,Whitefield Academy,76,71,1,   ,0
-2003-01-24,Kentucky School f/t Deaf,School f/t Deaf. NC,55,52,2,   ,0
+2003-01-24,Kentucky School f/t Deaf,Out of State,55,52,2,   ,0
 2003-01-24,Knox Central,Bell County,64,60,0,   ,0
 2003-01-24,Letcher,Whitesburg,97,84,0,   ,0
 2003-01-24,Lexington Catholic,Mason County,76,75,0,   ,0
@@ -2116,7 +2116,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-24,Lynn Camp,Monticello,68,61,1,   ,0
 2003-01-24,Madison Central,Danville,71,70,0,   ,0
 2003-01-24,Madison Southern,Whitley County,77,59,1,   ,0
-2003-01-24,Madison. IL,Paducah Tilghman,58,56,2,   ,0
+2003-01-24,Out of State,Paducah Tilghman,58,56,2,   ,0
 2003-01-24,Mercer County,Harrodsburg,86,51,0,   ,0
 2003-01-24,Model,St. Francis,79,55,1,   ,0
 2003-01-24,Montgomery County,Campbell County,53,45,1,   ,0
@@ -2130,7 +2130,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-24,Pendleton County,Bracken County,81,67,1,   ,0
 2003-01-24,Pleasure Ridge Park,Valley,106,68,0,   ,0
 2003-01-24,Portland Christian,Walden,53,45,0,   ,0
-2003-01-24,Portland. TN,Franklin-Simpson,59,43,0,   ,0
+2003-01-24,Out of State,Franklin-Simpson,59,43,0,   ,0
 2003-01-24,Raceland,Menifee County,60,36,0,   ,0
 2003-01-24,Red Bird,Barbourville,76,66,1,   ,0
 2003-01-24,Russell County,Casey County,62,60,1,   ,0
@@ -2142,21 +2142,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-24,South Laurel,Pulaski County,66,57,1,   ,0
 2003-01-24,St. Xavier,Atherton,80,63,0,   ,0
 2003-01-24,Trigg County,Livingston Central,77,65,0,   ,0
-2003-01-24,Tug Valley. WV,Paul Laurence Dunbar,74,69,1,   ,0
+2003-01-24,Out of State,Paul Laurence Dunbar,74,69,1,   ,0
 2003-01-24,Waggener,Male,53,51,0,   ,0
 2003-01-24,Walton-Verona,Carroll County,71,56,1,   ,0
 2003-01-24,Warren Central,Warren East,78,35,1,   ,0
 2003-01-24,Washington County,Adair County,65,60,0,   ,0
 2003-01-24,Western,Shawnee,85,80,0,   ,0
-2003-01-24,Covington Latin,Central Baptist,-,-,0,7:30 PM   ,0
-2003-01-24,Webster County,Clarksville Kenwood. TN,-,-,0,7:30 PM  postponed ,0
+2003-01-24,Covington Latin,Out of State,-,-,0,7:30 PM   ,0
+2003-01-24,Webster County,Out of State,-,-,0,7:30 PM  postponed ,0
 2003-01-24,Prestonsburg,Phelps,-,-,0,7:30 PM   ,0
 2003-01-24,Fort Campbell,Providence,-,-,0,7:30 PM   ,0
 2003-01-25,Allen Central,Phelps,70,57,0,   ,0
 2003-01-25,Apollo,Christian County,85,65,2,   ,0
 2003-01-25,Ballard Memorial,Christian Fellowship,62,54,1,   ,0
 2003-01-25,Breathitt County,Ryle,60,55,1,   ,0
-2003-01-25,Calvary Christian,Clark Montessori. Cincinnati. OH,63,34,1,   ,0
+2003-01-25,Calvary Christian,Out of State,63,34,1,   ,0
 2003-01-25,Casey County,McCreary Central,63,60,1,   ,0
 2003-01-25,Christian Academy-Louisville,Beth Haven,79,59,1,   ,0
 2003-01-25,Clay County,Rockcastle County,80,67,1,   ,0
@@ -2165,14 +2165,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-25,Daviess County,Union County,81,47,2,   ,0
 2003-01-25,Deming,Villa Madonna,60,54,1,   ,0
 2003-01-25,Estill County,Bath County,80,70,1,   ,0
-2003-01-25,Evansville Memorial. IN,University Heights,51,44,1,   ,0
+2003-01-25,Out of State,University Heights,51,44,1,   ,0
 2003-01-25,Frankfort,Muhlenberg South,78,65,0,   ,0
 2003-01-25,Fulton City,Reidland,57,41,1,   ,0
 2003-01-25,George Rogers Clark,Campbell County,59,48,1,   ,0
 2003-01-25,Harrison County,Bishop Brossart,44,33,1,   ,0
 2003-01-25,Highlands,Scott County,69,59,1,   ,0
 2003-01-25,Kentucky Country Day,Louisville Collegiate,54,48,0,   ,0
-2003-01-25,Kentucky School f/t Deaf,School f/t Deaf. GA,48,47,2,   ,0
+2003-01-25,Kentucky School f/t Deaf,Out of State,48,47,2,   ,0
 2003-01-25,Knott County Central,Leslie County,83,65,1,   ,0
 2003-01-25,Lafayette,Shelby County,51,48,0,   ,0
 2003-01-25,Lexington Christian,Nicholas County,90,53,1,   ,0
@@ -2182,13 +2182,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-25,Muhlenberg North,Seneca,63,49,1,   ,0
 2003-01-25,Newport Central Catholic,Dayton,56,40,0,   ,0
 2003-01-25,Oldham County,Anderson County,68,63,1,   ,0
-2003-01-25,Owensboro,Evansville North. IN,58,54,0,   ,0
+2003-01-25,Owensboro,Out of State,58,54,0,   ,0
 2003-01-25,Owensboro Catholic,Mercer County,84,65,2,   ,0
-2003-01-25,Paducah Tilghman,Massac County. IL,60,53,2,   ,0
-2003-01-25,Paul Laurence Dunbar,Williamson. WV,67,51,0,   ,0
+2003-01-25,Paducah Tilghman,Out of State,60,53,2,   ,0
+2003-01-25,Paul Laurence Dunbar,Out of State,67,51,0,   ,0
 2003-01-25,Perry County Central,East Ridge,79,69,1,   ,0
 2003-01-25,Rose Hill Christian,Raceland,75,44,2,   ,0
-2003-01-25,School f/t Deaf. FL,Kentucky School f/t Deaf,53,45,2,   ,0
+2003-01-25,Out of State,Kentucky School f/t Deaf,53,45,2,   ,0
 2003-01-25,Trinity (Whitesville),Butler County,63,51,0,   ,0
 2003-01-25,West Jessamine,Montgomery County,63,44,2,   ,0
 2003-01-25,Woodford County,Berea,82,68,0,   ,0
@@ -2221,8 +2221,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-27,West Jessamine,East Jessamine,72,59,0,   ,0
 2003-01-27,Williamsburg,Lynn Camp,70,49,2,   ,0
 2003-01-27,Wolfe County,Jackson City,69,66,2,   ,0
-2003-01-27,Holy Cross (Covington),TBA,-,-,2,   ,0
-2003-01-27,Villa Madonna,TBA,-,-,2,   ,0
+2003-01-27,Holy Cross (Covington),Out of State,-,-,2,   ,0
+2003-01-27,Villa Madonna,Out of State,-,-,2,   ,0
 2003-01-28,Anderson County,Bullitt Central,73,54,1,   ,0
 2003-01-28,Apollo,Owensboro,75,65,1,   ,0
 2003-01-28,Atherton,Southern,77,58,1,   ,0
@@ -2263,7 +2263,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-28,Marion County,Adair County,73,58,1,   ,0
 2003-01-28,Marshall County,Graves County,48,43,1,   ,0
 2003-01-28,Mason County,Montgomery County,68,35,1,   ,0
-2003-01-28,McCreary Central,Jellico. TN,58,45,1,   ,0
+2003-01-28,McCreary Central,Out of State,58,45,1,   ,0
 2003-01-28,Meade County,Shawnee,87,53,1,   ,0
 2003-01-28,Morgan County,Menifee County,79,41,0,   ,0
 2003-01-28,Muhlenberg South,Grayson County,52,40,1,   ,0
@@ -2274,15 +2274,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-28,Paducah Tilghman,Lone Oak,43,39,0,   ,0
 2003-01-28,Pike County Central,Belfry,80,54,0,   ,0
 2003-01-28,Pleasure Ridge Park,DuPont Manual,68,49,0,   ,0
-2003-01-28,Portland Christian,Restoration Christian. IN,66,59,0,   ,0
+2003-01-28,Portland Christian,Out of State,66,59,0,   ,0
 2003-01-28,Powell County,Perry County Central,83,76,0,   ,0
-2003-01-28,Rockcastle County,Cawood,80,77,0,  (triple overtime) ,0
+2003-01-28,Rockcastle County,Cawood,80,77,0,  (triple overtime) ,1
 2003-01-28,Rowan County,Greenup County,70,63,1,   ,0
 2003-01-28,Russell,Lewis County,68,54,0,   ,0
 2003-01-28,Russellville,Allen County-Scottsville,66,45,0,   ,0
 2003-01-28,Seneca,Fern Creek,55,44,1,   ,0
 2003-01-28,South Laurel,Garrard County,59,45,0,   ,0
-2003-01-28,St. Xavier,,78,64,2,   ,0
+2003-01-28,St. Xavier,Out of State,78,64,2,   ,0
 2003-01-28,Taylor County,Hart County,66,63,1,   ,0
 2003-01-28,Trinity (Louisville),DeSales,55,46,1,   ,0
 2003-01-28,Trinity (Whitesville),Cloverport,74,61,2,   ,0
@@ -2300,7 +2300,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-29,Ballard Memorial,Carlisle County,69,62,1,   ,0
 2003-01-29,Betsy Layne,Pikeville,71,63,0,  (overtime) ,1
 2003-01-29,Carroll County,Eminence,68,40,1,   ,0
-2003-01-29,Dixie Heights,Cincinnati Shroder Paideia. OH,68,27,2,   ,0
+2003-01-29,Dixie Heights,Out of State,68,27,2,   ,0
 2003-01-29,Fern Creek,Male,49,48,1,   ,0
 2003-01-29,Gallatin County,Trimble County,52,50,2,   ,0
 2003-01-29,Hazard,Letcher,82,63,2,   ,0
@@ -2314,7 +2314,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-29,West Jessamine,Mercer County,88,75,2,   ,0
 2003-01-29,Whitesburg,Cordia,78,75,2,   ,0
 2003-01-29,Wolfe County,Fleming-Neon,80,47,1,   ,0
-2003-01-29,Livingston Central,TBA,-,-,2,7:00 PM   ,0
+2003-01-29,Livingston Central,Out of State,-,-,2,7:00 PM   ,0
 2003-01-30,Atherton,Valley,76,67,0,   ,0
 2003-01-30,Bellevue,Heritage Academy,64,39,2,   ,0
 2003-01-30,Bishop Brossart,Silver Grove,69,42,2,   ,0
@@ -2323,34 +2323,34 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-30,Christian Academy-Louisville,Walden,97,32,1,   ,0
 2003-01-30,Christian Fellowship,Fulton County,68,44,1,   ,0
 2003-01-30,Clinton County,Metcalfe County,72,67,1,   ,0
-2003-01-30,Corbin,Oneida Baptist Institute,87,80,1,  (double overtime) ,0
+2003-01-30,Corbin,Oneida Baptist Institute,87,80,1,  (double overtime) ,1
 2003-01-30,Cordia,Leslie County,86,67,1,   ,0
 2003-01-30,Eastern,Butler,77,76,0,   ,0
 2003-01-30,Frankfort,Lexington Christian,87,82,2,   ,0
-2003-01-30,George Jr. Republic. PA,Shelby Valley,86,70,2,   ,0
+2003-01-30,Out of State,Shelby Valley,86,70,2,   ,0
 2003-01-30,Henry Clay,Bryan Station,87,65,1,   ,0
 2003-01-30,Highlands,Scott,63,35,1,   ,0
 2003-01-30,Jeffersontown,Southern,82,54,1,   ,0
 2003-01-30,Kentucky Country Day,Louisville Collegiate,86,42,2,   ,0
-2003-01-30,Lafayette,South Charleston. WV,68,67,2,   ,0
+2003-01-30,Lafayette,Out of State,68,67,2,   ,0
 2003-01-30,Lone Oak,Calloway County,58,53,0,   ,0
 2003-01-30,Ludlow,Villa Madonna,69,32,2,   ,0
 2003-01-30,Lyon County,Crittenden County,70,54,2,   ,0
 2003-01-30,Madisonville-North Hopkins,Logan County,65,52,0,   ,0
-2003-01-30,Mercer County,Shroder Paideia. OH,79,69,2,   ,0
+2003-01-30,Mercer County,Out of State,79,69,2,   ,0
 2003-01-30,Monroe County,Todd County Central,68,61,1,   ,0
 2003-01-30,North Bullitt,Bullitt Central,58,56,0,   ,0
 2003-01-30,Owen County,Walton-Verona,57,47,2,   ,0
 2003-01-30,Paris,Deming,62,52,0,   ,0
-2003-01-30,Pineville,Thomas Walker. VA,65,40,1,   ,0
+2003-01-30,Pineville,Out of State,65,40,1,   ,0
 2003-01-30,Pleasure Ridge Park,Fairdale,89,59,1,   ,0
 2003-01-30,Scott County,Sheldon Clark,81,47,1,   ,0
 2003-01-30,Simon Kenton,Ryle,58,46,1,   ,0
-2003-01-30,Spring Valley. WV,Rowan County,83,61,2,   ,0
+2003-01-30,Out of State,Rowan County,83,61,2,   ,0
 2003-01-30,University Heights,Livingston Central,74,50,1,   ,0
 2003-01-30,Williamsburg,Barbourville,75,48,1,   ,0
 2003-01-30,Williamstown,Spencer County,75,72,2,  (overtime) ,1
-2003-01-30,TBA,Portland Christian,-,-,0,   ,0
+2003-01-30,Out of State,Portland Christian,-,-,0,   ,0
 2003-01-31,Apollo,Daviess County,83,61,1,   ,0
 2003-01-31,Augusta,Nicholas County,59,37,2,   ,0
 2003-01-31,Ballard Memorial,Hickman County,52,49,1,   ,0
@@ -2373,17 +2373,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-31,Dixie Heights,West Jessamine,74,66,2,   ,0
 2003-01-31,Doss,Waggener,59,27,0,   ,0
 2003-01-31,East Carter,West Carter,72,70,1,  (overtime) ,1
-2003-01-31,East Ridge,Mt. Mission. VA,79,64,1,   ,0
+2003-01-31,East Ridge,Out of State,79,64,1,   ,0
 2003-01-31,Elizabethtown,Nelson County,96,65,0,   ,0
 2003-01-31,Estill County,Garrard County,61,50,1,   ,0
-2003-01-31,Evansville Bosse. IN,Owensboro,79,68,0,  (overtime) ,1
+2003-01-31,Out of State,Owensboro,79,68,0,  (overtime) ,1
 2003-01-31,Fairdale,Atherton,70,50,0,   ,0
-2003-01-31,Fairview,Ironton St. Joe. OH,90,80,1,   ,0
+2003-01-31,Fairview,Out of State,90,80,1,   ,0
 2003-01-31,Fern Creek,Bullitt East,69,57,1,   ,0
 2003-01-31,Frankfort,Model,105,66,2,   ,0
 2003-01-31,Franklin-Simpson,Warren East,57,49,0,   ,0
 2003-01-31,Gallatin County,Carroll County,57,43,0,   ,0
-2003-01-31,George Jr. Republic. PA,Scott County,71,66,0,   ,0
+2003-01-31,Out of State,Scott County,71,66,0,   ,0
 2003-01-31,George Rogers Clark,Pendleton County,83,63,0,   ,0
 2003-01-31,Grant County,Anderson County,60,47,0,   ,0
 2003-01-31,Graves County,Lone Oak,60,38,0,   ,0
@@ -2400,7 +2400,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-31,Knox Central,Clay County,74,69,1,   ,0
 2003-01-31,Lexington Catholic,Madison Central,74,59,0,   ,0
 2003-01-31,Ludlow,Bellevue,43,42,1,   ,0
-2003-01-31,Madisonville-North Hopkins,Evansville Memorial. IN,80,62,1,   ,0
+2003-01-31,Madisonville-North Hopkins,Out of State,80,62,1,   ,0
 2003-01-31,Mason County,Lewis County,107,63,0,   ,0
 2003-01-31,Mayfield,Heath,73,52,1,   ,0
 2003-01-31,McCreary Central,Russell County,79,71,1,   ,0
@@ -2421,13 +2421,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-01-31,Pulaski County,North Laurel,58,57,1,   ,0
 2003-01-31,Reidland,Providence,60,53,1,   ,0
 2003-01-31,Rockcastle County,Whitley County,75,61,0,   ,0
-2003-01-31,Sayre,TBA,54,51,2,   ,0
+2003-01-31,Sayre,Out of State,54,51,2,   ,0
 2003-01-31,Seneca,Shelby County,54,40,1,   ,0
 2003-01-31,Shawnee,Bullitt Central,69,67,0,   ,0
 2003-01-31,Shelby Valley,Sheldon Clark,66,42,2,   ,0
 2003-01-31,Somerset,Harrodsburg,70,66,1,   ,0
 2003-01-31,South Laurel,Southwestern,54,37,2,   ,0
-2003-01-31,St. Henry,Holy Cross,67,41,2,   ,0
+2003-01-31,St. Henry,Holy Cross (Covington),67,41,2,   ,0
 2003-01-31,Tates Creek,Paul Laurence Dunbar,60,52,1,   ,0
 2003-01-31,Taylor County,Marion County,69,57,1,   ,0
 2003-01-31,Trinity (Whitesville),Hancock County,58,45,2,  (championship) ,0
@@ -2442,9 +2442,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-01,Boone County,East Jessamine,72,64,0,   ,0
 2003-02-01,Bryan Station,Powell County,74,60,1,   ,0
 2003-02-01,Butler,DeSales,64,62,1,   ,0
-2003-02-01,Calloway County,Johnson City. IL,74,50,2,   ,0
+2003-02-01,Calloway County,Out of State,74,50,2,   ,0
 2003-02-01,Christian Academy-Louisville,Kentucky Country Day,57,54,1,   ,0
-2003-02-01,Dixie Heights,George Jr. Republic. PA,67,48,2,   ,0
+2003-02-01,Dixie Heights,Out of State,67,48,2,   ,0
 2003-02-01,DuPont Manual,Western,66,65,0,   ,0
 2003-02-01,Fairview,Elliott County,81,71,1,   ,0
 2003-02-01,Frankfort,Sayre,74,62,2,  (championship) ,0
@@ -2454,10 +2454,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-01,Hopkins County Central,Logan County,69,54,1,   ,0
 2003-02-01,Hopkinsville,Christian County,76,74,0,   ,0
 2003-02-01,Jeffersontown,Hart County,96,72,1,   ,0
-2003-02-01,Jeffersonville. IN,Ballard,73,60,1,   ,0
+2003-02-01,Out of State,Ballard,73,60,1,   ,0
 2003-02-01,Knox Central,Lynn Camp,91,56,1,   ,0
 2003-02-01,Lyon County,University Heights,67,58,2,  (overtime) (championship) ,1
-2003-02-01,Marshall County,New Madrid Central. MO,69,65,2,   ,0
+2003-02-01,Marshall County,Out of State,69,65,2,   ,0
 2003-02-01,Mayfield,Ballard Memorial,69,57,1,  (championship) ,0
 2003-02-01,Mercer County,Shelby Valley,72,69,2,   ,0
 2003-02-01,Moore,Seneca,52,47,1,   ,0
@@ -2469,18 +2469,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-01,Perry County Central,Breathitt County,57,42,1,   ,0
 2003-02-01,Rose Hill Christian,Harrison County,91,41,1,   ,0
 2003-02-01,Russell,Rowan County,48,47,1,   ,0
-2003-02-01,Ryle,Cincinnati Sycamore. OH,57,56,0,   ,0
+2003-02-01,Ryle,Out of State,57,56,0,   ,0
 2003-02-01,Shelby County,Lincoln County,47,35,1,   ,0
 2003-02-01,Somerset,Danville,51,49,1,  (championship) ,0
 2003-02-01,Southwestern,Casey County,59,31,0,   ,0
-2003-02-01,Spring Valley. WV,Lafayette,73,51,2,   ,0
+2003-02-01,Out of State,Lafayette,73,51,2,   ,0
 2003-02-01,St. Henry,Ludlow,63,34,2,  (championship) ,0
-2003-02-01,St. Louis Vershon. MO,Male,50,43,0,   ,0
+2003-02-01,Out of State,Male,50,43,0,   ,0
 2003-02-01,Wayne County,Bell County,85,68,1,   ,0
 2003-02-01,Webster County,Christian Fellowship,84,60,1,   ,0
 2003-02-01,West Jessamine,Scott County,81,69,0,   ,0
 2003-02-01,Williamsburg,Riverside Christian,96,41,1,   ,0
-2003-02-01,Williamson. WV,Belfry,61,56,0,   ,0
+2003-02-01,Out of State,Belfry,61,56,0,   ,0
 2003-02-02,North Hardin,Taylor County,62,37,0,   ,0
 2003-02-02,St. Xavier,Trinity (Louisville),73,67,1,  (overtime) ,1
 2003-02-03,Boyle County,Danville,80,48,1,   ,0
@@ -2523,7 +2523,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-04,Campbell County,Newport,79,70,1,   ,0
 2003-02-04,Campbellsville,Caverna,75,52,0,   ,0
 2003-02-04,Cawood,Harlan,49,47,0,   ,0
-2003-02-04,Clarksville Northeast. TN,Fort Campbell,72,31,1,   ,0
+2003-02-04,Out of State,Fort Campbell,72,31,1,   ,0
 2003-02-04,Clinton County,Monticello,85,61,1,   ,0
 2003-02-04,Cordia,June Buchanan,72,53,0,   ,0
 2003-02-04,Daviess County,Butler County,82,51,1,   ,0
@@ -2547,7 +2547,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-04,Holmes,Covington Catholic,72,68,0,   ,0
 2003-02-04,Holy Cross (Covington),Newport Central Catholic,57,44,1,   ,0
 2003-02-04,Hopkins County Central,Dawson Springs,80,46,0,   ,0
-2003-02-04,Ironton. OH,Raceland,34,32,1,   ,0
+2003-02-04,Out of State,Raceland,34,32,1,   ,0
 2003-02-04,Iroquois,Valley,68,62,0,   ,0
 2003-02-04,Jackson County,Bell County,48,47,0,   ,0
 2003-02-04,Jeffersontown,Trinity (Louisville),55,52,1,   ,0
@@ -2595,12 +2595,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-04,Western Hills,North Bullitt,63,58,1,   ,0
 2003-02-04,Whitefield Academy,Kentucky School f/t Deaf,79,32,0,   ,0
 2003-02-04,Whitesburg,Lee County,81,71,1,   ,0
-2003-02-04,Williamsburg,Jellico. TN,57,49,1,   ,0
+2003-02-04,Williamsburg,Out of State,57,49,1,   ,0
 2003-02-04,Bethlehem,Bullitt East,-,-,0,7:30 PM   ,0
 2003-02-04,Fulton City,Mayfield,-,-,0,7:30 PM   ,0
 2003-02-05,Bourbon County,St. Patrick,81,65,1,   ,0
 2003-02-05,Morgan County,Rowan County,89,51,1,   ,0
-2003-02-05,Raceland,Ironton St. Joe. OH,67,38,1,   ,0
+2003-02-05,Raceland,Out of State,67,38,1,   ,0
 2003-02-05,Villa Madonna,Covington Latin,92,20,1,   ,0
 2003-02-06,Atherton,Central,65,57,1,   ,0
 2003-02-06,Bellevue,Calvary Christian,51,41,1,   ,0
@@ -2613,16 +2613,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-06,Mayfield,Hazard,58,54,2,   ,0
 2003-02-06,McCreary Central,Brown,57,46,0,   ,0
 2003-02-06,Meade County,Whitefield Academy,76,60,2,  (rescheduled from 1/16) ,0
-2003-02-06,Monroe County,Holy Cross,61,52,2,   ,0
+2003-02-06,Monroe County,Holy Cross (Louisville),61,52,2,   ,0
 2003-02-06,Rose Hill Christian,Paintsville,77,65,2,   ,0
 2003-02-06,Silver Grove,Beechwood,69,59,0,   ,0
 2003-02-06,Somerset,Lyon County,55,47,2,   ,0
-2003-02-06,St. Henry,Trinity,63,41,2,   ,0
+2003-02-06,St. Henry,Trinity (Whitesville),63,41,2,   ,0
 2003-02-07,Allen Central,Betsy Layne,72,67,0,   ,0
 2003-02-07,Augusta,St. Patrick,55,46,1,   ,0
 2003-02-07,Ballard,St. Xavier,71,59,1,   ,0
 2003-02-07,Beechwood,Pendleton County,73,72,0,   ,0
-2003-02-07,Belfry,Matewan. WV,59,46,1,   ,0
+2003-02-07,Belfry,Out of State,59,46,1,   ,0
 2003-02-07,Beth Haven,Kentucky Country Day,56,46,1,   ,0
 2003-02-07,Bowling Green,Warren East,69,45,1,   ,0
 2003-02-07,Boyd County,East Carter,56,54,1,   ,0
@@ -2635,8 +2635,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-07,Central,Shawnee,66,60,0,   ,0
 2003-02-07,Clay County,Bell County,56,45,1,   ,0
 2003-02-07,Covington Catholic,Scott,83,71,0,   ,0
-2003-02-07,Crittenden County,Hardin County. IL,60,45,0,   ,0
-2003-02-07,Dayton Belmont. OH,Brown,100,36,0,   ,0
+2003-02-07,Crittenden County,Out of State,60,45,0,   ,0
+2003-02-07,Out of State,Brown,100,36,0,   ,0
 2003-02-07,Dixie Heights,Lloyd Memorial,66,41,1,   ,0
 2003-02-07,Doss,Western,73,59,0,   ,0
 2003-02-07,East Jessamine,Sayre,52,35,0,   ,0
@@ -2651,16 +2651,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-07,Grayson County,Hart County,59,56,0,   ,0
 2003-02-07,Heath,Carlisle County,66,60,0,   ,0
 2003-02-07,Henderson County,Webster County,95,43,1,   ,0
-2003-02-07,Henryville.  IN,Portland Christian,60,53,0,   ,0
+2003-02-07,Out of State,Portland Christian,60,53,0,   ,0
 2003-02-07,Hickman County,Fulton City,61,60,0,   ,0
 2003-02-07,Highlands,Ryle,48,45,0,   ,0
-2003-02-07,Holmes,Campbell County,84,74,1,  (double overtime) ,0
+2003-02-07,Holmes,Campbell County,84,74,1,  (double overtime) ,1
 2003-02-07,Hopkinsville,Fort Campbell,96,34,0,   ,0
 2003-02-07,Iroquois,Southern,86,51,0,   ,0
 2003-02-07,Jackson City,June Buchanan,79,75,1,   ,0
 2003-02-07,John Hardin,Caverna,73,46,1,   ,0
 2003-02-07,Johnson Central,Pikeville,59,57,0,   ,0
-2003-02-07,Kentucky School f/t Deaf,School f/t Deaf. SC,61,57,1,   ,0
+2003-02-07,Kentucky School f/t Deaf,Out of State,61,57,1,   ,0
 2003-02-07,Knott County Central,Sheldon Clark,58,48,0,   ,0
 2003-02-07,Letcher,Jenkins,71,61,0,   ,0
 2003-02-07,Lincoln County,Danville,81,52,0,   ,0
@@ -2709,30 +2709,30 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-07,Kentucky Country Day,Bethlehem,-,-,0,7:30 PM   ,0
 2003-02-07,Somerset,Campbellsville,-,-,0,8:00 PM   ,0
 2003-02-07,Evangel Christian,Cloverport,-,-,2,7:30 PM   ,0
-2003-02-07,Obion Central. TN,Fulton County,-,-,0,6:00 PM   ,0
+2003-02-07,Out of State,Fulton County,-,-,0,6:00 PM   ,0
 2003-02-07,Henry County,Gallatin County,-,-,0,5:00 PM   ,0
-2003-02-07,Providence,New Harmony. IN,-,-,0,7:30 PM   ,0
+2003-02-07,Providence,Out of State,-,-,0,7:30 PM   ,0
 2003-02-08,Adair County,Central Hardin,89,58,1,   ,0
 2003-02-08,Allen Central,Buckhorn,100,47,1,   ,0
 2003-02-08,Apollo,Owensboro Catholic,95,69,1,   ,0
 2003-02-08,Ashland Blazer,Lawrence County,64,59,1,   ,0
-2003-02-08,Augusta,Clark Montessori. Cincinnati. OH,66,51,0,   ,0
+2003-02-08,Augusta,Out of State,66,51,0,   ,0
 2003-02-08,Barren County,Edmonson County,97,60,0,   ,0
 2003-02-08,Boyle County,Casey County,82,73,0,   ,0
 2003-02-08,Breathitt County,Evarts,99,71,1,   ,0
-2003-02-08,Calvary Christian,TBA,59,43,1,   ,0
+2003-02-08,Calvary Christian,Out of State,59,43,1,   ,0
 2003-02-08,Crittenden County,Trigg County,66,63,0,   ,0
 2003-02-08,Deming,Riverside Christian,75,31,1,   ,0
 2003-02-08,Eastern,West Jessamine,72,65,2,   ,0
 2003-02-08,Evangel Christian,Eminence,69,59,1,   ,0
-2003-02-08,Fairview,Green. OH,79,68,1,   ,0
+2003-02-08,Fairview,Out of State,79,68,1,   ,0
 2003-02-08,Henry Clay,Fern Creek,80,43,2,   ,0
 2003-02-08,Highlands,George Rogers Clark,60,49,2,   ,0
 2003-02-08,Holy Cross (Covington),Jackson County,76,55,1,   ,0
 2003-02-08,Hopkinsville,Allen County-Scottsville,70,53,0,   ,0
-2003-02-08,Ironton. OH,Boyd County,59,50,0,   ,0
-2003-02-08,Jenkins,Pound. VA,64,56,1,   ,0
-2003-02-08,Kentucky School f/t Deaf,School f/t Deaf. NC,70,61,1,   ,0
+2003-02-08,Out of State,Boyd County,59,50,0,   ,0
+2003-02-08,Jenkins,Out of State,64,56,1,   ,0
+2003-02-08,Kentucky School f/t Deaf,Out of State,70,61,1,   ,0
 2003-02-08,Lexington Catholic,Male,66,53,2,   ,0
 2003-02-08,Lexington Christian,Sheldon Clark,70,60,2,   ,0
 2003-02-08,Livingston Central,Providence,73,58,1,   ,0
@@ -2754,7 +2754,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-08,Walton-Verona,Trimble County,75,69,0,   ,0
 2003-02-08,West Carter,Bryan Station,66,61,0,   ,0
 2003-02-08,Williamsburg,Berea,68,47,1,   ,0
-2003-02-08,Cloverport,Restoration Christian. IN,-,-,0,5:00 PM   ,0
+2003-02-08,Cloverport,Out of State,-,-,0,5:00 PM   ,0
 2003-02-09,St. Henry,Rose Hill Christian,81,62,2,  (championship) ,0
 2003-02-10,Beechwood,Heritage Academy,61,39,0,   ,0
 2003-02-10,Bourbon County,Paris,82,69,0,   ,0
@@ -2762,7 +2762,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-10,Corbin,Bell County,67,55,0,   ,0
 2003-02-10,Eminence,St. Francis,78,60,1,   ,0
 2003-02-10,Graves County,Marshall County,53,52,1,   ,0
-2003-02-10,Jenkins,Ervington. VA,81,47,0,   ,0
+2003-02-10,Jenkins,Out of State,81,47,0,   ,0
 2003-02-10,Lafayette,Tates Creek,56,47,1,   ,0
 2003-02-10,Muhlenberg North,Owensboro,61,46,0,   ,0
 2003-02-10,Nelson County,Green County,67,58,0,   ,0
@@ -2791,7 +2791,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-11,Carroll County,Gallatin County,54,52,0,   ,0
 2003-02-11,Cawood,Lynn Camp,83,55,0,   ,0
 2003-02-11,Central Hardin,Fort Knox,52,50,0,   ,0
-2003-02-11,Clarksville Rossview. TN,Christian County,62,57,0,   ,0
+2003-02-11,Out of State,Christian County,62,57,0,   ,0
 2003-02-11,Clay County,Oneida Baptist Institute,69,58,1,   ,0
 2003-02-11,Corbin,Williamsburg,84,47,1,   ,0
 2003-02-11,Cumberland,Barbourville,50,46,1,   ,0
@@ -2840,7 +2840,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-11,Owsley County,Powell County,61,54,1,   ,0
 2003-02-11,Paintsville,Johnson Central,49,37,0,   ,0
 2003-02-11,Perry County Central,Hazard,71,43,0,   ,0
-2003-02-11,Pickett County. TN,Clinton County,97,72,1,   ,0
+2003-02-11,Out of State,Clinton County,97,72,1,   ,0
 2003-02-11,Pulaski County,McCreary Central,65,52,0,   ,0
 2003-02-11,Reidland,Christian Fellowship,67,63,0,   ,0
 2003-02-11,Rockcastle County,Jackson County,97,67,0,   ,0
@@ -2876,26 +2876,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-12,Butler,Bullitt Central,83,55,1,   ,0
 2003-02-12,Harrison County,Paris,47,45,0,   ,0
 2003-02-12,Louisville Collegiate,St. Francis,52,48,0,   ,0
-2003-02-12,Male,,61,60,1,   ,0
+2003-02-12,Male,Out of State,61,60,1,   ,0
 2003-02-12,Mason County,Bishop Brossart,58,54,1,   ,0
-2003-02-12,Newport,Cincinnati Jacobs. OH,80,57,1,   ,0
+2003-02-12,Newport,Out of State,80,57,1,   ,0
 2003-02-12,Raceland,Fairview,62,42,1,   ,0
 2003-02-12,Scott,Campbell County,73,64,0,   ,0
 2003-02-12,Shawnee,DuPont Manual,74,59,0,   ,0
 2003-02-12,Silver Grove,Deming,81,77,0,   ,0
-2003-02-12,St. Xavier,Jeffersonville. IN,64,61,1,   ,0
+2003-02-12,St. Xavier,Out of State,64,61,1,   ,0
 2003-02-12,Trinity (Louisville),Shelby County,75,60,0,   ,0
 2003-02-12,Walton-Verona,Dayton,66,55,1,   ,0
 2003-02-12,Wolfe County,Lee County,59,45,1,   ,0
 2003-02-13,Apollo,Muhlenberg North,76,74,0,   ,0
-2003-02-13,Ashland Blazer,Portsmouth. OH,65,64,2,  (overtime) ,1
-2003-02-13,Beth Haven,Restoration Christian. IN,73,69,1,   ,0
+2003-02-13,Ashland Blazer,Out of State,65,64,2,  (overtime) ,1
+2003-02-13,Beth Haven,Out of State,73,69,1,   ,0
 2003-02-13,Brown,Walden,50,49,1,   ,0
 2003-02-13,Cawood,Evarts,82,76,0,   ,0
 2003-02-13,Christian Academy-Louisville,Heritage Academy,108,61,2,   ,0
 2003-02-13,Clinton County,Metcalfe County,75,60,1,   ,0
 2003-02-13,Estill County,Model,77,47,1,   ,0
-2003-02-13,Fulton County,Lake County. TN,68,31,0,   ,0
+2003-02-13,Fulton County,Out of State,68,31,0,   ,0
 2003-02-13,Harlan,Pineville,58,45,0,   ,0
 2003-02-13,Hazard,Letcher,67,59,0,   ,0
 2003-02-13,Hopkinsville,Crittenden County,83,54,0,   ,0
@@ -2915,15 +2915,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-13,Warren East,Allen County-Scottsville,52,51,1,   ,0
 2003-02-13,West Jessamine,East Jessamine,85,66,1,   ,0
 2003-02-13,Williamstown,Owen County,62,49,0,   ,0
-2003-02-13,Covington Latin,Christian Center,-,-,0,7:30 PM   ,0
+2003-02-13,Covington Latin,Out of State,-,-,0,7:30 PM   ,0
 2003-02-14,Adair County,Clinton County,81,49,1,   ,0
 2003-02-14,Anderson County,Woodford County,61,59,0,   ,0
 2003-02-14,Apollo,Hancock County,94,59,1,   ,0
 2003-02-14,Ashland Blazer,Greenup County,67,55,1,   ,0
 2003-02-14,Atherton,Eastern,62,56,1,   ,0
-2003-02-14,Augusta,Bracken County,64,61,1,  (double overtime) ,0
+2003-02-14,Augusta,Bracken County,64,61,1,  (double overtime) ,1
 2003-02-14,Ballard,Trinity (Louisville),70,59,0,   ,0
-2003-02-14,Barbourville,Jellico. TN,71,52,0,   ,0
+2003-02-14,Barbourville,Out of State,71,52,0,   ,0
 2003-02-14,Barren County,Warren East,79,56,1,   ,0
 2003-02-14,Bellevue,Beechwood,63,49,1,   ,0
 2003-02-14,Betsy Layne,Belfry,84,66,1,   ,0
@@ -2938,13 +2938,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-14,Casey County,Caverna,46,39,1,   ,0
 2003-02-14,Central Hardin,Bardstown,71,58,1,   ,0
 2003-02-14,Christian Academy-Louisville,Beth Haven,77,55,0,   ,0
-2003-02-14,Christian Fellowship,Community Christian (Paducah),62,52,1,   ,0
+2003-02-14,Christian Fellowship,Out of State,62,52,1,   ,0
 2003-02-14,Corbin,Cumberland,72,42,1,   ,0
 2003-02-14,Covington Catholic,Lloyd Memorial,85,49,1,   ,0
 2003-02-14,Crittenden County,Fort Campbell,65,48,1,   ,0
 2003-02-14,Cumberland County,Allen County-Scottsville,44,41,1,   ,0
 2003-02-14,Daviess County,Owensboro Catholic,58,44,1,   ,0
-2003-02-14,Dawson Springs,Livingston Central,72,68,1,  (double overtime) ,0
+2003-02-14,Dawson Springs,Livingston Central,72,68,1,  (double overtime) ,1
 2003-02-14,DeSales,Western,72,63,0,   ,0
 2003-02-14,Dixie Heights,Holy Cross (Covington),72,46,0,   ,0
 2003-02-14,Doss,Valley,84,54,1,   ,0
@@ -2960,7 +2960,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-14,Glasgow,Bowling Green,52,49,1,   ,0
 2003-02-14,Grant County,Owen County,61,46,0,   ,0
 2003-02-14,Green County,LaRue County,60,51,1,   ,0
-2003-02-14,Hamlin Guyan Valley. WV,Phelps,66,62,0,   ,0
+2003-02-14,Out of State,Phelps,66,62,0,   ,0
 2003-02-14,Harrison County,Nicholas County,66,41,1,   ,0
 2003-02-14,Heath,Lone Oak,45,37,1,   ,0
 2003-02-14,Henderson County,Franklin-Simpson,64,61,0,   ,0
@@ -2969,7 +2969,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-14,Highlands,Newport,65,35,1,   ,0
 2003-02-14,Holmes,Scott,79,37,0,   ,0
 2003-02-14,Hopkins County Central,Webster County,80,61,1,   ,0
-2003-02-14,Ironton. OH,Lawrence County,71,41,1,   ,0
+2003-02-14,Out of State,Lawrence County,71,41,1,   ,0
 2003-02-14,Iroquois,Butler,86,58,0,   ,0
 2003-02-14,Jackson City,Fleming-Neon,76,68,1,   ,0
 2003-02-14,Jeffersontown,Waggener,59,47,0,   ,0
@@ -2984,7 +2984,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-14,Lyon County,Union County,74,69,0,   ,0
 2003-02-14,Madison Central,Somerset,66,49,1,   ,0
 2003-02-14,Madison Southern,Lewis County,71,47,1,   ,0
-2003-02-14,Madisonville-North Hopkins,Evansville North. IN,69,67,1,  (overtime) ,1
+2003-02-14,Madisonville-North Hopkins,Out of State,69,67,1,  (overtime) ,1
 2003-02-14,Marshall County,Murray,65,51,1,   ,0
 2003-02-14,Mason County,George Rogers Clark,68,66,0,   ,0
 2003-02-14,McCreary Central,Lynn Camp,78,52,1,   ,0
@@ -3003,10 +3003,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-14,Perry County Central,Whitesburg,73,44,1,   ,0
 2003-02-14,Pleasure Ridge Park,Shawnee,109,60,0,   ,0
 2003-02-14,Portland Christian,Evangel Christian,66,60,2,   ,0
-2003-02-14,Powell Valley. TN,Pineville,56,47,0,   ,0
+2003-02-14,Out of State,Pineville,56,47,0,   ,0
 2003-02-14,Raceland,Elliott County,67,65,0,  (overtime) ,1
 2003-02-14,Red Bird,Riverside Christian,85,42,1,   ,0
-2003-02-14,Rose Hill Christian,Tug Valley. WV,78,58,2,   ,0
+2003-02-14,Rose Hill Christian,Out of State,78,58,2,   ,0
 2003-02-14,Russell,Boyd County,45,44,1,   ,0
 2003-02-14,Russellville,Edmonson County,75,51,0,   ,0
 2003-02-14,Ryle,Conner,68,38,1,   ,0
@@ -3021,7 +3021,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-14,St. Xavier,Male,73,70,0,  (overtime) ,1
 2003-02-14,Tates Creek,Bryan Station,71,54,0,   ,0
 2003-02-14,Taylor County,Marion County,69,47,0,   ,0
-2003-02-14,Todd County Central,Greenbriar. TN,71,55,1,   ,0
+2003-02-14,Todd County Central,Out of State,71,55,1,   ,0
 2003-02-14,Warren Central,Greenwood,75,48,1,   ,0
 2003-02-14,Washington County,Harrodsburg,76,59,1,   ,0
 2003-02-14,Wayne County,Johnson Central,68,67,2,   ,0
@@ -3038,9 +3038,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-15,Bullitt Central,Spencer County,67,43,0,   ,0
 2003-02-15,Calvary Christian,Villa Madonna,2,0,1,  forfeit ,0
 2003-02-15,Casey County,Cumberland County,56,50,0,   ,0
-2003-02-15,Chattanooga Tyner Academy. TN,Knox Central,78,71,0,   ,0
+2003-02-15,Out of State,Knox Central,78,71,0,   ,0
 2003-02-15,Christian Academy-Louisville,Portland Christian,79,48,1,   ,0
-2003-02-15,Christian Fellowship,Eastwood Christian,66,60,1,   ,0
+2003-02-15,Christian Fellowship,Out of State,66,60,1,   ,0
 2003-02-15,East Carter,Bryan Station,66,60,0,   ,0
 2003-02-15,East Jessamine,Paris,82,60,2,   ,0
 2003-02-15,East Ridge,Pikeville,70,54,0,   ,0
@@ -3051,13 +3051,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-15,Hazard,Wolfe County,70,60,1,   ,0
 2003-02-15,Hopkins County Central,Lone Oak,78,64,0,   ,0
 2003-02-15,Hopkinsville,University Heights,71,59,1,   ,0
-2003-02-15,Ironton. OH,Fairview,68,52,0,   ,0
+2003-02-15,Out of State,Fairview,68,52,0,   ,0
 2003-02-15,Jackson County,Clay County,69,58,1,   ,0
 2003-02-15,Kentucky Country Day,Eminence,58,47,1,   ,0
 2003-02-15,Knott County Central,Prestonsburg,66,59,1,   ,0
 2003-02-15,Leslie County,Buckhorn,96,44,1,   ,0
 2003-02-15,Madisonville-North Hopkins,Russellville,69,68,0,   ,0
-2003-02-15,Male,,72,64,1,   ,0
+2003-02-15,Male,Out of State,72,64,1,   ,0
 2003-02-15,Morgan County,Fleming County,68,38,0,   ,0
 2003-02-15,Newport Central Catholic,St. Patrick,57,41,0,   ,0
 2003-02-15,North Hardin,Doss,68,51,1,   ,0
@@ -3065,20 +3065,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-15,Owensboro Catholic,Butler County,72,51,1,   ,0
 2003-02-15,Powell County,Harrison County,63,56,2,  (overtime) ,1
 2003-02-15,Pulaski County,Breathitt County,67,61,1,   ,0
-2003-02-15,Raceland,South Gallia.OH,1,0,0,  (forfeit) ,0
+2003-02-15,Raceland,Out of State,1,0,0,  (forfeit) ,0
 2003-02-15,Scott County,North Laurel,80,64,1,   ,0
 2003-02-15,Southwestern,Taylor County,51,46,2,   ,0
 2003-02-15,St. Henry,Holy Cross (Covington),67,54,0,   ,0
-2003-02-15,Tug Valley. WV,Johnson Central,88,84,2,   ,0
+2003-02-15,Out of State,Johnson Central,88,84,2,   ,0
 2003-02-15,Wayne County,Rose Hill Christian,86,74,2,   ,0
 2003-02-15,Williamstown,Trimble County,90,58,1,   ,0
 2003-02-15,Woodford County,Bourbon County,103,87,2,   ,0
 2003-02-15,Covington Latin,Deming,-,-,0,6:00 PM   ,0
-2003-02-15,June Buchanan,TBA,-,-,2,   ,0
-2003-02-15,Magoffin County,TBA,-,-,2,   ,0
+2003-02-15,June Buchanan,Out of State,-,-,2,   ,0
+2003-02-15,Magoffin County,Out of State,-,-,2,   ,0
 2003-02-15,South Oldham,Ludlow,-,-,0,2:30 PM   ,0
 2003-02-15,West Carter,Rockcastle County,-,-,0,7:30 PM  (canceled) ,0
-2003-02-15,St. Francis,St. Louis Crossroads. MO,-,-,0,7:00 PM   ,0
+2003-02-15,St. Francis,Out of State,-,-,0,7:00 PM   ,0
 2003-02-16,DeSales,Holy Cross (Louisville),62,48,1,   ,0
 2003-02-17,Adair County,Cumberland County,76,55,0,   ,0
 2003-02-17,Barbourville,Monticello,56,51,1,   ,0
@@ -3136,7 +3136,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-18,Lexington Catholic,West Jessamine,68,64,0,   ,0
 2003-02-18,Lincoln County,Southwestern,63,60,1,   ,0
 2003-02-18,Lone Oak,Ballard Memorial,66,49,0,   ,0
-2003-02-18,Louisville Collegiate,Restoration Christian. IN,62,57,0,   ,0
+2003-02-18,Louisville Collegiate,Out of State,62,57,0,   ,0
 2003-02-18,Ludlow,Heritage Academy,105,19,0,   ,0
 2003-02-18,Marion County,Bardstown,58,56,0,   ,0
 2003-02-18,McCreary Central,Williamsburg,72,55,1,   ,0
@@ -3153,7 +3153,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-18,Perry County Central,Wolfe County,68,42,0,   ,0
 2003-02-18,Pike County Central,Johnson Central,84,78,1,   ,0
 2003-02-18,Pikeville,Magoffin County,69,45,0,   ,0
-2003-02-18,Pineville,J. Frank White Academy. TN,57,40,1,   ,0
+2003-02-18,Pineville,Out of State,57,40,1,   ,0
 2003-02-18,Pleasure Ridge Park,Seneca,63,52,0,   ,0
 2003-02-18,Prestonsburg,Phelps,72,65,1,   ,0
 2003-02-18,Pulaski County,Russell County,66,50,0,   ,0
@@ -3161,7 +3161,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-18,Reidland,Livingston Central,53,47,0,   ,0
 2003-02-18,Rockcastle County,Barbourville,82,70,0,   ,0
 2003-02-18,Russell,West Carter,68,58,1,   ,0
-2003-02-18,Russellville,Caverna,62,58,1,  (2 overtimes) ,0
+2003-02-18,Russellville,Caverna,62,58,1,  (2 overtimes) ,1
 2003-02-18,Ryle,Dixie Heights,42,39,1,   ,0
 2003-02-18,Scott,Newport,89,78,1,   ,0
 2003-02-18,Shawnee,Atherton,50,45,1,   ,0
@@ -3193,7 +3193,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-19,DuPont Manual,Brown,84,34,0,   ,0
 2003-02-19,Eminence,Owen County,65,40,1,   ,0
 2003-02-19,Moore,Trinity (Louisville),49,42,1,   ,0
-2003-02-19,Newport,Hillcrest. OH,70,33,1,   ,0
+2003-02-19,Newport,Out of State,70,33,1,   ,0
 2003-02-19,Powell County,Prestonsburg,79,71,0,   ,0
 2003-02-20,Bullitt East,Valley,95,79,2,   ,0
 2003-02-20,Calloway County,Hickman County,66,41,1,   ,0
@@ -3201,17 +3201,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-20,East Carter,Boyd County,71,53,1,   ,0
 2003-02-20,East Jessamine,Boyle County,86,72,1,   ,0
 2003-02-20,Fern Creek,Bullitt Central,61,59,1,  (overtime) ,1
-2003-02-20,Hopkins County Central,Evansville Day. IN,79,59,0,   ,0
-2003-02-20,Jenkins,Ervington. VA,89,54,1,   ,0
+2003-02-20,Hopkins County Central,Out of State,79,59,0,   ,0
+2003-02-20,Jenkins,Out of State,89,54,1,   ,0
 2003-02-20,Lyon County,Dawson Springs,54,43,1,   ,0
 2003-02-20,Marion County,Nelson County,60,51,1,   ,0
-2003-02-20,Powell Valley. TN,Pineville,76,41,1,   ,0
+2003-02-20,Out of State,Pineville,76,41,1,   ,0
 2003-02-20,Rowan County,Lewis County,65,53,1,   ,0
 2003-02-20,Shawnee,Louisville Collegiate,77,49,0,   ,0
 2003-02-20,Trigg County,Providence,73,56,1,   ,0
 2003-02-20,Trimble County,Carroll County,51,49,1,   ,0
 2003-02-20,Union County,Caldwell County,71,60,1,   ,0
-2003-02-20,Cloverport,Cannelton. IN,-,-,0,6:30 PM   ,0
+2003-02-20,Cloverport,Out of State,-,-,0,6:30 PM   ,0
 2003-02-21,Adair County,Russell County,79,75,0,   ,0
 2003-02-21,Ashland Blazer,Pikeville,68,55,0,   ,0
 2003-02-21,Ballard,Waggener,75,49,1,   ,0
@@ -3221,7 +3221,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-21,Bellevue,Villa Madonna,57,35,1,   ,0
 2003-02-21,Bethlehem,Green County,84,55,0,   ,0
 2003-02-21,Bowling Green,Edmonson County,100,46,1,   ,0
-2003-02-21,Boyd County,Hamlin Guyan Valley. WV,108,70,1,   ,0
+2003-02-21,Boyd County,Out of State,108,70,1,   ,0
 2003-02-21,Bullitt Central,Gallatin County,69,61,1,   ,0
 2003-02-21,Butler,Fairdale,63,39,0,   ,0
 2003-02-21,Calvary Christian,Heritage Academy,82,65,1,   ,0
@@ -3240,7 +3240,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-21,East Carter,Fairview,75,56,1,   ,0
 2003-02-21,East Ridge,Belfry,78,47,0,   ,0
 2003-02-21,Eastern,Fern Creek,57,56,1,   ,0
-2003-02-21,Evansville Harrison. IN,Henderson County,64,47,1,   ,0
+2003-02-21,Out of State,Henderson County,64,47,1,   ,0
 2003-02-21,Evarts,Jenkins,80,73,0,   ,0
 2003-02-21,Franklin County,Bourbon County,66,57,1,   ,0
 2003-02-21,Franklin-Simpson,Allen County-Scottsville,64,60,0,   ,0
@@ -3317,7 +3317,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-21,Wayne County,Garrard County,89,78,0,   ,0
 2003-02-21,Whitesburg,Cordia,92,82,0,   ,0
 2003-02-21,Williamsburg,Oneida Baptist Institute,73,68,0,  (overtime) ,1
-2003-02-21,Williamson. WV,Sheldon Clark,38,37,0,   ,0
+2003-02-21,Out of State,Sheldon Clark,38,37,0,   ,0
 2003-02-21,Williamstown,Eminence,75,71,0,   ,0
 2003-02-21,Wolfe County,Fleming-Neon,78,58,1,   ,0
 2003-02-21,Woodford County,Harrodsburg,81,56,1,   ,0
@@ -3326,7 +3326,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-22,Anderson County,Western Hills,50,47,0,   ,0
 2003-02-22,Apollo,McLean County,72,43,1,   ,0
 2003-02-22,Augusta,Fairview,68,60,0,   ,0
-2003-02-22,Ballard,Floyd Central (Floyds Knobs). IN,91,70,0,   ,0
+2003-02-22,Ballard,Out of State,91,70,0,   ,0
 2003-02-22,Bath County,Paris,64,60,1,   ,0
 2003-02-22,Beth Haven,Whitefield Academy,56,55,1,   ,0
 2003-02-22,Bishop Brossart,Newport Central Catholic,41,25,1,   ,0
@@ -3346,7 +3346,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-22,Hazard,Knott County Central,68,60,1,   ,0
 2003-02-22,Highlands,Rose Hill Christian,70,48,2,   ,0
 2003-02-22,Hopkinsville,Christian County,89,62,1,   ,0
-2003-02-22,Iroquois,Shelby County,85,81,0,  (double overtime) ,0
+2003-02-22,Iroquois,Shelby County,85,81,0,  (double overtime) ,1
 2003-02-22,John Hardin,Nelson County,64,59,1,   ,0
 2003-02-22,Letcher,Wolfe County,75,68,1,   ,0
 2003-02-22,Madisonville-North Hopkins,Webster County,72,65,0,   ,0
@@ -3384,14 +3384,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-24,Knott County Central,Buckhorn,79,27,1,   ,0
 2003-02-24,Leslie County,Fleming-Neon,82,55,0,   ,0
 2003-02-24,Lyon County,Fort Campbell,83,49,0,   ,0
-2003-02-24,McLean County,Cannelton. IN,59,40,1,   ,0
+2003-02-24,McLean County,Out of State,59,40,1,   ,0
 2003-02-24,Menifee County,Lewis County,61,60,1,   ,0
 2003-02-24,Muhlenberg South,Christian Fellowship,68,54,1,   ,0
 2003-02-24,Paris,Kentucky School f/t Deaf,67,39,0,   ,0
 2003-02-24,Paul Laurence Dunbar,Bryan Station,72,50,0,   ,0
 2003-02-24,Red Bird,Oneida Baptist Institute,60,48,1,   ,0
 2003-02-24,Shawnee,Whitefield Academy,94,51,2,   ,0
-2003-02-24,Shelby Valley,Mt. Mission. VA,81,64,1,   ,0
+2003-02-24,Shelby Valley,Out of State,81,64,1,   ,0
 2003-02-24,South Oldham,Bardstown,76,55,1,   ,0
 2003-02-24,Taylor County,Woodford County,92,88,1,   ,0
 2003-02-24,Trigg County,Logan County,71,63,0,   ,0
@@ -3410,7 +3410,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-25,Boyd County,Bath County,78,50,1,   ,0
 2003-02-25,Bracken County,Deming,83,66,0,   ,0
 2003-02-25,Bullitt East,Doss,79,75,1,   ,0
-2003-02-25,Calloway County,Eastwood Christian,77,30,1,   ,0
+2003-02-25,Calloway County,Out of State,77,30,1,   ,0
 2003-02-25,Campbellsville,Green County,69,66,1,   ,0
 2003-02-25,Christian Academy-Louisville,Portland Christian,73,43,1,   ,0
 2003-02-25,Conner,Covington Catholic,72,69,0,   ,0
@@ -3423,7 +3423,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-25,Elliott County,Russell,65,61,0,   ,0
 2003-02-25,Eminence,Louisville Collegiate,47,43,0,   ,0
 2003-02-25,Estill County,Lexington Catholic,2,0,1,  (forfeit) ,0
-2003-02-25,Evansville Harrison. IN,Owensboro,68,53,0,   ,0
+2003-02-25,Out of State,Owensboro,68,53,0,   ,0
 2003-02-25,Fairdale,South Oldham,69,46,0,   ,0
 2003-02-25,Fern Creek,North Bullitt,69,39,1,   ,0
 2003-02-25,Fleming County,Silver Grove,66,49,1,   ,0
@@ -3479,7 +3479,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-25,St. Patrick,Lewis County,58,55,1,   ,0
 2003-02-25,Tates Creek,Scott County,69,58,1,   ,0
 2003-02-25,Trinity (Louisville),Holy Cross (Louisville),81,54,1,   ,0
-2003-02-25,Trinity (Whitesville),Evansville Day School. IN,52,33,1,   ,0
+2003-02-25,Trinity (Whitesville),Out of State,52,33,1,   ,0
 2003-02-25,Valley,Waggener,67,39,0,   ,0
 2003-02-25,Washington County,Spencer County,61,48,1,   ,0
 2003-02-25,Western Hills,Berea,66,44,0,   ,0
@@ -3487,7 +3487,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-25,Warren Central,Allen County-Scottsville,-,-,0,7:30 PM   ,0
 2003-02-25,Mayfield,Carlisle County,-,-,0,8:00 PM   ,0
 2003-02-25,Middlesboro,Clay County,-,-,0,7:30 PM   ,0
-2003-02-25,,Eastern,-,-,0,7:30 PM   ,0
+2003-02-25,Out of State,Eastern,-,-,0,7:30 PM   ,0
 2003-02-25,Lone Oak,Hickman County,-,-,0,8:00 PM   ,0
 2003-02-25,Southwestern,Knox Central,-,-,0,7:30 PM   ,0
 2003-02-25,Russell County,Lincoln County,-,-,0,7:30 PM   ,0
@@ -3495,7 +3495,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-25,Barren County,Metcalfe County,-,-,0,7:30 PM   ,0
 2003-02-25,Caldwell County,Webster County,-,-,0,6:00 PM   ,0
 2003-02-26,Beechwood,Walton-Verona,62,60,0,   ,0
-2003-02-26,Evansville Mater Dei. IN,Madisonville-North Hopkins,73,39,0,   ,0
+2003-02-26,Out of State,Madisonville-North Hopkins,73,39,0,   ,0
 2003-02-26,Ludlow,Pendleton County,70,61,1,   ,0
 2003-02-26,Morgan County,Greenup County,55,46,0,   ,0
 2003-02-26,North Laurel,Garrard County,99,75,1,   ,0
@@ -3545,7 +3545,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-27,Augusta,Dayton,-,-,0,7:30 PM   ,0
 2003-02-27,Fulton County,Heath,-,-,0,6:00 PM   ,0
 2003-02-27,North Bullitt,Whitefield Academy,-,-,2,7:30 PM   ,0
-2003-02-28,,Trinity,58,55,2,  (double overtime) ,0
+2003-02-28,Out of State,Trinity (Louisville),58,55,2,  (double overtime) ,1
 2003-02-28,Adair County,Hart County,84,68,1,   ,0
 2003-02-28,Anderson County,Franklin County,60,49,0,   ,0
 2003-02-28,Apollo,Hopkins County Central,94,76,1,   ,0
@@ -3575,7 +3575,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-28,DeSales,Fairdale,60,51,0,   ,0
 2003-02-28,Dixie Heights,Conner,73,69,1,   ,0
 2003-02-28,DuPont Manual,Moore,53,47,0,   ,0
-2003-02-28,East Carter,Silver Grove,75,74,0,  (double overtime) ,0
+2003-02-28,East Carter,Silver Grove,75,74,0,  (double overtime) ,1
 2003-02-28,East Jessamine,Garrard County,60,52,0,   ,0
 2003-02-28,Elizabethtown,Paul Laurence Dunbar,78,63,2,   ,0
 2003-02-28,Elliott County,Lawrence County,58,57,0,   ,0
@@ -3595,7 +3595,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-28,LaRue County,Marion County,40,37,0,   ,0
 2003-02-28,Lewis County,Bath County,77,56,1,   ,0
 2003-02-28,Lexington Catholic,South Floyd,101,61,1,   ,0
-2003-02-28,Lexington Christian,Christian Academy-Louisville,87,80,1,  (triple overtime) ,0
+2003-02-28,Lexington Christian,Christian Academy-Louisville,87,80,1,  (triple overtime) ,1
 2003-02-28,Lone Oak,Graves County,63,59,0,   ,0
 2003-02-28,Male,Eastern,75,66,1,   ,0
 2003-02-28,Marshall County,Providence,88,44,1,   ,0
@@ -3631,7 +3631,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-02-28,St. Henry,Holmes,78,52,0,   ,0
 2003-02-28,Taylor County,Fort Knox,60,41,1,   ,0
 2003-02-28,Trinity (Whitesville),McLean County,66,53,0,   ,0
-2003-02-28,University Heights,Union County,75,66,1,  (double overtime) ,0
+2003-02-28,University Heights,Union County,75,66,1,  (double overtime) ,1
 2003-02-28,Valley,Shawnee,61,58,1,   ,0
 2003-02-28,Walton-Verona,Carroll County,66,53,0,  (overtime) ,1
 2003-02-28,Warren Central,Bryan Station,79,60,1,   ,0
@@ -3712,7 +3712,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-03-04,Campbellsville,Adair County,63,61,2,  20th District (overtime) ,1
 2003-03-04,Taylor County,Marion County,63,60,0,  20th District (overtime) ,1
 2003-03-04,Central,Portland Christian,72,33,1,  21st District  ,0
-2003-03-04,Pleasure Ridge Park,Holy Cross,100,60,2,  22nd District  ,0
+2003-03-04,Pleasure Ridge Park,Holy Cross (Louisville),100,60,2,  22nd District  ,0
 2003-03-04,DeSales,Southern,54,31,0,  24th District  ,0
 2003-03-04,Iroquois,Evangel Christian,76,44,2,  24th District  ,0
 2003-03-04,Male,DuPont Manual,41,40,2,  25th District  ,0
@@ -3863,7 +3863,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-03-10,Christian County,Madisonville-North Hopkins,59,53,2,  2nd Region  ,0
 2003-03-10,Henderson County,Crittenden County,69,35,2,  2nd Region  ,0
 2003-03-10,Butler County,Ohio County,56,55,2,  3rd Region  ,0
-2003-03-10,Daviess County,Trinity,78,45,2,  3rd Region  ,0
+2003-03-10,Daviess County,Trinity (Whitesville),78,45,2,  3rd Region  ,0
 2003-03-10,Franklin-Simpson,Monroe County,96,95,2,  4th Region (overtime) ,1
 2003-03-10,Warren Central,Glasgow,76,66,2,  4th Region  ,0
 2003-03-10,Caverna,Nelson County,66,56,2,  5th Region  ,0
@@ -3877,7 +3877,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-03-10,McCreary Central,Boyle County,62,58,2,  12th Region  ,0
 2003-03-10,North Laurel,Harrodsburg,87,52,2,  12th Region  ,0
 2003-03-10,Bell County,Clay County,43,42,2,  13th Region  ,0
-2003-03-10,Cumberland,Barbourville,76,69,2,  13th Region (double overtime) ,0
+2003-03-10,Cumberland,Barbourville,76,69,2,  13th Region (double overtime) ,1
 2003-03-10,Perry County Central,Owsley County,80,50,2,  14th Region  ,0
 2003-03-10,Whitesburg,Cordia,88,73,2,  14th Region  ,0
 2003-03-10,Johnson Central,South Floyd,98,82,0,  15th Region  ,0
@@ -3927,7 +3927,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2003-03-13,DeSales,Central,57,52,2,  6th Region  ,0
 2003-03-13,Iroquois,Pleasure Ridge Park,67,65,2,  6th Region  ,0
 2003-03-13,Ballard,Fern Creek,70,54,2,  7th Region  ,0
-2003-03-13,Male,Eastern,83,82,2,  7th Region (triple overtime) ,0
+2003-03-13,Male,Eastern,83,82,2,  7th Region (triple overtime) ,1
 2003-03-14,Calloway County,Heath,59,53,2,  1st Region  ,0
 2003-03-14,Mayfield,Carlisle County,69,65,2,  1st Region  ,0
 2003-03-14,Henderson County,Christian County,53,42,2,  2nd Region  ,0

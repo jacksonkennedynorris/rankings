@@ -5,7 +5,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-20,Berea,Caverna,27,7,1,   ,0
 1999-08-20,Bethlehem,Casey County,14,6,0,   ,0
 1999-08-20,Campbellsville,Lynn Camp,30,0,1,   ,0
-1999-08-20,Crittenden County,Murray,12,9,2,  (Overtime) ,0
+1999-08-20,Crittenden County,Murray,12,9,2,  (Overtime) ,1
 1999-08-20,Doss,Iroquois,19,15,1,   ,0
 1999-08-20,DuPont Manual,Western,54,6,0,   ,0
 1999-08-20,Eminence,Trimble County,20,14,1,   ,0
@@ -43,7 +43,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-20,South Floyd,Evarts,14,8,1,   ,0
 1999-08-20,South Laurel,George Rogers Clark,60,30,0,   ,0
 1999-08-20,Taylor County,Hart County,55,6,0,   ,0
-1999-08-20,Trinity (Louisville),Franklin County. IN,10,6,0,   ,0
+1999-08-20,Trinity (Louisville),Out of State,10,6,0,   ,0
 1999-08-20,Union County,Apollo,33,16,1,   ,0
 1999-08-20,Webster County,Trigg County,56,35,1,   ,0
 1999-08-20,West Jessamine,Western Hills,34,14,2,   ,0
@@ -89,13 +89,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-27,Covington Catholic,Boone County,38,13,0,   ,0
 1999-08-27,Crittenden County,Heath,20,14,1,   ,0
 1999-08-27,Danville,Hazard,37,8,0,   ,0
-1999-08-27,Daviess County,Evansville Bosse. IN,54,26,1,   ,0
-1999-08-27,DeSales,Holy Cross,13,12,2,   ,0
+1999-08-27,Daviess County,Out of State,54,26,1,   ,0
+1999-08-27,DeSales,Holy Cross (Louisville),13,12,2,   ,0
 1999-08-27,Dixie Heights,Campbell County,21,0,1,   ,0
 1999-08-27,DuPont Manual,Iroquois,51,0,1,   ,0
 1999-08-27,Elkhorn City,Cumberland,44,38,1,   ,0
 1999-08-27,Estill County,Bath County,29,20,0,   ,0
-1999-08-27,Evansville North. IN,Henderson County,63,20,2,   ,0
+1999-08-27,Out of State,Henderson County,63,20,2,   ,0
 1999-08-27,Evarts,McCreary Central,6,0,1,   ,0
 1999-08-27,Fairdale,Southern,49,0,1,   ,0
 1999-08-27,Fleming County,Rowan County,19,14,1,   ,0
@@ -103,7 +103,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-27,Franklin-Simpson,Russellville,49,6,1,   ,0
 1999-08-27,Glasgow,Barren County,18,7,0,   ,0
 1999-08-27,Green County,Hart County,36,29,0,   ,0
-1999-08-27,Greenfield. TN,Fulton City,18,14,0,   ,0
+1999-08-27,Out of State,Fulton City,18,14,0,   ,0
 1999-08-27,Hancock County,Grayson County,42,0,1,   ,0
 1999-08-27,Harlan,Fleming-Neon,27,23,0,   ,0
 1999-08-27,Harrison County,George Rogers Clark,34,12,1,   ,0
@@ -111,16 +111,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-27,Henry Clay,Fern Creek,46,13,2,   ,0
 1999-08-27,Henry County,Atherton,14,6,0,   ,0
 1999-08-27,Holmes,Simon Kenton,29,7,1,   ,0
-1999-08-27,Holy Cross (Covington),Cincinnati Taft. OH,1,0,0,  (forfeit due to lack of players at Taft) ,0
+1999-08-27,Holy Cross (Covington),Out of State,1,0,0,  (forfeit due to lack of players at Taft) ,0
 1999-08-27,Hopkins County Central,Madisonville-North Hopkins,24,0,1,   ,0
-1999-08-27,Johnson Central,Tolsia. WV,39,16,0,   ,0
+1999-08-27,Johnson Central,Out of State,39,16,0,   ,0
 1999-08-27,LaRue County,Greenwood,27,22,1,   ,0
 1999-08-27,Lawrence County,Perry County Central,77,42,1,   ,0
 1999-08-27,Leslie County,Clay County,20,19,1,   ,0
-1999-08-27,Lewis County,Portsmouth. OH,22,12,0,   ,0
+1999-08-27,Lewis County,Out of State,22,12,0,   ,0
 1999-08-27,Lone Oak,Reidland,24,7,1,   ,0
 1999-08-27,Lynn Camp,Cawood,19,0,1,   ,0
-1999-08-27,Madeira. OH,Ludlow,21,6,0,   ,0
+1999-08-27,Out of State,Ludlow,21,6,0,   ,0
 1999-08-27,Male,Nelson County,69,29,0,   ,0
 1999-08-27,Mason County,East Carter,40,10,1,   ,0
 1999-08-27,Mayfield,Marshall County,14,0,0,   ,0
@@ -134,9 +134,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-27,Oldham County,Eastern,21,0,0,   ,0
 1999-08-27,Owensboro,Owensboro Catholic,28,6,1,   ,0
 1999-08-27,Paris,Fairview,46,29,1,  District game ,0
-1999-08-27,Pike County Central,Whitewood. VA,34,6,1,   ,0
+1999-08-27,Pike County Central,Out of State,34,6,1,   ,0
 1999-08-27,Pikeville,Prestonsburg,39,0,1,   ,0
-1999-08-27,Providence. IN,South Oldham,21,7,0,   ,0
+1999-08-27,Out of State,South Oldham,21,7,0,   ,0
 1999-08-27,Raceland,Ashland Blazer,16,12,2,   ,0
 1999-08-27,Rockcastle County,South Laurel,24,14,1,   ,0
 1999-08-27,Russell,Greenup County,28,20,1,   ,0
@@ -144,27 +144,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-08-27,Seneca,Valley,20,7,0,   ,0
 1999-08-27,Shawnee,Frankfort,20,14,1,   ,0
 1999-08-27,Shelby County,Doss,13,6,1,   ,0
-1999-08-27,Sheldon Clark,Grundy. VA,37,6,2,   ,0
+1999-08-27,Sheldon Clark,Out of State,37,6,2,   ,0
 1999-08-27,Somerset,Pulaski County,40,0,1,   ,0
-1999-08-27,South Fulton. TN,Ballard Memorial,13,0,0,   ,0
+1999-08-27,Out of State,Ballard Memorial,13,0,0,   ,0
 1999-08-27,St. Xavier,Bullitt East,51,7,0,   ,0
 1999-08-27,Taylor County,Edmonson County,55,6,0,   ,0
 1999-08-27,Todd County Central,Warren East,19,7,1,   ,0
 1999-08-27,Trigg County,Caldwell County,15,10,1,   ,0
-1999-08-27,Union City. TN,Fulton County,62,0,0,   ,0
+1999-08-27,Out of State,Fulton County,62,0,0,   ,0
 1999-08-27,Union County,Webster County,49,14,0,   ,0
 1999-08-27,Waggener,Western,49,20,1,   ,0
 1999-08-27,Wayne County,North Laurel,14,0,1,   ,0
 1999-08-27,West Jessamine,Anderson County,13,7,0,   ,0
-1999-08-27,Williamsburg,Jellico. TN,42,0,0,   ,0
-1999-08-27,Williamson. WV,Phelps,42,8,1,   ,0
-1999-08-28,Beechwood,Western Hills. OH,35,0,2,   ,0
+1999-08-27,Williamsburg,Out of State,42,0,0,   ,0
+1999-08-27,Out of State,Phelps,42,8,1,   ,0
+1999-08-28,Beechwood,Out of State,35,0,2,   ,0
 1999-08-28,Bethlehem,Owen County,33,12,1,   ,0
-1999-08-28,Boyd County,,31,0,2,   ,0
+1999-08-28,Boyd County,Out of State,31,0,2,   ,0
 1999-08-28,Eminence,Christian Academy-Louisville,44,0,0,   ,0
 1999-08-28,Garrard County,Grant County,45,12,0,   ,0
-1999-08-28,Highlands,Harrison. IN,27,14,1,   ,0
-1999-08-28,Kentucky School f/t Deaf,School f/t Deaf. NC,50,6,2,   ,0
+1999-08-28,Highlands,Out of State,27,14,1,   ,0
+1999-08-28,Kentucky School f/t Deaf,Out of State,50,6,2,   ,0
 1999-08-28,Lexington Catholic,Bowling Green,35,0,2,   ,0
 1999-08-28,Madison Southern,Knox Central,28,20,2,   ,0
 1999-08-28,Magoffin County,Knott County Central,6,0,2,   ,0
@@ -180,13 +180,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-02,Eminence,Kentucky School f/t Deaf,46,14,1,   ,0
 1999-09-03,Allen Central,Jenkins,41,12,1,   ,0
 1999-09-03,Anderson County,Woodford County,28,19,2,   ,0
-1999-09-03,Ashland Blazer,Russell,21,14,0,  (Overtime) ,0
+1999-09-03,Ashland Blazer,Russell,21,14,0,  (Overtime) ,1
 1999-09-03,Ballard Memorial,Reidland,8,7,1,   ,0
 1999-09-03,Bardstown,Washington County,12,0,1,   ,0
 1999-09-03,Bath County,Morgan County,32,6,0,   ,0
 1999-09-03,Beechwood,Lloyd Memorial,58,0,1,   ,0
 1999-09-03,Bell County,Middlesboro,21,14,0,   ,0
-1999-09-03,Bellevue,Dayton. OH,63,6,0,   ,0
+1999-09-03,Bellevue,Out of State,63,6,0,   ,0
 1999-09-03,Berea,Cumberland,64,20,1,   ,0
 1999-09-03,Bourbon County,North Laurel,12,0,1,   ,0
 1999-09-03,Bowling Green,Greenwood,35,0,0,   ,0
@@ -202,12 +202,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-03,Central Hardin,Fort Knox,42,0,0,   ,0
 1999-09-03,Christian County,Russellville,27,6,0,   ,0
 1999-09-03,Clay County,Pulaski County,35,0,1,   ,0
-1999-09-03,Conner,South Dearborn. IN,20,0,0,   ,0
+1999-09-03,Conner,Out of State,20,0,0,   ,0
 1999-09-03,Crittenden County,Fulton County,42,0,0,   ,0
 1999-09-03,Daviess County,Henderson County,33,14,0,   ,0
 1999-09-03,Dixie Heights,Simon Kenton,70,14,1,   ,0
 1999-09-03,DuPont Manual,Seneca,31,0,0,   ,0
-1999-09-03,Elder. OH,Boone County,56,0,1,   ,0
+1999-09-03,Out of State,Boone County,56,0,1,   ,0
 1999-09-03,Elizabethtown,Meade County,30,20,1,   ,0
 1999-09-03,Estill County,Madison Southern,47,24,1,   ,0
 1999-09-03,Fern Creek,Ballard,10,7,0,  District game ,0
@@ -226,12 +226,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-03,Harrodsburg,Harrison County,25,21,1,   ,0
 1999-09-03,Hart County,Caverna,40,6,0,   ,0
 1999-09-03,Hazard,Fleming-Neon,34,7,0,  District game ,0
-1999-09-03,Heath,Lone Oak,26,23,1,  (Triple Overtime) ,0
+1999-09-03,Heath,Lone Oak,26,23,1,  (Triple Overtime) ,1
 1999-09-03,Henry Clay,Lafayette,63,7,1,   ,0
 1999-09-03,Highlands,Campbell County,57,20,0,   ,0
 1999-09-03,Holmes,Holy Cross (Covington),42,6,1,   ,0
 1999-09-03,Hopkins County Central,Webster County,14,6,1,   ,0
-1999-09-03,Hopkinsville,Mayfield,27,24,1,  (Overtime) ,0
+1999-09-03,Hopkinsville,Mayfield,27,24,1,  (Overtime) ,1
 1999-09-03,Iroquois,DeSales,27,17,1,   ,0
 1999-09-03,Kentucky Country Day,Frankfort,27,26,0,   ,0
 1999-09-03,Lawrence County,Belfry,50,6,0,   ,0
@@ -240,7 +240,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-03,Male,Fairdale,55,28,1,  District game ,0
 1999-09-03,Marshall County,Caldwell County,42,0,0,   ,0
 1999-09-03,Mason County,Rowan County,46,0,0,   ,0
-1999-09-03,McLean County,Muhlenberg South,35,34,0,  District game (Double Overtime) ,0
+1999-09-03,McLean County,Muhlenberg South,35,34,0,  District game (Double Overtime) ,1
 1999-09-03,Mercer County,Pike County Central,21,0,1,   ,0
 1999-09-03,Moore,Butler County,22,21,0,   ,0
 1999-09-03,Murray,Calloway County,23,13,2,   ,0
@@ -251,11 +251,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-03,Owensboro,Warren East,56,6,0,  District game ,0
 1999-09-03,Owensboro Catholic,Apollo,29,19,1,   ,0
 1999-09-03,Paintsville,Raceland,18,16,1,   ,0
-1999-09-03,Paul Laurence Dunbar,Scott County,36,35,0,  (Overtime) ,0
+1999-09-03,Paul Laurence Dunbar,Scott County,36,35,0,  (Overtime) ,1
 1999-09-03,Perry County Central,Leslie County,27,18,1,   ,0
 1999-09-03,Pikeville,Elkhorn City,73,6,1,  District game ,0
 1999-09-03,Pineville,Knox Central,34,13,1,   ,0
-1999-09-03,Russell County,Allen County-Scottsville,19,13,1,  (Overtime) ,0
+1999-09-03,Russell County,Allen County-Scottsville,19,13,1,  (Overtime) ,1
 1999-09-03,Scott,Newport Central Catholic,23,14,1,   ,0
 1999-09-03,Shelby Valley,Knott County Central,38,11,0,   ,0
 1999-09-03,Sheldon Clark,Prestonsburg,48,6,0,   ,0
@@ -288,7 +288,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-10,Ballard,Pleasure Ridge Park,17,16,0,   ,0
 1999-09-10,Ballard Memorial,Heath,6,0,0,   ,0
 1999-09-10,Belfry,Betsy Layne,47,6,0,  District game ,0
-1999-09-10,Bell County,Lee. VA,56,22,1,   ,0
+1999-09-10,Bell County,Out of State,56,22,1,   ,0
 1999-09-10,Bellevue,Mason County,31,0,0,   ,0
 1999-09-10,Bethlehem,Powell County,34,28,0,   ,0
 1999-09-10,Bourbon County,Paris,16,0,0,   ,0
@@ -307,9 +307,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-10,Corbin,Cawood,41,6,1,   ,0
 1999-09-10,Daviess County,Owensboro Catholic,28,10,1,   ,0
 1999-09-10,Dixie Heights,Lloyd Memorial,70,7,1,   ,0
-1999-09-10,East Jessamine,Grant County,21,20,1,  (Double Overtime) ,0
+1999-09-10,East Jessamine,Grant County,21,20,1,  (Double Overtime) ,1
 1999-09-10,Elkhorn City,Jenkins,33,12,0,    ,0
-1999-09-10,Evarts,Union County. TN,22,0,1,   ,0
+1999-09-10,Evarts,Out of State,22,0,1,   ,0
 1999-09-10,Fairdale,Valley,37,18,1,   ,0
 1999-09-10,Frankfort,Millersburg Military,28,0,1,   ,0
 1999-09-10,Garrard County,Madison Southern,64,0,1,   ,0
@@ -325,20 +325,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-10,Holmes,Dayton,63,14,1,   ,0
 1999-09-10,Holy Cross (Louisville),Western,28,0,0,   ,0
 1999-09-10,Hopkins County Central,Caldwell County,40,0,1,   ,0
-1999-09-10,Hopkinsville,Gallatin. TN,14,7,0,   ,0
-1999-09-10,Lasalle. OH,Boone County,38,7,0,   ,0
+1999-09-10,Hopkinsville,Out of State,14,7,0,   ,0
+1999-09-10,Out of State,Boone County,38,7,0,   ,0
 1999-09-10,Lawrence County,Ashland Blazer,58,28,1,  District game ,0
 1999-09-10,Lewis County,East Carter,20,13,0,   ,0
 1999-09-10,Lexington Catholic,Madison Central,70,26,0,   ,0
 1999-09-10,Ludlow,Lynn Camp,10,8,1,   ,0
-1999-09-10,Male,Fern Creek,27,21,0,  (Overtime) ,0
+1999-09-10,Male,Fern Creek,27,21,0,  (Overtime) ,1
 1999-09-10,Marshall County,Paducah Tilghman,21,12,0,   ,0
 1999-09-10,McCreary Central,Knott County Central,26,13,1,   ,0
 1999-09-10,Meade County,Barren County,36,30,0,   ,0
 1999-09-10,Mercer County,Estill County,49,7,1,   ,0
 1999-09-10,Montgomery County,George Rogers Clark,17,14,1,   ,0
 1999-09-10,Moore,Atherton,29,6,1,   ,0
-1999-09-10,Mount View. WV,Prestonsburg,31,6,1,   ,0
+1999-09-10,Out of State,Prestonsburg,31,6,1,   ,0
 1999-09-10,Muhlenberg North,Lone Oak,35,34,0,  District game ,0
 1999-09-10,Murray,Todd County Central,21,14,1,   ,0
 1999-09-10,Nelson County,Bardstown,42,14,1,   ,0
@@ -351,8 +351,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-10,Perry County Central,Whitesburg,14,12,1,   ,0
 1999-09-10,Pike County Central,Morgan County,54,12,1,   ,0
 1999-09-10,Pikeville,Hazard,56,20,0,  District game ,0
-1999-09-10,Pineville,Thomas Walker. VA,38,12,0,   ,0
-1999-09-10,Portland. TN,Franklin-Simpson,28,20,1,   ,0
+1999-09-10,Pineville,Out of State,38,12,0,   ,0
+1999-09-10,Out of State,Franklin-Simpson,28,20,1,   ,0
 1999-09-10,Russell,Boyd County,42,12,0,   ,0
 1999-09-10,Russell County,Pulaski County,27,0,0,   ,0
 1999-09-10,Russellville,Fort Campbell,18,0,0,   ,0
@@ -363,7 +363,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-10,Simon Kenton,Scott,21,10,1,   ,0
 1999-09-10,Somerset,Cumberland,55,12,0,   ,0
 1999-09-10,South Floyd,Phelps,42,0,1,  District game ,0
-1999-09-10,South Fulton. TN,Fulton City,28,6,1,   ,0
+1999-09-10,Out of State,Fulton City,28,6,1,   ,0
 1999-09-10,South Laurel,North Laurel,34,0,0,  District game ,0
 1999-09-10,Southern,Doss,30,6,0,   ,0
 1999-09-10,Southwestern,Danville,27,25,2,   ,0
@@ -377,14 +377,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-10,Webster County,Muhlenberg South,20,16,0,  District game ,0
 1999-09-10,West Carter,Fairview,33,14,0,   ,0
 1999-09-10,West Jessamine,Rowan County,40,16,0,   ,0
-1999-09-10,Williamsburg,Matewan. WV,46,28,1,   ,0
-1999-09-10,Open,Fairview,-,-,0,12:19 AM   ,0
+1999-09-10,Williamsburg,Out of State,46,28,1,   ,0
+1999-09-10,Out of State,Fairview,-,-,0,12:19 AM   ,0
 1999-09-11,Campbell County,Newport Central Catholic,35,7,0,   ,0
 1999-09-11,DuPont Manual,DeSales,35,7,2,   ,0
-1999-09-11,St. Francis Desales. OH,Covington Catholic,33,7,0,   ,0
-1999-09-16,Eminence,Hillcrest. OH,28,14,0,   ,0
+1999-09-11,Out of State,Covington Catholic,33,7,0,   ,0
+1999-09-16,Eminence,Out of State,28,14,0,   ,0
 1999-09-16,Kentucky School f/t Deaf,Allen Central,22,0,2,   ,0
-1999-09-17,Anderson County,Western Hills,32,26,1,  District game (Overtime) ,0
+1999-09-17,Anderson County,Western Hills,32,26,1,  District game (Overtime) ,1
 1999-09-17,Ballard,Jeffersontown,39,0,0,  District game ,0
 1999-09-17,Bardstown,Glasgow,27,24,0,   ,0
 1999-09-17,Bath County,Lewis County,28,26,1,   ,0
@@ -396,7 +396,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-17,Bowling Green,Logan County,52,0,1,  District game ,0
 1999-09-17,Boyd County,Ashland Blazer,31,6,1,   ,0
 1999-09-17,Boyle County,Owen County,56,6,0,  District game ,0
-1999-09-17,Breckinridge County,Corydon Central. IN,28,14,1,   ,0
+1999-09-17,Breckinridge County,Out of State,28,14,1,   ,0
 1999-09-17,Bryan Station,Campbell County,65,13,1,  District game ,0
 1999-09-17,Calloway County,Lone Oak,28,0,0,  District game ,0
 1999-09-17,Campbellsville,Green County,38,8,1,   ,0
@@ -409,7 +409,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-17,DeSales,Moore,31,14,0,  District game ,0
 1999-09-17,East Jessamine,Pulaski County,6,0,1,  District game ,0
 1999-09-17,Edmonson County,Caverna,48,7,1,   ,0
-1999-09-17,Elder. OH,Highlands,35,14,1,   ,0
+1999-09-17,Out of State,Highlands,35,14,1,   ,0
 1999-09-17,Elizabethtown,Shawnee,41,40,0,  District game ,0
 1999-09-17,Evarts,Betsy Layne,36,22,0,   ,0
 1999-09-17,Fairdale,Butler,21,14,1,  District game (overtime) ,1
@@ -417,11 +417,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-17,Fleming County,Lloyd Memorial,35,21,1,  District game ,0
 1999-09-17,Franklin County,Bourbon County,26,14,0,  District game ,0
 1999-09-17,Franklin-Simpson,Allen County-Scottsville,41,0,0,  District game ,0
-1999-09-17,Fulton City,Lake County. TN,26,13,1,   ,0
-1999-09-17,Fulton County,Portageville. MD,22,17,1,   ,0
+1999-09-17,Fulton City,Out of State,26,13,1,   ,0
+1999-09-17,Fulton County,Out of State,22,17,1,   ,0
 1999-09-17,George Rogers Clark,Clay County,16,6,0,   ,0
 1999-09-17,Greenwood,Warren East,42,6,1,   ,0
-1999-09-17,Grundy. VA,Prestonsburg,18,0,1,   ,0
+1999-09-17,Out of State,Prestonsburg,18,0,1,   ,0
 1999-09-17,Hancock County,Todd County Central,73,13,0,  District game ,0
 1999-09-17,Harlan,Knox Central,45,20,1,   ,0
 1999-09-17,Harrison County,Montgomery County,43,21,1,  District game ,0
@@ -436,8 +436,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-17,Iroquois,North Bullitt,30,22,0,   ,0
 1999-09-17,LaRue County,Fort Knox,34,3,1,  District game ,0
 1999-09-17,Lafayette,North Laurel,34,7,1,   ,0
-1999-09-17,Lawrence County,Tolsia. WV,51,12,0,   ,0
-1999-09-17,Leslie County,Whitesburg,33,32,0,  (Double Overtime) ,0
+1999-09-17,Lawrence County,Out of State,51,12,0,   ,0
+1999-09-17,Leslie County,Whitesburg,33,32,0,  (Double Overtime) ,1
 1999-09-17,Lexington Catholic,Henry County,52,3,1,  District game ,0
 1999-09-17,Lincoln County,McCreary Central,41,8,1,  District game ,0
 1999-09-17,Magoffin County,East Carter,40,7,0,  District game ,0
@@ -467,7 +467,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-17,Raceland,Millersburg Military,53,16,1,  District game ,0
 1999-09-17,Rockcastle County,Estill County,34,0,1,   ,0
 1999-09-17,Russell,Mason County,27,7,0,  District game ,0
-1999-09-17,Russellville,Murray,30,24,0,  (Triple Overtime) ,0
+1999-09-17,Russellville,Murray,30,24,0,  (Triple Overtime) ,1
 1999-09-17,Scott County,Simon Kenton,49,20,1,  District game ,0
 1999-09-17,Shelby Valley,Pike County Central,27,6,1,  District game ,0
 1999-09-17,Sheldon Clark,Greenup County,30,22,1,  District game ,0
@@ -482,10 +482,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-17,Washington County,Western,55,0,1,  District game ,0
 1999-09-17,Webster County,Reidland,54,32,1,  District game ,0
 1999-09-17,Whitley County,Scott,34,14,0,   ,0
-1999-09-18,Bethel Tate. OH,Holy Cross (Covington),13,0,1,   ,0
+1999-09-18,Out of State,Holy Cross (Covington),13,0,1,   ,0
 1999-09-18,Dixie Heights,Newport Central Catholic,44,0,0,   ,0
 1999-09-23,Todd County Central,Muhlenberg North,41,21,0,   ,0
-1999-09-23,Open,Allen Central,-,-,0,12:19 AM   ,0
+1999-09-23,Out of State,Allen Central,-,-,0,12:19 AM   ,0
 1999-09-24,Anderson County,Grant County,34,7,0,  District game ,0
 1999-09-24,Apollo,Daviess County,21,16,0,  District game ,0
 1999-09-24,Ballard,Southern,34,6,0,  District game ,0
@@ -503,7 +503,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-24,Caverna,Metcalfe County,12,7,1,   ,0
 1999-09-24,Central,Valley,33,0,1,  District game ,0
 1999-09-24,Central Hardin,Meade County,38,21,1,  District game ,0
-1999-09-24,Clarksville Academy. TN,Fort Campbell,20,0,0,   ,0
+1999-09-24,Out of State,Fort Campbell,20,0,0,   ,0
 1999-09-24,Crittenden County,Caldwell County,32,7,1,   ,0
 1999-09-24,Danville,Montgomery County,47,21,0,   ,0
 1999-09-24,DeSales,Fort Knox,21,13,2,  District game ,0
@@ -529,7 +529,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-24,Holmes,Woodford County,42,17,0,   ,0
 1999-09-24,Hopkins County Central,Lone Oak,48,6,0,  District game ,0
 1999-09-24,Hopkinsville,Marshall County,30,13,0,  District game ,0
-1999-09-24,Ironton. OH,Ashland Blazer,64,6,2,   ,0
+1999-09-24,Out of State,Ashland Blazer,64,6,2,   ,0
 1999-09-24,Johnson Central,Perry County Central,57,46,0,  District game ,0
 1999-09-24,Kentucky Country Day,Christian Academy-Louisville,50,14,1,   ,0
 1999-09-24,LaRue County,Moore,29,12,0,  District game ,0
@@ -557,7 +557,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-24,Pike County Central,Betsy Layne,53,14,0,  District game ,0
 1999-09-24,Pikeville,Belfry,26,8,0,   ,0
 1999-09-24,Pleasure Ridge Park,DuPont Manual,27,7,1,  District game ,0
-1999-09-24,Portland. TN,Christian County,56,13,0,   ,0
+1999-09-24,Out of State,Christian County,56,13,0,   ,0
 1999-09-24,Powell County,Morgan County,55,22,0,   ,0
 1999-09-24,Prestonsburg,Whitesburg,26,14,0,  District game ,0
 1999-09-24,Pulaski County,Adair County,18,14,1,  District game ,0
@@ -566,26 +566,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-09-24,Rockcastle County,Knott County Central,55,0,1,  District game ,0
 1999-09-24,Russell,Fleming County,14,0,1,  District game ,0
 1999-09-24,Russellville,Logan County,24,19,1,   ,0
-1999-09-24,Shelby Valley,Williamson. WV,22,21,1,  (Overtime) ,0
+1999-09-24,Shelby Valley,Out of State,22,21,1,  (Overtime) ,1
 1999-09-24,Sheldon Clark,Lawrence County,18,16,0,  District game ,0
 1999-09-24,Somerset,Knox Central,55,0,0,   ,0
 1999-09-24,South Floyd,Fleming-Neon,30,8,1,  District game ,0
 1999-09-24,South Laurel,Lafayette,55,14,1,   ,0
 1999-09-24,Southwestern,McCreary Central,76,0,0,  District game ,0
-1999-09-24,St. Xavier,Trinity,28,14,2,   ,0
+1999-09-24,St. Xavier,Trinity (Louisville),28,14,2,   ,0
 1999-09-24,Tates Creek,Dixie Heights,27,21,1,   ,0
 1999-09-24,Taylor County,Monroe County,24,7,1,   ,0
-1999-09-24,Thomas Walker. WV,Cumberland,21,16,0,   ,0
+1999-09-24,Out of State,Cumberland,21,16,0,   ,0
 1999-09-24,Waggener,Atherton,40,14,1,  District game ,0
 1999-09-24,Washington County,Elizabethtown,44,26,0,  District game ,0
-1999-09-24,Wayne County,Hart County,32,26,1,  (Overtime) ,0
+1999-09-24,Wayne County,Hart County,32,26,1,  (Overtime) ,1
 1999-09-24,Western,Shawnee,37,28,1,  District game ,0
 1999-09-24,Western Hills,Bourbon County,27,6,1,  District game ,0
-1999-09-24,Westmoreland. TN,Allen County-Scottsville,36,33,1,   ,0
+1999-09-24,Out of State,Allen County-Scottsville,36,33,1,   ,0
 1999-09-24,Whitley County,North Laurel,22,7,1,   ,0
 1999-09-25,Beechwood,Owensboro Catholic,16,0,1,   ,0
 1999-09-25,Bethlehem,Trimble County,13,6,1,   ,0
-1999-09-25,Kentucky School f/t Deaf,School f/t Deaf. GA,56,14,2,   ,0
+1999-09-25,Kentucky School f/t Deaf,Out of State,56,14,2,   ,0
 1999-09-30,Ballard,Eastern,34,8,1,  District game ,0
 1999-09-30,Bath County,West Carter,28,14,0,  District game ,0
 1999-09-30,Belfry,Pike County Central,32,0,0,  District game ,0
@@ -637,7 +637,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-01,Franklin County,Montgomery County,28,21,0,  District game ,0
 1999-10-01,Franklin-Simpson,Owensboro,26,20,1,  District game ,0
 1999-10-01,Glasgow,Edmonson County,49,0,1,  District game ,0
-1999-10-01,Graves County,Cape Central. MO,17,7,1,   ,0
+1999-10-01,Graves County,Out of State,17,7,1,   ,0
 1999-10-01,Green County,Russell County,40,14,0,  District game ,0
 1999-10-01,Harlan,Lynn Camp,28,27,1,  District game ,0
 1999-10-01,Harrodsburg,Somerset,21,13,1,  District game ,0
@@ -652,7 +652,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-01,Marion County,Pulaski County,20,6,1,  District game ,0
 1999-10-01,Marshall County,Calloway County,10,6,0,   ,0
 1999-10-01,Mason County,Lloyd Memorial,50,20,0,  District game ,0
-1999-10-01,Mater Dei. IN,Owensboro Catholic,42,3,1,   ,0
+1999-10-01,Out of State,Owensboro Catholic,42,3,1,   ,0
 1999-10-01,Mayfield,Fulton County,28,0,0,  District game ,0
 1999-10-01,McCreary Central,Adair County,62,28,0,  District Games ,0
 1999-10-01,Middlesboro,Powell County,56,9,1,  District game ,0
@@ -663,7 +663,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-01,Nicholas County,Millersburg Military,67,6,2,  District game ,0
 1999-10-01,North Hardin,Bullitt Central,35,7,0,  District game ,0
 1999-10-01,Paducah Tilghman,Lone Oak,49,6,1,  District game ,0
-1999-10-01,Parkersburg. WV,Russell,30,7,1,   ,0
+1999-10-01,Out of State,Russell,30,7,1,   ,0
 1999-10-01,Prestonsburg,Betsy Layne,46,13,1,  District game ,0
 1999-10-01,Raceland,Paris,25,6,1,  District game ,0
 1999-10-01,Reidland,Muhlenberg South,20,19,1,  District game ,0
@@ -689,10 +689,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-02,Bethlehem,Kentucky Country Day,28,13,1,   ,0
 1999-10-02,Highlands,Covington Catholic,45,7,0,  District game ,0
 1999-10-02,Hopkinsville,Central,41,17,1,   ,0
-1999-10-02,Kentucky School f/t Deaf,School f/t Deaf. GA,30,18,0,   ,0
+1999-10-02,Kentucky School f/t Deaf,Out of State,30,18,0,   ,0
 1999-10-07,Hart County,Edmonson County,48,20,1,  District game ,0
 1999-10-08,Ashland Blazer,East Carter,53,25,0,  District game ,0
-1999-10-08,Ballard Memorial,Cairo. IL,46,0,0,   ,0
+1999-10-08,Ballard Memorial,Out of State,46,0,0,   ,0
 1999-10-08,Bardstown,Holy Cross (Louisville),58,21,1,  District game ,0
 1999-10-08,Belfry,Prestonsburg,27,6,0,  District game ,0
 1999-10-08,Bell County,Knox Central,49,6,0,  District game ,0
@@ -717,7 +717,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-08,Dixie Heights,Holmes,35,13,1,  District game ,0
 1999-10-08,Elizabethtown,Fort Knox,63,14,0,  District game ,0
 1999-10-08,Fairdale,Jeffersontown,41,0,0,   ,0
-1999-10-08,Fern Creek,North Evansville. IN,31,22,1,   ,0
+1999-10-08,Fern Creek,Out of State,31,22,1,   ,0
 1999-10-08,Fleming County,Bath County,12,6,0,  District game ,0
 1999-10-08,Fleming-Neon,Elkhorn City,47,20,1,  District game ,0
 1999-10-08,Frankfort,Trimble County,27,8,0,  District game ,0
@@ -780,19 +780,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-08,Southern,North Bullitt,32,22,1,   ,0
 1999-10-08,Southwestern,East Jessamine,63,20,2,  District game ,0
 1999-10-08,Todd County Central,Trigg County,14,0,0,  District game ,0
-1999-10-08,Trousdale County. TN,Mayfield,12,7,0,   ,0
+1999-10-08,Out of State,Mayfield,12,7,0,   ,0
 1999-10-08,Union County,Lone Oak,20,0,1,  District game ,0
 1999-10-08,Valley,Doss,23,20,1,   ,0
-1999-10-08,Waggener,Providence. IN,21,14,1,   ,0
+1999-10-08,Waggener,Out of State,21,14,1,   ,0
 1999-10-08,Washington County,DeSales,12,9,1,  District game ,0
 1999-10-08,Webster County,McLean County,24,0,1,  District game ,0
-1999-10-08,Williamsburg,Thomas Walker. VA,64,20,0,   ,0
+1999-10-08,Williamsburg,Out of State,64,20,0,   ,0
 1999-10-09,Bethlehem,Allen Central,33,12,1,   ,0
 1999-10-09,Conner,Covington Catholic,10,0,0,  District game ,0
 1999-10-09,Eminence,Beth Haven,42,0,0,   ,0
 1999-10-09,Fairview,Millersburg Military,20,6,2,  District game ,0
 1999-10-09,Pikeville,Jenkins,74,0,1,   ,0
-1999-10-09,School f/t Deaf. LA,Kentucky School f/t Deaf,20,16,1,   ,0
+1999-10-09,Out of State,Kentucky School f/t Deaf,20,16,1,   ,0
 1999-10-14,DuPont Manual,Fairdale,36,7,0,  District game ,0
 1999-10-14,Eastern,Jeffersontown,28,14,1,  District game ,0
 1999-10-14,Male,Ballard,49,7,1,   ,0
@@ -831,7 +831,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-15,Grant County,Montgomery County,47,27,0,  District game ,0
 1999-10-15,Graves County,Madisonville-North Hopkins,41,34,1,  District game ,0
 1999-10-15,Greenwood,Daviess County,28,21,0,  District game ,0
-1999-10-15,Harlan,Appalachia. VA,27,12,1,   ,0
+1999-10-15,Harlan,Out of State,27,12,1,   ,0
 1999-10-15,Harrison County,Anderson County,40,22,1,  District game ,0
 1999-10-15,Harrodsburg,Danville,28,22,1,  District game ,0
 1999-10-15,Hazard,Paintsville,33,0,1,  District game ,0
@@ -894,20 +894,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-15,Webster County,Caldwell County,30,0,1,  District game ,0
 1999-10-15,Whitley County,Cawood,49,26,0,  District game ,0
 1999-10-15,Williamsburg,Cumberland,49,6,0,  District game ,0
-1999-10-15,Open,Evarts,-,-,2,  Game was canceled earlier in the year.  Both teams were open 10/15 ,0
+1999-10-15,Out of State,Evarts,-,-,2,  Game was canceled earlier in the year.  Both teams were open 10/15 ,0
 1999-10-16,DeSales,Western,52,15,2,  District game ,0
-1999-10-16,Kentucky School f/t Deaf,School f/t Deaf. IN,44,12,2,   ,0
-1999-10-21,Kentucky School f/t Deaf,School f/t Deaf. TN,40,24,0,   ,0
+1999-10-16,Kentucky School f/t Deaf,Out of State,44,12,2,   ,0
+1999-10-21,Kentucky School f/t Deaf,Out of State,40,24,0,   ,0
 1999-10-21,Shelby County,Bullitt Central,42,34,0,  District game ,0
 1999-10-22,Anderson County,Montgomery County,28,0,1,  District game ,0
 1999-10-22,Apollo,Ohio County,32,6,1,  District game ,0
 1999-10-22,Ashland Blazer,Rowan County,27,7,2,  District game ,0
 1999-10-22,Atherton,North Bullitt,62,8,1,  District game ,0
-1999-10-22,Badin. OH,Metcalfe County,35,13,2,   ,0
+1999-10-22,Out of State,Metcalfe County,35,13,2,   ,0
 1999-10-22,Ballard Memorial,Lone Oak,28,14,1,   ,0
 1999-10-22,Bardstown,Trimble County,48,7,1,  District game ,0
 1999-10-22,Beechwood,Ludlow,62,0,1,  District game ,0
-1999-10-22,Belfry,Ironton. OH,17,14,1,   ,0
+1999-10-22,Belfry,Out of State,17,14,1,   ,0
 1999-10-22,Berea,Millersburg Military,56,0,1,  District game ,0
 1999-10-22,Boone County,Ryle,35,14,1,  District game ,0
 1999-10-22,Breckinridge County,Valley,8,6,0,  District game ,0
@@ -921,7 +921,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-22,Corbin,Green County,41,21,0,  District game ,0
 1999-10-22,Danville,Somerset,35,14,1,  District game ,0
 1999-10-22,Daviess County,Grayson County,41,9,0,  District game ,0
-1999-10-22,Dayton,Holy Cross,27,12,2,  District game ,0
+1999-10-22,Dayton,Holy Cross (Covington),27,12,2,  District game ,0
 1999-10-22,DeSales,Shawnee,24,14,0,  District game ,0
 1999-10-22,Dixie Heights,Conner,27,9,0,  District game ,0
 1999-10-22,East Jessamine,Madison Southern,35,14,1,  District game ,0
@@ -965,12 +965,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-22,Middlesboro,Breathitt County,42,41,1,  District game ,0
 1999-10-22,Monroe County,Edmonson County,7,3,0,  District game ,0
 1999-10-22,Moore,Elizabethtown,52,20,1,  District game ,0
-1999-10-22,Muhlenberg South,Trousdale. TN,14,13,0,   ,0
+1999-10-22,Muhlenberg South,Out of State,14,13,0,   ,0
 1999-10-22,Murray,Fulton County,14,7,1,  District game ,0
 1999-10-22,Nelson County,Central Hardin,34,10,0,  District game ,0
 1999-10-22,Newport,Bath County,69,6,1,  District game ,0
 1999-10-22,Oldham County,North Hardin,32,12,0,  District game ,0
-1999-10-22,Owensboro,Bowling Green,17,14,1,  District game (double overtime) ,0
+1999-10-22,Owensboro,Bowling Green,17,14,1,  District game (double overtime) ,1
 1999-10-22,Owensboro Catholic,Glasgow,24,17,0,  District game ,0
 1999-10-22,Paintsville,South Floyd,34,30,1,  District game ,0
 1999-10-22,Paul Laurence Dunbar,Lafayette,41,20,0,  District game ,0
@@ -1101,11 +1101,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-10-29,Waggener,Breckinridge County,35,14,1,  District game ,0
 1999-10-29,Washington County,Shawnee,21,0,1,  District game ,0
 1999-10-29,Webster County,Heath,28,27,0,  District game ,0
-1999-10-29,Whitesburg,Pike County Central,13,7,1,  District game (double overtime) ,0
+1999-10-29,Whitesburg,Pike County Central,13,7,1,  District game (double overtime) ,1
 1999-10-29,Whitley County,Knott County Central,45,12,1,  District game ,0
 1999-10-29,Williamsburg,Lynn Camp,22,14,1,  District game ,0
 1999-10-30,LaRue County,DeSales,20,7,2,  District game ,0
-1999-10-30,Millersburg Military,Oak Ridge Military. NC,24,20,2,   ,0
+1999-10-30,Millersburg Military,Out of State,24,20,2,   ,0
 1999-11-04,Owensboro Catholic,Heath,31,0,1,  Class AA Tournament First Round Class AA ,0
 1999-11-04,Kentucky School f/t Deaf,Beth Haven,56,20,2,  First Round 8-Man Championship ,0
 1999-11-05,Beechwood,Raceland,44,12,1,  Class A Tournament First Round Class A ,0
@@ -1128,7 +1128,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-05,Boyle County,Fleming County,49,8,1,  Class AA Tournament First Round Class AA ,0
 1999-11-05,Breathitt County,Prestonsburg,55,12,1,  Class AA Tournament First Round Class AA ,0
 1999-11-05,Corbin,DeSales,25,7,1,  Class AA Tournament First Round Class AA ,0
-1999-11-05,Garrard County,Newport,28,27,0,  Class AA Tournament First Round Class AA (double overtime) ,0
+1999-11-05,Garrard County,Newport,28,27,0,  Class AA Tournament First Round Class AA (double overtime) ,1
 1999-11-05,Glasgow,Muhlenberg South,43,7,1,  Class AA Tournament First Round Class AA ,0
 1999-11-05,LaRue County,Green County,49,12,1,  Class AA Tournament First Round Class AA ,0
 1999-11-05,Leslie County,Shelby Valley,40,18,0,  Class AA Tournament First Round Class AA ,0
@@ -1169,7 +1169,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 1999-11-05,South Laurel,George Rogers Clark,55,2,1,  Class AAAA Tournament First Round Class AAAA ,0
 1999-11-05,St. Xavier,North Hardin,40,13,2,  Class AAAA Tournament First Round Class AAAA ,0
 1999-11-05,Tates Creek,Perry County Central,51,10,1,  Class AAAA Tournament First Round Class AAAA ,0
-1999-11-05,Trinity (Louisville),Ryle,32,26,1,  Class AAAA Tournament First Round Class AAAA (double overtime) ,0
+1999-11-05,Trinity (Louisville),Ryle,32,26,1,  Class AAAA Tournament First Round Class AAAA (double overtime) ,1
 1999-11-05,Kentucky Country Day,Caverna,34,22,1,  First Round 8-Man Championship ,0
 1999-11-06,Daviess County,Graves County,26,25,0,  Class AAAA Tournament First Round Class AAAA ,0
 1999-11-12,Beechwood,Ludlow,29,0,1,  Class A Tournament Second Round Class A ,0

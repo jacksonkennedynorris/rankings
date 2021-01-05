@@ -14,14 +14,9 @@ differential = 1/2;
 h_differential = differential - HFA_Inside;
 a_differential = differential + HFA_Inside;
 for game = 1:length(Games)
-    winner = Games(game).win_team;
-    loser = Games(game).lose_team;
-    if winner == "Out_State" || loser == "Out_State"
-       continue
-    end
-    i = find([Teams.name]' == winner);
-    j = find([Teams.name]' == loser);
-    
+    i = Games(game).win_id;
+    j = Games(game).lose_id;
+
     pd = Games(game).win_score - Games(game).lose_score;
     loc = Games(game).location;
   

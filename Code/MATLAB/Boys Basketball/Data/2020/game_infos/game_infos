@@ -1,11 +1,11 @@
 date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
-2019-12-02,Agape Christian (Energy). IL,Community Christian (Paducah),55,54,0,   ,0
+2019-12-02,Out of State,Community Christian (Paducah),55,54,0,   ,0
 2019-12-02,Anderson County,Thomas Nelson,52,37,0,   ,0
 2019-12-02,Barbourville,Harlan,66,59,1,   ,0
 2019-12-02,Betsy Layne,Pike County Central,68,55,1,   ,0
 2019-12-02,Boyle County,Danville Christian,87,51,1,   ,0
 2019-12-02,Bullitt Central,Taylor County,86,81,0,  (overtime) ,1
-2019-12-02,Calvary Christian,Immaculate Conception Academy (Norwood). OH,73,39,1,   ,0
+2019-12-02,Calvary Christian,Out of State,73,39,1,   ,0
 2019-12-02,Caverna,Fort Knox,67,59,1,   ,0
 2019-12-02,Clay County,Oneida Baptist Institute,79,57,1,   ,0
 2019-12-02,Clinton County,Casey County,56,46,0,   ,0
@@ -16,7 +16,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-02,Glasgow,Monroe County,51,45,0,   ,0
 2019-12-02,Grant County,Trimble County,87,36,1,   ,0
 2019-12-02,Graves County,Livingston Central,62,25,1,   ,0
-2019-12-02,Hickman County,Gleason. TN,50,47,0,   ,0
+2019-12-02,Hickman County,Out of State,50,47,0,   ,0
 2019-12-02,Holmes,Gallatin County,85,82,1,   ,0
 2019-12-02,Holy Cross (Louisville),St. Francis,75,35,1,   ,0
 2019-12-02,Jackson City,June Buchanan,82,40,1,   ,0
@@ -28,7 +28,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-02,Newport Central Catholic,Walton-Verona,67,47,1,   ,0
 2019-12-02,Pendleton County,Williamstown,74,57,1,   ,0
 2019-12-02,Pikeville,Phelps,54,49,0,   ,0
-2019-12-02,Russellville,Greenbrier. TN,57,45,1,   ,0
+2019-12-02,Russellville,Out of State,57,45,1,   ,0
 2019-12-02,Shelby Valley,Jenkins,87,25,1,   ,0
 2019-12-02,Simon Kenton,Bellevue,79,25,0,   ,0
 2019-12-02,South Oldham,Louisville Collegiate,75,37,0,   ,0
@@ -68,8 +68,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-03,Franklin County,Paris,69,32,1,   ,0
 2019-12-03,Frederick Douglass,Henry Clay,78,72,1,   ,0
 2019-12-03,Fulton City,Community Christian (Paducah),75,50,1,   ,0
-2019-12-03,Fulton County,Halls. TN,82,61,1,   ,0
-2019-12-03,Garrard County,Wellspring Guardians (Richmond). (KY home school),64,48,1,   ,0
+2019-12-03,Fulton County,Out of State,82,61,1,   ,0
+2019-12-03,Garrard County,Out of State,64,48,1,   ,0
 2019-12-03,George Rogers Clark,Bath County,81,48,1,   ,0
 2019-12-03,Grayson County,Apollo,53,48,1,   ,0
 2019-12-03,Greenup County,Menifee County,87,71,0,   ,0
@@ -79,16 +79,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-03,Iroquois,North Oldham,73,52,1,   ,0
 2019-12-03,Jeffersontown,Eastern,68,60,1,   ,0
 2019-12-03,John Hardin,Bryan Station,93,63,1,   ,0
-2019-12-03,Johnson Central,Cross Lanes Christian (Charleston). WV,69,45,0,   ,0
-2019-12-03,Kenwood (Clarksville). TN,Hopkinsville,69,58,0,   ,0
-2019-12-03,L.I.G.H.T (Danville). (KY home school),Kentucky School f/t Deaf,38,16,1,   ,0
+2019-12-03,Johnson Central,Out of State,69,45,0,   ,0
+2019-12-03,Out of State,Hopkinsville,69,58,0,   ,0
+2019-12-03,Out of State,Kentucky School f/t Deaf,38,16,1,   ,0
 2019-12-03,Lawrence County,East Carter,83,70,0,   ,0
-2019-12-03,Lee (Jonesville). VA,Harlan,59,49,1,   ,0
-2019-12-03,Lexington Christian,Bluegrass United (Lexington). (KY home school),70,51,1,   ,0
+2019-12-03,Out of State,Harlan,59,49,1,   ,0
+2019-12-03,Lexington Christian,Out of State,70,51,1,   ,0
 2019-12-03,Lincoln County,Lafayette,59,37,0,   ,0
 2019-12-03,Lloyd Memorial,Carroll County,72,51,1,   ,0
 2019-12-03,Louisville Collegiate,Whitefield Academy,80,63,1,   ,0
-2019-12-03,Lynn Camp,Jellico. TN,77,75,0,   ,0
+2019-12-03,Lynn Camp,Out of State,77,75,0,   ,0
 2019-12-03,Lyon County,Caldwell County,59,57,0,   ,0
 2019-12-03,Madison Central,Pulaski County,76,69,1,   ,0
 2019-12-03,Madison Southern,Cordia,66,52,1,   ,0
@@ -96,11 +96,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-03,Male,Waggener,84,56,1,   ,0
 2019-12-03,McLean County,Hancock County,53,47,1,   ,0
 2019-12-03,Metcalfe County,Warren East,69,61,1,   ,0
-2019-12-03,Middlesboro,Thomas Walker (Ewing). VA,78,48,1,   ,0
+2019-12-03,Middlesboro,Out of State,78,48,1,   ,0
 2019-12-03,Monroe County,Franklin-Simpson,67,59,1,   ,0
 2019-12-03,Moore,Valley,64,54,0,   ,0
 2019-12-03,Muhlenberg County,Logan County,68,57,0,   ,0
-2019-12-03,New Richmond. OH,Villa Madonna,88,41,1,   ,0
+2019-12-03,Out of State,Villa Madonna,88,41,1,   ,0
 2019-12-03,Nicholas County,Bracken County,83,70,1,   ,0
 2019-12-03,North Bullitt,Shelby County,61,38,1,   ,0
 2019-12-03,Ohio County,Meade County,77,48,1,   ,0
@@ -108,19 +108,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-03,Owensboro,Union County,90,68,1,   ,0
 2019-12-03,Owensboro Catholic,Greenwood,76,70,0,   ,0
 2019-12-03,Pendleton County,Calvary Christian,64,63,0,   ,0
-2019-12-03,Phelps,Hurley. VA,57,36,1,   ,0
+2019-12-03,Phelps,Out of State,57,36,1,   ,0
 2019-12-03,Pineville,Red Bird,78,59,0,   ,0
 2019-12-03,Pleasure Ridge Park,Doss,86,79,0,   ,0
 2019-12-03,Prestonsburg,Knott County Central,72,67,1,   ,0
-2019-12-03,Raceland,Dawson-Bryant (Coal Grove). OH,71,61,0,   ,0
+2019-12-03,Raceland,Out of State,71,61,0,   ,0
 2019-12-03,Robertson County,Augusta,70,44,1,   ,0
 2019-12-03,Rockcastle County,McCreary Central,65,55,1,   ,0
 2019-12-03,Rowan County,Montgomery County,61,56,1,   ,0
-2019-12-03,Shawnee,Louisville Tigers. (KY home school),51,40,1,   ,0
+2019-12-03,Shawnee,Out of State,51,40,1,   ,0
 2019-12-03,Somerset,Russell County,66,50,1,   ,0
 2019-12-03,South Laurel,Jackson County,83,41,1,   ,0
 2019-12-03,South Warren,Allen County-Scottsville,87,68,1,   ,0
-2019-12-03,Southwestern,Central Kentucky HomeSchool (Lexington). (KY home school),94,71,1,   ,0
+2019-12-03,Southwestern,Out of State,94,71,1,   ,0
 2019-12-03,St. Henry,Cooper,51,33,0,   ,0
 2019-12-03,St. Mary,Carlisle County,62,61,1,   ,0
 2019-12-03,St. Patrick,Covington Latin,88,16,1,   ,0
@@ -132,17 +132,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-03,West Carter,Fairview,80,56,1,   ,0
 2019-12-03,West Jessamine,Great Crossing,66,46,0,   ,0
 2019-12-03,Western Hills,Owen County,66,41,1,   ,0
-2019-12-03,Whitley County,Model,97,88,1,  (double overtime) ,0
-2019-12-03,Williamsburg,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),86,33,1,   ,0
+2019-12-03,Whitley County,Model,97,88,1,  (double overtime) ,1
+2019-12-03,Williamsburg,Out of State,86,33,1,   ,0
 2019-12-03,Williamstown,Dayton,67,52,1,   ,0
 2019-12-03,Wolfe County,Estill County,56,53,1,   ,0
 2019-12-04,Ballard,Fern Creek,76,70,1,   ,0
-2019-12-04,DeSales,Bullard,76,62,2,   ,0
+2019-12-04,DeSales,Out of State,76,62,2,   ,0
 2019-12-04,Frankfort,Sayre,66,57,1,   ,0
-2019-12-04,Holmes,South Dearborn (Aurora). IN,91,72,1,   ,0
+2019-12-04,Holmes,Out of State,91,72,1,   ,0
 2019-12-04,Holy Cross (Louisville),Brown,68,20,1,   ,0
 2019-12-04,Lexington Catholic,Covington Catholic,59,58,1,   ,0
-2019-12-04,Maribyrnong College (Victoria. Australia),Elliott County,71,49,0,   ,0
+2019-12-04,Out of State,Elliott County,71,49,0,   ,0
 2019-12-04,Newport Central Catholic,Dixie Heights,66,57,1,   ,0
 2019-12-04,Perry County Central,Leslie County,90,73,1,   ,0
 2019-12-04,Shelby County,Eminence,56,45,1,   ,0
@@ -162,7 +162,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-05,Eastern,Central,61,49,1,   ,0
 2019-12-05,Fairview,Rose Hill Christian,75,70,1,  (overtime) ,1
 2019-12-05,Fort Campbell,Dawson Springs,61,59,1,   ,0
-2019-12-05,Franklin (Elk Grove). CA,DeSales,62,48,2,   ,0
+2019-12-05,Out of State,DeSales,62,48,2,   ,0
 2019-12-05,Grant County,Woodford County,83,70,0,   ,0
 2019-12-05,Henderson County,Trinity (Whitesville),53,50,1,   ,0
 2019-12-05,Highlands,Bishop Brossart,65,58,1,   ,0
@@ -172,15 +172,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-05,Lloyd Memorial,Owen County,82,45,0,   ,0
 2019-12-05,Ludlow,Heritage Academy,90,38,1,   ,0
 2019-12-05,Lynn Camp,Whitley County,60,50,1,   ,0
-2019-12-05,Massac County (Metropolis). IL,Graves County,57,39,2,   ,0
+2019-12-05,Out of State,Graves County,57,39,2,   ,0
 2019-12-05,McCracken County,Community Christian (Paducah),80,29,1,   ,0
-2019-12-05,Mercer County,Wellspring Guardians (Richmond). (KY home school),77,52,1,   ,0
+2019-12-05,Mercer County,Out of State,77,52,1,   ,0
 2019-12-05,Moore,North Hardin,84,78,1,   ,0
 2019-12-05,Morgan County,Bath County,69,68,1,   ,0
-2019-12-05,North Laurel,Montwood (El Paso). TX,61,46,1,   ,0
+2019-12-05,North Laurel,Out of State,61,46,1,   ,0
 2019-12-05,Paul Laurence Dunbar,Bryan Station,75,63,1,   ,0
 2019-12-05,Pike County Central,East Ridge,59,57,0,  (overtime) ,1
-2019-12-05,Pineville,Thomas Walker (Ewing). VA,86,72,1,   ,0
+2019-12-05,Pineville,Out of State,86,72,1,   ,0
 2019-12-05,Shelby Valley,Cordia,71,54,1,   ,0
 2019-12-05,South Oldham,Central Hardin,85,47,1,   ,0
 2019-12-05,Southern,Brown,87,46,1,   ,0
@@ -192,7 +192,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-05,Walden,Evangel Christian,86,35,1,   ,0
 2019-12-05,Webster County,Christian County,56,50,0,   ,0
 2019-12-05,Williamsburg,Barbourville,74,60,1,   ,0
-2019-12-06,South Laurel,Montwood,64,32,2, Legacy Nissan Classic  ,0
+2019-12-06,South Laurel,Out of State,64,32,2, Legacy Nissan Classic  ,0
 2019-12-06,Adair County,Green County,54,47,0,   ,0
 2019-12-06,Anderson County,Harrison County,52,45,1,   ,0
 2019-12-06,Augusta,Bracken County,94,86,1,   ,0
@@ -200,7 +200,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-06,Berea,Eminence,80,38,1,   ,0
 2019-12-06,Boyd County,Russell,51,40,0,   ,0
 2019-12-06,Breckinridge County,Cloverport,72,32,2,   ,0
-2019-12-06,Brookside Christian (Stockton). CA,DeSales,62,61,2,   ,0
+2019-12-06,Out of State,DeSales,62,61,2,   ,0
 2019-12-06,Bryan Station,Great Crossing,58,57,0,   ,0
 2019-12-06,Bullitt Central,Bethlehem,56,54,1,  (overtime) ,1
 2019-12-06,Butler County,Edmonson County,73,64,1,   ,0
@@ -209,10 +209,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-06,Collins,North Bullitt,81,50,1,   ,0
 2019-12-06,Daviess County,Warren East,58,54,0,   ,0
 2019-12-06,Doss,Bullitt East,61,46,1,   ,0
-2019-12-06,Fairview,Covenant (Barboursville). WV,86,73,1,   ,0
+2019-12-06,Fairview,Out of State,86,73,1,   ,0
 2019-12-06,Fern Creek,Waggener,70,68,0,   ,0
-2019-12-06,Fleming County,Ripley-Union-Lewis-Huntington (Ripley). OH,73,59,1,   ,0
-2019-12-06,Fort Campbell,Clarksville Christian (Clarksville). TN,48,35,0,   ,0
+2019-12-06,Fleming County,Out of State,73,59,1,   ,0
+2019-12-06,Fort Campbell,Out of State,48,35,0,   ,0
 2019-12-06,Frankfort,Carroll County,71,64,1,   ,0
 2019-12-06,Franklin-Simpson,Clinton County,46,45,0,   ,0
 2019-12-06,Fulton County,Christian Fellowship,57,54,1,   ,0
@@ -228,8 +228,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-06,Jackson County,Red Bird,63,59,1,   ,0
 2019-12-06,John Hardin,University Heights,81,44,2,   ,0
 2019-12-06,Knott County Central,Estill County,45,38,1,   ,0
-2019-12-06,Knox Central,Jellico. TN,106,70,0,   ,0
-2019-12-06,Lee County,Cumberland Homeschool Athletic Teams,95,72,2,   ,0
+2019-12-06,Knox Central,Out of State,106,70,0,   ,0
+2019-12-06,Lee County,Out of State,95,72,2,   ,0
 2019-12-06,Lewis County,Mason County,69,68,1,   ,0
 2019-12-06,Lexington Catholic,Danville,73,61,0,   ,0
 2019-12-06,Lincoln County,Rockcastle County,63,39,1,   ,0
@@ -264,7 +264,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-06,St. Mary,Hickman County,65,43,0,   ,0
 2019-12-06,St. Patrick,Burgin,61,41,0,   ,0
 2019-12-06,St. Xavier,DuPont Manual,66,53,1,   ,0
-2019-12-06,Switzerland County (Vevay). IN,Trimble County,60,51,1,   ,0
+2019-12-06,Out of State,Trimble County,60,51,1,   ,0
 2019-12-06,Todd County Central,Ballard Memorial,60,57,0,   ,0
 2019-12-06,Trigg County,Crittenden County,61,43,0,   ,0
 2019-12-06,Trinity (Louisville),Madison Southern,48,44,0,  (overtime) ,1
@@ -272,45 +272,45 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-06,Walton-Verona,Dixie Heights,84,70,1,   ,0
 2019-12-06,Wayne County,Garrard County,53,44,1,   ,0
 2019-12-06,Western,Southern,60,51,0,   ,0
-2019-12-06,White Academy (Harrogate). TN,Oneida Baptist Institute,63,55,0,   ,0
+2019-12-06,Out of State,Oneida Baptist Institute,63,55,0,   ,0
 2019-12-06,Wolfe County,Letcher County Central,70,63,0,   ,0
-2019-12-07,La Lumiere (LaPorte). IN,Cooper,67,29,2, Griffin Elite Classic  ,0
-2019-12-07,Alton. IL,Paducah Tilghman,71,66,1,   ,0
+2019-12-07,Out of State,Cooper,67,29,2, Griffin Elite Classic  ,0
+2019-12-07,Out of State,Paducah Tilghman,71,66,1,   ,0
 2019-12-07,Ashland Blazer,Madison Central,68,51,2,   ,0
 2019-12-07,Barbourville,Bell County,70,52,0,   ,0
-2019-12-07,Berea,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),100,30,1,   ,0
+2019-12-07,Berea,Out of State,100,30,1,   ,0
 2019-12-07,Berea,Lee County,85,57,1,   ,0
 2019-12-07,Betsy Layne,Magoffin County,72,64,2,   ,0
 2019-12-07,Bowling Green,Bardstown,63,46,2,   ,0
 2019-12-07,Boyd County,Menifee County,96,56,1,   ,0
 2019-12-07,Bracken County,Pendleton County,76,67,0,   ,0
-2019-12-07,Briarcrest Christian (Eads). TN,Male,78,70,2,  (overtime) ,1
+2019-12-07,Out of State,Male,78,70,2,  (overtime) ,1
 2019-12-07,Bullitt East,Logan County,67,63,2,   ,0
-2019-12-07,Calloway County,Central (Murfreesboro). TN,67,39,1,   ,0
+2019-12-07,Calloway County,Out of State,67,39,1,   ,0
 2019-12-07,Campbellsville,Glasgow,83,81,1,  (overtime) ,1
 2019-12-07,Carlisle County,Community Christian (Paducah),60,37,1,   ,0
 2019-12-07,Clay County,Woodford County,65,64,2,   ,0
 2019-12-07,Clinton County,North Hardin,54,44,2,   ,0
-2019-12-07,Cobden. IL,Lyon County,65,45,2,   ,0
+2019-12-07,Out of State,Lyon County,65,45,2,   ,0
 2019-12-07,Collins,Gallatin County,66,44,1,   ,0
-2019-12-07,Corbin,Montwood,63,51,2,   ,0
+2019-12-07,Corbin,Out of State,63,51,2,   ,0
 2019-12-07,Cordia,Pikeville,71,70,2,   ,0
 2019-12-07,Daviess County,Trigg County,65,53,0,   ,0
-2019-12-07,DeSales,Franklin,51,27,2,   ,0
+2019-12-07,DeSales,Out of State,51,27,2,   ,0
 2019-12-07,East Carter,Bath County,58,45,0,   ,0
 2019-12-07,Edmonson County,Cumberland County,62,58,0,   ,0
 2019-12-07,Elizabethtown,Washington County,98,31,2,   ,0
 2019-12-07,Eminence,Lee County,96,69,2,   ,0
-2019-12-07,Eminence,Cumberland Homeschool Athletic Teams,95,19,2,   ,0
+2019-12-07,Eminence,Out of State,95,19,2,   ,0
 2019-12-07,Evangel Christian,Heritage Academy,76,71,1,   ,0
 2019-12-07,Franklin County,Nelson County,48,40,0,   ,0
 2019-12-07,Frederick Douglass,Rowan County,79,61,2,   ,0
 2019-12-07,George Rogers Clark,Floyd Central,90,51,1,   ,0
 2019-12-07,Grayson County,Bethlehem,60,43,2,   ,0
-2019-12-07,Grundy. VA,Pike County Central,57,53,0,   ,0
+2019-12-07,Out of State,Pike County Central,57,53,0,   ,0
 2019-12-07,Hazard,Bryan Station,57,46,1,   ,0
 2019-12-07,Henderson County,Fairdale,61,51,2,   ,0
-2019-12-07,Herrin. IL,Graves County,48,45,2,   ,0
+2019-12-07,Out of State,Graves County,48,45,2,   ,0
 2019-12-07,Holy Cross (Covington),Mercer County,68,64,0,   ,0
 2019-12-07,Iroquois,Boone County,59,54,0,   ,0
 2019-12-07,Jackson City,Walden,64,49,1,   ,0
@@ -322,24 +322,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-07,Lexington Catholic,Model,84,54,1,   ,0
 2019-12-07,Lexington Christian,Buckhorn,84,44,2,   ,0
 2019-12-07,Louisville Collegiate,Fort Knox,72,49,0,   ,0
-2019-12-07,Lynn Camp,Sunbright. TN,71,60,0,   ,0
+2019-12-07,Lynn Camp,Out of State,71,60,0,   ,0
 2019-12-07,Madisonville-North Hopkins,McCracken County,72,67,2,   ,0
-2019-12-07,Martin County,Beth Haven Christian (Omar). WV,87,53,1,   ,0
+2019-12-07,Martin County,Out of State,87,53,1,   ,0
 2019-12-07,Mason County,Frankfort,80,31,2,   ,0
 2019-12-07,Montgomery County,Greenup County,65,57,2,   ,0
 2019-12-07,Newport,Paul Laurence Dunbar,63,59,2,   ,0
 2019-12-07,North Bullitt,Central Hardin,78,64,0,   ,0
 2019-12-07,North Laurel,Harlan County,66,63,1,   ,0
-2019-12-07,Oak Hill Academy (Mouth of Wilson). VA,Covington Catholic,50,38,2,   ,0
+2019-12-07,Out of State,Covington Catholic,50,38,2,   ,0
 2019-12-07,Oldham County,Danville,71,56,2,   ,0
 2019-12-07,Oneida Baptist Institute,Red Bird,75,46,1,   ,0
 2019-12-07,Owensboro,University Heights,68,64,2,   ,0
 2019-12-07,Owsley County,June Buchanan,73,43,1,   ,0
 2019-12-07,Paris,Danville Christian,72,47,1,   ,0
-2019-12-07,Perry Central (Leopold). IN,Hancock County,46,43,1,   ,0
+2019-12-07,Out of State,Hancock County,46,43,1,   ,0
 2019-12-07,Perry County Central,Paintsville,80,73,1,   ,0
 2019-12-07,Prestonsburg,Letcher County Central,78,64,2,   ,0
-2019-12-07,Prodigy Prep (Orlando). FL,Marshall County,84,76,0,   ,0
+2019-12-07,Out of State,Marshall County,84,76,0,   ,0
 2019-12-07,Pulaski County,West Jessamine,71,67,1,   ,0
 2019-12-07,Raceland,Dayton,65,49,0,   ,0
 2019-12-07,Rose Hill Christian,Burgin,73,50,1,   ,0
@@ -352,9 +352,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-07,South Oldham,Grant County,72,68,1,   ,0
 2019-12-07,Southwestern,East Jessamine,59,53,2,   ,0
 2019-12-07,Spencer County,Shelby Valley,71,69,2,   ,0
-2019-12-07,St. Xavier,Maribyrnong College (Victoria. Australia),83,67,1,   ,0
+2019-12-07,St. Xavier,Out of State,83,67,1,   ,0
 2019-12-07,Taylor County,Casey County,63,54,1,   ,0
-2019-12-07,Trinity (Louisville),Centerville. OH,47,46,1,   ,0
+2019-12-07,Trinity (Louisville),Out of State,47,46,1,   ,0
 2019-12-07,Trinity (Whitesville),Apollo,75,62,1,   ,0
 2019-12-07,Union County,Hopkins County Central,63,61,2,   ,0
 2019-12-07,Webster County,Caldwell County,61,49,2,   ,0
@@ -369,14 +369,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-09,Breckinridge County,Owensboro Catholic,73,71,1,   ,0
 2019-12-09,Campbell County,Calvary Christian,71,56,0,   ,0
 2019-12-09,Christian Academy-Louisville,Shelby County,80,44,1,   ,0
-2019-12-09,Covenant (Barboursville). WV,Rose Hill Christian,71,65,1,   ,0
+2019-12-09,Out of State,Rose Hill Christian,71,65,1,   ,0
 2019-12-09,Fort Campbell,Livingston Central,54,49,0,   ,0
 2019-12-09,Frankfort,Burgin,77,27,0,   ,0
 2019-12-09,Grant County,Harrison County,70,63,0,   ,0
 2019-12-09,Highlands,Holy Cross (Covington),96,65,1,   ,0
-2019-12-09,Lynn Camp,Thomas Walker (Ewing). VA,84,62,1,   ,0
-2019-12-09,McLean County,Evansville Christian School. IN,63,53,1,   ,0
-2019-12-09,Model,Bluegrass United (Lexington). (KY home school),57,51,1,   ,0
+2019-12-09,Lynn Camp,Out of State,84,62,1,   ,0
+2019-12-09,McLean County,Out of State,63,53,1,   ,0
+2019-12-09,Model,Out of State,57,51,1,   ,0
 2019-12-09,Nelson County,Grayson County,64,46,1,   ,0
 2019-12-09,Oneida Baptist Institute,Jackson County,71,57,0,   ,0
 2019-12-09,St. Mary,Community Christian (Paducah),57,32,1,   ,0
@@ -385,8 +385,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-09,Whitefield Academy,Kentucky Country Day,85,74,1,   ,0
 2019-12-10,Allen County-Scottsville,Adair County,46,44,2,   ,0
 2019-12-10,Anderson County,Rockcastle County,49,30,1,   ,0
-2019-12-10,Ashland Blazer,Spring Valley (Huntington). WV,76,58,0,   ,0
-2019-12-10,Augusta,Fayetteville-Perry (Fayetteville). OH,64,45,1,   ,0
+2019-12-10,Ashland Blazer,Out of State,76,58,0,   ,0
+2019-12-10,Augusta,Out of State,64,45,1,   ,0
 2019-12-10,Bardstown,Washington County,97,52,0,   ,0
 2019-12-10,Bath County,Morgan County,75,57,2,   ,0
 2019-12-10,Beechwood,Newport Central Catholic,60,47,1,   ,0
@@ -411,7 +411,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-10,Covington Catholic,St. Henry,64,38,1,   ,0
 2019-12-10,Crittenden County,Caldwell County,65,62,1,   ,0
 2019-12-10,Cumberland County,Metcalfe County,86,83,1,  (overtime) ,1
-2019-12-10,Danville Christian,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),83,33,1,   ,0
+2019-12-10,Danville Christian,Out of State,83,33,1,   ,0
 2019-12-10,Dawson Springs,Livingston Central,75,49,0,   ,0
 2019-12-10,DuPont Manual,St. Francis,73,37,1,   ,0
 2019-12-10,Eastern,Christian Academy-Louisville,67,59,1,   ,0
@@ -424,13 +424,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-10,Fulton County,Community Christian (Paducah),74,39,0,   ,0
 2019-12-10,George Rogers Clark,Madison Central,73,64,0,   ,0
 2019-12-10,Great Crossing,East Jessamine,60,54,0,   ,0
-2019-12-10,Halls. TN,Fulton City,55,50,0,   ,0
+2019-12-10,Out of State,Fulton City,55,50,0,   ,0
 2019-12-10,Hancock County,Cloverport,48,42,2,   ,0
 2019-12-10,Hart County,Green County,67,59,0,   ,0
 2019-12-10,Henderson County,Apollo,60,58,1,   ,0
 2019-12-10,Henry Clay,Bryan Station,64,62,1,   ,0
 2019-12-10,Holy Cross (Louisville),Iroquois,65,64,0,  (overtime) ,1
-2019-12-10,Hopkinsville,Northwest (Clarksville). TN,63,45,0,   ,0
+2019-12-10,Hopkinsville,Out of State,63,45,0,   ,0
 2019-12-10,Jeffersontown,Pleasure Ridge Park,60,55,0,   ,0
 2019-12-10,John Hardin,Fort Knox,97,33,0,   ,0
 2019-12-10,Knott County Central,Knox Central,68,63,2,   ,0
@@ -458,7 +458,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-10,Prestonsburg,Magoffin County,65,61,1,   ,0
 2019-12-10,Raceland,Elliott County,64,49,1,   ,0
 2019-12-10,Robertson County,Bracken County,93,57,0,   ,0
-2019-12-10,Rose Hill Christian,Sciotoville Community (Portsmouth). OH,86,53,1,   ,0
+2019-12-10,Rose Hill Christian,Out of State,86,53,1,   ,0
 2019-12-10,Rowan County,West Carter,69,54,1,   ,0
 2019-12-10,Russell County,Greenwood,64,53,1,   ,0
 2019-12-10,Sayre,Western Hills,70,60,1,   ,0
@@ -495,7 +495,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-12,Allen County-Scottsville,Greenwood,72,63,0,   ,0
 2019-12-12,Anderson County,Grant County,33,28,1,   ,0
 2019-12-12,Bishop Brossart,Ludlow,64,31,1,   ,0
-2019-12-12,Campbell County (Jacksboro). TN,Whitley County,54,47,1,   ,0
+2019-12-12,Out of State,Whitley County,54,47,1,   ,0
 2019-12-12,Carroll County,Owen County,65,52,1,   ,0
 2019-12-12,Cordia,Letcher County Central,68,40,1,   ,0
 2019-12-12,Dayton,Covington Latin,57,33,1,   ,0
@@ -504,7 +504,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-12,Harlan County,Bell County,65,59,0,  (overtime) ,1
 2019-12-12,Highlands,Scott,85,72,1,   ,0
 2019-12-12,Lloyd Memorial,Eminence,74,24,0,   ,0
-2019-12-12,McCreary Central,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),69,15,1,   ,0
+2019-12-12,McCreary Central,Out of State,69,15,1,   ,0
 2019-12-12,Meade County,Cloverport,61,32,2,   ,0
 2019-12-12,Newport,Holmes,67,65,0,   ,0
 2019-12-12,North Hardin,Fort Knox,78,57,0,   ,0
@@ -513,7 +513,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-12,Pikeville,East Ridge,85,69,1,   ,0
 2019-12-12,Raceland,Augusta,69,53,1,   ,0
 2019-12-12,Rowan County,Lewis County,73,59,1,   ,0
-2019-12-12,Russellville,East Robertson (Cross Plains). TN,68,67,0,   ,0
+2019-12-12,Russellville,Out of State,68,67,0,   ,0
 2019-12-12,Ryle,Williamstown,56,41,0,   ,0
 2019-12-12,Scott County,Lexington Christian,84,73,1,   ,0
 2019-12-12,Shelby Valley,Floyd Central,80,60,0,   ,0
@@ -536,14 +536,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-13,Boyd County,Rowan County,68,44,1,   ,0
 2019-12-13,Breckinridge County,Hancock County,56,45,1,   ,0
 2019-12-13,Butler County,Trinity (Whitesville),83,66,1,   ,0
-2019-12-13,Cairo. IL,Fulton County,81,79,1,  (double overtime) ,0
+2019-12-13,Out of State,Fulton County,81,79,1,  (double overtime) ,1
 2019-12-13,Calvary Christian,Villa Madonna,78,49,1,   ,0
 2019-12-13,Campbellsville,Taylor County,79,76,0,   ,0
 2019-12-13,Carlisle County,Hickman County,66,53,0,   ,0
 2019-12-13,Caverna,Green County,65,59,1,   ,0
 2019-12-13,Central,Shawnee,66,49,1,   ,0
 2019-12-13,Christian County,Hopkinsville,71,61,0,   ,0
-2019-12-13,Christian Fellowship,Agape Christian (Energy). IL,72,58,1,   ,0
+2019-12-13,Christian Fellowship,Out of State,72,58,1,   ,0
 2019-12-13,Clay County,Knott County Central,75,61,2,   ,0
 2019-12-13,Clinton County,Metcalfe County,53,49,0,   ,0
 2019-12-13,Collins,Shelby County,66,53,0,   ,0
@@ -571,7 +571,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-13,Jackson County,Powell County,97,76,1,   ,0
 2019-12-13,Jeffersontown,Doss,56,53,1,   ,0
 2019-12-13,Johnson Central,Shelby Valley,56,53,0,   ,0
-2019-12-13,La Salle (Cincinnati). OH,Covington Catholic,55,46,0,   ,0
+2019-12-13,Out of State,Covington Catholic,55,46,0,   ,0
 2019-12-13,LaRue County,Hart County,86,60,1,   ,0
 2019-12-13,Lawrence County,Betsy Layne,87,73,1,   ,0
 2019-12-13,Lexington Catholic,Paul Laurence Dunbar,72,54,1,   ,0
@@ -609,48 +609,48 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-13,Union County,Bracken County,83,78,0,   ,0
 2019-12-13,Waggener,Southern,83,67,0,   ,0
 2019-12-13,Walden,Frankfort Christian,59,18,1,   ,0
-2019-12-13,Webster County,Evansville Day (Evansville). IN,86,59,1,   ,0
+2019-12-13,Webster County,Out of State,86,59,1,   ,0
 2019-12-13,Western Hills,Frankfort,54,41,1,   ,0
 2019-12-13,Whitefield Academy,Brown,62,48,0,   ,0
-2019-12-13,Whitley County,White Academy (Harrogate). TN,76,72,1,   ,0
-2019-12-14,Augusta,Teays Valley Christian,90,83,2, Coach Randy Ward Classic (double overtime) ,0
+2019-12-13,Whitley County,Out of State,76,72,1,   ,0
+2019-12-14,Augusta,Out of State,90,83,2, Coach Randy Ward Classic (double overtime) ,1
 2019-12-14,Anderson County,Perry County Central,68,59,0,   ,0
-2019-12-14,Ashland Blazer,Capital,71,50,2,   ,0
+2019-12-14,Ashland Blazer,Out of State,71,50,2,   ,0
 2019-12-14,Bardstown,North Bullitt,82,58,2,   ,0
-2019-12-14,Beechwood,Indianapolis Cardinal Ritter (Indianapolis). IN,76,71,1,   ,0
+2019-12-14,Beechwood,Out of State,76,71,1,   ,0
 2019-12-14,Belfry,Bath County,66,63,0,   ,0
 2019-12-14,Bishop Brossart,Paris,81,58,0,   ,0
-2019-12-14,Blue Ridge (St. George). VA,Ballard,76,60,2,   ,0
-2019-12-14,Boone County,South Dearborn (Aurora). IN,73,69,0,   ,0
+2019-12-14,Out of State,Ballard,76,60,2,   ,0
+2019-12-14,Boone County,Out of State,73,69,0,   ,0
 2019-12-14,Bourbon County,Henry Clay,76,69,1,   ,0
 2019-12-14,Bowling Green,Pikeville,62,45,2,   ,0
 2019-12-14,Boyd County,Lawrence County,92,71,1,   ,0
-2019-12-14,Briarcrest Christian (Eads). TN,Marshall County,79,35,2,   ,0
+2019-12-14,Out of State,Marshall County,79,35,2,   ,0
 2019-12-14,Bryan Station,Woodford County,56,55,2,   ,0
-2019-12-14,Cabell Midland (Ona). WV,Russell,70,62,0,  (double overtime) ,0
-2019-12-14,Calloway County,Carterville. IL,86,56,2,   ,0
-2019-12-14,Campbell County,Batesville. IN,73,68,1,  (overtime) ,1
+2019-12-14,Out of State,Russell,70,62,0,  (double overtime) ,1
+2019-12-14,Calloway County,Out of State,86,56,2,   ,0
+2019-12-14,Campbell County,Out of State,73,68,1,  (overtime) ,1
 2019-12-14,Carroll County,Western,87,86,0,   ,0
-2019-12-14,Christian Academy (Madison). IN,Covington Latin,63,40,1,   ,0
+2019-12-14,Out of State,Covington Latin,63,40,1,   ,0
 2019-12-14,Christian Academy-Louisville,Breathitt County,63,62,0,   ,0
-2019-12-14,Christian Brothers (Memphis). TN,Murray,47,42,2,   ,0
+2019-12-14,Out of State,Murray,47,42,2,   ,0
 2019-12-14,Christian County,Simon Kenton,66,61,1,   ,0
 2019-12-14,Cloverport,Burgin,71,68,0,  (overtime) ,1
-2019-12-14,Collins,Southridge,79,42,2,   ,0
+2019-12-14,Collins,Out of State,79,42,2,   ,0
 2019-12-14,Conner,Lloyd Memorial,70,66,2,   ,0
-2019-12-14,Covington Catholic,Beckley Prep. WV,71,60,2,   ,0
+2019-12-14,Covington Catholic,Out of State,71,60,2,   ,0
 2019-12-14,East Jessamine,Franklin County,51,41,1,   ,0
 2019-12-14,East Ridge,Prestonsburg,77,61,1,   ,0
 2019-12-14,Eastern,DeSales,63,47,2,   ,0
 2019-12-14,Edmonson County,Monroe County,75,65,2,   ,0
 2019-12-14,Elliott County,Nicholas County,66,63,2,   ,0
-2019-12-14,Estill County,Bluegrass United,61,56,2,   ,0
-2019-12-14,Fairdale,Riverdale,65,46,2,   ,0
+2019-12-14,Estill County,Out of State,61,56,2,   ,0
+2019-12-14,Fairdale,Out of State,65,46,2,   ,0
 2019-12-14,Fern Creek,Trinity (Louisville),55,49,0,   ,0
-2019-12-14,Forest Park (Ferdinand). IN,Apollo,70,57,2,   ,0
+2019-12-14,Out of State,Apollo,70,57,2,   ,0
 2019-12-14,Fort Campbell,Christian Fellowship,65,62,1,   ,0
-2019-12-14,George Washington (Charleston). WV,East Carter,68,35,2,   ,0
-2019-12-14,Great Crossing,Cambridge City Lincoln (Cambridge City). IN,87,53,1,   ,0
+2019-12-14,Out of State,East Carter,68,35,2,   ,0
+2019-12-14,Great Crossing,Out of State,87,53,1,   ,0
 2019-12-14,Greenup County,Dixie Heights,66,52,1,   ,0
 2019-12-14,Greenwood,Clinton County,60,53,0,   ,0
 2019-12-14,Hazard,Clay County,57,43,2,   ,0
@@ -662,10 +662,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-14,Jackson City,Jenkins,80,51,2,   ,0
 2019-12-14,Jackson County,Owsley County,67,61,1,   ,0
 2019-12-14,John Hardin,Owensboro Catholic,81,50,2,   ,0
-2019-12-14,Kankakee. IL,St. Xavier,54,50,2,  (overtime) ,1
+2019-12-14,Out of State,St. Xavier,54,50,2,  (overtime) ,1
 2019-12-14,Knott County Central,Martin County,84,72,2,   ,0
 2019-12-14,Knox Central,Pike County Central,71,58,2,   ,0
-2019-12-14,LaRue County,Christian Academy,75,55,2,   ,0
+2019-12-14,LaRue County,Out of State,75,55,2,   ,0
 2019-12-14,Lafayette,Lexington Christian,69,65,0,   ,0
 2019-12-14,Lee County,Dayton,59,55,2,   ,0
 2019-12-14,Lincoln County,South Laurel,54,40,2,   ,0
@@ -678,33 +678,33 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-14,Menifee County,Powell County,60,46,1,   ,0
 2019-12-14,Mercer County,Butler,53,48,2,   ,0
 2019-12-14,Morgan County,West Carter,67,49,1,   ,0
-2019-12-14,Mt. Vernon. IL,McCracken County,54,48,0,   ,0
+2019-12-14,Out of State,McCracken County,54,48,0,   ,0
 2019-12-14,Nelson County,Model,78,66,1,   ,0
-2019-12-14,Newport,New Richmond. OH,77,58,1,   ,0
-2019-12-14,Newport Central Catholic,Purcell Marian,57,44,2,   ,0
+2019-12-14,Newport,Out of State,77,58,1,   ,0
+2019-12-14,Newport Central Catholic,Out of State,57,44,2,   ,0
 2019-12-14,North Hardin,Taylor County,80,52,0,   ,0
 2019-12-14,North Laurel,Oneida Baptist Institute,79,46,1,   ,0
 2019-12-14,North Oldham,Moore,77,76,2,   ,0
-2019-12-14,Notre Dame (Portsmouth). OH,Rose Hill Christian,55,49,0,   ,0
-2019-12-14,Ohio County,Evansville Central,68,59,2,   ,0
+2019-12-14,Out of State,Rose Hill Christian,55,49,0,   ,0
+2019-12-14,Ohio County,Out of State,68,59,2,   ,0
 2019-12-14,Oldham County,Spencer County,74,59,1,   ,0
 2019-12-14,Owen County,Eminence,61,44,0,   ,0
-2019-12-14,Owensboro,Castle (Newburgh). IN,60,46,1,   ,0
+2019-12-14,Owensboro,Out of State,60,46,1,   ,0
 2019-12-14,Paducah Tilghman,Graves County,53,52,1,   ,0
 2019-12-14,Phelps,Harlan,80,55,2,   ,0
 2019-12-14,Pineville,Berea,78,73,0,   ,0
 2019-12-14,Pulaski County,Harlan County,74,69,2,   ,0
 2019-12-14,Red Bird,June Buchanan,65,45,1,   ,0
 2019-12-14,Robertson County,Buckhorn,81,58,2,   ,0
-2019-12-14,Scott County,Jeffersonville. IN,77,72,1,   ,0
+2019-12-14,Scott County,Out of State,77,72,1,   ,0
 2019-12-14,Seneca,Kentucky Country Day,95,67,1,   ,0
-2019-12-14,Shawe Memorial (Madison). IN,Ludlow,46,37,1,   ,0
+2019-12-14,Out of State,Ludlow,46,37,1,   ,0
 2019-12-14,Somerset,Madison Central,71,66,0,  (overtime) ,1
-2019-12-14,South Fulton. TN,Fulton City,80,57,0,   ,0
+2019-12-14,Out of State,Fulton City,80,57,0,   ,0
 2019-12-14,Southwestern,Thomas Nelson,82,43,2,   ,0
 2019-12-14,St. Mary,Livingston Central,52,39,0,   ,0
-2019-12-14,Taft (Cincinnati). OH,Holmes,105,81,2,   ,0
-2019-12-14,Tell City. IN,Daviess County,47,36,2,   ,0
+2019-12-14,Out of State,Holmes,105,81,2,   ,0
+2019-12-14,Out of State,Daviess County,47,36,2,   ,0
 2019-12-14,Trinity (Whitesville),Todd County Central,57,56,0,   ,0
 2019-12-14,Union County,Fleming County,66,41,2,   ,0
 2019-12-14,University Heights,Crittenden County,81,58,1,   ,0
@@ -726,15 +726,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-16,Calvary Christian,Heritage Academy,98,30,0,   ,0
 2019-12-16,Carlisle County,Livingston Central,60,37,0,   ,0
 2019-12-16,Corbin,Jackson County,96,77,1,   ,0
-2019-12-16,Crittenden County,Hardin County (Elizabethtown). IL,79,62,1,   ,0
+2019-12-16,Crittenden County,Out of State,79,62,1,   ,0
 2019-12-16,Elliott County,Morgan County,68,62,1,  (overtime) ,1
-2019-12-16,Fairdale,Moore,82,69,0,  (double overtime) ,0
-2019-12-16,Fairview,Hannan (Ashton). WV,83,43,0,   ,0
+2019-12-16,Fairdale,Moore,82,69,0,  (double overtime) ,1
+2019-12-16,Fairview,Out of State,83,43,0,   ,0
 2019-12-16,Fern Creek,Whitefield Academy,89,62,1,   ,0
 2019-12-16,Frankfort,Barbourville,61,58,0,  (overtime) ,1
 2019-12-16,Franklin-Simpson,Warren East,64,62,2,   ,0
 2019-12-16,Glasgow,Warren Central,49,48,0,   ,0
-2019-12-16,Greenup County,South Point. OH,81,66,1,   ,0
+2019-12-16,Greenup County,Out of State,81,66,1,   ,0
 2019-12-16,Hickman County,Community Christian (Paducah),76,49,0,   ,0
 2019-12-16,Highlands,Dayton,92,49,1,   ,0
 2019-12-16,Knott County Central,Cordia,86,78,0,   ,0
@@ -751,7 +751,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-16,Robertson County,Harrison County,91,61,1,   ,0
 2019-12-16,Rowan County,Menifee County,59,39,0,   ,0
 2019-12-16,Russell County,Metcalfe County,57,54,0,   ,0
-2019-12-16,Rye Cove (Clinchport). VA,Jenkins,69,67,1,   ,0
+2019-12-16,Out of State,Jenkins,69,67,1,   ,0
 2019-12-16,Shelby Valley,Pike County Central,62,29,1,   ,0
 2019-12-16,South Oldham,Trimble County,73,30,0,   ,0
 2019-12-16,South Warren,Todd County Central,67,51,0,   ,0
@@ -763,7 +763,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-17,Barren County,Caverna,74,40,1,   ,0
 2019-12-17,Beechwood,Dixie Heights,74,58,1,   ,0
 2019-12-17,Bell County,Harlan,63,52,0,   ,0
-2019-12-17,Bluegrass United (Lexington). (KY home school),Paris,53,48,0,   ,0
+2019-12-17,Out of State,Paris,53,48,0,   ,0
 2019-12-17,Bourbon County,Montgomery County,67,62,0,   ,0
 2019-12-17,Boyle County,Rockcastle County,61,52,1,   ,0
 2019-12-17,Breckinridge County,Trinity (Whitesville),85,62,1,   ,0
@@ -774,7 +774,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-17,Butler County,Russellville,68,62,0,   ,0
 2019-12-17,Caldwell County,Todd County Central,54,49,1,   ,0
 2019-12-17,Calloway County,Graves County,60,50,1,   ,0
-2019-12-17,Cannelton. IN,Cloverport,59,54,2,   ,0
+2019-12-17,Out of State,Cloverport,59,54,2,   ,0
 2019-12-17,Carlisle County,Fulton City,59,49,1,   ,0
 2019-12-17,Carroll County,Henry County,51,50,0,   ,0
 2019-12-17,Central,Portland Christian,65,22,1,   ,0
@@ -792,14 +792,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-17,Elizabethtown,Grayson County,71,39,1,   ,0
 2019-12-17,Estill County,Owsley County,57,47,0,  (overtime) ,1
 2019-12-17,Fleming County,Rose Hill Christian,89,76,0,   ,0
-2019-12-17,Fort Knox,Louisville Tigers. (KY home school),68,52,1,   ,0
+2019-12-17,Fort Knox,Out of State,68,52,1,   ,0
 2019-12-17,Frankfort,Nicholas County,84,66,0,   ,0
 2019-12-17,Frederick Douglass,Madison Southern,80,66,1,   ,0
 2019-12-17,Gallatin County,Owen County,75,50,0,   ,0
 2019-12-17,Great Crossing,Franklin County,70,43,1,   ,0
 2019-12-17,Greenwood,Bowling Green,54,42,1,   ,0
-2019-12-17,Grundy. VA,East Ridge,86,81,1,   ,0
-2019-12-17,Halls. TN,Fulton County,73,64,1,   ,0
+2019-12-17,Out of State,East Ridge,86,81,1,   ,0
+2019-12-17,Out of State,Fulton County,73,64,1,   ,0
 2019-12-17,Harlan County,Middlesboro,47,40,1,   ,0
 2019-12-17,Hazard,Leslie County,84,59,1,   ,0
 2019-12-17,Hickman County,Ballard Memorial,69,62,1,   ,0
@@ -845,14 +845,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-17,Webster County,Livingston Central,83,33,1,   ,0
 2019-12-17,Western,Valley,76,50,1,   ,0
 2019-12-17,Whitley County,Berea,64,58,1,   ,0
-2019-12-17,Williamsburg,Jellico. TN,85,59,0,   ,0
+2019-12-17,Williamsburg,Out of State,85,59,0,   ,0
 2019-12-17,Wolfe County,Breathitt County,69,58,0,   ,0
 2019-12-17,Woodford County,Scott County,67,65,1,   ,0
 2019-12-18,Anderson County,Walton-Verona,64,50,0,   ,0
 2019-12-18,Bracken County,Villa Madonna,69,66,0,   ,0
 2019-12-18,Conner,Campbell County,60,47,0,   ,0
-2019-12-18,Fort Lauderdale. FL,Boyd County,86,65,2,   ,0
-2019-12-18,Fort Myers. FL,Marshall County,74,71,2,  (overtime) ,1
+2019-12-18,Out of State,Boyd County,86,65,2,   ,0
+2019-12-18,Out of State,Marshall County,74,71,2,  (overtime) ,1
 2019-12-18,Ludlow,Dayton,82,50,1,   ,0
 2019-12-18,Montgomery County,Trimble County,93,56,0,   ,0
 2019-12-18,Newport Central Catholic,Boone County,61,47,0,   ,0
@@ -862,69 +862,69 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-19,Berea,Evangel Christian,91,26,1,   ,0
 2019-12-19,Betsy Layne,Morgan County,59,58,2,   ,0
 2019-12-19,Bourbon County,Southern,75,58,2,   ,0
-2019-12-19,Buckhorn,Gordon Central,71,35,2,   ,0
+2019-12-19,Buckhorn,Out of State,71,35,2,   ,0
 2019-12-19,Caldwell County,Dawson Springs,75,50,0,   ,0
 2019-12-19,Calvary Christian,Whitefield Academy,71,58,2,   ,0
-2019-12-19,Cannon County (Woodbury). TN,Bath County,53,51,2,   ,0
-2019-12-19,Collins,Trinity,70,69,2,  (overtime) ,1
+2019-12-19,Out of State,Bath County,53,51,2,   ,0
+2019-12-19,Collins,Trinity (Louisville),70,69,2,  (overtime) ,1
 2019-12-19,Cordia,Monroe County,77,64,2,   ,0
-2019-12-19,Danville Christian,L.I.G.H.T (Danville). (KY home school),75,58,1,   ,0
+2019-12-19,Danville Christian,Out of State,75,58,1,   ,0
 2019-12-19,DeSales,DuPont Manual,48,46,2,   ,0
 2019-12-19,East Carter,Fairview,68,54,0,   ,0
 2019-12-19,East Jessamine,Boyle County,72,58,0,   ,0
 2019-12-19,Estill County,Menifee County,67,56,2,   ,0
 2019-12-19,Fairdale,Martin County,66,48,1,   ,0
-2019-12-19,Faith Lutheran (Las Vegas). NV,Boyd County,74,67,2,   ,0
+2019-12-19,Out of State,Boyd County,74,67,2,   ,0
 2019-12-19,Fern Creek,Valley,84,48,1,   ,0
-2019-12-19,Fleming Island (Orange Park). FL,Frankfort,66,54,2,   ,0
-2019-12-19,Forest (Ocala). FL,Phelps,67,27,2,   ,0
+2019-12-19,Out of State,Frankfort,66,54,2,   ,0
+2019-12-19,Out of State,Phelps,67,27,2,   ,0
 2019-12-19,Graves County,Ballard Memorial,65,35,0,   ,0
 2019-12-19,Great Crossing,Scott County,64,52,0,   ,0
 2019-12-19,Harlan County,Shelby County,77,48,2,   ,0
 2019-12-19,Henry Clay,Moore,78,60,1,   ,0
 2019-12-19,Hopkinsville,Nelson County,53,48,2,   ,0
-2019-12-19,Ingomar (New Albany). MS,Bell County,70,64,2,   ,0
+2019-12-19,Out of State,Bell County,70,64,2,   ,0
 2019-12-19,Jackson City,Eminence,69,65,2,   ,0
 2019-12-19,Jeffersontown,Waggener,69,46,2,   ,0
 2019-12-19,Knott County Central,Breathitt County,64,52,0,   ,0
-2019-12-19,Lafayette,Columbia,37,35,2,   ,0
+2019-12-19,Lafayette,Out of State,37,35,2,   ,0
 2019-12-19,Lexington Catholic,Tates Creek,67,53,1,   ,0
 2019-12-19,Lynn Camp,Williamsburg,60,55,1,   ,0
 2019-12-19,Magoffin County,Pike County Central,57,38,1,   ,0
 2019-12-19,McCracken County,LaRue County,60,49,2,   ,0
 2019-12-19,McLean County,Cloverport,62,38,2,   ,0
-2019-12-19,Metcalfe County,Edmonson County,93,86,0,  (double overtime) ,0
+2019-12-19,Metcalfe County,Edmonson County,93,86,0,  (double overtime) ,1
 2019-12-19,Model,Owsley County,65,54,2,   ,0
-2019-12-19,Muhlenberg County,Cane Ridge,70,61,2,   ,0
+2019-12-19,Muhlenberg County,Out of State,70,61,2,   ,0
 2019-12-19,Newport,Dixie Heights,72,70,0,   ,0
 2019-12-19,North Oldham,Bardstown,65,56,2,   ,0
-2019-12-19,Notre Dame (Chattanooga). TN,Oneida Baptist Institute,43,42,2,   ,0
-2019-12-19,Pigeon Forge. TN,Pineville,65,63,0,   ,0
-2019-12-19,Pikeville,Livingston Academy,77,68,2,   ,0
-2019-12-19,Roman Catholic (Philadelphia). PA,Marshall County,79,26,2,   ,0
-2019-12-19,Russell County,Claiborne,73,62,2,  (double overtime) ,0
+2019-12-19,Out of State,Oneida Baptist Institute,43,42,2,   ,0
+2019-12-19,Out of State,Pineville,65,63,0,   ,0
+2019-12-19,Pikeville,Out of State,77,68,2,   ,0
+2019-12-19,Out of State,Marshall County,79,26,2,   ,0
+2019-12-19,Russell County,Out of State,73,62,2,  (double overtime) ,1
 2019-12-19,Sayre,Red Bird,77,41,2,   ,0
 2019-12-19,Seneca,Pleasure Ridge Park,67,60,0,   ,0
 2019-12-19,Shelby Valley,Wolfe County,69,50,2,   ,0
-2019-12-19,Somerset,Bluegrass United,69,47,2,   ,0
+2019-12-19,Somerset,Out of State,69,47,2,   ,0
 2019-12-19,Spencer County,Bullitt East,58,49,1,   ,0
-2019-12-19,Spring Garden. AL,Greenup County,83,76,2,   ,0
+2019-12-19,Out of State,Greenup County,83,76,2,   ,0
 2019-12-19,Thomas Nelson,Green County,67,66,2,   ,0
-2019-12-19,Union [Appalachia/Powell Valley] (Appalachia). VA,Johnson Central,73,70,2,   ,0
+2019-12-19,Out of State,Johnson Central,73,70,2,   ,0
 2019-12-19,Villa Madonna,Heritage Academy,91,65,0,   ,0
 2019-12-19,Warren Central,Franklin-Simpson,71,59,0,   ,0
 2019-12-19,Webster County,Daviess County,59,44,1,   ,0
-2019-12-19,Wellspring Guardians (Richmond). (KY home school),Jackson County,64,60,2,   ,0
+2019-12-19,Out of State,Jackson County,64,60,2,   ,0
 2019-12-19,Western Hills,Frankfort Christian,84,30,0,   ,0
 2019-12-20,Pleasure Ridge Park,Paintsville,81,50,1, Century Mortgage Derby City Jam  ,0
-2019-12-20,Ashland Blazer,Capital (Charleston). WV,75,67,1,   ,0
+2019-12-20,Ashland Blazer,Out of State,75,67,1,   ,0
 2019-12-20,Atherton,Garrard County,65,60,2,  (overtime) ,1
 2019-12-20,Augusta,Harrison County,65,56,0,   ,0
-2019-12-20,Baker County (Glen St. Mary). FL,Frankfort,63,53,2,   ,0
-2019-12-20,Ballard,Trotwood-Madison,109,99,2,   ,0
+2019-12-20,Out of State,Frankfort,63,53,2,   ,0
+2019-12-20,Ballard,Out of State,109,99,2,   ,0
 2019-12-20,Barren County,Allen County-Scottsville,61,46,0,   ,0
-2019-12-20,Bath County,Gordon Central,73,46,2,   ,0
-2019-12-20,Beech (Hendersonville). TN,Muhlenberg County,69,53,2,   ,0
+2019-12-20,Bath County,Out of State,73,46,2,   ,0
+2019-12-20,Out of State,Muhlenberg County,69,53,2,   ,0
 2019-12-20,Belfry,St. Francis,75,62,2,   ,0
 2019-12-20,Bell County,Whitefield Academy,60,41,2,   ,0
 2019-12-20,Berea,Jackson City,82,64,1,   ,0
@@ -935,15 +935,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-20,Caldwell County,Russellville,79,41,1,   ,0
 2019-12-20,Calloway County,University Heights,77,62,2,   ,0
 2019-12-20,Campbell County,Knox Central,71,70,2,   ,0
-2019-12-20,Cannon County (Woodbury). TN,Buckhorn,60,44,2,   ,0
+2019-12-20,Out of State,Buckhorn,60,44,2,   ,0
 2019-12-20,Central Hardin,Hart County,55,49,0,   ,0
-2019-12-20,Christian Fellowship,Pleasant View Christian (Pleasant View). TN,69,34,0,   ,0
-2019-12-20,Clark (Las Vegas). NV,Boyd County,75,55,2,   ,0
+2019-12-20,Christian Fellowship,Out of State,69,34,0,   ,0
+2019-12-20,Out of State,Boyd County,75,55,2,   ,0
 2019-12-20,Clinton County,Taylor County,54,48,1,   ,0
-2019-12-20,Columbia (Lake City). FL,Southern,61,37,2,   ,0
-2019-12-20,Conner,Ryle,70,64,0,  (double overtime) ,0
+2019-12-20,Out of State,Southern,61,37,2,   ,0
+2019-12-20,Conner,Ryle,70,64,0,  (double overtime) ,1
 2019-12-20,Cooper,Bryan Station,63,46,1,   ,0
-2019-12-20,Corbin,West Greene,66,42,2,   ,0
+2019-12-20,Corbin,Out of State,66,42,2,   ,0
 2019-12-20,Covington Catholic,Newport Central Catholic,59,24,1,   ,0
 2019-12-20,Crittenden County,Livingston Central,58,29,1,   ,0
 2019-12-20,Danville,Bullitt Central,76,69,2,   ,0
@@ -954,23 +954,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-20,Fern Creek,Central,64,46,1,   ,0
 2019-12-20,Frederick Douglass,Russell,66,48,2,   ,0
 2019-12-20,Gallatin County,Carroll County,66,57,1,   ,0
-2019-12-20,Gatlinburg-Pittman (Gatlinburg). TN,Russell County,74,70,2,  (overtime) ,1
+2019-12-20,Out of State,Russell County,74,70,2,  (overtime) ,1
 2019-12-20,George Rogers Clark,Paris,81,50,1,   ,0
 2019-12-20,Grant County,Scott,86,74,2,   ,0
 2019-12-20,Graves County,St. Mary,58,39,2,   ,0
 2019-12-20,Green County,Edmonson County,74,73,0,   ,0
-2019-12-20,Greenup County,Cedar Bluff. AL,79,72,2,   ,0
+2019-12-20,Greenup County,Out of State,79,72,2,   ,0
 2019-12-20,Greenwood,South Warren,73,52,0,   ,0
 2019-12-20,Hancock County,Trigg County,72,63,0,   ,0
 2019-12-20,Henry Clay,Harlan County,77,45,1,   ,0
-2019-12-20,Henry County,Owen County,64,59,0,  (double overtime) ,0
+2019-12-20,Henry County,Owen County,64,59,0,  (double overtime) ,1
 2019-12-20,Highlands,Madison Central,57,44,2,   ,0
 2019-12-20,Holmes,Pendleton County,74,67,2,   ,0
 2019-12-20,Holy Cross (Covington),West Carter,72,62,2,   ,0
 2019-12-20,Holy Cross (Louisville),Valley,51,48,1,   ,0
-2019-12-20,Humboldt. TN,Fulton County,60,54,0,   ,0
-2019-12-20,Huntington St. Joseph Prep (Huntington). WV,Pulaski County,78,66,0,   ,0
-2019-12-20,Ingomar (New Albany). MS,Calvary Christian,75,47,2,   ,0
+2019-12-20,Out of State,Fulton County,60,54,0,   ,0
+2019-12-20,Out of State,Pulaski County,78,66,0,   ,0
+2019-12-20,Out of State,Calvary Christian,75,47,2,   ,0
 2019-12-20,Iroquois,Bethlehem,58,35,2,   ,0
 2019-12-20,Jackson County,Owsley County,60,50,2,   ,0
 2019-12-20,Jeffersontown,Owensboro,64,34,2,   ,0
@@ -992,17 +992,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-20,McCreary Central,Lynn Camp,85,72,1,   ,0
 2019-12-20,Menifee County,Red Bird,72,62,2,   ,0
 2019-12-20,Middlesboro,Campbellsville,58,49,2,   ,0
-2019-12-20,Monroe County,Bluegrass United,78,64,2,   ,0
+2019-12-20,Monroe County,Out of State,78,64,2,   ,0
 2019-12-20,Montgomery County,Lewis County,77,62,2,   ,0
 2019-12-20,Moore,Shelby County,70,62,2,   ,0
 2019-12-20,Murray,McLean County,71,56,2,   ,0
-2019-12-20,Muscle Shoals. AL,Phelps,78,45,2,   ,0
+2019-12-20,Out of State,Phelps,78,45,2,   ,0
 2019-12-20,Nelson County,Daviess County,74,54,2,   ,0
 2019-12-20,North Bullitt,Henderson County,78,68,0,   ,0
 2019-12-20,North Laurel,South Laurel,73,63,1,   ,0
 2019-12-20,Oldham County,Walton-Verona,75,47,1,   ,0
 2019-12-20,Owensboro Catholic,Todd County Central,55,41,2,   ,0
-2019-12-20,Paducah Tilghman,Cairo. IL,94,60,1,   ,0
+2019-12-20,Paducah Tilghman,Out of State,94,60,1,   ,0
 2019-12-20,Portland Christian,Danville Christian,76,68,1,  (overtime) ,1
 2019-12-20,Powell County,Lee County,73,63,0,   ,0
 2019-12-20,Prestonsburg,Morgan County,49,47,1,   ,0
@@ -1010,18 +1010,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-20,Robertson County,Nicholas County,69,65,0,   ,0
 2019-12-20,Rockcastle County,Casey County,75,55,1,   ,0
 2019-12-20,Rowan County,Butler,58,49,1,   ,0
-2019-12-20,Saltillo. MS,Pikeville,49,33,2,   ,0
+2019-12-20,Out of State,Pikeville,49,33,2,   ,0
 2019-12-20,Sayre,Estill County,50,48,2,  (overtime) ,1
 2019-12-20,Shawnee,Brown,62,31,2,   ,0
 2019-12-20,Shelby Valley,Betsy Layne,84,62,2,   ,0
 2019-12-20,Somerset,Cordia,87,63,2,   ,0
-2019-12-20,Southwestern,Harvest Prep (Canal Winchester). OH,82,76,1,   ,0
+2019-12-20,Southwestern,Out of State,82,76,1,   ,0
 2019-12-20,St. Henry,Christian Academy-Louisville,74,54,2,   ,0
 2019-12-20,Thomas Nelson,Metcalfe County,74,64,2,   ,0
-2019-12-20,Walden,L.I.G.H.T (Danville). (KY home school),69,41,0,   ,0
+2019-12-20,Walden,Out of State,69,41,0,   ,0
 2019-12-20,Wayne County,Williamsburg,62,58,2,   ,0
 2019-12-20,Webster County,Hopkinsville,61,54,1,   ,0
-2019-12-20,Wellspring Guardians (Richmond). (KY home school),Model,64,57,2,   ,0
+2019-12-20,Out of State,Model,64,57,2,   ,0
 2019-12-20,West Jessamine,Mercer County,81,67,0,   ,0
 2019-12-20,Western,Trinity (Whitesville),81,45,0,   ,0
 2019-12-21,Seneca,Paintsville,38,35,2, Century Mortgage Derby City Jam  ,0
@@ -1030,38 +1030,38 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,John Hardin,Paul Laurence Dunbar,72,60,2, Mack Calvert Classic  ,0
 2019-12-21,Allen County-Scottsville,Cumberland County,69,30,2,   ,0
 2019-12-21,Anderson County,Bethlehem,53,35,2,   ,0
-2019-12-21,Ashland Blazer,George Washington (Charleston). WV,71,58,0,   ,0
+2019-12-21,Ashland Blazer,Out of State,71,58,0,   ,0
 2019-12-21,Atherton,Casey County,72,67,2,   ,0
-2019-12-21,Ballard,Bishop McDevitt,69,63,2,   ,0
+2019-12-21,Ballard,Out of State,69,63,2,   ,0
 2019-12-21,Ballard Memorial,Dawson Springs,69,63,0,   ,0
 2019-12-21,Bardstown,Martin County,69,64,2,   ,0
 2019-12-21,Barren County,Meade County,65,35,2,   ,0
-2019-12-21,Berea,Wellspring Guardians (Richmond). (KY home school),54,42,1,   ,0
+2019-12-21,Berea,Out of State,54,42,1,   ,0
 2019-12-21,Betsy Layne,Wolfe County,90,84,2,   ,0
-2019-12-21,Bluegrass United (Lexington). (KY home school),Red Bird,71,48,2,   ,0
+2019-12-21,Out of State,Red Bird,71,48,2,   ,0
 2019-12-21,Bowling Green,Christian County,66,51,2,   ,0
-2019-12-21,Bracken County,Williamsburg. OH,68,60,0,   ,0
+2019-12-21,Bracken County,Out of State,68,60,0,   ,0
 2019-12-21,Brown,Danville Christian,58,57,2,  (overtime) ,1
 2019-12-21,Butler,George Rogers Clark,89,59,2,   ,0
 2019-12-21,Butler County,Todd County Central,68,62,1,   ,0
 2019-12-21,Butler County,McLean County,51,48,1,  (overtime) ,1
 2019-12-21,Caldwell County,Union County,76,68,0,   ,0
-2019-12-21,Calloway County,Cairo. IL,62,54,2,   ,0
+2019-12-21,Calloway County,Out of State,62,54,2,   ,0
 2019-12-21,Central,Valley,64,52,2,   ,0
 2019-12-21,Christian Academy-Louisville,Ludlow,83,51,2,   ,0
-2019-12-21,Claiborne (New Tazewell). TN,Bath County,68,53,2,   ,0
+2019-12-21,Out of State,Bath County,68,53,2,   ,0
 2019-12-21,Clinton County,Hopkins County Central,46,32,1,   ,0
 2019-12-21,Clinton County,Eastern,61,59,1,   ,0
 2019-12-21,Collins,Madisonville-North Hopkins,71,70,2,  (overtime) ,1
-2019-12-21,Columbia (Lake City). FL,Moore,79,57,2,   ,0
-2019-12-21,Corbin,Hancock County,77,38,2,   ,0
+2019-12-21,Out of State,Moore,79,57,2,   ,0
+2019-12-21,Corbin,Out of State,77,38,2,   ,0
 2019-12-21,Cordia,Jackson City,74,64,2,   ,0
 2019-12-21,Crittenden County,Trinity (Whitesville),65,59,0,   ,0
-2019-12-21,Danville,Harvest Prep,80,65,2,   ,0
+2019-12-21,Danville,Out of State,80,65,2,   ,0
 2019-12-21,Daviess County,Hopkinsville,63,53,2,   ,0
 2019-12-21,DeSales,Glasgow,76,61,2,   ,0
 2019-12-21,East Jessamine,Lincoln County,55,44,1,   ,0
-2019-12-21,East Lake (Tarpon Springs). FL,Perry County Central,72,43,2,   ,0
+2019-12-21,Out of State,Perry County Central,72,43,2,   ,0
 2019-12-21,East Ridge,Rose Hill Christian,78,68,2,   ,0
 2019-12-21,Eastern,Logan County,71,61,2,   ,0
 2019-12-21,Estill County,Cordia,71,49,2,   ,0
@@ -1072,8 +1072,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Garrard County,McCreary Central,59,56,0,   ,0
 2019-12-21,Glasgow,Paintsville,56,55,2,   ,0
 2019-12-21,Graves County,Hancock County,62,43,2,   ,0
-2019-12-21,Green (Franklin Furnace). OH,Fairview,73,61,1,   ,0
-2019-12-21,Greenup County,Sand Rock,75,66,2,   ,0
+2019-12-21,Out of State,Fairview,73,61,1,   ,0
+2019-12-21,Greenup County,Out of State,75,66,2,   ,0
 2019-12-21,Greenwood,North Hardin,58,55,2,   ,0
 2019-12-21,Henderson County,Grayson County,57,29,1,   ,0
 2019-12-21,Henry Clay,Bourbon County,70,67,1,   ,0
@@ -1081,7 +1081,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Highlands,Augusta,92,67,2,   ,0
 2019-12-21,Holmes,Grant County,80,74,2,   ,0
 2019-12-21,Holy Cross (Covington),Lewis County,87,41,2,   ,0
-2019-12-21,Holy Cross (Louisville),Rock Creek Academy (Sellersburg). IN,54,53,1,   ,0
+2019-12-21,Holy Cross (Louisville),Out of State,54,53,1,   ,0
 2019-12-21,Jackson County,Menifee County,77,68,2,   ,0
 2019-12-21,Jackson County,Eminence,84,40,2,   ,0
 2019-12-21,Johnson Central,Bell County,64,61,2,   ,0
@@ -1090,8 +1090,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Lafayette,Harlan County,70,55,2,   ,0
 2019-12-21,Lawrence County,Campbell County,64,56,2,   ,0
 2019-12-21,Lexington Catholic,Scott,87,56,2,   ,0
-2019-12-21,Livingston Academy (Livingston). TN,Phelps,67,65,2,   ,0
-2019-12-21,Logan. WV,Pikeville,61,51,2,   ,0
+2019-12-21,Out of State,Phelps,67,65,2,   ,0
+2019-12-21,Out of State,Pikeville,61,51,2,   ,0
 2019-12-21,Louisville Collegiate,Iroquois,50,49,1,   ,0
 2019-12-21,Madison Central,Harrison County,84,42,0,   ,0
 2019-12-21,Male,McCracken County,65,56,2,  (overtime) ,1
@@ -1100,7 +1100,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Mayfield,Fort Campbell,72,50,0,   ,0
 2019-12-21,McLean County,Hickman County,75,45,2,   ,0
 2019-12-21,Menifee County,Monroe County,70,67,2,   ,0
-2019-12-21,Mercer County,Central Kentucky HomeSchool (Lexington). (KY home school),86,73,1,   ,0
+2019-12-21,Mercer County,Out of State,86,73,1,   ,0
 2019-12-21,Metcalfe County,Green County,62,60,2,   ,0
 2019-12-21,Middlesboro,Southwestern,53,51,2,   ,0
 2019-12-21,Model,Jackson City,82,59,2,   ,0
@@ -1117,12 +1117,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Owensboro,Valley,75,52,2,   ,0
 2019-12-21,Owensboro Catholic,Hickman County,77,55,2,   ,0
 2019-12-21,Owsley County,Evangel Christian,79,46,2,   ,0
-2019-12-21,Owsley County,Bluegrass United,54,52,2,   ,0
+2019-12-21,Owsley County,Out of State,54,52,2,   ,0
 2019-12-21,Paducah Tilghman,Calloway County,61,52,1,   ,0
 2019-12-21,Paducah Tilghman,University Heights,72,66,1,   ,0
 2019-12-21,Pleasure Ridge Park,DuPont Manual,78,73,1,   ,0
-2019-12-21,Ponte Vedra. FL,Frankfort,75,72,2,  (double overtime) ,0
-2019-12-21,Pope County (Golconda). IL,Community Christian (Paducah),48,31,1,   ,0
+2019-12-21,Out of State,Frankfort,75,72,2,  (double overtime) ,1
+2019-12-21,Out of State,Community Christian (Paducah),48,31,1,   ,0
 2019-12-21,Prestonsburg,Pike County Central,64,55,1,   ,0
 2019-12-21,Pulaski County,Campbellsville,89,56,1,   ,0
 2019-12-21,Raceland,Leslie County,70,49,1,   ,0
@@ -1130,7 +1130,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Rowan County,St. Henry,70,60,1,   ,0
 2019-12-21,Russell County,Buckhorn,58,46,2,   ,0
 2019-12-21,Ryle,East Carter,62,54,2,   ,0
-2019-12-21,Sayre,Wellspring Guardians,74,60,2,   ,0
+2019-12-21,Sayre,Out of State,74,60,2,   ,0
 2019-12-21,Seneca,DeSales,49,47,2,   ,0
 2019-12-21,Shawnee,Portland Christian,79,53,0,   ,0
 2019-12-21,Shelby Valley,Morgan County,63,47,2,   ,0
@@ -1141,7 +1141,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,South Warren,Apollo,81,53,1,   ,0
 2019-12-21,Southern,Shelby County,73,62,2,   ,0
 2019-12-21,Spencer County,Conner,73,70,2,   ,0
-2019-12-21,St. Joseph Central (Ironton). OH,St. Patrick,87,60,0,   ,0
+2019-12-21,Out of State,St. Patrick,87,60,0,   ,0
 2019-12-21,St. Mary,Trigg County,61,52,0,   ,0
 2019-12-21,St. Xavier,Allen County-Scottsville,74,37,2,   ,0
 2019-12-21,St. Xavier,Cumberland County,58,43,2,   ,0
@@ -1149,10 +1149,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Taylor County,Hopkins County Central,72,50,2,   ,0
 2019-12-21,Thomas Nelson,Edmonson County,71,66,0,   ,0
 2019-12-21,Trinity (Louisville),Clay County,60,58,2,   ,0
-2019-12-21,Union [Appalachia/Powell Valley] (Appalachia). VA,Calvary Christian,58,46,2,   ,0
-2019-12-21,University Heights,Cairo. IL,85,64,2,   ,0
-2019-12-21,Valley Vista (Surprise). AZ,Boyd County,76,67,2,   ,0
-2019-12-21,Vestavia Hills. AL,Muhlenberg County,59,56,2,   ,0
+2019-12-21,Out of State,Calvary Christian,58,46,2,   ,0
+2019-12-21,University Heights,Out of State,85,64,2,   ,0
+2019-12-21,Out of State,Boyd County,76,67,2,   ,0
+2019-12-21,Out of State,Muhlenberg County,59,56,2,   ,0
 2019-12-21,Waggener,Owensboro,72,66,2,   ,0
 2019-12-21,Waggener,Central,68,48,2,   ,0
 2019-12-21,Warren East,Caverna,85,60,1,   ,0
@@ -1166,18 +1166,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-21,Woodford County,Oldham County,71,66,1,   ,0
 2019-12-22,Ballard,Collins,88,81,2,   ,0
 2019-12-22,Campbell County,Leslie County,75,40,2,   ,0
-2019-12-22,Clay County,Palmetto. FL,75,64,2,   ,0
+2019-12-22,Clay County,Out of State,75,64,2,   ,0
 2019-12-22,Danville,Southwestern,61,59,0,   ,0
 2019-12-22,Eastern,Taylor County,68,58,2,   ,0
 2019-12-22,Elliott County,Rose Hill Christian,88,45,2,   ,0
-2019-12-22,Handley (Winchester). VA,Perry County Central,54,45,2,   ,0
-2019-12-22,Harvest Prep (Canal Winchester). OH,Campbellsville,73,36,2,   ,0
+2019-12-22,Out of State,Perry County Central,54,45,2,   ,0
+2019-12-22,Out of State,Campbellsville,73,36,2,   ,0
 2019-12-22,Knox Central,East Ridge,70,32,2,   ,0
 2019-12-22,LaRue County,Martin County,68,51,2,   ,0
 2019-12-22,Logan County,Hopkins County Central,65,39,2,   ,0
 2019-12-22,Logan County,Clinton County,65,56,0,   ,0
 2019-12-22,Lynn Camp,Garrard County,68,62,2,   ,0
-2019-12-22,Madisonville-North Hopkins,Bishop McDevitt,64,58,2,   ,0
+2019-12-22,Madisonville-North Hopkins,Out of State,64,58,2,   ,0
 2019-12-22,McCracken County,Fairdale,54,53,0,   ,0
 2019-12-22,McCreary Central,Casey County,64,50,1,   ,0
 2019-12-22,Middlesboro,Casey County,70,60,2,   ,0
@@ -1188,7 +1188,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-22,Raceland,Lawrence County,68,58,1,   ,0
 2019-12-22,Seneca,Fern Creek,57,52,0,   ,0
 2019-12-22,South Oldham,Bardstown,69,59,2,   ,0
-2019-12-22,Trotwood-Madison (Trotwood). OH,Trinity,86,83,2,   ,0
+2019-12-22,Out of State,Trinity (Louisville),86,83,2,   ,0
 2019-12-22,Wayne County,Atherton,74,61,2,   ,0
 2019-12-23,Allen County-Scottsville,Warren East,74,58,0, Warren East Holiday Hoops Classic  ,0
 2019-12-23,Ballard,North Oldham,82,72,2,  (championship) ,0
@@ -1200,14 +1200,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-23,Lyon County,Ballard Memorial,85,54,0,   ,0
 2019-12-23,Madisonville-North Hopkins,McCracken County,55,52,2,   ,0
 2019-12-23,Male,Collins,83,72,2,   ,0
-2019-12-23,Marshall County,Riverview,55,50,2,   ,0
+2019-12-23,Marshall County,Out of State,55,50,2,   ,0
 2019-12-23,McCreary Central,Atherton,61,58,1,   ,0
 2019-12-23,Mercer County,Pineville,91,73,1,   ,0
-2019-12-23,Perry County Central,Killian,65,46,2,   ,0
+2019-12-23,Perry County Central,Out of State,65,46,2,   ,0
 2019-12-23,Pike County Central,Floyd Central,50,49,0,   ,0
 2019-12-23,Scott County,Bryan Station,71,70,0,   ,0
 2019-12-23,St. Xavier,Ohio County,75,62,2,  (championship) ,0
-2019-12-23,Trotwood-Madison (Trotwood). OH,South Oldham,105,99,2,   ,0
+2019-12-23,Out of State,South Oldham,105,99,2,   ,0
 2019-12-23,Wayne County,Garrard County,39,34,2,   ,0
 2019-12-23,Wolfe County,Gallatin County,71,69,1,   ,0
 2019-12-26,Boone County,Henry County,64,62,0, Henry County Invitational  ,0
@@ -1217,48 +1217,48 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-26,Bishop Brossart,Franklin County,71,61,2,   ,0
 2019-12-26,Bowling Green,North Hardin,68,42,1,   ,0
 2019-12-26,Breathitt County,Metcalfe County,89,78,2,   ,0
-2019-12-26,Bryan Station,Washington-Liberty,55,40,2,   ,0
+2019-12-26,Bryan Station,Out of State,55,40,2,   ,0
 2019-12-26,Campbellsville,Lyon County,64,63,1,   ,0
-2019-12-26,Champagnat Catholic (Hialeah). FL,Newport Central Catholic,56,34,2,   ,0
+2019-12-26,Out of State,Newport Central Catholic,56,34,2,   ,0
 2019-12-26,Danville,Lafayette,70,57,1,   ,0
 2019-12-26,DuPont Manual,Taylor County,76,48,2,   ,0
 2019-12-26,Elizabethtown,East Jessamine,66,57,2,   ,0
 2019-12-26,Elliott County,Estill County,57,56,2,   ,0
 2019-12-26,Greenwood,Glasgow,55,53,2,   ,0
-2019-12-26,Hazard,Mountain View,52,43,2,   ,0
+2019-12-26,Hazard,Out of State,52,43,2,   ,0
 2019-12-26,Iroquois,Fleming County,68,41,2,   ,0
-2019-12-26,Knox Central,Halls. TN,84,61,2,   ,0
-2019-12-26,McCreary Central,Trinity,76,48,2,   ,0
-2019-12-26,Nashville. IL,Doss,50,43,2,  (overtime) ,1
+2019-12-26,Knox Central,Out of State,84,61,2,   ,0
+2019-12-26,McCreary Central,Trinity (Whitesville),76,48,2,   ,0
+2019-12-26,Out of State,Doss,50,43,2,  (overtime) ,1
 2019-12-26,Nelson County,Frankfort,72,65,1,   ,0
 2019-12-26,Paris,Burgin,75,28,2,   ,0
-2019-12-26,Piedmont. AL,Casey County,64,59,2,   ,0
+2019-12-26,Out of State,Casey County,64,59,2,   ,0
 2019-12-26,Pleasure Ridge Park,Washington County,78,40,2,   ,0
 2019-12-26,Ryle,Western Hills,84,58,2,   ,0
 2019-12-26,Seneca,Gallatin County,65,54,2,   ,0
 2019-12-26,Shelby County,Menifee County,71,70,2,   ,0
 2019-12-26,South Oldham,Harrison County,77,48,2,   ,0
 2019-12-26,South Warren,Owensboro,73,70,2,   ,0
-2019-12-26,Station Camp (Gallatin). TN,Franklin-Simpson,47,45,2,   ,0
-2019-12-26,Union County,Steeleville. IL,69,44,2,   ,0
+2019-12-26,Out of State,Franklin-Simpson,47,45,2,   ,0
+2019-12-26,Union County,Out of State,69,44,2,   ,0
 2019-12-26,Western,Cordia,85,53,2,   ,0
-2019-12-26,Westview (Martin). TN,Trigg County,81,47,2,   ,0
+2019-12-26,Out of State,Trigg County,81,47,2,   ,0
 2019-12-27,Ohio County,Todd County Central,77,46,1, Beef O’Brady’s/Danny Annis Memorial Tournament  ,0
-2019-12-27,Gibson County (Dyer). TN,Fulton City,47,41,2, Gibson County Christmas Classic  ,0
-2019-12-27,Doss,Metro-East Lutheran,58,48,2, Mater Dei Christmas Tournament  ,0
-2019-12-27,South Spencer (Rockport). IN,Apollo,57,47,2, Perry-Spencer Classic  ,0
+2019-12-27,Out of State,Fulton City,47,41,2, Gibson County Christmas Classic  ,0
+2019-12-27,Doss,Out of State,58,48,2, Mater Dei Christmas Tournament  ,0
+2019-12-27,Out of State,Apollo,57,47,2, Perry-Spencer Classic  ,0
 2019-12-27,Collins,Tates Creek,65,63,2, Traditional Bank Holiday Classic  ,0
 2019-12-27,Shawnee,Whitefield Academy,74,65,0, Whitefield Down Syndrome Classic  ,0
 2019-12-27,Adair County,McCreary Central,63,54,2,   ,0
-2019-12-27,Aiken (Cincinnati). OH,Marion County,80,76,2,   ,0
-2019-12-27,Alexandria. AL,Casey County,91,59,2,   ,0
+2019-12-27,Out of State,Marion County,80,76,2,   ,0
+2019-12-27,Out of State,Casey County,91,59,2,   ,0
 2019-12-27,Anderson County,Frankfort,50,41,2,   ,0
-2019-12-27,Archbishop McCarthy (Fort Lauderdale). FL,Prestonsburg,60,48,2,   ,0
-2019-12-27,Archbishop McNicholas (Cincinnati). OH,Graves County,55,43,2,   ,0
+2019-12-27,Out of State,Prestonsburg,60,48,2,   ,0
+2019-12-27,Out of State,Graves County,55,43,2,   ,0
 2019-12-27,Ashland Blazer,Lawrence County,76,54,1,   ,0
-2019-12-27,Astronaut (Titusville). FL,Newport Central Catholic,52,44,2,   ,0
-2019-12-27,Ballard,Sebring. FL,105,76,2,   ,0
-2019-12-27,Barbourville,Clarkrange. TN,58,42,2,   ,0
+2019-12-27,Out of State,Newport Central Catholic,52,44,2,   ,0
+2019-12-27,Ballard,Out of State,105,76,2,   ,0
+2019-12-27,Barbourville,Out of State,58,42,2,   ,0
 2019-12-27,Bardstown,Cooper,57,49,2,   ,0
 2019-12-27,Bath County,Shelby County,79,76,1,   ,0
 2019-12-27,Beechwood,Paintsville,57,50,2,   ,0
@@ -1267,9 +1267,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-27,Bethlehem,Letcher County Central,66,60,1,   ,0
 2019-12-27,Betsy Layne,Raceland,64,51,2,   ,0
 2019-12-27,Bishop Brossart,Boone County,74,58,2,   ,0
-2019-12-27,Boonville. IN,Apollo,55,48,2,   ,0
+2019-12-27,Out of State,Apollo,55,48,2,   ,0
 2019-12-27,Bourbon County,Madison Central,53,46,2,   ,0
-2019-12-27,Bowling Green,Station Camp (Gallatin). TN,55,46,1,   ,0
+2019-12-27,Bowling Green,Out of State,55,46,1,   ,0
 2019-12-27,Boyd County,Scott County,69,57,2,   ,0
 2019-12-27,Breathitt County,Paris,77,60,2,   ,0
 2019-12-27,Buckhorn,Lee County,82,44,1,   ,0
@@ -1278,68 +1278,68 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-27,Calloway County,Fulton County,74,42,1,   ,0
 2019-12-27,Carlisle County,Hart County,56,45,2,   ,0
 2019-12-27,Carlisle County,Russellville,59,49,0,   ,0
-2019-12-27,Carlyle. IL,Union County,66,49,2,   ,0
+2019-12-27,Out of State,Union County,66,49,2,   ,0
 2019-12-27,Carroll County,St. Patrick,83,59,2,   ,0
-2019-12-27,Central Bucks East (Doylestown). PA,Grant County,75,67,2,  (overtime) ,1
-2019-12-27,Central Hardin,Cumberland County,67,44,2,   ,0
-2019-12-27,Chicago Christian (Palos Heights). IL,Villa Madonna,72,51,2,   ,0
+2019-12-27,Out of State,Grant County,75,67,2,  (overtime) ,1
+2019-12-27,Central Hardin,Out of State,67,44,2,   ,0
+2019-12-27,Out of State,Villa Madonna,72,51,2,   ,0
 2019-12-27,Christian Fellowship,Portland Christian,63,52,2,   ,0
-2019-12-27,Clarksville Academy (Clarksville). TN,Crittenden County,62,35,2,   ,0
+2019-12-27,Out of State,Crittenden County,62,35,2,   ,0
 2019-12-27,Clinton County,Grayson County,46,38,2,   ,0
-2019-12-27,Corbin,Broome (Spartanburg). SC,73,38,1,   ,0
-2019-12-27,Covington Catholic,Blanche Ely,66,43,2,   ,0
+2019-12-27,Corbin,Out of State,73,38,1,   ,0
+2019-12-27,Covington Catholic,Out of State,66,43,2,   ,0
 2019-12-27,Danville,Middlesboro,64,38,1,   ,0
 2019-12-27,Danville Christian,Walden,56,52,0,   ,0
-2019-12-27,Dawson-Bryant (Coal Grove). OH,Fairview,72,39,1,   ,0
-2019-12-27,Dayton,Hillsboro Christian. OH,68,26,2,   ,0
+2019-12-27,Out of State,Fairview,72,39,1,   ,0
+2019-12-27,Dayton,Out of State,68,26,2,   ,0
 2019-12-27,Dixie Heights,Montgomery County,78,54,0,   ,0
-2019-12-27,Doss,Central,58,48,2,   ,0
-2019-12-27,DuQuoin. IL,St. Mary,67,39,2,   ,0
+2019-12-27,Doss,Out of State,58,48,2,   ,0
+2019-12-27,Out of State,St. Mary,67,39,2,   ,0
 2019-12-27,East Jessamine,Taylor County,60,44,2,   ,0
-2019-12-27,East Robertson (Cross Plains). TN,Green County,67,57,2,   ,0
+2019-12-27,Out of State,Green County,67,57,2,   ,0
 2019-12-27,Elizabethtown,DuPont Manual,68,48,2,   ,0
 2019-12-27,Estill County,Fleming County,56,46,2,   ,0
-2019-12-27,Foothill (Henderson). NV,Hazard,66,64,2,  OT ,0
+2019-12-27,Out of State,Hazard,66,64,2,  OT ,0
 2019-12-27,Franklin County,Henry County,83,67,0,   ,0
 2019-12-27,Franklin-Simpson,Owensboro,73,71,2,   ,0
 2019-12-27,Frederick Douglass,North Oldham,74,70,2,   ,0
-2019-12-27,Gallatin County,Halls. TN,59,46,2,   ,0
+2019-12-27,Gallatin County,Out of State,59,46,2,   ,0
 2019-12-27,George Rogers Clark,West Jessamine,78,74,2,   ,0
 2019-12-27,Glasgow,North Hardin,67,49,2,   ,0
 2019-12-27,Great Crossing,Hopkinsville,53,50,2,   ,0
 2019-12-27,Green County,Cumberland County,67,65,2,   ,0
-2019-12-27,Greenup County,Portsmouth West (West Portsmouth). OH,68,54,1,   ,0
+2019-12-27,Greenup County,Out of State,68,54,1,   ,0
 2019-12-27,Greenwood,South Warren,59,40,2,   ,0
 2019-12-27,Hancock County,Caverna,87,83,1,   ,0
 2019-12-27,Hancock County,Allen County-Scottsville,68,60,1,   ,0
-2019-12-27,Harlan,Van Buren County,66,48,2,   ,0
+2019-12-27,Harlan,Out of State,66,48,2,   ,0
 2019-12-27,Harlan County,Leslie County,78,43,0,   ,0
 2019-12-27,Hart County,Beth Haven,102,63,2,   ,0
-2019-12-27,Harvest Prep (Canal Winchester). OH,Johnson Central,81,66,2,   ,0
+2019-12-27,Out of State,Johnson Central,81,66,2,   ,0
 2019-12-27,Henderson County,Edmonson County,83,53,2,   ,0
 2019-12-27,Henderson County,Todd County Central,70,50,2,   ,0
-2019-12-27,Henry Clay,Milton. GA,72,69,2,  (double overtime) ,0
-2019-12-27,Henryville. IN,Trimble County,62,49,2,   ,0
-2019-12-27,Hialeah. FL,LaRue County,50,48,2,   ,0
-2019-12-27,Hickman County,Dresden. TN,76,68,2,   ,0
-2019-12-27,Highlands,Clark Montessori (Cincinnati). OH,92,54,1,   ,0
+2019-12-27,Henry Clay,Out of State,72,69,2,  (double overtime) ,1
+2019-12-27,Out of State,Trimble County,62,49,2,   ,0
+2019-12-27,Out of State,LaRue County,50,48,2,   ,0
+2019-12-27,Hickman County,Out of State,76,68,2,   ,0
+2019-12-27,Highlands,Out of State,92,54,1,   ,0
 2019-12-27,Holy Cross (Covington),Knott County Central,75,49,2,   ,0
-2019-12-27,Holy Cross (Louisville),Friendship Christian,55,49,2,   ,0
+2019-12-27,Holy Cross (Louisville),Out of State,55,49,2,   ,0
 2019-12-27,Iroquois,Elliott County,72,62,2,   ,0
 2019-12-27,Jackson City,Lee County,84,50,2,   ,0
 2019-12-27,Knox Central,Western,71,58,2,   ,0
-2019-12-27,Knoxville Catholic (Knoxville). TN,Williamsburg,73,35,2,   ,0
-2019-12-27,Las Vegas. NV,Hazard,51,50,2,   ,0
+2019-12-27,Out of State,Williamsburg,73,35,2,   ,0
+2019-12-27,Out of State,Hazard,51,50,2,   ,0
 2019-12-27,Lexington Catholic,Martin County,81,55,1,   ,0
 2019-12-27,Lexington Christian,Lloyd Memorial,68,65,1,   ,0
 2019-12-27,Lincoln County,Muhlenberg County,51,42,2,   ,0
 2019-12-27,Logan County,Daviess County,68,38,1,   ,0
 2019-12-27,Louisville Collegiate,Owensboro Catholic,70,66,2,   ,0
 2019-12-27,Lyon County,Washington County,87,52,2,   ,0
-2019-12-27,Madison. IN,Trimble County,95,68,2,   ,0
+2019-12-27,Out of State,Trimble County,95,68,2,   ,0
 2019-12-27,Madisonville-North Hopkins,Central,64,44,2,   ,0
 2019-12-27,Magoffin County,Whitley County,65,56,2,   ,0
-2019-12-27,Marshall County,Franklin County (Winchester). TN,66,50,1,   ,0
+2019-12-27,Marshall County,Out of State,66,50,1,   ,0
 2019-12-27,Mayfield,Livingston Central,66,28,2,   ,0
 2019-12-27,Mayfield,Fulton County,71,41,2,   ,0
 2019-12-27,McCracken County,Eastern,63,59,2,   ,0
@@ -1348,68 +1348,68 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-27,Mercer County,Augusta,57,56,2,   ,0
 2019-12-27,Metcalfe County,Burgin,78,61,2,   ,0
 2019-12-27,Murray,Cumberland County,72,60,2,   ,0
-2019-12-27,Murray,East Robertson,80,48,2,   ,0
+2019-12-27,Murray,Out of State,80,48,2,   ,0
 2019-12-27,Nelson County,Bullitt Central,63,59,1,   ,0
-2019-12-27,Newport,Morristown-Hamblen East,72,56,2,   ,0
-2019-12-27,North Bullitt,Bolton,78,63,2,   ,0
-2019-12-27,Northeast (Clarksville). TN,Paducah Tilghman,56,37,2,   ,0
+2019-12-27,Newport,Out of State,72,56,2,   ,0
+2019-12-27,North Bullitt,Out of State,78,63,2,   ,0
+2019-12-27,Out of State,Paducah Tilghman,56,37,2,   ,0
 2019-12-27,Ohio County,Edmonson County,79,69,1,   ,0
-2019-12-27,Oldham County,Covenant Day,69,46,2,   ,0
+2019-12-27,Oldham County,Out of State,69,46,2,   ,0
 2019-12-27,Owen County,Russell County,52,43,2,   ,0
-2019-12-27,Peabody (Trenton). TN,Trigg County,68,49,2,   ,0
-2019-12-27,Pigeon Forge. TN,Floyd Central,80,42,1,   ,0
+2019-12-27,Out of State,Trigg County,68,49,2,   ,0
+2019-12-27,Out of State,Floyd Central,80,42,1,   ,0
 2019-12-27,Pikeville,Scott,78,65,1,   ,0
 2019-12-27,Pleasure Ridge Park,Campbellsville,72,48,0,   ,0
-2019-12-27,Pulaski County,Sullivan East,83,70,2,   ,0
-2019-12-27,Ridge View (Columbia). SC,Breckinridge County,76,42,2,   ,0
-2019-12-27,Riverside (Ashburn). VA,North Laurel,53,49,2,   ,0
+2019-12-27,Pulaski County,Out of State,83,70,2,   ,0
+2019-12-27,Out of State,Breckinridge County,76,42,2,   ,0
+2019-12-27,Out of State,North Laurel,53,49,2,   ,0
 2019-12-27,Robertson County,Christian Academy-Louisville,79,72,2,   ,0
 2019-12-27,Rockcastle County,East Carter,55,49,2,   ,0
-2019-12-27,Rowan County,Winter Park. FL,39,28,2,   ,0
-2019-12-27,Russell,Copper Basin,48,16,2,   ,0
+2019-12-27,Rowan County,Out of State,39,28,2,   ,0
+2019-12-27,Russell,Out of State,48,16,2,   ,0
 2019-12-27,Russellville,Beth Haven,74,69,1,   ,0
 2019-12-27,Sayre,Phelps,60,57,2,   ,0
-2019-12-27,Schoolhouse Prep (Miami). FL,Bullitt East,76,53,2,   ,0
+2019-12-27,Out of State,Bullitt East,76,53,2,   ,0
 2019-12-27,Seneca,Cordia,69,58,2,   ,0
 2019-12-27,Shelby Valley,West Carter,60,58,2,   ,0
 2019-12-27,Simon Kenton,Paul Laurence Dunbar,42,41,2,   ,0
 2019-12-27,South Laurel,Lynn Camp,59,35,1,   ,0
 2019-12-27,South Oldham,Ryle,92,51,2,   ,0
 2019-12-27,Southern,Pike County Central,65,53,2,   ,0
-2019-12-27,Southwestern,Central Magnet School. TN,64,46,2,   ,0
-2019-12-27,Southwind (Memphis). TN,Caldwell County,52,47,0,   ,0
+2019-12-27,Southwestern,Out of State,64,46,2,   ,0
+2019-12-27,Out of State,Caldwell County,52,47,0,   ,0
 2019-12-27,Spencer County,Lafayette,66,54,2,  (overtime) ,1
-2019-12-27,Spruce Creek (Port Orange). FL,Fairdale,80,72,2,   ,0
+2019-12-27,Out of State,Fairdale,80,72,2,   ,0
 2019-12-27,St. Henry,Ludlow,86,44,1,   ,0
-2019-12-27,St. Xavier,Roger Bacon,77,49,2,   ,0
-2019-12-27,Thomas Worthington (Worthington). OH,Conner,71,59,2,   ,0
-2019-12-27,Trinity (Louisville),Hazelwood West (Hazelwood). MO,39,37,1,   ,0
+2019-12-27,St. Xavier,Out of State,77,49,2,   ,0
+2019-12-27,Out of State,Conner,71,59,2,   ,0
+2019-12-27,Trinity (Louisville),Out of State,39,37,1,   ,0
 2019-12-27,Trinity (Whitesville),Williamstown,65,56,0,   ,0
 2019-12-27,University Heights,Somerset,63,57,2,   ,0
 2019-12-27,Waggener,Campbell County,63,62,2,   ,0
-2019-12-27,Wakefield (Arlington). VA,Bryan Station,65,47,2,   ,0
-2019-12-27,Walnut Hills (Cincinnati). OH,Fort Campbell,84,34,2,   ,0
+2019-12-27,Out of State,Bryan Station,65,47,2,   ,0
+2019-12-27,Out of State,Fort Campbell,84,34,2,   ,0
 2019-12-27,Walton-Verona,Nicholas County,81,76,2,   ,0
 2019-12-27,Warren Central,Lewis County,90,52,2,   ,0
-2019-12-27,Wayne County,Sand Rock,58,55,2,   ,0
-2019-12-27,Webster County,Shelbyville Central,67,24,2,   ,0
+2019-12-27,Wayne County,Out of State,58,55,2,   ,0
+2019-12-27,Webster County,Out of State,67,24,2,   ,0
 2019-12-27,Western Hills,Harrison County,83,62,2,   ,0
-2019-12-27,Westminster Academy (Fort Lauderdale). FL,Jeffersontown,64,47,2,   ,0
+2019-12-27,Out of State,Jeffersontown,64,47,2,   ,0
 2019-12-27,Wolfe County,Bracken County,75,74,0,   ,0
 2019-12-27,Woodford County,Mason County,57,46,2,   ,0
 2019-12-28,Elliott County,Shelby County,74,52,2, Dan Swartz Classic  ,0
-2019-12-28,Fulton City,Gleason. TN,59,25,2, Gibson County Christmas Classic  ,0
-2019-12-28,Doss,Wesclin,62,40,2, Mater Dei Christmas Tournament  ,0
+2019-12-28,Fulton City,Out of State,59,25,2, Gibson County Christmas Classic  ,0
+2019-12-28,Doss,Out of State,62,40,2, Mater Dei Christmas Tournament  ,0
 2019-12-28,Great Crossing,Louisville Collegiate,55,54,2, Roy's Bar-B-Que/1st Southern National Bank Classic  ,0
 2019-12-28,Central,Paintsville,64,59,2, Traditional Bank Holiday Classic  ,0
 2019-12-28,Tates Creek,Cooper,53,44,2, Traditional Bank Holiday Classic  ,0
 2019-12-28,Anderson County,Nelson County,49,40,0,   ,0
 2019-12-28,Ashland Blazer,Warren Central,59,55,1,   ,0
-2019-12-28,Ballard,Franklin County,85,50,2,   ,0
+2019-12-28,Ballard,Out of State,85,50,2,   ,0
 2019-12-28,Ballard,Marshall County,76,61,0,   ,0
-2019-12-28,Bearden (Knoxville). TN,Central Hardin,51,44,2,   ,0
-2019-12-28,Beech (Hendersonville). TN,University Heights,69,44,2,   ,0
-2019-12-28,Belfry,Twin Valley (Pilgrims Knob). VA,70,34,1,   ,0
+2019-12-28,Out of State,Central Hardin,51,44,2,   ,0
+2019-12-28,Out of State,University Heights,69,44,2,   ,0
+2019-12-28,Belfry,Out of State,70,34,1,   ,0
 2019-12-28,Betsy Layne,Owsley County,86,62,2,   ,0
 2019-12-28,Bishop Brossart,South Oldham,67,62,2,   ,0
 2019-12-28,Bourbon County,Collins,60,58,2,   ,0
@@ -1417,51 +1417,51 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-28,Breathitt County,Adair County,75,55,2,   ,0
 2019-12-28,Breckinridge County,Prestonsburg,58,55,2,   ,0
 2019-12-28,Buckhorn,Jackson City,65,51,1,   ,0
-2019-12-28,Buford. GA,Webster County,71,66,2,   ,0
+2019-12-28,Out of State,Webster County,71,66,2,   ,0
 2019-12-28,Bullitt Central,Frankfort,71,63,2,   ,0
-2019-12-28,Bullitt East,Centerville. OH,68,59,2,   ,0
+2019-12-28,Bullitt East,Out of State,68,59,2,   ,0
 2019-12-28,Butler,Boyd County,86,66,2,   ,0
 2019-12-28,Calloway County,Mayfield,47,44,1,   ,0
-2019-12-28,Campbell County,Clark Montessori,79,60,2,   ,0
+2019-12-28,Campbell County,Out of State,79,60,2,   ,0
 2019-12-28,Carroll County,Bracken County,74,67,0,   ,0
-2019-12-28,Casey County,Cedar Bluff. AL,68,58,2,   ,0
+2019-12-28,Casey County,Out of State,68,58,2,   ,0
 2019-12-28,Christian Fellowship,Evangel Christian,77,52,0,   ,0
 2019-12-28,Clay County,Williamsburg,74,70,2,   ,0
-2019-12-28,Colonial Forge (Stafford). VA,Bryan Station,63,52,2,   ,0
-2019-12-28,Conner,Dublin Jerome,67,62,2,   ,0
-2019-12-28,Cordia,Halls. TN,91,63,2,   ,0
-2019-12-28,Covington Catholic,Florida State University,63,56,2,   ,0
+2019-12-28,Out of State,Bryan Station,63,52,2,   ,0
+2019-12-28,Conner,Out of State,67,62,2,   ,0
+2019-12-28,Cordia,Out of State,91,63,2,   ,0
+2019-12-28,Covington Catholic,Out of State,63,56,2,   ,0
 2019-12-28,Cumberland County,Beth Haven,93,80,2,   ,0
 2019-12-28,Danville,Augusta,82,62,1,   ,0
 2019-12-28,Danville,Madison Southern,62,53,1,   ,0
 2019-12-28,Dixie Heights,Robertson County,60,58,2,   ,0
 2019-12-28,DuPont Manual,Campbellsville,58,41,0,   ,0
-2019-12-28,East Carter,Portsmouth West,71,68,2,   ,0
+2019-12-28,East Carter,Out of State,71,68,2,   ,0
 2019-12-28,East Jessamine,Lyon County,63,50,2,   ,0
-2019-12-28,East Robertson (Cross Plains). TN,Russellville,82,57,0,   ,0
+2019-12-28,Out of State,Russellville,82,57,0,   ,0
 2019-12-28,Eastern,West Jessamine,75,63,2,   ,0
 2019-12-28,Edmonson County,Todd County Central,68,41,2,   ,0
 2019-12-28,Elizabethtown,Pleasure Ridge Park,84,74,2,   ,0
 2019-12-28,Estill County,Menifee County,64,56,2,   ,0
 2019-12-28,Fairdale,LaRue County,53,46,2,   ,0
-2019-12-28,Floyd Central,Pisgah. AL,77,75,2,   ,0
+2019-12-28,Floyd Central,Out of State,77,75,2,   ,0
 2019-12-28,Frederick Douglass,Bardstown,86,80,2,   ,0
 2019-12-28,Fulton County,Livingston Central,79,45,2,   ,0
 2019-12-28,Glasgow,Franklin-Simpson,58,48,2,   ,0
-2019-12-28,Grant County,Liberty,57,44,2,   ,0
+2019-12-28,Grant County,Out of State,57,44,2,   ,0
 2019-12-28,Grayson County,Daviess County,39,32,2,  (overtime) ,1
 2019-12-28,Greenup County,Rockcastle County,72,57,1,   ,0
-2019-12-28,Halls. TN,Hickman County,83,59,2,   ,0
+2019-12-28,Out of State,Hickman County,83,59,2,   ,0
 2019-12-28,Harlan County,East Ridge,63,49,2,   ,0
 2019-12-28,Hart County,Green County,74,64,2,   ,0
-2019-12-28,Harvest Prep (Canal Winchester). OH,Shelby Valley,87,65,2,   ,0
-2019-12-28,Hazard,Chaparral,52,33,2,   ,0
+2019-12-28,Out of State,Shelby Valley,87,65,2,   ,0
+2019-12-28,Hazard,Out of State,52,33,2,   ,0
 2019-12-28,Henry County,Harrison County,66,61,1,   ,0
 2019-12-28,Highlands,Waggener,91,57,1,   ,0
 2019-12-28,Hopkinsville,Owensboro Catholic,60,55,2,   ,0
 2019-12-28,Iroquois,Bath County,57,54,0,  (championship) ,0
-2019-12-28,Jeffersontown,Woodward,79,74,2,   ,0
-2019-12-28,John Hardin,Broome,88,25,2,   ,0
+2019-12-28,Jeffersontown,Out of State,79,74,2,   ,0
+2019-12-28,John Hardin,Out of State,88,25,2,   ,0
 2019-12-28,Johnson Central,Perry County Central,78,58,2,   ,0
 2019-12-28,Knott County Central,Mason County,66,62,2,   ,0
 2019-12-28,Knox Central,Gallatin County,73,68,2,   ,0
@@ -1470,89 +1470,89 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-28,Letcher County Central,Thomas Nelson,75,64,0,   ,0
 2019-12-28,Lexington Catholic,Beechwood,65,46,1,   ,0
 2019-12-28,Lexington Christian,Lincoln County,56,55,1,   ,0
-2019-12-28,Livingston Academy (Livingston). TN,Barbourville,50,49,2,   ,0
-2019-12-28,Lloyd Memorial,Muhlenberg County,69,68,2,  (double overtime) ,0
+2019-12-28,Out of State,Barbourville,50,49,2,   ,0
+2019-12-28,Lloyd Memorial,Muhlenberg County,69,68,2,  (double overtime) ,1
 2019-12-28,Logan County,Clinton County,66,54,1,   ,0
 2019-12-28,Lynn Camp,Russell County,63,58,2,   ,0
 2019-12-28,Madisonville-North Hopkins,Simon Kenton,62,57,2,   ,0
 2019-12-28,Magoffin County,West Carter,75,63,2,   ,0
 2019-12-28,Marion County,Boyle County,73,72,0,   ,0
-2019-12-28,Marshall County,Sebring. FL,57,47,1,   ,0
+2019-12-28,Marshall County,Out of State,57,47,1,   ,0
 2019-12-28,Martin County,Madison Central,57,45,2,   ,0
 2019-12-28,McCracken County,George Rogers Clark,77,75,2,   ,0
-2019-12-28,McEwen. TN,Crittenden County,69,60,2,   ,0
+2019-12-28,Out of State,Crittenden County,69,60,2,   ,0
 2019-12-28,Meade County,Warren East,65,59,0,   ,0
 2019-12-28,Mercer County,Middlesboro,46,44,2,   ,0
-2019-12-28,Metcalfe County,Trinity,67,62,2,   ,0
+2019-12-28,Metcalfe County,Trinity (Whitesville),67,62,2,   ,0
 2019-12-28,Middlesboro,Augusta,44,42,2,   ,0
 2019-12-28,Montgomery County,Christian Academy-Louisville,64,40,1,   ,0
 2019-12-28,Morgan County,Sayre,58,55,2,   ,0
-2019-12-28,Morristown. IN,Trimble County,94,50,2,   ,0
+2019-12-28,Out of State,Trimble County,94,50,2,   ,0
 2019-12-28,Murray,Carlisle County,48,47,2,   ,0
-2019-12-28,Newport Central Catholic,Braden River,58,43,2,   ,0
-2019-12-28,North Bullitt,Lakeshore,65,62,2,  (overtime) ,1
-2019-12-28,North Laurel,Tippecanoe,57,56,2,   ,0
-2019-12-28,Northeast (Clarksville). TN,Caldwell County,56,39,0,   ,0
+2019-12-28,Newport Central Catholic,Out of State,58,43,2,   ,0
+2019-12-28,North Bullitt,Out of State,65,62,2,  (overtime) ,1
+2019-12-28,North Laurel,Out of State,57,56,2,   ,0
+2019-12-28,Out of State,Caldwell County,56,39,0,   ,0
 2019-12-28,Ohio County,Henderson County,79,75,1,   ,0
-2019-12-28,Oldham County,Plymouth Whitemarsh,66,54,2,   ,0
-2019-12-28,Oneonta. AL,Wayne County,65,63,2,   ,0
+2019-12-28,Oldham County,Out of State,66,54,2,   ,0
+2019-12-28,Out of State,Wayne County,65,63,2,   ,0
 2019-12-28,Owensboro,North Hardin,81,57,2,   ,0
 2019-12-28,Paris,McCreary Central,76,55,2,   ,0
 2019-12-28,Paul Laurence Dunbar,North Oldham,62,52,2,   ,0
 2019-12-28,Phelps,Whitley County,60,49,2,   ,0
 2019-12-28,Pikeville,Southern,77,57,1,   ,0
-2019-12-28,Pleasant Grove. AL,Harlan,84,49,2,   ,0
+2019-12-28,Out of State,Harlan,84,49,2,   ,0
 2019-12-28,Powell County,Fleming County,66,63,2,   ,0
 2019-12-28,Pulaski County,Newport,75,67,2,  (overtime) ,1
-2019-12-28,Richland County (Olney). IL,Union County,59,44,2,   ,0
-2019-12-28,Ripley-Union-Lewis-Huntington (Ripley). OH,Dayton,64,47,2,   ,0
-2019-12-28,Roger Bacon (Cincinnati). OH,Barren County,66,59,2,  (overtime) ,1
-2019-12-28,Rowan County,Charles Henderson,43,30,2,   ,0
-2019-12-28,Russell,Holy Cross,60,44,2,   ,0
+2019-12-28,Out of State,Union County,59,44,2,   ,0
+2019-12-28,Out of State,Dayton,64,47,2,   ,0
+2019-12-28,Out of State,Barren County,66,59,2,  (overtime) ,1
+2019-12-28,Rowan County,Out of State,43,30,2,   ,0
+2019-12-28,Russell,Holy Cross (Louisville),60,44,2,   ,0
 2019-12-28,Ryle,Franklin County,79,77,2,  (overtime) ,1
 2019-12-28,Scott,Pike County Central,76,44,2,   ,0
 2019-12-28,Scott County,Christian County,55,49,2,   ,0
 2019-12-28,Seneca,Western,55,52,2,   ,0
-2019-12-28,Somerset,Morristown-Hamblen East,74,65,2,   ,0
+2019-12-28,Somerset,Out of State,74,65,2,   ,0
 2019-12-28,South Laurel,Owen County,66,50,1,   ,0
-2019-12-28,South Warren,Station Camp,52,49,2,   ,0
-2019-12-28,Southwestern,Phoenix Learning Center. OH,86,28,2,   ,0
-2019-12-28,Southwind (Memphis). TN,Paducah Tilghman,48,43,2,   ,0
+2019-12-28,South Warren,Out of State,52,49,2,   ,0
+2019-12-28,Southwestern,Out of State,86,28,2,   ,0
+2019-12-28,Out of State,Paducah Tilghman,48,43,2,   ,0
 2019-12-28,Spencer County,Madison Southern,61,50,2,   ,0
 2019-12-28,Spencer County,Mercer County,56,49,2,   ,0
-2019-12-28,St. Benedict's Prep (Newark). NJ,Henry Clay,61,45,2,   ,0
-2019-12-28,St. Mary,Horizon Science Academy-Southwest,59,17,2,   ,0
+2019-12-28,Out of State,Henry Clay,61,45,2,   ,0
+2019-12-28,St. Mary,Out of State,59,17,2,   ,0
 2019-12-28,St. Xavier,Bell County,61,57,2,   ,0
 2019-12-28,Taylor County,Washington County,75,55,2,   ,0
-2019-12-28,Trigg County,Greenfield. TN,59,49,2,   ,0
-2019-12-28,Trinity (Louisville),Riverview Gardens (St. Louis). MO,63,36,1,   ,0
-2019-12-28,Union County,Salem. IL,60,32,2,   ,0
-2019-12-28,Upperman (Baxter). TN,Fort Campbell,68,26,2,   ,0
-2019-12-28,Vicksburg. MS,Graves County,60,43,2,   ,0
-2019-12-28,Wade Christian Academy (Melbourne). FL,Villa Madonna,67,60,2,   ,0
+2019-12-28,Trigg County,Out of State,59,49,2,   ,0
+2019-12-28,Trinity (Louisville),Out of State,63,36,1,   ,0
+2019-12-28,Union County,Out of State,60,32,2,   ,0
+2019-12-28,Out of State,Fort Campbell,68,26,2,   ,0
+2019-12-28,Out of State,Graves County,60,43,2,   ,0
+2019-12-28,Out of State,Villa Madonna,67,60,2,   ,0
 2019-12-28,Walton-Verona,St. Patrick,84,44,2,   ,0
 2019-12-28,Western Hills,Boone County,84,66,2,   ,0
 2019-12-28,Whitefield Academy,Christian Fellowship,80,60,1,   ,0
 2019-12-28,Williamstown,Burgin,59,52,1,   ,0
 2019-12-28,Wolfe County,Nicholas County,74,54,2,   ,0
-2019-12-28,Woodford County,Holy Cross,74,65,2,   ,0
+2019-12-28,Woodford County,Holy Cross (Covington),74,65,2,   ,0
 2019-12-29,Logan County,Great Crossing,80,74,1, Roy's Bar-B-Que/1st Southern National Bank Classic (championship) ,0
 2019-12-29,Simon Kenton,Bardstown,73,65,2, Traditional Bank Holiday Classic  ,0
 2019-12-29,Tates Creek,Central,56,51,2, Traditional Bank Holiday Classic  ,0
-2019-12-29,Aiken (Cincinnati). OH,Newport,76,64,2,   ,0
+2019-12-29,Out of State,Newport,76,64,2,   ,0
 2019-12-29,Ashland Blazer,Butler,67,58,1,   ,0
 2019-12-29,Barren County,Russell County,74,51,2,   ,0
 2019-12-29,Bell County,Owen County,73,61,2,   ,0
 2019-12-29,Betsy Layne,Buckhorn,63,47,0,   ,0
-2019-12-29,Cairo. IL,St. Mary,62,42,2,   ,0
-2019-12-29,Chaminade (St. Louis). MO,Trinity (Louisville),55,50,1,   ,0
+2019-12-29,Out of State,St. Mary,62,42,2,   ,0
+2019-12-29,Out of State,Trinity (Louisville),55,50,1,   ,0
 2019-12-29,Christian County,Lewis County,80,57,2,   ,0
-2019-12-29,Clay County,Knoxville Catholic,56,55,2,   ,0
-2019-12-29,Clay County (Celina). TN,Southwestern,60,57,2,   ,0
+2019-12-29,Clay County,Out of State,56,55,2,   ,0
+2019-12-29,Out of State,Southwestern,60,57,2,   ,0
 2019-12-29,Collins,Beechwood,75,57,2,   ,0
-2019-12-29,Covington Catholic,The Villages Charter,60,51,2,   ,0
+2019-12-29,Covington Catholic,Out of State,60,51,2,   ,0
 2019-12-29,George Rogers Clark,Lincoln County,48,43,2,   ,0
-2019-12-29,Harvest Prep (Canal Winchester). OH,Magoffin County,87,66,2,   ,0
+2019-12-29,Out of State,Magoffin County,87,66,2,   ,0
 2019-12-29,Holy Cross (Covington),Robertson County,85,52,2,   ,0
 2019-12-29,Hopkinsville,Grayson County,42,36,2,  (overtime) ,1
 2019-12-29,John Hardin,Corbin,67,66,0,   ,0
@@ -1569,14 +1569,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-29,Owsley County,Jackson City,77,65,2,   ,0
 2019-12-29,Paintsville,Cooper,41,40,2,   ,0
 2019-12-29,Paul Laurence Dunbar,Martin County,49,29,2,   ,0
-2019-12-29,Pulaski County,Morristown-Hamblen East,74,64,2,   ,0
+2019-12-29,Pulaski County,Out of State,74,64,2,   ,0
 2019-12-29,Raceland,Lee County,85,53,2,   ,0
-2019-12-29,Roger Bacon (Cincinnati). OH,Lynn Camp,69,33,2,   ,0
+2019-12-29,Out of State,Lynn Camp,69,33,2,   ,0
 2019-12-29,Scott County,Lawrence County,71,58,2,   ,0
 2019-12-29,Shelby Valley,Perry County Central,77,60,2,   ,0
-2019-12-29,Somerset,Beech,89,81,2,   ,0
+2019-12-29,Somerset,Out of State,89,81,2,   ,0
 2019-12-29,South Laurel,St. Xavier,67,56,1,   ,0
-2019-12-29,University Heights,Sullivan East,71,59,2,   ,0
+2019-12-29,University Heights,Out of State,71,59,2,   ,0
 2019-12-29,Warren Central,Boyd County,62,51,2,   ,0
 2019-12-29,West Carter,Belfry,66,57,0,   ,0
 2019-12-29,West Jessamine,Muhlenberg County,57,54,2,   ,0
@@ -1584,48 +1584,48 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2019-12-29,Woodford County,Dixie Heights,54,47,2,   ,0
 2019-12-30,Allen County-Scottsville,Bullitt Central,65,60,0,   ,0
 2019-12-30,Apollo,Dawson Springs,75,45,1,   ,0
-2019-12-30,Barbourville,Oneida. TN,58,50,2,   ,0
-2019-12-30,Bearden (Knoxville). TN,Central Hardin,55,44,2,   ,0
+2019-12-30,Barbourville,Out of State,58,50,2,   ,0
+2019-12-30,Out of State,Central Hardin,55,44,2,   ,0
 2019-12-30,Bourbon County,Frederick Douglass,69,66,2,   ,0
 2019-12-30,Boyle County,Butler County,68,53,1,   ,0
-2019-12-30,Carmel Christian (Matthews). NC,Henry Clay,81,69,2,   ,0
+2019-12-30,Out of State,Henry Clay,81,69,2,   ,0
 2019-12-30,Collins,Simon Kenton,63,55,2,   ,0
-2019-12-30,Dickson County (Dickson). TN,Rowan County,53,43,2,   ,0
-2019-12-30,Doss,Mascoutah. IL,62,59,2,   ,0
+2019-12-30,Out of State,Rowan County,53,43,2,   ,0
+2019-12-30,Doss,Out of State,62,59,2,   ,0
 2019-12-30,Fairdale,Breckinridge County,65,61,2,  (overtime) ,1
-2019-12-30,Friendship Christian (Lebanon). TN,Floyd Central,71,65,2,   ,0
-2019-12-30,Grant County,Bainbridge,62,45,2,   ,0
-2019-12-30,Harlan,Rosehill Christian,60,47,2,   ,0
+2019-12-30,Out of State,Floyd Central,71,65,2,   ,0
+2019-12-30,Grant County,Out of State,62,45,2,   ,0
+2019-12-30,Harlan,Out of State,60,47,2,   ,0
 2019-12-30,Henderson County,Crittenden County,81,66,0,   ,0
-2019-12-30,Highlands Christian (Pompano Beach). FL,Villa Madonna,76,47,2,   ,0
+2019-12-30,Out of State,Villa Madonna,76,47,2,   ,0
 2019-12-30,Holmes,Walton-Verona,78,72,0,   ,0
-2019-12-30,Holy Cross (Louisville),Pigeon Forge. TN,63,55,0,   ,0
+2019-12-30,Holy Cross (Louisville),Out of State,63,55,0,   ,0
 2019-12-30,John Hardin,Clay County,70,60,2,   ,0
 2019-12-30,Knox Central,Garrard County,80,51,1,   ,0
-2019-12-30,Knoxville Catholic (Knoxville). TN,Corbin,83,53,0,   ,0
+2019-12-30,Out of State,Corbin,83,53,0,   ,0
 2019-12-30,LaRue County,Prestonsburg,68,31,2,   ,0
-2019-12-30,Letcher County Central,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),86,41,1,   ,0
+2019-12-30,Letcher County Central,Out of State,86,41,1,   ,0
 2019-12-30,Lexington Catholic,Madisonville-North Hopkins,67,65,1,  (overtime) ,1
 2019-12-30,McLean County,Atherton,45,40,1,   ,0
 2019-12-30,Morgan County,Fairview,67,39,0,   ,0
-2019-12-30,Morristown-Hamblen West (Morristown). TN,Graves County,57,52,2,   ,0
+2019-12-30,Out of State,Graves County,57,52,2,   ,0
 2019-12-30,Nicholas County,Rose Hill Christian,80,58,0,   ,0
-2019-12-30,North Bullitt,Gulf Breeze. FL,70,46,0,   ,0
-2019-12-30,North Miami. FL,Bullitt East,72,59,2,   ,0
-2019-12-30,Perry Central (Leopold). IN,Apollo,61,54,2,   ,0
-2019-12-30,Portland. TN,Fort Campbell,70,48,2,   ,0
-2019-12-30,Russell,Franklin Road Academy,74,68,2,   ,0
-2019-12-30,Sagemont (Weston). FL,Jeffersontown,67,48,2,   ,0
+2019-12-30,North Bullitt,Out of State,70,46,0,   ,0
+2019-12-30,Out of State,Bullitt East,72,59,2,   ,0
+2019-12-30,Out of State,Apollo,61,54,2,   ,0
+2019-12-30,Out of State,Fort Campbell,70,48,2,   ,0
+2019-12-30,Russell,Out of State,74,68,2,   ,0
+2019-12-30,Out of State,Jeffersontown,67,48,2,   ,0
 2019-12-30,Scott,Pendleton County,78,76,0,   ,0
 2019-12-30,Tates Creek,Paul Laurence Dunbar,59,53,2,   ,0
-2019-12-30,The Park School of Buffalo (Buffalo). NY,Oldham County,57,43,2,   ,0
-2019-12-30,Thompson (Alabaster). AL,North Laurel,92,87,2,   ,0
+2019-12-30,Out of State,Oldham County,57,43,2,   ,0
+2019-12-30,Out of State,North Laurel,92,87,2,   ,0
 2019-12-30,Walden,Cloverport,70,54,2,   ,0
-2019-12-30,Wayne County,White Plains,34,32,2,   ,0
-2019-12-30,Webster County,Bartram Trail,66,45,2,   ,0
-2019-12-30,Williamsburg,Broome,63,49,2,   ,0
-2019-12-31,Charles Henderson (Troy). AL,Wayne County,62,48,2,   ,0
-2019-12-31,Rowan County,Oneonta. AL,52,50,2,  (overtime) ,1
+2019-12-30,Wayne County,Out of State,34,32,2,   ,0
+2019-12-30,Webster County,Out of State,66,45,2,   ,0
+2019-12-30,Williamsburg,Out of State,63,49,2,   ,0
+2019-12-31,Out of State,Wayne County,62,48,2,   ,0
+2019-12-31,Rowan County,Out of State,52,50,2,  (overtime) ,1
 2020-01-02,Bowling Green,Spencer County,65,59,2,   ,0
 2020-01-02,Bryan Station,Frankfort,71,35,0,   ,0
 2020-01-02,Eastern,Thomas Nelson,92,56,1,   ,0
@@ -1636,18 +1636,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-02,Knox Central,Harlan County,70,59,1,   ,0
 2020-01-02,Lafayette,Henderson County,55,41,2,   ,0
 2020-01-02,Leslie County,Letcher County Central,67,66,1,   ,0
-2020-01-02,Madison Southern,Leman Manhattan Prep,64,47,2,   ,0
-2020-01-02,Male,Lincoln Prep,80,67,2,   ,0
+2020-01-02,Madison Southern,Out of State,64,47,2,   ,0
+2020-01-02,Male,Out of State,80,67,2,   ,0
 2020-01-02,Martin County,Johnson Central,51,48,0,  (overtime) ,1
 2020-01-02,McCracken County,Crittenden County,76,43,1,   ,0
 2020-01-02,Morgan County,Menifee County,60,46,0,   ,0
 2020-01-02,Murray,Ballard Memorial,76,39,0,   ,0
 2020-01-02,North Hardin,Southern,70,64,1,   ,0
-2020-01-02,Northview Academy (Kodak). TN,Red Bird,60,44,2,   ,0
+2020-01-02,Out of State,Red Bird,60,44,2,   ,0
 2020-01-02,Ohio County,Atherton,76,74,2,  (overtime) ,1
 2020-01-02,Owensboro Catholic,McLean County,57,41,1,   ,0
 2020-01-02,Perry County Central,Breathitt County,78,65,1,   ,0
-2020-01-02,Raceland,Greenup County,75,73,1,  (triple overtime) ,0
+2020-01-02,Raceland,Greenup County,75,73,1,  (triple overtime) ,1
 2020-01-02,South Laurel,Williamsburg,77,49,0,   ,0
 2020-01-02,South Oldham,Holmes,82,65,1,   ,0
 2020-01-02,Trinity (Whitesville),Cloverport,69,58,2,   ,0
@@ -1658,7 +1658,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-03,Atherton,Thomas Nelson,58,46,2,   ,0
 2020-01-03,Augusta,Robertson County,73,68,1,   ,0
 2020-01-03,Bath County,Fleming County,77,63,1,   ,0
-2020-01-03,Beech (Hendersonville). TN,South Warren,65,57,2,   ,0
+2020-01-03,Out of State,South Warren,65,57,2,   ,0
 2020-01-03,Beechwood,Ryle,64,54,0,   ,0
 2020-01-03,Bell County,Middlesboro,46,43,0,   ,0
 2020-01-03,Berea,Williamstown,78,53,2,   ,0
@@ -1671,7 +1671,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-03,Brown,Heritage Academy,68,61,2,   ,0
 2020-01-03,Bryan Station,Southwestern,58,56,0,   ,0
 2020-01-03,Caldwell County,Carlisle County,63,57,1,   ,0
-2020-01-03,Callaway (Jackson). MS,Marshall County,77,70,2,   ,0
+2020-01-03,Out of State,Marshall County,77,70,2,   ,0
 2020-01-03,Central,Henderson County,69,49,2,   ,0
 2020-01-03,Central Hardin,Grayson County,48,38,1,   ,0
 2020-01-03,Christian County,Calloway County,54,52,2,   ,0
@@ -1683,14 +1683,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-03,Covington Catholic,Conner,71,48,0,   ,0
 2020-01-03,Crittenden County,Lyon County,73,45,1,   ,0
 2020-01-03,Danville Christian,Frankfort Christian,73,25,1,   ,0
-2020-01-03,Dawson Springs,Evansville Christian School. IN,71,64,1,   ,0
+2020-01-03,Dawson Springs,Out of State,71,64,1,   ,0
 2020-01-03,Dayton,Villa Madonna,69,45,1,   ,0
 2020-01-03,East Carter,Russell,57,52,1,   ,0
 2020-01-03,East Ridge,Jenkins,99,71,0,   ,0
 2020-01-03,Eastern,Ohio County,76,72,1,   ,0
 2020-01-03,Elizabethtown,DeSales,66,62,0,   ,0
 2020-01-03,Estill County,Powell County,65,34,0,   ,0
-2020-01-03,Faith (Elizabethtown). (KY home school),Beth Haven,77,70,0,   ,0
+2020-01-03,Out of State,Beth Haven,77,70,0,   ,0
 2020-01-03,Fort Knox,Portland Christian,80,59,1,   ,0
 2020-01-03,Franklin-Simpson,Russellville,75,44,0,   ,0
 2020-01-03,Fulton City,Fulton County,57,53,1,   ,0
@@ -1700,10 +1700,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-03,Graves County,South Warren,59,41,1,   ,0
 2020-01-03,Harrison County,Nicholas County,65,58,1,   ,0
 2020-01-03,Hart County,Green County,58,50,1,   ,0
-2020-01-03,Harvest Prep (Canal Winchester). OH,Greenwood,64,57,2,   ,0
+2020-01-03,Out of State,Greenwood,64,57,2,   ,0
 2020-01-03,Henry County,Owen County,56,46,1,   ,0
 2020-01-03,Highlands,Lafayette,90,59,2,   ,0
-2020-01-03,Highlands Latin,L.I.G.H.T (Danville). (KY home school),82,38,1,   ,0
+2020-01-03,Highlands Latin,Out of State,82,38,1,   ,0
 2020-01-03,Holy Cross (Covington),Bracken County,84,61,2,   ,0
 2020-01-03,Hopkinsville,Fort Campbell,61,48,1,   ,0
 2020-01-03,Jackson County,Pineville,62,59,1,   ,0
@@ -1711,35 +1711,35 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-03,Lincoln County,Great Crossing,65,41,1,   ,0
 2020-01-03,Logan County,Todd County Central,75,42,1,   ,0
 2020-01-03,Louisville Collegiate,Holy Cross (Louisville),49,46,1,   ,0
-2020-01-03,Louisville Tigers. (KY home school),St. Francis,45,42,2,   ,0
+2020-01-03,Out of State,St. Francis,45,42,2,   ,0
 2020-01-03,Ludlow,Calvary Christian,56,53,0,  (overtime) ,1
-2020-01-03,Lutheran East (Cleveland Heights). OH,Fern Creek,77,65,2,   ,0
-2020-01-03,Lynn Camp,Jellico. TN,80,58,1,   ,0
-2020-01-03,Madison Southern,Lake Mary Prep,60,51,2,   ,0
+2020-01-03,Out of State,Fern Creek,77,65,2,   ,0
+2020-01-03,Lynn Camp,Out of State,80,58,1,   ,0
+2020-01-03,Madison Southern,Out of State,60,51,2,   ,0
 2020-01-03,Magoffin County,Pike County Central,52,47,2,   ,0
-2020-01-03,Male,Catholic-B.R.,59,44,2,   ,0
+2020-01-03,Male,Out of State,59,44,2,   ,0
 2020-01-03,Marion County,Campbellsville,56,41,1,   ,0
-2020-01-03,Marion. IL,Calloway County,62,55,2,   ,0
-2020-01-03,Marion. IL,Paducah Tilghman,68,56,2,   ,0
+2020-01-03,Out of State,Calloway County,62,55,2,   ,0
+2020-01-03,Out of State,Paducah Tilghman,68,56,2,   ,0
 2020-01-03,Mayfield,Hickman County,72,50,0,   ,0
 2020-01-03,McCreary Central,Williamsburg,62,59,1,   ,0
 2020-01-03,Meade County,Bullitt Central,44,43,1,   ,0
 2020-01-03,Mercer County,East Jessamine,48,46,0,   ,0
 2020-01-03,Monroe County,Russell County,45,44,1,  (overtime) ,1
 2020-01-03,Montgomery County,Paintsville,68,56,1,   ,0
-2020-01-03,Newport Central Catholic,Wellington School (Columbus). OH,69,49,1,   ,0
+2020-01-03,Newport Central Catholic,Out of State,69,49,1,   ,0
 2020-01-03,North Bullitt,Iroquois,75,50,1,   ,0
-2020-01-03,North Oldham,Bradford (Starke). FL,74,56,1,   ,0
+2020-01-03,North Oldham,Out of State,74,56,1,   ,0
 2020-01-03,Oldham County,Paul Laurence Dunbar,57,50,2,   ,0
 2020-01-03,Owensboro,Apollo,65,36,1,   ,0
 2020-01-03,Owsley County,Lee County,79,62,1,   ,0
 2020-01-03,Paducah Tilghman,Christian County,70,67,2,   ,0
 2020-01-03,Pleasure Ridge Park,Ballard,96,87,0,   ,0
-2020-01-03,Red Bird,Bledsoe County,47,42,2,   ,0
+2020-01-03,Red Bird,Out of State,47,42,2,   ,0
 2020-01-03,Seneca,Western,75,57,0,   ,0
 2020-01-03,Simon Kenton,Anderson County,44,40,1,   ,0
 2020-01-03,Somerset,Rockcastle County,74,43,1,   ,0
-2020-01-03,South Dearborn (Aurora). IN,Newport,59,56,2,   ,0
+2020-01-03,Out of State,Newport,59,56,2,   ,0
 2020-01-03,South Oldham,Warren Central,72,68,1,   ,0
 2020-01-03,Spencer County,Holmes,70,53,2,   ,0
 2020-01-03,St. Henry,Lexington Catholic,70,59,1,   ,0
@@ -1751,15 +1751,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-03,Waggener,Moore,70,58,0,   ,0
 2020-01-03,Webster County,Hopkins County Central,77,47,0,   ,0
 2020-01-03,West Carter,Morgan County,63,44,1,   ,0
-2020-01-03,West Creek (Clarksville). TN,Graves County,54,47,0,   ,0
+2020-01-03,Out of State,Graves County,54,47,0,   ,0
 2020-01-03,West Jessamine,Lexington Christian,74,46,0,   ,0
 2020-01-03,Western Hills,Franklin County,65,62,1,   ,0
 2020-01-03,Whitley County,Barbourville,46,44,1,   ,0
-2020-01-04,South Dearborn (Aurora). IN,Holy Cross,66,65,2, Not Quite Hawaii Challenge  ,0
+2020-01-04,Out of State,Holy Cross (Louisville),66,65,2, Not Quite Hawaii Challenge  ,0
 2020-01-04,Ashland Blazer,Woodford County,68,49,1,   ,0
 2020-01-04,Atherton,Central,69,53,2,   ,0
-2020-01-04,Augusta,West Union. OH,90,51,1,   ,0
-2020-01-04,Ballard,Bradford,99,62,2,   ,0
+2020-01-04,Augusta,Out of State,90,51,1,   ,0
+2020-01-04,Ballard,Out of State,99,62,2,   ,0
 2020-01-04,Bardstown,Hopkinsville,79,67,0,   ,0
 2020-01-04,Bath County,Nicholas County,89,61,0,   ,0
 2020-01-04,Berea,Jackson City,80,78,2,  (overtime) ,1
@@ -1773,36 +1773,36 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-04,Calvary Christian,Portland Christian,79,52,0,   ,0
 2020-01-04,Central Hardin,Fairdale,67,55,1,   ,0
 2020-01-04,Christian County,Graves County,43,33,0,   ,0
-2020-01-04,Cincinnati Hills Christian Academy (Cincinnati). OH,Newport,62,44,0,   ,0
-2020-01-04,Clinton County,Pickett County (Byrdstown). TN,48,34,0,   ,0
+2020-01-04,Out of State,Newport,62,44,0,   ,0
+2020-01-04,Clinton County,Out of State,48,34,0,   ,0
 2020-01-04,Corbin,Cordia,88,63,2,   ,0
-2020-01-04,Covington Catholic,Turpin (Cincinnati). OH,44,40,0,   ,0
+2020-01-04,Covington Catholic,Out of State,44,40,0,   ,0
 2020-01-04,Danville Christian,June Buchanan,69,45,1,   ,0
 2020-01-04,Doss,North Hardin,62,61,2,   ,0
 2020-01-04,Elizabethtown,Owensboro,81,68,2,   ,0
-2020-01-04,Faith (Elizabethtown). (KY home school),Brown,54,52,2,  (double overtime) ,0
+2020-01-04,Out of State,Brown,54,52,2,  (double overtime) ,1
 2020-01-04,Fern Creek,Simon Kenton,66,52,2,   ,0
 2020-01-04,Fleming County,St. Patrick,76,49,0,   ,0
-2020-01-04,Floyd Central (Floyds Knobs). IN,Meade County,68,42,1,   ,0
+2020-01-04,Out of State,Meade County,68,42,1,   ,0
 2020-01-04,Franklin-Simpson,Muhlenberg County,59,53,1,   ,0
-2020-01-04,Fulton County,Lake County (Tiptonville). TN,75,66,1,   ,0
+2020-01-04,Fulton County,Out of State,75,66,1,   ,0
 2020-01-04,George Rogers Clark,East Jessamine,70,60,1,   ,0
 2020-01-04,Grant County,Breathitt County,68,59,0,   ,0
 2020-01-04,Greenup County,Letcher County Central,65,54,2,   ,0
-2020-01-04,Greenwood,Cardinal Stritch,73,68,2,  (overtime) ,1
-2020-01-04,Harlan County,Rye Cove (Clinchport). VA,82,37,1,   ,0
-2020-01-04,Harvest Prep (Canal Winchester). OH,Conner,75,61,2,   ,0
+2020-01-04,Greenwood,Out of State,73,68,2,  (overtime) ,1
+2020-01-04,Harlan County,Out of State,82,37,1,   ,0
+2020-01-04,Out of State,Conner,75,61,2,   ,0
 2020-01-04,Henderson County,Thomas Nelson,73,51,2,   ,0
 2020-01-04,Highlands,Eastern,77,68,0,   ,0
 2020-01-04,Holy Cross (Covington),Walton-Verona,90,76,2,   ,0
 2020-01-04,Iroquois,Shelby County,79,35,0,   ,0
 2020-01-04,John Hardin,Madisonville-North Hopkins,72,58,2,   ,0
-2020-01-04,Kentucky Country Day,Louisville Tigers.,71,42,2,   ,0
-2020-01-04,Kentucky Country Day,Faith,58,31,2,   ,0
+2020-01-04,Kentucky Country Day,Out of State,71,42,2,   ,0
+2020-01-04,Kentucky Country Day,Out of State,58,31,2,   ,0
 2020-01-04,Knott County Central,Martin County,59,53,1,   ,0
 2020-01-04,Knox Central,Rockcastle County,74,66,2,   ,0
 2020-01-04,Lawrence County,Belfry,86,73,2,   ,0
-2020-01-04,Lawrenceburg. IN,Southwestern,55,52,2,   ,0
+2020-01-04,Out of State,Southwestern,55,52,2,   ,0
 2020-01-04,Leslie County,Powell County,60,44,0,   ,0
 2020-01-04,Lewis County,Union County,69,49,2,   ,0
 2020-01-04,Lexington Christian,Scott,66,49,2,   ,0
@@ -1810,28 +1810,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-04,Ludlow,Henry County,63,55,0,   ,0
 2020-01-04,Madison Central,Danville,71,66,2,   ,0
 2020-01-04,Magoffin County,Betsy Layne,92,64,1,   ,0
-2020-01-04,Male,Bloom,58,55,2,   ,0
+2020-01-04,Male,Out of State,58,55,2,   ,0
 2020-01-04,Marion County,Washington County,79,51,1,   ,0
 2020-01-04,Marshall County,Lyon County,77,46,2,   ,0
 2020-01-04,Mason County,Mercer County,70,56,2,   ,0
 2020-01-04,Mayfield,Community Christian (Paducah),81,47,0,   ,0
-2020-01-04,McCracken County,Poplar Bluff. MO,73,59,1,   ,0
+2020-01-04,McCracken County,Out of State,73,59,1,   ,0
 2020-01-04,Model,Green County,79,54,2,   ,0
 2020-01-04,Montgomery County,Bell County,82,74,2,   ,0
 2020-01-04,North Laurel,Pulaski County,82,67,2,   ,0
 2020-01-04,Ohio County,Lafayette,86,84,2,  (overtime) ,1
 2020-01-04,Oldham County,Paintsville,79,66,2,   ,0
 2020-01-04,Owensboro Catholic,Edmonson County,83,58,0,   ,0
-2020-01-04,Paducah Tilghman,West Creek,81,56,2,   ,0
+2020-01-04,Paducah Tilghman,Out of State,81,56,2,   ,0
 2020-01-04,Paul Laurence Dunbar,North Oldham,73,63,0,   ,0
-2020-01-04,Phelps,Twin Valley (Pilgrims Knob). VA,64,31,0,   ,0
-2020-01-04,Red Bird,Cloudland,57,49,2,   ,0
-2020-01-04,Riverdale Country (Bronx). NY,Madison Southern,67,65,2,  (overtime) ,1
+2020-01-04,Phelps,Out of State,64,31,0,   ,0
+2020-01-04,Red Bird,Out of State,57,49,2,   ,0
+2020-01-04,Out of State,Madison Southern,67,65,2,  (overtime) ,1
 2020-01-04,Russell,Johnson Central,83,81,1,  (overtime) ,1
 2020-01-04,Russell County,Buckhorn,54,41,2,   ,0
 2020-01-04,Ryle,Bracken County,78,38,2,   ,0
 2020-01-04,Sayre,Pendleton County,75,73,0,   ,0
-2020-01-04,Scotlandville (Baton Rouge). LA,Male,59,39,2,   ,0
+2020-01-04,Out of State,Male,59,39,2,   ,0
 2020-01-04,Shawnee,St. Francis,55,50,2,   ,0
 2020-01-04,Shelby Valley,Pikeville,63,59,0,   ,0
 2020-01-04,South Laurel,Clay County,56,45,1,   ,0
@@ -1839,11 +1839,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-04,South Warren,Calloway County,68,60,2,   ,0
 2020-01-04,Spencer County,Warren Central,71,70,2,  (overtime) ,1
 2020-01-04,St. Henry,Boone County,73,49,0,   ,0
-2020-01-04,Symmes Valley (Willow Wood). OH,Fairview,70,65,1,   ,0
+2020-01-04,Out of State,Fairview,70,65,1,   ,0
 2020-01-04,Trinity (Whitesville),Hancock County,58,52,2,   ,0
 2020-01-04,Wayne County,Rowan County,66,61,2,   ,0
 2020-01-04,West Jessamine,Newport Central Catholic,73,63,1,   ,0
-2020-01-05,Murray,Prodigy Prep,78,62,2,   ,0
+2020-01-05,Murray,Out of State,78,62,2,   ,0
 2020-01-05,Paducah Tilghman,University Heights,65,60,2,   ,0
 2020-01-05,St. Xavier,Trinity (Louisville),69,54,1,   ,0
 2020-01-06,Bellevue,Covington Latin,73,30,1,   ,0
@@ -1869,7 +1869,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-06,Walden,Portland Christian,86,62,1,   ,0
 2020-01-06,Warren Central,Allen County-Scottsville,84,62,2,   ,0
 2020-01-06,Warren East,Cumberland County,73,69,0,   ,0
-2020-01-06,White Academy (Harrogate). TN,Red Bird,67,61,1,   ,0
+2020-01-06,Out of State,Red Bird,67,61,1,   ,0
 2020-01-06,Wolfe County,Owsley County,59,53,2,   ,0
 2020-01-07,Ashland Blazer,Trinity (Louisville),50,43,1,   ,0
 2020-01-07,Augusta,Fleming County,68,40,1,   ,0
@@ -1901,10 +1901,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-07,Eastern,Franklin County,47,44,0,   ,0
 2020-01-07,Elizabethtown,Bullitt Central,64,55,0,   ,0
 2020-01-07,Fern Creek,Jeffersontown,62,53,1,   ,0
-2020-01-07,Fort Campbell,Pleasant View Christian (Pleasant View). TN,67,31,1,   ,0
+2020-01-07,Fort Campbell,Out of State,67,31,1,   ,0
 2020-01-07,Franklin-Simpson,Hart County,74,63,2,   ,0
-2020-01-07,Fulton City,Dresden. TN,50,49,0,   ,0
-2020-01-07,Fulton County,South Fulton. TN,74,53,1,   ,0
+2020-01-07,Fulton City,Out of State,50,49,0,   ,0
+2020-01-07,Fulton County,Out of State,74,53,1,   ,0
 2020-01-07,Gallatin County,Walton-Verona,59,56,2,   ,0
 2020-01-07,George Rogers Clark,Powell County,84,29,1,   ,0
 2020-01-07,Glasgow,Allen County-Scottsville,61,42,0,   ,0
@@ -1912,13 +1912,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-07,Greenup County,Russell,58,55,0,   ,0
 2020-01-07,Greenwood,Todd County Central,84,47,0,   ,0
 2020-01-07,Harlan,Pineville,69,54,1,   ,0
-2020-01-07,Henderson County,Evansville Harrison (Evansville). IN,69,51,0,   ,0
+2020-01-07,Henderson County,Out of State,69,51,0,   ,0
 2020-01-07,Henry Clay,Frederick Douglass,79,68,1,   ,0
 2020-01-07,Highlands,Newport,71,58,0,   ,0
 2020-01-07,Holy Cross (Covington),Newport Central Catholic,72,51,1,   ,0
 2020-01-07,Iroquois,Shawnee,71,53,0,   ,0
 2020-01-07,John Hardin,Campbellsville,90,40,0,   ,0
-2020-01-07,Joppa-Maple Grove (Joppa). IL,Community Christian (Paducah),54,49,0,   ,0
+2020-01-07,Out of State,Community Christian (Paducah),54,49,0,   ,0
 2020-01-07,Lexington Catholic,Lexington Christian,58,51,1,   ,0
 2020-01-07,Lincoln County,West Jessamine,44,41,1,   ,0
 2020-01-07,Lloyd Memorial,Villa Madonna,84,40,1,   ,0
@@ -1938,13 +1938,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-07,North Hardin,Central Hardin,61,60,1,   ,0
 2020-01-07,North Laurel,Red Bird,87,49,0,   ,0
 2020-01-07,Ohio County,Owensboro,69,64,1,   ,0
-2020-01-07,Oldham County,North Bullitt,81,76,0,  (double overtime) ,0
-2020-01-07,Owensboro Catholic,Trinity,79,69,2,  (overtime) ,1
+2020-01-07,Oldham County,North Bullitt,81,76,0,  (double overtime) ,1
+2020-01-07,Owensboro Catholic,Trinity (Whitesville),79,69,2,  (overtime) ,1
 2020-01-07,Paducah Tilghman,Murray,55,51,1,   ,0
 2020-01-07,Paintsville,Martin County,57,48,1,   ,0
 2020-01-07,Paris,Nicholas County,64,59,1,   ,0
 2020-01-07,Pikeville,Jenkins,79,53,0,   ,0
-2020-01-07,Pulaski County,Central Kentucky HomeSchool (Lexington). (KY home school),80,43,1,   ,0
+2020-01-07,Pulaski County,Out of State,80,43,1,   ,0
 2020-01-07,Raceland,Lewis County,58,52,0,   ,0
 2020-01-07,Robertson County,Calvary Christian,75,52,0,   ,0
 2020-01-07,Rockcastle County,Sayre,46,45,1,   ,0
@@ -1977,10 +1977,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-08,Lawrence County,Floyd Central,76,54,2,   ,0
 2020-01-08,Magoffin County,Morgan County,54,49,2,   ,0
 2020-01-08,North Bullitt,Bethlehem,72,44,1,   ,0
-2020-01-08,Pineville,White Academy (Harrogate). TN,85,73,1,   ,0
-2020-01-08,Pope County (Golconda). IL,Ballard Memorial,59,42,1,   ,0
+2020-01-08,Pineville,Out of State,85,73,1,   ,0
+2020-01-08,Out of State,Ballard Memorial,59,42,1,   ,0
 2020-01-08,Western Hills,Henry County,72,50,2,   ,0
-2020-01-09,Ballard,Floyd Central (Floyds Knobs). IN,78,57,1,   ,0
+2020-01-09,Ballard,Out of State,78,57,1,   ,0
 2020-01-09,Barbourville,Lynn Camp,63,60,1,   ,0
 2020-01-09,Bath County,Menifee County,76,74,1,   ,0
 2020-01-09,Bourbon County,Harrison County,89,49,2,   ,0
@@ -1993,9 +1993,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-09,Harlan County,Perry County Central,81,64,0,   ,0
 2020-01-09,Ludlow,Heritage Academy,78,53,0,   ,0
 2020-01-09,Madisonville-North Hopkins,Dawson Springs,90,82,0,   ,0
-2020-01-09,Mayfield,South Fulton. TN,56,47,0,   ,0
+2020-01-09,Mayfield,Out of State,56,47,0,   ,0
 2020-01-09,Mercer County,Garrard County,74,51,2,   ,0
-2020-01-09,Mountain Mission (Grundy). VA,Pike County Central,59,55,0,   ,0
+2020-01-09,Out of State,Pike County Central,59,55,0,   ,0
 2020-01-09,Phelps,Prestonsburg,65,54,1,   ,0
 2020-01-09,Rowan County,Pendleton County,50,43,2,   ,0
 2020-01-09,Shawnee,Beth Haven,60,55,0,   ,0
@@ -2005,10 +2005,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-09,Waggener,Doss,64,57,1,   ,0
 2020-01-09,Warren Central,Warren East,83,39,0,   ,0
 2020-01-09,West Carter,East Carter,46,33,0,   ,0
-2020-01-09,Whitley County,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),80,36,1,   ,0
+2020-01-09,Whitley County,Out of State,80,36,1,   ,0
 2020-01-09,Williamstown,Trimble County,75,59,1,   ,0
 2020-01-10,Corbin,McCreary Central,69,61,2, Kentucky 2A Championship Sectional Tournaments  ,0
-2020-01-10,Alabama School for the Deaf (Talladega). AL,Kentucky School f/t Deaf,58,7,2,   ,0
+2020-01-10,Out of State,Kentucky School f/t Deaf,58,7,2,   ,0
 2020-01-10,Allen County-Scottsville,Monroe County,67,52,1,   ,0
 2020-01-10,Anderson County,Shelby County,63,47,0,   ,0
 2020-01-10,Apollo,Daviess County,54,52,1,  (overtime) ,1
@@ -2044,7 +2044,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-10,Franklin-Simpson,Todd County Central,55,42,0,   ,0
 2020-01-10,Fulton City,Christian Fellowship,78,62,2,   ,0
 2020-01-10,Gallatin County,Williamstown,70,44,0,   ,0
-2020-01-10,Greenup County,St. Joseph Altercrest. OH,109,45,1,   ,0
+2020-01-10,Greenup County,Out of State,109,45,1,   ,0
 2020-01-10,Hancock County,Meade County,59,54,0,   ,0
 2020-01-10,Hart County,Caverna,92,63,0,   ,0
 2020-01-10,Henry Clay,Scott County,68,59,0,   ,0
@@ -2067,9 +2067,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-10,Mayfield,Graves County,49,48,0,  (overtime) ,1
 2020-01-10,McCracken County,Marshall County,58,53,1,   ,0
 2020-01-10,McLean County,Ohio County,53,52,0,   ,0
-2020-01-10,Mingo Central (Matewan). WV,Phelps,45,43,2,   ,0
+2020-01-10,Out of State,Phelps,45,43,2,   ,0
 2020-01-10,Muhlenberg County,Henderson County,62,51,0,   ,0
-2020-01-10,Newport Central Catholic,Holmes,74,68,1,  (double overtime) ,0
+2020-01-10,Newport Central Catholic,Holmes,74,68,1,  (double overtime) ,1
 2020-01-10,Nicholas County,St. Patrick,97,56,2,   ,0
 2020-01-10,North Bullitt,Bullitt Central,91,63,1,   ,0
 2020-01-10,North Hardin,Fort Knox,72,35,1,   ,0
@@ -2082,7 +2082,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-10,Paintsville,Johnson Central,62,60,1,   ,0
 2020-01-10,Portland Christian,Danville Christian,61,50,1,  (overtime) ,1
 2020-01-10,Pulaski County,Rockcastle County,85,56,0,   ,0
-2020-01-10,Seneca,Central,68,64,0,  (triple overtime) ,0
+2020-01-10,Seneca,Central,68,64,0,  (triple overtime) ,1
 2020-01-10,Simon Kenton,Holy Cross (Covington),79,77,1,   ,0
 2020-01-10,Somerset,Casey County,78,46,1,   ,0
 2020-01-10,South Oldham,Iroquois,95,69,0,   ,0
@@ -2099,10 +2099,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-11,Adair County,Thomas Nelson,68,58,0,   ,0
 2020-01-11,Anderson County,Powell County,55,19,1,   ,0
 2020-01-11,Apollo,Dawson Springs,95,62,0,   ,0
-2020-01-11,Arkansas School for the Deaf (Little Rock). AR,Kentucky School f/t Deaf,43,31,2,   ,0
-2020-01-11,Ballard Memorial,Community Christian,59,21,2,   ,0
+2020-01-11,Out of State,Kentucky School f/t Deaf,43,31,2,   ,0
+2020-01-11,Ballard Memorial,Community Christian (Paducah),59,21,2,   ,0
 2020-01-11,Bath County,Rose Hill Christian,79,53,2,   ,0
-2020-01-11,Benton. IL,Livingston Central,64,41,0,   ,0
+2020-01-11,Out of State,Livingston Central,64,41,0,   ,0
 2020-01-11,Beth Haven,Frankfort Christian,69,40,1,   ,0
 2020-01-11,Bishop Brossart,Calvary Christian,56,51,2,  (overtime) ,1
 2020-01-11,Bourbon County,Rowan County,57,53,2,   ,0
@@ -2115,7 +2115,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-11,Frederick Douglass,Great Crossing,73,52,0,   ,0
 2020-01-11,George Rogers Clark,Harrison County,89,74,1,   ,0
 2020-01-11,Glasgow,Todd County Central,56,37,1,   ,0
-2020-01-11,Greenup County,Green (Uniontown). OH,77,42,1,   ,0
+2020-01-11,Greenup County,Out of State,77,42,1,   ,0
 2020-01-11,Harlan,Barbourville,71,65,2,   ,0
 2020-01-11,Harlan County,Montgomery County,71,67,2,   ,0
 2020-01-11,Hazard,Cordia,49,42,2,   ,0
@@ -2131,21 +2131,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-11,Mason County,Walton-Verona,77,60,1,   ,0
 2020-01-11,Mayfield,Hickman County,56,44,1,   ,0
 2020-01-11,Middlesboro,Lynn Camp,51,48,2,   ,0
-2020-01-11,Mingo Central (Matewan). WV,Belfry,57,45,2,   ,0
+2020-01-11,Out of State,Belfry,57,45,2,   ,0
 2020-01-11,North Laurel,Southwestern,65,64,2,  (overtime) ,1
-2020-01-11,Oklahoma School for the Deaf (Sulphur). OK,Kentucky School f/t Deaf,53,23,2,   ,0
-2020-01-11,Oldenburg Academy (Oldenburg). IN,Villa Madonna,69,31,0,   ,0
+2020-01-11,Out of State,Kentucky School f/t Deaf,53,23,2,   ,0
+2020-01-11,Out of State,Villa Madonna,69,31,0,   ,0
 2020-01-11,Oldham County,Scott County,74,59,1,   ,0
 2020-01-11,Paris,Augusta,49,47,2,   ,0
-2020-01-11,Phelps,Wayne. WV,51,45,2,   ,0
-2020-01-11,Pikeville,Tug Valley,53,51,2,   ,0
+2020-01-11,Phelps,Out of State,51,45,2,   ,0
+2020-01-11,Pikeville,Out of State,53,51,2,   ,0
 2020-01-11,Portland Christian,Heritage Academy,85,79,0,   ,0
 2020-01-11,Raceland,Fairview,70,56,1,   ,0
 2020-01-11,Red Bird,Jackson County,70,69,2,   ,0
 2020-01-11,Robertson County,Bracken County,53,50,1,   ,0
 2020-01-11,Russell County,Rockcastle County,66,52,1,   ,0
-2020-01-11,Scott (Madison). WV,East Ridge,80,72,2,   ,0
-2020-01-11,South Charleston. WV,Shelby Valley,54,33,2,   ,0
+2020-01-11,Out of State,East Ridge,80,72,2,   ,0
+2020-01-11,Out of State,Shelby Valley,54,33,2,   ,0
 2020-01-11,St. Mary,Fulton County,56,47,2,   ,0
 2020-01-11,St. Patrick,Jackson City,67,56,1,   ,0
 2020-01-11,Walden,St. Francis,92,80,2,   ,0
@@ -2167,7 +2167,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-13,Frankfort,Berea,63,42,1,   ,0
 2020-01-13,Greenwood,Hopkinsville,61,48,1,   ,0
 2020-01-13,Harlan,Williamsburg,72,68,0,   ,0
-2020-01-13,Holy Cross (Louisville),Bluegrass United (Lexington). (KY home school),64,44,1,   ,0
+2020-01-13,Holy Cross (Louisville),Out of State,64,44,1,   ,0
 2020-01-13,Iroquois,Trimble County,84,60,1,   ,0
 2020-01-13,Lexington Christian,Frankfort Christian,96,28,2,   ,0
 2020-01-13,Male,Louisville Collegiate,78,55,2,   ,0
@@ -2207,7 +2207,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-14,Covington Catholic,Ryle,90,53,0,   ,0
 2020-01-14,Danville,Danville Christian,82,42,2,   ,0
 2020-01-14,East Carter,Morgan County,66,46,0,   ,0
-2020-01-14,East Central (St. Leon). IN,Boone County,73,52,0,   ,0
+2020-01-14,Out of State,Boone County,73,52,0,   ,0
 2020-01-14,East Jessamine,Madison Southern,66,65,0,   ,0
 2020-01-14,Eastern,North Bullitt,68,65,2,   ,0
 2020-01-14,Edmonson County,Hart County,78,76,1,   ,0
@@ -2235,7 +2235,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-14,Muhlenberg County,McLean County,72,24,1,   ,0
 2020-01-14,Nelson County,Washington County,55,52,0,  (overtime) ,1
 2020-01-14,North Laurel,Rockcastle County,71,47,0,   ,0
-2020-01-14,Northeast (Clarksville). TN,Hopkinsville,66,48,0,   ,0
+2020-01-14,Out of State,Hopkinsville,66,48,0,   ,0
 2020-01-14,Ohio County,Grayson County,72,47,0,   ,0
 2020-01-14,Owensboro Catholic,Trinity (Whitesville),70,48,0,   ,0
 2020-01-14,Owsley County,Powell County,57,46,1,   ,0
@@ -2252,13 +2252,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-14,Simon Kenton,Cooper,65,46,1,   ,0
 2020-01-14,St. Henry,Holy Cross (Covington),63,43,1,   ,0
 2020-01-14,Tates Creek,Paul Laurence Dunbar,69,52,1,   ,0
-2020-01-14,Tell City. IN,Hancock County,56,52,0,   ,0
+2020-01-14,Out of State,Hancock County,56,52,0,   ,0
 2020-01-14,Thomas Nelson,Meade County,86,65,1,   ,0
-2020-01-14,Trigg County,Evansville Christian School. IN,68,64,0,   ,0
+2020-01-14,Trigg County,Out of State,68,64,0,   ,0
 2020-01-14,Trinity (Louisville),Jeffersontown,48,39,2,   ,0
 2020-01-14,University Heights,Crittenden County,72,31,0,   ,0
 2020-01-14,Webster County,Apollo,70,50,0,   ,0
-2020-01-14,Wellspring Guardians (Richmond). (KY home school),Menifee County,76,62,0,   ,0
+2020-01-14,Out of State,Menifee County,76,62,0,   ,0
 2020-01-14,Wolfe County,Lee County,91,41,0,   ,0
 2020-01-14,Woodford County,George Rogers Clark,75,68,1,   ,0
 2020-01-15,Lexington Christian,Sayre,65,57,2," 11th Region All ""A"" Classic  ",0
@@ -2294,7 +2294,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-16,John Hardin,Christian Academy-Louisville,71,54,2,   ,0
 2020-01-16,Johnson Central,Boyd County,71,64,0,   ,0
 2020-01-16,Knott County Central,Cordia,75,64,1,   ,0
-2020-01-16,Lawrenceburg. IN,Bellevue,82,22,1,   ,0
+2020-01-16,Out of State,Bellevue,82,22,1,   ,0
 2020-01-16,Lexington Catholic,Calloway County,70,58,2,   ,0
 2020-01-16,Louisville Collegiate,Kentucky Country Day,66,38,2,   ,0
 2020-01-16,Magoffin County,Belfry,68,54,0,   ,0
@@ -2307,8 +2307,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-16,Somerset,Burgin,69,33,0,   ,0
 2020-01-16,Warren Central,Knox Central,83,59,2,   ,0
 2020-01-16,Western,Atherton,67,63,1,   ,0
-2020-01-16,Whitefield Academy,Louisville Tigers. (KY home school),92,54,1,   ,0
-2020-01-17,Somerset,Danville,72,70,2," 12th Region All ""A"" Classic (double overtime) ",0
+2020-01-16,Whitefield Academy,Out of State,92,54,1,   ,0
+2020-01-17,Somerset,Danville,72,70,2," 12th Region All ""A"" Classic (double overtime) ",1
 2020-01-17,Mayfield,Carlisle County,61,51,1," 1st Region All ""A"" Classic  ",0
 2020-01-17,University Heights,Lyon County,78,58,2," 2nd Region All ""A"" Classic  ",0
 2020-01-17,Metcalfe County,Monroe County,51,38,2," 4th Region All ""A"" Classic  ",0
@@ -2316,8 +2316,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-17,Beechwood,Lloyd Memorial,64,51,2," 9th Region All ""A"" Classic  ",0
 2020-01-17,St. Henry,Newport Central Catholic,57,55,1," 9th Region All ""A"" Classic  ",0
 2020-01-17,Ballard,Male,71,58,2, Republic Bank Louisville Invitational Tournament  ,0
-2020-01-17,Fern Creek,Trinity,54,45,2, Republic Bank Louisville Invitational Tournament  ,0
-2020-01-17,Allen County-Scottsville,Westmoreland. TN,66,38,0,   ,0
+2020-01-17,Fern Creek,Trinity (Louisville),54,45,2, Republic Bank Louisville Invitational Tournament  ,0
+2020-01-17,Allen County-Scottsville,Out of State,66,38,0,   ,0
 2020-01-17,Augusta,St. Patrick,83,64,1,   ,0
 2020-01-17,Bardstown,Thomas Nelson,100,72,1,   ,0
 2020-01-17,Bath County,Fleming County,73,56,0,   ,0
@@ -2325,17 +2325,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-17,Bryan Station,Frederick Douglass,72,63,0,   ,0
 2020-01-17,Caldwell County,Fort Campbell,77,39,2,   ,0
 2020-01-17,Central Hardin,Washington County,63,31,1,   ,0
-2020-01-17,Christian Fellowship,Carroll Academy (Huntingdon). TN,83,31,0,   ,0
+2020-01-17,Christian Fellowship,Out of State,83,31,0,   ,0
 2020-01-17,Collins,Shelby County,81,48,1,   ,0
-2020-01-17,Community Christian (Paducah),Pleasant View Christian (Pleasant View). TN,50,42,1,   ,0
+2020-01-17,Community Christian (Paducah),Out of State,50,42,1,   ,0
 2020-01-17,Conner,Ryle,71,47,1,   ,0
 2020-01-17,Covington Catholic,Cooper,50,33,0,   ,0
-2020-01-17,Danville Christian,White Academy (Harrogate). TN,70,56,1,   ,0
+2020-01-17,Danville Christian,Out of State,70,56,1,   ,0
 2020-01-17,East Jessamine,West Jessamine,61,57,1,   ,0
 2020-01-17,Edmonson County,Trinity (Whitesville),65,57,1,   ,0
 2020-01-17,Elizabethtown,Meade County,82,43,1,   ,0
 2020-01-17,Estill County,Powell County,68,50,1,   ,0
-2020-01-17,Fulton City,Joppa-Maple Grove (Joppa). IL,82,27,1,   ,0
+2020-01-17,Fulton City,Out of State,82,27,1,   ,0
 2020-01-17,George Rogers Clark,Montgomery County,59,52,0,   ,0
 2020-01-17,Grayson County,Butler County,47,45,1,  (overtime) ,1
 2020-01-17,Great Crossing,Franklin County,52,38,0,   ,0
@@ -2389,28 +2389,28 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-18,Ashland Blazer,Mason County,66,65,0,   ,0
 2020-01-18,Bath County,Raceland,71,56,1,   ,0
 2020-01-18,Bethlehem,Washington County,46,42,1,   ,0
-2020-01-18,Boyd County,Spring Valley (Huntington). WV,72,60,1,   ,0
-2020-01-18,Bryan Station,Knox Central,70,69,1,  (triple overtime) ,0
+2020-01-18,Boyd County,Out of State,72,60,1,   ,0
+2020-01-18,Bryan Station,Knox Central,70,69,1,  (triple overtime) ,1
 2020-01-18,Bullitt Central,Nelson County,67,42,1,   ,0
 2020-01-18,Butler County,St. Francis,86,59,0,   ,0
 2020-01-18,Carroll County,Iroquois,68,59,1,   ,0
-2020-01-18,Christian Fellowship,Pleasant View Christian (Pleasant View). TN,51,31,1,   ,0
+2020-01-18,Christian Fellowship,Out of State,51,31,1,   ,0
 2020-01-18,Conner,Grant County,75,59,0,   ,0
 2020-01-18,Covington Catholic,Paul Laurence Dunbar,77,54,1,   ,0
 2020-01-18,Danville Christian,Heritage Academy,77,64,1,   ,0
 2020-01-18,Edmonson County,Cloverport,70,45,1,   ,0
-2020-01-18,Fairview,Green (Franklin Furnace). OH,65,56,1,   ,0
+2020-01-18,Fairview,Out of State,65,56,1,   ,0
 2020-01-18,Floyd Central,Letcher County Central,60,57,1,  (overtime) ,1
 2020-01-18,Franklin County,Nicholas County,62,43,1,   ,0
 2020-01-18,Gallatin County,Anderson County,55,47,0,   ,0
 2020-01-18,George Rogers Clark,Breathitt County,77,74,1,  (overtime) ,1
-2020-01-18,Greenup County,St. Joseph Central (Huntington). WV,74,64,0,   ,0
+2020-01-18,Greenup County,Out of State,74,64,0,   ,0
 2020-01-18,Harlan County,Harlan,79,71,1,   ,0
 2020-01-18,Henry County,Frankfort Christian,66,15,0,   ,0
 2020-01-18,Highlands,Campbell County,71,54,1,   ,0
 2020-01-18,Holy Cross (Louisville),Shawnee,67,47,2,  (championship) ,0
 2020-01-18,Hopkinsville,South Warren,70,64,1,   ,0
-2020-01-18,Indian Hill (Cincinnati). OH,Boone County,68,51,1,   ,0
+2020-01-18,Out of State,Boone County,68,51,1,   ,0
 2020-01-18,Johnson Central,Rose Hill Christian,73,46,1,   ,0
 2020-01-18,Lafayette,Scott County,71,70,0,   ,0
 2020-01-18,Leslie County,Pike County Central,71,65,0,   ,0
@@ -2419,30 +2419,30 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-18,Ludlow,Harrison County,63,43,1,   ,0
 2020-01-18,Madison Central,Great Crossing,54,50,1,   ,0
 2020-01-18,Madisonville-North Hopkins,Henderson County,56,48,0,   ,0
-2020-01-18,Marshall County,Prodigy Prep (Orlando). FL,79,67,1,   ,0
-2020-01-18,McLean County,Evansville Day (Evansville). IN,66,53,0,   ,0
+2020-01-18,Marshall County,Out of State,79,67,1,   ,0
+2020-01-18,McLean County,Out of State,66,53,0,   ,0
 2020-01-18,Metcalfe County,Adair County,69,60,1,   ,0
 2020-01-18,North Oldham,Shelby County,82,38,1,   ,0
 2020-01-18,Pendleton County,Fleming County,55,50,1,   ,0
 2020-01-18,Perry County Central,North Laurel,76,65,1,   ,0
-2020-01-18,Pineville,Thomas Walker (Ewing). VA,84,73,0,   ,0
+2020-01-18,Pineville,Out of State,84,73,0,   ,0
 2020-01-18,Russellville,Trinity (Whitesville),50,48,1,   ,0
 2020-01-18,St. Patrick,Covington Latin,83,31,0,   ,0
 2020-01-18,Tates Creek,Southwestern,65,60,0,   ,0
-2020-01-18,Todd County Central,Friendship Christian (Lebanon). TN,66,47,1,   ,0
+2020-01-18,Todd County Central,Out of State,66,47,1,   ,0
 2020-01-18,Trigg County,Community Christian (Paducah),71,42,0,   ,0
-2020-01-18,Webster County,Evansville Christian School. IN,85,52,0,   ,0
-2020-01-18,White Academy (Harrogate). TN,Burgin,66,52,0,   ,0
+2020-01-18,Webster County,Out of State,85,52,0,   ,0
+2020-01-18,Out of State,Burgin,66,52,0,   ,0
 2020-01-18,Williamsburg,Jackson County,83,60,0,   ,0
 2020-01-19,Paintsville,Shelby Valley,57,55,2," 15th Region All ""A"" Classic  ",0
 2020-01-19,John Hardin,Bourbon County,73,53,2, Kentucky 2A State Championship  ,0
-2020-01-19,Covington Catholic,Taft,69,62,2,   ,0
-2020-01-20,Agape Christian (Energy). IL,Community Christian (Paducah),56,47,1,   ,0
+2020-01-19,Covington Catholic,Out of State,69,62,2,   ,0
+2020-01-20,Out of State,Community Christian (Paducah),56,47,1,   ,0
 2020-01-20,Ashland Blazer,Rose Hill Christian,86,46,0,   ,0
 2020-01-20,Barren County,Monroe County,47,45,0,   ,0
 2020-01-20,Bowling Green,Warren Central,79,62,1,   ,0
 2020-01-20,Calloway County,St. Mary,55,45,0,   ,0
-2020-01-20,Carterville. IL,Graves County,42,30,2,   ,0
+2020-01-20,Out of State,Graves County,42,30,2,   ,0
 2020-01-20,Grant County,Calvary Christian,87,50,1,   ,0
 2020-01-20,Heritage Academy,Bellevue,80,71,0,   ,0
 2020-01-20,Johnson Central,Magoffin County,66,53,0,   ,0
@@ -2454,13 +2454,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-20,Madisonville-North Hopkins,Lyon County,71,64,0,   ,0
 2020-01-20,Marshall County,Fulton City,81,49,1,   ,0
 2020-01-20,Mercer County,Burgin,73,40,0,   ,0
-2020-01-20,Middlesboro,Thomas Walker (Ewing). VA,72,36,0,   ,0
+2020-01-20,Middlesboro,Out of State,72,36,0,   ,0
 2020-01-20,Newport Central Catholic,Dayton,69,45,0,   ,0
 2020-01-20,Owensboro Catholic,Butler County,66,56,1,   ,0
 2020-01-20,Pulaski County,Clay County,78,73,1,   ,0
 2020-01-20,Rockcastle County,Barbourville,76,54,1,   ,0
 2020-01-20,South Laurel,Harlan,74,60,0,   ,0
-2020-01-20,Western Hills,Central Kentucky HomeSchool (Lexington). (KY home school),68,52,1,   ,0
+2020-01-20,Western Hills,Out of State,68,52,1,   ,0
 2020-01-20,Woodford County,Walton-Verona,74,71,0,   ,0
 2020-01-21,Ashland Blazer,Greenup County,72,48,0,   ,0
 2020-01-21,Ballard,Waggener,89,73,1,   ,0
@@ -2485,7 +2485,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-21,Christian Fellowship,Ballard Memorial,56,44,1,   ,0
 2020-01-21,Clinton County,Russell County,60,41,1,   ,0
 2020-01-21,Collins,Boyle County,73,39,1,   ,0
-2020-01-21,Crittenden County,Hardin County (Elizabethtown). IL,64,61,0,   ,0
+2020-01-21,Crittenden County,Out of State,64,61,0,   ,0
 2020-01-21,Daviess County,Meade County,69,66,1,   ,0
 2020-01-21,DeSales,Bullitt Central,68,65,1,   ,0
 2020-01-21,DuPont Manual,Brown,76,37,1,   ,0
@@ -2502,7 +2502,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-21,George Rogers Clark,Bourbon County,77,65,1,   ,0
 2020-01-21,Greenwood,Franklin-Simpson,54,51,1,   ,0
 2020-01-21,Harlan County,Bell County,62,57,1,   ,0
-2020-01-21,Henderson County,Castle (Newburgh). IN,64,55,1,   ,0
+2020-01-21,Henderson County,Out of State,64,55,1,   ,0
 2020-01-21,Henry Clay,Tates Creek,66,52,0,   ,0
 2020-01-21,Highlands,Boone County,88,59,1,   ,0
 2020-01-21,Holy Cross (Covington),Campbell County,85,83,1,  (overtime) ,1
@@ -2511,13 +2511,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-21,Jackson City,Lee County,93,74,1,   ,0
 2020-01-21,Jeffersontown,Western,81,51,1,   ,0
 2020-01-21,Kentucky Country Day,Shawnee,73,64,0,   ,0
-2020-01-21,Knoxville Catholic (Knoxville). TN,Corbin,69,66,0,   ,0
+2020-01-21,Out of State,Corbin,69,66,0,   ,0
 2020-01-21,Letcher County Central,Buckhorn,80,71,1,   ,0
 2020-01-21,Lewis County,Boyd County,66,64,1,   ,0
 2020-01-21,Lexington Catholic,East Jessamine,57,36,0,   ,0
 2020-01-21,Lincoln County,Garrard County,65,31,0,   ,0
 2020-01-21,Logan County,Warren East,76,43,1,   ,0
-2020-01-21,Louisville Tigers. (KY home school),Highlands Latin,67,58,1,   ,0
+2020-01-21,Out of State,Highlands Latin,67,58,1,   ,0
 2020-01-21,Madison Central,West Jessamine,74,67,1,   ,0
 2020-01-21,Madisonville-North Hopkins,Dawson Springs,86,52,1,   ,0
 2020-01-21,Male,Eastern,61,55,0,   ,0
@@ -2551,13 +2551,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-21,Webster County,McLean County,65,45,0,   ,0
 2020-01-21,Western Hills,Model,48,47,1,   ,0
 2020-01-21,Whitley County,Pineville,67,53,1,   ,0
-2020-01-21,Williamsburg,Jellico. TN,93,78,1,   ,0
+2020-01-21,Williamsburg,Out of State,93,78,1,   ,0
 2020-01-22,Buckhorn,Breathitt County,72,61,1,   ,0
 2020-01-22,Conner,Cooper,62,37,0,   ,0
 2020-01-22,Fern Creek,Moore,89,67,1,   ,0
 2020-01-22,Frederick Douglass,Thomas Nelson,84,51,2,   ,0
 2020-01-22,Lafayette,Great Crossing,57,56,2,   ,0
-2020-01-22,Lakota West (West Chester). OH,Dixie Heights,78,65,0,   ,0
+2020-01-22,Out of State,Dixie Heights,78,65,0,   ,0
 2020-01-22,Ludlow,Carroll County,60,59,1,   ,0
 2020-01-22,Magoffin County,Morgan County,63,53,0,   ,0
 2020-01-22,Male,Valley,78,40,1,   ,0
@@ -2568,7 +2568,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-22,Trinity (Louisville),Bryan Station,66,51,0,   ,0
 2020-01-23,Frankfort,Bishop Brossart,57,52,2, All A State Tournament  ,0
 2020-01-23,Hazard,Louisville Collegiate,42,39,2, All A State Tournament  ,0
-2020-01-23,Metcalfe County,Holy Cross,48,47,2, All A State Tournament  ,0
+2020-01-23,Metcalfe County,Holy Cross (Louisville),48,47,2, All A State Tournament  ,0
 2020-01-23,Murray,University Heights,60,33,2, All A State Tournament  ,0
 2020-01-23,Owensboro Catholic,West Carter,62,33,2, All A State Tournament  ,0
 2020-01-23,Paintsville,Harlan,67,60,2, All A State Tournament  ,0
@@ -2577,7 +2577,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-23,Bell County,Oneida Baptist Institute,68,46,1, Pride of the Mountains Basketball Showcase  ,0
 2020-01-23,Atherton,Portland Christian,66,34,1,   ,0
 2020-01-23,Barbourville,Pineville,64,55,0,   ,0
-2020-01-23,Beechwood,Dohn Community (Cincinnati). OH,89,47,1,   ,0
+2020-01-23,Beechwood,Out of State,89,47,1,   ,0
 2020-01-23,Bourbon County,Model,80,56,1,   ,0
 2020-01-23,Calvary Christian,Villa Madonna,70,50,0,   ,0
 2020-01-23,Central Hardin,Fort Knox,79,63,1,   ,0
@@ -2585,7 +2585,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-23,Dayton,Heritage Academy,77,47,1,   ,0
 2020-01-23,DeSales,Doss,48,45,0,   ,0
 2020-01-23,Eminence,Burgin,51,47,1,   ,0
-2020-01-23,Graves County,Vienna. IL,85,30,2,   ,0
+2020-01-23,Graves County,Out of State,85,30,2,   ,0
 2020-01-23,Green County,Caverna,67,43,1,   ,0
 2020-01-23,Hart County,Nelson County,75,61,1,   ,0
 2020-01-23,Johnson Central,East Ridge,87,62,0,   ,0
@@ -2596,10 +2596,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-23,Montgomery County,Bath County,70,67,0,  (overtime) ,1
 2020-01-23,North Bullitt,Franklin County,83,58,1,   ,0
 2020-01-23,Pike County Central,Jenkins,66,20,1,   ,0
-2020-01-23,Rock Creek Academy (Sellersburg). IN,St. Francis,70,30,1,   ,0
-2020-01-23,Scott County,Christian Academy,94,49,2,   ,0
+2020-01-23,Out of State,St. Francis,70,30,1,   ,0
+2020-01-23,Scott County,Out of State,94,49,2,   ,0
 2020-01-23,Seneca,Eastern,70,59,0,   ,0
-2020-01-23,South Carolina School for the Deaf & (Spartanburg). SC,Kentucky School f/t Deaf,65,20,2,   ,0
+2020-01-23,Out of State,Kentucky School f/t Deaf,65,20,2,   ,0
 2020-01-23,South Laurel,Whitley County,51,38,1,   ,0
 2020-01-23,Southwestern,McCreary Central,47,40,0,   ,0
 2020-01-23,Walton-Verona,Henry County,86,72,1,   ,0
@@ -2625,7 +2625,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-24,Carlisle County,Fulton County,59,56,1,  (overtime) ,1
 2020-01-24,Christian County,Hopkinsville,67,52,1,   ,0
 2020-01-24,Collins,Anderson County,41,36,1,   ,0
-2020-01-24,Conner,Lawrenceburg. IN,72,62,0,   ,0
+2020-01-24,Conner,Out of State,72,62,0,   ,0
 2020-01-24,Cooper,Boone County,52,42,0,   ,0
 2020-01-24,Covington Catholic,Holmes,74,39,0,   ,0
 2020-01-24,Crittenden County,Fort Campbell,64,56,1,   ,0
@@ -2641,14 +2641,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-24,Hancock County,Meade County,65,62,1,  (overtime) ,1
 2020-01-24,Harlan County,Corbin,74,67,0,   ,0
 2020-01-24,Hart County,Cumberland County,64,61,0,   ,0
-2020-01-24,Henderson County,Evansville Central (Evansville). IN,46,41,0,   ,0
+2020-01-24,Henderson County,Out of State,46,41,0,   ,0
 2020-01-24,Henry Clay,Trinity (Louisville),61,51,0,   ,0
 2020-01-24,Highlands,Bellevue,96,35,0,   ,0
 2020-01-24,Iroquois,Western,82,72,1,   ,0
 2020-01-24,Jackson City,Walden,81,78,0,   ,0
 2020-01-24,Jackson County,Red Bird,68,31,0,   ,0
 2020-01-24,Jeffersontown,Central,64,51,0,   ,0
-2020-01-24,Jellico. TN,Whitley County,98,86,1,   ,0
+2020-01-24,Out of State,Whitley County,98,86,1,   ,0
 2020-01-24,John Hardin,North Hardin,56,49,1,   ,0
 2020-01-24,Lawrence County,Prestonsburg,66,54,0,   ,0
 2020-01-24,Lewis County,Greenup County,72,53,1,   ,0
@@ -2663,7 +2663,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-24,Menifee County,Rose Hill Christian,77,63,0,   ,0
 2020-01-24,Middlesboro,North Laurel,73,68,1,   ,0
 2020-01-24,Muhlenberg County,Ohio County,56,53,1,   ,0
-2020-01-24,North Carolina School for the Deaf (Morganton). NC,Kentucky School f/t Deaf,48,27,2,   ,0
+2020-01-24,Out of State,Kentucky School f/t Deaf,48,27,2,   ,0
 2020-01-24,Oldham County,North Oldham,80,65,1,   ,0
 2020-01-24,Owensboro,Daviess County,69,43,0,   ,0
 2020-01-24,Paris,Bracken County,64,52,1,   ,0
@@ -2683,15 +2683,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-24,Valley,Southern,50,46,1,   ,0
 2020-01-24,Waggener,DuPont Manual,64,47,1,   ,0
 2020-01-24,Warren Central,Greenwood,70,63,0,  (overtime) ,1
-2020-01-24,Wayne County,Christian Academy,97,69,2,   ,0
+2020-01-24,Wayne County,Out of State,97,69,2,   ,0
 2020-01-24,Webster County,Union County,86,49,0,   ,0
 2020-01-24,West Jessamine,Mercer County,83,71,1,   ,0
 2020-01-24,Whitefield Academy,Model,71,53,1,   ,0
-2020-01-24,Williamsburg,Wellspring Guardians (Richmond). (KY home school),86,52,1,   ,0
+2020-01-24,Williamsburg,Out of State,86,52,1,   ,0
 2020-01-24,Wolfe County,Breathitt County,75,74,1,   ,0
 2020-01-25,Frankfort,Murray,49,47,2, All A State Tournament (overtime) ,1
 2020-01-25,St. Henry,Hazard,55,41,2, All A State Tournament  ,0
-2020-01-25,Thomas Nelson,Christian Academy,63,58,2, Toyota Classic  ,0
+2020-01-25,Thomas Nelson,Out of State,63,58,2, Toyota Classic  ,0
 2020-01-25,Adair County,Harrison County,54,52,1,   ,0
 2020-01-25,Bardstown,Lincoln County,65,54,2,   ,0
 2020-01-25,Barren County,Franklin-Simpson,77,50,0,   ,0
@@ -2708,15 +2708,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-25,Covington Catholic,Johnson Central,80,52,1,   ,0
 2020-01-25,Dawson Springs,Cloverport,57,44,1,   ,0
 2020-01-25,Edmonson County,Hancock County,59,49,1,   ,0
-2020-01-25,Evansville Central (Evansville). IN,Apollo,76,68,0,   ,0
+2020-01-25,Out of State,Apollo,76,68,0,   ,0
 2020-01-25,Fleming County,Nicholas County,73,62,1,   ,0
 2020-01-25,Frederick Douglass,Scott County,90,81,2,   ,0
-2020-01-25,Graves County,Cobden. IL,49,48,2,   ,0
+2020-01-25,Graves County,Out of State,49,48,2,   ,0
 2020-01-25,Great Crossing,Wayne County,60,54,2,   ,0
 2020-01-25,Harlan County,Jackson County,70,50,1,   ,0
 2020-01-25,Hart County,Washington County,68,52,1,   ,0
 2020-01-25,Holmes,Mason County,50,49,2,   ,0
-2020-01-25,Immaculate Conception Academy (Norwood). OH,Covington Latin,61,30,1,   ,0
+2020-01-25,Out of State,Covington Latin,61,30,1,   ,0
 2020-01-25,John Hardin,Tates Creek,72,56,1,   ,0
 2020-01-25,Knott County Central,Belfry,68,54,1,   ,0
 2020-01-25,LaRue County,Greenwood,76,52,2,   ,0
@@ -2725,8 +2725,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-25,Lee County,Jenkins,67,66,1,   ,0
 2020-01-25,Lewis County,Scott,70,53,2,   ,0
 2020-01-25,Lyon County,Ballard Memorial,100,72,1,   ,0
-2020-01-25,McLean County,Louisville Tigers. (KY home school),70,43,1,   ,0
-2020-01-25,Mercer County,Heart for Christ (Louisville). (KY home school),86,54,1,   ,0
+2020-01-25,McLean County,Out of State,70,43,1,   ,0
+2020-01-25,Mercer County,Out of State,86,54,1,   ,0
 2020-01-25,Montgomery County,Franklin County,64,55,1,   ,0
 2020-01-25,North Bullitt,Dixie Heights,78,73,0,   ,0
 2020-01-25,North Hardin,Southern,66,57,2,   ,0
@@ -2734,11 +2734,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-25,North Oldham,Henry County,97,75,0,   ,0
 2020-01-25,Oldham County,Central Hardin,63,49,2,   ,0
 2020-01-25,Paducah Tilghman,Crittenden County,78,60,1,   ,0
-2020-01-25,Perry County Central,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),81,27,1,   ,0
+2020-01-25,Perry County Central,Out of State,81,27,1,   ,0
 2020-01-25,Pulaski County,Russell County,79,43,1,   ,0
-2020-01-25,Raceland,Portsmouth West (West Portsmouth). OH,75,64,1,   ,0
+2020-01-25,Raceland,Out of State,75,64,1,   ,0
 2020-01-25,Red Bird,June Buchanan,71,35,0,   ,0
-2020-01-25,Ripley-Union-Lewis-Huntington (Ripley). OH,St. Patrick,78,54,1,   ,0
+2020-01-25,Out of State,St. Patrick,78,54,1,   ,0
 2020-01-25,Sayre,Paris,58,43,1,   ,0
 2020-01-25,Simon Kenton,Collins,76,72,2,   ,0
 2020-01-25,South Laurel,Bell County,57,52,0,   ,0
@@ -2748,22 +2748,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-25,Union County,Trigg County,64,59,1,   ,0
 2020-01-25,Warren East,Cumberland County,59,50,1,   ,0
 2020-01-25,Western Hills,Casey County,78,53,0,   ,0
-2020-01-25,Wheelersburg. OH,Greenup County,62,52,0,   ,0
+2020-01-25,Out of State,Greenup County,62,52,0,   ,0
 2020-01-25,Williamstown,Burgin,52,37,0,   ,0
 2020-01-26,St. Henry,Frankfort,77,70,2, All A State Tournament  ,0
-2020-01-27,Aldersgate Christian Academy. OH,Covington Latin,84,29,1,   ,0
+2020-01-27,Out of State,Covington Latin,84,29,1,   ,0
 2020-01-27,Barbourville,Oneida Baptist Institute,51,48,0,   ,0
 2020-01-27,Barren County,Hart County,73,58,0,   ,0
 2020-01-27,Beth Haven,Heritage Academy,85,73,0,   ,0
 2020-01-27,Betsy Layne,Pike County Central,57,54,0,   ,0
 2020-01-27,Boyd County,Morgan County,75,62,0,   ,0
-2020-01-27,Cairo. IL,Fulton County,65,51,0,   ,0
+2020-01-27,Out of State,Fulton County,65,51,0,   ,0
 2020-01-27,Christian Academy-Louisville,Holy Cross (Louisville),65,61,0,   ,0
 2020-01-27,Clay County,Red Bird,87,63,0,   ,0
 2020-01-27,Clinton County,Campbellsville,56,44,0,   ,0
 2020-01-27,Dayton,St. Patrick,77,65,0,   ,0
-2020-01-27,Estill County,Wellspring Guardians (Richmond). (KY home school),57,31,1,   ,0
-2020-01-27,Fairview,Covenant (Barboursville). WV,68,43,0,   ,0
+2020-01-27,Estill County,Out of State,57,31,1,   ,0
+2020-01-27,Fairview,Out of State,68,43,0,   ,0
 2020-01-27,Garrard County,Danville,81,77,1,  (overtime) ,1
 2020-01-27,Grant County,Owen County,85,54,0,   ,0
 2020-01-27,Hickman County,Community Christian (Paducah),81,65,1,   ,0
@@ -2794,9 +2794,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-27,Western,Bullitt Central,58,40,1,   ,0
 2020-01-27,Whitefield Academy,Bethlehem,64,59,1,   ,0
 2020-01-28,Ashland Blazer,East Carter,68,43,0,   ,0
-2020-01-28,Augusta,Manchester. OH,73,41,1,   ,0
+2020-01-28,Augusta,Out of State,73,41,1,   ,0
 2020-01-28,Ballard,Kentucky Country Day,105,69,1,   ,0
-2020-01-28,Barbourville,Jellico. TN,76,74,0,   ,0
+2020-01-28,Barbourville,Out of State,76,74,0,   ,0
 2020-01-28,Bardstown,Washington County,85,35,1,   ,0
 2020-01-28,Beechwood,Campbell County,52,47,0,   ,0
 2020-01-28,Belfry,Prestonsburg,80,66,1,   ,0
@@ -2842,7 +2842,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-28,Lloyd Memorial,Dixie Heights,64,59,0,   ,0
 2020-01-28,Logan County,Barren County,50,49,1,   ,0
 2020-01-28,Louisville Collegiate,Bethlehem,52,37,0,   ,0
-2020-01-28,Louisville Tigers. (KY home school),Portland Christian,73,52,0,   ,0
+2020-01-28,Out of State,Portland Christian,73,52,0,   ,0
 2020-01-28,Ludlow,Bellevue,76,43,0,   ,0
 2020-01-28,Lyon County,Trigg County,81,64,1,   ,0
 2020-01-28,Madisonville-North Hopkins,Owensboro,82,69,0,   ,0
@@ -2863,19 +2863,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-28,Owensboro Catholic,Christian County,45,42,1,   ,0
 2020-01-28,Paducah Tilghman,Mayfield,70,66,0,   ,0
 2020-01-28,Paul Laurence Dunbar,Lafayette,51,45,1,   ,0
-2020-01-28,Phelps,River View (Bradshaw). WV,61,59,1,   ,0
-2020-01-28,Red Bird,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),74,51,1,   ,0
+2020-01-28,Phelps,Out of State,61,59,1,   ,0
+2020-01-28,Red Bird,Out of State,74,51,1,   ,0
 2020-01-28,Rowan County,Russell,54,38,1,   ,0
 2020-01-28,Russellville,Fort Campbell,58,53,0,   ,0
 2020-01-28,Seneca,Brown,80,36,0,   ,0
 2020-01-28,Shawnee,Evangel Christian,68,31,0,   ,0
 2020-01-28,Simon Kenton,Boone County,80,58,0,   ,0
 2020-01-28,Somerset,Pulaski County,72,52,0,   ,0
-2020-01-28,South Fulton. TN,Fulton City,77,67,1,  (overtime) ,1
+2020-01-28,Out of State,Fulton City,77,67,1,  (overtime) ,1
 2020-01-28,South Laurel,Corbin,66,41,0,   ,0
 2020-01-28,Spencer County,Trimble County,75,53,0,   ,0
-2020-01-28,St. Joseph Central (Ironton). OH,Rose Hill Christian,79,64,0,   ,0
-2020-01-28,St. Xavier (Cincinnati). OH,Covington Catholic,55,49,1,   ,0
+2020-01-28,Out of State,Rose Hill Christian,79,64,0,   ,0
+2020-01-28,Out of State,Covington Catholic,55,49,1,   ,0
 2020-01-28,Tates Creek,George Rogers Clark,65,59,1,   ,0
 2020-01-28,Taylor County,Adair County,57,48,0,   ,0
 2020-01-28,Trinity (Louisville),Atherton,69,42,1,   ,0
@@ -2884,7 +2884,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-28,Warren Central,South Warren,79,74,0,   ,0
 2020-01-28,Wayne County,Knox Central,56,53,0,   ,0
 2020-01-28,Webster County,Caldwell County,75,71,1,   ,0
-2020-01-28,Wellspring Guardians (Richmond). (KY home school),Kentucky School f/t Deaf,53,34,0,   ,0
+2020-01-28,Out of State,Kentucky School f/t Deaf,53,34,0,   ,0
 2020-01-28,West Jessamine,Shelby County,70,57,0,   ,0
 2020-01-28,Whitefield Academy,St. Francis,83,75,1,   ,0
 2020-01-28,Williamsburg,Whitley County,81,65,1,   ,0
@@ -2901,11 +2901,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-29,St. Henry,Walton-Verona,74,59,1,   ,0
 2020-01-29,St. Xavier,Brown,67,36,0,   ,0
 2020-01-30,Adair County,Casey County,89,82,1,   ,0
-2020-01-30,Beth Haven Christian (Omar). WV,Martin County,77,59,1,   ,0
+2020-01-30,Out of State,Martin County,77,59,1,   ,0
 2020-01-30,Boyd County,Rose Hill Christian,88,55,1,   ,0
-2020-01-30,Carlisle County,Dongola. IL,91,57,1,   ,0
+2020-01-30,Carlisle County,Out of State,91,57,1,   ,0
 2020-01-30,Christian County,Fort Campbell,75,29,1,   ,0
-2020-01-30,Christian Fellowship,Carroll Academy (Huntingdon). TN,75,32,1,   ,0
+2020-01-30,Christian Fellowship,Out of State,75,32,1,   ,0
 2020-01-30,Clay County,Oneida Baptist Institute,81,56,0,   ,0
 2020-01-30,Dawson Springs,Community Christian (Paducah),90,47,1,   ,0
 2020-01-30,Dixie Heights,Villa Madonna,68,46,0,   ,0
@@ -2962,7 +2962,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-31,Eastern,Dixie Heights,71,41,1,   ,0
 2020-01-31,Elizabethtown,Christian Academy-Louisville,90,69,0,   ,0
 2020-01-31,Evangel Christian,Covington Latin,78,36,1,   ,0
-2020-01-31,Evansville Bosse (Evansville). IN,Owensboro,88,63,1,   ,0
+2020-01-31,Out of State,Owensboro,88,63,1,   ,0
 2020-01-31,Fern Creek,Pleasure Ridge Park,80,70,1,   ,0
 2020-01-31,Franklin County,Western Hills,54,42,1,   ,0
 2020-01-31,Franklin-Simpson,Todd County Central,63,39,1,   ,0
@@ -2975,7 +2975,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-31,Harlan,Bell County,64,55,0,   ,0
 2020-01-31,Henderson County,Webster County,66,56,0,  (overtime) ,1
 2020-01-31,Henry Clay,Lafayette,68,61,0,   ,0
-2020-01-31,Henry County,Williamstown,78,76,0,  (triple overtime) ,0
+2020-01-31,Henry County,Williamstown,78,76,0,  (triple overtime) ,1
 2020-01-31,Hopkins County Central,Dawson Springs,73,67,1,   ,0
 2020-01-31,Jeffersontown,Seneca,75,60,0,   ,0
 2020-01-31,Kentucky Country Day,Beth Haven,78,50,1,   ,0
@@ -3017,10 +3017,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-01-31,Villa Madonna,Heritage Academy,73,46,1,   ,0
 2020-01-31,Waggener,Central,87,63,0,   ,0
 2020-01-31,Warren Central,Bowling Green,61,55,1,   ,0
-2020-01-31,Washington County,Bluegrass United (Lexington). (KY home school),65,63,1,  (overtime) ,1
+2020-01-31,Washington County,Out of State,65,63,1,  (overtime) ,1
 2020-01-31,Wayne County,Southwestern,75,70,0,   ,0
 2020-01-31,West Carter,East Carter,59,43,1,   ,0
-2020-01-31,West Creek (Clarksville). TN,Fort Campbell,60,59,0,   ,0
+2020-01-31,Out of State,Fort Campbell,60,59,0,   ,0
 2020-01-31,West Jessamine,Madison Southern,88,79,1,   ,0
 2020-01-31,Western,Shawnee,70,49,1,   ,0
 2020-01-31,Wolfe County,Jackson City,90,47,1,   ,0
@@ -3057,14 +3057,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-01,Henry Clay,Clay County,70,66,1,   ,0
 2020-02-01,Heritage Academy,Covington Latin,88,51,1,   ,0
 2020-02-01,Hickman County,Livingston Central,58,51,0,   ,0
-2020-02-01,Ironton. OH,Elliott County,42,29,1,   ,0
+2020-02-01,Out of State,Elliott County,42,29,1,   ,0
 2020-02-01,Johnson Central,Paintsville,57,47,1,   ,0
 2020-02-01,Lincoln County,Christian County,57,51,1,   ,0
 2020-02-01,Lloyd Memorial,Gallatin County,63,54,1,   ,0
 2020-02-01,Logan County,Glasgow,72,61,1,   ,0
 2020-02-01,Louisville Collegiate,St. Francis,80,37,0,   ,0
 2020-02-01,Ludlow,Williamstown,68,31,0,   ,0
-2020-02-01,Lynn Camp,Thomas Walker (Ewing). VA,76,36,0,   ,0
+2020-02-01,Lynn Camp,Out of State,76,36,0,   ,0
 2020-02-01,Madison Southern,Great Crossing,56,51,1,   ,0
 2020-02-01,Magoffin County,Floyd Central,81,68,1,   ,0
 2020-02-01,Marshall County,Warren East,70,36,1,   ,0
@@ -3077,10 +3077,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-01,Oldham County,Tates Creek,53,45,1,   ,0
 2020-02-01,Paducah Tilghman,Union County,85,59,0,   ,0
 2020-02-01,Paul Laurence Dunbar,St. Xavier,62,60,2,   ,0
-2020-02-01,Phelps,Twin Valley (Pilgrims Knob). VA,56,31,1,   ,0
+2020-02-01,Phelps,Out of State,56,31,1,   ,0
 2020-02-01,Pikeville,Madison Central,67,65,1,   ,0
 2020-02-01,Pineville,Jackson City,76,66,2,   ,0
-2020-02-01,Rock Creek Academy (Sellersburg). IN,Brown,77,62,1,   ,0
+2020-02-01,Out of State,Brown,77,62,1,   ,0
 2020-02-01,Rowan County,Greenup County,70,66,0,   ,0
 2020-02-01,Sayre,Owen County,70,55,2,   ,0
 2020-02-01,Shelby Valley,East Ridge,75,58,1,   ,0
@@ -3096,22 +3096,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-03,Dayton,Villa Madonna,54,51,0,   ,0
 2020-02-03,Franklin County,Lexington Christian,64,53,1,   ,0
 2020-02-03,Grant County,Ryle,75,65,0,   ,0
-2020-02-03,Halls. TN,Fulton City,58,53,1,   ,0
+2020-02-03,Out of State,Fulton City,58,53,1,   ,0
 2020-02-03,Harlan,Leslie County,66,50,1,   ,0
-2020-02-03,Henry County,Bluegrass United (Lexington). (KY home school),82,65,1,   ,0
+2020-02-03,Henry County,Out of State,82,65,1,   ,0
 2020-02-03,Hopkinsville,Trigg County,69,53,0,   ,0
 2020-02-03,Jackson County,Oneida Baptist Institute,63,61,0,   ,0
-2020-02-03,Lake County (Tiptonville). TN,Fulton County,67,64,1,  (overtime) ,1
+2020-02-03,Out of State,Fulton County,67,64,1,  (overtime) ,1
 2020-02-03,Ludlow,Calvary Christian,65,59,1,   ,0
 2020-02-03,Lynn Camp,Red Bird,90,60,1,   ,0
-2020-02-03,Madison Southern,Central Kentucky HomeSchool (Lexington). (KY home school),87,59,1,   ,0
-2020-02-03,Montgomery Central (Cunningham). TN,Fort Campbell,45,38,0,   ,0
-2020-02-03,Murray,McKenzie. TN,67,60,0,   ,0
+2020-02-03,Madison Southern,Out of State,87,59,1,   ,0
+2020-02-03,Out of State,Fort Campbell,45,38,0,   ,0
+2020-02-03,Murray,Out of State,67,60,0,   ,0
 2020-02-03,Nelson County,Bethlehem,69,47,0,   ,0
 2020-02-03,Newport Central Catholic,Scott,85,62,0,   ,0
 2020-02-03,Robertson County,Pendleton County,76,63,1,   ,0
 2020-02-03,South Oldham,Carroll County,75,35,0,   ,0
-2020-02-03,South Spencer (Rockport). IN,Hancock County,88,54,1,   ,0
+2020-02-03,Out of State,Hancock County,88,54,1,   ,0
 2020-02-03,St. Henry,Newport,84,60,0,   ,0
 2020-02-03,Taylor County,Caverna,82,59,1,   ,0
 2020-02-03,Trimble County,Eminence,72,40,1,   ,0
@@ -3153,8 +3153,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-04,Grant County,Henry County,87,63,1,   ,0
 2020-02-04,Hazard,Knott County Central,56,53,1,  (overtime) ,1
 2020-02-04,Henry Clay,Madison Central,59,41,1,   ,0
-2020-02-04,Highlands,Anderson (Cincinnati). OH,68,53,1,   ,0
-2020-02-04,Holmes,Holy Cross (Covington),68,66,0,  (double overtime) ,0
+2020-02-04,Highlands,Out of State,68,53,1,   ,0
+2020-02-04,Holmes,Holy Cross (Covington),68,66,0,  (double overtime) ,1
 2020-02-04,Holy Cross (Louisville),Atherton,71,58,0,   ,0
 2020-02-04,Jackson City,Lee County,72,50,0,   ,0
 2020-02-04,Jeffersontown,Bullitt East,71,51,0,   ,0
@@ -3171,7 +3171,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-04,Male,Louisville Collegiate,74,48,0,   ,0
 2020-02-04,Marion County,Campbellsville,60,58,0,   ,0
 2020-02-04,Martin County,Lawrence County,61,53,0,   ,0
-2020-02-04,McCracken County,Massac County (Metropolis). IL,58,40,0,   ,0
+2020-02-04,McCracken County,Out of State,58,40,0,   ,0
 2020-02-04,Meade County,Grayson County,45,39,1,   ,0
 2020-02-04,Middlesboro,Harlan,49,47,1,   ,0
 2020-02-04,Montgomery County,Mason County,57,49,0,   ,0
@@ -3185,7 +3185,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-04,Paducah Tilghman,Graves County,77,64,0,   ,0
 2020-02-04,Paintsville,Belfry,83,68,0,   ,0
 2020-02-04,Paris,Model,58,44,0,   ,0
-2020-02-04,Phelps,Hurley. VA,57,31,0,   ,0
+2020-02-04,Phelps,Out of State,57,31,0,   ,0
 2020-02-04,Pineville,Rockcastle County,56,53,1,   ,0
 2020-02-04,Pulaski County,Mercer County,68,58,1,   ,0
 2020-02-04,Robertson County,Fleming County,74,43,0,   ,0
@@ -3199,7 +3199,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-04,Southern,Moore,69,62,1,   ,0
 2020-02-04,Spencer County,North Bullitt,72,68,0,   ,0
 2020-02-04,Thomas Nelson,Washington County,63,47,1,   ,0
-2020-02-04,Todd County Central,Montgomery Central (Cunningham). TN,47,41,0,   ,0
+2020-02-04,Todd County Central,Out of State,47,41,0,   ,0
 2020-02-04,Trinity (Louisville),Carroll County,76,40,1,   ,0
 2020-02-04,Union County,Henderson County,68,66,1,  (overtime) ,1
 2020-02-04,Valley,Waggener,60,56,1,   ,0
@@ -3208,9 +3208,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-04,Wayne County,Casey County,65,46,0,   ,0
 2020-02-04,West Carter,Elliott County,64,54,1,   ,0
 2020-02-04,West Jessamine,Boyle County,94,69,1,   ,0
-2020-02-04,Western Hills,Bluegrass United (Lexington). (KY home school),73,68,1,   ,0
+2020-02-04,Western Hills,Out of State,73,68,1,   ,0
 2020-02-04,Whitefield Academy,Beth Haven,90,73,1,   ,0
-2020-02-04,Whitley County,White Academy (Harrogate). TN,64,55,0,   ,0
+2020-02-04,Whitley County,Out of State,64,55,0,   ,0
 2020-02-04,Williamsburg,Corbin,73,72,1,   ,0
 2020-02-04,Wolfe County,Owsley County,60,53,0,   ,0
 2020-02-04,Woodford County,Great Crossing,52,51,0,   ,0
@@ -3219,7 +3219,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-05,Bellevue,Covington Latin,84,45,1,   ,0
 2020-02-05,Bishop Brossart,Pendleton County,66,48,1,   ,0
 2020-02-05,DeSales,Collins,70,58,1,   ,0
-2020-02-05,Eastern (Sardinia). OH,St. Patrick,76,33,1,   ,0
+2020-02-05,Out of State,St. Patrick,76,33,1,   ,0
 2020-02-05,Frankfort,Western Hills,75,61,1,   ,0
 2020-02-05,Highlands,Dixie Heights,83,72,0,   ,0
 2020-02-05,Jenkins,June Buchanan,60,52,0,   ,0
@@ -3241,7 +3241,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-06,Holy Cross (Louisville),Owen County,84,52,0,   ,0
 2020-02-06,Lawrence County,Floyd Central,81,61,0,   ,0
 2020-02-06,Lexington Christian,Lafayette,52,43,1,   ,0
-2020-02-06,Ludlow,Oyler (Cincinnati). OH,75,43,1,   ,0
+2020-02-06,Ludlow,Out of State,75,43,1,   ,0
 2020-02-06,Madison Central,Harrison County,84,48,0,   ,0
 2020-02-06,Martin County,Magoffin County,61,52,1,   ,0
 2020-02-06,Meade County,Cloverport,78,50,1,   ,0
@@ -3263,7 +3263,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-07,Calvary Christian,Augusta,69,49,1,   ,0
 2020-02-07,Carlisle County,Fulton City,64,56,0,   ,0
 2020-02-07,Central Hardin,Barren County,67,48,1,   ,0
-2020-02-07,Christian Academy (Madison). IN,June Buchanan,67,42,2,   ,0
+2020-02-07,Out of State,June Buchanan,67,42,2,   ,0
 2020-02-07,Christian Academy-Louisville,Caverna,87,70,0,   ,0
 2020-02-07,Conner,Scott,78,54,1,   ,0
 2020-02-07,Cooper,Holmes,61,54,1,   ,0
@@ -3295,8 +3295,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-07,Marshall County,Graves County,56,51,0,   ,0
 2020-02-07,Mason County,George Rogers Clark,60,53,1,   ,0
 2020-02-07,Mayfield,Ballard Memorial,74,44,1,   ,0
-2020-02-07,McCracken County,Cairo. IL,58,48,1,   ,0
-2020-02-07,Michigan School for the Deaf (Flint). MI,Kentucky School f/t Deaf,33,30,2,   ,0
+2020-02-07,McCracken County,Out of State,58,48,1,   ,0
+2020-02-07,Out of State,Kentucky School f/t Deaf,33,30,2,   ,0
 2020-02-07,Montgomery County,Paris,61,50,1,   ,0
 2020-02-07,Moore,Jeffersontown,68,59,1,   ,0
 2020-02-07,Muhlenberg County,McLean County,51,37,0,   ,0
@@ -3314,7 +3314,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-07,Ryle,Boone County,74,60,0,   ,0
 2020-02-07,Shelby Valley,Jenkins,72,36,0,   ,0
 2020-02-07,South Laurel,North Laurel,72,60,1,   ,0
-2020-02-07,Spencer County,Anderson County,49,46,1,  (double overtime) ,0
+2020-02-07,Spencer County,Anderson County,49,46,1,  (double overtime) ,1
 2020-02-07,St. Henry,Lloyd Memorial,75,65,0,   ,0
 2020-02-07,St. Xavier,DeSales,58,44,1,   ,0
 2020-02-07,Thomas Nelson,Bethlehem,72,47,1,   ,0
@@ -3325,24 +3325,24 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-07,Wayne County,McCreary Central,61,52,1,   ,0
 2020-02-07,Whitefield Academy,Carroll County,70,67,1,   ,0
 2020-02-07,Woodford County,Shelby County,73,54,1,   ,0
-2020-02-08,Walden,Christian Academy,86,77,2, Warrior Classic (double overtime) ,0
+2020-02-08,Walden,Out of State,86,77,2, Warrior Classic (double overtime) ,1
 2020-02-08,Madisonville-North Hopkins,Butler,91,71,2, Wes Strader Schoolboy Shootout  ,0
 2020-02-08,Apollo,Union County,84,36,1,   ,0
 2020-02-08,Bardstown,Greenwood,68,61,2,   ,0
 2020-02-08,Berea,St. Patrick,88,59,0,   ,0
 2020-02-08,Bourbon County,Paris,81,73,0,   ,0
 2020-02-08,Carlisle County,Community Christian (Paducah),72,54,0,   ,0
-2020-02-08,Christian Academy (Madison). IN,Danville Christian,78,40,0,   ,0
+2020-02-08,Out of State,Danville Christian,78,40,0,   ,0
 2020-02-08,Christian Fellowship,Evangel Christian,72,48,1,   ,0
 2020-02-08,Clinton County,Breathitt County,66,44,1,   ,0
 2020-02-08,Collins,McCracken County,63,59,2,   ,0
 2020-02-08,Cordia,Oneida Baptist Institute,67,64,0,   ,0
 2020-02-08,Danville Christian,June Buchanan,61,51,1,   ,0
 2020-02-08,Dawson Springs,Cloverport,83,36,2,   ,0
-2020-02-08,Elder (Cincinnati). OH,Cooper,52,32,0,   ,0
+2020-02-08,Out of State,Cooper,52,32,0,   ,0
 2020-02-08,Fern Creek,Great Crossing,64,43,0,   ,0
-2020-02-08,Fulton City,Clarksburg. TN,68,33,1,   ,0
-2020-02-08,Georgia School for the Deaf (Cave Spring). GA,Kentucky School f/t Deaf,39,20,2,   ,0
+2020-02-08,Fulton City,Out of State,68,33,1,   ,0
+2020-02-08,Out of State,Kentucky School f/t Deaf,39,20,2,   ,0
 2020-02-08,Hancock County,Trigg County,64,49,1,   ,0
 2020-02-08,Harlan,Perry County Central,74,57,1,   ,0
 2020-02-08,Harrison County,Fleming County,71,47,1,   ,0
@@ -3363,9 +3363,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-08,Morgan County,Nicholas County,81,73,1,   ,0
 2020-02-08,Newport Central Catholic,Bellevue,71,30,1,   ,0
 2020-02-08,North Bullitt,Daviess County,59,44,2,   ,0
-2020-02-08,North Carolina School for the Deaf (Morganton). NC,Kentucky School f/t Deaf,52,20,2,   ,0
+2020-02-08,Out of State,Kentucky School f/t Deaf,52,20,2,   ,0
 2020-02-08,Raceland,Menifee County,83,80,1,   ,0
-2020-02-08,Rose Hill Christian,Covenant (Barboursville). WV,64,52,1,   ,0
+2020-02-08,Rose Hill Christian,Out of State,64,52,1,   ,0
 2020-02-08,Sayre,Dayton,76,46,1,   ,0
 2020-02-08,Simon Kenton,Scott County,75,71,2,   ,0
 2020-02-08,South Laurel,Pikeville,67,65,0,  (overtime) ,1
@@ -3374,14 +3374,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-08,Taylor County,Christian County,79,73,2,   ,0
 2020-02-08,Trinity (Whitesville),Hopkins County Central,55,39,2,   ,0
 2020-02-08,Walden,June Buchanan,74,43,2,   ,0
-2020-02-08,Warren Central,Lafayette Jefferson (Lafayette). IN,67,64,1,   ,0
+2020-02-08,Warren Central,Out of State,67,64,1,   ,0
 2020-02-08,Whitley County,Red Bird,60,51,0,   ,0
 2020-02-08,Williamstown,Covington Latin,88,30,1,   ,0
 2020-02-10,Allen County-Scottsville,Glasgow,65,64,0,   ,0
 2020-02-10,Apollo,Hancock County,71,49,1,   ,0
 2020-02-10,Bell County,Clay County,78,73,0,   ,0
 2020-02-10,Butler County,Franklin-Simpson,70,64,1,   ,0
-2020-02-10,Cabell Midland (Ona). WV,Russell,72,55,1,   ,0
+2020-02-10,Out of State,Russell,72,55,1,   ,0
 2020-02-10,Caldwell County,Hopkins County Central,66,57,0,   ,0
 2020-02-10,Carlisle County,Livingston Central,67,53,1,   ,0
 2020-02-10,Central Hardin,Owensboro Catholic,60,53,1,   ,0
@@ -3412,8 +3412,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-10,Phelps,Letcher County Central,60,28,1,   ,0
 2020-02-10,Pikeville,East Ridge,62,54,0,   ,0
 2020-02-10,Powell County,Burgin,51,49,0,   ,0
-2020-02-10,Rose Hill Christian,Sciotoville Community (Portsmouth). OH,56,41,0,   ,0
-2020-02-10,Rye Cove (Clinchport). VA,Jenkins,58,54,0,   ,0
+2020-02-10,Rose Hill Christian,Out of State,56,41,0,   ,0
+2020-02-10,Out of State,Jenkins,58,54,0,   ,0
 2020-02-10,Sayre,St. Francis,66,58,0,   ,0
 2020-02-10,Trinity (Whitesville),Cloverport,66,46,2,   ,0
 2020-02-10,Webster County,Union County,79,42,1,   ,0
@@ -3427,7 +3427,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-11,Betsy Layne,Letcher County Central,72,68,1,   ,0
 2020-02-11,Bishop Brossart,Villa Madonna,69,42,1,   ,0
 2020-02-11,Bowling Green,Owensboro,62,61,0,   ,0
-2020-02-11,Buckhorn,Wellspring Guardians (Richmond). (KY home school),82,68,1,   ,0
+2020-02-11,Buckhorn,Out of State,82,68,1,   ,0
 2020-02-11,Bullitt East,Grayson County,59,44,0,   ,0
 2020-02-11,Butler,Iroquois,71,54,1,   ,0
 2020-02-11,Caldwell County,Crittenden County,62,48,1,   ,0
@@ -3440,7 +3440,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-11,Dawson Springs,Trigg County,68,57,1,   ,0
 2020-02-11,Dixie Heights,Holy Cross (Covington),85,81,1,   ,0
 2020-02-11,DuPont Manual,Christian Academy-Louisville,72,59,0,   ,0
-2020-02-11,East Jessamine,Bluegrass United (Lexington). (KY home school),72,45,1,   ,0
+2020-02-11,East Jessamine,Out of State,72,45,1,   ,0
 2020-02-11,Eastern,Kentucky Country Day,95,70,0,   ,0
 2020-02-11,Edmonson County,Russellville,78,76,0,   ,0
 2020-02-11,Elizabethtown,Taylor County,98,90,0,  (overtime) ,1
@@ -3448,9 +3448,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-11,Fairdale,Valley,85,57,1,   ,0
 2020-02-11,Fort Knox,Bethlehem,55,44,0,   ,0
 2020-02-11,Frankfort,Great Crossing,82,76,1,   ,0
-2020-02-11,Fulton City,Dresden. TN,59,40,1,   ,0
+2020-02-11,Fulton City,Out of State,59,40,1,   ,0
 2020-02-11,Garrard County,Casey County,86,61,0,   ,0
-2020-02-11,George Rogers Clark,Madison Southern,72,70,1,  (double overtime) ,0
+2020-02-11,George Rogers Clark,Madison Southern,72,70,1,  (double overtime) ,1
 2020-02-11,Glasgow,Metcalfe County,71,49,0,   ,0
 2020-02-11,Grant County,Gallatin County,68,56,0,   ,0
 2020-02-11,Graves County,Ballard Memorial,66,47,1,   ,0
@@ -3490,8 +3490,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-11,Monroe County,Cumberland County,59,50,1,   ,0
 2020-02-11,Montgomery County,Estill County,60,50,1,   ,0
 2020-02-11,Moore,Bullitt Central,72,58,1,   ,0
-2020-02-11,Muhlenberg County,Breckinridge County,86,83,1,  (double overtime) ,0
-2020-02-11,North College Hill (Cincinnati). OH,Scott,68,49,1,   ,0
+2020-02-11,Muhlenberg County,Breckinridge County,86,83,1,  (double overtime) ,1
+2020-02-11,Out of State,Scott,68,49,1,   ,0
 2020-02-11,North Hardin,Meade County,69,59,0,   ,0
 2020-02-11,North Laurel,Knott County Central,85,54,1,   ,0
 2020-02-11,North Oldham,Central,55,53,1,   ,0
@@ -3504,22 +3504,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-11,Paris,Augusta,61,57,0,  (overtime) ,1
 2020-02-11,Paul Laurence Dunbar,Frederick Douglass,72,65,0,   ,0
 2020-02-11,Perry County Central,Owsley County,59,43,0,   ,0
-2020-02-11,Pineville,Maryville Christian (Maryville). TN,79,60,0,   ,0
+2020-02-11,Pineville,Out of State,79,60,0,   ,0
 2020-02-11,Portland Christian,Walden,93,84,1,   ,0
 2020-02-11,Prestonsburg,Menifee County,69,59,0,   ,0
 2020-02-11,Raceland,East Carter,52,47,1,   ,0
 2020-02-11,Robertson County,St. Patrick,75,57,0,   ,0
 2020-02-11,Rockcastle County,Jackson County,50,43,1,   ,0
-2020-02-11,Rose Hill Christian,Notre Dame (Portsmouth). OH,62,52,0,   ,0
+2020-02-11,Rose Hill Christian,Out of State,62,52,0,   ,0
 2020-02-11,Scott County,Franklin County,69,49,1,   ,0
 2020-02-11,Seneca,Atherton,50,46,0,   ,0
 2020-02-11,Shawnee,St. Francis,81,50,0,   ,0
 2020-02-11,Simon Kenton,Campbell County,64,43,1,   ,0
-2020-02-11,Somerset,Wayne County,68,64,0,  (double overtime) ,0
+2020-02-11,Somerset,Wayne County,68,64,0,  (double overtime) ,1
 2020-02-11,South Laurel,Harlan,66,45,1,   ,0
 2020-02-11,South Warren,Warren East,76,50,0,   ,0
 2020-02-11,Southwestern,Boyle County,76,74,0,  (overtime) ,1
-2020-02-11,Spencer County,Shelby County,78,71,0,  (triple overtime) ,0
+2020-02-11,Spencer County,Shelby County,78,71,0,  (triple overtime) ,1
 2020-02-11,University Heights,Christian County,65,62,1,   ,0
 2020-02-11,Waggener,Trinity (Louisville),77,60,0,   ,0
 2020-02-11,Webster County,Livingston Central,76,53,0,   ,0
@@ -3543,7 +3543,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-12,Scott,Augusta,64,59,0,   ,0
 2020-02-12,Shelby Valley,Floyd Central,73,42,1,   ,0
 2020-02-12,Walden,Brown,73,57,1,   ,0
-2020-02-13,Allen County-Scottsville,Metcalfe County,89,78,1,  (double overtime) ,0
+2020-02-13,Allen County-Scottsville,Metcalfe County,89,78,1,  (double overtime) ,1
 2020-02-13,Anderson County,Owen County,60,40,1,   ,0
 2020-02-13,Ashland Blazer,Bath County,77,57,1,   ,0
 2020-02-13,Atherton,Whitefield Academy,71,65,1,   ,0
@@ -3562,20 +3562,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-13,Franklin-Simpson,South Warren,78,74,0,   ,0
 2020-02-13,Frederick Douglass,Tates Creek,78,73,0,   ,0
 2020-02-13,Gallatin County,Trimble County,79,76,1,   ,0
-2020-02-13,Garrard County,Central Kentucky HomeSchool (Lexington). (KY home school),85,58,1,   ,0
+2020-02-13,Garrard County,Out of State,85,58,1,   ,0
 2020-02-13,Grant County,Boone County,76,64,1,   ,0
 2020-02-13,Harlan County,Harlan,64,61,0,   ,0
 2020-02-13,Henderson County,Webster County,73,65,1,   ,0
 2020-02-13,Henry Clay,Paul Laurence Dunbar,61,51,1,   ,0
 2020-02-13,Jeffersontown,Valley,84,49,1,   ,0
-2020-02-13,Lee County,Cumberland Homeschool Athletic Teams (Corbin). (KY home school),76,56,1,   ,0
+2020-02-13,Lee County,Out of State,76,56,1,   ,0
 2020-02-13,Lloyd Memorial,Williamstown,84,62,1,   ,0
 2020-02-13,Louisville Collegiate,Carroll County,59,46,1,   ,0
 2020-02-13,Ludlow,Bellevue,65,43,1,   ,0
 2020-02-13,Magoffin County,Jenkins,85,48,0,   ,0
 2020-02-13,Male,DuPont Manual,88,52,0,   ,0
 2020-02-13,McLean County,Butler County,74,69,0,   ,0
-2020-02-13,Model,Wellspring Guardians (Richmond). (KY home school),67,56,1,   ,0
+2020-02-13,Model,Out of State,67,56,1,   ,0
 2020-02-13,Oneida Baptist Institute,Pineville,74,70,1,   ,0
 2020-02-13,Perry County Central,Leslie County,71,63,0,   ,0
 2020-02-13,Phelps,Belfry,72,48,0,   ,0
@@ -3583,7 +3583,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-13,Rowan County,East Carter,63,56,0,   ,0
 2020-02-13,Ryle,Walton-Verona,75,61,0,   ,0
 2020-02-13,Shelby County,Western Hills,67,65,1,   ,0
-2020-02-13,South Fulton. TN,Hickman County,70,52,1,   ,0
+2020-02-13,Out of State,Hickman County,70,52,1,   ,0
 2020-02-13,South Laurel,Knox Central,71,57,0,   ,0
 2020-02-13,University Heights,Fort Campbell,76,50,0,   ,0
 2020-02-13,Williamsburg,McCreary Central,80,69,1,   ,0
@@ -3594,7 +3594,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-14,Bell County,Rockcastle County,63,48,1,   ,0
 2020-02-14,Bishop Brossart,Bracken County,81,61,0,   ,0
 2020-02-14,Bowling Green,Warren East,74,47,1,   ,0
-2020-02-14,Boyd County,Huntington St. Joseph Prep (Huntington). WV,60,51,1,   ,0
+2020-02-14,Boyd County,Out of State,60,51,1,   ,0
 2020-02-14,Breckinridge County,Hancock County,70,55,0,   ,0
 2020-02-14,Caldwell County,Trigg County,66,45,1,   ,0
 2020-02-14,Calloway County,Marshall County,72,71,1,   ,0
@@ -3630,7 +3630,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-14,Henry Clay,Woodford County,76,51,1,   ,0
 2020-02-14,Henry County,Shelby County,53,52,1,   ,0
 2020-02-14,Heritage Academy,June Buchanan,81,62,0,   ,0
-2020-02-14,Hickman County,Lake County (Tiptonville). TN,68,62,0,   ,0
+2020-02-14,Hickman County,Out of State,68,62,0,   ,0
 2020-02-14,Highlands,Lloyd Memorial,90,64,1,   ,0
 2020-02-14,Hopkinsville,Muhlenberg County,64,51,1,   ,0
 2020-02-14,Jackson City,Burgin,77,57,1,   ,0
@@ -3643,11 +3643,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-14,Lyon County,Union County,89,69,0,   ,0
 2020-02-14,Madison Central,Walton-Verona,70,58,1,   ,0
 2020-02-14,Madison Southern,Harlan County,74,60,1,   ,0
-2020-02-14,Marion County,North Hardin,85,81,0,  (double overtime) ,0
+2020-02-14,Marion County,North Hardin,85,81,0,  (double overtime) ,1
 2020-02-14,Martin County,Paintsville,52,42,1,   ,0
 2020-02-14,McCracken County,Paducah Tilghman,84,55,1,   ,0
 2020-02-14,Mercer County,Casey County,83,61,0,   ,0
-2020-02-14,Middlesboro,Barbourville,57,56,0,  (double overtime) ,0
+2020-02-14,Middlesboro,Barbourville,57,56,0,  (double overtime) ,1
 2020-02-14,Montgomery County,Pendleton County,60,52,0,   ,0
 2020-02-14,Morgan County,Powell County,55,42,0,   ,0
 2020-02-14,North Bullitt,Holy Cross (Louisville),67,56,0,   ,0
@@ -3664,9 +3664,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-14,Spencer County,Bullitt Central,65,49,0,   ,0
 2020-02-14,St. Francis,Community Christian (Paducah),66,51,1,   ,0
 2020-02-14,St. Henry,Holmes,80,70,0,   ,0
-2020-02-14,Todd County Central,Russellville,80,78,0,  (double overtime) ,0
+2020-02-14,Todd County Central,Russellville,80,78,0,  (double overtime) ,1
 2020-02-14,Villa Madonna,Augusta,72,65,1,  (overtime) ,1
-2020-02-14,Walden,L.I.G.H.T (Danville). (KY home school),71,56,1,   ,0
+2020-02-14,Walden,Out of State,71,56,1,   ,0
 2020-02-14,Warren Central,Greenwood,60,52,1,   ,0
 2020-02-14,Washington County,Whitefield Academy,76,67,1,   ,0
 2020-02-14,West Carter,Lewis County,61,58,1,   ,0
@@ -3676,7 +3676,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-15,Beechwood,Holy Cross (Covington),75,66,1,   ,0
 2020-02-15,Berea,Danville Christian,62,33,1,   ,0
 2020-02-15,Bethlehem,Brown,56,43,0,   ,0
-2020-02-15,Betsy Layne,Knott County Central,80,79,1,  (quadruple overtime) ,0
+2020-02-15,Betsy Layne,Knott County Central,80,79,1,  (quadruple overtime) ,1
 2020-02-15,Bourbon County,Calvary Christian,64,42,0,   ,0
 2020-02-15,Bryan Station,Boyle County,69,57,1,   ,0
 2020-02-15,Buckhorn,Heritage Academy,97,56,1,   ,0
@@ -3692,7 +3692,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-15,George Rogers Clark,Bracken County,79,54,1,   ,0
 2020-02-15,Graves County,Fulton City,69,51,1,   ,0
 2020-02-15,Grayson County,St. Mary,61,43,1,   ,0
-2020-02-15,Greenup County,Symmes Valley (Willow Wood). OH,80,76,1,   ,0
+2020-02-15,Greenup County,Out of State,80,76,1,   ,0
 2020-02-15,Hopkinsville,Union County,98,64,1,   ,0
 2020-02-15,Iroquois,Thomas Nelson,69,51,0,   ,0
 2020-02-15,Jackson City,Dayton,59,54,1,   ,0
@@ -3717,8 +3717,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-15,North Bullitt,Fairdale,95,93,0,  (overtime) ,1
 2020-02-15,North Laurel,Hazard,63,60,1,  (overtime) ,1
 2020-02-15,Oneida Baptist Institute,Lynn Camp,66,62,0,   ,0
-2020-02-15,Paducah Tilghman,Meridian (Mounds). IL,91,55,0,   ,0
-2020-02-15,Pigeon Forge. TN,Pineville,63,58,1,   ,0
+2020-02-15,Paducah Tilghman,Out of State,91,55,0,   ,0
+2020-02-15,Out of State,Pineville,63,58,1,   ,0
 2020-02-15,Pikeville,Lawrence County,59,57,0,   ,0
 2020-02-15,Portland Christian,Community Christian (Paducah),79,63,1,   ,0
 2020-02-15,Prestonsburg,Powell County,66,46,1,   ,0
@@ -3752,7 +3752,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-17,Floyd Central,Jenkins,83,57,0,   ,0
 2020-02-17,Fort Knox,Cloverport,64,25,1,   ,0
 2020-02-17,Fulton City,Community Christian (Paducah),76,47,0,   ,0
-2020-02-17,Garrard County,Bluegrass United (Lexington). (KY home school),64,50,1,   ,0
+2020-02-17,Garrard County,Out of State,64,50,1,   ,0
 2020-02-17,Grant County,Owen County,75,62,1,   ,0
 2020-02-17,Grayson County,Daviess County,57,46,0,   ,0
 2020-02-17,Hart County,Edmonson County,63,58,1,   ,0
@@ -3761,7 +3761,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-17,Heritage Academy,Frankfort Christian,60,32,1,   ,0
 2020-02-17,Hopkins County Central,Todd County Central,66,56,1,   ,0
 2020-02-17,Johnson Central,Prestonsburg,81,63,0,   ,0
-2020-02-17,L.I.G.H.T (Danville). (KY home school),Kentucky School f/t Deaf,44,28,0,   ,0
+2020-02-17,Out of State,Kentucky School f/t Deaf,44,28,0,   ,0
 2020-02-17,Leslie County,Buckhorn,60,50,1,   ,0
 2020-02-17,Lexington Christian,Anderson County,45,42,1,   ,0
 2020-02-17,Louisville Collegiate,Valley,62,41,0,   ,0
@@ -3769,7 +3769,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-17,Mayfield,Fulton County,80,56,0,   ,0
 2020-02-17,McCracken County,Murray,54,49,0,  (overtime) ,1
 2020-02-17,McCreary Central,Casey County,72,47,1,   ,0
-2020-02-17,McLean County,Faith (Elizabethtown). (KY home school),78,45,1,   ,0
+2020-02-17,McLean County,Out of State,78,45,1,   ,0
 2020-02-17,North Laurel,Harlan,83,67,1,   ,0
 2020-02-17,Paducah Tilghman,Calloway County,71,56,0,   ,0
 2020-02-17,Pike County Central,Belfry,67,65,1,   ,0
@@ -3778,7 +3778,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-17,Rowan County,Bath County,68,47,0,   ,0
 2020-02-17,Scott County,Sayre,77,53,0,   ,0
 2020-02-17,Shawnee,Evangel Christian,77,32,1,   ,0
-2020-02-17,Shelby Valley,Huntington Prep Regional. WV,77,52,1,   ,0
+2020-02-17,Shelby Valley,Out of State,77,52,1,   ,0
 2020-02-17,South Laurel,Madison Central,66,50,1,   ,0
 2020-02-17,Trimble County,Bellevue,84,59,0,   ,0
 2020-02-17,University Heights,Owensboro Catholic,75,73,0,  (overtime) ,1
@@ -3788,7 +3788,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-17,Western Hills,Mercer County,82,69,0,   ,0
 2020-02-17,Williamstown,Powell County,62,39,1,   ,0
 2020-02-18,Adair County,Caverna,64,50,1,   ,0
-2020-02-18,Agape Christian (Energy). IL,Christian Fellowship,55,51,1,   ,0
+2020-02-18,Out of State,Christian Fellowship,55,51,1,   ,0
 2020-02-18,Ashland Blazer,West Carter,57,54,0,   ,0
 2020-02-18,Ballard Memorial,Trigg County,64,60,1,   ,0
 2020-02-18,Barbourville,Williamsburg,80,72,1,  (overtime) ,1
@@ -3798,19 +3798,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-18,Berea,Heritage Academy,82,51,1,   ,0
 2020-02-18,Bourbon County,Pendleton County,79,54,0,   ,0
 2020-02-18,Boyle County,Wayne County,51,40,1,   ,0
-2020-02-18,Breathitt County,Wellspring Guardians (Richmond). (KY home school),59,57,1,   ,0
+2020-02-18,Breathitt County,Out of State,59,57,1,   ,0
 2020-02-18,Buckhorn,Owsley County,75,57,1,   ,0
 2020-02-18,Bullitt East,Nelson County,74,65,0,   ,0
 2020-02-18,Butler,Southern,78,62,1,   ,0
-2020-02-18,Cabell Midland (Ona). WV,Raceland,89,65,1,   ,0
+2020-02-18,Out of State,Raceland,89,65,1,   ,0
 2020-02-18,Caldwell County,University Heights,82,63,1,   ,0
 2020-02-18,Calvary Christian,Bellevue,73,29,0,   ,0
 2020-02-18,Campbell County,Boone County,78,57,1,   ,0
 2020-02-18,Campbellsville,Green County,63,55,0,   ,0
 2020-02-18,Carlisle County,Graves County,54,41,1,   ,0
-2020-02-18,Castle (Newburgh). IN,Owensboro Catholic,79,75,0,   ,0
+2020-02-18,Out of State,Owensboro Catholic,79,75,0,   ,0
 2020-02-18,Central Hardin,Breckinridge County,65,62,1,   ,0
-2020-02-18,Christian Academy (New Albany). IN,Christian Academy-Louisville,80,78,0,  (triple overtime) ,0
+2020-02-18,Out of State,Christian Academy-Louisville,80,78,0,  (triple overtime) ,1
 2020-02-18,Christian County,Union County,74,43,0,   ,0
 2020-02-18,Collins,North Oldham,75,67,1,   ,0
 2020-02-18,Conner,Holmes,65,60,0,   ,0
@@ -3833,15 +3833,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-18,Great Crossing,Tates Creek,57,53,0,   ,0
 2020-02-18,Greenup County,Fairview,83,59,1,   ,0
 2020-02-18,Greenwood,Monroe County,74,57,1,   ,0
-2020-02-18,Hancock County,Cannelton. IN,66,49,0,   ,0
-2020-02-18,Harrison County,Paris,64,61,1,  (triple overtime) ,0
+2020-02-18,Hancock County,Out of State,66,49,0,   ,0
+2020-02-18,Harrison County,Paris,64,61,1,  (triple overtime) ,1
 2020-02-18,Hazard,Letcher County Central,63,39,1,   ,0
 2020-02-18,Henry Clay,Scott County,67,61,1,   ,0
 2020-02-18,Henry County,Trimble County,66,57,0,   ,0
 2020-02-18,Hickman County,Livingston Central,56,55,1,   ,0
 2020-02-18,Holy Cross (Covington),Ludlow,88,51,0,   ,0
 2020-02-18,Hopkinsville,Bowling Green,69,65,0,   ,0
-2020-02-18,Huntington. WV,Boyd County,65,58,1,   ,0
+2020-02-18,Out of State,Boyd County,65,58,1,   ,0
 2020-02-18,Iroquois,Atherton,72,63,1,   ,0
 2020-02-18,Johnson Central,Floyd Central,78,69,0,   ,0
 2020-02-18,Knox Central,Knott County Central,76,67,0,   ,0
@@ -3874,7 +3874,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-18,Shelby Valley,Magoffin County,73,62,1,   ,0
 2020-02-18,Simon Kenton,Woodford County,87,64,1,   ,0
 2020-02-18,Somerset,Garrard County,62,52,0,   ,0
-2020-02-18,South Dearborn (Aurora). IN,Villa Madonna,94,65,1,   ,0
+2020-02-18,Out of State,Villa Madonna,94,65,1,   ,0
 2020-02-18,South Oldham,Walton-Verona,86,55,0,   ,0
 2020-02-18,Southwestern,Perry County Central,72,60,0,   ,0
 2020-02-18,Spencer County,Bethlehem,59,48,1,   ,0
@@ -3909,7 +3909,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-20,Boyle County,Clay County,65,48,1,   ,0
 2020-02-20,Breckinridge County,Trinity (Whitesville),74,62,0,   ,0
 2020-02-20,Butler County,Cloverport,81,44,2,   ,0
-2020-02-20,Calvary Christian,Southeast Indiana Panthers HomeSchoo (Lawrenceburg). IN,62,46,1,   ,0
+2020-02-20,Calvary Christian,Out of State,62,46,1,   ,0
 2020-02-20,Campbell County,Ryle,74,47,1,   ,0
 2020-02-20,Conner,Newport Central Catholic,55,52,0,   ,0
 2020-02-20,Daviess County,Union County,61,55,1,   ,0
@@ -3922,7 +3922,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-20,Grant County,Bracken County,89,65,0,   ,0
 2020-02-20,Jackson City,Owsley County,61,55,0,   ,0
 2020-02-20,Jackson County,Model,59,50,0,   ,0
-2020-02-20,Jeffersonville. IN,Ballard,80,77,0,   ,0
+2020-02-20,Out of State,Ballard,80,77,0,   ,0
 2020-02-20,Knox Central,Barbourville,74,61,1,   ,0
 2020-02-20,Lewis County,Bath County,64,61,1,   ,0
 2020-02-20,Logan County,Cumberland County,66,50,0,   ,0
@@ -4025,7 +4025,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-21,Pleasure Ridge Park,Beth Haven,103,70,1,   ,0
 2020-02-21,Robertson County,Burgin,85,30,0,   ,0
 2020-02-21,Rockcastle County,Russell County,51,49,1,  (overtime) ,1
-2020-02-21,Rose Hill Christian,Hannan (Ashton). WV,89,62,0,   ,0
+2020-02-21,Rose Hill Christian,Out of State,89,62,0,   ,0
 2020-02-21,Russell,Belfry,66,57,0,   ,0
 2020-02-21,Sayre,Wolfe County,67,62,0,   ,0
 2020-02-21,Seneca,Valley,65,54,1,   ,0
@@ -4037,20 +4037,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-21,St. Henry,Holy Cross (Covington),74,59,1,   ,0
 2020-02-21,Villa Madonna,St. Patrick,67,65,1,   ,0
 2020-02-21,Waggener,St. Xavier,76,65,1,   ,0
-2020-02-21,Warren Central,LaRue County,73,71,0,  (double overtime) ,0
+2020-02-21,Warren Central,LaRue County,73,71,0,  (double overtime) ,1
 2020-02-21,Washington County,Green County,80,72,1,   ,0
-2020-02-21,West Carter,Tolsia (Fort Gay). WV,97,75,1,   ,0
+2020-02-21,West Carter,Out of State,97,75,1,   ,0
 2020-02-21,Western,Moore,77,74,1,   ,0
 2020-02-21,Williamsburg,Leslie County,73,56,1,   ,0
 2020-02-21,Williamstown,Eminence,40,38,0,   ,0
 2020-02-22,Portland Christian,Danville Christian,71,57,1, KCAC Tournament  ,0
 2020-02-22,Beth Haven,Fort Knox,60,52,0,   ,0
-2020-02-22,Christian Fellowship,Dongola. IL,68,57,0,   ,0
-2020-02-22,Cloverport,St. Francis,69,63,0,  (double overtime) ,0
+2020-02-22,Christian Fellowship,Out of State,68,57,0,   ,0
+2020-02-22,Cloverport,St. Francis,69,63,0,  (double overtime) ,1
 2020-02-22,Dayton,June Buchanan,75,43,1,   ,0
-2020-02-22,Immaculate Conception Academy (Norwood). OH,Covington Latin,49,45,1,   ,0
+2020-02-22,Out of State,Covington Latin,49,45,1,   ,0
 2020-02-22,Marshall County,Livingston Central,81,42,1,   ,0
-2020-02-22,Pleasure Ridge Park,Eastern (Pekin). IN,87,42,1,   ,0
+2020-02-22,Pleasure Ridge Park,Out of State,87,42,1,   ,0
 2020-02-22,Taylor County,Green County,68,45,1,   ,0
 2020-02-23,North Hardin,Fort Knox,90,33,2,  17th District  ,0
 2020-02-23,Holy Cross (Covington),Covington Latin,76,19,2,  35th District  ,0
@@ -4101,7 +4101,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-25,McLean County,Ohio County,53,47,1,  10th District  ,0
 2020-02-25,Breckinridge County,Cloverport,71,30,2,  11th District  ,0
 2020-02-25,Meade County,Hancock County,72,39,1,  11th District  ,0
-2020-02-25,Butler County,Trinity,64,57,2,  12th District  ,0
+2020-02-25,Butler County,Trinity (Whitesville),64,57,2,  12th District  ,0
 2020-02-25,Grayson County,Edmonson County,73,62,1,  12th District  ,0
 2020-02-25,Franklin-Simpson,Todd County Central,83,63,2,  13th District  ,0
 2020-02-25,Warren Central,South Warren,70,56,0,  14th District  ,0
@@ -4120,7 +4120,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-25,Oldham County,Trimble County,92,41,2,  29th District  ,0
 2020-02-25,Collins,Anderson County,48,31,0,  30th District  ,0
 2020-02-25,Simon Kenton,Walton-Verona,78,57,2,  32nd District  ,0
-2020-02-25,Covington Catholic,Holy Cross,79,63,2,  35th District  ,0
+2020-02-25,Covington Catholic,Holy Cross (Covington),79,63,2,  35th District  ,0
 2020-02-25,Bishop Brossart,Scott,59,56,2,  37th District  ,0
 2020-02-25,Campbell County,Calvary Christian,81,54,2,  37th District  ,0
 2020-02-25,Pendleton County,Harrison County,44,42,2,  38th District  ,0
@@ -4129,7 +4129,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-25,George Rogers Clark,Paris,62,49,1,  40th District  ,0
 2020-02-25,Montgomery County,Bourbon County,69,63,2,  40th District (overtime) ,1
 2020-02-25,Frankfort,Great Crossing,73,70,2,  41st District (overtime) ,1
-2020-02-25,Frederick Douglass,Henry Clay,108,104,2,  42nd District (double overtime) ,0
+2020-02-25,Frederick Douglass,Henry Clay,108,104,2,  42nd District (double overtime) ,1
 2020-02-25,Tates Creek,Lexington Christian,55,54,1,  43rd District  ,0
 2020-02-25,Berea,Model,60,53,2,  44th District  ,0
 2020-02-25,Danville,Kentucky School f/t Deaf,87,34,2,  45th District  ,0
@@ -4149,7 +4149,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-25,Owsley County,Powell County,55,53,0,  56th District  ,0
 2020-02-25,Martin County,Magoffin County,64,46,1,  57th District  ,0
 2020-02-25,Lawrence County,Floyd Central,77,58,2,  58th District  ,0
-2020-02-25,Prestonsburg,Betsy Layne,56,54,1,  58th District (double overtime) ,0
+2020-02-25,Prestonsburg,Betsy Layne,56,54,1,  58th District (double overtime) ,1
 2020-02-25,Pikeville,East Ridge,68,67,2,  59th District (overtime) ,1
 2020-02-25,Belfry,Pike County Central,70,36,1,  60th District  ,0
 2020-02-25,Bath County,Fleming County,68,58,1,  61st District  ,0
@@ -4162,7 +4162,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-02-26,Hart County,Green County,64,56,0,  18th District  ,0
 2020-02-26,Nelson County,Thomas Nelson,47,42,1,  19th District  ,0
 2020-02-26,Marion County,Taylor County,66,53,0,  20th District  ,0
-2020-02-26,Fairdale,Holy Cross,75,56,2,  21st District  ,0
+2020-02-26,Fairdale,Holy Cross (Louisville),75,56,2,  21st District  ,0
 2020-02-26,Bullitt Central,Southern,75,63,2,  23rd District  ,0
 2020-02-26,North Bullitt,Moore,84,70,0,  23rd District  ,0
 2020-02-26,Fern Creek,Whitefield Academy,78,31,2,  24th District  ,0
@@ -4376,10 +4376,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2020-03-19,Owensboro Catholic,Martin County,-,-,2,1:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
 2020-03-19,Male,Collins,-,-,2,6:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
 2020-03-19,Covington Catholic,West Jessamine,-,-,2,8:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-20,TBA,TBA,-,-,2,12:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-20,TBA,TBA,-,-,2,1:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-20,TBA,TBA,-,-,2,6:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-20,TBA,TBA,-,-,2,8:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-21,TBA,TBA,-,-,2,6:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-21,TBA,TBA,-,-,2,8:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
-2020-03-22,TBA,TBA,-,-,2,2:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-20,Out of State,Out of State,-,-,2,12:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-20,Out of State,Out of State,-,-,2,1:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-20,Out of State,Out of State,-,-,2,6:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-20,Out of State,Out of State,-,-,2,8:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-21,Out of State,Out of State,-,-,2,6:30 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-21,Out of State,Out of State,-,-,2,8:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0
+2020-03-22,Out of State,Out of State,-,-,2,2:00 PM  Whitaker Bank/KHSAA Boys Sweet Sixteen® Basketball Tournament (canceled due to COVID pandemic) ,0

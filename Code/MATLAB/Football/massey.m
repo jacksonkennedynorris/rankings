@@ -10,14 +10,11 @@ M = zeros(nGames,nTeams); %Initialize M with zeros
 pd = zeros(nGames,1);  
 
 for game = 1:length(Games)
-    winner = Games(game).win_team;
-    loser = Games(game).lose_team;
-    if winner == "Out_State" || loser == "Out_State"
-       continue
-    end
+    i = Games(game).win_id;
+    j = Games(game).lose_id;
 
-    i = find([Teams.name]' == winner);
-    j = find([Teams.name]' == loser);
+%     i = find([Teams.name]' == winner);
+%     j = find([Teams.name]' == loser);
     if Games(game).overtime 
        point_differential = 1/2; 
     else
@@ -28,6 +25,8 @@ for game = 1:length(Games)
     end
     loc = Games(game).location;
     
+    Games(game)
+    i
     %%Change Game Matrix%%
     M(game,i) = M(game,i) + 1; %Add one to the winner entry
     M(game,j) = M(game,j) - 1; %Subtract one from the loser entry

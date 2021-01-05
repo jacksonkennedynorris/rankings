@@ -47,17 +47,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-02,Daviess County,Madisonville-North Hopkins,93,62,1,   ,0
 2014-12-02,Doss,Pleasure Ridge Park,62,61,1,   ,0
 2014-12-02,DuPont Manual,Christian Academy-Louisville,80,52,1,   ,0
-2014-12-02,East Ridge,Grundy. VA,66,31,1,   ,0
+2014-12-02,East Ridge,Out of State,66,31,1,   ,0
 2014-12-02,Eastern,Shawnee,74,66,0,   ,0
 2014-12-02,Eminence,Williamstown,84,68,1,   ,0
 2014-12-02,Evangel Christian,Heritage Academy,81,51,0,   ,0
-2014-12-02,Evansville Harrison. IN,Henderson County,86,80,0,   ,0
-2014-12-02,Fairdale,Jeffersontown,61,59,0,  Overtime ,0
+2014-12-02,Out of State,Henderson County,86,80,0,   ,0
+2014-12-02,Fairdale,Jeffersontown,61,59,0,  Overtime ,1
 2014-12-02,George Rogers Clark,Nicholas County,69,24,0,   ,0
 2014-12-02,Grant County,Ryle,72,45,1,   ,0
 2014-12-02,Grayson County,Holy Cross (Louisville),44,29,1,   ,0
 2014-12-02,Hancock County,McLean County,62,53,1,   ,0
-2014-12-02,Harlan,Thomas Walker. VA,75,65,0,   ,0
+2014-12-02,Harlan,Out of State,75,65,0,   ,0
 2014-12-02,Harlan County,Letcher County Central,69,52,1,   ,0
 2014-12-02,Harrison County,St. Patrick,64,48,1,   ,0
 2014-12-02,Henry Clay,Holmes,79,67,0,   ,0
@@ -87,7 +87,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-02,North Hardin,Ohio County,73,50,1,   ,0
 2014-12-02,North Laurel,Rockcastle County,76,63,0,   ,0
 2014-12-02,Owen County,Western Hills,70,56,1,   ,0
-2014-12-02,Owensboro Catholic,South Spencer. IN,66,59,0,   ,0
+2014-12-02,Owensboro Catholic,Out of State,66,59,0,   ,0
 2014-12-02,Paducah Tilghman,Fulton County,82,38,0,   ,0
 2014-12-02,Perry County Central,Breathitt County,99,71,0,   ,0
 2014-12-02,Phelps,Piarist School,66,57,0,   ,0
@@ -106,7 +106,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-02,Tates Creek,Franklin County,60,39,1,   ,0
 2014-12-02,Taylor County,Washington County,100,50,1,   ,0
 2014-12-02,Trigg County,Dawson Springs,80,35,0,   ,0
-2014-12-02,Trinity (Louisville),Jeffersonville. IN,77,38,1,   ,0
+2014-12-02,Trinity (Louisville),Out of State,77,38,1,   ,0
 2014-12-02,Warren East,Metcalfe County,68,55,0,   ,0
 2014-12-02,Webster County,Todd County Central,70,36,1,   ,0
 2014-12-02,West Carter,Fairview,73,69,0,  (corrected score) ,0
@@ -123,7 +123,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-04,Anderson County,East Jessamine,78,69,0,  (corrected score) ,0
 2014-12-04,Ballard Memorial,Fulton City,71,47,1,   ,0
 2014-12-04,Barbourville,Oneida Baptist Institute,84,65,1,   ,0
-2014-12-04,Bishop Brossart,Newport,80,77,1,  (double overtime) ,0
+2014-12-04,Bishop Brossart,Newport,80,77,1,  (double overtime) ,1
 2014-12-04,Bullitt East,Moore,82,77,1,   ,0
 2014-12-04,Casey County,Burgin,79,41,1,   ,0
 2014-12-04,Central Hardin,Green County,69,53,0,   ,0
@@ -132,8 +132,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-04,East Ridge,Magoffin County,66,65,1,   ,0
 2014-12-04,Elliott County,East Carter,60,48,0,   ,0
 2014-12-04,Franklin-Simpson,Greenwood,54,50,1,   ,0
-2014-12-04,Graves County,Metropolis,71,55,2,   ,0
-2014-12-04,Harlan,Rye Cove. VA,72,49,1,   ,0
+2014-12-04,Graves County,Out of State,71,55,2,   ,0
+2014-12-04,Harlan,Out of State,72,49,1,   ,0
 2014-12-04,Hopkinsville,Fort Campbell,97,37,1,   ,0
 2014-12-04,Jackson City,Jenkins,81,61,1,   ,0
 2014-12-04,Johnson Central,Breathitt County,92,65,1,   ,0
@@ -142,22 +142,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-04,Lincoln County,Rockcastle County,83,61,0,   ,0
 2014-12-04,Livingston Central,Community Christian (Paducah),70,32,0,   ,0
 2014-12-04,Lyon County,Dawson Springs,64,44,1,   ,0
-2014-12-04,Marshall County,Dyersburg. TN,54,51,1,   ,0
+2014-12-04,Marshall County,Out of State,54,51,1,   ,0
 2014-12-04,McCreary Central,Middlesboro,90,53,1,   ,0
-2014-12-04,Meade County,South Central. IN,70,52,1,   ,0
+2014-12-04,Meade County,Out of State,70,52,1,   ,0
 2014-12-04,Owen County,Lloyd Memorial,76,51,0,   ,0
 2014-12-04,Paducah Tilghman,Carlisle County,105,78,1,   ,0
 2014-12-04,Paintsville,Riverside Christian,94,23,1,   ,0
-2014-12-04,Pineville,Thomas Walker. VA,75,49,1,   ,0
+2014-12-04,Pineville,Out of State,75,49,1,   ,0
 2014-12-04,Portland Christian,St. Francis,67,36,0,   ,0
-2014-12-04,Ralston Valley. CO,Kentucky Country Day,48,44,1,   ,0
+2014-12-04,Out of State,Kentucky Country Day,48,44,1,   ,0
 2014-12-04,Seneca,Jeffersontown,73,62,1,   ,0
 2014-12-04,Shelby County,South Oldham,70,67,0,   ,0
 2014-12-04,St. Xavier,Louisville Collegiate,66,27,1,   ,0
 2014-12-04,Trimble County,Carroll County,57,42,0,   ,0
 2014-12-04,Villa Madonna,Robertson County,64,54,1,   ,0
 2014-12-05,Apollo,North Laurel,73,70,0,   ,0
-2014-12-05,Archbishop Moeller. OH,Ryle,58,28,1,   ,0
+2014-12-05,Out of State,Ryle,58,28,1,   ,0
 2014-12-05,Augusta,St. Patrick,67,65,0,   ,0
 2014-12-05,Barbourville,Middlesboro,87,50,1,   ,0
 2014-12-05,Barren County,South Warren,65,64,0,   ,0
@@ -170,7 +170,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-05,Breckinridge County,Cloverport,62,43,1,   ,0
 2014-12-05,Bryan Station,Paul Laurence Dunbar,76,59,1,   ,0
 2014-12-05,Butler County,Hancock County,76,64,1,   ,0
-2014-12-05,Calloway County,Smyrna. TN,60,46,1,   ,0
+2014-12-05,Calloway County,Out of State,60,46,1,   ,0
 2014-12-05,Campbell County,Dixie Heights,58,51,1,   ,0
 2014-12-05,Campbellsville,Cumberland County,57,44,0,   ,0
 2014-12-05,Caverna,Hart County,59,54,1,   ,0
@@ -180,9 +180,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-05,Crittenden County,Trigg County,45,35,0,   ,0
 2014-12-05,Danville,Model,67,35,2,   ,0
 2014-12-05,DuPont Manual,Shawnee,104,71,1,   ,0
-2014-12-05,Elliott County,South Point. OH,57,39,0,   ,0
+2014-12-05,Elliott County,Out of State,57,39,0,   ,0
 2014-12-05,Estill County,Lee County,80,52,0,   ,0
-2014-12-05,Evangelical Christian. TN,Murray,55,51,0,   ,0
+2014-12-05,Out of State,Murray,55,51,0,   ,0
 2014-12-05,Fern Creek,Moore,79,67,1,   ,0
 2014-12-05,Frankfort,Garrard County,74,52,1,   ,0
 2014-12-05,Franklin-Simpson,Clinton County,58,48,1,   ,0
@@ -196,9 +196,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-05,Henry Clay,Tates Creek,55,39,0,   ,0
 2014-12-05,Heritage Academy,Christian Fellowship,64,41,1,   ,0
 2014-12-05,Jackson County,Riverside Christian,91,26,1,   ,0
-2014-12-05,Jellico. TN,Lynn Camp,74,56,1,   ,0
+2014-12-05,Out of State,Lynn Camp,74,56,1,   ,0
 2014-12-05,Jenkins,Harlan,69,48,0,   ,0
-2014-12-05,Kentucky School f/t Deaf,South Carolina School for the Deaf,58,40,2,   ,0
+2014-12-05,Kentucky School f/t Deaf,Out of State,58,40,2,   ,0
 2014-12-05,Knott County Central,Bracken County,80,38,1,   ,0
 2014-12-05,Lafayette,Madison Central,78,41,1,   ,0
 2014-12-05,Leslie County,Whitefield Academy,51,43,2,   ,0
@@ -213,23 +213,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-05,McCreary Central,Oneida Baptist Institute,81,66,1,   ,0
 2014-12-05,Meade County,Owensboro Catholic,73,58,0,   ,0
 2014-12-05,Monroe County,Metcalfe County,81,40,1,   ,0
-2014-12-05,Montverde. FL,Ballard,71,55,2,   ,0
+2014-12-05,Out of State,Ballard,71,55,2,   ,0
 2014-12-05,Nelson County,North Bullitt,69,64,1,   ,0
 2014-12-05,North Hardin,Fort Knox,75,33,1,   ,0
-2014-12-05,Obion County. TN,Fulton County,74,28,1,   ,0
+2014-12-05,Out of State,Fulton County,74,28,1,   ,0
 2014-12-05,Oldham County,Butler,75,58,1,   ,0
 2014-12-05,Owensboro,Daviess County,74,50,0,   ,0
-2014-12-05,Phelps,South Floyd,69,68,0,  (double overtime)(double overtime) ,0
+2014-12-05,Phelps,South Floyd,69,68,0,  (double overtime)(double overtime) ,1
 2014-12-05,Pleasure Ridge Park,Valley,90,46,1,   ,0
 2014-12-05,Powell County,Owsley County,55,40,0,   ,0
 2014-12-05,Robertson County,Dayton,66,46,0,   ,0
-2014-12-05,Sciotoville Community East. OH,Rose Hill Christian,86,38,1,   ,0
+2014-12-05,Out of State,Rose Hill Christian,86,38,1,   ,0
 2014-12-05,Scott County,Pendleton County,89,56,0,   ,0
 2014-12-05,Seneca,Atherton,71,52,0,   ,0
 2014-12-05,Somerset,Pikeville,71,52,2,   ,0
 2014-12-05,South Laurel,Madison Southern,62,48,2,   ,0
 2014-12-05,Southern,Holy Cross (Louisville),60,50,1,   ,0
-2014-12-05,St. Francis. CA,Kentucky Country Day,57,50,1,   ,0
+2014-12-05,Out of State,Kentucky Country Day,57,50,1,   ,0
 2014-12-05,St. Henry,Silver Grove,72,28,0,   ,0
 2014-12-05,St. Mary,Hickman County,47,27,1,   ,0
 2014-12-05,Taylor County,Elizabethtown,68,55,0,   ,0
@@ -239,22 +239,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-05,West Jessamine,Franklin County,104,72,1,   ,0
 2014-12-05,Western,Iroquois,84,51,1,   ,0
 2014-12-05,Western Hills,Henry County,51,49,1,   ,0
-2014-12-05,Wilmington. OH,Lexington Catholic,79,52,1,   ,0
+2014-12-05,Out of State,Lexington Catholic,79,52,1,   ,0
 2014-12-06,Allen Central,Piarist School,87,52,0,   ,0
 2014-12-06,Anderson County,Sayre,76,53,2,   ,0
 2014-12-06,Augusta,Lloyd Memorial,67,61,1,   ,0
-2014-12-06,Ballard,Hammond School. SC,59,33,1,   ,0
+2014-12-06,Ballard,Out of State,59,33,1,   ,0
 2014-12-06,Barbourville,McCreary Central,88,61,1,   ,0
 2014-12-06,Barren County,Russellville,69,59,1,   ,0
 2014-12-06,Beth Haven,Brown,76,32,1,   ,0
 2014-12-06,Bourbon County,Estill County,64,59,2,   ,0
 2014-12-06,Bryan Station,Knox Central,56,53,1,   ,0
-2014-12-06,Calloway County,Ripley. TN,60,49,1,   ,0
+2014-12-06,Calloway County,Out of State,60,49,1,   ,0
 2014-12-06,Calvary Christian,Christian Fellowship,55,16,1,   ,0
-2014-12-06,Campbell County,Chillicothe. OH,55,45,1,   ,0
+2014-12-06,Campbell County,Out of State,55,45,1,   ,0
 2014-12-06,Campbellsville,Union County,66,58,1,   ,0
 2014-12-06,Carlisle County,Community Christian (Paducah),64,28,0,   ,0
-2014-12-06,Chaminade Julienne (Dayton). OH,Lexington Catholic,64,58,1,   ,0
+2014-12-06,Out of State,Lexington Catholic,64,58,1,   ,0
 2014-12-06,Clay County,Bell County,78,51,1,   ,0
 2014-12-06,Clinton County,Warren East,72,62,1,   ,0
 2014-12-06,Cloverport,Dawson Springs,71,46,2,   ,0
@@ -271,18 +271,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-06,Fern Creek,North Oldham,79,68,0,   ,0
 2014-12-06,Garrard County,Glasgow,51,32,2,   ,0
 2014-12-06,George Rogers Clark,Pendleton County,67,46,1,   ,0
-2014-12-06,Grant County,Cincinnati College Prep. Academy. OH,75,33,1,   ,0
+2014-12-06,Grant County,Out of State,75,33,1,   ,0
 2014-12-06,Graves County,Ohio County,71,57,0,   ,0
 2014-12-06,Hancock County,Walden,59,56,0,   ,0
 2014-12-06,Harlan County,Wolfe County,81,45,1,   ,0
 2014-12-06,Henry Clay,East Jessamine,68,65,2,   ,0
 2014-12-06,Henry County,LaRue County,66,55,0,   ,0
 2014-12-06,Hopkins County Central,Todd County Central,68,54,1,   ,0
-2014-12-06,Hopkinsville,Lausanne Collegiate. TN,73,63,2,   ,0
+2014-12-06,Hopkinsville,Out of State,73,63,2,   ,0
 2014-12-06,Jackson County,Johnson Central,66,64,1,   ,0
 2014-12-06,June Buchanan,Menifee County,62,58,0,   ,0
-2014-12-06,Kentucky Country Day,C.C. Sweeting. BHS,74,52,1,   ,0
-2014-12-06,Kentucky School f/t Deaf,Georgia School for the Deaf,40,26,0,   ,0
+2014-12-06,Kentucky Country Day,Out of State,74,52,1,   ,0
+2014-12-06,Kentucky School f/t Deaf,Out of State,40,26,0,   ,0
 2014-12-06,Knott County Central,Breathitt County,93,50,1,   ,0
 2014-12-06,Lafayette,North Laurel,80,55,0,   ,0
 2014-12-06,Leslie County,Berea,69,51,0,   ,0
@@ -290,7 +290,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-06,Lewis County,Bath County,71,49,2,   ,0
 2014-12-06,Lincoln County,McCracken County,63,46,2,   ,0
 2014-12-06,Louisville Collegiate,Fort Knox,52,47,1,   ,0
-2014-12-06,Lynn Camp,J Frank White Academy. TN,85,38,1,   ,0
+2014-12-06,Lynn Camp,Out of State,85,38,1,   ,0
 2014-12-06,Madison Central,Apollo,61,57,1,   ,0
 2014-12-06,Madison Southern,Pulaski County,61,47,2,   ,0
 2014-12-06,Mercer County,Casey County,87,52,1,   ,0
@@ -299,7 +299,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-06,Monroe County,Bullitt Central,56,41,2,   ,0
 2014-12-06,Morgan County,Fleming County,75,59,2,   ,0
 2014-12-06,Muhlenberg County,Logan County,65,55,1,   ,0
-2014-12-06,Murray,Hickman County. TN,79,50,1,   ,0
+2014-12-06,Murray,Out of State,79,50,1,   ,0
 2014-12-06,Newport,Dayton,85,29,0,   ,0
 2014-12-06,Newport Central Catholic,Cooper,64,53,0,   ,0
 2014-12-06,North Hardin,Shawnee,74,63,1,   ,0
@@ -310,7 +310,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-06,Paris,Riverside Christian,94,22,1,   ,0
 2014-12-06,Pikeville,Model,72,56,2,   ,0
 2014-12-06,Pineville,Burgin,48,27,0,   ,0
-2014-12-06,Pleasure Ridge Park,Taft (Cincinnati). OH,81,78,1,   ,0
+2014-12-06,Pleasure Ridge Park,Out of State,81,78,1,   ,0
 2014-12-06,Portland Christian,Heritage Academy,75,48,0,   ,0
 2014-12-06,Rowan County,West Carter,49,36,2,   ,0
 2014-12-06,Ryle,Ludlow,70,61,1,   ,0
@@ -324,11 +324,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-06,South Oldham,Christian Academy-Louisville,76,67,1,   ,0
 2014-12-06,Southwestern,Perry County Central,99,75,2,   ,0
 2014-12-06,Spencer County,Evangel Christian,89,34,1,   ,0
-2014-12-06,St. Francis,Covington Latin,79,78,2,  Double overtime ,0
+2014-12-06,St. Francis,Covington Latin,79,78,2,  Double overtime ,1
 2014-12-06,St. Patrick,Covington Latin,61,40,1,   ,0
 2014-12-06,St. Patrick,Villa Madonna,81,48,1,   ,0
-2014-12-06,Taylor County,Indianapolis Cathedral. IN,68,63,1,   ,0
-2014-12-06,Tennessee School for the Deaf,Kentucky School f/t Deaf,49,33,2,   ,0
+2014-12-06,Taylor County,Out of State,68,63,1,   ,0
+2014-12-06,Out of State,Kentucky School f/t Deaf,49,33,2,   ,0
 2014-12-06,Trimble County,Eminence,72,55,0,   ,0
 2014-12-06,Villa Madonna,St. Francis,47,34,2,   ,0
 2014-12-06,Walton-Verona,Powell County,51,42,2,   ,0
@@ -340,7 +340,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-08,Breckinridge County,Butler County,81,73,0,   ,0
 2014-12-08,Danville,Nicholas County,65,56,0,   ,0
 2014-12-08,Elliott County,Menifee County,61,50,1,   ,0
-2014-12-08,Harrison County,Madison Central,74,72,0,  overtime ,0
+2014-12-08,Harrison County,Madison Central,74,72,0,  overtime ,1
 2014-12-08,Hazard,Jackson City,63,40,1,   ,0
 2014-12-08,Holy Cross (Covington),South Oldham,64,58,1,   ,0
 2014-12-08,June Buchanan,Jenkins,55,33,1,   ,0
@@ -349,8 +349,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-08,Lyon County,Hickman County,58,54,0,   ,0
 2014-12-08,Middlesboro,Red Bird,84,45,1,   ,0
 2014-12-08,Newport,Boone County,70,44,0,   ,0
-2014-12-08,Obion County. TN,Fulton City,60,43,0,   ,0
-2014-12-08,Peabody. TN,Fulton County,56,43,0,   ,0
+2014-12-08,Out of State,Fulton City,60,43,0,   ,0
+2014-12-08,Out of State,Fulton County,56,43,0,   ,0
 2014-12-08,Rockcastle County,Barbourville,74,73,1,   ,0
 2014-12-08,Sayre,Rose Hill Christian,85,43,0,   ,0
 2014-12-08,Shawnee,Walden,71,53,0,   ,0
@@ -360,8 +360,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-08,Whitefield Academy,Spencer County,46,40,1,   ,0
 2014-12-09,Apollo,Trinity (Whitesville),67,33,1,   ,0
 2014-12-09,Augusta,Bracken County,63,60,0,   ,0
-2014-12-09,Barren County,Allen County-Scottsville,88,83,1,  (triple overtime)(triple overtime) ,0
-2014-12-09,Bell County,Somerset,83,80,0,  double overtime  ,0
+2014-12-09,Barren County,Allen County-Scottsville,88,83,1,  (triple overtime)(triple overtime) ,1
+2014-12-09,Bell County,Somerset,83,80,0,  double overtime  ,1
 2014-12-09,Bellevue,Heritage Academy,82,36,1,   ,0
 2014-12-09,Bethlehem,Thomas Nelson,68,28,1,   ,0
 2014-12-09,Boone County,Ryle,55,54,1,   ,0
@@ -380,7 +380,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-09,Clay County,Corbin,75,69,0,   ,0
 2014-12-09,Cooper,Conner,54,45,1,   ,0
 2014-12-09,Covington Catholic,St. Henry,74,46,1,   ,0
-2014-12-09,Crittenden County,Caldwell County,77,75,0,  (double overtime) ,0
+2014-12-09,Crittenden County,Caldwell County,77,75,0,  (double overtime) ,1
 2014-12-09,Daviess County,Edmonson County,88,65,1,   ,0
 2014-12-09,DeSales,Iroquois,67,35,0,   ,0
 2014-12-09,Doss,Western,71,58,1,   ,0
@@ -393,7 +393,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-09,Franklin-Simpson,South Warren,67,64,0,   ,0
 2014-12-09,Fulton City,Christian Fellowship,56,20,0,   ,0
 2014-12-09,Grant County,Williamstown,112,55,1,   ,0
-2014-12-09,Hannan. WV,Rose Hill Christian,70,56,1,   ,0
+2014-12-09,Out of State,Rose Hill Christian,70,56,1,   ,0
 2014-12-09,Harlan,Middlesboro,64,53,0,   ,0
 2014-12-09,Harrison County,Scott,85,79,1,   ,0
 2014-12-09,Hart County,Green County,71,62,1,   ,0
@@ -402,14 +402,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-09,Holmes,Bishop Brossart,61,37,0,   ,0
 2014-12-09,Hopkins County Central,Trigg County,67,52,0,   ,0
 2014-12-09,Hopkinsville,University Heights,107,65,1,   ,0
-2014-12-09,Houston County. TN,Todd County Central,63,41,1,   ,0
+2014-12-09,Out of State,Todd County Central,63,41,1,   ,0
 2014-12-09,Jackson County,Garrard County,78,63,0,   ,0
 2014-12-09,Jeffersontown,Atherton,78,66,1,   ,0
 2014-12-09,Jenkins,South Floyd,66,50,1,   ,0
 2014-12-09,John Hardin,Fort Knox,79,35,1,   ,0
 2014-12-09,Knox Central,Harlan County,81,62,1,   ,0
 2014-12-09,Lafayette,Paul Laurence Dunbar,71,57,0,   ,0
-2014-12-09,Letcher County Central,Union. VA,55,41,1,   ,0
+2014-12-09,Letcher County Central,Out of State,55,41,1,   ,0
 2014-12-09,Lexington Catholic,Frankfort,76,33,1,   ,0
 2014-12-09,Lexington Christian,Tates Creek,69,39,0,   ,0
 2014-12-09,Lincoln County,Wayne County,66,64,1,   ,0
@@ -438,14 +438,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-09,Paris,Montgomery County,54,51,0,   ,0
 2014-12-09,Pendleton County,Lloyd Memorial,72,64,0,   ,0
 2014-12-09,Perry County Central,Johnson Central,91,67,1,   ,0
-2014-12-09,Phelps,Hurley. VA,42,40,0,   ,0
+2014-12-09,Phelps,Out of State,42,40,0,   ,0
 2014-12-09,Pike County Central,Allen Central,70,62,1,   ,0
 2014-12-09,Pikeville,Betsy Layne,67,51,1,   ,0
 2014-12-09,Pineville,Red Bird,65,33,0,   ,0
 2014-12-09,Powell County,Jackson City,63,57,1,   ,0
 2014-12-09,Prestonsburg,Riverside Christian,67,16,1,   ,0
 2014-12-09,Pulaski County,McCreary Central,79,68,1,   ,0
-2014-12-09,Raceland,St. Joseph Central (Ironton). OH,60,51,1,   ,0
+2014-12-09,Raceland,Out of State,60,51,1,   ,0
 2014-12-09,Rowan County,Morgan County,64,49,2,   ,0
 2014-12-09,Russell,Bath County,63,54,2,   ,0
 2014-12-09,Russell County,Greenwood,73,56,1,   ,0
@@ -462,7 +462,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-09,Walden,Kentucky School f/t Deaf,73,48,0,   ,0
 2014-12-09,Walton-Verona,Gallatin County,56,36,1,   ,0
 2014-12-09,West Jessamine,Danville,88,65,0,   ,0
-2014-12-09,Westview. TN,Graves County,61,51,0,   ,0
+2014-12-09,Out of State,Graves County,61,51,0,   ,0
 2014-12-09,Wolfe County,Breathitt County,56,44,1,   ,0
 2014-12-09,Woodford County,Western Hills,48,26,1,   ,0
 2014-12-10,Bellevue,Covington Latin,79,30,1,   ,0
@@ -478,8 +478,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-11,Bryan Station,Tates Creek,74,47,1,   ,0
 2014-12-11,Bullitt East,Spencer County,80,60,1,   ,0
 2014-12-11,Campbell County,Ludlow,79,47,1,   ,0
-2014-12-11,Christian Fellowship,Carrol Academy. TN,42,30,0,   ,0
-2014-12-11,Corbin,Jellico. TN,60,43,0,   ,0
+2014-12-11,Christian Fellowship,Out of State,42,30,0,   ,0
+2014-12-11,Corbin,Out of State,60,43,0,   ,0
 2014-12-11,East Jessamine,Burgin,80,66,0,   ,0
 2014-12-11,Edmonson County,Glasgow,60,48,1,   ,0
 2014-12-11,Fern Creek,Christian Academy-Louisville,94,83,1,   ,0
@@ -534,7 +534,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-12,Elizabethtown,Central Hardin,66,61,1,   ,0
 2014-12-12,Estill County,Jackson City,69,62,0,   ,0
 2014-12-12,Evangel Christian,Christian Fellowship,82,32,1,   ,0
-2014-12-12,Evansville Day. IN,Union County,60,59,1,   ,0
+2014-12-12,Out of State,Union County,60,59,1,   ,0
 2014-12-12,Fairdale,Western,56,48,1,   ,0
 2014-12-12,Fairview,Rose Hill Christian,80,45,0,   ,0
 2014-12-12,Fern Creek,Valley,77,61,0,   ,0
@@ -547,7 +547,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-12,Holmes,Harrison County,65,57,0,   ,0
 2014-12-12,Holy Cross (Covington),Cooper,55,44,0,   ,0
 2014-12-12,Hopkinsville,Caldwell County,89,51,2,   ,0
-2014-12-12,Kentucky School f/t Deaf,St. Rita School for the Deaf,56,25,2,   ,0
+2014-12-12,Kentucky School f/t Deaf,Out of State,56,25,2,   ,0
 2014-12-12,LaRue County,Hart County,60,46,0,   ,0
 2014-12-12,Lawrence County,Raceland,80,68,0,   ,0
 2014-12-12,Lewis County,Greenup County,58,50,1,   ,0
@@ -580,13 +580,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-12,Shelby Valley,Jenkins,90,55,0,   ,0
 2014-12-12,Silver Grove,Bellevue,67,49,1,   ,0
 2014-12-12,Simon Kenton,Walton-Verona,68,49,1,   ,0
-2014-12-12,Somerset,Rockcastle County,109,101,1,  (double overtime) ,0
+2014-12-12,Somerset,Rockcastle County,109,101,1,  (double overtime) ,1
 2014-12-12,South Laurel,West Jessamine,82,61,1,   ,0
 2014-12-12,Southern,Iroquois,62,46,1,   ,0
 2014-12-12,Southwestern,Wayne County,88,66,1,   ,0
 2014-12-12,St. Henry,Highlands,65,55,0,   ,0
 2014-12-12,St. Mary,Ballard Memorial,66,58,1,   ,0
-2014-12-12,St. Xavier (Cincinnati). OH,St. Xavier,49,46,0,   ,0
+2014-12-12,Out of State,St. Xavier,49,46,0,   ,0
 2014-12-12,Taylor County,Adair County,89,57,1,   ,0
 2014-12-12,Thomas Nelson,Washington County,63,60,1,  (overtime) ,1
 2014-12-12,Trigg County,Livingston Central,66,42,1,   ,0
@@ -596,7 +596,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-12,Warren Central,University Heights,111,67,2,   ,0
 2014-12-12,Warren East,South Warren,68,57,1,   ,0
 2014-12-12,Whitley County,Barbourville,84,80,1,   ,0
-2014-12-12,Williamsburg,Jellico. TN,86,56,1,   ,0
+2014-12-12,Williamsburg,Out of State,86,56,1,   ,0
 2014-12-12,Williamstown,Dayton,87,49,0,   ,0
 2014-12-12,Woodford County,Franklin County,61,57,0,   ,0
 2014-12-13,Allen County-Scottsville,Warren East,78,72,1,   ,0
@@ -606,55 +606,55 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-13,Berea,Williamstown,76,42,1,   ,0
 2014-12-13,Beth Haven,Heritage Academy,86,43,1,   ,0
 2014-12-13,Bethlehem,Campbellsville,59,47,2,   ,0
-2014-12-13,Boyd County,Wheelersburg. OH,77,52,1,   ,0
+2014-12-13,Boyd County,Out of State,77,52,1,   ,0
 2014-12-13,Breckinridge County,Hancock County,54,47,0,   ,0
 2014-12-13,Brown,Burgin,57,54,1,  (overtime)(overtime) ,1
 2014-12-13,Bullitt East,Thomas Nelson,78,36,2,   ,0
-2014-12-13,Campbell County,Western Hills. OH,86,71,2,   ,0
+2014-12-13,Campbell County,Out of State,86,71,2,   ,0
 2014-12-13,Caverna,Cumberland County,60,39,1,   ,0
 2014-12-13,Central Hardin,Shelby County,56,53,0,   ,0
 2014-12-13,Christian County,Calloway County,57,50,2,   ,0
 2014-12-13,Clay County,Leslie County,79,59,1,   ,0
 2014-12-13,Clinton County,Greenwood,62,55,0,   ,0
-2014-12-13,Cooper,Shroder,57,36,2,   ,0
+2014-12-13,Cooper,Out of State,57,36,2,   ,0
 2014-12-13,Covington Catholic,St. Xavier,61,55,0,   ,0
-2014-12-13,Crittenden County,Hardin (Calhoun). IL,59,51,1,   ,0
+2014-12-13,Crittenden County,Out of State,59,51,1,   ,0
 2014-12-13,DeSales,Holy Cross (Louisville),59,34,1,   ,0
-2014-12-13,Dixie Heights,Taft,50,46,2,   ,0
+2014-12-13,Dixie Heights,Out of State,50,46,2,   ,0
 2014-12-13,Doss,Atherton,83,57,1,   ,0
 2014-12-13,East Jessamine,Southwestern,82,67,2,   ,0
 2014-12-13,Evangel Christian,Villa Madonna,86,67,0,   ,0
-2014-12-13,Evansville Bosse. IN,Madisonville-North Hopkins,54,48,2,   ,0
+2014-12-13,Out of State,Madisonville-North Hopkins,54,48,2,   ,0
 2014-12-13,Fairview,Russell,47,45,0,   ,0
 2014-12-13,Frankfort,Eminence,72,64,2,  (overtime)(overtime) ,1
 2014-12-13,Gallatin County,Whitefield Academy,53,49,2,   ,0
 2014-12-13,George Rogers Clark,Scott,76,62,0,   ,0
 2014-12-13,Green County,Metcalfe County,62,49,0,   ,0
-2014-12-13,Harlan,Elkmont. AL,78,60,2,   ,0
-2014-12-13,Harlan County,Elkmont. AL,83,26,1,   ,0
+2014-12-13,Harlan,Out of State,78,60,2,   ,0
+2014-12-13,Harlan County,Out of State,83,26,1,   ,0
 2014-12-13,Hazard,Owsley County,56,54,1,   ,0
 2014-12-13,Henderson County,Collins,50,49,2,   ,0
 2014-12-13,Holmes,St. Henry,63,59,0,   ,0
 2014-12-13,Hopkinsville,Fern Creek,88,86,1,   ,0
 2014-12-13,Jackson City,Allen Central,79,74,0,   ,0
 2014-12-13,Jackson County,Greenup County,60,55,0,   ,0
-2014-12-13,Kentucky School f/t Deaf,Western Pennsylvania School for the Deaf,72,34,2,   ,0
-2014-12-13,Kentucky School f/t Deaf,Ohio School for the Deaf,30,28,0,   ,0
+2014-12-13,Kentucky School f/t Deaf,Out of State,72,34,2,   ,0
+2014-12-13,Kentucky School f/t Deaf,Out of State,30,28,0,   ,0
 2014-12-13,Knott County Central,Pike County Central,87,51,1,   ,0
 2014-12-13,Knox Central,Casey County,90,86,0,  (overtime) ,1
-2014-12-13,Lake County. TN,Fulton County,75,60,1,   ,0
+2014-12-13,Out of State,Fulton County,75,60,1,   ,0
 2014-12-13,Letcher County Central,Belfry,72,69,1,  (overtime) ,1
 2014-12-13,Lexington Catholic,Scott County,62,54,1,   ,0
 2014-12-13,Male,Elizabethtown,64,46,0,   ,0
-2014-12-13,Maplewood Comprehensive. TN,Franklin-Simpson,52,40,2,   ,0
+2014-12-13,Out of State,Franklin-Simpson,52,40,2,   ,0
 2014-12-13,Mason County,Paul Laurence Dunbar,66,62,2,   ,0
-2014-12-13,Meadowdale. OH,Holy Cross,65,57,2,   ,0
+2014-12-13,Out of State,Holy Cross (Covington),65,57,2,   ,0
 2014-12-13,Mercer County,Moore,72,57,1,   ,0
 2014-12-13,Morgan County,West Carter,57,41,0,   ,0
-2014-12-13,Newport,Withrow (Cincinnati). OH,72,69,1,   ,0
+2014-12-13,Newport,Out of State,72,69,1,   ,0
 2014-12-13,North Bullitt,Marion County,67,51,2,   ,0
 2014-12-13,North Laurel,East Ridge,75,61,2,   ,0
-2014-12-13,Northwest (Clarksville). TN,University Heights,64,51,2,   ,0
+2014-12-13,Out of State,University Heights,64,51,2,   ,0
 2014-12-13,Oldham County,Kentucky Country Day,100,66,1,   ,0
 2014-12-13,Oneida Baptist Institute,Pineville,56,45,2,   ,0
 2014-12-13,Oneida Baptist Institute,Lynn Camp,80,73,0,   ,0
@@ -680,7 +680,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-13,Webster County,Carlisle County,65,27,2,   ,0
 2014-12-13,West Jessamine,North Oldham,89,71,1,   ,0
 2014-12-15,Beechwood,Bishop Brossart,62,54,1,   ,0
-2014-12-15,Bell County,Volunteer. TN,55,40,1,   ,0
+2014-12-15,Bell County,Out of State,55,40,1,   ,0
 2014-12-15,Berea,Washington County,56,55,0,   ,0
 2014-12-15,Boyd County,Rose Hill Christian,86,26,0,   ,0
 2014-12-15,Buckhorn,Lee County,97,50,1,   ,0
@@ -692,7 +692,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-15,Daviess County,Trinity (Whitesville),76,27,0,   ,0
 2014-12-15,Elizabethtown,LaRue County,72,52,0,   ,0
 2014-12-15,Fleming County,Menifee County,62,39,0,   ,0
-2014-12-15,Fulton County,Joppa-Maple Grove. IL,75,41,2,   ,0
+2014-12-15,Fulton County,Out of State,75,41,2,   ,0
 2014-12-15,Graves County,Hickman County,70,42,1,   ,0
 2014-12-15,Leslie County,Owsley County,75,36,1,   ,0
 2014-12-15,Ludlow,Villa Madonna,67,27,1,   ,0
@@ -747,7 +747,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-16,Holy Cross (Covington),Scott,66,54,1,   ,0
 2014-12-16,Holy Cross (Louisville),Brown,57,19,1,   ,0
 2014-12-16,Jeffersontown,Waggener,64,60,1,   ,0
-2014-12-16,John I Burton. VA,Jenkins,71,67,1,   ,0
+2014-12-16,Out of State,Jenkins,71,67,1,   ,0
 2014-12-16,Johnson Central,Shelby Valley,60,54,1,   ,0
 2014-12-16,Kentucky Country Day,Whitefield Academy,76,67,1,   ,0
 2014-12-16,Knott County Central,Hazard,65,46,1,   ,0
@@ -805,20 +805,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-17,Bellevue,Dayton,60,47,0,   ,0
 2014-12-17,Carroll County,Henry County,51,48,1,  (overtime) ,1
 2014-12-17,Covington Catholic,Campbell County,65,46,1,   ,0
-2014-12-17,Lexington Catholic,Saint Louis. HI,78,62,2,   ,0
+2014-12-17,Lexington Catholic,Out of State,78,62,2,   ,0
 2014-12-17,Male,Brown,76,28,0,   ,0
-2014-12-17,North Laurel,Cheyenne. NV,57,52,2,   ,0
+2014-12-17,North Laurel,Out of State,57,52,2,   ,0
 2014-12-17,North Oldham,Trimble County,88,53,1,   ,0
 2014-12-17,Rowan County,Menifee County,77,50,0,   ,0
 2014-12-17,Spencer County,South Oldham,61,58,1,   ,0
 2014-12-18,Berea,Lynn Camp,70,57,1,   ,0
 2014-12-18,Beth Haven,Bullitt Central,68,59,1,   ,0
-2014-12-18,Bishop O'Dowd. CA,Lexington Catholic,57,49,2,   ,0
+2014-12-18,Out of State,Lexington Catholic,57,49,2,   ,0
 2014-12-18,Bowling Green,Russellville,84,57,0,   ,0
 2014-12-18,Breathitt County,Magoffin County,73,63,1,   ,0
 2014-12-18,Caldwell County,Todd County Central,72,67,0,   ,0
 2014-12-18,Christian Academy-Louisville,Whitefield Academy,81,62,1,   ,0
-2014-12-18,Dawson Springs,Community Christian,47,39,2,   ,0
+2014-12-18,Dawson Springs,Community Christian (Paducah),47,39,2,   ,0
 2014-12-18,DeSales,Jeffersontown,61,45,0,   ,0
 2014-12-18,Grant County,Holy Cross (Covington),63,50,0,   ,0
 2014-12-18,Graves County,Ballard Memorial,66,50,1,  (corrected score) ,0
@@ -826,10 +826,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-18,Hancock County,Edmonson County,67,64,0,   ,0
 2014-12-18,Henderson County,Muhlenberg County,72,47,0,   ,0
 2014-12-18,Jackson City,Riverside Christian,80,41,1,   ,0
-2014-12-18,June Buchanan,Whitwell. TN,75,67,2,   ,0
-2014-12-18,Kentucky School f/t Deaf,St. Rita School for the Deaf,56,26,1,   ,0
+2014-12-18,June Buchanan,Out of State,75,67,2,   ,0
+2014-12-18,Kentucky School f/t Deaf,Out of State,56,26,1,   ,0
 2014-12-18,Knott County Central,Jenkins,85,57,0,   ,0
-2014-12-18,Knoxville Halls. TN,Shelby Valley,58,47,2,   ,0
+2014-12-18,Out of State,Shelby Valley,58,47,2,   ,0
 2014-12-18,Lexington Christian,Fleming County,72,46,2,   ,0
 2014-12-18,Logan County,Ohio County,65,56,0,   ,0
 2014-12-18,Madisonville-North Hopkins,Trigg County,66,51,0,   ,0
@@ -837,7 +837,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-18,North Oldham,Valley,62,48,0,   ,0
 2014-12-18,Oldham County,Central,67,61,1,   ,0
 2014-12-18,Paducah Tilghman,Hickman County,81,57,0,   ,0
-2014-12-18,Paintsville,Sullivan North. TN,69,33,2,   ,0
+2014-12-18,Paintsville,Out of State,69,33,2,   ,0
 2014-12-18,Paris,Frankfort,74,59,1,   ,0
 2014-12-18,Pendleton County,Ludlow,74,59,1,   ,0
 2014-12-18,Pleasure Ridge Park,Shawnee,94,62,1,   ,0
@@ -848,13 +848,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-18,Silver Grove,Heritage Academy,80,59,0,   ,0
 2014-12-18,Somerset,Cumberland County,88,36,1,   ,0
 2014-12-18,St. Xavier,Paul Laurence Dunbar,97,84,2,   ,0
-2014-12-18,Summit City. UT,North Laurel,57,54,2,   ,0
+2014-12-18,Out of State,North Laurel,57,54,2,   ,0
 2014-12-18,Tates Creek,Southern,73,60,2,   ,0
 2014-12-18,Taylor County,Green County,94,54,0,   ,0
-2014-12-18,Trinity (Louisville),Sierra Canyon. CA,70,59,2,   ,0
+2014-12-18,Trinity (Louisville),Out of State,70,59,2,   ,0
 2014-12-18,Webster County,St. Mary,56,47,0,   ,0
 2014-12-18,West Carter,Bath County,69,43,0,   ,0
-2014-12-18,West Creek. TN,Fort Campbell,56,39,1,   ,0
+2014-12-18,Out of State,Fort Campbell,56,39,1,   ,0
 2014-12-18,Williamsburg,Barbourville,79,51,0,   ,0
 2014-12-18,Woodford County,Garrard County,59,42,1,   ,0
 2014-12-19,Allen County-Scottsville,Franklin-Simpson,58,46,0,   ,0
@@ -864,32 +864,32 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-19,Bethlehem,Washington County,74,50,0,   ,0
 2014-12-19,Boone County,Cooper,59,39,1,   ,0
 2014-12-19,Bowling Green,McCracken County,62,46,0,   ,0
-2014-12-19,Boyle County,Goose Creek. SC,74,50,2,   ,0
+2014-12-19,Boyle County,Out of State,74,50,2,   ,0
 2014-12-19,Bracken County,Pendleton County,71,70,1,   ,0
 2014-12-19,Buckhorn,Hazard,61,47,1,   ,0
 2014-12-19,Campbell County,Harrison County,85,58,2,   ,0
 2014-12-19,Carlisle County,Mayfield,68,64,1,  (overtime) ,1
-2014-12-19,Casey County,Knoxville Halls. TN,66,63,2,   ,0
+2014-12-19,Casey County,Out of State,66,63,2,   ,0
 2014-12-19,Caverna,LaRue County,48,45,0,   ,0
 2014-12-19,Christian County,Russellville,73,52,0,   ,0
 2014-12-19,Clinton County,Metcalfe County,74,41,1,   ,0
 2014-12-19,Clinton County,Western,59,38,1,   ,0
 2014-12-19,Conner,Ryle,64,56,0,   ,0
-2014-12-19,Corbin,Ponitz Career Technology Center,71,64,2,   ,0
+2014-12-19,Corbin,Out of State,71,64,2,   ,0
 2014-12-19,Crittenden County,Livingston Central,59,41,0,   ,0
 2014-12-19,DuPont Manual,Lafayette,58,56,1,   ,0
 2014-12-19,East Ridge,Allen Central,77,52,2,   ,0
 2014-12-19,Eastern,Ashland Blazer,80,61,2,   ,0
-2014-12-19,Edgewater. FL,Jackson County,80,32,2,   ,0
+2014-12-19,Out of State,Jackson County,80,32,2,   ,0
 2014-12-19,Edmonson County,Thomas Nelson,56,53,1,   ,0
 2014-12-19,Eminence,St. Francis,76,55,0,   ,0
-2014-12-19,Fairview,St. Joseph Central (Ironton). OH,58,56,1,   ,0
+2014-12-19,Fairview,Out of State,58,56,1,   ,0
 2014-12-19,Fern Creek,Atherton,73,49,0,   ,0
 2014-12-19,George Rogers Clark,Johnson Central,79,64,2,   ,0
 2014-12-19,Hickman County,Fort Campbell,64,61,2,  OT ,0
 2014-12-19,Holy Cross (Louisville),North Bullitt,44,41,0,   ,0
 2014-12-19,Jackson City,Owsley County,69,58,0,   ,0
-2014-12-19,Joppa-Maple Grove. IL,Christian Fellowship,69,39,0,   ,0
+2014-12-19,Out of State,Christian Fellowship,69,39,0,   ,0
 2014-12-19,June Buchanan,Paintsville,50,47,2,   ,0
 2014-12-19,Kentucky Country Day,Sayre,60,48,1,   ,0
 2014-12-19,Knox Central,Powell County,89,83,1,   ,0
@@ -902,13 +902,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-19,McLean County,Lyon County,58,50,0,   ,0
 2014-12-19,Meade County,Letcher County Central,43,40,2,   ,0
 2014-12-19,Mercer County,West Jessamine,67,49,0,   ,0
-2014-12-19,Miller Grove. GA,Lexington Catholic,69,63,2,  Overtime  ,0
+2014-12-19,Out of State,Lexington Catholic,69,63,2,  Overtime  ,1
 2014-12-19,Model,Williamstown,82,46,2,   ,0
 2014-12-19,Monroe County,Glasgow,72,36,0,   ,0
 2014-12-19,Montgomery County,Dixie Heights,43,31,2,   ,0
 2014-12-19,Nicholas County,Robertson County,58,48,0,   ,0
 2014-12-19,North Hardin,John Hardin,57,44,0,   ,0
-2014-12-19,North Laurel,Eastlake. CA,76,68,2,   ,0
+2014-12-19,North Laurel,Out of State,76,68,2,   ,0
 2014-12-19,Owen County,Henry County,71,54,0,   ,0
 2014-12-19,Owensboro,Bardstown,71,43,2,   ,0
 2014-12-19,Perry County Central,Elliott County,78,55,2,   ,0
@@ -916,55 +916,55 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-19,Pike County Central,Bell County,58,41,2,   ,0
 2014-12-19,Prestonsburg,Lee County,82,53,1,   ,0
 2014-12-19,Rockcastle County,Adair County,60,46,1,   ,0
-2014-12-19,Rossview. TN,Todd County Central,50,47,1,   ,0
+2014-12-19,Out of State,Todd County Central,50,47,1,   ,0
 2014-12-19,Rowan County,Lewis County,85,50,1,   ,0
 2014-12-19,Scott County,Lawrence County,94,80,1,   ,0
-2014-12-19,Shelby Valley,Signal Mountain. TN,70,47,2,   ,0
+2014-12-19,Shelby Valley,Out of State,70,47,2,   ,0
 2014-12-19,Simon Kenton,Male,70,67,2,   ,0
 2014-12-19,South Warren,Greenwood,66,62,0,   ,0
 2014-12-19,St. Henry,Bullitt Central,58,44,2,   ,0
-2014-12-19,St. John's College. DC,Ballard,69,61,2,  OT ,0
+2014-12-19,Out of State,Ballard,69,61,2,  OT ,0
 2014-12-19,St. Mary,Fulton City,51,31,1,   ,0
 2014-12-19,Taylor County,Waggener,84,74,2,   ,0
-2014-12-19,Trinity (Whitesville),Community Christian,73,41,2,   ,0
+2014-12-19,Trinity (Whitesville),Community Christian (Paducah),73,41,2,   ,0
 2014-12-19,Walden,Evangel Christian,85,69,2,   ,0
 2014-12-19,Wayne County,Fairdale,73,62,0,   ,0
 2014-12-19,West Carter,Wolfe County,78,70,2,   ,0
-2014-12-19,Whitley County,IDEA. D.C.,55,48,2,   ,0
+2014-12-19,Whitley County,Out of State,55,48,2,   ,0
 2014-12-20,Adair County,Cumberland County,70,51,1,   ,0
 2014-12-20,Allen Central,Lee County,85,74,2,   ,0
 2014-12-20,Augusta,Scott,76,72,2,   ,0
 2014-12-20,Barbourville,Danville,61,54,2,   ,0
-2014-12-20,Bell County,Union County,72,62,2,  overtime ,0
+2014-12-20,Bell County,Union County,72,62,2,  overtime ,1
 2014-12-20,Beth Haven,Calvary Christian,76,44,1,   ,0
 2014-12-20,Bethlehem,Butler County,66,49,2,   ,0
 2014-12-20,Betsy Layne,East Carter,69,61,2,   ,0
 2014-12-20,Bishop Brossart,Highlands,59,50,1,   ,0
-2014-12-20,Boone County,Indian Hill (Cincinnati). OH,72,54,1,   ,0
+2014-12-20,Boone County,Out of State,72,54,1,   ,0
 2014-12-20,Bourbon County,Anderson County,74,69,2,   ,0
 2014-12-20,Boyd County,Pikeville,65,47,2,   ,0
 2014-12-20,Boyle County,Corbin,70,68,2,   ,0
-2014-12-20,Breckinridge County,Portland. TN,78,68,1,   ,0
+2014-12-20,Breckinridge County,Out of State,78,68,1,   ,0
 2014-12-20,Buckhorn,Lewis County,64,52,2,   ,0
 2014-12-20,Bullitt Central,Williamstown,79,58,2,   ,0
 2014-12-20,Bullitt East,Holmes,67,65,2,   ,0
 2014-12-20,Calloway County,Todd County Central,77,50,0,   ,0
 2014-12-20,Campbellsville,Barren County,46,37,2,   ,0
 2014-12-20,Carlisle County,Livingston Central,78,62,0,   ,0
-2014-12-20,Casey County,Signal Mountain. TN,60,45,2,   ,0
+2014-12-20,Casey County,Out of State,60,45,2,   ,0
 2014-12-20,Caverna,Hancock County,44,42,2,   ,0
 2014-12-20,Central,Paul Laurence Dunbar,63,55,2,   ,0
-2014-12-20,Cherokee. TN,June Buchanan,60,52,2,   ,0
-2014-12-20,Christ Presbyterian Academy. TN,Hopkinsville,75,63,2,   ,0
+2014-12-20,Out of State,June Buchanan,60,52,2,   ,0
+2014-12-20,Out of State,Hopkinsville,75,63,2,   ,0
 2014-12-20,Christian Fellowship,Community Christian (Paducah),52,42,1,   ,0
 2014-12-20,Clay County,Nelson County,81,48,2,   ,0
 2014-12-20,Cordia,Webster County,56,46,0,   ,0
-2014-12-20,Dawson Springs,Joppa-Maple Grove. IL,65,61,2,   ,0
+2014-12-20,Dawson Springs,Out of State,65,61,2,   ,0
 2014-12-20,DeSales,Mercer County,59,47,2,   ,0
 2014-12-20,Dixie Heights,Johnson Central,61,51,2,   ,0
 2014-12-20,Doss,Newport Central Catholic,66,63,2,   ,0
 2014-12-20,DuPont Manual,Scott County,77,63,0,   ,0
-2014-12-20,East Hamilton. TN,Shelby Valley,72,60,2,   ,0
+2014-12-20,Out of State,Shelby Valley,72,60,2,   ,0
 2014-12-20,Eastern,Simon Kenton,58,51,2,   ,0
 2014-12-20,Elliott County,Metcalfe County,77,56,2,   ,0
 2014-12-20,Estill County,Nicholas County,47,46,2,   ,0
@@ -974,7 +974,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-20,Fleming County,Garrard County,74,59,2,   ,0
 2014-12-20,Fort Campbell,Lyon County,56,50,0,   ,0
 2014-12-20,Frankfort,Southern,58,55,2,   ,0
-2014-12-20,Fulton County,Trinity,71,69,2,   ,0
+2014-12-20,Fulton County,Trinity (Whitesville),71,69,2,   ,0
 2014-12-20,Gallatin County,Carroll County,60,39,0,   ,0
 2014-12-20,Grayson County,John Hardin,54,51,2,   ,0
 2014-12-20,Green County,Thomas Nelson,73,46,1,   ,0
@@ -983,20 +983,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-20,Harlan County,South Laurel,48,45,2,   ,0
 2014-12-20,Holy Cross (Louisville),Breathitt County,60,49,2,   ,0
 2014-12-20,Holy Cross (Louisville),Belfry,55,52,2,   ,0
-2014-12-20,IDEA. D.C.,Powell County,67,53,2,   ,0
+2014-12-20,Out of State,Powell County,67,53,2,   ,0
 2014-12-20,Jackson City,Burgin,68,43,1,   ,0
-2014-12-20,Jackson County,SLAM Academy. FL,57,50,2,   ,0
+2014-12-20,Jackson County,Out of State,57,50,2,   ,0
 2014-12-20,Johnson Central,Montgomery County,59,57,1,   ,0
 2014-12-20,Knott County Central,Covington Catholic,78,66,2,   ,0
 2014-12-20,Lafayette,Lawrence County,97,79,1,   ,0
 2014-12-20,Letcher County Central,Leslie County,57,46,0,   ,0
 2014-12-20,Letcher County Central,Red Bird,70,31,2,   ,0
-2014-12-20,Lexington Catholic,Second Baptist. TX,89,64,2,   ,0
+2014-12-20,Lexington Catholic,Out of State,89,64,2,   ,0
 2014-12-20,Lexington Christian,Woodford County,63,50,0,   ,0
 2014-12-20,Lincoln County,Madison Southern,66,52,2,   ,0
 2014-12-20,Ludlow,Beechwood,54,50,0,   ,0
-2014-12-20,Lynwood. CA,North Laurel,68,59,2,   ,0
-2014-12-20,Lyon County,Hickman County,47,37,1,  Overtime ,0
+2014-12-20,Out of State,North Laurel,68,59,2,   ,0
+2014-12-20,Lyon County,Hickman County,47,37,1,  Overtime ,1
 2014-12-20,Magoffin County,Piarist School,87,49,2,   ,0
 2014-12-20,Male,Ashland Blazer,74,28,2,   ,0
 2014-12-20,Mason County,Ryle,64,37,1,   ,0
@@ -1011,34 +1011,34 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-20,North Oldham,Franklin County,64,62,0,   ,0
 2014-12-20,Ohio County,Hopkins County Central,75,62,2,   ,0
 2014-12-20,Oldham County,St. Xavier,60,48,1,   ,0
-2014-12-20,Paintsville,Van Buren County. TN,79,77,2,   ,0
+2014-12-20,Paintsville,Out of State,79,77,2,   ,0
 2014-12-20,Perry County Central,Western,72,52,2,   ,0
 2014-12-20,Perry County Central,Clinton County,78,67,0,   ,0
 2014-12-20,Pike County Central,Magoffin County,82,69,2,   ,0
 2014-12-20,Pleasure Ridge Park,Bryan Station,86,82,2,   ,0
-2014-12-20,Portland Christian,Walden,95,90,1,  (double overtime) ,0
+2014-12-20,Portland Christian,Walden,95,90,1,  (double overtime) ,1
 2014-12-20,Prestonsburg,East Ridge,49,40,1,   ,0
 2014-12-20,Raceland,South Floyd,67,45,1,   ,0
 2014-12-20,Rowan County,Wolfe County,79,49,1,   ,0
 2014-12-20,Russell,Henry County,60,59,2,   ,0
 2014-12-20,Seneca,Kentucky Country Day,74,47,1,   ,0
 2014-12-20,Shelby County,Christian Academy-Louisville,63,54,2,   ,0
-2014-12-20,Sheldon Clark,Tug Valley. WV,55,50,0,   ,0
+2014-12-20,Sheldon Clark,Out of State,55,50,0,   ,0
 2014-12-20,Silver Grove,Dayton,69,66,1,   ,0
 2014-12-20,Somerset,Walton-Verona,52,45,2,   ,0
-2014-12-20,South Warren,Franklin County. TN,54,52,2,   ,0
+2014-12-20,South Warren,Out of State,54,52,2,   ,0
 2014-12-20,Southwestern,Pulaski County,78,52,2,  (corrected score) ,0
 2014-12-20,Spencer County,Jeffersontown,52,41,1,   ,0
 2014-12-20,St. Henry,Model,70,38,2,   ,0
 2014-12-20,Tates Creek,Paris,65,52,0,   ,0
 2014-12-20,Trimble County,Bath County,72,57,2,   ,0
-2014-12-20,Trinity (Louisville),Oak Ridge. FL,62,57,2,   ,0
+2014-12-20,Trinity (Louisville),Out of State,62,57,2,   ,0
 2014-12-20,West Jessamine,Breathitt County,96,83,2,   ,0
 2014-12-20,Western,Elliott County,65,61,2,   ,0
 2014-12-20,Whitley County,Knox Central,71,61,0,   ,0
 2014-12-21,Anderson County,Garrard County,72,38,2,   ,0
 2014-12-21,Ballard,Holmes,92,80,2,   ,0
-2014-12-21,Barbourville,Greenup County,60,54,2,  Overtime ,0
+2014-12-21,Barbourville,Greenup County,60,54,2,  Overtime ,1
 2014-12-21,Bell County,Allen Central,63,42,2,   ,0
 2014-12-21,Bourbon County,Fleming County,79,75,2,  OT ,0
 2014-12-21,Bowling Green,University Heights,77,42,2,   ,0
@@ -1047,7 +1047,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-21,Breckinridge County,Moore,72,64,1,   ,0
 2014-12-21,Bryan Station,Valley,62,22,2,   ,0
 2014-12-21,Butler,Kentucky Country Day,65,55,2,   ,0
-2014-12-21,Casey County,Huntsville. AL,65,55,2,   ,0
+2014-12-21,Casey County,Out of State,65,55,2,   ,0
 2014-12-21,Central,Male,67,62,2,  (overtime) ,1
 2014-12-21,Clay County,Hopkins County Central,68,53,2,   ,0
 2014-12-21,Clinton County,Elliott County,67,51,1,   ,0
@@ -1060,10 +1060,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-21,Grayson County,Caverna,61,60,2,   ,0
 2014-12-21,Hancock County,John Hardin,62,59,2,   ,0
 2014-12-21,Henderson County,Warren Central,56,34,2,   ,0
-2014-12-21,Henry Clay,Brookland-Cayce. SC,50,29,2,   ,0
-2014-12-21,Henry Clay,Grainger. TN,52,33,2,   ,0
+2014-12-21,Henry Clay,Out of State,50,29,2,   ,0
+2014-12-21,Henry Clay,Out of State,52,33,2,   ,0
 2014-12-21,Henry County,South Floyd,78,75,2,  (overtime) ,1
-2014-12-21,Hopkinsville,Chicago De La Salle,82,76,2,   ,0
+2014-12-21,Hopkinsville,Out of State,82,76,2,   ,0
 2014-12-21,Knox Central,Corbin,70,67,1,   ,0
 2014-12-21,Lee County,Piarist School,84,55,2,   ,0
 2014-12-21,Lexington Christian,Lincoln County,72,58,2,   ,0
@@ -1077,7 +1077,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-21,Pike County Central,Prestonsburg,65,49,0,   ,0
 2014-12-21,Pikeville,East Carter,57,51,2,   ,0
 2014-12-21,Pleasure Ridge Park,Fern Creek,77,69,2,   ,0
-2014-12-21,Ponitz Career Technology Center (Dayton),Powell County,72,54,2,   ,0
+2014-12-21,Out of State,Powell County,72,54,2,   ,0
 2014-12-21,Pulaski County,Harlan County,70,65,2,  (overtime) ,1
 2014-12-21,Raceland,Russell,69,46,1,   ,0
 2014-12-21,Russellville,Owensboro Catholic,57,52,2,  (corrected score) ,0
@@ -1085,7 +1085,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-21,Simon Kenton,St. Xavier,61,56,2,   ,0
 2014-12-21,Southern,Williamstown,84,40,2,   ,0
 2014-12-21,Southwestern,South Laurel,67,59,2,   ,0
-2014-12-21,St. John's College. DC,Bullitt East,62,48,2,   ,0
+2014-12-21,Out of State,Bullitt East,62,48,2,   ,0
 2014-12-21,Tates Creek,St. Henry,60,55,2,   ,0
 2014-12-21,Taylor County,Wayne County,72,68,2,   ,0
 2014-12-21,Union County,Lee County,82,46,2,   ,0
@@ -1107,11 +1107,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-22,Boyd County,Raceland,78,52,0,  (championship) ,0
 2014-12-22,Bracken County,Dayton,69,53,2,   ,0
 2014-12-22,Bryan Station,Butler,60,40,2,   ,0
-2014-12-22,Bullitt East,South Shore,55,51,2,   ,0
+2014-12-22,Bullitt East,Out of State,55,51,2,   ,0
 2014-12-22,Caldwell County,Fulton City,52,42,1,   ,0
 2014-12-22,Calloway County,Muhlenberg County,51,48,2,   ,0
 2014-12-22,Campbellsville,Green County,51,47,0,   ,0
-2014-12-22,Carroll County,John McGregor. Chatham Ontario Canada,54,50,2,   ,0
+2014-12-22,Carroll County,Out of State,54,50,2,   ,0
 2014-12-22,Clay County,Ohio County,82,62,2,   ,0
 2014-12-22,Collins,Central Hardin,63,41,2,   ,0
 2014-12-22,Cordia,Hopkins County Central,56,44,2,   ,0
@@ -1123,16 +1123,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-22,Grant County,Lloyd Memorial,69,50,1,   ,0
 2014-12-22,Graves County,Franklin-Simpson,70,42,1,   ,0
 2014-12-22,Grayson County,Breckinridge County,52,36,0,   ,0
-2014-12-22,Hancock County,Portland. TN,41,40,2,   ,0
+2014-12-22,Hancock County,Out of State,41,40,2,   ,0
 2014-12-22,Harrison County,Newport,61,60,2,   ,0
 2014-12-22,Hazard,Owsley County,47,39,0,   ,0
 2014-12-22,Henderson County,McLean County,71,41,2,   ,0
-2014-12-22,Henry Clay,Greenville. SC,34,27,2,   ,0
+2014-12-22,Henry Clay,Out of State,34,27,2,   ,0
 2014-12-22,Henry County,Pikeville,55,54,2,   ,0
-2014-12-22,Holmes,Chicago De La Salle,73,70,2,  (double overtime) ,0
+2014-12-22,Holmes,Out of State,73,70,2,  (double overtime) ,1
 2014-12-22,Holy Cross (Covington),Bishop Brossart,53,50,1,   ,0
 2014-12-22,Holy Cross (Louisville),St. Mary,52,44,2,   ,0
-2014-12-22,Jackson County,Lake Mary Prep. FL,62,54,2,   ,0
+2014-12-22,Jackson County,Out of State,62,54,2,   ,0
 2014-12-22,John Hardin,Cloverport,70,52,2,   ,0
 2014-12-22,Kentucky Country Day,Valley,92,61,2,   ,0
 2014-12-22,LaRue County,Livingston Central,77,44,2,   ,0
@@ -1148,14 +1148,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-22,Menifee County,Bellevue,62,50,0,   ,0
 2014-12-22,Mercer County,Christian Academy-Louisville,64,49,2,   ,0
 2014-12-22,Monroe County,Warren Central,62,53,2,   ,0
-2014-12-22,Montverde Academy. FL,Trinity,52,42,2,   ,0
+2014-12-22,Out of State,Trinity (Louisville),52,42,2,   ,0
 2014-12-22,Moore,Caverna,77,68,2,   ,0
 2014-12-22,Murray,Owensboro Catholic,55,53,2,   ,0
 2014-12-22,Newport Central Catholic,Waggener,64,48,2,   ,0
 2014-12-22,North Bullitt,Spencer County,61,55,0,   ,0
 2014-12-22,North Hardin,Fern Creek,67,60,2,   ,0
 2014-12-22,North Oldham,Edmonson County,73,65,2,   ,0
-2014-12-22,Oakland. TN,South Warren,74,61,2,   ,0
+2014-12-22,Out of State,South Warren,74,61,2,   ,0
 2014-12-22,Owen County,Eminence,88,63,0,   ,0
 2014-12-22,Owensboro Catholic,University Heights,65,49,2,   ,0
 2014-12-22,Paducah Tilghman,Fulton County,73,46,1,  (corrected score) ,0
@@ -1188,21 +1188,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-23,Berea,Dayton,65,31,2,   ,0
 2014-12-23,Bowling Green,Daviess County,69,66,2,  (championship) ,0
 2014-12-23,Bracken County,Villa Madonna,71,38,2,   ,0
-2014-12-23,Bullitt East,Wayne County,68,67,2,  overtime  ,0
+2014-12-23,Bullitt East,Wayne County,68,67,2,  overtime  ,1
 2014-12-23,Caldwell County,Whitefield Academy,73,62,1,   ,0
 2014-12-23,Calloway County,Franklin-Simpson,67,32,2,   ,0
 2014-12-23,Calloway County,Collins,55,41,2,   ,0
 2014-12-23,Campbell County,Augusta,76,62,2,  (corrected score) ,0
 2014-12-23,Carroll County,Bracken County,56,54,2,   ,0
 2014-12-23,Carroll County,Menifee County,71,45,2,  (championship) ,0
-2014-12-23,Central (Wise). VA,Jenkins,58,52,0,   ,0
+2014-12-23,Out of State,Jenkins,58,52,0,   ,0
 2014-12-23,Christian Academy-Louisville,Jeffersontown,65,63,2,   ,0
 2014-12-23,Christian County,Madisonville-North Hopkins,73,57,2,   ,0
 2014-12-23,Christian County,McCracken County,79,75,0,   ,0
 2014-12-23,Collins,Graves County,49,41,0,   ,0
 2014-12-23,Danville,Pulaski County,61,42,2,   ,0
 2014-12-23,DeSales,Spencer County,59,40,0,   ,0
-2014-12-23,Doss,Christ Presbyterian Academy. TN,80,71,2,   ,0
+2014-12-23,Doss,Out of State,80,71,2,   ,0
 2014-12-23,Estill County,Wolfe County,63,57,0,   ,0
 2014-12-23,Franklin-Simpson,Central Hardin,49,45,2,   ,0
 2014-12-23,Fulton County,Trigg County,61,55,2,   ,0
@@ -1211,8 +1211,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-23,Hazard,Leslie County,76,43,0,   ,0
 2014-12-23,Henderson County,Murray,79,52,2,   ,0
 2014-12-23,Holy Cross (Louisville),LaRue County,65,58,2,  (championship) ,0
-2014-12-23,John McGregor. Chatham Ontario Canada,Bellevue,43,36,0,   ,0
-2014-12-23,John McGregor. Chatham Ontario Canada,Dayton,50,22,2,   ,0
+2014-12-23,Out of State,Bellevue,43,36,0,   ,0
+2014-12-23,Out of State,Dayton,50,22,2,   ,0
 2014-12-23,Mason County,Madison Central,56,49,1,  (championship) ,0
 2014-12-23,Menifee County,Villa Madonna,70,54,2,   ,0
 2014-12-23,Mercer County,South Oldham,73,50,2,   ,0
@@ -1222,20 +1222,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-23,Paducah Tilghman,Marshall County,74,38,1,   ,0
 2014-12-23,Paris,St. Patrick,54,44,1,   ,0
 2014-12-23,Pineville,Harlan,71,47,1,   ,0
-2014-12-23,Rossview. TN,Logan County,57,56,1,   ,0
+2014-12-23,Out of State,Logan County,57,56,1,   ,0
 2014-12-23,Ryle,Newport,61,57,2,   ,0
 2014-12-23,Scott,Harrison County,70,59,2,   ,0
 2014-12-23,Sheldon Clark,Paintsville,80,58,1,   ,0
 2014-12-23,South Laurel,McCreary Central,82,65,0,   ,0
-2014-12-23,South Warren,Ravenwood. TN,64,57,2,   ,0
+2014-12-23,South Warren,Out of State,64,57,2,   ,0
 2014-12-23,Southwestern,Barbourville,72,60,2,  (corrected score) ,0
-2014-12-23,St. John's College. DC,Taylor County,59,56,2,   ,0
+2014-12-23,Out of State,Taylor County,59,56,2,   ,0
 2014-12-23,St. Mary,Livingston Central,57,29,2,   ,0
 2014-12-23,St. Xavier,Brown,75,20,1,   ,0
 2014-12-23,Walton-Verona,Highlands,42,34,1,   ,0
 2014-12-23,Warren East,Edmonson County,74,73,1,   ,0
 2014-12-23,Warren East,North Oldham,71,64,1,   ,0
-2014-12-23,Wesleyan Christian Academy. NC,Trinity,51,47,2,   ,0
+2014-12-23,Out of State,Trinity (Louisville),51,47,2,   ,0
 2014-12-23,Williamsburg,Rockcastle County,60,54,2,   ,0
 2014-12-26,Anderson County,Beechwood,52,36,1,   ,0
 2014-12-26,Atherton,Prestonsburg,73,36,2,   ,0
@@ -1244,134 +1244,134 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-26,Bourbon County,Todd County Central,65,52,2,   ,0
 2014-12-26,Boyle County,Bryan Station,59,54,2,   ,0
 2014-12-26,Brown,Heritage Academy,68,34,2,   ,0
-2014-12-26,Cairo. GA,Fairdale,53,44,2,   ,0
-2014-12-26,Casey County,Campbell. NH,62,37,2,   ,0
+2014-12-26,Out of State,Fairdale,53,44,2,   ,0
+2014-12-26,Casey County,Out of State,62,37,2,   ,0
 2014-12-26,Central,Simon Kenton,64,61,2,   ,0
 2014-12-26,Central Hardin,Adair County,58,53,2,   ,0
-2014-12-26,Cordia,Maple Heights. OH,53,38,2,   ,0
+2014-12-26,Cordia,Out of State,53,38,2,   ,0
 2014-12-26,Elizabethtown,Marion County,64,46,2,   ,0
-2014-12-26,Fairfield. IL,Union County,55,43,2,   ,0
+2014-12-26,Out of State,Union County,55,43,2,   ,0
 2014-12-26,Gallatin County,Danville,59,57,2,   ,0
 2014-12-26,Grayson County,Campbellsville,66,62,0,   ,0
-2014-12-26,Green County,South Milwaukee. WI,47,45,2,   ,0
-2014-12-26,Hurricane. WV,Madison Central,74,67,2,   ,0
+2014-12-26,Green County,Out of State,47,45,2,   ,0
+2014-12-26,Out of State,Madison Central,74,67,2,   ,0
 2014-12-26,Kentucky Country Day,Southern,83,70,1,   ,0
 2014-12-26,Lexington Catholic,Betsy Layne,90,57,1,   ,0
-2014-12-26,North Cobb Christian School. GA,Pleasure Ridge Park,54,46,2,   ,0
+2014-12-26,Out of State,Pleasure Ridge Park,54,46,2,   ,0
 2014-12-26,North Oldham,Highlands,55,52,2,   ,0
-2014-12-26,Oldham County,Aiken. OH,65,60,2,   ,0
-2014-12-26,Owensboro,Galatia. IL,94,34,2,   ,0
+2014-12-26,Oldham County,Out of State,65,60,2,   ,0
+2014-12-26,Owensboro,Out of State,94,34,2,   ,0
 2014-12-26,Perry County Central,Male,61,55,2,   ,0
 2014-12-26,Portland Christian,Heritage Academy,71,45,2,   ,0
-2014-12-26,Raceland,Dawson Bryant,44,43,2,   ,0
+2014-12-26,Raceland,Out of State,44,43,2,   ,0
 2014-12-26,South Oldham,Washington County,70,39,1,   ,0
-2014-12-26,St. Mary,Madison. IL,52,42,2,   ,0
+2014-12-26,St. Mary,Out of State,52,42,2,   ,0
 2014-12-27,Adair County,Campbellsville,46,41,0,   ,0
-2014-12-27,Aiken. OH,Simon Kenton,71,61,2,   ,0
-2014-12-27,Alexander. OH,Russell,55,36,0,   ,0
+2014-12-27,Out of State,Simon Kenton,71,61,2,   ,0
+2014-12-27,Out of State,Russell,55,36,0,   ,0
 2014-12-27,Apollo,Perry County Central,68,63,2,   ,0
-2014-12-27,Atlantic. FL,Spencer County,59,39,2,   ,0
+2014-12-27,Out of State,Spencer County,59,39,2,   ,0
 2014-12-27,Beth Haven,Heritage Academy,62,39,1,   ,0
-2014-12-27,Betsy Layne,Campbell. NH,72,70,2,   ,0
+2014-12-27,Betsy Layne,Out of State,72,70,2,   ,0
 2014-12-27,Boone County,Augusta,74,40,2,   ,0
 2014-12-27,Boyle County,Covington Catholic,69,58,2,   ,0
 2014-12-27,Bryan Station,Male,48,43,2,   ,0
 2014-12-27,Casey County,North Laurel,74,60,2,   ,0
-2014-12-27,Chaparral. NV,Hazard,66,44,2,   ,0
+2014-12-27,Out of State,Hazard,66,44,2,   ,0
 2014-12-27,Clay County,Jackson City,80,64,2,   ,0
 2014-12-27,Conner,Bracken County,88,76,2,   ,0
-2014-12-27,Corbin,Easley. SC,76,64,1,   ,0
-2014-12-27,Cordia,St. Joseph Central,61,48,2,   ,0
-2014-12-27,Crenshaw. CA,Hazard,56,43,2,   ,0
+2014-12-27,Corbin,Out of State,76,64,1,   ,0
+2014-12-27,Cordia,Out of State,61,48,2,   ,0
+2014-12-27,Out of State,Hazard,56,43,2,   ,0
 2014-12-27,Dixie Heights,East Carter,47,38,2,   ,0
 2014-12-27,DuPont Manual,Central,75,36,2,   ,0
-2014-12-27,East Ridge,Cass. GA,61,53,2,   ,0
+2014-12-27,East Ridge,Out of State,61,53,2,   ,0
 2014-12-27,Elizabethtown,Green County,89,65,2,   ,0
 2014-12-27,Fairview,St. Patrick,52,45,1,  OT ,0
 2014-12-27,Fleming County,Garrard County,60,48,2,   ,0
 2014-12-27,George Rogers Clark,Owen County,57,47,2,   ,0
-2014-12-27,Graves County,South Fulton. TN,58,56,2,   ,0
+2014-12-27,Graves County,Out of State,58,56,2,   ,0
 2014-12-27,Grayson County,Central Hardin,38,37,2,   ,0
 2014-12-27,Harlan County,Pendleton County,63,55,2,   ,0
-2014-12-27,Harrison County,Worthington Kilbourne,52,50,2,   ,0
+2014-12-27,Harrison County,Out of State,52,50,2,   ,0
 2014-12-27,Henderson County,Henry Clay,64,56,2,   ,0
 2014-12-27,Highlands,Danville,41,40,2,   ,0
 2014-12-27,Holmes,Louisville Collegiate,79,34,2,   ,0
 2014-12-27,Holy Cross (Covington),Ashland Blazer,65,59,0,  OT ,0
-2014-12-27,Holy Innocents Episcopal. GA,Buckhorn,60,41,2,   ,0
-2014-12-27,Hopkinsville,Pope John Paul II. TN,72,70,2,   ,0
+2014-12-27,Out of State,Buckhorn,60,41,2,   ,0
+2014-12-27,Hopkinsville,Out of State,72,70,2,   ,0
 2014-12-27,Kentucky Country Day,Prestonsburg,79,68,1,   ,0
-2014-12-27,Knott County Central,North Little Rock. AR,70,53,2,   ,0
+2014-12-27,Knott County Central,Out of State,70,53,2,   ,0
 2014-12-27,Knox Central,Butler,76,72,2,   ,0
 2014-12-27,Lawrence County,Lee County,102,57,2,   ,0
 2014-12-27,Lexington Christian,Bullitt East,69,56,2,   ,0
 2014-12-27,Lincoln County,Lafayette,61,55,2,   ,0
-2014-12-27,Madison Central,Barberton. OH,62,50,2,   ,0
+2014-12-27,Madison Central,Out of State,62,50,2,   ,0
 2014-12-27,Magoffin County,Belfry,74,63,0,   ,0
-2014-12-27,Marion County,South Milwaukee. WI,50,48,2,   ,0
+2014-12-27,Marion County,Out of State,50,48,2,   ,0
 2014-12-27,Mason County,Clinton County,79,57,2,   ,0
 2014-12-27,Menifee County,Rose Hill Christian,82,37,0,   ,0
 2014-12-27,Mercer County,Estill County,79,49,2,   ,0
 2014-12-27,Montgomery County,Madisonville-North Hopkins,64,49,1,   ,0
-2014-12-27,N.C.-Omaha-Enfield. IL,Union County,66,63,2,   ,0
-2014-12-27,New Madrid County Central. MO,St. Mary,46,40,2,   ,0
+2014-12-27,Out of State,Union County,66,63,2,   ,0
+2014-12-27,Out of State,St. Mary,46,40,2,   ,0
 2014-12-27,Newport,Iroquois,64,47,2,   ,0
-2014-12-27,North Hardin,Collinwood. OH,74,39,2,   ,0
+2014-12-27,North Hardin,Out of State,74,39,2,   ,0
 2014-12-27,North Oldham,Gallatin County,67,56,2,   ,0
-2014-12-27,Owensboro,Eldorado. IL,93,42,0,   ,0
+2014-12-27,Owensboro,Out of State,93,42,0,   ,0
 2014-12-27,Owensboro Catholic,Breckinridge County,54,51,1,   ,0
-2014-12-27,Paducah Tilghman,Navarre. FL,53,36,2,   ,0
+2014-12-27,Paducah Tilghman,Out of State,53,36,2,   ,0
 2014-12-27,Paintsville,Shelby Valley,70,63,2,   ,0
 2014-12-27,Paul Laurence Dunbar,Boyd County,59,49,2,   ,0
 2014-12-27,Pike County Central,South Floyd,69,57,2,   ,0
 2014-12-27,Pikeville,Phelps,78,63,1,   ,0
-2014-12-27,Pope John XXIII. NJ,Taylor County,80,57,2,   ,0
+2014-12-27,Out of State,Taylor County,80,57,2,   ,0
 2014-12-27,Portland Christian,Brown,79,65,2,   ,0
 2014-12-27,Pulaski County,Valley,85,53,2,   ,0
-2014-12-27,Raceland,Teays Valley. OH,64,52,2,   ,0
+2014-12-27,Raceland,Out of State,64,52,2,   ,0
 2014-12-27,Rockcastle County,Jackson County,79,73,2,   ,0
 2014-12-27,Rowan County,Muhlenberg County,54,46,2,   ,0
-2014-12-27,Russell County,University School. TN,59,57,2,   ,0
+2014-12-27,Russell County,Out of State,59,57,2,   ,0
 2014-12-27,Scott,Model,78,34,2,   ,0
-2014-12-27,Shadow Mountain. AZ,Scott County,67,47,2,   ,0
+2014-12-27,Out of State,Scott County,67,47,2,   ,0
 2014-12-27,Sheldon Clark,June Buchanan,82,71,2,   ,0
 2014-12-27,Somerset,Trinity (Whitesville),90,49,1,   ,0
 2014-12-27,South Oldham,Bourbon County,85,76,1,   ,0
 2014-12-27,Southern,Atherton,63,61,2,   ,0
 2014-12-27,Southwestern,Shawnee,79,46,1,   ,0
 2014-12-27,St. Henry,Ludlow,67,46,0,   ,0
-2014-12-27,St. Xavier,Lely. FL,64,58,2,   ,0
-2014-12-27,Stewart Creek. TN,Lloyd Memorial,68,38,0,   ,0
+2014-12-27,St. Xavier,Out of State,64,58,2,   ,0
+2014-12-27,Out of State,Lloyd Memorial,68,38,0,   ,0
 2014-12-27,Tates Creek,Whitley County,46,44,2,   ,0
-2014-12-27,Thornton Fractional North. IL,East Jessamine,66,45,2,   ,0
+2014-12-27,Out of State,East Jessamine,66,45,2,   ,0
 2014-12-27,Todd County Central,Washington County,57,54,2,   ,0
 2014-12-27,Trinity (Louisville),Oldham County,58,38,2,   ,0
-2014-12-27,Tyner Academy. TN,Franklin-Simpson,59,40,2,   ,0
-2014-12-27,Waggener,Sheridan Hills Christian. FL,82,41,2,   ,0
-2014-12-27,Walton. GA,Fairdale,55,49,2,   ,0
+2014-12-27,Out of State,Franklin-Simpson,59,40,2,   ,0
+2014-12-27,Waggener,Out of State,82,41,2,   ,0
+2014-12-27,Out of State,Fairdale,55,49,2,   ,0
 2014-12-27,Walton-Verona,Woodford County,49,40,2,   ,0
 2014-12-27,Warren Central,Johnson Central,70,62,2,   ,0
 2014-12-27,West Jessamine,Lewis County,48,35,2,   ,0
 2014-12-27,Western Hills,Beechwood,62,59,1,   ,0
-2014-12-28,Aiken. OH,North Laurel,85,55,2,   ,0
+2014-12-28,Out of State,North Laurel,85,55,2,   ,0
 2014-12-28,Atherton,Kentucky Country Day,67,56,0,   ,0
 2014-12-28,Bourbon County,Gallatin County,60,53,2,   ,0
 2014-12-28,Boyd County,Muhlenberg County,67,48,2,   ,0
 2014-12-28,Boyle County,Apollo,76,54,2,   ,0
 2014-12-28,Bracken County,Iroquois,77,69,2,   ,0
 2014-12-28,Bryan Station,Betsy Layne,73,41,2,   ,0
-2014-12-28,Butler,Trinity,85,60,2,   ,0
-2014-12-28,Campbellsville,South Milwaukee. WI,44,39,1,   ,0
+2014-12-28,Butler,Trinity (Whitesville),85,60,2,   ,0
+2014-12-28,Campbellsville,Out of State,44,39,1,   ,0
 2014-12-28,Central,Bullitt East,56,39,2,   ,0
 2014-12-28,Clay County,Fleming County,78,64,2,   ,0
 2014-12-28,Conner,Newport,68,62,2,   ,0
 2014-12-28,Cordia,Wolfe County,80,58,0,   ,0
 2014-12-28,Covington Catholic,Perry County Central,81,75,2,   ,0
 2014-12-28,Danville,Washington County,77,48,2,   ,0
-2014-12-28,Dixie Heights,Holy Cross,56,40,2,   ,0
+2014-12-28,Dixie Heights,Holy Cross (Covington),56,40,2,   ,0
 2014-12-28,East Carter,Ashland Blazer,29,28,0,   ,0
 2014-12-28,Elizabethtown,Grayson County,65,40,2,  (corrected score) ,0
-2014-12-28,Ensworth. TN,St. Xavier,72,63,2,   ,0
+2014-12-28,Out of State,St. Xavier,72,63,2,   ,0
 2014-12-28,Garrard County,Jackson City,59,50,2,   ,0
 2014-12-28,George Rogers Clark,Russell County,74,59,2,   ,0
 2014-12-28,Green County,Central Hardin,89,74,2,   ,0
@@ -1380,61 +1380,61 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-28,Henderson County,DuPont Manual,66,64,2,   ,0
 2014-12-28,Highlands,Todd County Central,70,58,2,   ,0
 2014-12-28,Holmes,Walton-Verona,56,42,2,   ,0
-2014-12-28,Hopkinsville,Thornton Fractional North. IL,95,81,2,   ,0
-2014-12-28,Jackson County,Easley. SC,68,65,2,   ,0
+2014-12-28,Hopkinsville,Out of State,95,81,2,   ,0
+2014-12-28,Jackson County,Out of State,68,65,2,   ,0
 2014-12-28,Johnson Central,Valley,79,50,2,   ,0
 2014-12-28,Knox Central,Somerset,95,87,0,  (3 OTs) ,0
 2014-12-28,Lafayette,Clinton County,64,48,2,   ,0
 2014-12-28,Lexington Catholic,Casey County,67,53,1,   ,0
 2014-12-28,Lincoln County,Mason County,51,49,2,   ,0
 2014-12-28,Lloyd Memorial,Silver Grove,73,36,1,   ,0
-2014-12-28,Male,Campbell. NH,62,41,2,   ,0
+2014-12-28,Male,Out of State,62,41,2,   ,0
 2014-12-28,Marion County,Adair County,54,49,2,   ,0
 2014-12-28,Model,Augusta,66,62,2,   ,0
 2014-12-28,North Oldham,South Oldham,76,67,0,   ,0
 2014-12-28,Paul Laurence Dunbar,Rowan County,60,55,2,   ,0
 2014-12-28,Pendleton County,Estill County,50,49,2,   ,0
-2014-12-28,Pope John Paul II. TN,East Jessamine,78,54,2,   ,0
+2014-12-28,Out of State,East Jessamine,78,54,2,   ,0
 2014-12-28,Scott,Boone County,80,65,2,   ,0
-2014-12-28,Shawnee,Collinwood. OH,76,49,2,   ,0
-2014-12-28,South Laurel,Laurens. SC,66,43,2,   ,0
+2014-12-28,Shawnee,Out of State,76,49,2,   ,0
+2014-12-28,South Laurel,Out of State,66,43,2,   ,0
 2014-12-28,Southern,Prestonsburg,85,52,2,   ,0
 2014-12-28,Southwestern,North Hardin,60,57,1,   ,0
-2014-12-28,Stewart Creek. TN,McCracken County,69,60,2,   ,0
-2014-12-28,Trico. IL,St. Mary,55,37,2,   ,0
+2014-12-28,Out of State,McCracken County,69,60,2,   ,0
+2014-12-28,Out of State,St. Mary,55,37,2,   ,0
 2014-12-28,Trinity (Louisville),Lexington Christian,67,50,2,   ,0
-2014-12-28,University School. TN,Owen County,60,45,2,   ,0
+2014-12-28,Out of State,Owen County,60,45,2,   ,0
 2014-12-28,Warren Central,Pulaski County,72,54,0,   ,0
 2014-12-28,West Jessamine,Tates Creek,60,52,2,   ,0
 2014-12-28,Whitley County,Lewis County,70,48,2,   ,0
-2014-12-28,Williamsburg,Elizabethton. TN,58,54,2,   ,0
+2014-12-28,Williamsburg,Out of State,58,54,2,   ,0
 2014-12-28,Woodford County,Louisville Collegiate,47,36,2,   ,0
-2014-12-28,Worthington Kilbourne (Columbus). OH,Madisonville-North Hopkins,47,43,2,   ,0
+2014-12-28,Out of State,Madisonville-North Hopkins,47,43,2,   ,0
 2014-12-29,Allen County-Scottsville,Ohio County,78,75,1,   ,0
 2014-12-29,Apollo,Casey County,64,43,2,   ,0
 2014-12-29,Atherton,Henry County,77,64,0,   ,0
 2014-12-29,Augusta,Silver Grove,71,48,2,   ,0
-2014-12-29,Ballard,Norcross. GA,83,69,2,   ,0
+2014-12-29,Ballard,Out of State,83,69,2,   ,0
 2014-12-29,Barbourville,Middlesboro,80,38,2,   ,0
-2014-12-29,Barren County,Friendship Christian. TN,64,31,1,   ,0
-2014-12-29,Belfry,Tug Valley. WV,60,58,1,   ,0
-2014-12-29,Bell County,Friendship Christian. TN,69,56,2,   ,0
+2014-12-29,Barren County,Out of State,64,31,1,   ,0
+2014-12-29,Belfry,Out of State,60,58,1,   ,0
+2014-12-29,Bell County,Out of State,69,56,2,   ,0
 2014-12-29,Bethlehem,Carlisle County,63,39,2,   ,0
 2014-12-29,Boone County,McCracken County,71,64,2,   ,0
 2014-12-29,Bowling Green,Todd County Central,75,39,1,   ,0
-2014-12-29,Boyd County,East Carter,63,58,2,  (double overtime) ,0
+2014-12-29,Boyd County,East Carter,63,58,2,  (double overtime) ,1
 2014-12-29,Breathitt County,Leslie County,70,58,0,   ,0
-2014-12-29,Bryan Station,Aiken. OH,85,67,2,   ,0
+2014-12-29,Bryan Station,Out of State,85,67,2,   ,0
 2014-12-29,Bullitt East,North Laurel,51,50,2,   ,0
-2014-12-29,Calloway County,Robertsdale. AL,60,22,2,   ,0
-2014-12-29,Campbell County,Amelia (Batavia). OH,62,59,0,   ,0
-2014-12-29,Cannon County. TN,Marshall County,66,55,2,   ,0
+2014-12-29,Calloway County,Out of State,60,22,2,   ,0
+2014-12-29,Campbell County,Out of State,62,59,0,   ,0
+2014-12-29,Out of State,Marshall County,66,55,2,   ,0
 2014-12-29,Carroll County,Butler County,72,61,2,   ,0
 2014-12-29,Caverna,Bell County,62,53,2,   ,0
-2014-12-29,Centennial. TN,Russellville,64,61,0,  (overtime) ,1
+2014-12-29,Out of State,Russellville,64,61,0,  (overtime) ,1
 2014-12-29,Christian Academy-Louisville,Bullitt Central,50,48,2,   ,0
 2014-12-29,Christian County,South Warren,76,64,2,   ,0
-2014-12-29,Cincinnati Christian. OH,Williamstown,64,56,1,   ,0
+2014-12-29,Out of State,Williamstown,64,56,1,   ,0
 2014-12-29,Clay County,Harlan County,65,54,2,   ,0
 2014-12-29,Clinton County,Madisonville-North Hopkins,55,54,2,   ,0
 2014-12-29,Collins,Moore,74,56,2,   ,0
@@ -1445,22 +1445,22 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-29,DeSales,St. Patrick,54,27,2,   ,0
 2014-12-29,Dixie Heights,Paul Laurence Dunbar,62,47,2,   ,0
 2014-12-29,DuPont Manual,Lexington Christian,65,62,2,   ,0
-2014-12-29,East Jessamine,Trinity,80,51,2,   ,0
-2014-12-29,East Ridge,Tolsia. WV,72,52,2,   ,0
+2014-12-29,East Jessamine,Trinity (Whitesville),80,51,2,   ,0
+2014-12-29,East Ridge,Out of State,72,52,2,   ,0
 2014-12-29,Eastern,Grant County,51,48,1,   ,0
 2014-12-29,Edmonson County,Ballard Memorial,65,58,1,   ,0
 2014-12-29,Elliott County,Nicholas County,78,41,2,   ,0
-2014-12-29,Fairdale,George Washington Carver. AL,58,51,2,   ,0
+2014-12-29,Fairdale,Out of State,58,51,2,   ,0
 2014-12-29,Fern Creek,Franklin County,58,50,2,   ,0
-2014-12-29,Franklin-Simpson,Warren County. TN,53,42,2,   ,0
+2014-12-29,Franklin-Simpson,Out of State,53,42,2,   ,0
 2014-12-29,Garrard County,Pendleton County,59,58,2,  (overtime) ,1
-2014-12-29,Germantown. TN,Paducah Tilghman,62,37,2,   ,0
-2014-12-29,Grace Christian. TN,Spencer County,54,47,2,   ,0
-2014-12-29,Greenwood,Springfield. TN,62,57,2,   ,0
+2014-12-29,Out of State,Paducah Tilghman,62,37,2,   ,0
+2014-12-29,Out of State,Spencer County,54,47,2,   ,0
+2014-12-29,Greenwood,Out of State,62,57,2,   ,0
 2014-12-29,Greenwood,Logan County,70,57,2,   ,0
-2014-12-29,Harlan,Rye Cove. VA,74,44,0,   ,0
-2014-12-29,Hazard,West Torrance. CA,52,35,2,   ,0
-2014-12-29,Henderson County,Trinity,57,54,2,   ,0
+2014-12-29,Harlan,Out of State,74,44,0,   ,0
+2014-12-29,Hazard,Out of State,52,35,2,   ,0
+2014-12-29,Henderson County,Trinity (Louisville),57,54,2,   ,0
 2014-12-29,Henry Clay,Betsy Layne,79,40,2,   ,0
 2014-12-29,Holmes,Conner,78,70,2,   ,0
 2014-12-29,Hopkinsville,Knox Central,73,71,2,   ,0
@@ -1468,20 +1468,20 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-29,Jackson City,Estill County,54,36,2,   ,0
 2014-12-29,Johnson Central,Shawnee,77,62,2,   ,0
 2014-12-29,June Buchanan,Magoffin County,69,49,2,   ,0
-2014-12-29,Kenwood. TN,North Bullitt,66,61,2,   ,0
+2014-12-29,Out of State,North Bullitt,66,61,2,   ,0
 2014-12-29,LaRue County,Menifee County,72,45,1,   ,0
-2014-12-29,Lafayette,Worthington Kilbourne,73,53,2,   ,0
+2014-12-29,Lafayette,Out of State,73,53,2,   ,0
 2014-12-29,Lawrence County,Paintsville,75,68,2,   ,0
-2014-12-29,Letcher County Central,Westampton. NJ,67,58,2,   ,0
+2014-12-29,Letcher County Central,Out of State,67,58,2,   ,0
 2014-12-29,Lexington Catholic,Boyle County,65,47,1,   ,0
 2014-12-29,Lincoln County,Harrison County,82,51,2,   ,0
 2014-12-29,Lloyd Memorial,Model,55,48,1,   ,0
-2014-12-29,Logan County,Dyersburg. TN,74,53,2,   ,0
-2014-12-29,Ludlow,Freedom. FL,53,49,2,   ,0
+2014-12-29,Logan County,Out of State,74,53,2,   ,0
+2014-12-29,Ludlow,Out of State,53,49,2,   ,0
 2014-12-29,Lynn Camp,Powell County,65,62,2,   ,0
 2014-12-29,Lyon County,Eminence,58,52,2,   ,0
 2014-12-29,Mason County,Montgomery County,72,63,0,  (overtime) ,1
-2014-12-29,Mayfield,Dresden. TN,59,50,2,   ,0
+2014-12-29,Mayfield,Out of State,59,50,2,   ,0
 2014-12-29,McCreary Central,Walden,67,65,2,   ,0
 2014-12-29,McCreary Central,Eminence,82,74,2,   ,0
 2014-12-29,Mercer County,Fleming County,78,64,2,   ,0
@@ -1491,70 +1491,70 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-29,Murray,Glasgow,75,31,2,   ,0
 2014-12-29,Nelson County,Holy Cross (Louisville),62,48,1,   ,0
 2014-12-29,Newport,Walton-Verona,60,48,2,   ,0
-2014-12-29,Obion County. TN,Graves County,75,61,2,   ,0
+2014-12-29,Out of State,Graves County,75,61,2,   ,0
 2014-12-29,Oldham County,Simon Kenton,71,56,2,   ,0
 2014-12-29,Owen County,Lewis County,74,48,2,   ,0
-2014-12-29,Owensboro,Harrisburg. IL,67,61,2,   ,0
-2014-12-29,Owensboro,West Frankfort. IL,65,62,2,   ,0
+2014-12-29,Owensboro,Out of State,67,61,2,   ,0
+2014-12-29,Owensboro,Out of State,65,62,2,   ,0
 2014-12-29,Owensboro Catholic,Madison Southern,61,60,2,   ,0
 2014-12-29,Piarist School,Rose Hill Christian,60,58,0,   ,0
 2014-12-29,Pike County Central,Pikeville,74,69,0,   ,0
-2014-12-29,Pineville,Cumberland Gap. TN,56,51,1,   ,0
-2014-12-29,Pleasure Ridge Park,Fayette County. GA,78,74,2,   ,0
-2014-12-29,Pope John Paul II. TN,Butler,73,47,2,   ,0
+2014-12-29,Pineville,Out of State,56,51,1,   ,0
+2014-12-29,Pleasure Ridge Park,Out of State,78,74,2,   ,0
+2014-12-29,Out of State,Butler,73,47,2,   ,0
 2014-12-29,Pulaski County,North Hardin,59,54,2,  (overtime) ,1
-2014-12-29,Rowan County,Holy Cross,68,59,2,   ,0
+2014-12-29,Rowan County,Holy Cross (Covington),68,59,2,   ,0
 2014-12-29,Russell County,Tates Creek,65,49,2,   ,0
 2014-12-29,Russellville,North Bullitt,75,73,1,  (overtime) ,1
-2014-12-29,Sagemont. FL,Knott County Central,50,49,2,   ,0
+2014-12-29,Out of State,Knott County Central,50,49,2,   ,0
 2014-12-29,Sayre,Bishop Brossart,79,72,2,  (overtime) ,1
-2014-12-29,Scott,Stewart Creek. TN,87,80,2,   ,0
+2014-12-29,Scott,Out of State,87,80,2,   ,0
 2014-12-29,Seneca,Western Hills,62,31,2,   ,0
 2014-12-29,Shelby County,Hart County,64,46,2,   ,0
 2014-12-29,Shelby Valley,Lee County,85,43,2,   ,0
-2014-12-29,Sheldon Clark,Cass. GA,66,43,2,   ,0
+2014-12-29,Sheldon Clark,Out of State,66,43,2,   ,0
 2014-12-29,Southwestern,Warren Central,67,64,1,   ,0
-2014-12-29,St. Xavier,Naples. FL,85,52,0,   ,0
-2014-12-29,Taylor County,The Villages Charter High School. FL,71,31,2,   ,0
-2014-12-29,Thornton Fractional North. IL,Somerset,54,52,0,   ,0
+2014-12-29,St. Xavier,Out of State,85,52,0,   ,0
+2014-12-29,Taylor County,Out of State,71,31,2,   ,0
+2014-12-29,Out of State,Somerset,54,52,0,   ,0
 2014-12-29,Trigg County,Hickman County,54,50,0,   ,0
 2014-12-29,Trimble County,Fort Knox,71,62,1,   ,0
 2014-12-29,Trimble County,Lyon County,46,42,1,  (overtime) ,1
-2014-12-29,University High School. CA,Letcher County Central,79,73,2,   ,0
-2014-12-29,University School. TN,Whitley County,75,71,2,   ,0
-2014-12-29,Valley,Collinwood. OH,73,71,2,   ,0
+2014-12-29,Out of State,Letcher County Central,79,73,2,   ,0
+2014-12-29,Out of State,Whitley County,75,71,2,   ,0
+2014-12-29,Valley,Out of State,73,71,2,   ,0
 2014-12-29,Walden,Fort Knox,72,48,2,   ,0
 2014-12-29,Warren East,Hopkins County Central,73,68,2,   ,0
-2014-12-29,Wayne County,Clay County. TN,87,70,1,   ,0
-2014-12-29,Webster County,University School. TN,59,44,2,   ,0
+2014-12-29,Wayne County,Out of State,87,70,1,   ,0
+2014-12-29,Webster County,Out of State,59,44,2,   ,0
 2014-12-29,West Carter,Robertson County,67,47,2,   ,0
 2014-12-29,West Jessamine,George Rogers Clark,44,43,2,   ,0
-2014-12-29,White Plains. AL,Buckhorn,57,56,2,   ,0
+2014-12-29,Out of State,Buckhorn,57,56,2,   ,0
 2014-12-29,Williamsburg,South Laurel,47,40,2,   ,0
 2014-12-29,Woodford County,Bracken County,75,64,2,   ,0
 2014-12-30,Allen Central,Robertson County,74,61,2,   ,0
 2014-12-30,Allen County-Scottsville,Hart County,70,63,1,   ,0
-2014-12-30,Ballard,Mitchell. TN,79,61,2,   ,0
+2014-12-30,Ballard,Out of State,79,61,2,   ,0
 2014-12-30,Ballard Memorial,Hopkins County Central,72,69,2,   ,0
-2014-12-30,Barbourville,Cumberland Gap. TN,65,32,2,   ,0
+2014-12-30,Barbourville,Out of State,65,32,2,   ,0
 2014-12-30,Bardstown,Caldwell County,51,48,2,   ,0
 2014-12-30,Barren County,Bell County,73,50,1,   ,0
 2014-12-30,Bethlehem,Carroll County,59,51,2,   ,0
-2014-12-30,Betsy Layne,Perry County Central,82,75,2,  Overtime ,0
+2014-12-30,Betsy Layne,Perry County Central,82,75,2,  Overtime ,1
 2014-12-30,Bishop Brossart,Henry County,61,50,0,   ,0
 2014-12-30,Boone County,Newport,71,57,2,   ,0
 2014-12-30,Bowling Green,John Hardin,80,53,1,   ,0
 2014-12-30,Bracken County,Model,61,50,2,   ,0
-2014-12-30,Bullitt Central,Holy Cross,65,35,2,  (corrected score) ,0
-2014-12-30,Calloway County,South Gwinnett. GA,55,47,2,   ,0
-2014-12-30,Calvary Christian. FL,Letcher County Central,56,46,2,   ,0
+2014-12-30,Bullitt Central,Holy Cross (Louisville),65,35,2,  (corrected score) ,0
+2014-12-30,Calloway County,Out of State,55,47,2,   ,0
+2014-12-30,Out of State,Letcher County Central,56,46,2,   ,0
 2014-12-30,Campbell County,St. Henry,58,53,0,   ,0
 2014-12-30,Carlisle County,Butler County,61,53,2,   ,0
-2014-12-30,Carrollton. GA,Pleasure Ridge Park,61,48,2,   ,0
+2014-12-30,Out of State,Pleasure Ridge Park,61,48,2,   ,0
 2014-12-30,Caverna,Murray,74,55,2,   ,0
 2014-12-30,Christian Academy-Louisville,Nelson County,69,49,0,   ,0
 2014-12-30,Christian County,Doss,71,64,2,   ,0
-2014-12-30,Collinwood. OH,Trinity,80,61,2,   ,0
+2014-12-30,Out of State,Trinity (Whitesville),80,61,2,   ,0
 2014-12-30,Cooper,Collins,60,54,2,   ,0
 2014-12-30,Covington Catholic,Henry Clay,73,58,2,   ,0
 2014-12-30,DeSales,Seneca,60,52,2,   ,0
@@ -1562,54 +1562,54 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-30,Doss,Bardstown,60,56,2,   ,0
 2014-12-30,DuPont Manual,Apollo,77,56,2,   ,0
 2014-12-30,East Jessamine,Valley,74,61,2,   ,0
-2014-12-30,East Nashville Magnet School. TN,Franklin-Simpson,53,30,2,   ,0
+2014-12-30,Out of State,Franklin-Simpson,53,30,2,   ,0
 2014-12-30,Edmonson County,Warren East,71,67,1,  (overtime) ,1
 2014-12-30,Elliott County,West Carter,64,54,2,   ,0
 2014-12-30,Evangel Christian,St. Francis,84,42,1,   ,0
 2014-12-30,Fairview,Piarist School,87,42,1,   ,0
 2014-12-30,Fern Creek,Eastern,63,55,0,   ,0
 2014-12-30,Fort Knox,Eminence,57,54,2,  (overtime) ,1
-2014-12-30,Fort Walton Beach. FL,Paducah Tilghman,57,53,1,   ,0
+2014-12-30,Out of State,Paducah Tilghman,57,53,1,   ,0
 2014-12-30,George Rogers Clark,Harlan County,55,53,2,   ,0
-2014-12-30,Glasgow,Friendship Christian. TN,63,46,2,   ,0
-2014-12-30,Glen Este (Cincinnati). OH,Bellevue,77,42,0,   ,0
+2014-12-30,Glasgow,Out of State,63,46,2,   ,0
+2014-12-30,Out of State,Bellevue,77,42,0,   ,0
 2014-12-30,Grant County,Franklin County,75,58,2,   ,0
-2014-12-30,Harlan,Thomas Walker. VA,68,61,1,   ,0
-2014-12-30,Hazard,Cimarron Memorial. NV,50,38,2,   ,0
+2014-12-30,Harlan,Out of State,68,61,1,   ,0
+2014-12-30,Hazard,Out of State,50,38,2,   ,0
 2014-12-30,Henderson County,Lexington Catholic,64,56,0,   ,0
-2014-12-30,Hickman County,Dresden. TN,63,53,1,   ,0
+2014-12-30,Hickman County,Out of State,63,53,1,   ,0
 2014-12-30,Holmes,Scott,93,77,2,   ,0
 2014-12-30,Iroquois,Augusta,62,53,2,   ,0
 2014-12-30,Jeffersontown,Moore,73,51,2,   ,0
 2014-12-30,John Hardin,Todd County Central,50,45,2,   ,0
 2014-12-30,John Hardin,University Heights,69,57,2,   ,0
-2014-12-30,Johnson Central,Pope John Paul II. TN,76,64,2,   ,0
+2014-12-30,Johnson Central,Out of State,76,64,2,   ,0
 2014-12-30,June Buchanan,Belfry,71,58,0,   ,0
-2014-12-30,Kenwood. TN,Greenwood,63,60,2,  (2ot)(double overtime) ,0
-2014-12-30,Kingsbury. TN,Graves County,77,74,2,   ,0
-2014-12-30,Knott County Central,Shadow Mountain. AZ,69,56,2,   ,0
+2014-12-30,Out of State,Greenwood,63,60,2,  (2ot)(double overtime) ,1
+2014-12-30,Out of State,Graves County,77,74,2,   ,0
+2014-12-30,Knott County Central,Out of State,69,56,2,   ,0
 2014-12-30,LaRue County,Crittenden County,57,47,1,   ,0
-2014-12-30,Laurens. SC,Jackson County,91,87,2,  (overtime) ,1
+2014-12-30,Out of State,Jackson County,91,87,2,  (overtime) ,1
 2014-12-30,Lawrence County,Pike County Central,78,71,2,   ,0
 2014-12-30,Lewis County,Estill County,55,47,2,   ,0
 2014-12-30,Lexington Christian,Casey County,54,38,2,   ,0
-2014-12-30,Logan County,Centennial. TN,72,47,2,   ,0
-2014-12-30,Ludlow,Farragut. TN,54,44,2,   ,0
+2014-12-30,Logan County,Out of State,72,47,2,   ,0
+2014-12-30,Ludlow,Out of State,54,44,2,   ,0
 2014-12-30,Lynn Camp,Middlesboro,77,46,2,   ,0
 2014-12-30,Madison Southern,University Heights,79,70,2,   ,0
-2014-12-30,Magoffin County,Cass. GA,66,52,2,   ,0
-2014-12-30,Marshall County,Wren. SC,74,35,2,   ,0
+2014-12-30,Magoffin County,Out of State,66,52,2,   ,0
+2014-12-30,Marshall County,Out of State,74,35,2,   ,0
 2014-12-30,Mayfield,Trigg County,43,40,2,   ,0
 2014-12-30,McCracken County,Walton-Verona,52,40,2,   ,0
 2014-12-30,McCreary Central,Lyon County,77,76,2,   ,0
 2014-12-30,Menifee County,Cumberland County,60,54,2,   ,0
 2014-12-30,Mercer County,Russell County,57,52,2,   ,0
-2014-12-30,Milford. OH,Ryle,70,46,0,   ,0
+2014-12-30,Out of State,Ryle,70,46,0,   ,0
 2014-12-30,Monroe County,Bardstown,69,52,2,   ,0
 2014-12-30,Morgan County,Greenup County,72,53,0,   ,0
 2014-12-30,Newport Central Catholic,Dayton,83,29,1,   ,0
 2014-12-30,Nicholas County,Robertson County,69,56,2,   ,0
-2014-12-30,North Bullitt,Dyersburg. TN,68,60,2,   ,0
+2014-12-30,North Bullitt,Out of State,68,60,2,   ,0
 2014-12-30,North Hardin,Somerset,47,44,2,   ,0
 2014-12-30,North Oldham,Wolfe County,67,45,1,   ,0
 2014-12-30,Oldham County,Male,41,35,2,   ,0
@@ -1617,11 +1617,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-30,Paintsville,Pikeville,75,51,0,   ,0
 2014-12-30,Phelps,Lee County,65,58,2,   ,0
 2014-12-30,Powell County,Pineville,44,43,0,   ,0
-2014-12-30,Pulaski County,Thornton Fractional North. IL,57,48,2,   ,0
-2014-12-30,Raceland,Sciotoville Community East. OH,67,61,1,  (overtime) ,1
+2014-12-30,Pulaski County,Out of State,57,48,2,   ,0
+2014-12-30,Raceland,Out of State,67,61,1,  (overtime) ,1
 2014-12-30,Russell,Bath County,62,38,1,   ,0
 2014-12-30,Sayre,Atherton,59,56,2,   ,0
-2014-12-30,Scott County,Socastee. SC,71,33,2,   ,0
+2014-12-30,Scott County,Out of State,71,33,2,   ,0
 2014-12-30,Shawnee,Butler,70,42,2,   ,0
 2014-12-30,Shelby County,Ohio County,83,57,2,   ,0
 2014-12-30,Shelby Valley,South Floyd,67,59,2,   ,0
@@ -1630,43 +1630,43 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-30,South Laurel,Rockcastle County,73,57,2,   ,0
 2014-12-30,South Warren,Caldwell County,76,66,2,   ,0
 2014-12-30,Southwestern,Hopkinsville,73,68,1,  (overtime) ,1
-2014-12-30,Spencer County,Brewbaker Technology Magnet. AL,43,41,2,   ,0
-2014-12-30,St. Francis. GA,Scott County,79,51,2,   ,0
-2014-12-30,St. Xavier,Community School of Naples. FL,86,50,2,   ,0
-2014-12-30,Stewart Creek. TN,Conner,61,47,2,   ,0
+2014-12-30,Spencer County,Out of State,43,41,2,   ,0
+2014-12-30,Out of State,Scott County,79,51,2,   ,0
+2014-12-30,St. Xavier,Out of State,86,50,2,   ,0
+2014-12-30,Out of State,Conner,61,47,2,   ,0
 2014-12-30,Tates Creek,Fleming County,60,47,2,   ,0
-2014-12-30,Taylor County,Archbishop Moeller. OH,61,57,2,   ,0
+2014-12-30,Taylor County,Out of State,61,57,2,   ,0
 2014-12-30,Todd County Central,Owensboro Catholic,63,59,2,  (overtime) ,1
 2014-12-30,Trimble County,Walden,58,51,1,   ,0
 2014-12-30,Trinity (Louisville),Boyle County,76,44,2,   ,0
-2014-12-30,Troy. CA,Hazard,61,56,2,   ,0
+2014-12-30,Out of State,Hazard,61,56,2,   ,0
 2014-12-30,University Heights,Owensboro Catholic,71,67,2,   ,0
-2014-12-30,University School. TN,Garrard County,60,59,2,  Double Overtime(double overtime) ,0
-2014-12-30,Waggener,Murphy. AL,59,47,2,   ,0
-2014-12-30,Waggener,Tampa Catholic. FL,90,85,2,   ,0
+2014-12-30,Out of State,Garrard County,60,59,2,  Double Overtime(double overtime) ,1
+2014-12-30,Waggener,Out of State,59,47,2,   ,0
+2014-12-30,Waggener,Out of State,90,85,2,   ,0
 2014-12-30,Warren Central,Knox Central,71,64,2,   ,0
-2014-12-30,Wayne County,Wekiva. FL,58,48,1,   ,0
-2014-12-30,Webster County,Arnold. FL,70,57,0,   ,0
+2014-12-30,Wayne County,Out of State,58,48,1,   ,0
+2014-12-30,Webster County,Out of State,70,57,0,   ,0
 2014-12-30,West Jessamine,Clay County,74,67,2,   ,0
 2014-12-30,Western Hills,St. Patrick,60,53,2,   ,0
 2014-12-30,Whitley County,Pendleton County,54,47,2,   ,0
 2014-12-30,Williamsburg,Corbin,64,63,0,   ,0
 2014-12-30,Williamstown,Calvary Christian,56,52,0,   ,0
 2014-12-30,Woodford County,Lloyd Memorial,57,52,0,   ,0
-2014-12-31,Ballard,Christ Presbyterian Academy. TN,99,76,0,   ,0
+2014-12-31,Ballard,Out of State,99,76,0,   ,0
 2014-12-31,Barbourville,Powell County,72,67,2,   ,0
 2014-12-31,Bardstown,University Heights,72,52,2,  (corrected score) ,0
 2014-12-31,Bishop Brossart,Western Hills,66,42,2,   ,0
 2014-12-31,Bowling Green,Madison Southern,75,53,1,   ,0
 2014-12-31,Butler County,Cumberland County,78,65,2,   ,0
-2014-12-31,Calloway County,Hueytown. AL,71,55,2,   ,0
+2014-12-31,Calloway County,Out of State,71,55,2,   ,0
 2014-12-31,Carlisle County,Menifee County,56,33,2,   ,0
-2014-12-31,Christian Academy-Louisville,Holy Cross,58,53,2,   ,0
+2014-12-31,Christian Academy-Louisville,Holy Cross (Louisville),58,53,2,   ,0
 2014-12-31,Christian County,Monroe County,74,73,2,   ,0
 2014-12-31,Christian County,Bowling Green,69,62,0,   ,0
 2014-12-31,Collins,Eastern,79,78,0,  (4 OT) ,0
 2014-12-31,Crittenden County,Carroll County,48,32,2,   ,0
-2014-12-31,Cumberland Gap. TN,Lynn Camp,61,47,2,   ,0
+2014-12-31,Out of State,Lynn Camp,61,47,2,   ,0
 2014-12-31,DeSales,Sayre,54,44,2,   ,0
 2014-12-31,Doss,John Hardin,68,56,2,   ,0
 2014-12-31,Edmonson County,Hopkins County Central,83,50,1,   ,0
@@ -1675,12 +1675,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-31,Franklin County,Moore,68,67,2,   ,0
 2014-12-31,Grant County,Jeffersontown,81,58,2,   ,0
 2014-12-31,Henry County,St. Patrick,64,40,1,   ,0
-2014-12-31,Knott County Central,Spring Valley. SC,78,46,2,   ,0
+2014-12-31,Knott County Central,Out of State,78,46,2,   ,0
 2014-12-31,LaRue County,Bethlehem,60,57,1,   ,0
-2014-12-31,Marshall County,University School. TN,57,55,2,   ,0
+2014-12-31,Marshall County,Out of State,57,55,2,   ,0
 2014-12-31,Monroe County,Madison Southern,72,52,2,   ,0
 2014-12-31,Nelson County,Bullitt Central,59,51,1,   ,0
-2014-12-31,Nicholas County,Allen Central,88,86,2,  (double overtime) ,0
+2014-12-31,Nicholas County,Allen Central,88,86,2,  (double overtime) ,1
 2014-12-31,Ohio County,Hart County,82,47,2,   ,0
 2014-12-31,Owensboro Catholic,Caldwell County,63,44,2,   ,0
 2014-12-31,Pineville,Middlesboro,77,44,1,   ,0
@@ -1689,7 +1689,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2014-12-31,South Warren,Todd County Central,62,56,2,   ,0
 2014-12-31,Warren East,Ballard Memorial,81,75,2,   ,0
 2014-12-31,Wayne County,Ludlow,85,48,1,   ,0
-2014-12-31,Webster County,Cannon County. TN,69,52,2,   ,0
+2014-12-31,Webster County,Out of State,69,52,2,   ,0
 2014-12-31,West Carter,Greenup County,56,55,0,  (overtime) ,1
 2015-01-01,Whitley County,Riverside Christian,82,10,1,   ,0
 2015-01-02,Adair County,Metcalfe County,60,26,1,   ,0
@@ -1727,7 +1727,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-02,Morgan County,Greenup County,59,57,0,   ,0
 2015-01-02,Nelson County,Thomas Nelson,67,40,0,   ,0
 2015-01-02,Newport,Beechwood,57,52,1,   ,0
-2015-01-02,Obion County. TN,Fulton County,74,57,0,   ,0
+2015-01-02,Out of State,Fulton County,74,57,0,   ,0
 2015-01-02,Owensboro,Apollo,62,61,0,   ,0
 2015-01-02,Pendleton County,Bracken County,65,46,1,   ,0
 2015-01-02,Pikeville,Belfry,66,64,0,   ,0
@@ -1757,16 +1757,16 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-03,Campbell County,Bishop Brossart,52,50,1,   ,0
 2015-01-03,Carroll County,Walden,61,42,1,   ,0
 2015-01-03,Caverna,Ohio County,80,74,2,   ,0
-2015-01-03,Central (Wise). VA,Harlan,45,44,0,   ,0
+2015-01-03,Out of State,Harlan,45,44,0,   ,0
 2015-01-03,Central Hardin,South Oldham,72,58,1,   ,0
 2015-01-03,Collins,Anderson County,60,52,0,   ,0
 2015-01-03,Conner,Bellevue,86,43,0,   ,0
 2015-01-03,Cooper,Harrison County,72,60,1,   ,0
-2015-01-03,Corbin,Jellico. TN,70,58,1,   ,0
+2015-01-03,Corbin,Out of State,70,58,1,   ,0
 2015-01-03,Covington Latin,St. Francis,60,57,0,   ,0
 2015-01-03,Daviess County,Hancock County,64,26,0,   ,0
 2015-01-03,Doss,Lexington Christian,63,51,2,   ,0
-2015-01-03,DuPont Manual,Jeffersonville. IN,79,61,0,   ,0
+2015-01-03,DuPont Manual,Out of State,79,61,0,   ,0
 2015-01-03,Eastern,South Laurel,55,44,1,   ,0
 2015-01-03,Elizabethtown,Bryan Station,62,59,2,   ,0
 2015-01-03,Estill County,Powell County,54,42,0,   ,0
@@ -1778,26 +1778,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-03,Henry Clay,Franklin County,64,47,0,   ,0
 2015-01-03,Holmes,Muhlenberg County,73,59,0,   ,0
 2015-01-03,Hopkinsville,Apollo,74,72,1,   ,0
-2015-01-03,Kenwood. TN,Todd County Central,55,36,0,   ,0
+2015-01-03,Out of State,Todd County Central,55,36,0,   ,0
 2015-01-03,Knox Central,June Buchanan,100,61,1,   ,0
 2015-01-03,Lafayette,Lexington Catholic,56,45,1,   ,0
 2015-01-03,Leslie County,Pike County Central,56,51,1,   ,0
 2015-01-03,Madison Central,Thomas Nelson,78,37,1,   ,0
 2015-01-03,Male,John Hardin,63,46,2,   ,0
-2015-01-03,Mason County,Western Brown. OH,69,54,0,   ,0
+2015-01-03,Mason County,Out of State,69,54,0,   ,0
 2015-01-03,Morgan County,Sayre,60,38,1,   ,0
-2015-01-03,Murray,Henry County. TN,73,55,0,   ,0
-2015-01-03,Newport Central Catholic,St. Louis Christian Academy. MO,63,61,2,  Overtime ,0
+2015-01-03,Murray,Out of State,73,55,0,   ,0
+2015-01-03,Newport Central Catholic,Out of State,63,61,2,  Overtime ,1
 2015-01-03,Nicholas County,Williamstown,82,77,0,   ,0
 2015-01-03,North Hardin,Iroquois,65,40,2,   ,0
 2015-01-03,North Laurel,Jackson County,89,84,1,   ,0
 2015-01-03,Owen County,Gallatin County,65,41,1,   ,0
-2015-01-03,Owensboro,Bowling Green,79,71,2,  Overtime  ,0
+2015-01-03,Owensboro,Bowling Green,79,71,2,  Overtime  ,1
 2015-01-03,Owsley County,Wolfe County,58,55,0,   ,0
 2015-01-03,Paducah Tilghman,Graves County,63,61,0,   ,0
 2015-01-03,Paintsville,Allen Central,60,50,2,   ,0
 2015-01-03,Paris,Bourbon County,67,57,1,   ,0
-2015-01-03,Pendleton County,Holy Cross,54,43,2,   ,0
+2015-01-03,Pendleton County,Holy Cross (Covington),54,43,2,   ,0
 2015-01-03,Perry County Central,Taylor County,78,70,0,   ,0
 2015-01-03,Pikeville,Lewis County,56,44,2,   ,0
 2015-01-03,Raceland,Fairview,64,41,1,   ,0
@@ -1822,7 +1822,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-03,Western Hills,Burgin,87,59,1,   ,0
 2015-01-03,Whitefield Academy,Adair County,55,53,0,   ,0
 2015-01-03,Whitefield Academy,Metcalfe County,69,43,2,   ,0
-2015-01-05,Ballard Memorial,Cairo. IL,77,62,1,   ,0
+2015-01-05,Ballard Memorial,Out of State,77,62,1,   ,0
 2015-01-05,Bellevue,Calvary Christian,72,35,1,   ,0
 2015-01-05,Daviess County,Greenwood,68,58,0,   ,0
 2015-01-05,Dawson Springs,Community Christian (Paducah),50,43,1,   ,0
@@ -1839,7 +1839,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-05,Newport Central Catholic,Holy Cross (Covington),90,54,1,   ,0
 2015-01-05,North Oldham,Jeffersontown,75,72,0,   ,0
 2015-01-05,Owsley County,Red Bird,63,41,0,   ,0
-2015-01-05,Phelps,Hurley. VA,61,38,1,   ,0
+2015-01-05,Phelps,Out of State,61,38,1,   ,0
 2015-01-05,Pineville,Lynn Camp,61,46,1,   ,0
 2015-01-05,Pleasure Ridge Park,Holy Cross (Louisville),67,53,1,   ,0
 2015-01-05,Shelby Valley,Belfry,68,55,1,   ,0
@@ -1848,7 +1848,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-06,Allen Central,Riverside Christian,76,24,0,   ,0
 2015-01-06,Allen County-Scottsville,Glasgow,70,46,0,   ,0
 2015-01-06,Apollo,Grayson County,64,53,1,   ,0
-2015-01-06,Augusta,Western Brown. OH,66,52,1,   ,0
+2015-01-06,Augusta,Out of State,66,52,1,   ,0
 2015-01-06,Ballard,Kentucky Country Day,75,66,0,   ,0
 2015-01-06,Bardstown,Washington County,78,40,1,   ,0
 2015-01-06,Beth Haven,Evangel Christian,72,60,0,   ,0
@@ -1865,11 +1865,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-06,Carlisle County,Lyon County,81,75,0,  (overtime) ,1
 2015-01-06,Central,DuPont Manual,64,62,1,   ,0
 2015-01-06,Clay County,Hazard,55,51,2,   ,0
-2015-01-06,Clinton County,Pickett County. TN,74,62,1,   ,0
-2015-01-06,Cloverport,Cannelton. IN,57,23,2,   ,0
+2015-01-06,Clinton County,Out of State,74,62,1,   ,0
+2015-01-06,Cloverport,Out of State,57,23,2,   ,0
 2015-01-06,Collins,John Hardin,65,58,0,   ,0
 2015-01-06,Conner,St. Patrick,77,50,0,   ,0
-2015-01-06,Covington Catholic,St. Xavier (Cincinnati). OH,51,45,0,   ,0
+2015-01-06,Covington Catholic,Out of State,51,45,0,   ,0
 2015-01-06,Crittenden County,Fort Campbell,38,36,1,   ,0
 2015-01-06,Daviess County,McLean County,65,58,0,   ,0
 2015-01-06,Dawson Springs,Christian Fellowship,74,53,0,   ,0
@@ -1907,11 +1907,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-06,Madison Central,Paul Laurence Dunbar,66,63,1,   ,0
 2015-01-06,Male,Louisville Collegiate,83,51,1,   ,0
 2015-01-06,Marion County,Thomas Nelson,86,50,0,   ,0
-2015-01-06,Marshall County,Cairo. IL,62,43,1,   ,0
+2015-01-06,Marshall County,Out of State,62,43,1,   ,0
 2015-01-06,Mason County,Campbell County,71,57,0,   ,0
 2015-01-06,Mercer County,Danville,69,57,1,   ,0
 2015-01-06,Metcalfe County,Cumberland County,63,55,1,   ,0
-2015-01-06,Middletown Christian. OH,Calvary Christian,57,35,1,   ,0
+2015-01-06,Out of State,Calvary Christian,57,35,1,   ,0
 2015-01-06,Model,Nicholas County,62,47,1,   ,0
 2015-01-06,Monroe County,Edmonson County,90,37,1,   ,0
 2015-01-06,Montgomery County,Franklin County,74,68,1,  (overtime) ,1
@@ -1925,7 +1925,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-06,Pikeville,Paintsville,53,44,2,   ,0
 2015-01-06,Portland Christian,Brown,65,49,1,   ,0
 2015-01-06,Powell County,Jackson City,65,60,0,   ,0
-2015-01-06,Rockcastle County,Somerset,64,61,1,  (double overtime) ,0
+2015-01-06,Rockcastle County,Somerset,64,61,1,  (double overtime) ,1
 2015-01-06,Rowan County,Bath County,80,53,0,   ,0
 2015-01-06,Russellville,Ohio County,81,59,1,   ,0
 2015-01-06,Sayre,Berea,75,49,1,   ,0
@@ -1964,7 +1964,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-08,Hopkinsville,Fort Campbell,91,26,0,   ,0
 2015-01-08,Johnson Central,Belfry,88,65,1,   ,0
 2015-01-08,Lawrence County,Knox Central,90,87,2,   ,0
-2015-01-08,McCracken County,Eldorado. IL,77,34,1,   ,0
+2015-01-08,McCracken County,Out of State,77,34,1,   ,0
 2015-01-08,Menifee County,Riverside Christian,60,22,1,   ,0
 2015-01-08,Murray,Ballard Memorial,60,52,0,   ,0
 2015-01-08,Piarist School,Red Bird,72,71,1,   ,0
@@ -1993,7 +1993,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-09,Carroll County,Gallatin County,73,69,0,   ,0
 2015-01-09,Central,Male,60,54,0,   ,0
 2015-01-09,Central Hardin,Elizabethtown,51,47,1,   ,0
-2015-01-09,Christian Academy of Indiana. IN,Christian Academy-Louisville,45,35,1,   ,0
+2015-01-09,Out of State,Christian Academy-Louisville,45,35,1,   ,0
 2015-01-09,Clinton County,Metcalfe County,72,51,0,   ,0
 2015-01-09,Collins,Spencer County,59,45,1,   ,0
 2015-01-09,Daviess County,Apollo,48,31,0,   ,0
@@ -2022,9 +2022,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-09,Iroquois,Moore,47,44,1,   ,0
 2015-01-09,Jackson County,Wolfe County,81,67,1,   ,0
 2015-01-09,John Hardin,Meade County,70,57,0,   ,0
-2015-01-09,Kentucky School f/t Deaf,Ohio School for the Deaf,36,26,2,   ,0
+2015-01-09,Kentucky School f/t Deaf,Out of State,36,26,2,   ,0
 2015-01-09,Knott County Central,Clay County,56,51,2,   ,0
-2015-01-09,LaRue County,Green County,69,64,1,  overtime  ,0
+2015-01-09,LaRue County,Green County,69,64,1,  overtime  ,1
 2015-01-09,Lafayette,Tates Creek,82,57,1,   ,0
 2015-01-09,Letcher County Central,Jenkins,77,54,1,   ,0
 2015-01-09,Lexington Catholic,St. Henry,66,55,1,   ,0
@@ -2083,26 +2083,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-10,Bryan Station,North Oldham,73,47,1,   ,0
 2015-01-10,Butler County,Glasgow,79,52,1,   ,0
 2015-01-10,Calloway County,University Heights,81,60,1,   ,0
-2015-01-10,Carbondale. IL,St. Mary,63,36,1,   ,0
-2015-01-10,Carterville. IL,Marshall County,60,53,0,   ,0
+2015-01-10,Out of State,St. Mary,63,36,1,   ,0
+2015-01-10,Out of State,Marshall County,60,53,0,   ,0
 2015-01-10,Clay County,Buckhorn,82,65,2,   ,0
 2015-01-10,Cloverport,St. Francis,68,26,0,   ,0
-2015-01-10,Covington Catholic,Winton Woods. OH,72,41,1,   ,0
+2015-01-10,Covington Catholic,Out of State,72,41,1,   ,0
 2015-01-10,Danville,Casey County,84,64,1,   ,0
 2015-01-10,Dayton,Covington Latin,74,53,1,   ,0
 2015-01-10,Dixie Heights,Holy Cross (Covington),53,52,0,   ,0
-2015-01-10,Elder (Cincinnati). OH,Cooper,64,49,1,   ,0
+2015-01-10,Out of State,Cooper,64,49,1,   ,0
 2015-01-10,Eminence,Walden,66,63,0,   ,0
 2015-01-10,Franklin County,Fleming County,68,49,1,   ,0
 2015-01-10,George Rogers Clark,Ashland Blazer,82,61,1,   ,0
 2015-01-10,Graves County,Fulton City,70,41,1,   ,0
 2015-01-10,Greenup County,Belfry,75,73,0,   ,0
-2015-01-10,Hancock County,Tell City. IN,72,66,0,  (double overtime) ,0
-2015-01-10,Indianapolis Scecina Memorial. IN,Southwestern,51,49,2,   ,0
+2015-01-10,Hancock County,Out of State,72,66,0,  (double overtime) ,1
+2015-01-10,Out of State,Southwestern,51,49,2,   ,0
 2015-01-10,Jackson County,Oneida Baptist Institute,89,75,1,   ,0
-2015-01-10,John I Burton. VA,Piarist School,84,24,1,   ,0
-2015-01-10,Kentucky School f/t Deaf,Georgia School for the Deaf,50,16,2,   ,0
-2015-01-10,Kentucky School f/t Deaf,Rochester School for the Deaf,46,26,2,   ,0
+2015-01-10,Out of State,Piarist School,84,24,1,   ,0
+2015-01-10,Kentucky School f/t Deaf,Out of State,50,16,2,   ,0
+2015-01-10,Kentucky School f/t Deaf,Out of State,46,26,2,   ,0
 2015-01-10,Knott County Central,Perry County Central,56,41,0,  (championship) ,0
 2015-01-10,Lafayette,Frankfort,76,72,0,  (overtime) ,1
 2015-01-10,Letcher County Central,Prestonsburg,79,50,0,   ,0
@@ -2115,8 +2115,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-10,Model,Ludlow,79,71,1,  (overtime) ,1
 2015-01-10,Monroe County,Franklin-Simpson,71,31,0,   ,0
 2015-01-10,Newport,Highlands,61,56,0,   ,0
-2015-01-10,Newport Central Catholic,South Knox. IN,82,53,2,   ,0
-2015-01-10,Owensboro,South Spencer. IN,76,49,1,   ,0
+2015-01-10,Newport Central Catholic,Out of State,82,53,2,   ,0
+2015-01-10,Owensboro,Out of State,76,49,1,   ,0
 2015-01-10,Paris,Bracken County,67,57,1,   ,0
 2015-01-10,Paul Laurence Dunbar,Montgomery County,75,39,1,   ,0
 2015-01-10,Pendleton County,Burgin,63,34,0,   ,0
@@ -2126,18 +2126,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-10,Powell County,Magoffin County,59,54,1,   ,0
 2015-01-10,Robertson County,Calvary Christian,73,58,1,   ,0
 2015-01-10,Rowan County,Raceland,81,48,1,   ,0
-2015-01-10,Russell,Wheelersburg. OH,54,46,0,   ,0
+2015-01-10,Russell,Out of State,54,46,0,   ,0
 2015-01-10,Sayre,Riverside Christian,73,16,2,   ,0
 2015-01-10,Shelby County,Louisville Collegiate,66,20,0,   ,0
 2015-01-10,Sheldon Clark,Phelps,76,22,1,   ,0
 2015-01-10,Spencer County,Thomas Nelson,58,44,0,   ,0
 2015-01-10,Trinity (Whitesville),Brown,67,34,0,   ,0
-2015-01-10,Velma Jackson. MS,Murray,62,35,0,   ,0
+2015-01-10,Out of State,Murray,62,35,0,   ,0
 2015-01-10,Warren Central,Barren County,76,57,1,   ,0
-2015-01-10,Wayne County,Hamilton Heights. IN,67,66,2,   ,0
+2015-01-10,Wayne County,Out of State,67,66,2,   ,0
 2015-01-10,Whitley County,Iroquois,54,50,0,   ,0
 2015-01-10,Woodford County,Madison Central,70,65,1,   ,0
-2015-01-10,Zionsville. IN,Scott County,56,48,1,   ,0
+2015-01-10,Out of State,Scott County,56,48,1,   ,0
 2015-01-12,Bishop Brossart,Silver Grove,70,32,1,   ,0
 2015-01-12,Boone County,Scott,70,28,0,   ,0
 2015-01-12,Buckhorn,Jenkins,84,45,1,   ,0
@@ -2147,13 +2147,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-12,Cloverport,Butler County,61,55,0,  (overtime) ,1
 2015-01-12,Community Christian (Paducah),Christian Fellowship,47,44,0,   ,0
 2015-01-12,Corbin,Lynn Camp,63,49,0,   ,0
-2015-01-12,Dresden. TN,Hickman County,48,40,1,   ,0
+2015-01-12,Out of State,Hickman County,48,40,1,   ,0
 2015-01-12,Elizabethtown,Fort Knox,78,35,1,   ,0
 2015-01-12,Evangel Christian,Walden,72,52,1,   ,0
-2015-01-12,Fulton County,South Fulton. TN,58,53,0,   ,0
+2015-01-12,Fulton County,Out of State,58,53,0,   ,0
 2015-01-12,Hancock County,Owensboro Catholic,46,43,0,   ,0
 2015-01-12,Harlan County,Harlan,59,46,0,   ,0
-2015-01-12,Highlands,Finneytown. OH,76,64,1,   ,0
+2015-01-12,Highlands,Out of State,76,64,1,   ,0
 2015-01-12,June Buchanan,Lee County,62,46,1,   ,0
 2015-01-12,Lyon County,Fort Campbell,56,41,1,   ,0
 2015-01-12,Male,Shawnee,49,45,1,   ,0
@@ -2168,7 +2168,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-12,Western,Butler,64,49,1,   ,0
 2015-01-12,Woodford County,Sayre,68,34,0,   ,0
 2015-01-13,Allen Central,Prestonsburg,67,61,1,   ,0
-2015-01-13,Archbishop Moeller. OH,Covington Catholic,61,52,1,   ,0
+2015-01-13,Out of State,Covington Catholic,61,52,1,   ,0
 2015-01-13,Bardstown,Bethlehem,64,34,0,   ,0
 2015-01-13,Barren County,Warren East,69,68,1,   ,0
 2015-01-13,Beechwood,Pendleton County,47,45,1,   ,0
@@ -2185,8 +2185,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-13,Campbell County,Conner,81,52,0,   ,0
 2015-01-13,Campbellsville,Hart County,70,41,1,   ,0
 2015-01-13,Central,Pleasure Ridge Park,66,62,2,   ,0
-2015-01-13,Central (Cape Girardeau). MO,McCracken County,55,54,0,   ,0
-2015-01-13,Central Hardin,John Hardin,62,58,0,  double overtime (double overtime) ,0
+2015-01-13,Out of State,McCracken County,55,54,0,   ,0
+2015-01-13,Central Hardin,John Hardin,62,58,0,  double overtime (double overtime) ,1
 2015-01-13,Christian County,University Heights,78,68,0,   ,0
 2015-01-13,Clinton County,Cumberland County,68,45,0,   ,0
 2015-01-13,Collins,South Oldham,70,51,1,   ,0
@@ -2208,7 +2208,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-13,Henderson County,Hopkinsville,75,73,0,   ,0
 2015-01-13,Holmes,Holy Cross (Covington),89,71,1,   ,0
 2015-01-13,Hopkins County Central,Lyon County,70,40,1,   ,0
-2015-01-13,Kentucky School f/t Deaf,St. Rita School for the Deaf,59,23,0,   ,0
+2015-01-13,Kentucky School f/t Deaf,Out of State,59,23,0,   ,0
 2015-01-13,Knott County Central,Letcher County Central,71,37,1,   ,0
 2015-01-13,Knox Central,Barbourville,93,78,0,   ,0
 2015-01-13,LaRue County,Adair County,48,45,0,   ,0
@@ -2241,7 +2241,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-13,South Floyd,Magoffin County,66,54,1,   ,0
 2015-01-13,South Warren,Edmonson County,72,61,1,   ,0
 2015-01-13,Southwestern,Somerset,83,66,1,   ,0
-2015-01-13,St. Henry,Archbishop McNicholas. OH,60,54,1,   ,0
+2015-01-13,St. Henry,Out of State,60,54,1,   ,0
 2015-01-13,St. Mary,Community Christian (Paducah),69,28,1,   ,0
 2015-01-13,Taylor County,Green County,101,51,1,   ,0
 2015-01-13,Trimble County,Eminence,70,59,2,   ,0
@@ -2255,27 +2255,27 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-14,Bishop Brossart,Robertson County,68,27,1,   ,0
 2015-01-14,Buckhorn,Leslie County,66,53,1,   ,0
 2015-01-14,Clay County,Jackson County,88,74,1,   ,0
-2015-01-14,Dayton,School for Creative Performing Arts. OH,57,50,1,   ,0
+2015-01-14,Dayton,Out of State,57,50,1,   ,0
 2015-01-14,Doss,Waggener,63,62,2,   ,0
 2015-01-14,DuPont Manual,Western,63,43,2,   ,0
 2015-01-14,Hazard,June Buchanan,60,41,1,   ,0
 2015-01-14,Holmes,Newport,67,61,0,   ,0
 2015-01-14,Newport Central Catholic,Lloyd Memorial,81,34,1,   ,0
 2015-01-14,Oneida Baptist Institute,North Laurel,70,67,1,   ,0
-2015-01-14,Silver Grove,James N Gamble Montessori (Cincinnati).,64,53,1,   ,0
+2015-01-14,Silver Grove,Out of State,64,53,1,   ,0
 2015-01-14,Trinity (Louisville),St. Xavier,52,40,2,   ,0
 2015-01-15,Augusta,Paris,43,41,1,   ,0
 2015-01-15,Ballard Memorial,Fulton County,70,56,0,   ,0
-2015-01-15,Belfry,Lawrence County,95,93,1,  overtime ,0
+2015-01-15,Belfry,Lawrence County,95,93,1,  overtime ,1
 2015-01-15,Bourbon County,Harrison County,88,76,1,   ,0
 2015-01-15,Boyd County,West Carter,71,42,1,   ,0
 2015-01-15,Bullitt Central,Henry County,67,48,1,   ,0
 2015-01-15,Calvary Christian,Covington Latin,70,44,1,   ,0
-2015-01-15,Clay County. TN,Cumberland County,63,43,1,   ,0
+2015-01-15,Out of State,Cumberland County,63,43,1,   ,0
 2015-01-15,Fulton City,Hickman County,51,49,0,   ,0
 2015-01-15,Highlands,Ryle,62,60,0,  (overtime) ,1
 2015-01-15,Iroquois,Holy Cross (Louisville),46,36,0,   ,0
-2015-01-15,Joppa-Maple Grove. IL,Community Christian (Paducah),54,45,0,   ,0
+2015-01-15,Out of State,Community Christian (Paducah),54,45,0,   ,0
 2015-01-15,Lexington Catholic,Tates Creek,43,39,0,   ,0
 2015-01-15,Owen County,Gallatin County,49,47,0,   ,0
 2015-01-15,Paintsville,Magoffin County,65,46,1,   ,0
@@ -2285,10 +2285,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-15,Scott County,Sayre,72,44,1,   ,0
 2015-01-15,University Heights,Fort Campbell,101,46,1,   ,0
 2015-01-15,Walton-Verona,Trimble County,57,53,2,   ,0
-2015-01-15,Washington County,Valley,82,80,1,  overtime ,0
+2015-01-15,Washington County,Valley,82,80,1,  overtime ,1
 2015-01-15,West Jessamine,Burgin,79,32,0,   ,0
 2015-01-15,Western Hills,Brown,56,28,0,   ,0
-2015-01-15,Whitefield Academy,Southern,90,82,1,  (triple overtime) ,0
+2015-01-15,Whitefield Academy,Southern,90,82,1,  (triple overtime) ,1
 2015-01-16,Adair County,Metcalfe County,54,44,1,   ,0
 2015-01-16,Allen Central,Wolfe County,63,56,1,   ,0
 2015-01-16,Allen County-Scottsville,Glasgow,81,56,1,   ,0
@@ -2299,7 +2299,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-16,Bardstown,Thomas Nelson,81,31,0,   ,0
 2015-01-16,Bell County,Leslie County,52,31,0,   ,0
 2015-01-16,Bethlehem,Nelson County,61,56,0,   ,0
-2015-01-16,Betsy Layne,South Floyd,68,66,1,  double overtime  ,0
+2015-01-16,Betsy Layne,South Floyd,68,66,1,  double overtime  ,1
 2015-01-16,Boone County,St. Henry,64,57,1,   ,0
 2015-01-16,Breckinridge County,McLean County,73,71,0,   ,0
 2015-01-16,Bryan Station,Scott County,81,70,1,   ,0
@@ -2308,8 +2308,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-16,Calloway County,Murray,61,37,1,   ,0
 2015-01-16,Carlisle County,Fulton County,85,58,0,   ,0
 2015-01-16,Caverna,Green County,76,71,1,   ,0
-2015-01-16,Central,Trinity,69,56,2,   ,0
-2015-01-16,Central (Wise). VA,Jenkins,70,43,1,   ,0
+2015-01-16,Central,Trinity (Louisville),69,56,2,   ,0
+2015-01-16,Out of State,Jenkins,70,43,1,   ,0
 2015-01-16,Central Hardin,Fort Knox,61,18,1,   ,0
 2015-01-16,Clay County,South Laurel,82,79,0,   ,0
 2015-01-16,Clinton County,Russell County,48,44,1,   ,0
@@ -2318,7 +2318,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-16,Danville,Garrard County,68,58,1,  (overtime) ,1
 2015-01-16,Daviess County,Ohio County,68,44,1,   ,0
 2015-01-16,Doss,DeSales,57,45,2,   ,0
-2015-01-16,East Carter,Morgan County,70,64,1,  overtime  ,0
+2015-01-16,East Carter,Morgan County,70,64,1,  overtime  ,1
 2015-01-16,Edmonson County,Trinity (Whitesville),81,65,1,   ,0
 2015-01-16,Elizabethtown,Meade County,48,47,0,   ,0
 2015-01-16,Estill County,Russell,48,33,0,   ,0
@@ -2336,7 +2336,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-16,Knox Central,Lynn Camp,72,29,1,   ,0
 2015-01-16,LaRue County,Hart County,51,47,1,   ,0
 2015-01-16,Lawrence County,Phelps,80,44,1,   ,0
-2015-01-16,Letcher County Central,June Buchanan,72,69,1,  (double overtime) ,0
+2015-01-16,Letcher County Central,June Buchanan,72,69,1,  (double overtime) ,1
 2015-01-16,Lexington Christian,Lafayette,49,40,1,   ,0
 2015-01-16,Lincoln County,Boyle County,66,55,1,   ,0
 2015-01-16,Lloyd Memorial,Beechwood,46,43,0,   ,0
@@ -2349,7 +2349,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-16,Menifee County,Rose Hill Christian,95,40,1,   ,0
 2015-01-16,Monroe County,Barren County,64,54,0,   ,0
 2015-01-16,Montgomery County,George Rogers Clark,52,51,0,   ,0
-2015-01-16,Nicholas County,Bracken County,71,69,0,  Overtime  ,0
+2015-01-16,Nicholas County,Bracken County,71,69,0,  Overtime  ,1
 2015-01-16,North Oldham,Oldham County,54,51,1,   ,0
 2015-01-16,Owensboro,Muhlenberg County,81,36,1,   ,0
 2015-01-16,Paducah Tilghman,McCracken County,70,66,0,   ,0
@@ -2363,7 +2363,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-16,Silver Grove,Model,67,56,1,   ,0
 2015-01-16,Simon Kenton,South Oldham,84,47,0,   ,0
 2015-01-16,Taylor County,North Hardin,72,64,1,   ,0
-2015-01-16,Thomas Walker. VA,Middlesboro,79,71,1,   ,0
+2015-01-16,Out of State,Middlesboro,79,71,1,   ,0
 2015-01-16,Trigg County,Crittenden County,49,41,0,   ,0
 2015-01-16,Warren Central,Bowling Green,64,58,1,  (overtime) ,1
 2015-01-16,Wayne County,East Jessamine,102,64,1,   ,0
@@ -2382,7 +2382,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-17,Dixie Heights,Conner,68,55,0,   ,0
 2015-01-17,Doss,Bullitt East,52,45,2,   ,0
 2015-01-17,East Jessamine,Grant County,90,82,2,   ,0
-2015-01-17,East Ridge,Tolsia. WV,40,25,2,   ,0
+2015-01-17,East Ridge,Out of State,40,25,2,   ,0
 2015-01-17,Edmonson County,Owensboro Catholic,62,58,1,   ,0
 2015-01-17,Elliott County,Menifee County,65,47,0,   ,0
 2015-01-17,Eminence,Covington Latin,66,39,1,   ,0
@@ -2394,18 +2394,18 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-17,Hickman County,Christian Fellowship,64,15,1,   ,0
 2015-01-17,Highlands,Dayton,55,47,0,   ,0
 2015-01-17,Hopkinsville,Christian County,97,88,0,   ,0
-2015-01-17,Ironton. OH,Ashland Blazer,91,68,1,   ,0
+2015-01-17,Out of State,Ashland Blazer,91,68,1,   ,0
 2015-01-17,Jackson County,North Laurel,56,54,1,   ,0
 2015-01-17,Johnson Central,Pikeville,72,58,1,   ,0
 2015-01-17,Knott County Central,Powell County,80,49,0,   ,0
 2015-01-17,Lexington Catholic,Mason County,53,49,0,   ,0
 2015-01-17,Lincoln County,Rowan County,87,73,2,   ,0
-2015-01-17,Logan County,Northeast (Clarksville). TN,83,66,1,   ,0
+2015-01-17,Logan County,Out of State,83,66,1,   ,0
 2015-01-17,Madison Central,Southwestern,77,68,0,   ,0
 2015-01-17,Marion County,Bethlehem,69,56,1,   ,0
 2015-01-17,Marshall County,Crittenden County,64,37,1,   ,0
 2015-01-17,Mercer County,Anderson County,71,66,1,   ,0
-2015-01-17,Mingo Central. WV,Belfry,80,61,2,   ,0
+2015-01-17,Out of State,Belfry,80,61,2,   ,0
 2015-01-17,Model,Western Hills,44,38,1,   ,0
 2015-01-17,Monroe County,Metcalfe County,68,33,0,   ,0
 2015-01-17,Morgan County,Bath County,72,43,2,   ,0
@@ -2413,23 +2413,23 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-17,Owen County,Walton-Verona,62,47,2,  (championship) ,0
 2015-01-17,Paintsville,Greenup County,79,57,1,   ,0
 2015-01-17,Perry County Central,Shelby Valley,95,70,0,   ,0
-2015-01-17,Phelps,Hannan. WV,72,67,2,  overtime ,0
-2015-01-17,Pike County Central,Man. WV,66,61,2,   ,0
-2015-01-17,Ponitz Career Technology Center (Dayton),Newport,53,41,0,   ,0
+2015-01-17,Phelps,Out of State,72,67,2,  overtime ,1
+2015-01-17,Pike County Central,Out of State,66,61,2,   ,0
+2015-01-17,Out of State,Newport,53,41,0,   ,0
 2015-01-17,Raceland,Rose Hill Christian,65,13,0,   ,0
-2015-01-17,Sheldon Clark,Valley View. OH,62,54,2,   ,0
+2015-01-17,Sheldon Clark,Out of State,62,54,2,   ,0
 2015-01-17,Somerset,Campbellsville,71,47,2,   ,0
 2015-01-17,South Floyd,Piarist School,70,61,0,   ,0
 2015-01-17,St. Patrick,Burgin,59,51,0,   ,0
 2015-01-17,Wayne County,Paul Laurence Dunbar,85,84,2,   ,0
 2015-01-17,Webster County,Graves County,68,54,1,   ,0
 2015-01-17,West Carter,Fairview,61,47,1,   ,0
-2015-01-17,Williamsburg,Jellico. TN,57,44,0,   ,0
-2015-01-18,Wilmington. OH,Taylor County,82,72,2,   ,0
+2015-01-17,Williamsburg,Out of State,57,44,0,   ,0
+2015-01-18,Out of State,Taylor County,82,72,2,   ,0
 2015-01-19,Barbourville,Oneida Baptist Institute,69,66,2,   ,0
 2015-01-19,Beechwood,Covington Latin,70,25,2,   ,0
-2015-01-19,Calloway County,Sumner. MO,80,29,2,   ,0
-2015-01-19,Carbondale. IL,Fort Campbell,67,26,2,   ,0
+2015-01-19,Calloway County,Out of State,80,29,2,   ,0
+2015-01-19,Out of State,Fort Campbell,67,26,2,   ,0
 2015-01-19,Caverna,Fort Knox,69,49,2,   ,0
 2015-01-19,Clinton County,Todd County Central,79,43,2,   ,0
 2015-01-19,Evangel Christian,Portland Christian,96,91,2,   ,0
@@ -2448,7 +2448,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-19,St. Patrick,Robertson County,63,44,1,   ,0
 2015-01-19,Wayne County,Rockcastle County,94,59,1,   ,0
 2015-01-19,Whitley County,Bell County,61,50,1,   ,0
-2015-01-20,Allen Central,Paintsville,54,53,1,  Overtime ,0
+2015-01-20,Allen Central,Paintsville,54,53,1,  Overtime ,1
 2015-01-20,Apollo,Breckinridge County,68,64,0,   ,0
 2015-01-20,Ashland Blazer,Rose Hill Christian,80,36,0,   ,0
 2015-01-20,Ballard Memorial,Hickman County,52,47,2,   ,0
@@ -2486,12 +2486,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-20,Jackson County,Bell County,70,51,0,   ,0
 2015-01-20,Johnson Central,Lawrence County,81,59,1,   ,0
 2015-01-20,Knox Central,South Laurel,59,54,1,   ,0
-2015-01-20,Lewis County,Boyd County,62,54,0,  double overtime  ,0
+2015-01-20,Lewis County,Boyd County,62,54,0,  double overtime  ,1
 2015-01-20,Lincoln County,Garrard County,78,45,1,   ,0
 2015-01-20,Louisville Collegiate,Brown,50,47,0,   ,0
 2015-01-20,Marion County,Adair County,67,55,1,   ,0
 2015-01-20,Mason County,Holmes,70,46,1,   ,0
-2015-01-20,McCracken County,Cairo. IL,89,77,0,   ,0
+2015-01-20,McCracken County,Out of State,89,77,0,   ,0
 2015-01-20,Mercer County,South Oldham,72,61,0,   ,0
 2015-01-20,Nelson County,Thomas Nelson,64,48,1,   ,0
 2015-01-20,Newport Central Catholic,Heritage Academy,82,25,2,   ,0
@@ -2503,7 +2503,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-20,Owen County,Carroll County,81,39,0,   ,0
 2015-01-20,Owensboro,Grayson County,70,52,0,   ,0
 2015-01-20,Owsley County,Jackson City,61,57,0,   ,0
-2015-01-20,Paducah Tilghman,Century. IL,92,50,2,   ,0
+2015-01-20,Paducah Tilghman,Out of State,92,50,2,   ,0
 2015-01-20,Paris,Bracken County,77,60,0,   ,0
 2015-01-20,Paul Laurence Dunbar,Boyle County,77,69,1,   ,0
 2015-01-20,Perry County Central,Clay County,76,73,1,   ,0
@@ -2536,7 +2536,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-21,Butler,Iroquois,47,41,0,   ,0
 2015-01-21,Edmonson County,McLean County,84,74,1,   ,0
 2015-01-21,Hancock County,Trinity (Whitesville),65,39,1,   ,0
-2015-01-21,Jenkins,John I Burton. VA,53,48,1,   ,0
+2015-01-21,Jenkins,Out of State,53,48,1,   ,0
 2015-01-21,Lafayette,Dixie Heights,61,53,2,   ,0
 2015-01-21,Lexington Christian,Model,72,51,1,   ,0
 2015-01-21,Male,North Oldham,69,62,0,   ,0
@@ -2551,7 +2551,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-22,Caldwell County,Hopkins County Central,59,55,1,   ,0
 2015-01-22,Campbell County,Highlands,73,46,1,   ,0
 2015-01-22,Casey County,Shelby Valley,61,48,2,   ,0
-2015-01-22,Century. IL,Fort Campbell,81,63,2,   ,0
+2015-01-22,Out of State,Fort Campbell,81,63,2,   ,0
 2015-01-22,Clinton County,Cumberland County,95,34,2,   ,0
 2015-01-22,Cloverport,Fort Knox,67,65,2,   ,0
 2015-01-22,Cooper,Boone County,61,51,1,   ,0
@@ -2562,7 +2562,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-22,Hazard,Breathitt County,68,57,1,   ,0
 2015-01-22,Johnson Central,Sheldon Clark,82,71,1,   ,0
 2015-01-22,Kentucky Country Day,Louisville Collegiate,70,44,1,   ,0
-2015-01-22,Kentucky School f/t Deaf,South Carolina School for the Deaf,38,36,2,   ,0
+2015-01-22,Kentucky School f/t Deaf,Out of State,38,36,2,   ,0
 2015-01-22,Knott County Central,June Buchanan,85,36,1,   ,0
 2015-01-22,Lawrence County,Russell,73,55,1,   ,0
 2015-01-22,Madisonville-North Hopkins,Union County,60,43,0,   ,0
@@ -2573,7 +2573,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-22,Pulaski County,Jackson County,80,57,1,   ,0
 2015-01-22,Russell County,Adair County,54,40,1,   ,0
 2015-01-22,Sayre,Frankfort,49,43,1,   ,0
-2015-01-22,School for Creative Performing Arts. OH,Silver Grove,41,38,0,   ,0
+2015-01-22,Out of State,Silver Grove,41,38,0,   ,0
 2015-01-22,South Oldham,Western Hills,65,52,1,   ,0
 2015-01-22,Southwestern,McCreary Central,87,56,0,   ,0
 2015-01-22,Trinity (Louisville),Central,60,58,0,   ,0
@@ -2583,7 +2583,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-22,Williamsburg,Pineville,69,50,2,   ,0
 2015-01-23,Adair County,Nelson County,65,49,1,   ,0
 2015-01-23,Anderson County,Western Hills,67,48,1,   ,0
-2015-01-23,Arnold. FL,Graves County,64,61,2,   ,0
+2015-01-23,Out of State,Graves County,64,61,2,   ,0
 2015-01-23,Augusta,Robertson County,85,72,1,   ,0
 2015-01-23,Ballard Memorial,St. Mary,49,47,2,   ,0
 2015-01-23,Bardstown,Thomas Nelson,85,52,1,   ,0
@@ -2594,9 +2594,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-23,Boyd County,Ashland Blazer,71,52,0,   ,0
 2015-01-23,Boyle County,Garrard County,70,43,1,   ,0
 2015-01-23,Bryan Station,Woodford County,58,55,0,   ,0
-2015-01-23,Calloway County,Charleston. MO,70,55,2,   ,0
+2015-01-23,Calloway County,Out of State,70,55,2,   ,0
 2015-01-23,Campbellsville,Bethlehem,52,46,0,   ,0
-2015-01-23,Carbondale. IL,Paducah Tilghman,62,54,2,   ,0
+2015-01-23,Out of State,Paducah Tilghman,62,54,2,   ,0
 2015-01-23,Central,Atherton,64,58,1,   ,0
 2015-01-23,Collins,Bullitt East,65,59,1,   ,0
 2015-01-23,Conner,Ryle,71,59,1,   ,0
@@ -2611,19 +2611,19 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-23,Elizabethtown,Shelby Valley,56,28,2,   ,0
 2015-01-23,Eminence,Carroll County,71,61,0,   ,0
 2015-01-23,Estill County,Powell County,72,64,1,   ,0
-2015-01-23,Fairdale,Moore,63,62,1,  overtime ,0
+2015-01-23,Fairdale,Moore,63,62,1,  overtime ,1
 2015-01-23,Fairview,Rose Hill Christian,73,28,1,   ,0
 2015-01-23,Fern Creek,Butler,57,55,1,   ,0
 2015-01-23,Fleming County,Menifee County,63,54,1,   ,0
-2015-01-23,Henderson County,Evansville North. IN,74,57,0,   ,0
+2015-01-23,Henderson County,Out of State,74,57,0,   ,0
 2015-01-23,Jackson City,Jenkins,76,60,0,   ,0
 2015-01-23,Kentucky Country Day,Whitefield Academy,55,51,1,   ,0
-2015-01-23,Lincoln County,Madison Central,81,78,0,  triple overtime ,0
+2015-01-23,Lincoln County,Madison Central,81,78,0,  triple overtime ,1
 2015-01-23,Logan County,Franklin-Simpson,75,54,0,   ,0
 2015-01-23,Madisonville-North Hopkins,Lyon County,81,52,0,   ,0
 2015-01-23,Marshall County,McCracken County,51,50,1,  (overtime) ,1
 2015-01-23,Mason County,Pendleton County,77,71,0,   ,0
-2015-01-23,Mississippi School for the Deaf,Kentucky School f/t Deaf,49,48,2,   ,0
+2015-01-23,Out of State,Kentucky School f/t Deaf,49,48,2,   ,0
 2015-01-23,Monroe County,Clinton County,53,52,2,  (overtime) ,1
 2015-01-23,Montgomery County,Bourbon County,78,72,1,   ,0
 2015-01-23,Morgan County,Magoffin County,72,62,1,   ,0
@@ -2641,7 +2641,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-23,Raceland,Lewis County,69,61,0,   ,0
 2015-01-23,Rockcastle County,Burgin,73,53,0,   ,0
 2015-01-23,Scott County,Lafayette,68,64,1,   ,0
-2015-01-23,Shawnee,Holy Cross,63,42,2,   ,0
+2015-01-23,Shawnee,Holy Cross (Louisville),63,42,2,   ,0
 2015-01-23,Shelby County,North Oldham,77,66,1,   ,0
 2015-01-23,Simon Kenton,Grant County,77,69,1,   ,0
 2015-01-23,South Floyd,Allen Central,89,66,1,   ,0
@@ -2663,26 +2663,26 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-23,Williamsburg,Barbourville,56,54,2,   ,0
 2015-01-23,Williamstown,Dayton,77,62,1,   ,0
 2015-01-24,Allen Central,Rose Hill Christian,86,59,0,   ,0
-2015-01-24,Arnold. FL,Marshall County,59,44,0,   ,0
+2015-01-24,Out of State,Marshall County,59,44,0,   ,0
 2015-01-24,Ballard,Cordia,77,62,0,   ,0
 2015-01-24,Boone County,Highlands,61,42,1,   ,0
 2015-01-24,Bourbon County,East Jessamine,86,81,1,   ,0
 2015-01-24,Bullitt East,Nelson County,94,62,1,   ,0
 2015-01-24,Burgin,St. Francis,59,45,0,   ,0
 2015-01-24,Caldwell County,Union County,73,53,2,   ,0
-2015-01-24,Carbondale. IL,Calloway County,48,38,2,   ,0
+2015-01-24,Out of State,Calloway County,48,38,2,   ,0
 2015-01-24,Caverna,Allen County-Scottsville,71,61,1,   ,0
 2015-01-24,Christian Academy-Louisville,Valley,63,60,1,   ,0
 2015-01-24,Collins,Simon Kenton,51,44,2,  (corrected score) ,0
-2015-01-24,Covington Catholic,Hughes. OH,80,46,1,   ,0
-2015-01-24,Evansville Central. IN,Apollo,69,67,1,   ,0
-2015-01-24,Florida School for the Deaf,Kentucky School f/t Deaf,46,44,2,   ,0
-2015-01-24,Fort Campbell,Sumner. MO,59,33,2,   ,0
-2015-01-24,Graves County,Cairo. IL,78,63,2,   ,0
+2015-01-24,Covington Catholic,Out of State,80,46,1,   ,0
+2015-01-24,Out of State,Apollo,69,67,1,   ,0
+2015-01-24,Out of State,Kentucky School f/t Deaf,46,44,2,   ,0
+2015-01-24,Fort Campbell,Out of State,59,33,2,   ,0
+2015-01-24,Graves County,Out of State,78,63,2,   ,0
 2015-01-24,Hart County,Washington County,68,61,0,   ,0
 2015-01-24,Heritage Academy,Covington Latin,53,47,1,   ,0
 2015-01-24,Lafayette,Casey County,86,53,2,   ,0
-2015-01-24,Lawrence County,Shroder (Cincinnati). OH,84,83,0,   ,0
+2015-01-24,Lawrence County,Out of State,84,83,0,   ,0
 2015-01-24,Lexington Catholic,Western Hills,79,37,1,   ,0
 2015-01-24,Lexington Christian,Sayre,58,44,1,   ,0
 2015-01-24,Male,Bardstown,68,55,1,   ,0
@@ -2695,13 +2695,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-24,Oldham County,Henry County,79,40,0,   ,0
 2015-01-24,Oneida Baptist Institute,McCreary Central,71,60,0,   ,0
 2015-01-24,Owen County,Woodford County,59,53,0,   ,0
-2015-01-24,Paducah Tilghman,Charleston. MO,65,61,2,   ,0
+2015-01-24,Paducah Tilghman,Out of State,65,61,2,   ,0
 2015-01-24,Paris,Fleming County,59,53,1,   ,0
 2015-01-24,Scott,Silver Grove,73,57,1,   ,0
 2015-01-24,Scott County,Wayne County,71,69,1,   ,0
 2015-01-24,Shawnee,Portland Christian,92,48,1,   ,0
 2015-01-24,Shelby Valley,Franklin County,57,52,2,   ,0
-2015-01-24,Spring Valley. WV,Ashland Blazer,99,58,0,   ,0
+2015-01-24,Out of State,Ashland Blazer,99,58,0,   ,0
 2015-01-24,St. Patrick,Williamstown,72,48,1,   ,0
 2015-01-24,Trimble County,Calvary Christian,76,53,0,   ,0
 2015-01-24,Trinity (Louisville),Doss,71,55,1,   ,0
@@ -2716,7 +2716,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-26,Bowling Green,Allen County-Scottsville,75,40,0,   ,0
 2015-01-26,Boyd County,Rose Hill Christian,86,29,1,   ,0
 2015-01-26,Bracken County,East Jessamine,74,64,1,   ,0
-2015-01-26,Covington Catholic,Wilmington. OH,68,65,0,   ,0
+2015-01-26,Covington Catholic,Out of State,68,65,0,   ,0
 2015-01-26,Estill County,Model,48,41,0,   ,0
 2015-01-26,Fort Campbell,Community Christian (Paducah),69,20,0,   ,0
 2015-01-26,Greenwood,Metcalfe County,65,41,0,   ,0
@@ -2731,13 +2731,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-26,Valley,Fort Knox,80,42,1,   ,0
 2015-01-26,Waggener,Fern Creek,65,63,0,   ,0
 2015-01-26,Walden,Portland Christian,73,50,1,   ,0
-2015-01-27,Anderson County,Spencer County,59,58,1,  overtime ,0
+2015-01-27,Anderson County,Spencer County,59,58,1,  overtime ,1
 2015-01-27,Apollo,Christian County,79,77,0,   ,0
 2015-01-27,Atherton,Iroquois,63,60,1,   ,0
 2015-01-27,Ballard Memorial,Hickman County,53,45,1,   ,0
 2015-01-27,Bardstown,Washington County,91,60,0,   ,0
 2015-01-27,Barren County,Logan County,79,55,1,   ,0
-2015-01-27,Beechwood,School for Creative Performing Arts. OH,54,49,1,   ,0
+2015-01-27,Beechwood,Out of State,54,49,1,   ,0
 2015-01-27,Belfry,Phelps,60,40,1,   ,0
 2015-01-27,Bell County,Jenkins,58,50,1,   ,0
 2015-01-27,Boone County,Simon Kenton,71,70,0,   ,0
@@ -2748,7 +2748,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-27,Brown,St. Francis,70,47,0,  (corrected score) ,0
 2015-01-27,Bryan Station,Sayre,68,41,1,   ,0
 2015-01-27,Burgin,Kentucky School f/t Deaf,55,37,1,   ,0
-2015-01-27,Calloway County,Henry County. TN,55,52,0,   ,0
+2015-01-27,Calloway County,Out of State,55,52,0,   ,0
 2015-01-27,Campbell County,Pendleton County,67,54,0,   ,0
 2015-01-27,Carlisle County,McCracken County,79,71,1,   ,0
 2015-01-27,Central,Western,63,54,1,   ,0
@@ -2799,7 +2799,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-27,Prestonsburg,Allen Central,55,52,1,   ,0
 2015-01-27,Rowan County,Greenup County,63,27,1,   ,0
 2015-01-27,Russell County,Pulaski County,79,59,0,   ,0
-2015-01-27,Russellville,Springfield. TN,85,75,1,   ,0
+2015-01-27,Russellville,Out of State,85,75,1,   ,0
 2015-01-27,Scott,Montgomery County,68,67,0,   ,0
 2015-01-27,Seneca,Butler,50,45,1,   ,0
 2015-01-27,Shelby County,Western Hills,72,56,0,   ,0
@@ -2808,7 +2808,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-27,South Laurel,Corbin,70,54,1,   ,0
 2015-01-27,South Oldham,Carroll County,84,60,0,   ,0
 2015-01-27,Southwestern,West Jessamine,76,62,0,   ,0
-2015-01-27,St. Joseph Central (Ironton). OH,Fairview,59,46,1,   ,0
+2015-01-27,Out of State,Fairview,59,46,1,   ,0
 2015-01-27,St. Patrick,Raceland,62,51,0,   ,0
 2015-01-27,St. Xavier,Eastern,69,48,0,   ,0
 2015-01-27,Taylor County,Adair County,84,49,0,   ,0
@@ -2817,7 +2817,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-27,Walton-Verona,Williamstown,73,64,1,   ,0
 2015-01-27,Warren Central,South Warren,68,51,1,   ,0
 2015-01-27,Wayne County,Knox Central,84,80,0,   ,0
-2015-01-27,Webster County,Evansville Day. IN,59,40,0,   ,0
+2015-01-27,Webster County,Out of State,59,40,0,   ,0
 2015-01-27,Williamsburg,Whitley County,62,41,0,   ,0
 2015-01-27,Woodford County,Collins,60,46,1,   ,0
 2015-01-28,Ballard,Doss,76,69,1,   ,0
@@ -2845,13 +2845,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-29,Elliott County,Kentucky Country Day,69,58,2,   ,0
 2015-01-29,Evangel Christian,Covington Latin,78,59,1,   ,0
 2015-01-29,Gallatin County,Walton-Verona,50,46,1,   ,0
-2015-01-29,Graves County,Dresden. TN,76,40,1,   ,0
-2015-01-29,J Frank White Academy. TN,Red Bird,45,35,0,   ,0
+2015-01-29,Graves County,Out of State,76,40,1,   ,0
+2015-01-29,Out of State,Red Bird,45,35,0,   ,0
 2015-01-29,June Buchanan,Pike County Central,56,53,0,   ,0
 2015-01-29,Letcher County Central,Jenkins,85,59,0,   ,0
 2015-01-29,Lexington Christian,Shawnee,74,43,2,   ,0
 2015-01-29,Livingston Central,Dawson Springs,62,41,1,   ,0
-2015-01-29,Logan. WV,Belfry,68,57,0,   ,0
+2015-01-29,Out of State,Belfry,68,57,0,   ,0
 2015-01-29,Monroe County,Murray,63,55,2,   ,0
 2015-01-29,Newport Central Catholic,Hancock County,67,31,2,   ,0
 2015-01-29,Owen County,Augusta,64,50,2,   ,0
@@ -2879,7 +2879,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-30,Campbellsville,Thomas Nelson,74,43,0,   ,0
 2015-01-30,Caverna,LaRue County,82,64,1,   ,0
 2015-01-30,Central,Butler,50,42,0,   ,0
-2015-01-30,Christian Fellowship,Carrol Academy. TN,66,38,1,   ,0
+2015-01-30,Christian Fellowship,Out of State,66,38,1,   ,0
 2015-01-30,Clay County,Jackson County,66,60,0,   ,0
 2015-01-30,Collins,Grant County,57,40,1,   ,0
 2015-01-30,Cooper,Ryle,57,43,0,   ,0
@@ -2911,17 +2911,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-30,Henry County,Williamstown,64,48,1,   ,0
 2015-01-30,Holmes,Beechwood,82,60,1,   ,0
 2015-01-30,Jackson City,Bell County,65,57,1,   ,0
-2015-01-30,Kentucky School f/t Deaf,Michigan School for the Deaf,56,52,2,  overtime ,0
+2015-01-30,Kentucky School f/t Deaf,Out of State,56,52,2,  overtime ,1
 2015-01-30,Knott County Central,Breathitt County,86,45,0,   ,0
-2015-01-30,Lafayette,Henry Clay,69,60,0,  overtime ,0
+2015-01-30,Lafayette,Henry Clay,69,60,0,  overtime ,1
 2015-01-30,Lawrence County,Phelps,76,48,0,   ,0
 2015-01-30,Lexington Catholic,Tates Creek,64,42,1,   ,0
 2015-01-30,Lexington Christian,Buckhorn,53,35,2,   ,0
 2015-01-30,Lyon County,Dawson Springs,65,32,0,   ,0
 2015-01-30,Madisonville-North Hopkins,Hopkins County Central,52,43,0,   ,0
-2015-01-30,Male,Seneca,55,54,1,  Overtime  ,0
+2015-01-30,Male,Seneca,55,54,1,  Overtime  ,1
 2015-01-30,Marion County,Nelson County,58,47,1,   ,0
-2015-01-30,Marshall County,Paducah Tilghman,65,63,0,  overtime  ,0
+2015-01-30,Marshall County,Paducah Tilghman,65,63,0,  overtime  ,1
 2015-01-30,Mason County,Rowan County,60,42,1,   ,0
 2015-01-30,McCracken County,St. Mary,55,43,1,   ,0
 2015-01-30,McCreary Central,Middlesboro,65,51,0,   ,0
@@ -2937,11 +2937,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-30,Oldham County,Shelby County,71,56,0,   ,0
 2015-01-30,Oneida Baptist Institute,Piarist School,82,35,1,   ,0
 2015-01-30,Owen County,Shelby Valley,57,52,2,  (overtime) (corrected score) ,1
-2015-01-30,Owensboro,Evansville Bosse. IN,74,63,1,   ,0
+2015-01-30,Owensboro,Out of State,74,63,1,   ,0
 2015-01-30,Paintsville,Lee County,89,38,2,   ,0
 2015-01-30,Pikeville,Allen Central,76,55,0,   ,0
 2015-01-30,Pulaski County,Rockcastle County,63,46,0,   ,0
-2015-01-30,Rock Creek Academy. IN,Iroquois,56,32,1,   ,0
+2015-01-30,Out of State,Iroquois,56,32,1,   ,0
 2015-01-30,Russellville,South Warren,70,60,1,   ,0
 2015-01-30,Scott County,Bourbon County,84,32,0,   ,0
 2015-01-30,Silver Grove,Robertson County,71,69,1,   ,0
@@ -2950,10 +2950,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-30,St. Henry,Lloyd Memorial,71,53,1,   ,0
 2015-01-30,Trinity (Louisville),Madison Central,56,46,1,   ,0
 2015-01-30,Trinity (Whitesville),Butler County,86,41,1,   ,0
-2015-01-30,Union County,Trigg County,80,79,0,  (double overtime) ,0
+2015-01-30,Union County,Trigg County,80,79,0,  (double overtime) ,1
 2015-01-30,Wayne County,Southwestern,81,65,1,   ,0
 2015-01-30,West Jessamine,Madison Southern,63,54,0,   ,0
-2015-01-31,Adair County,Washington County,76,71,0,  (double overtime) ,0
+2015-01-31,Adair County,Washington County,76,71,0,  (double overtime) ,1
 2015-01-31,Anderson County,Valley,69,43,0,   ,0
 2015-01-31,Bardstown,Meade County,65,57,2,   ,0
 2015-01-31,Bath County,Lee County,51,43,2,   ,0
@@ -2983,13 +2983,13 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-31,Holmes,Simon Kenton,83,59,1,   ,0
 2015-01-31,Holy Cross (Covington),Ryle,59,46,1,   ,0
 2015-01-31,Hopkinsville,Christian County,70,63,1,   ,0
-2015-01-31,Illinois School for the Deaf,Kentucky School f/t Deaf,58,40,2,   ,0
+2015-01-31,Out of State,Kentucky School f/t Deaf,58,40,2,   ,0
 2015-01-31,Jackson City,Jackson County,64,50,1,   ,0
 2015-01-31,Jeffersontown,Franklin County,77,62,0,   ,0
-2015-01-31,Jeffersonville. IN,Fairdale,54,51,0,   ,0
+2015-01-31,Out of State,Fairdale,54,51,0,   ,0
 2015-01-31,John Hardin,Pleasure Ridge Park,74,66,1,   ,0
 2015-01-31,Knott County Central,Belfry,94,58,1,   ,0
-2015-01-31,Lake County. TN,Fulton County,78,64,0,   ,0
+2015-01-31,Out of State,Fulton County,78,64,0,   ,0
 2015-01-31,Letcher County Central,Knox Central,80,74,1,   ,0
 2015-01-31,Madison Central,Boyd County,60,59,1,   ,0
 2015-01-31,McCracken County,Graves County,62,55,0,   ,0
@@ -3002,14 +3002,14 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-01-31,North Laurel,Oneida Baptist Institute,64,44,1,   ,0
 2015-01-31,North Oldham,Atherton,53,51,1,   ,0
 2015-01-31,Ohio County,Cloverport,81,59,2,   ,0
-2015-01-31,Ohio School for the Deaf,Kentucky School f/t Deaf,45,32,1,   ,0
+2015-01-31,Out of State,Kentucky School f/t Deaf,45,32,1,   ,0
 2015-01-31,Oldham County,Gallatin County,81,34,0,   ,0
 2015-01-31,Owensboro,McLean County,86,34,1,   ,0
 2015-01-31,Paris,Sayre,64,54,2,   ,0
 2015-01-31,Paul Laurence Dunbar,DuPont Manual,84,73,2,   ,0
 2015-01-31,Perry County Central,Lawrence County,63,52,2,   ,0
 2015-01-31,Pikeville,Greenup County,70,62,1,   ,0
-2015-01-31,Pineville,Thomas Walker. VA,52,41,0,   ,0
+2015-01-31,Pineville,Out of State,52,41,0,   ,0
 2015-01-31,Pulaski County,Hazard,71,53,1,   ,0
 2015-01-31,Raceland,Menifee County,52,45,0,   ,0
 2015-01-31,South Floyd,Powell County,68,57,2,   ,0
@@ -3040,17 +3040,17 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-02,Pendleton County,Robertson County,73,51,0,  (corrected score) ,0
 2015-02-02,Rowan County,Fleming County,65,53,0,   ,0
 2015-02-02,Somerset,Madison Southern,56,54,0,   ,0
-2015-02-02,South Fulton. TN,Hickman County,46,38,1,   ,0
+2015-02-02,Out of State,Hickman County,46,38,1,   ,0
 2015-02-02,Tates Creek,Sayre,67,42,1,   ,0
 2015-02-02,University Heights,Fort Campbell,74,38,0,   ,0
 2015-02-02,Villa Madonna,Calvary Christian,56,39,0,   ,0
 2015-02-02,Western,Walden,2,0,1,  (forfeit) ,0
 2015-02-03,Allen County-Scottsville,Hart County,68,59,1,   ,0
 2015-02-03,Apollo,Ohio County,83,48,0,   ,0
-2015-02-03,Ballard,Jeffersonville. IN,83,70,0,   ,0
+2015-02-03,Ballard,Out of State,83,70,0,   ,0
 2015-02-03,Bardstown,Bethlehem,67,66,1,   ,0
 2015-02-03,Barren County,Greenwood,64,51,0,   ,0
-2015-02-03,Bellevue,St. Bernard-Elmwood Place. OH,54,52,0,   ,0
+2015-02-03,Bellevue,Out of State,54,52,0,   ,0
 2015-02-03,Beth Haven,Holy Cross (Louisville),47,42,1,   ,0
 2015-02-03,Bishop Brossart,Bracken County,83,45,1,   ,0
 2015-02-03,Bowling Green,South Warren,61,58,1,   ,0
@@ -3089,7 +3089,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-03,Hopkins County Central,Dawson Springs,76,41,0,   ,0
 2015-02-03,Jackson City,Riverside Christian,81,49,0,   ,0
 2015-02-03,Johnson Central,Breathitt County,85,63,0,   ,0
-2015-02-03,Joppa-Maple Grove. IL,Christian Fellowship,66,28,1,   ,0
+2015-02-03,Out of State,Christian Fellowship,66,28,1,   ,0
 2015-02-03,Kentucky Country Day,Spencer County,57,56,0,   ,0
 2015-02-03,Knott County Central,Perry County Central,65,42,0,   ,0
 2015-02-03,Knox Central,Whitley County,73,61,0,   ,0
@@ -3098,7 +3098,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-03,Leslie County,Allen Central,60,57,0,   ,0
 2015-02-03,Letcher County Central,Hazard,59,54,1,   ,0
 2015-02-03,Lexington Catholic,Paul Laurence Dunbar,67,59,0,   ,0
-2015-02-03,Lynn Camp,Jellico. TN,57,40,1,   ,0
+2015-02-03,Lynn Camp,Out of State,57,40,1,   ,0
 2015-02-03,Mason County,Montgomery County,59,43,0,   ,0
 2015-02-03,McCracken County,Hickman County,62,42,0,   ,0
 2015-02-03,McCreary Central,Rockcastle County,94,80,1,   ,0
@@ -3111,7 +3111,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-03,Newport Central Catholic,St. Henry,67,35,0,   ,0
 2015-02-03,Nicholas County,Berea,86,73,1,   ,0
 2015-02-03,North Bullitt,Evangel Christian,101,62,1,   ,0
-2015-02-03,North College Hill. OH,Ludlow,72,70,1,  (double overtime) ,0
+2015-02-03,Out of State,Ludlow,72,70,1,  (double overtime) ,1
 2015-02-03,North Hardin,Marion County,63,47,1,   ,0
 2015-02-03,North Laurel,Bell County,28,22,1,   ,0
 2015-02-03,North Oldham,South Oldham,72,56,0,   ,0
@@ -3125,11 +3125,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-03,Powell County,Owsley County,63,51,1,   ,0
 2015-02-03,Russellville,Franklin-Simpson,68,66,1,  (corrected score) ,0
 2015-02-03,Ryle,Gallatin County,70,64,0,   ,0
-2015-02-03,Sciotoville Community East. OH,Rose Hill Christian,72,34,0,   ,0
+2015-02-03,Out of State,Rose Hill Christian,72,34,0,   ,0
 2015-02-03,Scott County,Bryan Station,72,67,1,   ,0
 2015-02-03,Shelby County,Frankfort,82,57,0,   ,0
-2015-02-03,Shroder (Cincinnati). OH,Pleasure Ridge Park,76,69,0,   ,0
-2015-02-03,South Spencer. IN,Hancock County,69,62,1,   ,0
+2015-02-03,Out of State,Pleasure Ridge Park,76,69,0,   ,0
+2015-02-03,Out of State,Hancock County,69,62,1,   ,0
 2015-02-03,Southwestern,Casey County,76,63,0,   ,0
 2015-02-03,St. Patrick,Dayton,66,35,0,   ,0
 2015-02-03,St. Xavier,Christian Academy-Louisville,71,43,0,   ,0
@@ -3138,7 +3138,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-03,Trimble County,Carroll County,66,64,1,   ,0
 2015-02-03,Trinity (Louisville),Hopkinsville,71,42,1,   ,0
 2015-02-03,Trinity (Whitesville),Cloverport,67,53,2,   ,0
-2015-02-03,Tug Valley. WV,Phelps,79,42,1,   ,0
+2015-02-03,Out of State,Phelps,79,42,1,   ,0
 2015-02-03,Waggener,Valley,72,37,1,   ,0
 2015-02-03,Warren Central,Christian County,68,50,1,   ,0
 2015-02-03,Warren East,Cumberland County,75,43,1,   ,0
@@ -3158,7 +3158,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-04,Magoffin County,South Floyd,76,65,1,   ,0
 2015-02-04,Model,Woodford County,46,44,0,   ,0
 2015-02-04,Pendleton County,Walton-Verona,56,42,0,   ,0
-2015-02-04,Sheldon Clark,Tolsia. WV,85,51,0,   ,0
+2015-02-04,Sheldon Clark,Out of State,85,51,0,   ,0
 2015-02-04,St. Henry,Newport,56,44,1,   ,0
 2015-02-05,Bellevue,Dayton,50,37,1,   ,0
 2015-02-05,Boone County,Ryle,82,47,0,   ,0
@@ -3221,7 +3221,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-06,Daviess County,Owensboro Catholic,50,36,1,   ,0
 2015-02-06,Doss,Southern,102,78,1,   ,0
 2015-02-06,DuPont Manual,Waggener,69,62,1,   ,0
-2015-02-06,East Carter,South Point. OH,60,54,1,   ,0
+2015-02-06,East Carter,Out of State,60,54,1,   ,0
 2015-02-06,East Ridge,Shelby Valley,57,49,1,   ,0
 2015-02-06,Edmonson County,Trinity (Whitesville),65,54,0,   ,0
 2015-02-06,Elizabethtown,Fort Knox,86,29,0,   ,0
@@ -3250,12 +3250,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-06,Lincoln County,Garrard County,86,53,0,   ,0
 2015-02-06,Lloyd Memorial,Ludlow,65,41,1,   ,0
 2015-02-06,Logan County,Russellville,79,63,1,   ,0
-2015-02-06,Lynn Camp,J Frank White Academy. TN,81,36,0,   ,0
+2015-02-06,Lynn Camp,Out of State,81,36,0,   ,0
 2015-02-06,Mason County,George Rogers Clark,68,54,1,   ,0
 2015-02-06,Meade County,Cloverport,72,55,2,   ,0
 2015-02-06,Menifee County,Robertson County,81,68,1,   ,0
 2015-02-06,Mercer County,Burgin,70,17,0,   ,0
-2015-02-06,Michigan School for the Deaf,Kentucky School f/t Deaf,58,52,0,   ,0
+2015-02-06,Out of State,Kentucky School f/t Deaf,58,52,0,   ,0
 2015-02-06,Monroe County,Allen County-Scottsville,73,60,0,   ,0
 2015-02-06,Muhlenberg County,McLean County,56,54,1,   ,0
 2015-02-06,Oldham County,Simon Kenton,64,63,0,   ,0
@@ -3277,7 +3277,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-06,St. Xavier,Male,67,31,1,   ,0
 2015-02-06,Taylor County,Marion County,81,54,0,   ,0
 2015-02-06,Trinity (Louisville),Western,78,54,0,   ,0
-2015-02-06,Union. VA,Letcher County Central,60,52,1,   ,0
+2015-02-06,Out of State,Letcher County Central,60,52,1,   ,0
 2015-02-06,Warren Central,Warren East,83,62,0,   ,0
 2015-02-06,Washington County,Cumberland County,59,49,1,   ,0
 2015-02-06,Wayne County,McCreary Central,87,32,1,   ,0
@@ -3301,7 +3301,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-07,Buckhorn,Letcher County Central,64,58,1,   ,0
 2015-02-07,Bullitt Central,Valley,66,62,0,   ,0
 2015-02-07,Bullitt East,Christian Academy-Louisville,65,42,0,   ,0
-2015-02-07,Cairo. IL,Fulton County,71,58,0,   ,0
+2015-02-07,Out of State,Fulton County,71,58,0,   ,0
 2015-02-07,Campbell County,Grant County,76,57,1,   ,0
 2015-02-07,Campbellsville,Metcalfe County,66,43,0,   ,0
 2015-02-07,Carlisle County,Community Christian (Paducah),70,30,1,   ,0
@@ -3309,7 +3309,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-07,Cloverport,Dawson Springs,73,51,0,   ,0
 2015-02-07,Collins,Harrison County,63,51,1,   ,0
 2015-02-07,Cooper,Franklin County,55,41,0,   ,0
-2015-02-07,Crittenden County,Hardin (Calhoun). IL,41,39,0,   ,0
+2015-02-07,Crittenden County,Out of State,41,39,0,   ,0
 2015-02-07,Evangel Christian,Fort Knox,79,68,0,   ,0
 2015-02-07,Fairview,St. Patrick,60,47,0,   ,0
 2015-02-07,Garrard County,Brown,76,43,1,   ,0
@@ -3320,8 +3320,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-07,Jackson City,Red Bird,102,61,2,   ,0
 2015-02-07,Jackson County,Oneida Baptist Institute,70,52,0,   ,0
 2015-02-07,June Buchanan,Jenkins,61,45,0,   ,0
-2015-02-07,Kentucky School f/t Deaf,Georgia School for the Deaf,62,28,1,   ,0
-2015-02-07,Kentucky School f/t Deaf,North Carolina School for the Deaf,53,26,1,   ,0
+2015-02-07,Kentucky School f/t Deaf,Out of State,62,28,1,   ,0
+2015-02-07,Kentucky School f/t Deaf,Out of State,53,26,1,   ,0
 2015-02-07,Knox Central,Leslie County,77,38,1,   ,0
 2015-02-07,Lafayette,Perry County Central,80,75,1,   ,0
 2015-02-07,Lawrence County,Williamsburg,110,78,1,   ,0
@@ -3334,8 +3334,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-07,Murray,Marshall County,56,52,1,   ,0
 2015-02-07,Newport Central Catholic,Beechwood,64,29,1,   ,0
 2015-02-07,North Hardin,North Oldham,75,47,1,   ,0
-2015-02-07,Obion County. TN,Fulton City,62,47,1,   ,0
-2015-02-07,Paul Laurence Dunbar,Doss,83,82,2,  overtime ,0
+2015-02-07,Out of State,Fulton City,62,47,1,   ,0
+2015-02-07,Paul Laurence Dunbar,Doss,83,82,2,  overtime ,1
 2015-02-07,Pendleton County,Williamstown,91,55,0,   ,0
 2015-02-07,Piarist School,Riverside Christian,64,50,2,   ,0
 2015-02-07,Pulaski County,Danville,72,54,0,   ,0
@@ -3356,7 +3356,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-07,Whitefield Academy,Western Hills,55,43,1,   ,0
 2015-02-09,Allen Central,Jenkins,71,69,1,   ,0
 2015-02-09,Betsy Layne,Jackson County,60,58,1,   ,0
-2015-02-09,Bishop Brossart,Cincinnati College Prep. Academy. OH,69,29,1,   ,0
+2015-02-09,Bishop Brossart,Out of State,69,29,1,   ,0
 2015-02-09,Bowling Green,Logan County,77,69,0,   ,0
 2015-02-09,Bracken County,Williamstown,86,71,0,   ,0
 2015-02-09,Breckinridge County,Edmonson County,78,65,0,   ,0
@@ -3378,7 +3378,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-09,Madison Southern,Bourbon County,79,72,1,   ,0
 2015-02-09,Montgomery County,Menifee County,84,48,0,   ,0
 2015-02-09,Morgan County,West Carter,71,60,1,   ,0
-2015-02-09,Newport,Riverview East Academy. OH,80,72,1,   ,0
+2015-02-09,Newport,Out of State,80,72,1,   ,0
 2015-02-09,Oldham County,Western Hills,65,44,1,   ,0
 2015-02-09,Oneida Baptist Institute,Leslie County,63,51,0,   ,0
 2015-02-09,Owensboro Catholic,Greenwood,57,42,1,   ,0
@@ -3390,8 +3390,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-09,South Laurel,Bell County,63,50,0,   ,0
 2015-02-09,South Oldham,Iroquois,83,65,1,   ,0
 2015-02-09,South Warren,Todd County Central,72,62,0,   ,0
-2015-02-09,Tug Valley. WV,Belfry,53,47,1,   ,0
-2015-02-09,Walden,Evangel Christian,65,62,1,  overtime ,0
+2015-02-09,Out of State,Belfry,53,47,1,   ,0
+2015-02-09,Walden,Evangel Christian,65,62,1,  overtime ,1
 2015-02-09,Webster County,Lyon County,79,35,0,   ,0
 2015-02-09,Whitley County,Williamsburg,45,43,0,   ,0
 2015-02-10,Anderson County,Carroll County,86,53,1,   ,0
@@ -3401,7 +3401,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-10,Beth Haven,Fort Knox,59,45,1,   ,0
 2015-02-10,Betsy Layne,Paintsville,47,45,1,   ,0
 2015-02-10,Boone County,Holmes,97,83,1,   ,0
-2015-02-10,Boyd County,South Point. OH,81,37,1,   ,0
+2015-02-10,Boyd County,Out of State,81,37,1,   ,0
 2015-02-10,Boyle County,Southwestern,72,67,0,  (overtime)(overtime) ,1
 2015-02-10,Bracken County,Lloyd Memorial,68,62,1,   ,0
 2015-02-10,Breathitt County,Powell County,51,45,0,   ,0
@@ -3428,7 +3428,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-10,Fern Creek,Fairdale,69,54,0,   ,0
 2015-02-10,Fleming County,Lewis County,63,60,0,   ,0
 2015-02-10,Franklin County,Christian Academy-Louisville,57,46,1,   ,0
-2015-02-10,George Washington. WV,Perry County Central,57,51,2,   ,0
+2015-02-10,Out of State,Perry County Central,57,51,2,   ,0
 2015-02-10,Grant County,Conner,74,64,1,   ,0
 2015-02-10,Graves County,Ballard Memorial,66,50,0,   ,0
 2015-02-10,Greenup County,Rose Hill Christian,82,37,0,   ,0
@@ -3440,7 +3440,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-10,Henderson County,Apollo,65,60,0,   ,0
 2015-02-10,Hopkins County Central,Union County,58,45,0,   ,0
 2015-02-10,Hopkinsville,University Heights,84,56,0,   ,0
-2015-02-10,J Frank White Academy. TN,Red Bird,55,44,1,   ,0
+2015-02-10,Out of State,Red Bird,55,44,1,   ,0
 2015-02-10,Jeffersontown,Moore,57,55,0,   ,0
 2015-02-10,John Hardin,Washington County,61,31,0,   ,0
 2015-02-10,Johnson Central,Pike County Central,79,58,0,   ,0
@@ -3452,7 +3452,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-10,Lexington Catholic,Madison Central,76,73,0,   ,0
 2015-02-10,Lexington Christian,Tates Creek,58,45,1,   ,0
 2015-02-10,Lincoln County,Mercer County,60,47,1,   ,0
-2015-02-10,Logan County,Rossview. TN,55,35,0,   ,0
+2015-02-10,Logan County,Out of State,55,35,0,   ,0
 2015-02-10,Ludlow,Silver Grove,69,48,0,   ,0
 2015-02-10,Madisonville-North Hopkins,Webster County,61,58,0,   ,0
 2015-02-10,Marshall County,Livingston Central,58,27,1,   ,0
@@ -3478,7 +3478,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-10,Rowan County,Ashland Blazer,91,64,1,   ,0
 2015-02-10,Russell County,Barren County,62,59,1,   ,0
 2015-02-10,Sayre,Bethlehem,65,57,1,   ,0
-2015-02-10,School for Creative Performing Arts. OH,Covington Latin,72,55,1,   ,0
+2015-02-10,Out of State,Covington Latin,72,55,1,   ,0
 2015-02-10,Seneca,Shawnee,64,50,0,   ,0
 2015-02-10,Shelby County,Spencer County,77,59,0,   ,0
 2015-02-10,Sheldon Clark,Shelby Valley,64,63,1,   ,0
@@ -3491,7 +3491,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-10,Trigg County,Dawson Springs,75,36,1,   ,0
 2015-02-10,Trimble County,Gallatin County,59,47,0,   ,0
 2015-02-10,Trinity (Louisville),Elizabethtown,61,18,1,   ,0
-2015-02-10,Tug Valley. WV,Phelps,67,52,0,   ,0
+2015-02-10,Out of State,Phelps,67,52,0,   ,0
 2015-02-10,Valley,Butler,74,68,0,   ,0
 2015-02-10,Walden,Portland Christian,67,62,0,   ,0
 2015-02-10,Warren Central,Russellville,92,43,1,   ,0
@@ -3581,7 +3581,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-13,Garrard County,Rockcastle County,64,52,0,   ,0
 2015-02-13,Graves County,Mayfield,66,47,1,   ,0
 2015-02-13,Greenup County,Bath County,72,50,1,   ,0
-2015-02-13,Hancock County,Evansville Day. IN,46,45,1,   ,0
+2015-02-13,Hancock County,Out of State,46,45,1,   ,0
 2015-02-13,Harlan County,Oneida Baptist Institute,58,48,1,   ,0
 2015-02-13,Hart County,Fort Knox,72,45,1,   ,0
 2015-02-13,Hazard,Jackson City,78,52,0,   ,0
@@ -3628,7 +3628,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-13,St. Henry,Walton-Verona,61,53,1,   ,0
 2015-02-13,St. Mary,Crittenden County,48,30,0,   ,0
 2015-02-13,Taylor County,LaRue County,68,27,1,   ,0
-2015-02-13,Trigg County,Caldwell County,65,60,1,  overtime ,0
+2015-02-13,Trigg County,Caldwell County,65,60,1,  overtime ,1
 2015-02-13,Union County,Lyon County,67,65,1,   ,0
 2015-02-13,Valley,Whitefield Academy,64,44,1,   ,0
 2015-02-13,Warren Central,Greenwood,66,41,0,   ,0
@@ -3645,7 +3645,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-14,George Rogers Clark,Lexington Christian,79,65,1,   ,0
 2015-02-14,Harrison County,Paris,59,49,0,   ,0
 2015-02-14,Hart County,Cumberland County,46,28,0,   ,0
-2015-02-14,Henry Clay,Montgomery County,56,50,2,  overtime ,0
+2015-02-14,Henry Clay,Montgomery County,56,50,2,  overtime ,1
 2015-02-14,Hickman County,Community Christian (Paducah),68,37,0,   ,0
 2015-02-14,Holy Cross (Covington),Beechwood,62,43,1,   ,0
 2015-02-14,Hopkinsville,Hopkins County Central,90,51,1,   ,0
@@ -3673,10 +3673,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-14,Williamstown,Trimble County,80,65,1,   ,0
 2015-02-17,Villa Madonna,Heritage Academy,64,22,1,   ,0
 2015-02-19,Barbourville,Oneida Baptist Institute,75,69,0,   ,0
-2015-02-19,Bishop Brossart,Lloyd Memorial,72,69,0,  overtime ,0
+2015-02-19,Bishop Brossart,Lloyd Memorial,72,69,0,  overtime ,1
 2015-02-19,Boone County,Campbell County,76,70,1,   ,0
 2015-02-19,Collins,Christian Academy-Louisville,70,56,1,   ,0
-2015-02-19,Covington Catholic,Purcell Marian (Cincinnati). OH,71,49,1,   ,0
+2015-02-19,Covington Catholic,Out of State,71,49,1,   ,0
 2015-02-19,Newport,Holy Cross (Covington),57,52,1,   ,0
 2015-02-19,Newport Central Catholic,Conner,75,50,0,   ,0
 2015-02-19,Walden,Louisville Collegiate,84,70,1,   ,0
@@ -3688,7 +3688,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-20,DeSales,North Oldham,58,51,1,   ,0
 2015-02-20,Dixie Heights,Boone County,61,43,1,   ,0
 2015-02-20,Fairview,Bath County,65,38,1,   ,0
-2015-02-20,Greenup County,South Point. OH,55,52,1,   ,0
+2015-02-20,Greenup County,Out of State,55,52,1,   ,0
 2015-02-20,Highlands,Beechwood,54,49,1,   ,0
 2015-02-20,Holy Cross (Louisville),Bethlehem,62,58,1,   ,0
 2015-02-20,Lexington Catholic,George Rogers Clark,73,54,1,   ,0
@@ -3786,7 +3786,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-25,Madisonville-North Hopkins,Hopkins County Central,72,47,2,  7th District  ,0
 2015-02-25,Apollo,Daviess County,42,39,2,  9th District  ,0
 2015-02-25,Edmonson County,Butler County,74,70,1,  12th District  ,0
-2015-02-25,Grayson County,Trinity,59,52,2,  12th District  ,0
+2015-02-25,Grayson County,Trinity (Whitesville),59,52,2,  12th District  ,0
 2015-02-25,Russellville,Franklin-Simpson,80,66,2,  13th District  ,0
 2015-02-25,Warren Central,Warren East,96,58,2,  14th District  ,0
 2015-02-25,Barren County,Allen County-Scottsville,57,55,2,  15th District  ,0
@@ -3832,7 +3832,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-26,Trigg County,Crittenden County,40,37,2,  5th District Championship  ,0
 2015-02-26,Hopkinsville,Fort Campbell,101,38,1,  8th District  ,0
 2015-02-26,University Heights,Christian County,86,80,2,  8th District  ,0
-2015-02-26,McLean County,Muhlenberg County,59,56,2,  10th District Championship (triple overtime) ,0
+2015-02-26,McLean County,Muhlenberg County,59,56,2,  10th District Championship (triple overtime) ,1
 2015-02-26,Bowling Green,South Warren,91,56,0,  14th District  ,0
 2015-02-26,Elizabethtown,John Hardin,63,50,1,  17th District  ,0
 2015-02-26,North Hardin,Central Hardin,64,47,0,  17th District  ,0
@@ -3896,7 +3896,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-02-27,South Floyd,Allen Central,35,28,1,  58th District Championship  ,0
 2015-02-27,Lawrence County,Pike County Central,73,59,2,  60th District Championship  ,0
 2015-02-27,Rowan County,Fleming County,75,51,1,  61st District Championship ,0
-2015-02-27,Morgan County,Elliott County,63,58,1,  62nd District (double overtime) ,0
+2015-02-27,Morgan County,Elliott County,63,58,1,  62nd District (double overtime) ,1
 2015-02-27,Raceland,Greenup County,62,39,2,  63rd District Championship  ,0
 2015-02-27,Boyd County,Ashland Blazer,71,62,2,  64th District Championship  ,0
 2015-02-28,Bowling Green,Warren Central,67,56,2,  14th District Championship  ,0
@@ -3977,7 +3977,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-03-09,Warren Central,Monroe County,68,51,2,  4th Region  ,0
 2015-03-09,Bardstown,Elizabethtown,62,48,2,  5th Region  ,0
 2015-03-09,Taylor County,North Hardin,65,55,2,  5th Region  ,0
-2015-03-09,Ballard,Trinity,67,54,2,  7th Region  ,0
+2015-03-09,Ballard,Trinity (Louisville),67,54,2,  7th Region  ,0
 2015-03-09,DuPont Manual,Waggener,51,48,2,  7th Region  ,0
 2015-03-09,Collins,Owen County,48,41,2,  8th Region  ,0
 2015-03-09,Oldham County,Grant County,70,48,2,  8th Region  ,0
@@ -4004,7 +4004,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2015-03-10,Bowling Green,Warren Central,46,43,2,  4th Region Championship  ,0
 2015-03-10,Taylor County,Bardstown,58,39,2,  5th Region Championship  ,0
 2015-03-10,DeSales,Fern Creek,69,49,2,  6th Region  ,0
-2015-03-10,Doss,Bullitt East,65,61,2,  6th Region overtime ,0
+2015-03-10,Doss,Bullitt East,65,61,2,  6th Region overtime ,1
 2015-03-10,Collins,Oldham County,53,41,2,  8th Region Championship  ,0
 2015-03-10,Covington Catholic,Holmes,45,37,2,  9th Region Championship  ,0
 2015-03-10,Campbell County,Scott,89,57,2,  10th Region Championship  ,0

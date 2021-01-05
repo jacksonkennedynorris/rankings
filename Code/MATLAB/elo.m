@@ -11,15 +11,11 @@ HFA = 11;
 %probs = zeros(length(Game)-600,1);
 %%%% END TAKE OUT 
 %% Iterate through game matrix 
-for game= 1:length(Games)
-    winner = Games(game).win_team;
-    loser = Games(game).lose_team;
-    if winner == "Out_State" || loser == "Out_State"
-       continue
-    end
 
-    i = find([Teams.name]' == winner);
-    j = find([Teams.name]' == loser);
+for game= 1:length(Games)
+
+    i = Games(game).win_id;
+    j = Games(game).lose_id;
 
     pd = Games(game).win_score - Games(game).lose_score;
     loc = Games(game).location;
@@ -41,7 +37,7 @@ for game= 1:length(Games)
     end
 %% Calculate Ratings             
         %Calculate the predictions
-
+        
         predictI = 1/(1+10^((R(j)-R(i)+HFAi)/s));
         predictJ = 1/(1+10^((R(i)-R(j)+HFAj)/s));
 

@@ -67,16 +67,14 @@ def write_HTML(season):
    
     url = season.get_url_no_date()
 
-    while True:
-        try:
-            day_html = urlopen(url)
-            break
-        except HTTPError as detail:
-            if detail.code == 500:
-                time.sleep(1)
-                continue
-    soup = BeautifulSoup(day_html, 'html.parser')
-    my_string = season.get_date_selections() #str("sel_date_" + season.get_abbreviation + season.get_last_two_of_year())
+    try: 
+        year_page = urlopen(url)
+    except: 
+        print("Url " + url + " is not correct.")
+        return
+
+    soup = BeautifulSoup(year_page, 'html.parser')
+    my_string = season.get_date_selections() 
     list_of_dates = soup.find(id = my_string)
     split = list_of_dates.getText().split()
     shorter = split[2:]
@@ -91,20 +89,13 @@ def write_HTML(season):
         if i%4 == 3:
             year = shorter[i]
             date_array.append(day + ' ' + month + ' ' +date + ' ' + year)
-    #print(day,month,date,year)
-    # #Season Start and End Dates
 
-    # create_empty_HTML_folder(season)
-    # print("MAYBE HERE")
-    # print(date_array)
     for date in date_array: # get all calendar dates of the season
-        #date = start_date + datetime.timedelta(days=i) # Calendar Date (YYYY-MM-DD)
-        #print(date)
+
         date_string = get_date_string(season, date)
-        #print(date_string)
+        # If we've already written to file, we don't need to do it again. 
         if date_string not in date_from_files: 
-            # print(os.listdir(season.get_year_path() + "/HTML"))
-            # if date_string
+  
             url = season.get_url_no_date() + date_string # URL of gameday scoreboard webpage
             while True:
                 try:
@@ -122,7 +113,6 @@ def write_HTML(season):
 
             filename = 'HTML_' + season.get_abbreviation() + "_" + date_string + '.txt'
 
-            # ** QUESTION FOR DR. H - Is it best practice to delete all the files every single time?
             f = open(season.get_year_path() + '/HTML/' + filename, 'w')
 
             f.write(day_soup.title.string + '\n')

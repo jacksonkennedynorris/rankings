@@ -1,9 +1,10 @@
 function main
 clear all 
 close all 
-sport = "Boys Basketball";  
+sport = "Football"; 
+%sport = "Boys Basketball";  
 
-for year = 1999:2020
+for year = 1999:1999
     [Games,Teams] = loading_data(year,sport);
     [Games,Teams] = calcs(Games,Teams,year,sport);
     [~, Teams] = get_aggregate_ratings(Teams, year,sport); 
