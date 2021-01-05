@@ -13,7 +13,7 @@ HFA = 11;
 %% Iterate through game matrix 
 
 for game= 1:length(Games)
-
+    
     i = Games(game).win_id;
     j = Games(game).lose_id;
 

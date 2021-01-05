@@ -58,11 +58,11 @@ for elem = length(Games):-1:1
             Teams(team).games_played = Teams(team).games_played + 1;
         end
     end
-    
+
     % Remove out of state
     if winner == "Out of State" 
+        
         loser = Games(elem).lose_id;
-        Games(elem)
         Teams(loser).games_played = Teams(loser).games_played - 1;
         Games(elem) = []; 
     elseif loser == "Out of State" 
@@ -71,9 +71,12 @@ for elem = length(Games):-1:1
         Games(elem) = []; 
     % Remove forfeits 
     elseif Games(elem).win_score == 1 || Games(elem).win_score == 2 || Games(elem).win_score == 0 %Remove forfeits
-        %Create an error message in the extremely rare case a football team wins 2-0 
         winner = Games(elem).win_id; 
-        loser = Games(elem).lose_id; 
+        loser = Games(elem).lose_id;
+        if Games(elem).win_score == 0 
+            Teams(winner).wins = Teams(winner).wins - 1;
+            Teams(loser).losses = Teams(loser).losses -1;
+        end
         Teams(winner).games_played = Teams(winner).games_played - 1; 
         Teams(loser).games_played = Teams(loser).games_played - 1; 
         Games(elem) = [];
@@ -86,7 +89,9 @@ end
 min_games = 4; % Change this number to increase/decrease minimum number of games required for a rating. 
 for team = length(Teams):-1:1
     if Teams(team).games_played < min_games
-        Teams(team)
+        disp(" ")
+        disp(Teams(team).name + " was removed for insufficient data. ")
+        disp(" ")
         Teams(team) = [];
         for i = team:length(Teams) 
             Teams(i).id = Teams(i).id - 1;
