@@ -38,12 +38,18 @@ class Season:
             elif self.year == 1998:
                 url_pre = link + '?id='
         elif self.sport == "Boys Basketball": 
-            if self.year<=2000: 
+            if self.year <= 2000: 
                 num = self.year % 1991
                 url_pre = link + str(num) + '?id='
-            else: 
+            elif self.year <= 2007:
                 num = self.year%2001
                 url_pre = link + str(num) + '?id='
+            elif self.year<2011:
+                num = self.year%2001
+                url_pre = link + "0" + str(num) + "?id="
+            else: 
+                num = self.year%2001
+                url_pre = link + str(num) + "?id="
         return url_pre
     # def get_url_1998(self): 
     #     if self.sport == "Football": 
@@ -63,6 +69,10 @@ class Season:
         if self.sport == "Boys Basketball": 
             if self.year <= 2000: 
                 return str(self.year%1991)
+            elif self.year <= 2007:
+                return str(self.year%2001)
+            elif self.year <=2010: 
+                return "0" + str(self.year%2001)
             return str(self.year%2001)
     def get_year_path(self): 
         return "../MATLAB/" + self.sport + "/Data/" + str(self.year)

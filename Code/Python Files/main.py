@@ -7,7 +7,7 @@ from find_team_data import *
 
 def main(): 
         #**** Choose year   ******
-    for year in range(2000,2021):
+    for year in range(2007,2021):
 
         #**** Choose Sport  ******
         league = "Football"  

@@ -19,7 +19,7 @@ for team_id = 1:length(Teams)
     Teams(team_id).elo = 0; 
     Teams(team_id).wins = 0; 
     Teams(team_id).losses = 0; 
-    Teams(team_id).games_played =0; 
+    Teams(team_id).games_played = 0; 
 end
 
 %% Fix all extreme cases 
@@ -62,6 +62,7 @@ for elem = length(Games):-1:1
     % Remove out of state
     if winner == "Out of State" 
         loser = Games(elem).lose_id;
+        Games(elem)
         Teams(loser).games_played = Teams(loser).games_played - 1;
         Games(elem) = []; 
     elseif loser == "Out of State" 

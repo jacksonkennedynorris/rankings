@@ -69,8 +69,19 @@ def write_HTML(season):
     
     year_page = urlopen(url)
     
+    while True: 
+        try:
+            day_html = urlopen(url)
+            break
+        except HTTPError as detail:
+                if detail.code == 500:
+                    time.sleep(1)
+                    continue
+    
     soup = BeautifulSoup(year_page, 'html.parser')
+    
     my_string = season.get_date_selections() 
+   
     list_of_dates = soup.find(id = my_string)
     split = list_of_dates.getText().split()
     shorter = split[2:]
