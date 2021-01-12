@@ -16,15 +16,22 @@ Colley = readtable(colleyFile);
 Colley = Colley{:,2}; 
 Elo = readtable(eloFile); 
 Elo = Elo{:,2};
-
-% get parameters from get_historical_normalized_ratings.m (2013-2018)
-median_min_mass = -67.8899;
-median_max_mass = 64.4771;
-median_min_coll = -5.0116e-04;
-median_max_coll = 1.0851;
-median_min_elo = 1.3363e+03;
-median_max_elo = 1.7436e+03;
-
+if sport == "Football" 
+    % get parameters from get_historical_normalized_ratings.m (2013-2018)
+    median_min_mass = -53.9125;
+    median_max_mass = 52.4871;
+    median_min_coll = -.0297;
+    median_max_coll = 1.1013;
+    median_min_elo = 1.312e+03;
+    median_max_elo = 1.7795e+03;
+elseif sport == "Boys Basketball" 
+   median_min_mass = -49.4815;
+   median_min_coll = -.02277;
+   median_min_elo = 1.1898e+03;
+   median_max_mass = 34.8441;
+   median_max_coll =  1.1646; 
+   median_max_elo = 1.8831e+03;
+end
 % normalize ratings
 masseyNormal=(Massey-median_min_mass)./(median_max_mass-median_min_mass).*100;
 colleyNormal=(Colley-median_min_coll)./(median_max_coll-median_min_coll).*100;
