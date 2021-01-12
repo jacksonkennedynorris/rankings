@@ -97,17 +97,20 @@ for team = length(Teams):-1:1
             Teams(i).id = Teams(i).id - 1;
         end
         for game = length(Games):-1:1
-            if Games(game).win_id == team
-                Games(game) = [];
-            elseif Games(game).lose_id == team
-                Games(game) = [];
-            end
+            %Games(game)
             if Games(game).win_id > team 
                 Games(game).win_id = Games(game).win_id - 1;
             end
             if Games(game).lose_id > team 
                 Games(game).lose_id = Games(game).lose_id - 1;
             end
+            if Games(game).win_id == team
+                Games(game) = [];
+            elseif Games(game).lose_id == team
+                Games(game) = [];
+            end
+            
+
         end
     end
 end

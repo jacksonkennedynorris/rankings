@@ -49,6 +49,7 @@ def create_game_infos(season):
         lose_score = ""
         date_comments = ""
         i = -1
+
         for tr in table[0].findAll('tr'): 
             if i == -1: 
                 i = 0
