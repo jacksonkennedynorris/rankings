@@ -78,3 +78,7 @@ class Season:
         return "../MATLAB/" + self.sport + "/Data/" + str(self.year)
     def get_teams_path(self): 
         return "../MATLAB/" + self.sport + "/Teams/" + str(self.year) + "_teams.txt"
+    def is_current_season(self): 
+        if self.year == 2021: 
+            return True 
+        return False

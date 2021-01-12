@@ -101,7 +101,8 @@ def write_HTML(season):
 
         date_string = get_date_string(season, date)
         # If we've already written to file, we don't need to do it again. 
-        if date_string not in date_from_files: 
+
+        if date_string not in date_from_files or season.is_current_season(): 
   
             url = season.get_url_no_date() + date_string # URL of gameday scoreboard webpage
             while True:
