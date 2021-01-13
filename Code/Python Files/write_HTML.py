@@ -124,7 +124,7 @@ def write_HTML(season):
             f = open(season.get_year_path() + '/HTML/' + filename, 'w')
 
             f.write(day_soup.title.string + '\n')
-            f.write(str(day_soup))
+            f.write(str(day_soup.encode('utf-8')))
             f.close()
 
     print('Written HTML to file!')

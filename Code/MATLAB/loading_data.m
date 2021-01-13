@@ -86,7 +86,7 @@ end
 
 
 %% Remove teams with fewer than x games played 
-min_games = 4; % Change this number to increase/decrease minimum number of games required for a rating. 
+min_games = 1; % Change this number to increase/decrease minimum number of games required for a rating. 
 for team = length(Teams):-1:1
     if Teams(team).games_played < min_games
         disp(" ")
