@@ -50,7 +50,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-04,Webster County,Caldwell County,66,50,1,   ,0
 2021-01-04,Whitley County,Lynn Camp,61,58,1,   ,0
 2021-01-04,Williamsburg,Out of State,94,36,1,   ,0
-2021-01-05,Gallatin County,Trimble County,70,58,2, 8th Region All \xc3\xa2\xe2\x82\xac\xc5\x93A\xc3\xa2\xe2\x82\xac\xc2\x9d Classic  ,0
+2021-01-05,Gallatin County,Trimble County,70,58,2, 8th Region All \xe2\x80\x9cA\xe2\x80\x9d Classic  ,0
 2021-01-05,Allen County-Scottsville,Monroe County,73,30,0,   ,0
 2021-01-05,Barbourville,Williamsburg,78,68,1,   ,0
 2021-01-05,Belfry,Prestonsburg,83,62,0,   ,0
@@ -100,8 +100,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-05,Metcalfe County,Green County,59,57,1,   ,0
 2021-01-05,Model,Out of State,73,56,1,   ,0
 2021-01-05,Montgomery County,Bourbon County,85,44,1,   ,0
-2021-01-05,Out of State,Warren East,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-05,Out of State,Burgin,0,0,1,  COVID Cancelation - RPI per policy ,0
+2021-01-05,Out of State,Warren East,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-05,Newport Central Catholic,Newport,77,44,1,   ,0
 2021-01-05,Nicholas County,St. Patrick,77,30,0,   ,0
 2021-01-05,Ohio County,Grayson County,63,40,1,   ,0
@@ -145,7 +145,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-06,Russell,Paintsville,66,59,1,   ,0
 2021-01-06,Shelby County,Out of State,67,51,1,   ,0
 2021-01-06,West Carter,Magoffin County,69,62,1,   ,0
-2021-01-07,Owen County,Gallatin County,50,49,2, 8th Region All \xe2\x80\x9cA\xe2\x80\x9d Classic  ,0
+2021-01-07,Owen County,Gallatin County,50,49,2, 8th Region All \xc3\xa2\xe2\x82\xac\xc5\x93A\xc3\xa2\xe2\x82\xac\xc2\x9d Classic  ,0
 2021-01-07,Betsy Layne,Bath County,82,64,0,   ,0
 2021-01-07,Bourbon County,Mason County,85,83,1,  (overtime) ,1
 2021-01-07,Christian Fellowship,St. Mary,46,43,1,   ,0
@@ -173,8 +173,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-07,Metcalfe County,Russellville,80,68,0,   ,0
 2021-01-07,Murray,Apollo,56,41,0,   ,0
 2021-01-07,Out of State,Jackson City,0,0,1,  COVID Cancelation - RPI per policy ,0
-2021-01-07,Out of State,Logan County,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-07,Out of State,Mercer County,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-07,Out of State,Logan County,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-07,Newport Central Catholic,Scott,54,45,1,   ,0
 2021-01-07,Paul Laurence Dunbar,Henry Clay,69,60,1,   ,0
 2021-01-07,Sayre,Bethlehem,62,50,0,   ,0
@@ -349,111 +349,110 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-11,Thomas Nelson,Marion County,72,69,0,   ,0
 2021-01-11,Trinity Christian,Bath County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-11,Walton-Verona,Woodford County,63,61,0,   ,0
+2021-01-12,Robertson County,Calvary Christian,81,55,2," 10th Region All ""A"" Classic  ",0
 2021-01-12,Frankfort Christian,Model,0,0,2," 11th Region All ""A"" Classic COVID Cancelation-RPI per policy ",0
+2021-01-12,Lexington Christian,Frankfort,55,49,2," 11th Region All ""A"" Classic  ",0
+2021-01-12,Sayre,Berea,68,59,0," 11th Region All ""A"" Classic  ",0
 2021-01-12,Somerset,Burgin,72,34,2," 12th Region All ""A"" Classic  ",0
+2021-01-12,Barbourville,Jackson County,76,59,2," 13th Region All ""A"" Classic  ",0
 2021-01-12,Harlan,Lynn Camp,66,61,2," 13th Region All ""A"" Classic  ",0
+2021-01-12,East Ridge,Phelps,74,52,2," 15th Region All ""A"" Classic  ",0
+2021-01-12,Pikeville,Betsy Layne,77,75,2," 15th Region All ""A"" Classic (overtime) ",1
+2021-01-12,Hickman County,Fulton County,71,43,2," 1st Region All ""A"" Classic  ",0
+2021-01-12,Mayfield,Christian Fellowship,75,44,2," 1st Region All ""A"" Classic  ",0
+2021-01-12,Murray,Ballard Memorial,81,25,1," 1st Region All ""A"" Classic  ",0
+2021-01-12,St. Mary,Carlisle County,69,36,2," 1st Region All ""A"" Classic  ",0
+2021-01-12,Lyon County,University Heights,79,77,1," 2nd Region All ""A"" Classic  ",0
+2021-01-12,Green County,Campbellsville,63,53,0," 5th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-12,Heritage Academy,Dayton,0,0,2," 9th Region All ""A"" Classic COVID Cancelation - RPI per policy ",0
 2021-01-12,Holy Cross (Covington),Newport,77,59,2," 9th Region All ""A"" Classic  ",0
+2021-01-12,Allen County-Scottsville,Logan County,43,42,0,   ,0
+2021-01-12,Barren County,Ohio County,66,62,0,   ,0
+2021-01-12,Beth Haven,Highlands Latin,61,60,0,   ,0
+2021-01-12,Bowling Green,Warren East,76,36,0,   ,0
+2021-01-12,Boyd County,Lewis County,61,52,1,   ,0
+2021-01-12,Buckhorn,Cordia,77,72,0,   ,0
+2021-01-12,Bullitt East,Christian Academy-Louisville,84,76,0,   ,0
 2021-01-12,Butler County,Owensboro Catholic,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-12,Caldwell County,Livingston Central,67,55,1,   ,0
+2021-01-12,Out of State,Cloverport,65,33,1,   ,0
 2021-01-12,Central Hardin,Kentucky Country Day,74,41,1,   ,0
 2021-01-12,Christian County,Hopkinsville,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-12,Collins,Marion County,52,38,1,   ,0
 2021-01-12,Corbin,Knox Central,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-12,Dixie Heights,Conner,70,50,0,   ,0
+2021-01-12,East Carter,Greenup County,57,44,1,   ,0
+2021-01-12,East Jessamine,Scott County,64,53,1,   ,0
 2021-01-12,Eminence,Carroll County,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-12,Estill County,Owsley County,45,34,0,   ,0
+2021-01-12,Franklin County,Shelby County,57,45,0,   ,0
+2021-01-12,Franklin-Simpson,Greenwood,66,62,1,   ,0
+2021-01-12,George Rogers Clark,Bourbon County,90,51,0,   ,0
+2021-01-12,Grant County,Williamstown,0,0,1,  COVID Cancelation-RPI per policy ,0
+2021-01-12,Graves County,Calloway County,53,48,0,   ,0
+2021-01-12,Harlan County,Bell County,77,46,1,   ,0
 2021-01-12,Harrison County,Scott,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-12,Hazard,Powell County,80,38,0,   ,0
+2021-01-12,Henderson County,Union County,79,36,1,   ,0
+2021-01-12,Henry Clay,Tates Creek,73,47,0,   ,0
+2021-01-12,John Hardin,Elizabethtown,68,67,0,   ,0
+2021-01-12,LaRue County,Washington County,53,34,0,   ,0
 2021-01-12,Lee County,Riverside Christian,66,27,0,   ,0
+2021-01-12,Letcher County Central,June Buchanan,69,38,0,   ,0
+2021-01-12,Lexington Catholic,Lafayette,74,59,0,   ,0
+2021-01-12,Lincoln County,Garrard County,82,54,1,   ,0
 2021-01-12,Lloyd Memorial,Cooper,0,0,0,  COVID Cancelation-RPI per policy ,0
+2021-01-12,Madisonville-North Hopkins,Warren Central,54,47,1,   ,0
+2021-01-12,Magoffin County,Floyd Central,89,50,1,   ,0
+2021-01-12,Mason County,Campbell County,71,63,0,   ,0
+2021-01-12,McCracken County,Paducah Tilghman,74,56,1,   ,0
+2021-01-12,Meade County,Daviess County,63,34,1,   ,0
+2021-01-12,Montgomery County,Pendleton County,73,42,1,   ,0
+2021-01-12,Morgan County,Elliott County,37,34,1,   ,0
+2021-01-12,Muhlenberg County,Crittenden County,71,53,0,   ,0
 2021-01-12,Out of State,South Warren,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-12,Out of State,Dawson Springs,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-12,North Hardin,Spencer County,57,56,0,   ,0
+2021-01-12,North Laurel,Covington Catholic,89,87,1,  (overtime) ,1
+2021-01-12,Owen County,Trimble County,75,58,1,   ,0
 2021-01-12,Owensboro,Grayson County,0,0,1,  COVID Cancelation - RPI per policy ,0
+2021-01-12,Paul Laurence Dunbar,Frederick Douglass,75,68,1,   ,0
 2021-01-12,Perry County Central,Breathitt County,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-12,Pineville,Whitley County,56,47,1,   ,0
+2021-01-12,Pulaski County,Casey County,79,65,0,   ,0
+2021-01-12,Rockcastle County,Wayne County,62,53,0,   ,0
+2021-01-12,Ryle,Holmes,51,50,1,   ,0
+2021-01-12,Simon Kenton,Boone County,92,62,1,   ,0
+2021-01-12,South Laurel,Madison Southern,73,61,0,   ,0
+2021-01-12,Southwestern,McCreary Central,52,49,0,   ,0
 2021-01-12,St. Francis,Out of State,0,0,1,  COVID Cancelation-RPI per policy ,0
 2021-01-12,St. Patrick,Bath County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-12,Out of State,Hancock County,58,32,1,   ,0
+2021-01-12,Thomas Nelson,Taylor County,69,58,1,   ,0
+2021-01-12,Trinity (Louisville),DeSales,62,59,1,   ,0
 2021-01-12,Trinity (Whitesville),Out of State,0,0,1,  COVID Cancelation - RPI per policy ,0
+2021-01-12,Webster County,Hopkins County Central,67,57,0,   ,0
 2021-01-12,Out of State,Menifee County,0,0,0,  COVID Cancelation-RPI per policy ,0
+2021-01-12,West Jessamine,Madison Central,75,73,1,  (overtime) ,1
 2021-01-12,Whitefield Academy,Hart County,0,0,0,  COVID Cancelation - RPI per policy ,0
-2021-01-12,Calvary Christian,Robertson County,-,-,2,"8:00 PM 10th Region All ""A"" Classic  ",0
-2021-01-12,Sayre,Berea,-,-,0,"6:15 PM 11th Region All ""A"" Classic  ",0
-2021-01-12,Lexington Christian,Frankfort,-,-,2,"7:00 PM 11th Region All ""A"" Classic  ",0
-2021-01-12,Jackson County,Barbourville,-,-,2," 13th Region All ""A"" Classic  ",0
-2021-01-12,Betsy Layne,Pikeville,-,-,2,"6:00 PM 15th Region All ""A"" Classic  ",0
-2021-01-12,Phelps,East Ridge,-,-,2,"7:30 PM 15th Region All ""A"" Classic  ",0
-2021-01-12,Ballard Memorial,Murray,-,-,0,"6:00 PM 1st Region All ""A"" Classic  ",0
-2021-01-12,Christian Fellowship,Mayfield,-,-,2," 1st Region All ""A"" Classic  ",0
-2021-01-12,Hickman County,Fulton County,-,-,2,"6:00 PM 1st Region All ""A"" Classic  ",0
-2021-01-12,Carlisle County,St. Mary,-,-,2,"6:30 PM 1st Region All ""A"" Classic  ",0
-2021-01-12,University Heights,Lyon County,-,-,0,"7:00 PM 2nd Region All ""A"" Classic  ",0
-2021-01-12,Bethlehem,Out of State,-,-,2," 5th Region All ""A"" Classic - Semis and Finals  ",0
-2021-01-12,Out of State,Campbellsville,-,-,0,"7:30 PM 5th Region All ""A"" Classic - Semis and Finals  ",0
-2021-01-12,Holy Cross (Covington),Out of State,-,-,2,"7:00 PM 9th Region All ""A"" Classic  ",0
-2021-01-12,George Rogers Clark,Bourbon County,-,-,0,7:30 PM   ,0
-2021-01-12,Lewis County,Boyd County,-,-,0,7:30 PM   ,0
-2021-01-12,Livingston Central,Caldwell County,-,-,0,6:00 PM   ,0
-2021-01-12,Graves County,Calloway County,-,-,0,7:30 PM   ,0
-2021-01-12,Mason County,Campbell County,-,-,0,7:30 PM   ,0
-2021-01-12,Cloverport,Out of State,-,-,0,7:30 PM   ,0
-2021-01-12,Pulaski County,Casey County,-,-,0,7:30 PM   ,0
-2021-01-12,Bullitt East,Christian Academy-Louisville,-,-,0,7:30 PM   ,0
-2021-01-12,Dixie Heights,Conner,-,-,0,7:30 PM   ,0
-2021-01-12,Buckhorn,Cordia,-,-,0,7:00 PM   ,0
-2021-01-12,Muhlenberg County,Crittenden County,-,-,0,7:30 PM   ,0
-2021-01-12,Greenup County,East Carter,-,-,0,7:30 PM   ,0
-2021-01-12,Scott County,East Jessamine,-,-,0,7:30 PM   ,0
-2021-01-12,John Hardin,Elizabethtown,-,-,0,7:30 PM   ,0
-2021-01-12,Greenwood,Franklin-Simpson,-,-,0,7:30 PM   ,0
-2021-01-12,Williamstown,Grant County,-,-,0,7:30 PM   ,0
-2021-01-12,Bell County,Harlan County,-,-,0,7:30 PM   ,0
-2021-01-12,Union County,Henderson County,-,-,0,8:00 PM   ,0
-2021-01-12,Beth Haven,Highlands Latin,-,-,0,6:30 PM   ,0
-2021-01-12,Webster County,Hopkins County Central,-,-,0,7:30 PM   ,0
-2021-01-12,Letcher County Central,June Buchanan,-,-,0,7:30 PM   ,0
-2021-01-12,Lexington Catholic,Lafayette,-,-,0,7:30 PM   ,0
-2021-01-12,Garrard County,Lincoln County,-,-,0,7:30 PM   ,0
-2021-01-12,Allen County-Scottsville,Logan County,-,-,0,7:30 PM   ,0
-2021-01-12,South Laurel,Madison Southern,-,-,0,7:30 PM   ,0
-2021-01-12,Warren Central,Madisonville-North Hopkins,-,-,0,7:30 PM   ,0
-2021-01-12,Floyd Central,Magoffin County,-,-,0,7:30 PM   ,0
-2021-01-12,Paducah Tilghman,McCracken County,-,-,0,7:30 PM   ,0
-2021-01-12,Southwestern,McCreary Central,-,-,0,7:30 PM   ,0
-2021-01-12,Daviess County,Meade County,-,-,0,8:00 PM   ,0
-2021-01-12,Pendleton County,Montgomery County,-,-,0,7:30 PM   ,0
-2021-01-12,Elliott County,Morgan County,-,-,0,7:30 PM   ,0
-2021-01-12,Covington Catholic,North Laurel,-,-,0,6:30 PM   ,0
-2021-01-12,Barren County,Ohio County,-,-,0,7:00 PM   ,0
-2021-01-12,Trimble County,Owen County,-,-,0,7:30 PM   ,0
-2021-01-12,Estill County,Owsley County,-,-,0,7:30 PM   ,0
-2021-01-12,Frederick Douglass,Paul Laurence Dunbar,-,-,0,7:45 PM   ,0
-2021-01-12,Whitley County,Pineville,-,-,0,7:30 PM   ,0
-2021-01-12,Holmes,Ryle,-,-,0,7:30 PM   ,0
-2021-01-12,Franklin County,Shelby County,-,-,0,7:30 PM   ,0
-2021-01-12,Boone County,Simon Kenton,-,-,0,7:30 PM   ,0
-2021-01-12,North Hardin,Spencer County,-,-,0,7:30 PM   ,0
-2021-01-12,Henry Clay,Tates Creek,-,-,0,7:30 PM   ,0
-2021-01-12,Taylor County,Thomas Nelson,-,-,0,7:30 PM   ,0
-2021-01-12,DeSales,Trinity (Louisville),-,-,0,7:00 PM   ,0
-2021-01-12,Bowling Green,Warren East,-,-,0,6:00 PM   ,0
-2021-01-12,LaRue County,Washington County,-,-,0,7:30 PM   ,0
-2021-01-12,Rockcastle County,Wayne County,-,-,0,7:30 PM   ,0
-2021-01-12,Madison Central,West Jessamine,-,-,0,7:30 PM   ,0
 2021-01-13,Bath County,Fairview,0,0,1,  COVID Cancelation - RPI per policy ,0
-2021-01-13,Betsy Layne,Out of State,-,-,2,"7:30 PM 15th Region All ""A"" Classic  ",0
 2021-01-13,Caverna,Washington County,-,-,2,"7:00 PM 5th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-13,Villa Madonna,Beechwood,-,-,0,"7:00 PM 9th Region All ""A"" Classic  ",0
 2021-01-13,St. Henry,Newport Central Catholic,-,-,2,"7:30 PM 9th Region All ""A"" Classic  ",0
+2021-01-13,Pikeville,East Ridge,-,-,1,7:30 PM   ,0
 2021-01-13,Knott County Central,Belfry,-,-,0,7:30 PM   ,0
 2021-01-13,Henry County,Gallatin County,-,-,0,7:30 PM   ,0
 2021-01-13,St. Patrick,Lewis County,-,-,0,7:00 PM   ,0
 2021-01-13,Walton-Verona,St. Xavier,-,-,0,7:30 PM   ,0
 2021-01-13,Out of State,Western Hills,-,-,0,6:30 PM   ,0
 2021-01-14,Knox Central,Out of State,0,0,1,  COVID Cancelation - RPI per policy ,0
+2021-01-14,Out of State,Bellevue,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-14,Lewis County,Rowan County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-14,St. Francis,Taylor County,0,0,1,  COVID Cancelation - RPI per policy ,0
-2021-01-14,Model,Out of State,-,-,2,"6:15 PM 11th Region All ""A"" Classic  ",0
+2021-01-14,Model,Sayre,-,-,2,"6:15 PM 11th Region All ""A"" Classic  ",0
+2021-01-14,Lexington Christian,Trinity Christian,-,-,2,"8:00 PM 11th Region All ""A"" Classic  ",0
 2021-01-14,Trinity Christian,Out of State,-,-,2,"8:00 PM 11th Region All ""A"" Classic  ",0
 2021-01-14,Danville,Out of State,-,-,2,"7:30 PM 12th Region All ""A"" Classic  ",0
-2021-01-14,Raceland,Out of State,-,-,2,"7:00 PM 16th Region All ""A"" Classic  ",0
 2021-01-14,Out of State,West Carter,-,-,0,"7:00 PM 16th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-14,Clinton County,Monroe County,-,-,2,"6:00 PM 4th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-14,Glasgow,Metcalfe County,-,-,0,"8:00 PM 4th Region All ""A"" Classic - Semis and Finals  ",0
@@ -461,13 +460,11 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-14,Beth Haven,Portland Christian,-,-,2,"6:30 PM 6th Region All ""A"" Classic  ",0
 2021-01-14,Ashland Blazer,Bardstown,-,-,0,8:00 PM   ,0
 2021-01-14,Corbin,Bell County,-,-,0,7:30 PM   ,0
-2021-01-14,Out of State,Bellevue,-,-,0,7:30 PM   ,0
 2021-01-14,Hazard,Buckhorn,-,-,0,7:30 PM   ,0
 2021-01-14,Trinity (Louisville),Christian Academy-Louisville,-,-,0,7:30 PM   ,0
 2021-01-14,Leslie County,Clay County,-,-,0,6:00 PM   ,0
 2021-01-14,June Buchanan,Cordia,-,-,0,7:00 PM   ,0
 2021-01-14,Morgan County,East Carter,-,-,0,7:30 PM   ,0
-2021-01-14,Pike County Central,East Ridge,-,-,0,7:30 PM   ,0
 2021-01-14,Wolfe County,Estill County,-,-,0,7:00 PM   ,0
 2021-01-14,Elliott County,Floyd Central,-,-,0,7:30 PM   ,0
 2021-01-14,Adair County,Foundation Christian Academy,-,-,0,7:30 PM    ,0
@@ -479,11 +476,12 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-14,Harlan County,Lafayette,-,-,0,7:30 PM   ,0
 2021-01-14,Paul Laurence Dunbar,Madison Central,-,-,0,7:30 PM   ,0
 2021-01-14,Henry Clay,Madison Southern,-,-,0,8:00 PM   ,0
+2021-01-14,Pike County Central,Martin County,-,-,0,7:30 PM   ,0
 2021-01-14,Breckinridge County,Nelson County,-,-,0,6:30 PM   ,0
 2021-01-14,Campbell County,Pendleton County,-,-,0,7:30 PM   ,0
 2021-01-14,Bracken County,Raceland,-,-,0,7:30 PM   ,0
-2021-01-14,Bracken County,Raceland,-,-,0,7:30 PM   ,0
 2021-01-14,Out of State,Riverside Christian,-,-,0,6:30 PM   ,0
+2021-01-14,Lawrence County,Rose Hill Christian,-,-,0,7:30 PM   ,0
 2021-01-14,Russell,St. Patrick,-,-,0,6:30 PM   ,0
 2021-01-14,Out of State,Union County,-,-,0,7:30 PM   ,0
 2021-01-14,North Bullitt,Walden,-,-,0,6:30 PM   ,0
@@ -501,14 +499,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-15,Henderson County,Hopkinsville,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-15,Lafayette,Bryan Station,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-15,Out of State,Scott,0,0,1,  COVID Cancelation - RPI per policy ,0
-2021-01-15,Out of State,Carroll County,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-15,Out of State,Cooper,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-15,Out of State,Mercer County,0,0,1,  COVID Cancelation - RPI per policy ,0
+2021-01-15,Out of State,Carroll County,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-15,Owensboro,Daviess County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-15,St. Francis,Louisville Collegiate,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-15,Danville,Out of State,-,-,2,"7:30 PM 12th Region All ""A"" Classic  ",0
-2021-01-15,Betsy Layne,Out of State,-,-,2,"7:30 PM 15th Region All ""A"" Classic  ",0
 2021-01-15,Out of State,Mayfield,-,-,0," 1st Region All ""A"" Classic - Semis and Finals  ",0
+2021-01-15,Hickman County,Murray,-,-,2,"6:00 PM 1st Region All ""A"" Classic - Semis and Finals  ",0
+2021-01-15,St. Mary,Mayfield,-,-,0,"7:30 PM 1st Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-15,Bethlehem,Out of State,-,-,2," 5th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-15,Washington County,Out of State,-,-,2,"7:30 PM 5th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-15,Lexington Catholic,Out of State,-,-,2, Kentucky 2A State Championship  ,0
@@ -545,18 +544,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-15,Hopkins County Central,Madisonville-North Hopkins,-,-,0,7:30 PM   ,0
 2021-01-15,Elizabethtown,Marion County,-,-,0,7:30 PM   ,0
 2021-01-15,Pendleton County,Mason County,-,-,0,7:30 PM   ,0
-2021-01-15,Somerset,McCreary Central,-,-,0,7:30 PM   ,0
 2021-01-15,Hancock County,Meade County,-,-,0,7:00 PM   ,0
 2021-01-15,Barbourville,Middlesboro,-,-,0,7:30 PM   ,0
 2021-01-15,Henry Clay,Nicholas County,-,-,0,7:30 PM   ,0
 2021-01-15,Bullitt Central,North Bullitt,-,-,0,7:30 PM   ,0
 2021-01-15,John Hardin,North Hardin,-,-,0,7:30 PM   ,0
 2021-01-15,Muhlenberg County,Ohio County,-,-,0,7:00 PM   ,0
-2021-01-15,Lyon County,Owensboro Catholic,-,-,0,7:00 PM   ,0
 2021-01-15,Belfry,Phelps,-,-,0,7:30 PM   ,0
 2021-01-15,Williamstown,Powell County,-,-,0,7:30 PM   ,0
 2021-01-15,Menifee County,Prestonsburg,-,-,0,7:30 PM   ,0
-2021-01-15,Lawrence County,Rose Hill Christian,-,-,0,7:30 PM   ,0
 2021-01-15,Pulaski County,Russell County,-,-,0,6:30 PM   ,0
 2021-01-15,Todd County Central,Russellville,-,-,0,7:45 PM   ,0
 2021-01-15,Lloyd Memorial,Ryle,-,-,0,7:30 PM   ,0
@@ -575,17 +571,21 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-15,Apollo,Webster County,-,-,0,7:30 PM   ,0
 2021-01-15,Frankfort,Western Hills,-,-,0,6:00 PM   ,0
 2021-01-15,South Laurel,Whitley County,-,-,0,7:30 PM   ,0
+2021-01-16,Bellevue,Ludlow,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Boone County,Dayton,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-16,Corbin,Knox Central,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Out of State,Christian County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Out of State,Christian County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Frankfort Christian,Out of State,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Livingston Central,Dawson Springs,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Out of State,Hopkinsville,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-16,Out of State,Covington Catholic,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-16,West Carter,Rowan County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-16,Trinity Christian,Out of State,-,-,2,"4:00 PM 11th Region All ""A"" Classic  ",0
+2021-01-16,Harlan,Barbourville,-,-,2,"7:00 PM 13th Region All ""A"" Classic  ",0
 2021-01-16,Out of State,Mayfield,-,-,0," 1st Region All ""A"" Classic - Semis and Finals  ",0
-2021-01-16,Holy Cross (Louisville),Out of State,-,-,2," 6th Region All ""A"" Classic  ",0
 2021-01-16,Beth Haven,Out of State,-,-,2," 6th Region All ""A"" Classic  ",0
+2021-01-16,Holy Cross (Louisville),Out of State,-,-,2," 6th Region All ""A"" Classic  ",0
 2021-01-16,Trinity (Whitesville),Cloverport,-,-,2, Agrigold Winter Classic  ,0
 2021-01-16,McLean County,Foundation Christian Academy,-,-,2, Agrigold Winter Classic  ,0
 2021-01-16,McLean County,Union County,-,-,2, Agrigold Winter Classic  ,0
@@ -604,9 +604,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-16,Paul Laurence Dunbar,Bowling Green,-,-,0,2:00 PM   ,0
 2021-01-16,Tates Creek,Bracken County,-,-,0,7:30 PM   ,0
 2021-01-16,John Hardin,Bullitt East,-,-,0,5:00 PM   ,0
+2021-01-16,Prestonsburg,Burgin,-,-,0,5:30 PM   ,0
 2021-01-16,Thomas Nelson,Community Christian (Paducah),-,-,0,12:00 PM   ,0
 2021-01-16,Grant County,Conner,-,-,0,1:30 PM   ,0
-2021-01-16,Out of State,Covington Catholic,-,-,0,3:30 PM   ,0
 2021-01-16,Lincoln County,Danville Christian,-,-,0,7:30 PM   ,0
 2021-01-16,Christian Academy-Louisville,DeSales,-,-,0,7:30 PM   ,0
 2021-01-16,Villa Madonna,Dixie Heights,-,-,0,5:00 PM   ,0
@@ -621,12 +621,9 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-16,Out of State,Jackson City,-,-,0,3:00 PM   ,0
 2021-01-16,Floyd Central,Johnson Central,-,-,0,7:30 PM   ,0
 2021-01-16,Casey County,June Buchanan,-,-,0,4:00 PM   ,0
-2021-01-16,Corbin,Knox Central,-,-,0,2:30 PM   ,0
 2021-01-16,Fulton City,Out of State,-,-,0,7:30 PM   ,0
 2021-01-16,Powell County,Leslie County,-,-,0,7:30 PM   ,0
 2021-01-16,Holmes,Lexington Catholic,-,-,0,2:30 PM   ,0
-2021-01-16,Bellevue,Ludlow,-,-,0,2:00 PM   ,0
-2021-01-16,Lyon County,Madisonville-North Hopkins,-,-,0,7:30 PM   ,0
 2021-01-16,Louisville Collegiate,Marion County,-,-,0,3:00 PM   ,0
 2021-01-16,Augusta,Mason County,-,-,0,7:30 PM   ,0
 2021-01-16,Lee County,Menifee County,-,-,0,7:30 PM   ,0
@@ -638,7 +635,6 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-16,Sayre,Paris,-,-,0,7:30 PM   ,0
 2021-01-16,Hazard,Perry County Central,-,-,0,7:30 PM   ,0
 2021-01-16,Betsy Layne,Phelps,-,-,0,7:30 PM   ,0
-2021-01-16,Burgin,Prestonsburg,-,-,0,5:30 PM   ,0
 2021-01-16,Model,Robertson County,-,-,0,7:30 PM   ,0
 2021-01-16,Fairview,Rose Hill Christian,-,-,0,3:00 PM   ,0
 2021-01-16,Lewis County,Russell,-,-,0,7:30 PM   ,0
@@ -653,6 +649,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-17,Highlands,Lexington Catholic,-,-,0,   ,0
 2021-01-18,Christian County,University Heights,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-18,Frankfort Christian,Franklin County,0,0,1,  COVID Cancelation - RPI per policy ,0
+2021-01-18,Heritage Academy,Bellevue,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-18,Scott County,Bryan Station,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-18,Villa Madonna,Dayton,0,0,0,  COVID Cancelation - RPI per policy ,0
 2021-01-18,Madison Central,Belfry,-,-,2,3:00 PM Sayre School-Jim Lankster Classic.  ,0
@@ -670,7 +667,6 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-18,Bracken County,Harrison County,-,-,0,7:30 PM   ,0
 2021-01-18,Cordia,Hazard,-,-,0,7:30 PM   ,0
 2021-01-18,Frederick Douglass,Henry Clay,-,-,0,7:30 PM   ,0
-2021-01-18,Bellevue,Heritage Academy,-,-,0,7:30 PM   ,0
 2021-01-18,Knott County Central,June Buchanan,-,-,0,7:00 PM   ,0
 2021-01-18,Lynn Camp,Knox Central,-,-,0,7:30 PM   ,0
 2021-01-18,East Carter,Lewis County,-,-,0,7:30 PM   ,0
@@ -693,6 +689,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-19,Burgin,Mercer County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-19,Out of State,Henderson County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-19,Madisonville-North Hopkins,Dawson Springs,0,0,0,  COVID Cancelation - RPI per policy ,0
+2021-01-19,Raceland,West Carter,-,-,0,"7:00 PM 16th Region All ""A"" Classic - Semis and Finals  ",0
 2021-01-19,Franklin County,Frankfort,-,-,1,7:30 PM   ,0
 2021-01-19,Lexington Christian,Anderson County,-,-,0,7:30 PM   ,0
 2021-01-19,Grayson County,Apollo,-,-,0,7:00 PM   ,0
@@ -761,7 +758,6 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-19,Lee County,Owsley County,-,-,0,8:00 PM   ,0
 2021-01-19,St. Francis,Portland Christian,-,-,0,7:00 PM   ,0
 2021-01-19,Somerset,Pulaski County,-,-,0,7:30 PM   ,0
-2021-01-19,Russell,Raceland,-,-,0,7:30 PM   ,0
 2021-01-19,June Buchanan,Riverside Christian,-,-,0,6:00 PM   ,0
 2021-01-19,Caldwell County,Russellville,-,-,0,7:30 PM   ,0
 2021-01-19,Pikeville,Shelby Valley,-,-,0,6:00 PM   ,0
@@ -827,6 +823,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-21,Frankfort,Somerset Christian School,-,-,0,6:00 PM   ,0
 2021-01-21,Bishop Brossart,St. Henry,-,-,0,7:30 PM   ,0
 2021-01-21,Caldwell County,Trigg County,-,-,0,7:30 PM   ,0
+2021-01-21,Out of State,Trinity Christian,-,-,0,7:30 PM   ,0
 2021-01-22,Christian County,Out of State,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-22,West Jessamine,Mercer County,0,0,1,  COVID Cancelation - RPI per policy ,0
 2021-01-22,Highlands Latin,Out of State,-,-,2,"6:00 PM 7th Region All ""A"" Classic  ",0
@@ -975,7 +972,6 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-23,Whitley County,Lynn Camp,-,-,0,3:00 PM   ,0
 2021-01-23,Belfry,Magoffin County,-,-,0,7:30 PM   ,0
 2021-01-23,Paintsville,Martin County,-,-,0,7:30 PM   ,0
-2021-01-23,Newport,Mason County,-,-,0,6:00 PM   ,0
 2021-01-23,Mayfield,McCracken County,-,-,0,7:30 PM   ,0
 2021-01-23,Cumberland County,McCreary Central,-,-,0,4:00 PM   ,0
 2021-01-23,Raceland,Menifee County,-,-,0,2:30 PM   ,0
@@ -1108,6 +1104,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-26,Clay County,Perry County Central,-,-,0,7:30 PM   ,0
 2021-01-26,Johnson Central,Pikeville,-,-,0,7:30 PM   ,0
 2021-01-26,Martin County,Prestonsburg,-,-,0,7:30 PM   ,0
+2021-01-26,Russell,Raceland,-,-,0,7:30 PM   ,0
 2021-01-26,Somerset Christian School,Russell County,-,-,0,7:30 PM   ,0
 2021-01-26,Highlands,Scott,-,-,0,6:00 PM   ,0
 2021-01-26,Oldham County,Scott County,-,-,0,7:30 PM   ,0
@@ -1263,10 +1260,10 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-01-30,Western Hills,Tates Creek,-,-,2, Gary Moore Classic  ,0
 2021-01-30,Nicholas County,Pineville,-,-,2,1:00 PM Gary Moore Classic  ,0
 2021-01-30,Carroll County,Franklin County,-,-,0,3:00 PM Gary Moore Classic  ,0
-2021-01-30,Danville Christian,Out of State,-,-,2, KCAC Tournament  ,0
 2021-01-30,Highlands Latin,Out of State,-,-,2, KCAC Tournament  ,0
 2021-01-30,Highlands Latin,Out of State,-,-,2, KCAC Tournament  ,0
 2021-01-30,Out of State,Portland Christian,-,-,0, KCAC Tournament  ,0
+2021-01-30,Danville Christian,Out of State,-,-,2, KCAC Tournament  ,0
 2021-01-30,Ohio County,John Hardin,-,-,0,5:30 PM Nathan McCurry Classic  ,0
 2021-01-30,Out of State,Bell County,-,-,0,3:00 PM Pride of the Mountains Basketball Showcase  ,0
 2021-01-30,Middlesboro,South Laurel,-,-,2,5:00 PM Pride of the Mountains Basketball Showcase  ,0
@@ -1360,6 +1357,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-02-01,Warren Central,Hopkinsville,-,-,0,7:30 PM   ,0
 2021-02-01,Greenup County,Lawrence County,-,-,0,7:30 PM   ,0
 2021-02-01,Breathitt County,Leslie County,-,-,0,7:30 PM   ,0
+2021-02-01,Boyle County,Lincoln County,-,-,0,7:30 PM   ,0
 2021-02-01,Carlisle County,Livingston Central,-,-,0,7:30 PM   ,0
 2021-02-01,Model,Madison Central,-,-,0,7:30 PM   ,0
 2021-02-01,Calloway County,McCracken County,-,-,0,7:30 PM   ,0
@@ -1698,7 +1696,6 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-02-06,Perry County Central,Pike County Central,-,-,0,7:30 PM   ,0
 2021-02-06,East Ridge,Pikeville,-,-,0,7:30 PM   ,0
 2021-02-06,Fleming County,Powell County,-,-,0,2:30 PM   ,0
-2021-02-06,Out of State,Prestonsburg,-,-,0,   ,0
 2021-02-06,Walton-Verona,Ryle,-,-,0,2:00 PM   ,0
 2021-02-06,Brown,Shawnee,-,-,0,6:00 PM   ,0
 2021-02-06,Collins,Shelby County,-,-,0,2:30 PM   ,0
@@ -2280,8 +2277,8 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-02-19,McLean County,Out of State,-,-,2,5:15 PM Independence Bank Classic  ,0
 2021-02-19,Meade County,Muhlenberg County,-,-,2,6:30 PM Independence Bank Classic  ,0
 2021-02-19,Butler County,Daviess County,-,-,2,8:15 PM Independence Bank Classic  ,0
-2021-02-19,Whitefield Academy,Out of State,-,-,2, Louisville Christmas Classic  ,0
 2021-02-19,Shawnee,Out of State,-,-,2, Louisville Christmas Classic  ,0
+2021-02-19,Whitefield Academy,Out of State,-,-,2, Louisville Christmas Classic  ,0
 2021-02-19,North Bullitt,Out of State,-,-,2, Louisville Christmas Classic  ,0
 2021-02-19,Out of State,Highlands Latin,-,-,0,7:30 PM Louisville Christmas Classic  ,0
 2021-02-19,Marion County,Ballard,-,-,2,5:30 PM Marshall County Hoopfest  ,0
@@ -2367,7 +2364,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-02-19,Southern,Western,-,-,0,7:30 PM   ,0
 2021-02-19,Foundation Christian Academy,Williamsburg,-,-,0,7:30 PM   ,0
 2021-02-20,Daviess County,Lyon County,-,-,2,7:00 PM Agrigold Winter Classic  ,0
-2021-02-20,Russellville,Hancock County,-,-,2,5:00 PM Beef O\xc3\xa2\xe2\x82\xac\xe2\x84\xa2Brady\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s/Danny Annis Memorial Tournament  ,0
+2021-02-20,Russellville,Hancock County,-,-,2,5:00 PM Beef O\xe2\x80\x99Brady\xe2\x80\x99s/Danny Annis Memorial Tournament  ,0
 2021-02-20,McLean County,Edmonson County,-,-,2, Independence Bank Classic  ,0
 2021-02-20,Barren County,Apollo,-,-,2,3:45 PM Independence Bank Classic  ,0
 2021-02-20,McLean County,Out of State,-,-,2,7:00 PM Independence Bank Classic  ,0
@@ -2558,6 +2555,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-02-23,Iroquois,Holy Cross (Louisville),-,-,0,7:30 PM   ,0
 2021-02-23,Bowling Green,Hopkinsville,-,-,0,7:30 PM   ,0
 2021-02-23,Whitefield Academy,Kentucky Country Day,-,-,0,5:30 PM   ,0
+2021-02-23,Bryan Station,Knox Central,-,-,0,7:30 PM   ,0
 2021-02-23,Bethlehem,LaRue County,-,-,0,7:30 PM   ,0
 2021-02-23,Henry Clay,Lafayette,-,-,0,7:00 PM   ,0
 2021-02-23,Cordia,Leslie County,-,-,0,7:30 PM   ,0
@@ -2822,15 +2820,15 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-02-27,Evangel Christian,Woodford County,-,-,0,7:30 PM   ,0
 2021-03-01,Dayton,Out of State,-,-,2, NKAC Classic  ,0
 2021-03-01,Calvary Christian,Out of State,-,-,2,7:00 PM NKAC Classic  ,0
-2021-03-01,Villa Madonna,Out of State,-,-,2,7:00 PM NKAC Classic  ,0
 2021-03-01,Ludlow,Out of State,-,-,2,7:00 PM NKAC Classic  ,0
-2021-03-01,Pleasure Ridge Park,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
-2021-03-01,Iroquois,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
-2021-03-01,DuPont Manual,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
-2021-03-01,Trinity (Louisville),Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
+2021-03-01,Villa Madonna,Out of State,-,-,2,7:00 PM NKAC Classic  ,0
 2021-03-01,Bullitt East,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
-2021-03-01,Holy Cross (Louisville),Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
+2021-03-01,DuPont Manual,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
 2021-03-01,Christian Academy-Louisville,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
+2021-03-01,Pleasure Ridge Park,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
+2021-03-01,Holy Cross (Louisville),Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
+2021-03-01,Trinity (Louisville),Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
+2021-03-01,Iroquois,Out of State,-,-,2, Republic Bank Louisville Invitational Tournament  ,0
 2021-03-01,Out of State,Barbourville,-,-,0,7:30 PM   ,0
 2021-03-01,Out of State,Bellevue,-,-,0,7:00 PM   ,0
 2021-03-01,Evangel Christian,Bowling Green,-,-,0,7:30 PM   ,0
@@ -3259,6 +3257,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-03-11,Lynn Camp,Burgin,-,-,0,7:30 PM   ,0
 2021-03-11,Metcalfe County,Campbellsville,-,-,0,7:30 PM   ,0
 2021-03-11,Washington County,Casey County,-,-,0,7:30 PM   ,0
+2021-03-11,Valley,Central,-,-,0,7:30 PM   ,0
 2021-03-11,South Oldham,Central Hardin,-,-,0,7:30 PM   ,0
 2021-03-11,Knox Central,Clay County,-,-,0,7:30 PM   ,0
 2021-03-11,Beth Haven,Cloverport,-,-,0,7:30 PM   ,0
@@ -3286,6 +3285,7 @@ date,win_team,lose_team,win_score,lose_score,location,date_comments,overtime
 2021-03-11,Meade County,Owensboro Catholic,-,-,0,7:00 PM   ,0
 2021-03-11,Buckhorn,Owsley County,-,-,0,7:30 PM   ,0
 2021-03-11,Shelby Valley,Pike County Central,-,-,0,7:30 PM   ,0
+2021-03-11,Doss,Pleasure Ridge Park,-,-,0,7:30 PM   ,0
 2021-03-11,Clinton County,Pulaski County,-,-,0,8:00 PM   ,0
 2021-03-11,Nicholas County,Rowan County,-,-,0,7:30 PM   ,0
 2021-03-11,South Laurel,Russell County,-,-,0,7:30 PM   ,0
