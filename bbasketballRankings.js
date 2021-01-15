@@ -3,7 +3,10 @@ var csv_end = ".csv"
 var year; 
 var myarray = []; 
 var button_list = [] 
-for (year = 2020; year>=2000; year--){
+
+latest_year = 2020
+
+for (year = latest_year; year>=2000; year--){
 
   var btn = document.createElement("BUTTON");   // Create a <button> element
   btn.setAttribute("id", "button" + year.toString())

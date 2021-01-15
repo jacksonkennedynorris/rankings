@@ -1,5 +1,12 @@
 function [Games, Teams] = loading_data(year,sport) 
+% This function takes the game infos and calculates the structs for Games
+% and Teams. It also calculates the records and removes all teams that do
+% not have a sufficient number of games. 
 
+%% ### How many in-state games that ARE NOT forfeits should we consider?
+min_games = 1; % Change this number to increase/decrease minimum number of games required for a rating. 
+
+%% 
 info_file = pwd + "/" + sport + "/Data/" + num2str(year) + "/game_infos/game_infos";
 
 game_data = readtable(info_file);
@@ -86,7 +93,6 @@ end
 
 
 %% Remove teams with fewer than x games played 
-min_games = 1; % Change this number to increase/decrease minimum number of games required for a rating. 
 for team = length(Teams):-1:1
     if Teams(team).games_played < min_games
         disp(" ")
