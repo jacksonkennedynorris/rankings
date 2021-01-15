@@ -2,10 +2,13 @@ var my_string = "football/teams_"
 var csv_end = ".csv"
 var year; 
 var myarray = []; 
-
+// If you want to show the massey, colley, and elo, change this to "true" 
 showcase_individual_rankings = false;
+// Write the year of the latest year that you want rankings to be shown. 
+var latest_year = 2020;
+
 var button_list = [] 
-for (year = 2020; year>=2000; year--){
+for (year = latest_year; year>=2000; year--){
 
   var btn = document.createElement("BUTTON");   // Create a <button> element
   btn.setAttribute("id", "button" + year.toString())
@@ -114,6 +117,7 @@ var useData = function(data,year,showcase_individual_rankings){
     row.append('td')
     .text(function(d,i){return d.losses})
     .attr('class','losses')
+    
     if (showcase_individual_rankings){
     row.append('td')
     .text(function(d,i){return d.massey})
