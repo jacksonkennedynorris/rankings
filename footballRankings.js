@@ -3,6 +3,7 @@ var csv_end = ".csv"
 var year; 
 var myarray = []; 
 
+showcase_individual_rankings = false;
 var button_list = [] 
 for (year = 2020; year>=2000; year--){
 
@@ -25,7 +26,7 @@ for (i = 0; i<button_list.length; i++){
       for (j = 0; j<myarray.length; j++)
       {
         if (myarray[j].year == this.innerHTML){
-          push_to_function(myarray[j],false)
+          push_to_function(myarray[j],false,showcase_individual_rankings)
         }
       }
     });
@@ -34,19 +35,19 @@ var end = myarray[0]
 push_to_function(end,true)
 
 // This function pushes to the use data function 
-function push_to_function(year_dict,is_first_year) {
+function push_to_function(year_dict,is_first_year,showcase_individual_rankings) {
   if (!is_first_year){
       d3.select('h2').remove()
       d3.select('totalTable').remove()
   }
   var promise = year_dict.promise
   var year = year_dict.year
-  promise.then(function(data){useData(data,year)})
+  promise.then(function(data){useData(data,year,showcase_individual_rankings)})
 
 }
 
 
-var useData = function(data,year){
+var useData = function(data,year,showcase_individual_rankings){
 
     width = 500;
     height = 1000;
@@ -58,8 +59,10 @@ var useData = function(data,year){
     document.getElementById("tableDiv").appendChild(create_table)
 
   var myTab = d3.select('totalTable')
-
-  var tableNames = ["Ranking","Name",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
+  var tableNames = ["Ranking","Name (Class)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses"]; 
+  if (showcase_individual_rankings){
+    tableNames = ["Ranking","Name (Class)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
+  }
 
   var header = myTab.append('thead')
     .selectAll('th')
@@ -111,6 +114,7 @@ var useData = function(data,year){
     row.append('td')
     .text(function(d,i){return d.losses})
     .attr('class','losses')
+    if (showcase_individual_rankings){
     row.append('td')
     .text(function(d,i){return d.massey})
     .attr('class','massey')
@@ -119,6 +123,6 @@ var useData = function(data,year){
     .attr('class','colley')
     row.append('td')
     .text(function(d,i){return d.elo})
-    .attr('class','elo')
+    .attr('class','elo')}
 
 }

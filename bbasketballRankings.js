@@ -5,6 +5,7 @@ var myarray = [];
 var button_list = [] 
 
 latest_year = 2020
+showcase_individual_rankings = false 
 
 for (year = latest_year; year>=2000; year--){
 
@@ -46,19 +47,19 @@ var end = myarray[0]
 push_to_function(end,true)
 
 // This function pushes to the use data function 
-function push_to_function(year_dict,is_first_year) {
+function push_to_function(year_dict,is_first_year,showcase_individual_rankings) {
   if (!is_first_year){
       d3.select('h2').remove()
       d3.select('totalTable').remove()
   }
   var promise = year_dict.promise
   var year = year_dict.year
-  promise.then(function(data){useData(data,year)})
+  promise.then(function(data){useData(data,year,showcase_individual_rankings)})
 
 }
 
 
-var useData = function(data,year){
+var useData = function(data,year,showcase_individual_rankings){
 
     width = 500;
     height = 1000;
@@ -79,8 +80,10 @@ var useData = function(data,year){
 
   var myTab = d3.select('totalTable')
 
-  var tableNames = ["Ranking","Name (Class)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
-
+  var tableNames = ["Ranking","Name (Class)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses"]; 
+  if (showcase_individual_rankings){
+    tableNames = ["Ranking","Name (Class)",/*"Region",*/"Rating",/*"Record"*/"Wins","Losses","Massey","Colley","Elo"];
+  }
   var header = myTab.append('thead')
     .selectAll('th')
     .data(tableNames)
@@ -139,15 +142,16 @@ var useData = function(data,year){
     row.append('td')
     .text(function(d,i){return d.losses})
     .attr('class','losses')
-    row.append('td')
-    .text(function(d,i){return d.massey})
-    .attr('class','massey')
-    row.append('td')
-    .text(function(d,i){return d.colley})
-    .attr('class','colley')
-    row.append('td')
-    .text(function(d,i){return d.elo})
-    .attr('class','elo')
+    if (showcase_individual_rankings){
+      row.append('td')
+      .text(function(d,i){return d.massey})
+      .attr('class','massey')
+      row.append('td')
+      .text(function(d,i){return d.colley})
+      .attr('class','colley')
+      row.append('td')
+      .text(function(d,i){return d.elo})
+      .attr('class','elo')}
 
 }
 
