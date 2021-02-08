@@ -4,7 +4,7 @@ function [Games, Teams] = loading_data(year,sport)
 % not have a sufficient number of games. 
 
 %% ### How many in-state games that ARE NOT forfeits should we consider?
-min_games = 1; % Change this number to increase/decrease minimum number of games required for a rating. 
+min_games = 0; % Change this number to increase/decrease minimum number of games required for a rating. 
 
 %% 
 info_file = pwd + "/" + sport + "/Data/" + num2str(year) + "/game_infos/game_infos";
